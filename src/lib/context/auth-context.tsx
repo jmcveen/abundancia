@@ -3,6 +3,7 @@
 import { createContext, useContext, useState, useCallback, type ReactNode } from 'react'
 
 const AUTH_PASSWORD = 'SXSW2026'
+const ADMIN_PIN = '8888'
 
 interface AuthUser {
   name: string
@@ -13,6 +14,7 @@ interface AuthContextValue {
   user: AuthUser | null
   isAuthenticated: boolean
   login: (name: string, email: string, password: string) => boolean
+  quickUnlock: (pin: string) => boolean
   logout: () => void
 }
 
@@ -20,6 +22,7 @@ const AuthContext = createContext<AuthContextValue>({
   user: null,
   isAuthenticated: false,
   login: () => false,
+  quickUnlock: () => false,
   logout: () => {},
 })
 
@@ -43,6 +46,17 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     return true
   }, [])
 
+  const quickUnlock = useCallback((pin: string): boolean => {
+    if (pin !== ADMIN_PIN) return false
+
+    const adminUser = { name: 'Admin', email: 'admin@abundancia.life' }
+    setUser(adminUser)
+    if (typeof window !== 'undefined') {
+      sessionStorage.setItem('auth_user', JSON.stringify(adminUser))
+    }
+    return true
+  }, [])
+
   const logout = useCallback(() => {
     setUser(null)
     if (typeof window !== 'undefined') {
@@ -52,7 +66,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   }, [])
 
   return (
-    <AuthContext.Provider value={{ user, isAuthenticated, login, logout }}>
+    <AuthContext.Provider value={{ user, isAuthenticated, login, quickUnlock, logout }}>
       {children}
     </AuthContext.Provider>
   )

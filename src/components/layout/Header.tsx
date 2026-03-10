@@ -1,10 +1,11 @@
 'use client'
 
-import { useState, useEffect, useRef } from 'react'
+import { useState, useEffect, useRef, useCallback } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Menu, X, ChevronDown, Lock, Leaf } from 'lucide-react'
+import { useAuth } from '@/lib/context/auth-context'
 
 interface NavLink {
   name: string
@@ -66,8 +67,46 @@ export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null)
   const [expandedMobileSections, setExpandedMobileSections] = useState<Set<string>>(new Set(['Story']))
+  const [showPinModal, setShowPinModal] = useState(false)
+  const [pin, setPin] = useState('')
+  const [pinError, setPinError] = useState(false)
+  const [pinSuccess, setPinSuccess] = useState(false)
   const timeoutRef = useRef<NodeJS.Timeout | null>(null)
+  const tapCountRef = useRef(0)
+  const tapTimerRef = useRef<NodeJS.Timeout | null>(null)
   const pathname = usePathname()
+  const { isAuthenticated, quickUnlock } = useAuth()
+
+  const handleLogoTap = useCallback(() => {
+    if (isAuthenticated) return
+    tapCountRef.current += 1
+    if (tapTimerRef.current) clearTimeout(tapTimerRef.current)
+    if (tapCountRef.current >= 3) {
+      tapCountRef.current = 0
+      setShowPinModal(true)
+      setPin('')
+      setPinError(false)
+      setPinSuccess(false)
+    } else {
+      tapTimerRef.current = setTimeout(() => {
+        tapCountRef.current = 0
+      }, 600)
+    }
+  }, [isAuthenticated])
+
+  const handlePinSubmit = useCallback(() => {
+    if (quickUnlock(pin)) {
+      setPinSuccess(true)
+      setTimeout(() => {
+        setShowPinModal(false)
+        setPinSuccess(false)
+      }, 800)
+    } else {
+      setPinError(true)
+      setPin('')
+      setTimeout(() => setPinError(false), 1500)
+    }
+  }, [pin, quickUnlock])
 
   const toggleMobileSection = (title: string) => {
     setExpandedMobileSections(prev =>
@@ -124,20 +163,24 @@ export function Header() {
           transition-all duration-500
           ${isScrolled ? 'bg-white/90 shadow-xl shadow-neutral-900/10' : ''}
         `}>
-          {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 sm:gap-3 group">
-            <div className="w-8 h-8 sm:w-9 sm:h-9 rounded-xl bg-primary-800 flex items-center justify-center group-hover:bg-primary-700 transition-colors">
+          {/* Logo — triple-tap the icon to unlock admin access */}
+          <div className="flex items-center gap-2 sm:gap-3 group">
+            <button
+              onClick={handleLogoTap}
+              className="w-8 h-8 sm:w-9 sm:h-9 rounded-xl bg-primary-800 flex items-center justify-center group-hover:bg-primary-700 transition-colors"
+              aria-label="Home"
+            >
               <Leaf className="w-4 h-4 sm:w-5 sm:h-5 text-white" />
-            </div>
-            <div className="flex flex-col">
+            </button>
+            <Link href="/" className="flex flex-col">
               <span className="font-heading text-sm sm:text-base font-bold text-neutral-900 leading-tight">
                 Abundancia
               </span>
               <span className="text-[10px] sm:text-xs text-neutral-500 font-accent leading-tight hidden sm:block">
                 Austin, TX
               </span>
-            </div>
-          </Link>
+            </Link>
+          </div>
 
           {/* Desktop Navigation */}
           <div className="hidden lg:flex items-center gap-1">
@@ -286,6 +329,70 @@ export function Header() {
               </div>
             </motion.div>
           </motion.div>
+        )}
+      </AnimatePresence>
+
+      {/* Hidden PIN Modal */}
+      <AnimatePresence>
+        {showPinModal && (
+          <div className="fixed inset-0 z-[70] flex items-center justify-center p-4">
+            <motion.div
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              className="absolute inset-0 bg-primary-950/40 backdrop-blur-sm"
+              onClick={() => setShowPinModal(false)}
+            />
+            <motion.div
+              initial={{ opacity: 0, scale: 0.95, y: 12 }}
+              animate={{ opacity: 1, scale: 1, y: 0 }}
+              exit={{ opacity: 0, scale: 0.95, y: 12 }}
+              transition={{ duration: 0.25, ease: [0.16, 1, 0.3, 1] }}
+              className="relative w-full max-w-xs bg-white rounded-2xl shadow-2xl border border-neutral-100 p-6"
+            >
+              <div className="text-center mb-6">
+                <div className={`w-12 h-12 rounded-xl mx-auto mb-4 flex items-center justify-center transition-colors duration-300 ${
+                  pinSuccess ? 'bg-success-50' : pinError ? 'bg-error-50' : 'bg-primary-50'
+                }`}>
+                  <Leaf className={`w-6 h-6 transition-colors duration-300 ${
+                    pinSuccess ? 'text-success-600' : pinError ? 'text-error-600' : 'text-primary-600'
+                  }`} />
+                </div>
+                <p className="font-accent text-sm text-neutral-500">
+                  {pinSuccess ? 'Unlocked' : pinError ? 'Invalid PIN' : 'Enter PIN'}
+                </p>
+              </div>
+
+              {!pinSuccess && (
+                <form
+                  onSubmit={(e) => { e.preventDefault(); handlePinSubmit() }}
+                  className="space-y-4"
+                >
+                  <input
+                    type="password"
+                    inputMode="numeric"
+                    maxLength={4}
+                    value={pin}
+                    onChange={(e) => setPin(e.target.value.replace(/\D/g, ''))}
+                    placeholder="••••"
+                    autoFocus
+                    className={`w-full px-4 py-3 text-center text-2xl tracking-[0.5em] font-mono border rounded-xl focus:outline-none focus:ring-2 transition-all ${
+                      pinError
+                        ? 'border-error-300 focus:ring-error-500 animate-[shake_0.3s_ease-in-out]'
+                        : 'border-neutral-200 focus:ring-primary-500 focus:border-transparent'
+                    }`}
+                  />
+                  <button
+                    type="submit"
+                    disabled={pin.length < 4}
+                    className="btn-primary btn-md rounded-xl w-full disabled:opacity-40 disabled:cursor-not-allowed"
+                  >
+                    Unlock
+                  </button>
+                </form>
+              )}
+            </motion.div>
+          </div>
         )}
       </AnimatePresence>
     </>

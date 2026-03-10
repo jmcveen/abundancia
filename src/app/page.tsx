@@ -153,8 +153,8 @@ export default function HomePage() {
                 Explore the Vision
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>
-              <Link href="/invest/apply" className="btn-accent btn-lg rounded-2xl text-base">
-                Join Investor Waitlist
+              <Link href="/invest" className="btn-accent btn-lg rounded-2xl text-base">
+                Investor Overview
               </Link>
             </div>
           </FadeIn>
@@ -395,8 +395,9 @@ export default function HomePage() {
 
           <FadeIn delay={0.2}>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link href="/invest/apply" className="btn-accent btn-lg rounded-2xl text-base">
-                Join Investor Waitlist
+              <Link href="/invest" className="btn-accent btn-lg rounded-2xl text-base group">
+                Investor Overview
+                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>
               <Link href="/model" className="btn bg-white/10 text-white border border-white/20 hover:bg-white/20 btn-lg rounded-2xl text-base group">
                 View Business Model
