@@ -4,7 +4,10 @@ import { useState, useEffect, useCallback } from 'react'
 import Link from 'next/link'
 import { motion, AnimatePresence } from 'framer-motion'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
+import { ScenarioToggle } from '@/components/ui/ScenarioToggle'
 import { useInvestTransition } from '@/lib/context/invest-transition-context'
+import { useScenario } from '@/lib/context/scenario-context'
+import { KEY_METRICS, REVENUE_STREAMS as REVENUE_DATA } from '@/lib/data/financials'
 import {
   ArrowRight, ArrowDown, Leaf, Home, Droplets, Sun, Shield,
   MapPin, Users, TreePine,
@@ -61,7 +64,6 @@ function SmartCTA() {
                 <ArrowRight className="w-3.5 h-3.5" />
               </button>
             </div>
-            {/* Progress bar */}
             <div className="h-0.5 bg-neutral-100">
               <motion.div
                 className="h-full bg-gradient-to-r from-primary-500 to-secondary-500"
@@ -77,16 +79,25 @@ function SmartCTA() {
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
-// Data
+// Animated number — smooth transition when scenario changes
 // ═══════════════════════════════════════════════════════════════════════════
 
-const KEY_STATS = [
-  { value: '376', suffix: ' Acres', label: 'Texas Ranchland' },
-  { value: '$12.5', suffix: 'M', label: 'Capital Raise' },
-  { value: '37.1', suffix: '% IRR', label: 'Projected Return' },
-  { value: '4.42', suffix: 'x', label: 'Equity Multiple' },
-  { value: '670', suffix: '+', label: 'Planned Units' },
-]
+function AnimatedValue({ children }: { children: React.ReactNode }) {
+  return (
+    <motion.span
+      key={String(children)}
+      initial={{ opacity: 0, y: 8 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }}
+    >
+      {children}
+    </motion.span>
+  )
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Static Data (non-scenario-dependent)
+// ═══════════════════════════════════════════════════════════════════════════
 
 const PROBLEM_STATS = [
   { stat: '39%', label: 'of global CO\u2082 emissions come from buildings and construction' },
@@ -136,19 +147,13 @@ const MARKET_POINTS = [
   { stat: '10-25%', label: 'Pricing premium for green-certified homes' },
 ]
 
-const REVENUE_STREAMS = [
-  { name: 'Residential Sales', description: 'Hempcrete homes, tiny homes, domes, multifamily — $200K to $625K', percentage: 83, color: 'bg-primary-700' },
-  { name: 'Rental Income', description: 'Long-term and short-term vacation rentals', percentage: 10, color: 'bg-primary-500' },
-  { name: 'Lot Sales', description: 'Custom lots within Abundancia design guidelines', percentage: 4, color: 'bg-primary-300' },
-  { name: 'Commercial Leasing', description: 'Grocery, restaurants, health center, co-working', percentage: 2, color: 'bg-accent-400' },
-  { name: 'Retreat Center', description: 'Phase 1 revenue engine — events, workshops, wellness', percentage: 1, color: 'bg-secondary-500' },
-]
-
-const RETURN_SCENARIOS = [
-  { scenario: 'Conservative', irr: '24%', emx: '3.0x', width: 48 },
-  { scenario: 'Base Case', irr: '37.1%', emx: '4.42x', width: 74 },
-  { scenario: 'Optimistic', irr: '45%', emx: '5.5x', width: 90 },
-]
+const REVENUE_STREAM_META: Record<string, { description: string; tailwindColor: string }> = {
+  'Residential Sales': { description: 'Hempcrete homes, tiny homes, domes, multifamily \u2014 $200K to $625K', tailwindColor: 'bg-primary-700' },
+  'Rental Income': { description: 'Long-term and short-term vacation rentals', tailwindColor: 'bg-primary-500' },
+  'Lot Sales': { description: 'Custom lots within Abundancia design guidelines', tailwindColor: 'bg-primary-300' },
+  'Commercial Leasing': { description: 'Grocery, restaurants, health center, co-working', tailwindColor: 'bg-accent-400' },
+  'Retreat Center': { description: 'Phase 1 revenue engine \u2014 events, workshops, wellness', tailwindColor: 'bg-secondary-500' },
+}
 
 const CAPITAL_HIGHLIGHTS = [
   { label: 'Vehicle', value: 'Texas Series LLC (LP/GP)' },
@@ -177,8 +182,8 @@ const ROADMAP_PHASES = [
 ]
 
 const TEAM_MEMBERS = [
+  { name: 'Kelly Krezek', title: 'Capital Markets Lead', credential: 'Leading the $12.5M raise' },
   { name: 'Joe McVeen', title: 'Managing Partner', credential: '$755M+ raised for RE projects' },
-  { name: 'Development Team', title: 'Experienced Operators', credential: '200+ successful transactions' },
   { name: 'Advisory Board', title: 'Domain Experts', credential: '70+ eco communities analyzed' },
 ]
 
@@ -189,7 +194,7 @@ const FAQ_ITEMS = [
   },
   {
     question: 'What are the projected returns?',
-    answer: 'Base case: 37.1% IRR with 4.42x equity multiple over a 10-year hold. Conservative scenario: 24% IRR / 3.0x. Optimistic: 45% IRR / 5.5x. Five revenue streams provide diversification.',
+    answer: 'Base case: 37.1% IRR with 4.42x equity multiple over a 10-year hold. Conservative scenario: 24% IRR / 3.0x. Optimistic: 45% IRR / 5.5x. Use the scenario toggle on this page to explore all three projections.',
   },
   {
     question: 'What makes hempcrete special?',
@@ -247,15 +252,38 @@ function FAQItem({ question, answer }: { question: string; answer: string }) {
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
+// Helper: format dollars
+// ═══════════════════════════════════════════════════════════════════════════
+
+function formatRevenue(value: number): string {
+  if (value >= 1_000_000_000) return `$${(value / 1_000_000_000).toFixed(1)}B`
+  if (value >= 1_000_000) return `$${(value / 1_000_000).toFixed(0)}M`
+  return `$${(value / 1_000).toFixed(0)}K`
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
 // Page
 // ═══════════════════════════════════════════════════════════════════════════
 
 export default function InvestorOverviewPage() {
   const { triggerTransition } = useInvestTransition()
+  const { scenario } = useScenario()
+  const metrics = KEY_METRICS[scenario]
 
   const scrollToSection = useCallback((id: string) => {
     document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' })
   }, [])
+
+  // Compute revenue stream percentages from scenario data
+  const revenueStreams = REVENUE_DATA[scenario]
+  const totalRevenue = revenueStreams.reduce((sum, s) => sum + s.value, 0)
+
+  // All three scenarios for the return projections display
+  const allScenarios = [
+    { key: 'conservative' as const, label: 'Conservative', irr: KEY_METRICS.conservative.irr, emx: KEY_METRICS.conservative.emx },
+    { key: 'base' as const, label: 'Base Case', irr: KEY_METRICS.base.irr, emx: KEY_METRICS.base.emx },
+    { key: 'optimistic' as const, label: 'Optimistic', irr: KEY_METRICS.optimistic.irr, emx: KEY_METRICS.optimistic.emx },
+  ]
 
   return (
     <div className="bg-canvas">
@@ -263,7 +291,6 @@ export default function InvestorOverviewPage() {
 
       {/* ═══ HERO ═══ */}
       <section className="relative pt-8 pb-20 md:pt-12 md:pb-28 overflow-hidden">
-        {/* Subtle gradient background */}
         <div className="absolute inset-0 bg-gradient-to-b from-primary-50/60 via-canvas to-canvas" />
         <div className="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-secondary-50/30 to-transparent" />
 
@@ -307,17 +334,39 @@ export default function InvestorOverviewPage() {
             </div>
           </FadeIn>
 
-          {/* Key Stats Strip */}
+          {/* Key Stats Strip — IRR and EMx are scenario-reactive */}
           <FadeIn delay={0.6}>
             <div className="grid grid-cols-2 sm:grid-cols-5 gap-6 sm:gap-4 max-w-4xl">
-              {KEY_STATS.map((item) => (
-                <div key={item.label} className="text-center sm:text-left">
-                  <div className="font-display text-3xl sm:text-2xl md:text-3xl font-bold text-primary-800">
-                    {item.value}<span className="text-primary-500">{item.suffix}</span>
-                  </div>
-                  <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">{item.label}</div>
+              <div className="text-center sm:text-left">
+                <div className="font-display text-3xl sm:text-2xl md:text-3xl font-bold text-primary-800">
+                  376<span className="text-primary-500"> Acres</span>
                 </div>
-              ))}
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Texas Ranchland</div>
+              </div>
+              <div className="text-center sm:text-left">
+                <div className="font-display text-3xl sm:text-2xl md:text-3xl font-bold text-primary-800">
+                  $12.5<span className="text-primary-500">M</span>
+                </div>
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Capital Raise</div>
+              </div>
+              <div className="text-center sm:text-left">
+                <div className="font-display text-3xl sm:text-2xl md:text-3xl font-bold text-primary-800">
+                  <AnimatedValue>{metrics.irr}</AnimatedValue><span className="text-primary-500">% IRR</span>
+                </div>
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Projected Return</div>
+              </div>
+              <div className="text-center sm:text-left">
+                <div className="font-display text-3xl sm:text-2xl md:text-3xl font-bold text-primary-800">
+                  <AnimatedValue>{metrics.emx}</AnimatedValue><span className="text-primary-500">x</span>
+                </div>
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Equity Multiple</div>
+              </div>
+              <div className="text-center sm:text-left">
+                <div className="font-display text-3xl sm:text-2xl md:text-3xl font-bold text-primary-800">
+                  670<span className="text-primary-500">+</span>
+                </div>
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Planned Units</div>
+              </div>
             </div>
           </FadeIn>
         </div>
@@ -439,44 +488,57 @@ export default function InvestorOverviewPage() {
         </div>
       </section>
 
-      {/* ═══ REVENUE MODEL ═══ */}
+      {/* ═══ REVENUE MODEL — Scenario-reactive ═══ */}
       <section className="py-20 md:py-28 bg-canvas">
         <div className="section-container">
           <FadeIn>
-            <div className="text-center mb-14">
+            <div className="text-center mb-6">
               <span className="eyebrow mb-3 block">Revenue Model</span>
               <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
                 Five Revenue Streams
               </h2>
-              <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
+              <p className="text-lg text-neutral-600 max-w-2xl mx-auto mb-6">
                 No single-source dependency. Revenue diversification protects against market cycles.
+              </p>
+              <ScenarioToggle />
+              <p className="font-accent text-xs text-neutral-400 mt-3">
+                10-year cumulative: <AnimatedValue>{formatRevenue(totalRevenue)}</AnimatedValue>
               </p>
             </div>
           </FadeIn>
 
           <FadeIn delay={0.2}>
             <div className="max-w-3xl mx-auto space-y-4">
-              {REVENUE_STREAMS.map((stream) => (
-                <div key={stream.name} className="bg-white rounded-xl p-5 border border-neutral-100">
-                  <div className="flex items-center justify-between mb-2">
-                    <h3 className="font-accent text-base font-semibold text-neutral-900">{stream.name}</h3>
-                    <span className="font-accent text-sm font-bold text-primary-700">{stream.percentage}%</span>
+              {revenueStreams.map((stream) => {
+                const percentage = Math.round((stream.value / totalRevenue) * 100)
+                const meta = REVENUE_STREAM_META[stream.name]
+                return (
+                  <div key={stream.name} className="bg-white rounded-xl p-5 border border-neutral-100">
+                    <div className="flex items-center justify-between mb-2">
+                      <h3 className="font-accent text-base font-semibold text-neutral-900">{stream.name}</h3>
+                      <span className="font-accent text-sm font-bold text-primary-700">
+                        <AnimatedValue>{formatRevenue(stream.value)}</AnimatedValue>
+                        <span className="text-neutral-400 font-normal ml-1">({percentage}%)</span>
+                      </span>
+                    </div>
+                    <p className="text-sm text-neutral-500 mb-3">{meta?.description}</p>
+                    <div className="w-full bg-neutral-100 rounded-full h-2">
+                      <motion.div
+                        className={`h-2 rounded-full ${meta?.tailwindColor || 'bg-primary-500'}`}
+                        initial={false}
+                        animate={{ width: `${percentage}%` }}
+                        transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
+                      />
+                    </div>
                   </div>
-                  <p className="text-sm text-neutral-500 mb-3">{stream.description}</p>
-                  <div className="w-full bg-neutral-100 rounded-full h-2">
-                    <div
-                      className={`h-2 rounded-full ${stream.color}`}
-                      style={{ width: `${stream.percentage}%` }}
-                    />
-                  </div>
-                </div>
-              ))}
+                )
+              })}
             </div>
           </FadeIn>
         </div>
       </section>
 
-      {/* ═══ FINANCIAL HIGHLIGHTS ═══ */}
+      {/* ═══ FINANCIAL HIGHLIGHTS — Scenario-reactive ═══ */}
       <section className="py-20 md:py-28 bg-primary-800">
         <div className="section-container">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16">
@@ -509,23 +571,35 @@ export default function InvestorOverviewPage() {
                   Return Projections
                 </h3>
                 <div className="space-y-6">
-                  {RETURN_SCENARIOS.map((item) => (
-                    <div key={item.scenario}>
-                      <div className="flex items-center justify-between mb-2">
-                        <span className="font-accent text-sm text-white/70">{item.scenario}</span>
-                        <div className="flex items-center gap-4">
-                          <span className="font-accent text-sm font-semibold text-secondary-400">{item.irr} IRR</span>
-                          <span className="font-accent text-sm text-white/50">{item.emx} EMx</span>
+                  {allScenarios.map((item) => {
+                    const isActive = item.key === scenario
+                    return (
+                      <div key={item.key} className={`transition-opacity duration-300 ${isActive ? 'opacity-100' : 'opacity-50'}`}>
+                        <div className="flex items-center justify-between mb-2">
+                          <span className="font-accent text-sm text-white/70">
+                            {item.label}
+                            {isActive && (
+                              <span className="ml-2 px-2 py-0.5 rounded-full bg-secondary-500/20 text-secondary-400 text-[10px] font-bold uppercase">
+                                Active
+                              </span>
+                            )}
+                          </span>
+                          <div className="flex items-center gap-4">
+                            <span className="font-accent text-sm font-semibold text-secondary-400">{item.irr}% IRR</span>
+                            <span className="font-accent text-sm text-white/50">{item.emx}x EMx</span>
+                          </div>
+                        </div>
+                        <div className="w-full bg-white/10 rounded-full h-2">
+                          <motion.div
+                            className="bg-gradient-to-r from-secondary-400 to-secondary-500 h-2 rounded-full"
+                            initial={false}
+                            animate={{ width: `${(item.irr / 50) * 100}%` }}
+                            transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
+                          />
                         </div>
                       </div>
-                      <div className="w-full bg-white/10 rounded-full h-2">
-                        <div
-                          className="bg-gradient-to-r from-secondary-400 to-secondary-500 h-2 rounded-full"
-                          style={{ width: `${item.width}%` }}
-                        />
-                      </div>
-                    </div>
-                  ))}
+                    )
+                  })}
                 </div>
 
                 <div className="mt-8 pt-6 border-t border-white/10 grid grid-cols-3 gap-4 text-center">
@@ -534,12 +608,16 @@ export default function InvestorOverviewPage() {
                     <div className="font-accent text-xs text-white/50 mt-0.5">Raise</div>
                   </div>
                   <div>
-                    <div className="font-display text-2xl font-bold text-white">8%</div>
-                    <div className="font-accent text-xs text-white/50 mt-0.5">Pref Return</div>
+                    <div className="font-display text-2xl font-bold text-white">
+                      <AnimatedValue>{formatRevenue(metrics.revenue10yr)}</AnimatedValue>
+                    </div>
+                    <div className="font-accent text-xs text-white/50 mt-0.5">10-Yr Revenue</div>
                   </div>
                   <div>
-                    <div className="font-display text-2xl font-bold text-white">10 Yr</div>
-                    <div className="font-accent text-xs text-white/50 mt-0.5">Hold Period</div>
+                    <div className="font-display text-2xl font-bold text-white">
+                      <AnimatedValue>{formatRevenue(metrics.ebitda10yr)}</AnimatedValue>
+                    </div>
+                    <div className="font-accent text-xs text-white/50 mt-0.5">10-Yr EBITDA</div>
                   </div>
                 </div>
               </div>
