@@ -6,11 +6,13 @@ import { Shield, ArrowLeft, Eye, EyeOff } from 'lucide-react'
 import Link from 'next/link'
 
 export function AuthGate({ children }: { children: ReactNode }) {
-  const { isAuthenticated, login } = useAuth()
+  const { isAuthenticated, login, quickUnlock } = useAuth()
   const [name, setName] = useState('')
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [showPassword, setShowPassword] = useState(false)
+  const [showPin, setShowPin] = useState(false)
+  const [pin, setPin] = useState('')
   const [error, setError] = useState('')
 
   if (isAuthenticated) return <>{children}</>
@@ -44,9 +46,14 @@ export function AuthGate({ children }: { children: ReactNode }) {
       <div className="max-w-md w-full">
         <div className="card p-8">
           <div className="text-center mb-8">
-            <div className="w-16 h-16 rounded-2xl bg-primary-50 flex items-center justify-center mx-auto mb-6">
+            <button
+              type="button"
+              onClick={() => { setShowPin((p) => !p); setPin(''); setError('') }}
+              className="w-16 h-16 rounded-2xl bg-primary-50 flex items-center justify-center mx-auto mb-6 transition-colors hover:bg-primary-100 cursor-pointer"
+              aria-label="Toggle admin access"
+            >
               <Shield className="w-8 h-8 text-primary-600" />
-            </div>
+            </button>
             <h2 className="font-display text-2xl text-neutral-900 mb-2">
               Investor Access
             </h2>
@@ -55,67 +62,121 @@ export function AuthGate({ children }: { children: ReactNode }) {
             </p>
           </div>
 
-          <form onSubmit={handleSubmit} className="space-y-4">
-            <div>
-              <label className="font-accent text-sm font-semibold text-neutral-700 mb-1.5 block">
-                Full Name
-              </label>
-              <input
-                type="text"
-                value={name}
-                onChange={(e) => setName(e.target.value)}
-                placeholder="Your full name"
-                className="w-full px-4 py-3 text-sm border border-neutral-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
-                autoFocus
-              />
-            </div>
-
-            <div>
-              <label className="font-accent text-sm font-semibold text-neutral-700 mb-1.5 block">
-                Email Address
-              </label>
-              <input
-                type="email"
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
-                placeholder="you@example.com"
-                className="w-full px-4 py-3 text-sm border border-neutral-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
-              />
-            </div>
-
-            <div>
-              <label className="font-accent text-sm font-semibold text-neutral-700 mb-1.5 block">
-                Access Password
-              </label>
-              <div className="relative">
+          {showPin ? (
+            <div className="space-y-4">
+              <div>
+                <label className="font-accent text-sm font-semibold text-neutral-700 mb-1.5 block">
+                  Admin PIN
+                </label>
                 <input
-                  type={showPassword ? 'text' : 'password'}
-                  value={password}
-                  onChange={(e) => setPassword(e.target.value)}
-                  placeholder="Enter password"
-                  className="w-full px-4 py-3 pr-12 text-sm border border-neutral-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
+                  type="text"
+                  inputMode="numeric"
+                  maxLength={4}
+                  value={pin}
+                  onChange={(e) => { setPin(e.target.value.replace(/\D/g, '')); setError('') }}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter' && pin.length === 4) {
+                      if (!quickUnlock(pin)) {
+                        setError('Invalid PIN.')
+                        setPin('')
+                      }
+                    }
+                  }}
+                  placeholder="4-digit PIN"
+                  className="w-full px-4 py-3 text-center text-2xl tracking-[0.5em] font-mono border border-neutral-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
+                  autoFocus
                 />
-                <button
-                  type="button"
-                  onClick={() => setShowPassword(!showPassword)}
-                  className="absolute right-3 top-1/2 -translate-y-1/2 text-neutral-400 hover:text-neutral-600 transition-colors"
-                >
-                  {showPassword ? <EyeOff className="w-4 h-4" /> : <Eye className="w-4 h-4" />}
-                </button>
               </div>
+
+              {error && (
+                <p className="text-sm text-red-500 bg-red-50 px-3 py-2 rounded-lg">{error}</p>
+              )}
+
+              <button
+                type="button"
+                disabled={pin.length < 4}
+                onClick={() => {
+                  if (!quickUnlock(pin)) {
+                    setError('Invalid PIN.')
+                    setPin('')
+                  }
+                }}
+                className="btn-primary btn-lg rounded-xl w-full disabled:opacity-50 disabled:cursor-not-allowed"
+              >
+                Unlock
+              </button>
+
+              <button
+                type="button"
+                onClick={() => { setShowPin(false); setError('') }}
+                className="w-full font-accent text-xs text-neutral-400 hover:text-neutral-600 transition-colors text-center"
+              >
+                Use credentials instead
+              </button>
             </div>
+          ) : (
+            <form onSubmit={handleSubmit} className="space-y-4">
+              <div>
+                <label className="font-accent text-sm font-semibold text-neutral-700 mb-1.5 block">
+                  Full Name
+                </label>
+                <input
+                  type="text"
+                  value={name}
+                  onChange={(e) => setName(e.target.value)}
+                  placeholder="Your full name"
+                  className="w-full px-4 py-3 text-sm border border-neutral-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
+                  autoFocus
+                />
+              </div>
 
-            {error && (
-              <p className="text-sm text-red-500 bg-red-50 px-3 py-2 rounded-lg">{error}</p>
-            )}
+              <div>
+                <label className="font-accent text-sm font-semibold text-neutral-700 mb-1.5 block">
+                  Email Address
+                </label>
+                <input
+                  type="email"
+                  value={email}
+                  onChange={(e) => setEmail(e.target.value)}
+                  placeholder="you@example.com"
+                  className="w-full px-4 py-3 text-sm border border-neutral-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
+                />
+              </div>
 
-            <button
-              type="submit"
-              className="btn-primary btn-lg rounded-xl w-full mt-2"
-            >
-              Sign In
-            </button>
-          </form>
+              <div>
+                <label className="font-accent text-sm font-semibold text-neutral-700 mb-1.5 block">
+                  Access Password
+                </label>
+                <div className="relative">
+                  <input
+                    type={showPassword ? 'text' : 'password'}
+                    value={password}
+                    onChange={(e) => setPassword(e.target.value)}
+                    placeholder="Enter password"
+                    className="w-full px-4 py-3 pr-12 text-sm border border-neutral-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all"
+                  />
+                  <button
+                    type="button"
+                    onClick={() => setShowPassword(!showPassword)}
+                    className="absolute right-3 top-1/2 -translate-y-1/2 text-neutral-400 hover:text-neutral-600 transition-colors"
+                  >
+                    {showPassword ? <EyeOff className="w-4 h-4" /> : <Eye className="w-4 h-4" />}
+                  </button>
+                </div>
+              </div>
+
+              {error && (
+                <p className="text-sm text-red-500 bg-red-50 px-3 py-2 rounded-lg">{error}</p>
+              )}
+
+              <button
+                type="submit"
+                className="btn-primary btn-lg rounded-xl w-full mt-2"
+              >
+                Sign In
+              </button>
+            </form>
+          )}
 
           <div className="mt-6 text-center space-y-3">
             <Link

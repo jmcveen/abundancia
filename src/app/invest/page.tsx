@@ -10,7 +10,7 @@ import { useScenario } from '@/lib/context/scenario-context'
 import { KEY_METRICS, REVENUE_STREAMS as REVENUE_DATA } from '@/lib/data/financials'
 import {
   ArrowRight, ArrowDown, Leaf, Home, Droplets, Sun, Shield,
-  MapPin, Users, TreePine,
+  MapPin, Users, TreePine, FileText, TrendingUp, BarChart3,
   CheckCircle2, FolderOpen, ChevronDown, ChevronUp,
 } from 'lucide-react'
 
@@ -172,6 +172,35 @@ const MOAT_LAYERS = [
   { title: 'Proven Team', description: '$755M+ raised for real estate projects. 200+ transactions. 70+ eco communities analyzed.' },
   { title: 'Diversified Revenue', description: 'Five streams across residential, commercial, rental, lots, and retreat operations.' },
   { title: 'MUD Bond Framework', description: 'Infrastructure costs reimbursed through tax-exempt municipal bonds. Proven Texas mechanism.' },
+]
+
+const LAND_USE = [
+  { use: 'Single-Family Residential', acres: 80, pct: 21 },
+  { use: 'Multifamily Housing', acres: 40, pct: 11 },
+  { use: 'Finished Lots (For Sale)', acres: 60, pct: 16 },
+  { use: 'Tiny Home Village', acres: 15, pct: 4 },
+  { use: 'Dome Community', acres: 18, pct: 5 },
+  { use: 'Rental Community', acres: 20, pct: 5 },
+  { use: 'Regenerative Agriculture', acres: 50, pct: 13 },
+  { use: 'Conservation / Open Space', acres: 40, pct: 11 },
+  { use: 'Commercial / Village Center', acres: 10, pct: 3 },
+  { use: 'Retreat & Event Center', acres: 15, pct: 4 },
+  { use: 'Infrastructure / Roads', acres: 28, pct: 7 },
+]
+
+const UNIT_ECONOMICS = [
+  { type: 'Single-Family', price: '$625K', costSF: '$329/SF', margin: '35-40%', breakeven: '$420K' },
+  { type: 'Tiny Home', price: '$200K', costSF: '$333/SF', margin: '40-45%', breakeven: '$145K' },
+  { type: 'Dome Home', price: '$225K', costSF: '$375/SF', margin: '38-42%', breakeven: '$160K' },
+  { type: 'Multifamily', price: '$408K', costSF: '$371/SF', margin: '32-38%', breakeven: '$285K' },
+  { type: 'Lots', price: '$350K', costSF: 'N/A', margin: '55-65%', breakeven: '$125K' },
+]
+
+const CASHFLOW_PHASES = [
+  { phase: 'Investment', years: 'Years 1-2', fcf: '-$12.6M', status: 'Capital Deployment', color: 'text-red-500' },
+  { phase: 'Recovery', years: 'Years 3-4', fcf: '+$5.9M', status: 'Revenue Ramp', color: 'text-amber-500' },
+  { phase: 'Return', years: 'Years 5-7', fcf: '+$32.3M', status: 'LP Capital Returned', color: 'text-primary-600' },
+  { phase: 'Harvest', years: 'Years 8-10', fcf: '+$46.8M', status: 'Maximum Distributions', color: 'text-secondary-600' },
 ]
 
 const ROADMAP_PHASES = [
@@ -450,6 +479,88 @@ export default function InvestorOverviewPage() {
         </div>
       </section>
 
+      {/* ═══ THE 376 ACRES — Data Room Teaser ═══ */}
+      <section className="py-20 md:py-28 bg-white">
+        <div className="section-container">
+          <FadeIn>
+            <div className="text-center mb-14">
+              <span className="eyebrow mb-3 block">
+                <MapPin className="w-4 h-4 inline mr-2 -mt-0.5" />
+                Property Deep Dive
+              </span>
+              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+                How 376 Acres Become a Community
+              </h2>
+              <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
+                Every acre has a purpose. 70% of the land is preserved for conservation and regenerative agriculture.
+              </p>
+            </div>
+          </FadeIn>
+
+          <FadeIn delay={0.2}>
+            <div className="max-w-3xl mx-auto space-y-2">
+              {LAND_USE.map((item) => (
+                <div key={item.use} className="flex items-center gap-4 bg-canvas rounded-xl p-4 border border-neutral-100">
+                  <div className="font-display text-lg font-bold text-primary-800 w-16 text-right shrink-0">
+                    {item.acres}<span className="text-primary-500 text-sm ml-0.5">ac</span>
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-3 mb-1">
+                      <span className="font-accent text-sm font-semibold text-neutral-900">{item.use}</span>
+                      <span className="font-accent text-xs text-neutral-400">{item.pct}%</span>
+                    </div>
+                    <div className="w-full bg-neutral-100 rounded-full h-1.5">
+                      <div
+                        className="h-1.5 rounded-full bg-gradient-to-r from-primary-500 to-primary-700"
+                        style={{ width: `${(item.pct / 21) * 100}%` }}
+                      />
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </FadeIn>
+
+          <FadeIn delay={0.3}>
+            <div className="mt-10 grid grid-cols-1 sm:grid-cols-3 gap-4 max-w-3xl mx-auto">
+              <button
+                onClick={() => triggerTransition('/data-room', 'to-light')}
+                className="flex items-center gap-3 bg-primary-50 rounded-xl p-4 border border-primary-100 hover:bg-primary-100 transition-colors text-left group"
+              >
+                <FileText className="w-5 h-5 text-primary-600 shrink-0" />
+                <div>
+                  <div className="font-accent text-xs font-bold text-primary-800">Doc 10</div>
+                  <div className="font-accent text-xs text-primary-600">Site Assessment</div>
+                </div>
+                <ArrowRight className="w-3.5 h-3.5 text-primary-400 ml-auto group-hover:translate-x-1 transition-transform" />
+              </button>
+              <button
+                onClick={() => triggerTransition('/data-room', 'to-light')}
+                className="flex items-center gap-3 bg-primary-50 rounded-xl p-4 border border-primary-100 hover:bg-primary-100 transition-colors text-left group"
+              >
+                <FileText className="w-5 h-5 text-primary-600 shrink-0" />
+                <div>
+                  <div className="font-accent text-xs font-bold text-primary-800">Doc 11</div>
+                  <div className="font-accent text-xs text-primary-600">Master Plan</div>
+                </div>
+                <ArrowRight className="w-3.5 h-3.5 text-primary-400 ml-auto group-hover:translate-x-1 transition-transform" />
+              </button>
+              <button
+                onClick={() => triggerTransition('/data-room', 'to-light')}
+                className="flex items-center gap-3 bg-primary-50 rounded-xl p-4 border border-primary-100 hover:bg-primary-100 transition-colors text-left group"
+              >
+                <FileText className="w-5 h-5 text-primary-600 shrink-0" />
+                <div>
+                  <div className="font-accent text-xs font-bold text-primary-800">Doc 12</div>
+                  <div className="font-accent text-xs text-primary-600">Environmental Compliance</div>
+                </div>
+                <ArrowRight className="w-3.5 h-3.5 text-primary-400 ml-auto group-hover:translate-x-1 transition-transform" />
+              </button>
+            </div>
+          </FadeIn>
+        </div>
+      </section>
+
       {/* ═══ MARKET OPPORTUNITY ═══ */}
       <section className="py-20 md:py-28 bg-white">
         <div className="section-container">
@@ -533,6 +644,74 @@ export default function InvestorOverviewPage() {
                   </div>
                 )
               })}
+            </div>
+          </FadeIn>
+        </div>
+      </section>
+
+      {/* ═══ UNIT ECONOMICS — Data Room Teaser ═══ */}
+      <section className="py-20 md:py-28 bg-white">
+        <div className="section-container">
+          <FadeIn>
+            <div className="text-center mb-6">
+              <span className="eyebrow mb-3 block">
+                <BarChart3 className="w-4 h-4 inline mr-2 -mt-0.5" />
+                Unit Economics
+              </span>
+              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+                The Math Per Unit
+              </h2>
+              <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
+                Every product type carries healthy margins with significant break-even cushion.
+              </p>
+            </div>
+          </FadeIn>
+
+          <FadeIn delay={0.2}>
+            <div className="max-w-4xl mx-auto overflow-x-auto">
+              <table className="w-full">
+                <thead>
+                  <tr className="border-b-2 border-primary-100">
+                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-left py-3 px-4">Unit Type</th>
+                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Avg. Price</th>
+                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Cost/SF</th>
+                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Gross Margin</th>
+                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Break-Even</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {UNIT_ECONOMICS.map((unit, i) => (
+                    <tr key={unit.type} className={`border-b border-neutral-100 ${i % 2 === 0 ? 'bg-canvas' : ''}`}>
+                      <td className="font-accent text-sm font-semibold text-neutral-900 py-3.5 px-4">{unit.type}</td>
+                      <td className="font-mono text-sm text-primary-800 text-right py-3.5 px-4 font-semibold">{unit.price}</td>
+                      <td className="font-mono text-sm text-neutral-600 text-right py-3.5 px-4">{unit.costSF}</td>
+                      <td className="font-mono text-sm text-secondary-700 text-right py-3.5 px-4 font-semibold">{unit.margin}</td>
+                      <td className="font-mono text-sm text-neutral-500 text-right py-3.5 px-4">{unit.breakeven}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </FadeIn>
+
+          <FadeIn delay={0.3}>
+            <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
+              <button
+                onClick={() => triggerTransition('/data-room', 'to-light')}
+                className="flex items-center gap-3 bg-primary-50 rounded-xl px-5 py-3 border border-primary-100 hover:bg-primary-100 transition-colors group"
+              >
+                <FileText className="w-5 h-5 text-primary-600" />
+                <span className="font-accent text-sm font-semibold text-primary-800">Doc 07 — Unit Economics Model</span>
+                <ArrowRight className="w-3.5 h-3.5 text-primary-400 group-hover:translate-x-1 transition-transform" />
+              </button>
+              <button
+                onClick={() => triggerTransition('/data-room', 'to-light')}
+                className="flex items-center gap-3 bg-primary-50 rounded-xl px-5 py-3 border border-primary-100 hover:bg-primary-100 transition-colors group"
+              >
+                <FileText className="w-5 h-5 text-primary-600" />
+                <span className="font-accent text-sm font-semibold text-primary-800">Doc 08 — Sensitivity Analysis</span>
+                <ArrowRight className="w-3.5 h-3.5 text-primary-400 group-hover:translate-x-1 transition-transform" />
+              </button>
             </div>
           </FadeIn>
         </div>
@@ -702,6 +881,91 @@ export default function InvestorOverviewPage() {
         </div>
       </section>
 
+      {/* ═══ CASH FLOW TRAJECTORY — Data Room Teaser ═══ */}
+      <section className="py-20 md:py-28 bg-white">
+        <div className="section-container">
+          <FadeIn>
+            <div className="text-center mb-14">
+              <span className="eyebrow mb-3 block">
+                <TrendingUp className="w-4 h-4 inline mr-2 -mt-0.5" />
+                Cash Flow Trajectory
+              </span>
+              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+                From Capital to Returns
+              </h2>
+              <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
+                LP capital returned by Year 4. Cumulative free cash flow of $72.4M over 10 years.
+              </p>
+            </div>
+          </FadeIn>
+
+          <FadeIn delay={0.2}>
+            <div className="max-w-3xl mx-auto grid grid-cols-1 sm:grid-cols-2 gap-4">
+              {CASHFLOW_PHASES.map((item, i) => (
+                <div key={item.phase} className="bg-canvas rounded-2xl p-6 border border-neutral-100 relative overflow-hidden">
+                  <div className="flex items-center gap-3 mb-3">
+                    <div className="w-8 h-8 rounded-lg bg-primary-50 flex items-center justify-center">
+                      <span className="font-accent text-sm font-bold text-primary-700">{i + 1}</span>
+                    </div>
+                    <div>
+                      <div className="font-accent text-sm font-bold text-neutral-900">{item.phase}</div>
+                      <div className="font-accent text-xs text-neutral-400">{item.years}</div>
+                    </div>
+                  </div>
+                  <div className={`font-display text-3xl font-bold ${item.color} mb-1`}>
+                    {item.fcf}
+                  </div>
+                  <div className="font-accent text-xs text-neutral-500">{item.status}</div>
+                </div>
+              ))}
+            </div>
+          </FadeIn>
+
+          <FadeIn delay={0.3}>
+            <div className="mt-10 max-w-3xl mx-auto">
+              <div className="bg-primary-50 rounded-2xl p-6 border border-primary-100">
+                <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 text-center mb-6">
+                  <div>
+                    <div className="font-display text-2xl font-bold text-primary-800">Year 3</div>
+                    <div className="font-accent text-xs text-primary-600 mt-0.5">Revenue Breakeven</div>
+                  </div>
+                  <div>
+                    <div className="font-display text-2xl font-bold text-primary-800">Year 4</div>
+                    <div className="font-accent text-xs text-primary-600 mt-0.5">LP Capital Returned</div>
+                  </div>
+                  <div>
+                    <div className="font-display text-2xl font-bold text-primary-800">33.3%</div>
+                    <div className="font-accent text-xs text-primary-600 mt-0.5">Mature EBITDA Margin</div>
+                  </div>
+                  <div>
+                    <div className="font-display text-2xl font-bold text-primary-800">$72.4M</div>
+                    <div className="font-accent text-xs text-primary-600 mt-0.5">Cumulative 10-Yr FCF</div>
+                  </div>
+                </div>
+                <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
+                  <button
+                    onClick={() => triggerTransition('/data-room', 'to-light')}
+                    className="flex items-center gap-2 bg-white rounded-xl px-5 py-2.5 border border-primary-200 hover:bg-primary-100 transition-colors group"
+                  >
+                    <FileText className="w-4 h-4 text-primary-600" />
+                    <span className="font-accent text-xs font-semibold text-primary-800">Doc 06 — Financial Projections</span>
+                    <ArrowRight className="w-3 h-3 text-primary-400 group-hover:translate-x-1 transition-transform" />
+                  </button>
+                  <button
+                    onClick={() => triggerTransition('/data-room', 'to-light')}
+                    className="flex items-center gap-2 bg-white rounded-xl px-5 py-2.5 border border-primary-200 hover:bg-primary-100 transition-colors group"
+                  >
+                    <FileText className="w-4 h-4 text-primary-600" />
+                    <span className="font-accent text-xs font-semibold text-primary-800">Doc 09 — Cap Table</span>
+                    <ArrowRight className="w-3 h-3 text-primary-400 group-hover:translate-x-1 transition-transform" />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </FadeIn>
+        </div>
+      </section>
+
       {/* ═══ TEAM ═══ */}
       <section className="py-20 md:py-28 bg-white">
         <div className="section-container">
@@ -782,12 +1046,16 @@ export default function InvestorOverviewPage() {
           </FadeIn>
 
           <FadeIn delay={0.15}>
-            <div className="flex items-center justify-center gap-6 mb-10 font-accent text-sm text-neutral-500">
+            <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 mb-10 font-accent text-sm text-neutral-500">
               <span>29 documents</span>
               <span className="w-1 h-1 rounded-full bg-neutral-300" />
-              <span>5-year financial model</span>
+              <span>10-year financial model</span>
               <span className="w-1 h-1 rounded-full bg-neutral-300" />
               <span>3 return scenarios</span>
+              <span className="w-1 h-1 rounded-full bg-neutral-300" />
+              <span>Unit economics</span>
+              <span className="w-1 h-1 rounded-full bg-neutral-300" />
+              <span>Sensitivity analysis</span>
             </div>
           </FadeIn>
 
