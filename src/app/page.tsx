@@ -1,7 +1,9 @@
 'use client'
 
+import { useState } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
+import { Modal } from '@/components/ui/Modal'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
 import { useAnimatedCounter } from '@/hooks/useAnimatedCounter'
 import { ArrowRight, Leaf, Home, Droplets, Sun } from 'lucide-react'
@@ -39,18 +41,26 @@ const IMAGINE_CARDS = [
   {
     image: '/images/website/02-basic-needs-provided.jpeg',
     text: 'All of your basic needs are provided...',
+    detail: 'Food forests, renewable energy, and water security systems ensure every resident has access to clean food, power, and water — without dependence on fragile supply chains.',
+    link: '/story/regeneration',
   },
   {
     image: '/images/website/03-everything-you-need-to-thrive.jpeg',
     text: 'You have everything you need to thrive...',
+    detail: 'From co-working spaces and maker labs to wellness centers and retreat facilities, Abundancia provides the infrastructure for creative and professional fulfillment.',
+    link: '/story/vision',
   },
   {
     image: '/images/website/04-regenerative-buildings-in-harmony.png',
     text: 'Regenerative buildings are in harmony with nature...',
+    detail: 'Hempcrete construction sequesters carbon, regulates humidity naturally, and creates the healthiest indoor air quality available — homes that heal the environment as they shelter you.',
+    link: '/story/community',
   },
   {
     image: '/images/website/05-inclusive-governance-models.jpg',
     text: 'Inclusive governance models are easily accessible...',
+    detail: 'Community-driven decision making through transparent governance structures ensures every voice matters. Residents co-create the rules and culture of their shared home.',
+    link: '/story/regeneration',
   },
 ]
 
@@ -59,21 +69,37 @@ const HIGHLIGHTS = [
     icon: Home,
     title: 'Hempcrete Homes',
     description: 'Carbon-negative, fire-resistant homes that last 500+ years with the healthiest indoor air quality available.',
+    detail: 'Hempcrete is a bio-composite material made from hemp hurds and lime that actually sequesters carbon as it cures. Each home removes CO2 from the atmosphere while providing superior thermal mass, natural humidity regulation, and zero off-gassing. Texas building codes now explicitly permit hempcrete construction, giving Abundancia a first-mover advantage in the Austin market.',
+    specs: ['R-30+ insulation', '2hr fire rating', '500+ year lifespan', 'Carbon-negative', 'Zero off-gassing', 'Natural humidity control'],
+    link: '/data-room/view/regenerative/hempcrete-construction',
+    modalKey: 'hempcrete',
   },
   {
     icon: Sun,
     title: 'Net-Positive Energy',
     description: 'Solar arrays with battery storage provide grid-independent renewable energy for every home and facility.',
+    detail: 'Every structure at Abundancia generates more energy than it consumes. Rooftop and community solar arrays paired with Tesla Powerwall battery storage create a resilient microgrid. During the 2021 Texas freeze, communities with independent energy systems were the only ones with power. Abundancia is designed to never face that vulnerability.',
+    specs: ['100% solar-powered', 'Battery backup storage', 'Grid-independent microgrid', 'Net-positive generation', 'EV charging included'],
+    link: '/data-room/view/regenerative/energy-independence',
+    modalKey: 'energy',
   },
   {
     icon: Droplets,
     title: 'Water Security',
     description: 'Seven retention ponds, rainwater harvesting, and greywater recycling create redundant water systems.',
+    detail: 'Abundancia\'s water infrastructure is designed for total resilience. Seven retention ponds capture stormwater, rainwater harvesting systems serve every building, and greywater recycling reduces consumption by up to 40%. The system is designed to sustain the community through extended drought conditions without reliance on municipal water supply.',
+    specs: ['7 retention ponds', 'Rainwater harvesting', 'Greywater recycling', '40% water reduction', 'Drought-resilient design'],
+    link: '/data-room/view/regenerative/water-systems',
+    modalKey: 'water',
   },
   {
     icon: Leaf,
     title: '70% Land Preserved',
     description: 'Conservation-forward design preserves the Lost Pines ecosystem while enhancing Houston toad habitat.',
+    detail: 'Only 30% of the 376-acre property is developed, leaving 263 acres as protected natural habitat. This conservation-forward approach preserves the Lost Pines ecosystem — one of the most ecologically significant regions in Texas — and enhances habitat for the endangered Houston toad. Conservation easements provide significant tax benefits while permanently protecting the land.',
+    specs: ['263 acres preserved', 'Houston toad habitat', 'Lost Pines ecosystem', 'Conservation easements', 'Tax benefit eligible'],
+    link: '/data-room/view/property/environmental-compliance',
+    modalKey: 'conservation',
   },
 ]
 
@@ -82,6 +108,8 @@ const HIGHLIGHTS = [
 // ═══════════════════════════════════════════════════════════════════════════
 
 export default function HomePage() {
+  const [activeModal, setActiveModal] = useState<string | null>(null)
+
   return (
     <div className="-mt-24">
       {/* ═══ HERO ═══ */}
@@ -165,21 +193,30 @@ export default function HomePage() {
           <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {IMAGINE_CARDS.map((card) => (
               <StaggerItem key={card.text}>
-                <div className="card-hover overflow-hidden group">
-                  <div className="relative h-56 overflow-hidden">
-                    <Image
-                      src={card.image}
-                      alt={card.text}
-                      fill
-                      className="object-cover group-hover:scale-105 transition-transform duration-700"
-                    />
+                <Link href={card.link} className="block">
+                  <div className="card-hover overflow-hidden group cursor-pointer">
+                    <div className="relative h-56 overflow-hidden">
+                      <Image
+                        src={card.image}
+                        alt={card.text}
+                        fill
+                        className="object-cover group-hover:scale-105 transition-transform duration-700"
+                      />
+                    </div>
+                    <div className="p-5">
+                      <p className="font-heading text-base text-neutral-800 italic leading-relaxed mb-2">
+                        {card.text}
+                      </p>
+                      <p className="text-sm text-neutral-500 leading-relaxed">
+                        {card.detail}
+                      </p>
+                      <span className="inline-flex items-center gap-1 mt-3 text-sm font-accent font-semibold text-primary-700 group-hover:text-primary-500 transition-colors">
+                        Learn More
+                        <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition-transform" />
+                      </span>
+                    </div>
                   </div>
-                  <div className="p-5">
-                    <p className="font-heading text-base text-neutral-800 italic leading-relaxed">
-                      {card.text}
-                    </p>
-                  </div>
-                </div>
+                </Link>
               </StaggerItem>
             ))}
           </StaggerContainer>
@@ -228,22 +265,61 @@ export default function HomePage() {
           <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {HIGHLIGHTS.map((item) => (
               <StaggerItem key={item.title}>
-                <div className="card p-6 h-full">
-                  <div className="w-12 h-12 rounded-xl bg-primary-50 flex items-center justify-center mb-4">
+                <div
+                  onClick={() => setActiveModal(item.modalKey)}
+                  className="card p-6 h-full cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-300 group"
+                >
+                  <div className="w-12 h-12 rounded-xl bg-primary-50 flex items-center justify-center mb-4 group-hover:bg-primary-100 transition-colors">
                     <item.icon className="w-6 h-6 text-primary-600" />
                   </div>
-                  <h3 className="font-accent text-lg font-semibold text-neutral-900 mb-2">
+                  <h3 className="font-accent text-lg font-semibold text-neutral-900 mb-2 group-hover:text-primary-700 transition-colors">
                     {item.title}
                   </h3>
                   <p className="text-sm text-neutral-600 leading-relaxed">
                     {item.description}
                   </p>
+                  <span className="inline-flex items-center gap-1 mt-3 text-xs font-accent font-semibold text-primary-600 opacity-0 group-hover:opacity-100 transition-opacity">
+                    View Details
+                    <ArrowRight className="w-3 h-3" />
+                  </span>
                 </div>
               </StaggerItem>
             ))}
           </StaggerContainer>
         </div>
       </section>
+
+      {/* ═══ HIGHLIGHT MODALS ═══ */}
+      {HIGHLIGHTS.map((item) => (
+        <Modal
+          key={item.modalKey}
+          open={activeModal === item.modalKey}
+          onClose={() => setActiveModal(null)}
+          title={item.title}
+        >
+          <div className="space-y-5">
+            <p className="text-neutral-600 leading-relaxed">{item.detail}</p>
+            <div className="flex flex-wrap gap-2">
+              {item.specs.map((spec) => (
+                <span
+                  key={spec}
+                  className="inline-flex items-center px-3 py-1 rounded-full bg-primary-50 text-primary-700 text-xs font-accent font-semibold"
+                >
+                  {spec}
+                </span>
+              ))}
+            </div>
+            <Link
+              href={item.link}
+              className="inline-flex items-center gap-2 text-sm font-accent font-semibold text-primary-700 hover:text-primary-500 transition-colors mt-2"
+              onClick={() => setActiveModal(null)}
+            >
+              View Full Report
+              <ArrowRight className="w-4 h-4" />
+            </Link>
+          </div>
+        </Modal>
+      ))}
 
       {/* ═══ RESIDENTIAL PREVIEW ═══ */}
       <section className="py-20 md:py-28 bg-canvas">
@@ -265,22 +341,24 @@ export default function HomePage() {
               { image: '/images/website/11-tiny-homes-rendering.png', label: 'Tiny Homes' },
             ].map((item) => (
               <StaggerItem key={item.label}>
-                <div className="card-hover overflow-hidden group">
-                  <div className="relative aspect-[4/3] overflow-hidden">
-                    <Image
-                      src={item.image}
-                      alt={item.label}
-                      fill
-                      className="object-cover group-hover:scale-105 transition-transform duration-700"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
-                    <div className="absolute bottom-4 left-4">
-                      <span className="font-accent text-sm font-semibold text-white">
-                        {item.label}
-                      </span>
+                <Link href="/story/community" className="block">
+                  <div className="card-hover overflow-hidden group cursor-pointer">
+                    <div className="relative aspect-[4/3] overflow-hidden">
+                      <Image
+                        src={item.image}
+                        alt={item.label}
+                        fill
+                        className="object-cover group-hover:scale-105 transition-transform duration-700"
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
+                      <div className="absolute bottom-4 left-4">
+                        <span className="font-accent text-sm font-semibold text-white">
+                          {item.label}
+                        </span>
+                      </div>
                     </div>
                   </div>
-                </div>
+                </Link>
               </StaggerItem>
             ))}
           </StaggerContainer>
@@ -324,19 +402,27 @@ export default function HomePage() {
           </FadeIn>
 
           <FadeIn delay={0.4}>
-            <div className="mt-14 grid grid-cols-2 md:grid-cols-4 gap-6 max-w-3xl mx-auto">
-              {[
-                { stat: '$755M+', label: 'Raised for RE Projects' },
-                { stat: '200+', label: 'Successful Transactions' },
-                { stat: '70+', label: 'Eco Communities Analyzed' },
-                { stat: '21', label: 'Sustainable Projects' },
-              ].map((item) => (
-                <div key={item.label} className="text-center">
-                  <div className="font-display text-2xl font-bold text-secondary-400">{item.stat}</div>
-                  <div className="font-accent text-xs text-white/60 mt-1">{item.label}</div>
+            <Link href="/team" className="block mt-14 group">
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-3xl mx-auto cursor-pointer rounded-2xl p-6 hover:bg-white/5 transition-colors">
+                {[
+                  { stat: '$755M+', label: 'Raised for RE Projects' },
+                  { stat: '200+', label: 'Successful Transactions' },
+                  { stat: '70+', label: 'Eco Communities Analyzed' },
+                  { stat: '21', label: 'Sustainable Projects' },
+                ].map((item) => (
+                  <div key={item.label} className="text-center">
+                    <div className="font-display text-2xl font-bold text-secondary-400">{item.stat}</div>
+                    <div className="font-accent text-xs text-white/60 mt-1">{item.label}</div>
+                  </div>
+                ))}
+                <div className="col-span-2 md:col-span-4 mt-2">
+                  <span className="inline-flex items-center gap-1 text-sm font-accent font-semibold text-secondary-400 group-hover:text-secondary-300 transition-colors">
+                    Meet the Team Behind the Numbers
+                    <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                  </span>
                 </div>
-              ))}
-            </div>
+              </div>
+            </Link>
           </FadeIn>
         </div>
       </section>

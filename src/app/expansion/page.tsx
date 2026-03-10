@@ -1,13 +1,23 @@
 'use client'
 
+import { useState } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
-import { ArrowRight, CheckCircle2 } from 'lucide-react'
+import { Modal } from '@/components/ui/Modal'
+import { ArrowRight, CheckCircle2, ExternalLink, DollarSign, Target } from 'lucide-react'
 
 // ═══════════════════════════════════════════════════════════════════════════
 // Data
 // ═══════════════════════════════════════════════════════════════════════════
+
+const PHASE_DATA_ROOM_LINKS: Record<number, { href: string; label: string }> = {
+  0: { href: '/data-room/view/property/site-assessment', label: 'View Site Assessment' },
+  1: { href: '/data-room/view/property/construction-budget', label: 'View Construction Budget' },
+  2: { href: '/data-room/view/financial/financial-projections', label: 'View Financial Projections' },
+  3: { href: '/data-room/view/financial/financial-projections', label: 'View Financial Projections' },
+  4: { href: '/data-room/view/investment/executive-summary', label: 'View Executive Summary' },
+}
 
 const PHASES = [
   {
@@ -23,6 +33,9 @@ const PHASES = [
       'Entity formation — Texas Series LLC',
       'MUD (Municipal Utility District) petition',
     ],
+    detail: 'Phase 0 is the foundation — securing the land and completing all due diligence required before breaking ground. The 376-acre Cedar Creek property is approximately 30 minutes southeast of downtown Austin along SH-71, positioned in the path of Austin\'s eastward growth corridor. Due diligence includes environmental assessment, hydrology study (confirming water resources for 420+ homes), Houston toad habitat compliance with the Balcones Canyonlands Conservation Plan, and geotechnical analysis. The Texas Series LLC structure enables each development phase to be legally isolated, protecting investor capital. The MUD petition, if approved, unlocks municipal bond financing for future infrastructure.',
+    investment: '$4.0M',
+    revenueTarget: null,
   },
   {
     number: 1,
@@ -36,6 +49,9 @@ const PHASES = [
       'Infrastructure — roads, water, septic, solar arrays',
       'Revenue target: $500K-$1M retreat + $8.25M-$11.25M home sales',
     ],
+    detail: 'Phase 1 is designed to generate revenue within 6 months of closing. The existing farmhouse and guest house on the property are repurposed as the retreat center, with 10-15 tiny homes and domes added for guest capacity. Simultaneously, 15 hempcrete model homes are constructed to launch residential sales. This phase proves the concept — demonstrating hempcrete construction, retreat demand, and buyer appetite. Infrastructure investment (roads, water wells, septic, initial solar array) supports both Phase 1 and sets up Phase 2. The retreat center serves as the community\'s "front door," introducing potential buyers to the Abundancia vision.',
+    investment: '$5.5M',
+    revenueTarget: '$8.75M - $12.25M',
   },
   {
     number: 2,
@@ -49,6 +65,9 @@ const PHASES = [
       'Expand to 100+ residential units',
       'Permaculture food forests reach initial maturity',
     ],
+    detail: 'Phase 2 transforms Abundancia from a residential development into a living community. The commercial village center opens — organic grocery, farm-to-table dining, wellness retail, coworking. Community spaces (Creation Hub, education center, yoga shala) become the social fabric. Multifamily construction begins, bringing the unit count past 100 and generating the density needed for commercial viability. Permaculture food forests planted in Phase 1 begin producing, and the community governance structure is formalized. This phase is where the flywheel kicks in — amenities drive demand, demand funds more amenities.',
+    investment: '$2.5M (from revenue)',
+    revenueTarget: '$104M cumulative by year 4',
   },
   {
     number: 3,
@@ -62,6 +81,9 @@ const PHASES = [
       'Complete permaculture food forest maturity',
       'Community governance fully operational',
     ],
+    detail: 'Phase 3 completes the physical buildout of Abundancia. All 420+ owned residential units are delivered, commercial spaces are fully leased, and the renewable energy grid achieves net-positive status (producing more energy than consumed). The permaculture food forests reach full maturity, producing meaningful food yields for residents and the village grocery. Community governance — a resident-led cooperative structure — is fully operational. This phase generates peak revenue as the remaining residential inventory is absorbed and all five revenue streams are fully online.',
+    investment: 'Self-funded from operations',
+    revenueTarget: '$330M cumulative by year 8',
   },
   {
     number: 4,
@@ -75,6 +97,9 @@ const PHASES = [
       'Template and resource sharing for global replication',
       'Abundancia as a model for communities worldwide',
     ],
+    detail: 'Phase 4 is where Abundancia transcends real estate and becomes a movement. The Regenerative Community Documentary captures the full journey — from bare land to thriving community — creating a blueprint for others. Online courses package the lessons learned: hempcrete construction methods, permaculture food system design, community governance frameworks, MUD formation, and regenerative business modeling. Community Building TV shows bring the vision to mainstream audiences. Every system, template, and process is open-sourced for global replication. Abundancia becomes not just a community, but a proof of concept for the world.',
+    investment: '$500K (media production)',
+    revenueTarget: '$435M cumulative (10-year total)',
   },
 ]
 
@@ -82,7 +107,17 @@ const PHASES = [
 // Page
 // ═══════════════════════════════════════════════════════════════════════════
 
+type ModalContent = {
+  title: string
+  body: string
+  investment: string | null
+  revenueTarget: string | null
+  link?: { href: string; label: string }
+} | null
+
 export default function ExpansionPage() {
+  const [modal, setModal] = useState<ModalContent>(null)
+
   return (
     <div>
       {/* ═══ HERO ═══ */}
@@ -129,6 +164,22 @@ export default function ExpansionPage() {
                       </span>
                     </div>
 
+                    {/* Investment & Revenue badges */}
+                    <div className="flex flex-wrap gap-2 mb-4">
+                      {phase.investment && (
+                        <span className="inline-flex items-center gap-1.5 font-accent text-xs font-semibold bg-primary-50 text-primary-700 px-3 py-1 rounded-full">
+                          <DollarSign className="w-3 h-3" />
+                          Capital: {phase.investment}
+                        </span>
+                      )}
+                      {phase.revenueTarget && (
+                        <span className="inline-flex items-center gap-1.5 font-accent text-xs font-semibold bg-secondary-50 text-secondary-700 px-3 py-1 rounded-full">
+                          <Target className="w-3 h-3" />
+                          Revenue: {phase.revenueTarget}
+                        </span>
+                      )}
+                    </div>
+
                     <ul className="space-y-2">
                       {phase.milestones.map((milestone) => (
                         <li key={milestone} className="flex items-start gap-2.5">
@@ -137,6 +188,21 @@ export default function ExpansionPage() {
                         </li>
                       ))}
                     </ul>
+
+                    {/* View Details button */}
+                    <button
+                      onClick={() => setModal({
+                        title: `Phase ${phase.number}: ${phase.name}`,
+                        body: phase.detail,
+                        investment: phase.investment,
+                        revenueTarget: phase.revenueTarget,
+                        link: PHASE_DATA_ROOM_LINKS[phase.number],
+                      })}
+                      className="mt-4 inline-flex items-center gap-2 font-accent text-sm font-semibold text-primary-600 hover:text-primary-800 transition-colors group"
+                    >
+                      View Details
+                      <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                    </button>
                   </div>
                 </div>
               </FadeIn>
@@ -182,6 +248,16 @@ export default function ExpansionPage() {
               </StaggerItem>
             ))}
           </StaggerContainer>
+
+          <FadeIn delay={0.3}>
+            <Link
+              href="/story/vision"
+              className="inline-flex items-center gap-2 font-accent text-sm font-semibold text-secondary-400 hover:text-secondary-300 transition-colors group"
+            >
+              View the Vision
+              <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+            </Link>
+          </FadeIn>
         </div>
       </section>
 
@@ -206,7 +282,7 @@ export default function ExpansionPage() {
               { image: '/images/website/70-regenerative-education.jpeg', label: 'Regenerative Education' },
             ].map((item) => (
               <StaggerItem key={item.label}>
-                <div className="card-hover overflow-hidden group">
+                <Link href="/story/regeneration" className="card-hover overflow-hidden group block">
                   <div className="relative aspect-square overflow-hidden">
                     <Image
                       src={item.image}
@@ -215,11 +291,12 @@ export default function ExpansionPage() {
                       className="object-cover group-hover:scale-105 transition-transform duration-700"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
-                    <div className="absolute bottom-3 left-3 right-3">
+                    <div className="absolute bottom-3 left-3 right-3 flex items-end justify-between">
                       <span className="font-accent text-sm font-semibold text-white">{item.label}</span>
+                      <ArrowRight className="w-4 h-4 text-white/70 opacity-0 group-hover:opacity-100 transition-opacity" />
                     </div>
                   </div>
-                </div>
+                </Link>
               </StaggerItem>
             ))}
           </StaggerContainer>
@@ -251,6 +328,48 @@ export default function ExpansionPage() {
           </FadeIn>
         </div>
       </section>
+
+      {/* ═══ MODAL ═══ */}
+      <Modal
+        open={modal !== null}
+        onClose={() => setModal(null)}
+        title={modal?.title}
+        size="md"
+      >
+        {modal && (
+          <div>
+            {/* Investment & Revenue in modal */}
+            {(modal.investment || modal.revenueTarget) && (
+              <div className="flex flex-wrap gap-3 mb-5">
+                {modal.investment && (
+                  <div className="bg-primary-50 border border-primary-100 rounded-xl px-4 py-3">
+                    <div className="font-accent text-xs font-semibold text-primary-600 uppercase tracking-wide mb-0.5">Capital Deployed</div>
+                    <div className="font-display text-lg font-bold text-primary-800">{modal.investment}</div>
+                  </div>
+                )}
+                {modal.revenueTarget && (
+                  <div className="bg-secondary-50 border border-secondary-100 rounded-xl px-4 py-3">
+                    <div className="font-accent text-xs font-semibold text-secondary-600 uppercase tracking-wide mb-0.5">Revenue Target</div>
+                    <div className="font-display text-lg font-bold text-secondary-800">{modal.revenueTarget}</div>
+                  </div>
+                )}
+              </div>
+            )}
+
+            <p className="text-neutral-600 leading-relaxed mb-6">{modal.body}</p>
+
+            {modal.link && (
+              <Link
+                href={modal.link.href}
+                className="inline-flex items-center gap-2 font-accent text-sm font-semibold text-primary-700 hover:text-primary-900 transition-colors"
+              >
+                <ExternalLink className="w-4 h-4" />
+                {modal.link.label}
+              </Link>
+            )}
+          </div>
+        )}
+      </Modal>
     </div>
   )
 }

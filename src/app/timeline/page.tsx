@@ -1,8 +1,10 @@
 'use client'
 
+import { useState } from 'react'
 import Link from 'next/link'
 import { FadeIn } from '@/components/animation'
-import { ArrowRight, CheckCircle2, Circle, Clock } from 'lucide-react'
+import { Modal } from '@/components/ui/Modal'
+import { ArrowRight, CheckCircle2, Circle, Clock, ExternalLink, FolderOpen, DollarSign } from 'lucide-react'
 
 // ═══════════════════════════════════════════════════════════════════════════
 // Data
@@ -19,6 +21,9 @@ const MILESTONES = [
       '$12.5M capital raise in progress',
       'Investor outreach at SXSW 2026',
     ],
+    detail: 'The due diligence phase is the foundation of the entire project. Our team has completed preliminary site assessments, environmental reviews, and market analysis. The 376-acre parcel in Cedar Creek was selected from 70+ eco-community analyses worldwide for its combination of location (30 min from downtown Austin), regulatory environment (no zoning in Bastrop County), natural features (mature trees, water features, rolling terrain), and price-to-value ratio.',
+    investment: '$500K — Pre-development costs, legal, environmental studies, team operations',
+    dataRoomLink: '/data-room/view/property/site-assessment',
   },
   {
     period: 'Months 1-6',
@@ -32,6 +37,9 @@ const MILESTONES = [
       'Entity formation — Texas Series LLC',
       'MUD petition filed',
     ],
+    detail: 'Land acquisition is the single largest capital deployment event. The $6.5M purchase price includes the full 376-acre parcel. Simultaneously, we initiate the critical planning workstreams: hydrology studies to map water resources and retention pond locations, LPHCP compliance review with environmental consultants, master site planning with Symbiosis TX to define conservation corridors, building envelopes, and infrastructure routes. The Texas Series LLC entity is formed, and the MUD petition is filed to unlock tax-exempt bond financing for infrastructure.',
+    investment: '$7.5M — Land acquisition ($6.5M) + planning, legal, entity formation ($1M)',
+    dataRoomLink: '/data-room/view/property/construction-budget',
   },
   {
     period: 'Months 6-12',
@@ -43,6 +51,9 @@ const MILESTONES = [
       'Hempcrete model home construction (15 units)',
       'Infrastructure — roads, water, septic, solar',
     ],
+    detail: 'Phase 1 construction is designed for rapid revenue activation. Existing structures on the property are converted into a retreat and event center that begins generating cash flow immediately. Simultaneously, the first tiny homes and domes are built to expand guest capacity, and 15 hempcrete model homes begin construction as the flagship product. Infrastructure investment includes roads, water systems, septic, and the initial solar array. This phase proves the construction methodology and establishes market pricing.',
+    investment: '$3.5M — Construction, infrastructure, retreat center activation',
+    dataRoomLink: '/data-room/view/property/construction-budget',
   },
   {
     period: 'Year 1-2',
@@ -54,6 +65,9 @@ const MILESTONES = [
       'Community gardens and food forest planting',
       'Marketing and buyer pipeline established',
     ],
+    detail: 'Phase 1 revenue generation marks the transition from capital deployment to cash flow. The retreat center reaches full operational capacity with events, workshops, and wellness retreats. The first hempcrete homes sell at projected prices of $550K-$625K each, with the 10-15% sustainability premium validated by market response. Community gardens and food forests are planted to begin the long-term food self-sufficiency program. Marketing efforts establish a robust buyer pipeline for Phase 2.',
+    investment: '$1M — Marketing, operations, food forest planting, community programming',
+    dataRoomLink: '/data-room/view/financial/financial-projections',
   },
   {
     period: 'Year 2-4',
@@ -65,6 +79,9 @@ const MILESTONES = [
       'Commercial spaces open — grocery, restaurants, retail',
       'Expand to 100+ residential units',
     ],
+    detail: 'Phase 2 builds the community\'s core amenity infrastructure and scales residential density. The Creation Hub — co-working spaces, artist studios, recording studio, makerspace — becomes the creative heart of the community. Multifamily construction begins, adding 260 units at more accessible price points (~$275K-$350K). Commercial tenants move in, creating the walkable village center with grocery, restaurants, and retail. This phase is largely self-funded from Phase 1 revenues and MUD bond reimbursements.',
+    investment: 'Self-funded from Phase 1 revenues + MUD bond reimbursements',
+    dataRoomLink: '/data-room/view/financial/financial-projections',
   },
   {
     period: 'Year 4-7',
@@ -76,6 +93,9 @@ const MILESTONES = [
       'Full renewable energy grid — net-positive',
       'Permaculture food forests reach maturity',
     ],
+    detail: 'Phase 3 completes the full residential and commercial buildout. All 420+ units are constructed and sold or rented. The commercial village center is fully occupied with diverse tenants. The renewable energy grid reaches net-positive status — the community produces more energy than it consumes. Permaculture food forests planted in Phase 1 reach productive maturity, contributing to the 80-100% food self-sufficiency target. The community is fully self-sustaining.',
+    investment: 'Self-funded from Phase 2 revenues + ongoing sales',
+    dataRoomLink: '/data-room/view/financial/financial-projections',
   },
   {
     period: 'Year 7-10',
@@ -87,6 +107,9 @@ const MILESTONES = [
       'Template sharing for global replication',
       'Investor distributions and exit planning',
     ],
+    detail: 'Phase 4 transitions from development to legacy. The Regenerative Community Documentary captures the 10-year journey for global distribution. Online courses and an education platform package the methodology for communities worldwide. Templates, playbooks, and design guidelines are shared to enable replication. Investor distributions ramp to maximum levels as the final assets are monetized. Exit planning provides options for investors including ongoing cash flow, asset sale, or portfolio transfer.',
+    investment: 'Funded from operational cash flows + content revenue',
+    dataRoomLink: '/data-room/view/investment/executive-summary',
   },
 ]
 
@@ -100,6 +123,8 @@ function StatusIcon({ status }: { status: 'active' | 'upcoming' }) {
 // ═══════════════════════════════════════════════════════════════════════════
 
 export default function TimelinePage() {
+  const [activeMilestone, setActiveMilestone] = useState<typeof MILESTONES[number] | null>(null)
+
   return (
     <div>
       {/* ═══ HERO ═══ */}
@@ -147,7 +172,7 @@ export default function TimelinePage() {
                       </span>
                     </div>
 
-                    <ul className="space-y-2">
+                    <ul className="space-y-2 mb-4">
                       {milestone.items.map((item) => (
                         <li key={item} className="flex items-start gap-2.5">
                           <CheckCircle2 className="w-4 h-4 text-primary-400 mt-0.5 flex-shrink-0" />
@@ -155,11 +180,47 @@ export default function TimelinePage() {
                         </li>
                       ))}
                     </ul>
+
+                    <button
+                      onClick={() => setActiveMilestone(milestone)}
+                      className="font-accent text-sm font-semibold text-primary-700 hover:text-primary-800 transition-colors flex items-center gap-1.5 cursor-pointer"
+                    >
+                      View Details
+                      <ArrowRight className="w-3.5 h-3.5" />
+                    </button>
                   </div>
                 </div>
               </FadeIn>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* ═══ DATA ROOM CALLOUT ═══ */}
+      <section className="bg-primary-50 py-12 md:py-16 border-y border-primary-100">
+        <div className="section-container">
+          <FadeIn>
+            <div className="max-w-3xl mx-auto flex flex-col md:flex-row items-center gap-6">
+              <div className="w-14 h-14 rounded-xl bg-primary-100 flex items-center justify-center flex-shrink-0">
+                <FolderOpen className="w-7 h-7 text-primary-700" />
+              </div>
+              <div className="text-center md:text-left flex-1">
+                <h3 className="font-accent text-lg font-semibold text-neutral-900 mb-1">
+                  Explore the Complete Investor Data Room
+                </h3>
+                <p className="text-sm text-neutral-600">
+                  29 documents across investment, financial, property, legal, regenerative, research, and compliance categories — full transparency for informed decision-making.
+                </p>
+              </div>
+              <Link
+                href="/data-room"
+                className="btn-accent btn-lg rounded-2xl text-base whitespace-nowrap group"
+              >
+                Open Data Room
+                <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+              </Link>
+            </div>
+          </FadeIn>
         </div>
       </section>
 
@@ -187,6 +248,57 @@ export default function TimelinePage() {
           </FadeIn>
         </div>
       </section>
+
+      {/* ═══ MILESTONE MODAL ═══ */}
+      <Modal
+        open={!!activeMilestone}
+        onClose={() => setActiveMilestone(null)}
+        title={activeMilestone?.title}
+        size="md"
+      >
+        {activeMilestone && (
+          <div>
+            <span className={`inline-block font-accent text-sm px-3 py-1 rounded-full mb-4 ${
+              activeMilestone.status === 'active'
+                ? 'text-secondary-700 bg-secondary-50 font-semibold'
+                : 'text-primary-600 bg-primary-50'
+            }`}>
+              {activeMilestone.period}
+            </span>
+
+            <p className="text-neutral-600 leading-relaxed mb-6">{activeMilestone.detail}</p>
+
+            <div className="bg-primary-50 rounded-xl p-4 mb-6 flex items-start gap-3">
+              <DollarSign className="w-5 h-5 text-primary-700 mt-0.5 flex-shrink-0" />
+              <div>
+                <h4 className="font-accent text-sm font-semibold text-primary-800 mb-0.5">Capital Deployed</h4>
+                <p className="text-sm text-primary-700">{activeMilestone.investment}</p>
+              </div>
+            </div>
+
+            <div className="mb-6">
+              <h4 className="font-accent text-sm font-semibold text-neutral-900 mb-3">Key Milestones</h4>
+              <ul className="space-y-2">
+                {activeMilestone.items.map((item) => (
+                  <li key={item} className="flex items-start gap-2">
+                    <CheckCircle2 className="w-4 h-4 text-primary-400 mt-0.5 flex-shrink-0" />
+                    <span className="text-sm text-neutral-600">{item}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            <Link
+              href={activeMilestone.dataRoomLink}
+              className="inline-flex items-center gap-2 font-accent text-sm font-semibold text-primary-700 hover:text-primary-800 transition-colors"
+              onClick={() => setActiveMilestone(null)}
+            >
+              <ExternalLink className="w-4 h-4" />
+              View in Data Room
+            </Link>
+          </div>
+        )}
+      </Modal>
     </div>
   )
 }

@@ -86,7 +86,7 @@ export function Footer() {
             <Link href="/legal" className="text-xs text-white/40 hover:text-white/70 transition-colors font-accent">
               Legal
             </Link>
-            <Link href="/legal" className="text-xs text-white/40 hover:text-white/70 transition-colors font-accent">
+            <Link href="/legal#privacy" className="text-xs text-white/40 hover:text-white/70 transition-colors font-accent">
               Privacy
             </Link>
           </div>
