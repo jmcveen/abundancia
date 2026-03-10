@@ -44,10 +44,11 @@ const NAV_SECTIONS: NavSection[] = [
     ],
   },
   {
-    title: 'Analysis',
+    title: 'Investors',
     links: [
+      { name: 'Investor Overview', href: '/invest' },
       { name: 'Financials', href: '/financials', locked: true },
-      { name: 'The Ask', href: '/invest', locked: true },
+      { name: 'Data Room', href: '/data-room', locked: true },
     ],
   },
   {
@@ -55,7 +56,7 @@ const NAV_SECTIONS: NavSection[] = [
     links: [
       { name: 'Summary', href: '/overview' },
       { name: 'FAQ', href: '/faq' },
-      { name: 'Data Room', href: '/data-room', locked: true },
+      { name: 'Legal', href: '/legal' },
     ],
   },
 ]

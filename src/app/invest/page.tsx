@@ -1,212 +1,321 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import Link from 'next/link'
+import { motion, AnimatePresence } from 'framer-motion'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
-import { AuthGate } from '@/components/auth/AuthGate'
-import { Modal } from '@/components/ui/Modal'
-import { useScenario } from '@/lib/context/scenario-context'
-import { KEY_METRICS } from '@/lib/data/financials'
+import { useInvestTransition } from '@/lib/context/invest-transition-context'
 import {
-  ArrowRight, TrendingUp, Shield, Leaf, Building2,
-  Scale, AlertTriangle, CheckCircle2, ExternalLink, FolderOpen
+  ArrowRight, ArrowDown, Leaf, Home, Droplets, Sun, Shield,
+  MapPin, Users, TreePine,
+  CheckCircle2, FolderOpen, ChevronDown, ChevronUp,
 } from 'lucide-react'
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Smart CTA — Sticky header that appears on scroll
+// ═══════════════════════════════════════════════════════════════════════════
+
+function SmartCTA() {
+  const [visible, setVisible] = useState(false)
+  const [progress, setProgress] = useState(0)
+  const { triggerTransition } = useInvestTransition()
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const scrollY = window.scrollY
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight
+      setVisible(scrollY > 600)
+      setProgress(Math.min((scrollY / docHeight) * 100, 100))
+    }
+    window.addEventListener('scroll', handleScroll, { passive: true })
+    return () => window.removeEventListener('scroll', handleScroll)
+  }, [])
+
+  const label = progress < 30 ? 'Explore' : progress < 70 ? 'Keep Reading' : 'Enter Data Room'
+
+  return (
+    <AnimatePresence>
+      {visible && (
+        <motion.div
+          initial={{ y: -60, opacity: 0 }}
+          animate={{ y: 0, opacity: 1 }}
+          exit={{ y: -60, opacity: 0 }}
+          transition={{ duration: 0.3, ease: [0.16, 1, 0.3, 1] }}
+          className="fixed top-0 left-0 right-0 z-[60]"
+        >
+          <div className="bg-white/90 backdrop-blur-xl border-b border-neutral-100 shadow-sm">
+            <div className="section-container flex items-center justify-between py-3">
+              <div className="flex items-center gap-3">
+                <div className="w-7 h-7 rounded-lg bg-primary-800 flex items-center justify-center">
+                  <Leaf className="w-3.5 h-3.5 text-white" />
+                </div>
+                <span className="font-accent text-sm font-semibold text-neutral-800 hidden sm:block">
+                  Investor Overview
+                </span>
+              </div>
+              <button
+                onClick={() => triggerTransition('/data-room', 'to-light')}
+                className="btn-primary btn-sm rounded-xl text-xs"
+              >
+                {label}
+                <ArrowRight className="w-3.5 h-3.5" />
+              </button>
+            </div>
+            {/* Progress bar */}
+            <div className="h-0.5 bg-neutral-100">
+              <motion.div
+                className="h-full bg-gradient-to-r from-primary-500 to-secondary-500"
+                style={{ width: `${progress}%` }}
+                transition={{ duration: 0.1 }}
+              />
+            </div>
+          </div>
+        </motion.div>
+      )}
+    </AnimatePresence>
+  )
+}
 
 // ═══════════════════════════════════════════════════════════════════════════
 // Data
 // ═══════════════════════════════════════════════════════════════════════════
 
-const THESIS_POINTS = [
+const KEY_STATS = [
+  { value: '376', suffix: ' Acres', label: 'Texas Ranchland' },
+  { value: '$12.5', suffix: 'M', label: 'Capital Raise' },
+  { value: '37.1', suffix: '% IRR', label: 'Projected Return' },
+  { value: '4.42', suffix: 'x', label: 'Equity Multiple' },
+  { value: '670', suffix: '+', label: 'Planned Units' },
+]
+
+const PROBLEM_STATS = [
+  { stat: '39%', label: 'of global CO\u2082 emissions come from buildings and construction' },
+  { stat: '2.4M+', label: 'people in Austin MSA, growing 50-60K/year' },
+  { stat: '0', label: 'regenerative communities available in Austin today' },
+]
+
+const SOLUTION_PILLARS = [
   {
-    icon: TrendingUp,
-    title: 'Institutional-Grade Returns',
-    description: '37% projected IRR with 4.42x equity multiple. LP-favorable waterfall with 8% preferred return and capital return priority.',
-    detail: 'Abundancia is structured as a Texas Series LLC with an LP-favorable waterfall designed to attract sophisticated institutional and accredited investors. The 37.1% base-case IRR is driven by five distinct revenue streams — residential sales, lot sales, rental income, commercial leasing, and retreat operations — with Phase 1 generating cash flow within 12-18 months.\n\nThe 4.42x equity multiple reflects the compounding effect of phased development: early phases fund later phases, MUD bond reimbursements return infrastructure capital, and appreciation over the 10-year hold drives outsized returns. The 8% preferred return ensures investors are compensated from day one before any GP promote kicks in.\n\nComparable eco-community projects (Whisper Valley, Serenbe, Babcock Ranch) have demonstrated that sustainability premiums and community-driven design command pricing power that conventional developments cannot match.',
-    dataRoomLink: '/data-room/view/financial/financial-projections',
+    icon: Home,
+    title: 'Hempcrete Construction',
+    description: 'Carbon-negative homes that last 500+ years. R-30+ insulation, 2hr fire rating, zero off-gassing. Texas building codes adopted 2023.',
+    stat: '500+',
+    statLabel: 'Year Lifespan',
+    color: 'bg-primary-50 text-primary-700',
   },
   {
-    icon: Leaf,
-    title: 'Regenerative Premium',
-    description: 'Sustainability features command 10-25% pricing premiums. Hempcrete reduces insurance, energy, and maintenance costs. Conservation easements provide tax benefits.',
-    detail: 'Research from the National Association of Realtors and multiple market studies shows that green-certified homes sell for 10-25% premiums over conventional construction. In Austin specifically, sustainability features are among the top buyer priorities — 68% of homebuyers report willingness to pay more for sustainable features.\n\nHempcrete construction delivers measurable cost advantages: R-30+ insulation dramatically reduces HVAC costs, 2+ hour fire ratings can reduce insurance premiums by 15-25%, and the 500+ year material lifespan means virtually zero structural maintenance. These benefits translate directly to higher resale values.\n\nConservation easements on the 70-75% preserved land provide significant tax benefits to the entity, further enhancing investor returns while ensuring permanent ecological protection.',
-    dataRoomLink: '/data-room/view/financial/valuation-report',
+    icon: Sun,
+    title: 'Net-Positive Energy',
+    description: 'Every structure generates more energy than it consumes. Solar arrays + battery storage = grid independence.',
+    stat: '100%',
+    statLabel: 'Renewable',
+    color: 'bg-secondary-50 text-secondary-700',
   },
   {
-    icon: Building2,
-    title: 'Proven Market Demand',
-    description: 'Austin\'s population doubles every 20 years. Whisper Valley sold out multiple phases. 68% of buyers pay more for sustainable features.',
-    detail: 'The Austin-Round Rock MSA has grown to 2.4M+ people, adding 50-60K new residents per year. This growth is driven by major employer relocations (Tesla, Apple, Google, Oracle, Samsung) and a quality of life that consistently ranks among the best in America.\n\nWhisper Valley — Austin\'s only comparable eco-community — has sold out every released phase, demonstrating that the market for sustainable living communities far exceeds supply. Abundancia differentiates further with hempcrete construction, food forests, and a fully regenerative design that Whisper Valley does not offer.\n\nBastrop County specifically is in the path of Austin\'s southeastern growth corridor, with SH 130 and SH 71 providing direct access. The county\'s no-zoning, fast-permitting environment allows development timelines of 6-12 months vs. 18-24 months in Austin proper.',
-    dataRoomLink: '/data-room/view/research/market-research-report',
+    icon: Droplets,
+    title: 'Water Security',
+    description: 'Seven retention ponds, rainwater harvesting, greywater recycling. Designed to sustain through extended drought.',
+    stat: '40%',
+    statLabel: 'Water Reduction',
+    color: 'bg-info-50 text-info-700',
   },
   {
-    icon: Shield,
-    title: 'Regulatory De-Risk',
-    description: 'No zoning in Bastrop County. Texas hempcrete building codes adopted. MUD bond financing available. 6-12 month timeline vs 18-24 months in Austin.',
-    detail: 'Bastrop County operates with no zoning, meaning development rights are established by right rather than through discretionary approvals. This eliminates the single largest risk in conventional real estate development — rezoning denial or delay.\n\nTexas adopted hempcrete building codes in 2023, providing clear regulatory pathways for construction. The Municipal Utility District (MUD) framework allows infrastructure costs to be financed through tax-exempt bonds, which are reimbursed to the developer — dramatically improving project economics.\n\nThe Houston toad habitat compliance (LPHCP) is well-established in Bastrop County with clear requirements. Abundancia\'s 70-75% conservation design exceeds LPHCP requirements, creating a positive relationship with regulators rather than an adversarial one.',
-    dataRoomLink: '/data-room/view/property/site-assessment',
-  },
-  {
-    icon: Scale,
-    title: 'Diversified Revenue',
-    description: 'Five revenue streams — residential sales, rental income, lot sales, commercial leasing, and retreat center. No single-source dependency.',
-    detail: 'Unlike single-product developments that depend entirely on home sales, Abundancia generates revenue from five distinct streams that activate at different phases and serve different market segments:\n\n1. Residential Sales — Single-family hempcrete homes, tiny homes, domes, and multifamily condos across a range of price points ($200K-$625K)\n2. Lot Sales — Custom lots for buyers who want to build their own homes within Abundancia\'s design guidelines\n3. Rental Income — Long-term rental units and short-term vacation rentals generating recurring cash flow\n4. Commercial Leasing — Grocery, restaurants, retail, health center, spa, and co-working spaces\n5. Retreat Center — Phase 1 revenue engine using existing structures for events, workshops, and wellness retreats\n\nThis diversification means no single market downturn can eliminate all revenue. The retreat center provides cash flow from month one, while residential and commercial revenues build through phased development.',
-    dataRoomLink: '/data-room/view/financial/unit-economics',
+    icon: TreePine,
+    title: '70% Land Preserved',
+    description: 'Conservation-forward design protects the Lost Pines ecosystem and enhances Houston toad habitat. Tax-advantaged easements.',
+    stat: '263',
+    statLabel: 'Acres Conserved',
+    color: 'bg-success-50 text-success-700',
   },
 ]
 
-const CAPITAL_STRUCTURE = [
-  {
-    label: 'Vehicle',
-    detail: 'Texas Series LLC — LP/GP structure',
-    modalDetail: 'The Texas Series LLC is a flexible entity structure that allows the creation of separate "series" for different phases or asset classes within a single LLC. This means each phase of Abundancia can be isolated for liability purposes while maintaining unified management. The LP/GP structure gives limited partners (investors) liability protection and preferred economic terms, while the general partner manages day-to-day operations and development execution.',
-  },
-  {
-    label: 'Minimum Investment',
-    detail: 'Accredited investors only (Reg D 506(c))',
-    modalDetail: 'The offering is structured under SEC Regulation D, Rule 506(c), which allows general solicitation but requires all investors to be verified accredited investors. Accredited investor status is defined as individuals with $200K+ annual income ($300K joint) or $1M+ net worth excluding primary residence. This structure provides regulatory clarity and investor protection while allowing broader marketing of the opportunity. Contact our capital markets team for specific minimum investment amounts.',
-  },
-  {
-    label: 'Preferred Return',
-    detail: '8% annual preferred return to LPs',
-    modalDetail: 'The 8% annual preferred return means that limited partners receive the first 8% of distributable cash flow before the general partner receives any promote or carried interest. This is a cumulative, compounding preferred return — if distributions are insufficient in any given year, the shortfall accrues and must be made up before any GP participation. This structure ensures that investors are compensated for their capital deployment from the earliest stages of the project.',
-  },
-  {
-    label: 'Waterfall',
-    detail: '80/20 → 70/30 → 60/40 → 50/50 at IRR hurdles',
-    modalDetail: 'The distribution waterfall determines how profits are split between LPs and GP at progressive IRR hurdles:\n\nTier 1 (0-15% IRR): 80% to LPs / 20% to GP — investors receive the vast majority of returns at base-case performance\nTier 2 (15-25% IRR): 70% to LPs / 30% to GP — as returns exceed expectations, the GP earns a larger share\nTier 3 (25-35% IRR): 60% to LPs / 40% to GP — strong outperformance rewards the development team\nTier 4 (35%+ IRR): 50% to LPs / 50% to GP — exceptional returns are shared equally\n\nThis structure is LP-favorable because the GP only earns meaningful promote at above-market returns. The 8% preferred return must be satisfied before any waterfall distribution.',
-    dataRoomLink: '/data-room/view/investment/operating-agreement',
-  },
-  {
-    label: 'Hold Period',
-    detail: '10-year target with extensions available',
-    modalDetail: 'The target hold period is 10 years, aligned with the full four-phase development timeline. Extensions are available by LP vote if market conditions or development timing warrant additional time. The phased nature of the project means investors begin receiving distributions well before the 10-year mark — Phase 1 operations generate cash flow within 12-18 months, and home sales begin in Year 1-2. The 10-year horizon allows the project to capture the full appreciation of the completed community rather than selling individual phases at a discount.',
-  },
-  {
-    label: 'Capital Return',
-    detail: 'LPs receive full capital back before any GP promote',
-    modalDetail: 'In the distribution priority, LP capital return comes before any GP promote payment. This means investors receive their entire initial investment back before the general partner participates in profits beyond the base management fee. This is a key investor protection — it ensures the development team is incentivized to return investor capital as quickly as possible. Combined with the 8% preferred return, this structure aligns GP and LP interests toward efficient capital deployment and early revenue generation.',
-  },
-  {
-    label: 'Reporting',
-    detail: 'Quarterly investor reports, annual K-1s',
-    modalDetail: 'Investors receive quarterly reports including financial statements, development progress updates, milestone tracking, and capital deployment summaries. Annual K-1 tax documents are provided for pass-through tax treatment — investors report their pro-rata share of income, deductions, and credits on their personal returns. The Series LLC structure provides tax efficiency while maintaining full transparency on project economics.',
-  },
+const MARKET_POINTS = [
+  { stat: '50-60K', label: 'New residents per year in Austin MSA' },
+  { stat: '68%', label: 'Of homebuyers pay more for sustainable features' },
+  { stat: '$755M+', label: 'Raised by our team for RE projects' },
+  { stat: '10-25%', label: 'Pricing premium for green-certified homes' },
+]
+
+const REVENUE_STREAMS = [
+  { name: 'Residential Sales', description: 'Hempcrete homes, tiny homes, domes, multifamily — $200K to $625K', percentage: 83, color: 'bg-primary-700' },
+  { name: 'Rental Income', description: 'Long-term and short-term vacation rentals', percentage: 10, color: 'bg-primary-500' },
+  { name: 'Lot Sales', description: 'Custom lots within Abundancia design guidelines', percentage: 4, color: 'bg-primary-300' },
+  { name: 'Commercial Leasing', description: 'Grocery, restaurants, health center, co-working', percentage: 2, color: 'bg-accent-400' },
+  { name: 'Retreat Center', description: 'Phase 1 revenue engine — events, workshops, wellness', percentage: 1, color: 'bg-secondary-500' },
 ]
 
 const RETURN_SCENARIOS = [
-  {
-    scenario: 'Conservative',
-    irr: '24%',
-    emx: '3.0x',
-    detail: 'The conservative scenario assumes slower absorption rates (15-20% below base case), 5-10% lower pricing across all product types, 6-month delays on each phase transition, and higher construction costs (+10%). Even under these stressed assumptions, the project delivers a strong 24% IRR and 3.0x equity multiple, reflecting the fundamental strength of the location, product, and market dynamics.',
-    assumptions: [
-      'Absorption rates 15-20% below base case',
-      'Pricing 5-10% below market projections',
-      '6-month delay on each phase transition',
-      'Construction costs +10% over budget',
-      'No MUD bond reimbursement acceleration',
-    ],
-  },
-  {
-    scenario: 'Base Case',
-    irr: '37.1%',
-    emx: '4.42x',
-    detail: 'The base case reflects our best estimate of market conditions based on comparable projects (Whisper Valley, Serenbe), current Austin market dynamics, and conservative growth assumptions. Pricing reflects current market comparables with a 10-15% sustainability premium. Absorption rates are benchmarked against Whisper Valley\'s actual performance. Timeline assumes standard construction and permitting durations for Bastrop County.',
-    assumptions: [
-      'Absorption rates benchmarked to Whisper Valley actuals',
-      'Pricing at market with 10-15% sustainability premium',
-      'Standard construction timelines for Bastrop County',
-      'MUD bond reimbursement at expected schedule',
-      '3% annual appreciation on unsold inventory',
-    ],
-  },
-  {
-    scenario: 'Optimistic',
-    irr: '45%',
-    emx: '5.5x',
-    detail: 'The optimistic scenario reflects accelerated demand driven by Austin\'s continued population growth, sustainability premiums at the high end of the range (20-25%), faster Phase 1 retreat center ramp-up, and potential for Phase 2 acceleration. This scenario also assumes favorable interest rate environment for MUD bond pricing and strong commercial tenant demand.',
-    assumptions: [
-      'Absorption rates 15-20% above base case',
-      'Sustainability premiums at 20-25%',
-      'Phase 1 retreat revenue exceeds projections by 25%',
-      'Accelerated Phase 2 start by 6 months',
-      'Favorable MUD bond pricing and reimbursement timing',
-    ],
-  },
+  { scenario: 'Conservative', irr: '24%', emx: '3.0x', width: 48 },
+  { scenario: 'Base Case', irr: '37.1%', emx: '4.42x', width: 74 },
+  { scenario: 'Optimistic', irr: '45%', emx: '5.5x', width: 90 },
 ]
 
-const RISKS = [
+const CAPITAL_HIGHLIGHTS = [
+  { label: 'Vehicle', value: 'Texas Series LLC (LP/GP)' },
+  { label: 'Preferred Return', value: '8% annual to LPs' },
+  { label: 'Hold Period', value: '10 years' },
+  { label: 'Capital Return', value: 'LPs first, before GP promote' },
+  { label: 'Waterfall', value: '80/20 \u2192 70/30 \u2192 60/40 \u2192 50/50' },
+  { label: 'Reporting', value: 'Quarterly reports, annual K-1s' },
+]
+
+const MOAT_LAYERS = [
+  { title: 'First Hempcrete Community in Austin', description: 'No comparable product exists in the fastest-growing metro in America.' },
+  { title: '376 Acres in the Path of Growth', description: 'Bastrop County, 30 min from downtown Austin. Land at this scale cannot be replicated.' },
+  { title: 'Regulatory Advantage', description: 'No zoning in Bastrop County. Hempcrete codes adopted in Texas. 6-12 month timeline vs 18-24 in Austin.' },
+  { title: 'Conservation Ecosystem', description: '70% land preserved with tax-advantaged easements. Exceeds LPHCP environmental requirements.' },
+  { title: 'Proven Team', description: '$755M+ raised for real estate projects. 200+ transactions. 70+ eco communities analyzed.' },
+  { title: 'Diversified Revenue', description: 'Five streams across residential, commercial, rental, lots, and retreat operations.' },
+  { title: 'MUD Bond Framework', description: 'Infrastructure costs reimbursed through tax-exempt municipal bonds. Proven Texas mechanism.' },
+]
+
+const ROADMAP_PHASES = [
+  { phase: 'Phase 1', timeline: 'Months 1-18', title: 'Foundation', items: ['Land acquisition & master planning', 'Retreat center operations (cash flow)', 'Initial infrastructure & MUD formation', 'Model home construction'] },
+  { phase: 'Phase 2', timeline: 'Year 2-4', title: 'Growth', items: ['First residential neighborhood (100 units)', 'Commercial village core', 'Food forests & permaculture systems', 'Solar + water infrastructure'] },
+  { phase: 'Phase 3', timeline: 'Year 4-7', title: 'Expansion', items: ['Multifamily development (260 units)', 'Tiny home & dome neighborhoods', 'Full commercial activation', 'Lot sales program'] },
+  { phase: 'Phase 4', timeline: 'Year 7-10', title: 'Maturity', items: ['Final buildout & optimization', 'Rental portfolio stabilization', 'Conservation easement finalization', 'Exit preparation & LP distributions'] },
+]
+
+const TEAM_MEMBERS = [
+  { name: 'Joe McVeen', title: 'Managing Partner', credential: '$755M+ raised for RE projects' },
+  { name: 'Development Team', title: 'Experienced Operators', credential: '200+ successful transactions' },
+  { name: 'Advisory Board', title: 'Domain Experts', credential: '70+ eco communities analyzed' },
+]
+
+const FAQ_ITEMS = [
   {
-    risk: 'Construction Cost Overruns',
-    mitigation: '18% contingency reserve. Fixed-price hempcrete contracts. Phased construction allows scope adjustment between phases.',
-    detail: 'Construction cost overruns are the most common risk in ground-up development. Our mitigation strategy is three-layered: First, an 18% contingency reserve — well above the industry standard 10-12% — provides a substantial buffer. Second, hempcrete construction contracts are fixed-price with established local contractors, eliminating material cost volatility. Third, the phased development model means each phase is scoped and budgeted independently — if Phase 1 costs come in high, Phase 2 scope can be adjusted before commitment. Additionally, MUD bond reimbursements for infrastructure costs provide a capital recapture mechanism that further de-risks the construction budget.',
+    question: 'What is the offering structure?',
+    answer: 'Reg D 506(c) offering through a Texas Series LLC. Accredited investors only. LP-favorable waterfall with 8% preferred return and capital return priority.',
   },
   {
-    risk: 'Market/Absorption Risk',
-    mitigation: 'Austin population growth provides sustained demand. Multiple product types at varied price points. Retreat center generates Phase 1 revenue immediately.',
-    detail: 'Market absorption risk — the possibility that homes sell more slowly than projected — is mitigated by Austin\'s extraordinary population growth (50-60K new residents/year), the scarcity of comparable eco-community product in the market, and Abundancia\'s diverse product mix. With price points ranging from ~$200K tiny homes to ~$625K single-family hempcrete homes, the project serves multiple buyer segments. The retreat center operates independently of home sales, generating revenue from Phase 1 and providing cash flow even in a slow absorption environment. Comparable projects like Whisper Valley have sold out every released phase, suggesting demand significantly exceeds supply.',
+    question: 'What are the projected returns?',
+    answer: 'Base case: 37.1% IRR with 4.42x equity multiple over a 10-year hold. Conservative scenario: 24% IRR / 3.0x. Optimistic: 45% IRR / 5.5x. Five revenue streams provide diversification.',
   },
   {
-    risk: 'Regulatory Changes',
-    mitigation: 'No zoning means no rezoning risk. Hempcrete is now code-compliant in Texas. Conservation-forward design exceeds environmental requirements.',
-    detail: 'Regulatory risk is minimized by Bastrop County\'s no-zoning framework — there is no discretionary approval to be revoked or modified. Texas hempcrete building codes were adopted in 2023 with broad industry support, making reversal extremely unlikely. Our LPHCP compliance and 70-75% land conservation actually exceed regulatory requirements, meaning even if environmental regulations tighten, Abundancia is already ahead of any foreseeable standard. The MUD framework is well-established in Texas law with decades of precedent.',
+    question: 'What makes hempcrete special?',
+    answer: 'Hempcrete is carbon-negative (sequesters CO\u2082), has R-30+ insulation, 2+ hour fire ratings, zero off-gassing, and 500+ year material lifespan. Texas adopted hempcrete building codes in 2023.',
   },
   {
-    risk: 'Environmental (Houston Toad)',
-    mitigation: 'LPHCP compliance built into design. 70-75% land conservation exceeds requirements. Habitat enhancement creates positive relationship with regulators.',
-    detail: 'The Houston toad is an endangered species native to the Lost Pines ecoregion. The Bastrop County Local Permit Habitat Conservation Plan (LPHCP) provides a clear compliance pathway that Abundancia follows. Our design conserves 70-75% of the land — significantly exceeding the LPHCP minimum — and actively enhances habitat through native planting, water feature management, and ecological corridor connectivity. This conservation-forward approach means regulators view Abundancia as a net positive for the species rather than a threat. Environmental consultants have been engaged from project inception to ensure full compliance.',
+    question: 'How does the MUD bond framework work?',
+    answer: 'Municipal Utility Districts allow infrastructure costs to be financed through tax-exempt bonds, which are reimbursed to the developer. This dramatically improves project economics and is a well-established mechanism in Texas.',
   },
   {
-    risk: 'Capital Call Risk',
-    mitigation: 'Phased development model. Phase 1 is revenue-generating. No capital calls beyond initial commitment. MUD bonds reimburse infrastructure costs.',
-    detail: 'Capital call risk — the possibility of needing to request additional capital from investors — is structurally eliminated. The $12.5M raise is sized to fund the project through Phase 1 revenue generation. There are no planned or permitted capital calls beyond the initial commitment. Phase 1 retreat center operations generate cash flow within 12-18 months, and MUD bond reimbursements return infrastructure capital to the project. The phased development model means later phases are funded by earlier phase revenues, not additional investor capital.',
+    question: 'When does the project generate cash flow?',
+    answer: 'Phase 1 retreat center operations generate revenue within 12-18 months. Home sales begin in Year 1-2. The phased model means later phases are funded by earlier phase revenues.',
   },
   {
-    risk: 'Interest Rate / Financing Risk',
-    mitigation: 'Conservative leverage assumptions. MUD bonds provide below-market infrastructure financing. Phase 1 cash flow reduces refinancing dependency.',
-    detail: 'Interest rate risk is mitigated through conservative leverage assumptions in the financial model, the availability of MUD bonds (tax-exempt municipal bonds that provide below-market rates for infrastructure financing), and the project\'s early cash flow generation. Phase 1 retreat revenue and initial home sales reduce dependency on debt markets for ongoing operations. The financial model stress-tests scenarios with rates 200-300 basis points above current levels and maintains positive returns even under those conditions.',
+    question: 'How do I get started?',
+    answer: 'Access the data room below for full documentation including the PPM, financial model, and subscription agreement. Or apply directly through our investor application.',
   },
 ]
 
 // ═══════════════════════════════════════════════════════════════════════════
-// Page Content
+// FAQ Accordion Item
 // ═══════════════════════════════════════════════════════════════════════════
 
-function InvestContent() {
-  const { scenario } = useScenario()
-  const metrics = KEY_METRICS[scenario]
-  const [activeThesis, setActiveThesis] = useState<typeof THESIS_POINTS[number] | null>(null)
-  const [activeCapital, setActiveCapital] = useState<typeof CAPITAL_STRUCTURE[number] | null>(null)
-  const [activeReturn, setActiveReturn] = useState<typeof RETURN_SCENARIOS[number] | null>(null)
-  const [activeRisk, setActiveRisk] = useState<typeof RISKS[number] | null>(null)
+function FAQItem({ question, answer }: { question: string; answer: string }) {
+  const [open, setOpen] = useState(false)
 
   return (
-    <div>
+    <button
+      onClick={() => setOpen(!open)}
+      className="w-full text-left border-b border-neutral-100 last:border-0"
+    >
+      <div className="flex items-center justify-between py-5 gap-4">
+        <h3 className="font-accent text-base font-semibold text-neutral-900">{question}</h3>
+        {open ? (
+          <ChevronUp className="w-5 h-5 text-neutral-400 flex-shrink-0" />
+        ) : (
+          <ChevronDown className="w-5 h-5 text-neutral-400 flex-shrink-0" />
+        )}
+      </div>
+      <AnimatePresence>
+        {open && (
+          <motion.div
+            initial={{ height: 0, opacity: 0 }}
+            animate={{ height: 'auto', opacity: 1 }}
+            exit={{ height: 0, opacity: 0 }}
+            transition={{ duration: 0.25 }}
+            className="overflow-hidden"
+          >
+            <p className="text-sm text-neutral-600 leading-relaxed pb-5">{answer}</p>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </button>
+  )
+}
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Page
+// ═══════════════════════════════════════════════════════════════════════════
+
+export default function InvestorOverviewPage() {
+  const { triggerTransition } = useInvestTransition()
+
+  const scrollToSection = useCallback((id: string) => {
+    document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' })
+  }, [])
+
+  return (
+    <div className="bg-canvas">
+      <SmartCTA />
+
       {/* ═══ HERO ═══ */}
-      <section className="relative py-24 md:py-32 overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-b from-primary-50 to-canvas" />
+      <section className="relative pt-8 pb-20 md:pt-12 md:pb-28 overflow-hidden">
+        {/* Subtle gradient background */}
+        <div className="absolute inset-0 bg-gradient-to-b from-primary-50/60 via-canvas to-canvas" />
+        <div className="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-secondary-50/30 to-transparent" />
+
         <div className="relative section-container">
           <FadeIn>
-            <span className="eyebrow mb-4 block">The Investment</span>
-            <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-neutral-900 mb-6 max-w-4xl">
-              $12.5M Capital Raise
+            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary-50 border border-primary-100 mb-8">
+              <MapPin className="w-3.5 h-3.5 text-primary-600" />
+              <span className="font-accent text-sm font-medium text-primary-700">376 Acres &middot; Cedar Creek, TX &middot; 30 min from Austin</span>
+            </div>
+          </FadeIn>
+
+          <FadeIn delay={0.15}>
+            <h1 className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-neutral-900 mb-6 max-w-5xl tracking-tight">
+              New Age Development<br />
+              <span className="text-primary-600">Comes to Austin</span>
             </h1>
-            <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
-              Accredited investors are invited to participate in a generational opportunity — the first institutional-grade regenerative community in the Austin metro. The full vision, one raise.
-            </p>
           </FadeIn>
 
           <FadeIn delay={0.3}>
-            <div className="mt-8 grid grid-cols-2 md:grid-cols-4 gap-4 max-w-2xl">
-              {[
-                { value: '$12.5M', label: 'Raise Amount' },
-                { value: `${metrics.irr}%`, label: 'Projected IRR' },
-                { value: `${metrics.emx}x`, label: 'Equity Multiple' },
-                { value: '10 Year', label: 'Hold Period' },
-              ].map((item) => (
-                <div key={item.label} className="text-center">
-                  <div className="font-display text-2xl font-bold text-primary-800">{item.value}</div>
-                  <div className="font-accent text-xs text-neutral-500 mt-0.5">{item.label}</div>
+            <p className="text-xl md:text-2xl text-neutral-600 max-w-3xl leading-relaxed mb-10">
+              The first institutional-grade regenerative community in the Austin metro. Carbon-negative hempcrete homes, net-positive energy, food forests, and 70% land conservation — proving that profitable development and ecological regeneration amplify each other.
+            </p>
+          </FadeIn>
+
+          <FadeIn delay={0.45}>
+            <div className="flex flex-col sm:flex-row items-start gap-4 mb-16">
+              <button
+                onClick={() => scrollToSection('opportunity')}
+                className="btn-primary btn-lg rounded-2xl text-base group"
+              >
+                Explore the Opportunity
+                <ArrowDown className="w-5 h-5 group-hover:translate-y-0.5 transition-transform" />
+              </button>
+              <button
+                onClick={() => triggerTransition('/data-room', 'to-light')}
+                className="btn-secondary btn-lg rounded-2xl text-base group"
+              >
+                Access Data Room
+                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+              </button>
+            </div>
+          </FadeIn>
+
+          {/* Key Stats Strip */}
+          <FadeIn delay={0.6}>
+            <div className="grid grid-cols-2 sm:grid-cols-5 gap-6 sm:gap-4 max-w-4xl">
+              {KEY_STATS.map((item) => (
+                <div key={item.label} className="text-center sm:text-left">
+                  <div className="font-display text-3xl sm:text-2xl md:text-3xl font-bold text-primary-800">
+                    {item.value}<span className="text-primary-500">{item.suffix}</span>
+                  </div>
+                  <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">{item.label}</div>
                 </div>
               ))}
             </div>
@@ -214,66 +323,181 @@ function InvestContent() {
         </div>
       </section>
 
-      {/* ═══ INVESTMENT THESIS ═══ */}
+      {/* ═══ THE PROBLEM ═══ */}
+      <section id="opportunity" className="py-20 md:py-28 bg-white">
+        <div className="section-container">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
+            <FadeIn>
+              <div>
+                <span className="eyebrow mb-4 block">The Problem</span>
+                <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+                  Traditional Development Is Broken
+                </h2>
+                <p className="text-lg text-neutral-600 leading-relaxed mb-8">
+                  Conventional construction is the single largest contributor to global emissions.
+                  Austin is the fastest-growing major metro in America — but every new subdivision
+                  looks the same: energy-dependent, ecologically destructive, built to depreciate.
+                  There is no regenerative community available for the hundreds of thousands of people
+                  moving to Austin who want something fundamentally different.
+                </p>
+                <p className="text-lg text-neutral-600 leading-relaxed font-medium">
+                  Until now.
+                </p>
+              </div>
+            </FadeIn>
+
+            <FadeIn delay={0.2}>
+              <div className="grid grid-cols-1 gap-4">
+                {PROBLEM_STATS.map((item) => (
+                  <div key={item.stat} className="bg-canvas rounded-2xl p-6 border border-neutral-100">
+                    <div className="font-display text-4xl md:text-5xl font-bold text-primary-800 mb-2">
+                      {item.stat}
+                    </div>
+                    <p className="text-sm text-neutral-600 leading-relaxed">{item.label}</p>
+                  </div>
+                ))}
+              </div>
+            </FadeIn>
+          </div>
+        </div>
+      </section>
+
+      {/* ═══ THE SOLUTION ═══ */}
       <section className="py-20 md:py-28 bg-canvas">
         <div className="section-container">
           <FadeIn>
             <div className="text-center mb-14">
-              <span className="eyebrow mb-3 block">Investment Thesis</span>
+              <span className="eyebrow mb-3 block">The Solution</span>
               <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
-                Why This. Why Now. Why Us.
+                Regenerative by Design
               </h2>
+              <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
+                Four technology pillars that make Abundancia the most advanced residential community in Texas.
+              </p>
             </div>
           </FadeIn>
 
-          <StaggerContainer className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
-            {THESIS_POINTS.map((point) => (
-              <StaggerItem key={point.title}>
-                <button
-                  onClick={() => setActiveThesis(point)}
-                  className="card p-6 h-full text-left w-full cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-200 group"
-                >
-                  <div className="w-12 h-12 rounded-xl bg-primary-50 flex items-center justify-center mb-4 group-hover:bg-primary-100 transition-colors">
-                    <point.icon className="w-6 h-6 text-primary-600" />
+          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+            {SOLUTION_PILLARS.map((pillar) => (
+              <StaggerItem key={pillar.title}>
+                <div className="bg-white rounded-2xl p-6 h-full border border-neutral-100 hover:shadow-card-hover hover:-translate-y-1 transition-all duration-300">
+                  <div className={`w-12 h-12 rounded-xl ${pillar.color} flex items-center justify-center mb-4`}>
+                    <pillar.icon className="w-6 h-6" />
                   </div>
-                  <h3 className="font-accent text-lg font-semibold text-neutral-900 mb-2 group-hover:text-primary-700 transition-colors">
-                    {point.title}
+                  <h3 className="font-accent text-lg font-semibold text-neutral-900 mb-2">
+                    {pillar.title}
                   </h3>
-                  <p className="text-sm text-neutral-600 leading-relaxed">
-                    {point.description}
+                  <p className="text-sm text-neutral-600 leading-relaxed mb-4">
+                    {pillar.description}
                   </p>
-                </button>
+                  <div className="pt-4 border-t border-neutral-100">
+                    <div className="font-display text-2xl font-bold text-primary-800">{pillar.stat}</div>
+                    <div className="font-accent text-xs text-neutral-500 uppercase tracking-wider">{pillar.statLabel}</div>
+                  </div>
+                </div>
               </StaggerItem>
             ))}
           </StaggerContainer>
         </div>
       </section>
 
-      {/* ═══ CAPITAL STRUCTURE ═══ */}
-      <section className="py-20 md:py-28 bg-primary-900 text-white">
+      {/* ═══ MARKET OPPORTUNITY ═══ */}
+      <section className="py-20 md:py-28 bg-white">
+        <div className="section-container">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
+            <FadeIn>
+              <div>
+                <span className="eyebrow mb-4 block">Market Opportunity</span>
+                <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+                  Austin Is Ready
+                </h2>
+                <p className="text-lg text-neutral-600 leading-relaxed mb-6">
+                  Austin&apos;s population doubles every 20 years. Tesla, Apple, Google, Oracle, Samsung —
+                  the world&apos;s most innovative companies are moving here. And yet there is zero
+                  institutional-grade regenerative housing available for the people who work at them.
+                </p>
+                <p className="text-lg text-neutral-600 leading-relaxed">
+                  Whisper Valley — Austin&apos;s only comparable eco-community — has sold out every
+                  released phase. Abundancia goes further: hempcrete construction, food forests,
+                  conservation-forward design, and a fully regenerative ecosystem that Whisper Valley
+                  doesn&apos;t offer.
+                </p>
+              </div>
+            </FadeIn>
+
+            <FadeIn delay={0.2}>
+              <div className="grid grid-cols-2 gap-4">
+                {MARKET_POINTS.map((item) => (
+                  <div key={item.label} className="bg-canvas rounded-2xl p-6 text-center border border-neutral-100">
+                    <div className="font-display text-3xl font-bold text-primary-800 mb-2">{item.stat}</div>
+                    <p className="text-xs text-neutral-500 leading-relaxed font-accent">{item.label}</p>
+                  </div>
+                ))}
+              </div>
+            </FadeIn>
+          </div>
+        </div>
+      </section>
+
+      {/* ═══ REVENUE MODEL ═══ */}
+      <section className="py-20 md:py-28 bg-canvas">
+        <div className="section-container">
+          <FadeIn>
+            <div className="text-center mb-14">
+              <span className="eyebrow mb-3 block">Revenue Model</span>
+              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+                Five Revenue Streams
+              </h2>
+              <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
+                No single-source dependency. Revenue diversification protects against market cycles.
+              </p>
+            </div>
+          </FadeIn>
+
+          <FadeIn delay={0.2}>
+            <div className="max-w-3xl mx-auto space-y-4">
+              {REVENUE_STREAMS.map((stream) => (
+                <div key={stream.name} className="bg-white rounded-xl p-5 border border-neutral-100">
+                  <div className="flex items-center justify-between mb-2">
+                    <h3 className="font-accent text-base font-semibold text-neutral-900">{stream.name}</h3>
+                    <span className="font-accent text-sm font-bold text-primary-700">{stream.percentage}%</span>
+                  </div>
+                  <p className="text-sm text-neutral-500 mb-3">{stream.description}</p>
+                  <div className="w-full bg-neutral-100 rounded-full h-2">
+                    <div
+                      className={`h-2 rounded-full ${stream.color}`}
+                      style={{ width: `${stream.percentage}%` }}
+                    />
+                  </div>
+                </div>
+              ))}
+            </div>
+          </FadeIn>
+        </div>
+      </section>
+
+      {/* ═══ FINANCIAL HIGHLIGHTS ═══ */}
+      <section className="py-20 md:py-28 bg-primary-800">
         <div className="section-container">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16">
             <FadeIn>
               <div>
-                <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-3 block">
-                  Capital Structure
+                <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
+                  Financial Highlights
                 </span>
-                <h2 className="font-display text-4xl md:text-5xl mb-6">
-                  How It Works
+                <h2 className="font-display text-4xl md:text-5xl text-white mb-8">
+                  The Numbers
                 </h2>
-                <div className="space-y-4">
-                  {CAPITAL_STRUCTURE.map((item) => (
-                    <button
-                      key={item.label}
-                      onClick={() => setActiveCapital(item)}
-                      className="w-full flex items-start gap-3 text-left cursor-pointer group hover:bg-white/5 rounded-lg px-3 py-2 -mx-3 transition-colors"
-                    >
-                      <CheckCircle2 className="w-4 h-4 text-secondary-400 mt-0.5 flex-shrink-0" />
+
+                <div className="space-y-3">
+                  {CAPITAL_HIGHLIGHTS.map((item) => (
+                    <div key={item.label} className="flex items-start gap-3">
+                      <CheckCircle2 className="w-4 h-4 text-secondary-400 mt-1 flex-shrink-0" />
                       <div>
-                        <span className="font-accent text-sm font-semibold text-white group-hover:text-secondary-400 transition-colors">{item.label}</span>
-                        <span className="text-sm text-white/60"> — {item.detail}</span>
+                        <span className="font-accent text-sm font-semibold text-white">{item.label}</span>
+                        <span className="text-sm text-white/60"> &mdash; {item.value}</span>
                       </div>
-                    </button>
+                    </div>
                   ))}
                 </div>
               </div>
@@ -286,13 +510,9 @@ function InvestContent() {
                 </h3>
                 <div className="space-y-6">
                   {RETURN_SCENARIOS.map((item) => (
-                    <button
-                      key={item.scenario}
-                      onClick={() => setActiveReturn(item)}
-                      className="w-full text-left cursor-pointer group hover:bg-white/5 rounded-lg px-3 py-2 -mx-3 transition-colors"
-                    >
+                    <div key={item.scenario}>
                       <div className="flex items-center justify-between mb-2">
-                        <span className="font-accent text-sm text-white/70 group-hover:text-white transition-colors">{item.scenario}</span>
+                        <span className="font-accent text-sm text-white/70">{item.scenario}</span>
                         <div className="flex items-center gap-4">
                           <span className="font-accent text-sm font-semibold text-secondary-400">{item.irr} IRR</span>
                           <span className="font-accent text-sm text-white/50">{item.emx} EMx</span>
@@ -301,11 +521,26 @@ function InvestContent() {
                       <div className="w-full bg-white/10 rounded-full h-2">
                         <div
                           className="bg-gradient-to-r from-secondary-400 to-secondary-500 h-2 rounded-full"
-                          style={{ width: `${(parseFloat(item.irr) / 50) * 100}%` }}
+                          style={{ width: `${item.width}%` }}
                         />
                       </div>
-                    </button>
+                    </div>
                   ))}
+                </div>
+
+                <div className="mt-8 pt-6 border-t border-white/10 grid grid-cols-3 gap-4 text-center">
+                  <div>
+                    <div className="font-display text-2xl font-bold text-white">$12.5M</div>
+                    <div className="font-accent text-xs text-white/50 mt-0.5">Raise</div>
+                  </div>
+                  <div>
+                    <div className="font-display text-2xl font-bold text-white">8%</div>
+                    <div className="font-accent text-xs text-white/50 mt-0.5">Pref Return</div>
+                  </div>
+                  <div>
+                    <div className="font-display text-2xl font-bold text-white">10 Yr</div>
+                    <div className="font-accent text-xs text-white/50 mt-0.5">Hold Period</div>
+                  </div>
                 </div>
               </div>
             </FadeIn>
@@ -313,69 +548,116 @@ function InvestContent() {
         </div>
       </section>
 
-      {/* ═══ RISK MITIGATION ═══ */}
-      <section className="py-20 md:py-28 bg-canvas">
+      {/* ═══ COMPETITIVE MOAT ═══ */}
+      <section className="py-20 md:py-28 bg-white">
         <div className="section-container">
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">
-                <AlertTriangle className="w-4 h-4 inline mr-2 -mt-0.5" />
-                Risk Mitigation
+                <Shield className="w-4 h-4 inline mr-2 -mt-0.5" />
+                Competitive Moat
               </span>
               <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
-                Key Risks & How We Address Them
+                Seven Layers of Protection
               </h2>
             </div>
           </FadeIn>
 
           <FadeIn delay={0.2}>
-            <div className="max-w-3xl mx-auto space-y-4">
-              {RISKS.map((item) => (
-                <button
-                  key={item.risk}
-                  onClick={() => setActiveRisk(item)}
-                  className="card p-5 w-full text-left cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-200 group"
-                >
-                  <div className="flex items-start gap-4">
-                    <div className="w-8 h-8 rounded-lg bg-amber-50 flex items-center justify-center flex-shrink-0 mt-0.5">
-                      <AlertTriangle className="w-4 h-4 text-amber-500" />
-                    </div>
-                    <div>
-                      <h3 className="font-accent text-base font-semibold text-neutral-900 mb-1 group-hover:text-primary-700 transition-colors">
-                        {item.risk}
-                      </h3>
-                      <p className="text-sm text-neutral-600 leading-relaxed">
-                        <span className="font-semibold text-primary-700">Mitigation: </span>
-                        {item.mitigation}
-                      </p>
-                    </div>
+            <div className="max-w-3xl mx-auto space-y-3">
+              {MOAT_LAYERS.map((layer, i) => (
+                <div key={layer.title} className="flex items-start gap-4 bg-canvas rounded-xl p-5 border border-neutral-100">
+                  <div className="w-8 h-8 rounded-lg bg-primary-50 flex items-center justify-center flex-shrink-0 mt-0.5">
+                    <span className="font-accent text-sm font-bold text-primary-700">{i + 1}</span>
                   </div>
-                </button>
+                  <div>
+                    <h3 className="font-accent text-base font-semibold text-neutral-900 mb-1">{layer.title}</h3>
+                    <p className="text-sm text-neutral-600 leading-relaxed">{layer.description}</p>
+                  </div>
+                </div>
               ))}
             </div>
           </FadeIn>
         </div>
       </section>
 
-      {/* ═══ DATA ROOM BANNER ═══ */}
-      <section className="bg-primary-50 py-12 md:py-16 border-y border-primary-100">
+      {/* ═══ ROADMAP ═══ */}
+      <section className="py-20 md:py-28 bg-canvas">
         <div className="section-container">
           <FadeIn>
-            <div className="flex flex-col md:flex-row items-center justify-between gap-6 max-w-4xl mx-auto">
-              <div className="flex items-center gap-4">
-                <div className="w-12 h-12 rounded-xl bg-primary-100 flex items-center justify-center flex-shrink-0">
-                  <FolderOpen className="w-6 h-6 text-primary-700" />
+            <div className="text-center mb-14">
+              <span className="eyebrow mb-3 block">Development Roadmap</span>
+              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+                10-Year Vision. 4 Phases.
+              </h2>
+            </div>
+          </FadeIn>
+
+          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
+            {ROADMAP_PHASES.map((phase, i) => (
+              <StaggerItem key={phase.phase}>
+                <div className={`rounded-2xl p-6 h-full border ${i === 0 ? 'bg-primary-50 border-primary-200' : 'bg-white border-neutral-100'}`}>
+                  <div className="flex items-center gap-2 mb-1">
+                    <span className={`font-accent text-xs font-bold uppercase tracking-wider ${i === 0 ? 'text-primary-700' : 'text-neutral-400'}`}>
+                      {phase.phase}
+                    </span>
+                    {i === 0 && (
+                      <span className="px-2 py-0.5 rounded-full bg-primary-100 text-primary-700 text-[10px] font-accent font-bold uppercase">
+                        Active
+                      </span>
+                    )}
+                  </div>
+                  <div className="font-accent text-xs text-neutral-500 mb-3">{phase.timeline}</div>
+                  <h3 className="font-display text-xl text-neutral-900 mb-3">{phase.title}</h3>
+                  <ul className="space-y-2">
+                    {phase.items.map((item) => (
+                      <li key={item} className="flex items-start gap-2">
+                        <div className={`w-1.5 h-1.5 rounded-full mt-2 flex-shrink-0 ${i === 0 ? 'bg-primary-500' : 'bg-neutral-300'}`} />
+                        <span className="text-sm text-neutral-600">{item}</span>
+                      </li>
+                    ))}
+                  </ul>
                 </div>
-                <div>
-                  <h3 className="font-accent text-lg font-semibold text-neutral-900">Access the Full Data Room</h3>
-                  <p className="text-sm text-neutral-600">29 documents across investment, financial, property, legal, regenerative, research, and compliance categories.</p>
+              </StaggerItem>
+            ))}
+          </StaggerContainer>
+        </div>
+      </section>
+
+      {/* ═══ TEAM ═══ */}
+      <section className="py-20 md:py-28 bg-white">
+        <div className="section-container">
+          <FadeIn>
+            <div className="text-center mb-14">
+              <span className="eyebrow mb-3 block">Leadership</span>
+              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+                Proven Operators
+              </h2>
+              <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
+                A team that has raised $755M+ for real estate projects and analyzed 70+ eco-communities worldwide.
+              </p>
+            </div>
+          </FadeIn>
+
+          <FadeIn delay={0.2}>
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-3xl mx-auto mb-10">
+              {TEAM_MEMBERS.map((member) => (
+                <div key={member.name} className="text-center bg-canvas rounded-2xl p-6 border border-neutral-100">
+                  <div className="w-16 h-16 rounded-full bg-primary-100 flex items-center justify-center mx-auto mb-4">
+                    <Users className="w-7 h-7 text-primary-600" />
+                  </div>
+                  <h3 className="font-accent text-base font-semibold text-neutral-900">{member.name}</h3>
+                  <p className="text-sm text-neutral-500 mb-2">{member.title}</p>
+                  <p className="text-xs text-primary-600 font-accent font-semibold">{member.credential}</p>
                 </div>
-              </div>
-              <Link
-                href="/data-room"
-                className="btn-accent btn-lg rounded-2xl text-base whitespace-nowrap group"
-              >
-                Open Data Room
+              ))}
+            </div>
+          </FadeIn>
+
+          <FadeIn delay={0.3}>
+            <div className="text-center">
+              <Link href="/team" className="btn-ghost btn-md rounded-xl group">
+                Meet the Full Team
                 <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </Link>
             </div>
@@ -383,165 +665,90 @@ function InvestContent() {
         </div>
       </section>
 
-      {/* ═══ CTA ═══ */}
-      <section className="bg-primary-800 py-20 md:py-28">
+      {/* ═══ FAQ ═══ */}
+      <section className="py-20 md:py-28 bg-canvas">
+        <div className="section-container">
+          <FadeIn>
+            <div className="text-center mb-14">
+              <span className="eyebrow mb-3 block">Investor FAQ</span>
+              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+                Common Questions
+              </h2>
+            </div>
+          </FadeIn>
+
+          <FadeIn delay={0.2}>
+            <div className="max-w-3xl mx-auto bg-white rounded-2xl border border-neutral-100 px-6 sm:px-8">
+              {FAQ_ITEMS.map((item) => (
+                <FAQItem key={item.question} question={item.question} answer={item.answer} />
+              ))}
+            </div>
+          </FadeIn>
+        </div>
+      </section>
+
+      {/* ═══ PORTAL ENTRY CTA ═══ */}
+      <section className="py-20 md:py-28 bg-primary-50 border-t border-primary-100">
         <div className="section-container text-center">
           <FadeIn>
-            <h2 className="font-display text-4xl md:text-5xl text-white mb-6">
-              Take the Next Step
+            <div className="w-16 h-16 rounded-2xl bg-primary-100 flex items-center justify-center mx-auto mb-8">
+              <FolderOpen className="w-8 h-8 text-primary-700" />
+            </div>
+            <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+              Ready for the Full Picture?
             </h2>
-            <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
-              Schedule a conversation with our capital markets team or request access to the full data room.
+            <p className="text-lg text-neutral-600 max-w-2xl mx-auto mb-4">
+              Access the complete investor data room — PPM, financial model, subscription agreement,
+              and 29 institutional-grade documents across 7 categories.
             </p>
           </FadeIn>
-          <FadeIn delay={0.2}>
+
+          <FadeIn delay={0.15}>
+            <div className="flex items-center justify-center gap-6 mb-10 font-accent text-sm text-neutral-500">
+              <span>29 documents</span>
+              <span className="w-1 h-1 rounded-full bg-neutral-300" />
+              <span>5-year financial model</span>
+              <span className="w-1 h-1 rounded-full bg-neutral-300" />
+              <span>3 return scenarios</span>
+            </div>
+          </FadeIn>
+
+          <FadeIn delay={0.3}>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+              <button
+                onClick={() => triggerTransition('/data-room', 'to-light')}
+                className="btn-primary btn-lg rounded-2xl text-base group"
+              >
+                Enter the Data Room
+                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+              </button>
               <Link href="/invest/apply" className="btn-accent btn-lg rounded-2xl text-base">
                 Apply to Invest
-              </Link>
-              <Link href="/financials" className="btn bg-white/10 text-white border border-white/20 hover:bg-white/20 btn-lg rounded-2xl text-base group">
-                View Full Financials
-                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>
             </div>
           </FadeIn>
         </div>
       </section>
 
-      {/* ═══ MODALS ═══ */}
-
-      {/* Thesis Point Modal */}
-      <Modal
-        open={!!activeThesis}
-        onClose={() => setActiveThesis(null)}
-        title={activeThesis?.title}
-        size="lg"
-      >
-        {activeThesis && (
-          <div>
-            <div className="w-12 h-12 rounded-xl bg-primary-50 flex items-center justify-center mb-4">
-              <activeThesis.icon className="w-6 h-6 text-primary-600" />
-            </div>
-            <div className="space-y-4 mb-6">
-              {activeThesis.detail.split('\n\n').map((paragraph, i) => (
-                <p key={i} className="text-neutral-600 leading-relaxed">{paragraph}</p>
-              ))}
-            </div>
+      {/* ═══ FINAL CTA ═══ */}
+      <section className="bg-primary-800 py-16 md:py-20">
+        <div className="section-container text-center">
+          <FadeIn>
+            <p className="font-display text-2xl md:text-3xl text-white max-w-3xl mx-auto leading-relaxed mb-6">
+              &ldquo;The future of housing is regenerative. The future of Austin is Abundancia.&rdquo;
+            </p>
+            <p className="font-accent text-sm text-white/50 mb-8">
+              $12.5M Capital Raise &middot; Reg D 506(c) &middot; Accredited Investors
+            </p>
             <Link
-              href={activeThesis.dataRoomLink}
-              className="inline-flex items-center gap-2 font-accent text-sm font-semibold text-primary-700 hover:text-primary-800 transition-colors"
-              onClick={() => setActiveThesis(null)}
+              href="/invest/apply"
+              className="btn bg-white text-primary-800 hover:bg-white/90 btn-lg rounded-2xl text-base font-semibold"
             >
-              <ExternalLink className="w-4 h-4" />
-              View in Data Room
+              Start Your Investment Journey
             </Link>
-          </div>
-        )}
-      </Modal>
-
-      {/* Capital Structure Modal */}
-      <Modal
-        open={!!activeCapital}
-        onClose={() => setActiveCapital(null)}
-        title={activeCapital?.label}
-        size="md"
-      >
-        {activeCapital && (
-          <div>
-            <p className="font-accent text-sm text-primary-600 font-semibold mb-4">{activeCapital.detail}</p>
-            <div className="space-y-4 mb-6">
-              {activeCapital.modalDetail.split('\n\n').map((paragraph, i) => (
-                <p key={i} className="text-neutral-600 leading-relaxed">{paragraph}</p>
-              ))}
-            </div>
-            {activeCapital.dataRoomLink && (
-              <Link
-                href={activeCapital.dataRoomLink}
-                className="inline-flex items-center gap-2 font-accent text-sm font-semibold text-primary-700 hover:text-primary-800 transition-colors"
-                onClick={() => setActiveCapital(null)}
-              >
-                <ExternalLink className="w-4 h-4" />
-                View Operating Agreement
-              </Link>
-            )}
-          </div>
-        )}
-      </Modal>
-
-      {/* Return Scenario Modal */}
-      <Modal
-        open={!!activeReturn}
-        onClose={() => setActiveReturn(null)}
-        title={activeReturn ? `${activeReturn.scenario} Scenario — ${activeReturn.irr} IRR / ${activeReturn.emx} EMx` : ''}
-        size="md"
-      >
-        {activeReturn && (
-          <div>
-            <p className="text-neutral-600 leading-relaxed mb-6">{activeReturn.detail}</p>
-            <div className="mb-6">
-              <h4 className="font-accent text-sm font-semibold text-neutral-900 mb-3">Key Assumptions</h4>
-              <ul className="space-y-2">
-                {activeReturn.assumptions.map((a) => (
-                  <li key={a} className="flex items-start gap-2">
-                    <div className="w-1.5 h-1.5 rounded-full bg-secondary-500 mt-2 flex-shrink-0" />
-                    <span className="text-sm text-neutral-600">{a}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-            <Link
-              href="/data-room/view/financial/sensitivity-analysis"
-              className="inline-flex items-center gap-2 font-accent text-sm font-semibold text-primary-700 hover:text-primary-800 transition-colors"
-              onClick={() => setActiveReturn(null)}
-            >
-              <ExternalLink className="w-4 h-4" />
-              View Full Sensitivity Analysis
-            </Link>
-          </div>
-        )}
-      </Modal>
-
-      {/* Risk Modal */}
-      <Modal
-        open={!!activeRisk}
-        onClose={() => setActiveRisk(null)}
-        title={activeRisk?.risk}
-        size="md"
-      >
-        {activeRisk && (
-          <div>
-            <div className="bg-amber-50 rounded-xl p-4 mb-6">
-              <h4 className="font-accent text-sm font-semibold text-amber-800 mb-1">Summary Mitigation</h4>
-              <p className="text-sm text-amber-700">{activeRisk.mitigation}</p>
-            </div>
-            <div className="space-y-4 mb-6">
-              {activeRisk.detail.split('\n\n').map((paragraph, i) => (
-                <p key={i} className="text-neutral-600 leading-relaxed">{paragraph}</p>
-              ))}
-            </div>
-            <Link
-              href="/data-room/view/legal/risk-disclosure"
-              className="inline-flex items-center gap-2 font-accent text-sm font-semibold text-primary-700 hover:text-primary-800 transition-colors"
-              onClick={() => setActiveRisk(null)}
-            >
-              <ExternalLink className="w-4 h-4" />
-              View Full Risk Disclosure
-            </Link>
-          </div>
-        )}
-      </Modal>
+          </FadeIn>
+        </div>
+      </section>
     </div>
-  )
-}
-
-// ═══════════════════════════════════════════════════════════════════════════
-// Page (Vault-Gated)
-// ═══════════════════════════════════════════════════════════════════════════
-
-export default function InvestPage() {
-  return (
-    <AuthGate>
-      <InvestContent />
-    </AuthGate>
   )
 }
