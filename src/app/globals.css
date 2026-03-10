@@ -1,0 +1,243 @@
+/**
+ * Abundancia Austin
+ * "Living Earth" Light Theme
+ * Regenerative Nature meets Sacred Luxury
+ */
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   FONTS - Distinctive typography stack
+   ═══════════════════════════════════════════════════════════════════════════════ */
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:wght@300;400;500;600;700&family=DM+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   CSS CUSTOM PROPERTIES - Design tokens
+   ═══════════════════════════════════════════════════════════════════════════════ */
+:root {
+  /* Gradient definitions */
+  --gradient-accent-line: linear-gradient(90deg, #C4956A 0%, #C9A227 100%);
+  --gradient-hero-overlay: linear-gradient(
+    165deg,
+    rgba(30, 69, 40, 0.92) 0%,
+    rgba(24, 57, 32, 0.88) 50%,
+    rgba(12, 31, 18, 0.95) 100%
+  );
+
+  /* Glass effects */
+  --glass-warm: rgba(255, 255, 255, 0.85);
+  --glass-warm-border: rgba(201, 162, 39, 0.15);
+
+  /* Paper texture overlay */
+  --paper-grain: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   BASE STYLES
+   ═══════════════════════════════════════════════════════════════════════════════ */
+@layer base {
+  html {
+    @apply bg-canvas text-neutral-800 antialiased;
+    font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-body min-h-screen;
+    font-optical-sizing: auto;
+  }
+
+  /* Display headlines - Fraunces for commanding presence */
+  .font-display {
+    font-family: 'Fraunces', Georgia, serif;
+    font-optical-sizing: auto;
+  }
+
+  /* Heading typography - Libre Baskerville for elegance */
+  h1, h2, h3 {
+    @apply font-heading text-neutral-900;
+    font-feature-settings: "kern" 1, "liga" 1;
+  }
+
+  h4, h5, h6 {
+    @apply font-body font-semibold text-neutral-900;
+  }
+
+  /* Typography scale */
+  h1 {
+    @apply text-5xl md:text-6xl font-normal tracking-tight;
+    letter-spacing: -0.025em;
+  }
+
+  h2 {
+    @apply text-4xl md:text-5xl font-normal;
+    letter-spacing: -0.02em;
+  }
+
+  h3 {
+    @apply text-2xl md:text-3xl font-normal;
+  }
+
+  h4 {
+    @apply text-xl font-semibold;
+  }
+
+  /* Dark section text inheritance */
+  .bg-primary-800 h1, .bg-primary-800 h2, .bg-primary-800 h3,
+  .bg-primary-800 h4, .bg-primary-800 h5, .bg-primary-800 h6,
+  .bg-primary-900 h1, .bg-primary-900 h2, .bg-primary-900 h3,
+  .bg-primary-900 h4, .bg-primary-900 h5, .bg-primary-900 h6,
+  .bg-primary-950 h1, .bg-primary-950 h2, .bg-primary-950 h3,
+  .bg-primary-950 h4, .bg-primary-950 h5, .bg-primary-950 h6 {
+    color: inherit;
+  }
+
+  .bg-primary-800, .bg-primary-900, .bg-primary-950 {
+    color: white;
+  }
+
+  /* Selection color */
+  ::selection {
+    @apply bg-primary-200 text-primary-900;
+  }
+
+  /* Focus styles */
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-primary-500;
+  }
+
+  /* Scrollbar styling */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    @apply bg-canvas;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-neutral-300 rounded-full;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-neutral-400;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   COMPONENT STYLES
+   ═══════════════════════════════════════════════════════════════════════════════ */
+@layer components {
+  /* Button base */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2
+           font-accent font-semibold
+           rounded-xl
+           transition-all duration-200 ease-out-expo
+           focus-visible:outline-2 focus-visible:outline-offset-2;
+  }
+
+  .btn-primary {
+    @apply btn bg-primary-800 text-white
+           hover:bg-primary-700 active:bg-primary-900
+           focus-visible:outline-primary-500
+           shadow-sm hover:shadow-card;
+  }
+
+  .btn-secondary {
+    @apply btn bg-white text-primary-800
+           border border-primary-200
+           hover:bg-primary-50 active:bg-primary-100
+           focus-visible:outline-primary-500
+           shadow-sm hover:shadow-card;
+  }
+
+  .btn-accent {
+    @apply btn bg-secondary-500 text-white
+           hover:bg-secondary-600 active:bg-secondary-700
+           focus-visible:outline-secondary-500
+           shadow-sm hover:shadow-glow-gold;
+  }
+
+  .btn-ghost {
+    @apply btn bg-transparent text-primary-800
+           hover:bg-primary-50 active:bg-primary-100;
+  }
+
+  /* Button sizes */
+  .btn-sm {
+    @apply px-4 py-2 text-sm;
+  }
+
+  .btn-md {
+    @apply px-6 py-3 text-base;
+  }
+
+  .btn-lg {
+    @apply px-8 py-4 text-lg;
+  }
+
+  /* Card styles */
+  .card {
+    @apply bg-white rounded-2xl shadow-card
+           transition-all duration-300 ease-out-expo;
+  }
+
+  .card-hover {
+    @apply card hover:shadow-card-hover hover:-translate-y-1;
+  }
+
+  .card-glass {
+    @apply rounded-2xl
+           bg-white/80 backdrop-blur-glass
+           border border-white/50
+           shadow-card;
+  }
+
+  /* Section container */
+  .section-container {
+    @apply w-full max-w-container-2xl mx-auto px-5 sm:px-8 lg:px-12;
+  }
+
+  .section-narrow {
+    @apply w-full max-w-container-lg mx-auto px-5 sm:px-8 lg:px-12;
+  }
+
+  /* Accent line */
+  .accent-line {
+    background: var(--gradient-accent-line);
+    height: 3px;
+    border-radius: 2px;
+  }
+
+  /* Label / eyebrow text */
+  .eyebrow {
+    @apply font-accent text-sm font-semibold uppercase tracking-widest text-primary-600;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════════
+   UTILITIES
+   ═══════════════════════════════════════════════════════════════════════════════ */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Hero overlay for images */
+  .hero-overlay {
+    background: var(--gradient-hero-overlay);
+  }
+
+  /* Subtle paper texture */
+  .paper-texture::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--paper-grain);
+    opacity: 0.015;
+    pointer-events: none;
+  }
+}
