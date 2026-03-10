@@ -2,7 +2,7 @@
 
 import { createContext, useContext, useState, useCallback, type ReactNode } from 'react'
 
-const VAULT_CODE = '8888'
+const VAULT_CODE = '7777'
 const MAX_ATTEMPTS = 3
 const LOCKOUT_DURATION = 5 * 60 * 1000 // 5 minutes
 

@@ -2,9 +2,13 @@
 
 import { useState } from 'react'
 import { FadeIn } from '@/components/animation'
+import { useScenario } from '@/lib/context/scenario-context'
+import { KEY_METRICS } from '@/lib/data/financials'
 import { CheckCircle2, TrendingUp } from 'lucide-react'
 
 export default function InvestorApplyPage() {
+  const { scenario } = useScenario()
+  const metrics = KEY_METRICS[scenario]
   const [submitted, setSubmitted] = useState(false)
 
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
@@ -52,7 +56,7 @@ export default function InvestorApplyPage() {
                   Join the $12.5M Capital Raise
                 </h1>
                 <p className="text-lg text-neutral-600">
-                  Accredited investors are invited to participate in a regenerative development opportunity targeting 37% IRR.
+                  Accredited investors are invited to participate in a regenerative development opportunity targeting {metrics.irr}% IRR.
                 </p>
               </div>
             </FadeIn>

@@ -37,15 +37,31 @@ export const UNIT_MIX = [
   { type: 'Rental Units', count: 60, avgPrice: 0, avgSF: 800, avgNightly: 233 },
 ]
 
-// ─── Revenue Streams (10-Year Cumulative, Base Case) ─────────────────────
+// ─── Revenue Streams (10-Year Cumulative) ────────────────────────────────
 
-export const REVENUE_STREAMS = [
-  { name: 'Residential Sales', value: 362_000_000, color: '#1E4528' },
-  { name: 'Rental Income', value: 43_600_000, color: '#2D6B3F' },
-  { name: 'Lot Sales', value: 15_400_000, color: '#4A8C5C' },
-  { name: 'Commercial Leasing', value: 7_800_000, color: '#C4956A' },
-  { name: 'Retreat Center', value: 6_300_000, color: '#C9A227' },
-]
+export const REVENUE_STREAMS: Record<Scenario, { name: string; value: number; color: string }[]> = {
+  conservative: [
+    { name: 'Residential Sales', value: 290_000_000, color: '#1E4528' },
+    { name: 'Rental Income', value: 34_800_000, color: '#2D6B3F' },
+    { name: 'Lot Sales', value: 12_300_000, color: '#4A8C5C' },
+    { name: 'Commercial Leasing', value: 6_200_000, color: '#C4956A' },
+    { name: 'Retreat Center', value: 4_700_000, color: '#C9A227' },
+  ],
+  base: [
+    { name: 'Residential Sales', value: 362_000_000, color: '#1E4528' },
+    { name: 'Rental Income', value: 43_600_000, color: '#2D6B3F' },
+    { name: 'Lot Sales', value: 15_400_000, color: '#4A8C5C' },
+    { name: 'Commercial Leasing', value: 7_800_000, color: '#C4956A' },
+    { name: 'Retreat Center', value: 6_300_000, color: '#C9A227' },
+  ],
+  optimistic: [
+    { name: 'Residential Sales', value: 434_000_000, color: '#1E4528' },
+    { name: 'Rental Income', value: 52_300_000, color: '#2D6B3F' },
+    { name: 'Lot Sales', value: 18_500_000, color: '#4A8C5C' },
+    { name: 'Commercial Leasing', value: 9_400_000, color: '#C4956A' },
+    { name: 'Retreat Center', value: 7_800_000, color: '#C9A227' },
+  ],
+}
 
 // ─── Revenue by Year (Base Case) ─────────────────────────────────────────
 

@@ -4,18 +4,17 @@ import { useState } from 'react'
 import Link from 'next/link'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
 import { useAnimatedCounter } from '@/hooks/useAnimatedCounter'
-import { VaultGate } from '@/components/auth/VaultGate'
+import { AuthGate } from '@/components/auth/AuthGate'
 import { Modal } from '@/components/ui/Modal'
+import { ScenarioToggle } from '@/components/ui/ScenarioToggle'
+import { useScenario } from '@/lib/context/scenario-context'
 import { ArrowRight, ExternalLink, Info } from 'lucide-react'
 import {
-  SCENARIOS,
-  SCENARIO_LABELS,
   KEY_METRICS,
   REVENUE_BY_YEAR,
   USE_OF_FUNDS,
   WATERFALL,
   REVENUE_STREAMS,
-  type Scenario,
 } from '@/lib/data/financials'
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -169,26 +168,6 @@ function DataRoomCallout({ href, label, description }: { href: string; label: st
 // Components
 // ═══════════════════════════════════════════════════════════════════════════
 
-function ScenarioToggle({ scenario, setScenario }: { scenario: Scenario; setScenario: (s: Scenario) => void }) {
-  return (
-    <div className="inline-flex bg-primary-50 rounded-xl p-1">
-      {SCENARIOS.map((s) => (
-        <button
-          key={s}
-          onClick={() => setScenario(s)}
-          className={`font-accent text-sm font-semibold px-4 py-2 rounded-lg transition-all duration-200 ${
-            scenario === s
-              ? 'bg-primary-800 text-white shadow-sm'
-              : 'text-neutral-600 hover:text-primary-800'
-          }`}
-        >
-          {SCENARIO_LABELS[s]}
-        </button>
-      ))}
-    </div>
-  )
-}
-
 function MetricCard({ target, prefix, suffix, label, decimals = 0, onClick }: {
   target: number; prefix?: string; suffix?: string; label: string; decimals?: number; onClick?: () => void
 }) {
@@ -215,8 +194,9 @@ function MetricCard({ target, prefix, suffix, label, decimals = 0, onClick }: {
 // ═══════════════════════════════════════════════════════════════════════════
 
 function FinancialsContent() {
-  const [scenario, setScenario] = useState<Scenario>('base')
+  const { scenario } = useScenario()
   const metrics = KEY_METRICS[scenario]
+  const streams = REVENUE_STREAMS[scenario]
   const yearData = REVENUE_BY_YEAR[scenario]
 
   // Modal states
@@ -331,7 +311,7 @@ function FinancialsContent() {
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed mb-8">
               Detailed financial projections for the $12.5M capital raise. Toggle between conservative, base, and optimistic scenarios to stress-test assumptions.
             </p>
-            <ScenarioToggle scenario={scenario} setScenario={setScenario} />
+            <ScenarioToggle />
           </FadeIn>
         </div>
       </section>
@@ -413,7 +393,7 @@ function FinancialsContent() {
 
           <FadeIn delay={0.2}>
             <div className="space-y-3 mb-8">
-              {REVENUE_STREAMS.map((stream) => (
+              {streams.map((stream) => (
                 <div key={stream.name} className="flex items-center gap-4">
                   <div className="w-44 flex-shrink-0">
                     <span className="font-accent text-sm text-neutral-700">{stream.name}</span>
@@ -422,7 +402,7 @@ function FinancialsContent() {
                     <div
                       className="h-full rounded-full flex items-center justify-end pr-3 transition-all duration-700"
                       style={{
-                        width: `${(stream.value / REVENUE_STREAMS[0].value) * 100}%`,
+                        width: `${(stream.value / streams[0].value) * 100}%`,
                         backgroundColor: stream.color,
                       }}
                     >
@@ -451,7 +431,7 @@ function FinancialsContent() {
                   Year-by-Year Projections
                 </h2>
               </div>
-              <ScenarioToggle scenario={scenario} setScenario={setScenario} />
+              <ScenarioToggle />
             </div>
           </FadeIn>
 
@@ -670,8 +650,8 @@ function FinancialsContent() {
 
 export default function FinancialsPage() {
   return (
-    <VaultGate>
+    <AuthGate>
       <FinancialsContent />
-    </VaultGate>
+    </AuthGate>
   )
 }

@@ -4,18 +4,17 @@ import { useState } from 'react'
 import Link from 'next/link'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
 import { Modal } from '@/components/ui/Modal'
+import { ScenarioToggle } from '@/components/ui/ScenarioToggle'
+import { useScenario } from '@/lib/context/scenario-context'
 import { useAnimatedCounter } from '@/hooks/useAnimatedCounter'
 import { ArrowRight, ExternalLink } from 'lucide-react'
 import {
-  SCENARIOS,
-  SCENARIO_LABELS,
   KEY_METRICS,
   UNIT_MIX,
   REVENUE_STREAMS,
   REVENUE_BY_YEAR,
   USE_OF_FUNDS,
   WATERFALL,
-  type Scenario,
 } from '@/lib/data/financials'
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -60,26 +59,6 @@ const WATERFALL_DETAILS: Record<string, string> = {
 // ═══════════════════════════════════════════════════════════════════════════
 // Components
 // ═══════════════════════════════════════════════════════════════════════════
-
-function ScenarioToggle({ scenario, setScenario }: { scenario: Scenario; setScenario: (s: Scenario) => void }) {
-  return (
-    <div className="inline-flex bg-primary-50 rounded-xl p-1">
-      {SCENARIOS.map((s) => (
-        <button
-          key={s}
-          onClick={() => setScenario(s)}
-          className={`font-accent text-sm font-semibold px-4 py-2 rounded-lg transition-all duration-200 ${
-            scenario === s
-              ? 'bg-primary-800 text-white shadow-sm'
-              : 'text-neutral-600 hover:text-primary-800'
-          }`}
-        >
-          {SCENARIO_LABELS[s]}
-        </button>
-      ))}
-    </div>
-  )
-}
 
 function MetricCard({ target, prefix, suffix, label, decimals = 0 }: {
   target: number
@@ -148,9 +127,10 @@ type ModalContent = {
 } | null
 
 export default function ModelPage() {
-  const [scenario, setScenario] = useState<Scenario>('base')
+  const { scenario } = useScenario()
   const [modal, setModal] = useState<ModalContent>(null)
   const metrics = KEY_METRICS[scenario]
+  const streams = REVENUE_STREAMS[scenario]
   const yearData = REVENUE_BY_YEAR[scenario]
   const maxRevenue = Math.max(...yearData.map((d) => d.revenue))
 
@@ -166,9 +146,9 @@ export default function ModelPage() {
               Regenerative Is Profitable
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed mb-8">
-              $12.5M capital raise targeting 37% IRR with a 4.42x equity multiple over a 10-year hold. Five diversified revenue streams. Conservation-forward design that improves — not compromises — returns.
+              $12.5M capital raise targeting {metrics.irr}% IRR with a {metrics.emx}x equity multiple over a 10-year hold. Five diversified revenue streams. Conservation-forward design that improves — not compromises — returns.
             </p>
-            <ScenarioToggle scenario={scenario} setScenario={setScenario} />
+            <ScenarioToggle />
           </FadeIn>
         </div>
       </section>
@@ -210,12 +190,12 @@ export default function ModelPage() {
 
           <FadeIn delay={0.2}>
             <div className="max-w-3xl space-y-4">
-              {REVENUE_STREAMS.map((stream) => (
+              {streams.map((stream) => (
                 <RevenueBar
                   key={stream.name}
                   name={stream.name}
                   value={stream.value}
-                  maxValue={REVENUE_STREAMS[0].value}
+                  maxValue={streams[0].value}
                   color={stream.color}
                   onClick={() => setModal({
                     title: stream.name,
@@ -301,7 +281,7 @@ export default function ModelPage() {
                   Revenue & EBITDA
                 </h2>
               </div>
-              <ScenarioToggle scenario={scenario} setScenario={setScenario} />
+              <ScenarioToggle />
             </div>
           </FadeIn>
 

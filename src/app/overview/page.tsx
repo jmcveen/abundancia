@@ -4,6 +4,8 @@ import { useState } from 'react'
 import Link from 'next/link'
 import { Modal } from '@/components/ui/Modal'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
+import { useScenario } from '@/lib/context/scenario-context'
+import { KEY_METRICS } from '@/lib/data/financials'
 import { useAnimatedCounter } from '@/hooks/useAnimatedCounter'
 import { ArrowRight, FileText, Layers, DollarSign, TreePine } from 'lucide-react'
 import { UNIT_MIX } from '@/lib/data/financials'
@@ -107,6 +109,8 @@ function Stat({ target, prefix, suffix, label, decimals = 0 }: {
 // ═══════════════════════════════════════════════════════════════════════════
 
 export default function OverviewPage() {
+  const { scenario } = useScenario()
+  const metrics = KEY_METRICS[scenario]
   const [activeModal, setActiveModal] = useState<string | null>(null)
 
   return (
@@ -121,7 +125,7 @@ export default function OverviewPage() {
               Abundancia Austin at a Glance
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
-              A 376-acre regenerative community in Cedar Creek, Bastrop County — 30 minutes from downtown Austin. $12.5M capital raise targeting 37% IRR with hempcrete homes, food forests, renewable energy, and sacred spaces.
+              A 376-acre regenerative community in Cedar Creek, Bastrop County — 30 minutes from downtown Austin. $12.5M capital raise targeting {metrics.irr}% IRR with hempcrete homes, food forests, renewable energy, and sacred spaces.
             </p>
           </FadeIn>
         </div>
@@ -133,8 +137,8 @@ export default function OverviewPage() {
           <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
             <Stat target={376} suffix=" Acres" label="Texas Ranchland" />
             <Stat target={12.5} suffix="M" prefix="$" label="Capital Raise" decimals={1} />
-            <Stat target={37} suffix="%" label="Projected IRR" />
-            <Stat target={4.42} suffix="x" label="Equity Multiple" decimals={2} />
+            <Stat target={metrics.irr} suffix="%" label="Projected IRR" decimals={1} />
+            <Stat target={metrics.emx} suffix="x" label="Equity Multiple" decimals={2} />
             <div className="col-span-2 md:col-span-1">
               <Stat target={70} suffix="%" label="Land Preserved" />
             </div>

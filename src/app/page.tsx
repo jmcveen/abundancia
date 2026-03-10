@@ -5,6 +5,8 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Modal } from '@/components/ui/Modal'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
+import { useScenario } from '@/lib/context/scenario-context'
+import { KEY_METRICS } from '@/lib/data/financials'
 import { useAnimatedCounter } from '@/hooks/useAnimatedCounter'
 import { ArrowRight, Leaf, Home, Droplets, Sun } from 'lucide-react'
 
@@ -108,6 +110,8 @@ const HIGHLIGHTS = [
 // ═══════════════════════════════════════════════════════════════════════════
 
 export default function HomePage() {
+  const { scenario } = useScenario()
+  const metrics = KEY_METRICS[scenario]
   const [activeModal, setActiveModal] = useState<string | null>(null)
 
   return (
@@ -169,7 +173,7 @@ export default function HomePage() {
           <div className="grid grid-cols-2 md:grid-cols-5 gap-8 md:gap-4">
             <AnimatedStat target={376} suffix=" Acres" label="Texas Ranchland" />
             <AnimatedStat target={12.5} suffix="M" prefix="$" label="Capital Raise" decimals={1} />
-            <AnimatedStat target={37} suffix="%" label="Projected IRR" />
+            <AnimatedStat target={metrics.irr} suffix="%" label="Projected IRR" decimals={1} />
             <AnimatedStat target={500} suffix="+" label="Year Building Lifespan" />
             <div className="col-span-2 md:col-span-1">
               <AnimatedStat target={70} suffix="%" label="Land Preserved" />
@@ -385,7 +389,7 @@ export default function HomePage() {
               $12.5M Capital Raise
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
-              Join the movement toward the next generation of housing. Projected 37% IRR with 4.42x equity multiple over a 10-year hold. Accredited investors welcome.
+              Join the movement toward the next generation of housing. Projected {metrics.irr}% IRR with {metrics.emx}x equity multiple over a 10-year hold. Accredited investors welcome.
             </p>
           </FadeIn>
 

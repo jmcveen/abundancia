@@ -3,8 +3,10 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
-import { VaultGate } from '@/components/auth/VaultGate'
+import { AuthGate } from '@/components/auth/AuthGate'
 import { Modal } from '@/components/ui/Modal'
+import { useScenario } from '@/lib/context/scenario-context'
+import { KEY_METRICS } from '@/lib/data/financials'
 import {
   ArrowRight, TrendingUp, Shield, Leaf, Building2,
   Scale, AlertTriangle, CheckCircle2, ExternalLink, FolderOpen
@@ -171,6 +173,8 @@ const RISKS = [
 // ═══════════════════════════════════════════════════════════════════════════
 
 function InvestContent() {
+  const { scenario } = useScenario()
+  const metrics = KEY_METRICS[scenario]
   const [activeThesis, setActiveThesis] = useState<typeof THESIS_POINTS[number] | null>(null)
   const [activeCapital, setActiveCapital] = useState<typeof CAPITAL_STRUCTURE[number] | null>(null)
   const [activeReturn, setActiveReturn] = useState<typeof RETURN_SCENARIOS[number] | null>(null)
@@ -196,8 +200,8 @@ function InvestContent() {
             <div className="mt-8 grid grid-cols-2 md:grid-cols-4 gap-4 max-w-2xl">
               {[
                 { value: '$12.5M', label: 'Raise Amount' },
-                { value: '37.1%', label: 'Projected IRR' },
-                { value: '4.42x', label: 'Equity Multiple' },
+                { value: `${metrics.irr}%`, label: 'Projected IRR' },
+                { value: `${metrics.emx}x`, label: 'Equity Multiple' },
                 { value: '10 Year', label: 'Hold Period' },
               ].map((item) => (
                 <div key={item.label} className="text-center">
@@ -536,8 +540,8 @@ function InvestContent() {
 
 export default function InvestPage() {
   return (
-    <VaultGate>
+    <AuthGate>
       <InvestContent />
-    </VaultGate>
+    </AuthGate>
   )
 }

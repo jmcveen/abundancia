@@ -2,7 +2,6 @@
 
 import Link from 'next/link'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
-import { VaultGate } from '@/components/auth/VaultGate'
 import { FileText, Folder, Lock, Eye, Mail, Leaf, TrendingUp, Shield, Search, ClipboardCheck } from 'lucide-react'
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -95,8 +94,7 @@ export default function DataRoomPage() {
   const totalDocs = DOCUMENT_CATEGORIES.reduce((sum, cat) => sum + cat.documents.length, 0)
 
   return (
-    <VaultGate>
-      <div>
+    <div>
         {/* ═══ HERO ═══ */}
         <section className="relative py-24 md:py-32 overflow-hidden">
           <div className="absolute inset-0 bg-gradient-to-b from-primary-50 to-canvas" />
@@ -265,6 +263,5 @@ export default function DataRoomPage() {
           </div>
         </section>
       </div>
-    </VaultGate>
   )
 }
