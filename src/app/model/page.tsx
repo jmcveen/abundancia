@@ -248,7 +248,9 @@ export default function ModelPage() {
                       <td className="text-sm text-white/70 text-right py-4 px-3">
                         {unit.avgPrice > 0
                           ? `$${(unit.avgPrice / 1000).toFixed(0)}K`
-                          : `$${unit.avgNightly}/night`}
+                          : unit.avgNightly > 0
+                            ? `$${unit.avgNightly.toLocaleString()}/night`
+                            : '—'}
                       </td>
                       <td className="text-sm text-white/70 text-right py-4 px-3">
                         {unit.avgSF > 0 ? `${unit.avgSF.toLocaleString()} SF` : '—'}
@@ -256,7 +258,9 @@ export default function ModelPage() {
                       <td className="font-accent text-sm font-semibold text-secondary-400 text-right py-4 px-3">
                         {unit.avgPrice > 0
                           ? `$${((unit.count * unit.avgPrice) / 1_000_000).toFixed(1)}M`
-                          : '—'}
+                          : unit.revenue10yr > 0
+                            ? `$${(unit.revenue10yr / 1_000_000).toFixed(1)}M`
+                            : '—'}
                       </td>
                     </tr>
                   ))}

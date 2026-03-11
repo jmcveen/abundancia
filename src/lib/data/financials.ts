@@ -34,12 +34,12 @@ export const KEY_METRICS: Record<Scenario, {
 // 665 total structures across the 376-acre development
 
 export const UNIT_MIX = [
-  { type: 'Single-Family Homes', count: 100, avgPrice: 450_000, avgSF: 2_475 },
-  { type: 'Multifamily', count: 350, avgPrice: 443_571, avgSF: 986 },
-  { type: 'Special Residential', count: 60, avgPrice: 141_520, avgSF: 324 },
-  { type: 'Rental Multifamily', count: 75, avgPrice: 0, avgSF: 997, avgNightly: 0 },
-  { type: 'Special Rental', count: 50, avgPrice: 0, avgSF: 236, avgNightly: 0 },
-  { type: 'Lots', count: 100, avgPrice: 250_000, avgSF: 0 },
+  { type: 'Single-Family Homes', count: 100, avgPrice: 450_000, avgSF: 2_475, avgNightly: 0, revenue10yr: 0 },
+  { type: 'Multifamily', count: 350, avgPrice: 443_571, avgSF: 986, avgNightly: 0, revenue10yr: 0 },
+  { type: 'Special Residential', count: 60, avgPrice: 141_520, avgSF: 324, avgNightly: 0, revenue10yr: 0 },
+  { type: 'Rental Multifamily', count: 75, avgPrice: 0, avgSF: 997, avgNightly: 421, revenue10yr: 11_525_116 },
+  { type: 'Special Rental', count: 50, avgPrice: 0, avgSF: 236, avgNightly: 1_000, revenue10yr: 23_097_055 },
+  { type: 'Lots', count: 100, avgPrice: 250_000, avgSF: 0, avgNightly: 0, revenue10yr: 0 },
 ]
 
 // ─── Revenue Streams (10-Year Cumulative) ────────────────────────────────
