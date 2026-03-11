@@ -35,9 +35,7 @@ const DOCUMENT_CATEGORIES = [
     name: 'Property Documents',
     icon: Folder,
     documents: [
-      { name: 'Site Assessment', slug: 'property/site-assessment', doc: '10' },
-      { name: 'Master Plan', slug: 'property/master-plan', doc: '11' },
-      { name: 'Environmental Compliance', slug: 'property/environmental-compliance', doc: '12' },
+      // Site Assessment, Master Plan, and Environmental Compliance — coming soon
       { name: 'Comparable Market Analysis', slug: 'property/comparable-market-analysis', doc: '13' },
       { name: 'Construction Budget & Timeline', slug: 'property/construction-budget', doc: '29' },
     ],

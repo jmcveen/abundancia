@@ -94,7 +94,7 @@ const WHY_BASTROP = [
     detail: [
       'The 376-acre Abundancia property qualifies for Texas agricultural exemption, which values the land based on agricultural productivity rather than market value. This reduces the assessed value from approximately $15-20K per acre (market) to $200-400 per acre (agricultural), cutting annual property taxes by over 95% during the development period.',
       'The combined Bastrop County tax rate of approximately $0.98 per $100 of assessed value is also significantly lower than Austin\'s rate of $1.85-2.20. Even after development, Abundancia homeowners benefit from lower base tax rates — though the MUD bond overlay will add a special assessment for infrastructure debt service.',
-      'The agricultural exemption can be maintained on the 70-75% of the site designated as conservation and agricultural land even after the development parcels are subdivided, providing ongoing tax benefits that enhance the long-term economics of the project.',
+      'The agricultural exemption can be maintained on the 90%+ of the site designated as conservation and agricultural land even after the development parcels are subdivided, providing ongoing tax benefits that enhance the long-term economics of the project.',
     ],
     link: '/data-room/view/investment/executive-summary',
     linkLabel: 'View Financial Model',
@@ -126,7 +126,7 @@ const PROPERTY_FEATURES = [
     icon: TreePine,
     title: 'Lost Pines Ecoregion',
     description: 'A biological island of loblolly pines — the westernmost stand in North America. Unique ecological value enhances property premium.',
-    detail: 'The Lost Pines is a 70-square-mile island of loblolly pine forest separated from the main East Texas pine belt by over 100 miles of blackland prairie. This biological anomaly — the westernmost naturally occurring pine stand in North America — creates a unique ecological character that is both a conservation responsibility and a significant property value driver. The ecoregion supports dozens of species not found elsewhere in Central Texas, including the endangered Houston toad. Abundancia\'s conservation-forward design (70-75% preserved land) actively enhances this habitat through native planting, water management, and corridor connectivity.',
+    detail: 'The Lost Pines is a 70-square-mile island of loblolly pine forest separated from the main East Texas pine belt by over 100 miles of blackland prairie. This biological anomaly — the westernmost naturally occurring pine stand in North America — creates a unique ecological character that is both a conservation responsibility and a significant property value driver. The ecoregion supports dozens of species not found elsewhere in Central Texas, including the endangered Houston toad. Abundancia\'s conservation-forward design (over 90% preserved land) actively enhances this habitat through native planting, water management, and corridor connectivity.',
     link: '/data-room/view/property/environmental-compliance',
     linkLabel: 'Environmental Compliance',
   },
@@ -175,9 +175,9 @@ const MASTER_PLAN = [
     linkLabel: 'Full Master Plan',
   },
   {
-    percentage: '70-75%',
+    percentage: '90%+',
     label: 'Conservation & Agriculture',
-    acres: '263-282 acres',
+    acres: '360+ acres',
     description: 'Preserved ecosystems, food forests, permaculture zones, wildlife corridors, Houston toad habitat, trail networks.',
     detail: 'The conservation zone is not passive "preserved land" but an actively managed regenerative landscape. Key components include: 40+ acres of food forests and permaculture gardens producing year-round organic food for residents, 80+ acres of restored native Lost Pines habitat with Houston toad conservation corridors, 20+ acres of managed ponds and wetlands for water security and biodiversity, 15+ miles of trail networks for hiking, cycling, and equestrian use, and 100+ acres of managed grassland and savanna for carbon sequestration and livestock grazing. Conservation easements on this portion may qualify for significant federal and state tax benefits while permanently protecting the ecological character of the community.',
     link: '/data-room/view/property/master-plan',
@@ -530,7 +530,7 @@ export default function LandPage() {
                 Conservation-Forward Design
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                Only 25-30% of the land is developed. The remaining 70-75% is preserved as conservation land, food forests, wildlife corridors, and community open space.
+                Less than 5% of the land is developed. The remaining 90%+ is preserved as conservation land, food forests, wildlife corridors, and community open space.
               </p>
             </div>
           </FadeIn>

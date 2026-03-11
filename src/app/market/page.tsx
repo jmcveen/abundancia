@@ -129,7 +129,7 @@ const COMPARABLES = [
     units: '~50',
     priceRange: '$400K-$800K',
     differentiator: 'Small scale. No commercial amenities, no retreat center, limited infrastructure.',
-    modalDetail: 'Cosmos Ranch is a small-scale intentional community in Bastrop County, approximately 40 minutes from Austin. It represents the "intentional community" end of the spectrum. What they have: strong community ethos, natural setting, shared values governance, organic gardens. What they lack: scale for commercial viability, professional management infrastructure, hospitality/retreat revenue, hempcrete construction, renewable energy grid, food sovereignty at community scale, affordable entry-level housing. At ~50 units and $400K-$800K pricing, Cosmos Ranch serves a niche audience. Abundancia operates at 8x the scale (420+ units) with a full commercial ecosystem, enabling amenities and infrastructure that small intentional communities cannot support.',
+    modalDetail: 'Cosmos Ranch is a small-scale intentional community in Bastrop County, approximately 40 minutes from Austin. It represents the "intentional community" end of the spectrum. What they have: strong community ethos, natural setting, shared values governance, organic gardens. What they lack: scale for commercial viability, professional management infrastructure, hospitality/retreat revenue, hempcrete construction, renewable energy grid, food sovereignty at community scale, affordable entry-level housing. At ~50 units and $400K-$800K pricing, Cosmos Ranch serves a niche audience. Abundancia operates at 8x the scale (665 structures) with a full commercial ecosystem, enabling amenities and infrastructure that small intentional communities cannot support.',
     features: {
       has: ['Community governance', 'Natural setting', 'Shared values', 'Organic gardens', 'Strong community bonds'],
       lacks: ['Commercial scale', 'Professional management', 'Retreat/hospitality', 'Hempcrete construction', 'Energy grid', 'Affordable housing', 'Food sovereignty at scale'],
@@ -151,7 +151,7 @@ const WELLNESS_TOURISM_STATS = [
   {
     stat: '3.4x',
     label: 'Wellness vs. Regular Travel Spend',
-    modalDetail: 'Wellness tourists spend an average of $1,601 per trip domestically vs. $465 for the average domestic tourist — a 3.4x premium. International wellness tourists spend $2,363 vs. $735. This spending premium flows through the entire local economy: restaurants, retail, experiences, and transportation. For Abundancia, this means the retreat center is not just a standalone revenue stream ($6.3M over 10 years) — it drives awareness, home sales, and commercial tenant demand. Retreat guests become potential residents and brand ambassadors.',
+    modalDetail: 'Wellness tourists spend an average of $1,601 per trip domestically vs. $465 for the average domestic tourist — a 3.4x premium. International wellness tourists spend $2,363 vs. $735. This spending premium flows through the entire local economy: restaurants, retail, experiences, and transportation. For Abundancia, this means the retreat and rental operations drive awareness, home sales, and commercial tenant demand while generating $5.5M annually by year 5. Retreat guests become potential residents and brand ambassadors.',
   },
   {
     stat: 'Austin',
