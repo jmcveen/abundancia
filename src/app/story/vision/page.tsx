@@ -118,7 +118,7 @@ const PRINCIPLES = [
     title: 'Regeneration',
     image: '/images/website/60-regeneration.png',
     description: 'Permaculture, zero pollution, zero waste, net-positive renewable energy, carbon sequestration, and abundant organic food. The earth is not harmed — only positive impact is made.',
-    detail: 'Regeneration is the foundational principle of Abundancia. Every system is designed to give more than it takes — hempcrete sequesters carbon, food forests build topsoil, water systems recharge aquifers, and native plantings restore the Lost Pines ecosystem. This is not sustainability (maintaining the status quo) but active healing of damaged systems. Our permaculture design follows Holmgren\'s 12 principles, creating stacked functions where every element serves multiple purposes. The 70-75% conservation zone is not "undeveloped land" — it is an actively managed regenerative landscape.',
+    detail: 'Regeneration is the foundational principle of Abundancia. Every system is designed to give more than it takes — hempcrete sequesters carbon, food forests build topsoil, water systems recharge aquifers, and native plantings restore the Lost Pines ecosystem. This is not sustainability (maintaining the status quo) but active healing of damaged systems. Our permaculture design follows Holmgren\'s 12 principles, creating stacked functions where every element serves multiple purposes. The 90%+ conservation zone is not "undeveloped land" — it is an actively managed regenerative landscape.',
     relatedLink: '/story/regeneration',
     relatedLabel: 'Explore Regenerative Systems',
   },

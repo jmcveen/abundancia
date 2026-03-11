@@ -51,7 +51,7 @@ const FAQ_ITEMS = [
   },
   {
     question: 'Do I need to buy, or can I rent?',
-    answer: 'Both. Abundancia includes 60 rental units alongside homes for purchase. There are also retreat and membership options for those who want to visit or participate without relocating.',
+    answer: 'Both. Abundancia includes 125 rental units (75 condos + 50 special stays) alongside homes for purchase. There are also retreat and membership options for those who want to visit or participate without relocating.',
   },
   {
     question: 'Where exactly is this in Austin?',

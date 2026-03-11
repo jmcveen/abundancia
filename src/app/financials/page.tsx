@@ -24,7 +24,7 @@ import {
 const METRIC_EXPLANATIONS: Record<string, { title: string; body: string; methodology: string }> = {
   revenue10yr: {
     title: '10-Year Cumulative Revenue',
-    body: 'Total gross revenue generated across all revenue streams over the 10-year hold period, including residential sales, rental income, lot sales, commercial leasing, and retreat center operations.',
+    body: 'Total gross revenue generated across all four revenue streams over the 5-10 year term, including residential sales, rental income, lot sales, and commercial leasing.',
     methodology: 'Calculated by summing annual revenue projections from the financial model, which uses absorption-rate assumptions for unit sales, occupancy rates for rentals, and market-rate escalators for pricing.',
   },
   ebitda10yr: {
@@ -35,7 +35,7 @@ const METRIC_EXPLANATIONS: Record<string, { title: string; body: string; methodo
   emx: {
     title: 'LP Equity Multiple (EMx)',
     body: 'The total return on invested capital for Limited Partners. An EMx of 4.42x means every $1 invested returns $4.42 in total distributions over the life of the investment.',
-    methodology: 'Calculated as total LP distributions divided by total LP capital contributions, using the waterfall distribution structure with 8% preferred return and tiered profit splits.',
+    methodology: 'Calculated as total LP distributions divided by total LP capital contributions, using the IRR-based waterfall distribution structure with tiered profit splits (80/20 → 70/30 → 60/40 → 50/50).',
   },
   irr: {
     title: 'LP Internal Rate of Return (IRR)',
@@ -72,63 +72,50 @@ const FUND_DETAILS: Record<string, { description: string; lineItems: { item: str
       { item: 'Regenerative Systems (Water/Solar)', amount: '$350,000' },
     ],
   },
-  'Master Planning': {
+  'Master Planning & Architecture': {
     description: 'Architecture, engineering, permitting, and land-use planning for the full community buildout.',
     lineItems: [
-      { item: 'Master Plan Architecture', amount: '$500,000' },
-      { item: 'Civil Engineering', amount: '$375,000' },
-      { item: 'Permitting & Entitlements', amount: '$300,000' },
-      { item: 'Environmental & Sustainability', amount: '$200,000' },
+      { item: 'Master Site Plan (Symbiosis TX)', amount: '$400,000' },
+      { item: 'Architectural Design (Inphinity Design)', amount: '$400,000' },
+      { item: 'Civil Engineering & MEP', amount: '$300,000' },
+      { item: 'Permitting, Entitlements & Legal', amount: '$240,596' },
     ],
   },
-  'Staffing & Operations': {
-    description: 'Core team salaries, office, and operating expenses through initial revenue generation.',
+  'Staffing, Ops & Marketing': {
+    description: 'Core team, operations, and go-to-market strategy through initial revenue generation.',
     lineItems: [
-      { item: 'Executive Team (12 months)', amount: '$400,000' },
-      { item: 'Project Management', amount: '$180,000' },
-      { item: 'Office & Operations', amount: '$100,000' },
-      { item: 'Legal & Accounting', amount: '$70,000' },
+      { item: 'Executive Team & Project Management', amount: '$600,000' },
+      { item: 'Operations & Office', amount: '$200,000' },
+      { item: 'Brand, Digital Marketing & PR', amount: '$350,000' },
+      { item: 'Sales Center, Events & Outreach', amount: '$250,771' },
     ],
   },
-  'Marketing': {
-    description: 'Brand launch, sales infrastructure, and go-to-market strategy for residential pre-sales.',
+  'Contingency & Carry Costs': {
+    description: '18% reserve for cost overruns, market shifts, carry costs, and unforeseen development challenges. Industry standard is 10-15%.',
     lineItems: [
-      { item: 'Brand Development & Website', amount: '$175,000' },
-      { item: 'Sales Center & Collateral', amount: '$200,000' },
-      { item: 'Digital Marketing & PR', amount: '$150,000' },
-      { item: 'Events & Community Outreach', amount: '$100,000' },
-    ],
-  },
-  'Contingency': {
-    description: '18% reserve for cost overruns, market shifts, and unforeseen development challenges. Industry standard is 10-15%.',
-    lineItems: [
-      { item: 'Construction Contingency', amount: '$1,125,000' },
-      { item: 'Market/Timing Contingency', amount: '$675,000' },
-      { item: 'Regulatory Contingency', amount: '$450,000' },
+      { item: 'Construction Contingency', amount: '$1,000,000' },
+      { item: 'Market/Timing Contingency', amount: '$600,000' },
+      { item: 'Carry Costs & Debt Service', amount: '$627,007' },
     ],
   },
 }
 
 const WATERFALL_EXPLANATIONS: Record<string, { plain: string; example: string }> = {
-  'Return of Capital': {
-    plain: 'Before anyone shares in profits, investors get their full investment back. Every dollar of the $12.5M is returned first.',
-    example: 'If you invest $250,000, you receive $250,000 back before any profit-sharing begins.',
+  'Tier 1 — Return of Capital': {
+    plain: 'Initial sales fund development up to the approved budget plus a 10% reserve. Proceeds are distributed 80% LP / 20% GP until investor principal is fully repaid.',
+    example: 'If you invest $250,000, proceeds are split 80/20 until you receive your full $250,000 back.',
   },
-  'Preferred Return': {
-    plain: 'After capital is returned, investors earn an 8% annual preferred return on their investment. LPs receive 80% of distributions in this tier.',
-    example: 'On a $250,000 investment held for 5 years, the preferred return would be approximately $100,000 (8% compounded annually).',
+  'Tier 2 — 12% IRR': {
+    plain: 'Once principal is repaid and a 12% IRR to LP is reached, profits are distributed 70% LP / 30% GP. The GP begins to participate more meaningfully in the upside.',
+    example: 'After your capital is returned with a 12% IRR, 70% of additional distributions flow to you as LP.',
   },
-  'Tier 2': {
-    plain: 'Once investors have received 1.5x their money back, the split shifts to 70/30 in favor of LPs. This rewards the GP for performance while keeping LPs as the primary beneficiary.',
-    example: 'Between $375,000 and $500,000 in total distributions on a $250,000 investment, 70% flows to LPs.',
+  'Tier 3 — 15% IRR': {
+    plain: 'At a 15% IRR to LP, the split shifts to 60% LP / 40% GP. The increasing GP share rewards the management team for outperformance.',
+    example: 'Once your returns exceed 15% IRR, 60% of additional distributions flow to you as LP.',
   },
-  'Tier 3': {
-    plain: 'Between 2.0x and 3.0x returns, the split is 60/40. The GP earns a larger share as returns exceed projections, aligning incentives.',
-    example: 'Between $500,000 and $750,000 in distributions on a $250,000 investment, 60% flows to LPs.',
-  },
-  'Tier 4': {
-    plain: 'Above 3.0x returns, profits are split 50/50. At this level, the project has far exceeded expectations and both parties share equally in the upside.',
-    example: 'Above $750,000 in distributions on a $250,000 investment, LPs and GP split 50/50.',
+  'Tier 4 — 18% IRR': {
+    plain: 'At an 18% IRR to LP, profits are split 50/50 until the agreed term is reached. At this level, the project has far exceeded expectations.',
+    example: 'Above 18% IRR, LPs and GP split 50/50 for the remaining term.',
   },
 }
 

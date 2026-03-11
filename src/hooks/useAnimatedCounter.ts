@@ -22,7 +22,9 @@ export function useAnimatedCounter({
   const ref = useRef(null)
   const isInView = useInView(ref, { once: true, margin: '-50px' })
   const hasAnimated = useRef(false)
+  const prevTarget = useRef(target)
 
+  // Initial animation when coming into view
   useEffect(() => {
     if (!isInView || hasAnimated.current) return
     hasAnimated.current = true
@@ -44,6 +46,32 @@ export function useAnimatedCounter({
 
     requestAnimationFrame(animate)
   }, [isInView, target, duration, decimals])
+
+  // Re-animate when target changes (e.g. scenario toggle)
+  useEffect(() => {
+    if (!hasAnimated.current) return
+    if (prevTarget.current === target) return
+    
+    const from = prevTarget.current
+    prevTarget.current = target
+    const startTime = Date.now()
+    const animDuration = 800 // faster transition for scenario changes
+
+    const animate = () => {
+      const elapsed = Date.now() - startTime
+      const progress = Math.min(elapsed / animDuration, 1)
+      const easedProgress = easeOutQuart(progress)
+      const current = from + (target - from) * easedProgress
+
+      setCount(Number(current.toFixed(decimals)))
+
+      if (progress < 1) {
+        requestAnimationFrame(animate)
+      }
+    }
+
+    requestAnimationFrame(animate)
+  }, [target, decimals])
 
   return { count, ref }
 }

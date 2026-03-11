@@ -133,9 +133,9 @@ const SOLUTION_PILLARS = [
   },
   {
     icon: TreePine,
-    title: '70% Land Preserved',
+    title: '90%+ Land Preserved',
     description: 'Conservation-forward design protects the Lost Pines ecosystem and enhances Houston toad habitat. Tax-advantaged easements.',
-    stat: '263',
+    stat: '360',
     statLabel: 'Acres Conserved',
     color: 'bg-success-50 text-success-700',
   },
@@ -149,16 +149,15 @@ const MARKET_POINTS = [
 ]
 
 const REVENUE_STREAM_META: Record<string, { description: string; tailwindColor: string }> = {
-  'Residential Sales': { description: 'Hempcrete homes, tiny homes, domes, multifamily \u2014 $200K to $625K', tailwindColor: 'bg-primary-700' },
-  'Rental Income': { description: 'Long-term and short-term vacation rentals', tailwindColor: 'bg-primary-500' },
-  'Lot Sales': { description: 'Custom lots within Abundancia design guidelines', tailwindColor: 'bg-primary-300' },
-  'Commercial Leasing': { description: 'Grocery, restaurants, health center, co-working', tailwindColor: 'bg-accent-400' },
-  'Retreat Center': { description: 'Phase 1 revenue engine \u2014 events, workshops, wellness', tailwindColor: 'bg-secondary-500' },
+  'Residential Sales': { description: '100 SFR, 350 condos, 60 special units — regenerative materials', tailwindColor: 'bg-primary-700' },
+  'Rental Income': { description: '75 condos + 50 unique stays — $5.5M annual target by year 5', tailwindColor: 'bg-primary-500' },
+  'Lot Sales': { description: '100 custom lots within Abundancia design guidelines', tailwindColor: 'bg-primary-300' },
+  'Commercial Leasing': { description: '10 commercial units, 11 amenities, 8 recreation areas', tailwindColor: 'bg-accent-400' },
 }
 
 const CAPITAL_HIGHLIGHTS = [
   { label: 'Vehicle', value: 'Texas Series LLC (LP/GP)' },
-  { label: 'Preferred Return', value: '8% annual to LPs' },
+  { label: 'Term', value: '5-10 Years' },
   { label: 'Hold Period', value: '10 years' },
   { label: 'Capital Return', value: 'LPs first, before GP promote' },
   { label: 'Waterfall', value: '80/20 \u2192 70/30 \u2192 60/40 \u2192 50/50' },
@@ -169,9 +168,9 @@ const MOAT_LAYERS = [
   { title: 'First Hempcrete Community in Austin', description: 'No comparable product exists in the fastest-growing metro in America.' },
   { title: '376 Acres in the Path of Growth', description: 'Bastrop County, 30 min from downtown Austin. Land at this scale cannot be replicated.' },
   { title: 'Regulatory Advantage', description: 'No zoning in Bastrop County. Hempcrete codes adopted in Texas. 6-12 month timeline vs 18-24 in Austin.' },
-  { title: 'Conservation Ecosystem', description: '70% land preserved with tax-advantaged easements. Exceeds LPHCP environmental requirements.' },
+  { title: 'Conservation Ecosystem', description: '90%+ land preserved with tax-advantaged easements. Exceeds LPHCP environmental requirements.' },
   { title: 'Proven Team', description: '$755M+ raised for real estate projects. 200+ transactions. 70+ eco communities analyzed.' },
-  { title: 'Diversified Revenue', description: 'Five streams across residential, commercial, rental, lots, and retreat operations.' },
+  { title: 'Diversified Revenue', description: 'Four streams across residential, commercial, rental, and lots.' },
   { title: 'MUD Bond Framework', description: 'Infrastructure costs reimbursed through tax-exempt municipal bonds. Proven Texas mechanism.' },
 ]
 
@@ -207,7 +206,7 @@ const CASHFLOW_PHASES = [
 const ROADMAP_PHASES = [
   { phase: 'Phase 1', timeline: 'Months 1-18', title: 'Foundation', items: ['Land acquisition & master planning', 'Retreat center operations (cash flow)', 'Initial infrastructure & MUD formation', 'Model home construction'] },
   { phase: 'Phase 2', timeline: 'Year 2-4', title: 'Growth', items: ['First residential neighborhood (100 units)', 'Commercial village core', 'Food forests & permaculture systems', 'Solar + water infrastructure'] },
-  { phase: 'Phase 3', timeline: 'Year 4-7', title: 'Expansion', items: ['Multifamily development (260 units)', 'Tiny home & dome neighborhoods', 'Full commercial activation', 'Lot sales program'] },
+  { phase: 'Phase 3', timeline: 'Year 4-7', title: 'Expansion', items: ['Multifamily development (350 units)', 'Tiny home & dome neighborhoods', 'Full commercial activation', 'Lot sales program'] },
   { phase: 'Phase 4', timeline: 'Year 7-10', title: 'Maturity', items: ['Final buildout & optimization', 'Rental portfolio stabilization', 'Conservation easement finalization', 'Exit preparation & LP distributions'] },
 ]
 
@@ -341,7 +340,7 @@ export default function InvestorOverviewPage() {
 
           <FadeIn delay={0.3}>
             <p className="text-xl md:text-2xl text-neutral-600 max-w-3xl leading-relaxed mb-10">
-              The first institutional-grade regenerative community in the Austin metro. Carbon-negative hempcrete homes, net-positive energy, food forests, and 70% land conservation — proving that profitable development and ecological regeneration amplify each other.
+              The first institutional-grade regenerative community in the Austin metro. Carbon-negative hempcrete homes, net-positive energy, food forests, and 90%+ land conservation — proving that profitable development and ecological regeneration amplify each other.
             </p>
           </FadeIn>
 
@@ -493,7 +492,7 @@ export default function InvestorOverviewPage() {
                 How 376 Acres Become a Community
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                Every acre has a purpose. 70% of the land is preserved for conservation and regenerative agriculture.
+                Every acre has a purpose. Over 90% of the land is preserved for conservation and regenerative agriculture.
               </p>
             </div>
           </FadeIn>
@@ -523,37 +522,15 @@ export default function InvestorOverviewPage() {
           </FadeIn>
 
           <FadeIn delay={0.3}>
-            <div className="mt-10 grid grid-cols-1 sm:grid-cols-3 gap-4 max-w-3xl mx-auto">
+            <div className="mt-10 flex justify-center">
               <button
                 onClick={() => triggerTransition('/data-room', 'to-light')}
                 className="flex items-center gap-3 bg-primary-50 rounded-xl p-4 border border-primary-100 hover:bg-primary-100 transition-colors text-left group"
               >
                 <FileText className="w-5 h-5 text-primary-600 shrink-0" />
                 <div>
-                  <div className="font-accent text-xs font-bold text-primary-800">Doc 10</div>
-                  <div className="font-accent text-xs text-primary-600">Site Assessment</div>
-                </div>
-                <ArrowRight className="w-3.5 h-3.5 text-primary-400 ml-auto group-hover:translate-x-1 transition-transform" />
-              </button>
-              <button
-                onClick={() => triggerTransition('/data-room', 'to-light')}
-                className="flex items-center gap-3 bg-primary-50 rounded-xl p-4 border border-primary-100 hover:bg-primary-100 transition-colors text-left group"
-              >
-                <FileText className="w-5 h-5 text-primary-600 shrink-0" />
-                <div>
-                  <div className="font-accent text-xs font-bold text-primary-800">Doc 11</div>
-                  <div className="font-accent text-xs text-primary-600">Master Plan</div>
-                </div>
-                <ArrowRight className="w-3.5 h-3.5 text-primary-400 ml-auto group-hover:translate-x-1 transition-transform" />
-              </button>
-              <button
-                onClick={() => triggerTransition('/data-room', 'to-light')}
-                className="flex items-center gap-3 bg-primary-50 rounded-xl p-4 border border-primary-100 hover:bg-primary-100 transition-colors text-left group"
-              >
-                <FileText className="w-5 h-5 text-primary-600 shrink-0" />
-                <div>
-                  <div className="font-accent text-xs font-bold text-primary-800">Doc 12</div>
-                  <div className="font-accent text-xs text-primary-600">Environmental Compliance</div>
+                  <div className="font-accent text-xs font-bold text-primary-800">Data Room</div>
+                  <div className="font-accent text-xs text-primary-600">View All Documents</div>
                 </div>
                 <ArrowRight className="w-3.5 h-3.5 text-primary-400 ml-auto group-hover:translate-x-1 transition-transform" />
               </button>

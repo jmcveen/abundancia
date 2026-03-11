@@ -136,18 +136,6 @@ const CORE_TEAM = [
     linkedIn: '',
   },
   {
-    name: 'Paul Merrick',
-    role: 'Construction',
-    bio: 'Construction management professional with expertise in natural building materials, hempcrete construction techniques, and project delivery.',
-    expertise: ['Hempcrete Construction', 'Natural Building Materials', 'Project Delivery', 'Cost Management'],
-    achievements: [
-      'Pioneered hempcrete construction techniques adapted for Texas climate',
-      'Manages construction timelines and contractor relationships for Abundancia',
-    ],
-    linkedIn: '',
-    projectLink: { label: 'Hempcrete Construction', href: '/data-room/view/regenerative/hempcrete-construction' },
-  },
-  {
     name: 'Lancelot Stukaloff',
     role: 'Capital Markets',
     bio: 'Capital markets specialist with deep experience structuring real estate investment vehicles, investor relations, and fund management.',
@@ -211,7 +199,7 @@ const NEW_EARTH_CARDS = [
     icon: TreePine,
     title: 'Regenerative First',
     description: 'Every project is designed to leave the land better than we found it.',
-    detail: 'Our regenerative-first philosophy means development enhances ecological function rather than degrading it. At Abundancia, 70-75% of the 376 acres will be conserved as native habitat, food forests, and ecological corridors. Hempcrete construction sequesters carbon. Water systems restore aquifer health. The land will be measurably healthier 10 years after development than it is today.',
+    detail: 'Our regenerative-first philosophy means development enhances ecological function rather than degrading it. At Abundancia, over 90% of the 376 acres will be conserved as native habitat, food forests, and ecological corridors. Hempcrete construction sequesters carbon. Water systems restore aquifer health. The land will be measurably healthier 10 years after development than it is today.',
     link: '/story/regeneration',
     linkLabel: 'Explore Regenerative Vision',
   },

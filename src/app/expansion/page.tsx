@@ -12,7 +12,7 @@ import { ArrowRight, CheckCircle2, ExternalLink, DollarSign, Target } from 'luci
 // ═══════════════════════════════════════════════════════════════════════════
 
 const PHASE_DATA_ROOM_LINKS: Record<number, { href: string; label: string }> = {
-  0: { href: '/data-room/view/property/site-assessment', label: 'View Site Assessment' },
+  0: { href: '/data-room', label: 'View Data Room' },
   1: { href: '/data-room/view/property/construction-budget', label: 'View Construction Budget' },
   2: { href: '/data-room/view/financial/financial-projections', label: 'View Financial Projections' },
   3: { href: '/data-room/view/financial/financial-projections', label: 'View Financial Projections' },
@@ -33,7 +33,7 @@ const PHASES = [
       'Entity formation — Texas Series LLC',
       'MUD (Municipal Utility District) petition',
     ],
-    detail: 'Phase 0 is the foundation — securing the land and completing all due diligence required before breaking ground. The 376-acre Cedar Creek property is approximately 30 minutes southeast of downtown Austin along SH-71, positioned in the path of Austin\'s eastward growth corridor. Due diligence includes environmental assessment, hydrology study (confirming water resources for 420+ homes), Houston toad habitat compliance with the Balcones Canyonlands Conservation Plan, and geotechnical analysis. The Texas Series LLC structure enables each development phase to be legally isolated, protecting investor capital. The MUD petition, if approved, unlocks municipal bond financing for future infrastructure.',
+    detail: 'Phase 0 is the foundation — securing the land and completing all due diligence required before breaking ground. The 376-acre Cedar Creek property is approximately 30 minutes southeast of downtown Austin along SH-71, positioned in the path of Austin\'s eastward growth corridor. Due diligence includes environmental assessment, hydrology study (confirming water resources for 665 structures), Houston toad habitat compliance with the Balcones Canyonlands Conservation Plan, and geotechnical analysis. The Texas Series LLC structure enables each development phase to be legally isolated, protecting investor capital. The MUD petition, if approved, unlocks municipal bond financing for future infrastructure.',
     investment: '$4.0M',
     revenueTarget: null,
   },
@@ -60,7 +60,7 @@ const PHASES = [
     color: 'bg-primary-800',
     milestones: [
       'Community spaces — Creation Hub, education center, yoga shala',
-      'Multifamily construction begins (260 units)',
+      'Multifamily construction begins (350 units)',
       'Commercial spaces open — grocery, restaurants, retail',
       'Expand to 100+ residential units',
       'Permaculture food forests reach initial maturity',
@@ -75,13 +75,13 @@ const PHASES = [
     timeline: 'Years 4-8',
     color: 'bg-primary-900',
     milestones: [
-      'Complete residential buildout — all 420+ owned units',
+      'Complete residential buildout — all 665 structures',
       'All commercial spaces fully operational',
       'Full renewable energy grid — net-positive',
       'Complete permaculture food forest maturity',
       'Community governance fully operational',
     ],
-    detail: 'Phase 3 completes the physical buildout of Abundancia. All 420+ owned residential units are delivered, commercial spaces are fully leased, and the renewable energy grid achieves net-positive status (producing more energy than consumed). The permaculture food forests reach full maturity, producing meaningful food yields for residents and the village grocery. Community governance — a resident-led cooperative structure — is fully operational. This phase generates peak revenue as the remaining residential inventory is absorbed and all five revenue streams are fully online.',
+    detail: 'Phase 3 completes the physical buildout of Abundancia. All residential units are delivered, commercial spaces are fully leased, and the renewable energy grid achieves net-positive status (producing more energy than consumed). The permaculture food forests reach full maturity, producing meaningful food yields for residents and the village grocery. Community governance — a resident-led cooperative structure — is fully operational. This phase generates peak revenue as the remaining residential inventory is absorbed and all four revenue streams are fully online.',
     investment: 'Self-funded from operations',
     revenueTarget: '$330M cumulative by year 8',
   },

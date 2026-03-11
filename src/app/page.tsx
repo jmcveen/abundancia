@@ -97,10 +97,10 @@ const HIGHLIGHTS = [
   },
   {
     icon: Leaf,
-    title: '70% Land Preserved',
+    title: '90%+ Land Preserved',
     description: 'Conservation-forward design preserves the Lost Pines ecosystem while enhancing Houston toad habitat.',
-    detail: 'Only 30% of the 376-acre property is developed, leaving 263 acres as protected natural habitat. This conservation-forward approach preserves the Lost Pines ecosystem — one of the most ecologically significant regions in Texas — and enhances habitat for the endangered Houston toad. Conservation easements provide significant tax benefits while permanently protecting the land.',
-    specs: ['263 acres preserved', 'Houston toad habitat', 'Lost Pines ecosystem', 'Conservation easements', 'Tax benefit eligible'],
+    detail: 'With a development footprint of only ~4% (16 acres), over 90% of the 376-acre property is preserved as natural habitat, food forests, and regenerative agriculture. This conservation-forward approach preserves the Lost Pines ecosystem — one of the most ecologically significant regions in Texas — and enhances habitat for the endangered Houston toad. Conservation easements provide significant tax benefits while permanently protecting the land.',
+    specs: ['360+ acres preserved', 'Houston toad habitat', 'Lost Pines ecosystem', 'Conservation easements', 'Tax benefit eligible'],
     link: '/data-room/view/property/environmental-compliance',
     modalKey: 'conservation',
   },
@@ -181,7 +181,7 @@ export default function HomePage() {
             <AnimatedStat target={metrics.irr} suffix="%" label="Projected IRR" decimals={1} />
             <AnimatedStat target={500} suffix="+" label="Year Building Lifespan" />
             <div className="col-span-2 md:col-span-1">
-              <AnimatedStat target={70} suffix="%" label="Land Preserved" />
+              <AnimatedStat target={90} suffix="%+" label="Land Preserved" />
             </div>
           </div>
         </div>

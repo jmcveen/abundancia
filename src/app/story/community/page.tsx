@@ -48,7 +48,7 @@ const HOUSING_TYPES = [
   {
     image: '/images/website/18-rental-units.png',
     type: 'Multifamily & Rentals',
-    units: '~260 Units',
+    units: '~350 Units',
     description: 'Affordable condominiums and rental units providing attainable entry points into regenerative living.',
     detail: 'Multi-unit residential buildings designed to make regenerative living accessible to a broader population. These units maintain the same hempcrete construction, indoor air quality, and smart home features as single-family homes while achieving economies of scale that reduce per-unit costs. Shared amenities and community spaces are integrated into each building cluster.',
     priceRange: '$185K-$375K',
@@ -557,7 +557,7 @@ export default function CommunityPage() {
                   <div className="accent-line w-full my-4" />
                   <div className="flex items-center justify-between">
                     <span className="font-accent text-base font-semibold text-white">Annual Target</span>
-                    <span className="font-display text-2xl font-bold text-secondary-400">$1.8M-$2.5M</span>
+                    <span className="font-display text-2xl font-bold text-secondary-400">$5.5M</span>
                   </div>
                 </div>
               </div>
