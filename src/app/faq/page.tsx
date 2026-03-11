@@ -41,7 +41,6 @@ const FAQ_SECTIONS = [
         q: 'Where exactly is it?',
         a: 'Cedar Creek, TX 78612 — along the SH 71 corridor in Bastrop County. The property is approximately 30 minutes from downtown Austin, with direct access via SH 71 and SH 130. The location sits in Austin\'s southeastern growth corridor, benefiting from the city\'s rapid expansion while maintaining the natural beauty and regulatory advantages of Bastrop County.',
         links: [
-          { text: 'View Site Assessment', href: '/data-room/view/property/site-assessment' },
           { text: 'Learn About the Land', href: '/story/land' },
         ],
       },
@@ -55,7 +54,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'How many homes will there be?',
-        a: 'The full buildout includes approximately 420+ units: ~100 single-family hempcrete homes, ~30 tiny homes, ~30 domes, ~260 multifamily units, plus custom lots and rental units. All residential construction uses hempcrete — a carbon-negative, fire-resistant building material with a 500+ year lifespan.',
+        a: 'The full buildout includes 665 total structures: 100 single-family homes, 350 multifamily condos, 60 special residential units (tiny homes, domes, and other unique designs), 75 rental multifamily condos, 50 special rental units, 100 lots, plus community and commercial spaces. All residential construction uses hempcrete or other approved regenerative materials — carbon-negative, fire-resistant building materials with a 500+ year lifespan.',
         links: [
           { text: 'Hempcrete Construction Details', href: '/data-room/view/regenerative/hempcrete-construction' },
           { text: 'View Unit Economics', href: '/data-room/view/financial/unit-economics' },
@@ -77,7 +76,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'What are the projected returns?',
-        a: 'Base case projections: 37.1% IRR with a 4.42x equity multiple over a 10-year hold. Conservative scenario: 24% IRR / 3.0x. Optimistic: 45% IRR / 5.5x. These are projections, not guarantees. Returns are driven by five diversified revenue streams across residential sales, rentals, lot sales, commercial leasing, and retreat operations.',
+        a: 'Base case projections: 37.1% IRR with a 4.42x equity multiple over a 10-year hold. Conservative scenario: 24% IRR / 3.0x. Optimistic: 45% IRR / 5.5x. These are projections, not guarantees. Returns are driven by four diversified revenue streams across residential sales, rentals, lot sales, and commercial leasing.',
         links: [
           { text: 'Explore the Financial Model', href: '/model' },
           { text: 'View Financial Projections', href: '/data-room/view/financial/financial-projections' },
@@ -116,7 +115,7 @@ const FAQ_SECTIONS = [
     faqs: [
       {
         q: 'What housing types are available?',
-        a: 'Single-family hempcrete homes (~1,900 SF), tiny homes (~600 SF), geodesic domes (~600 SF), multifamily condos (~1,100 SF), and custom lots. Pricing ranges from ~$200K for tiny homes to ~$625K for single-family. All structures use hempcrete construction for fire resistance, energy efficiency, and carbon sequestration.',
+        a: 'Single-family homes (1-7 bedrooms, up to 5,000 SF), multifamily condos (~1,000 SF), special residential units including tiny homes and domes (~324 SF avg), and custom lots (.25-1 acre). All structures use hempcrete or other approved regenerative materials such as rammed earth for fire resistance, energy efficiency, and carbon sequestration.',
         links: [
           { text: 'Unit Economics', href: '/data-room/view/financial/unit-economics' },
           { text: 'Hempcrete Details', href: '/data-room/view/regenerative/hempcrete-construction' },
@@ -124,7 +123,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'Can I design my own home?',
-        a: 'Custom lots are available for buyers who want to build their own hempcrete home within Abundancia\'s design guidelines. Our architects at Inphinity Design and builders provide support throughout the process, ensuring your home meets Living Building Challenge standards while reflecting your vision.',
+        a: 'Custom lots are available for buyers who want to build their own home using hempcrete or other approved regenerative materials (such as rammed earth) within Abundancia\'s design guidelines. Our architects at Inphinity Design and builders provide support throughout the process, ensuring your home meets Living Building Challenge standards while reflecting your vision.',
         links: [
           { text: 'Meet the Team', href: '/team' },
         ],
@@ -160,7 +159,6 @@ const FAQ_SECTIONS = [
         a: 'The 2011 Bastrop Complex Fire burned 34,000 acres and destroyed 1,673 homes — the most destructive wildfire in Texas history. Hempcrete\'s 2+ hour fire rating provides critical protection that no other development in the Lost Pines region offers. This is not just a feature — it is a fundamental safety advantage for families and a key factor in reduced insurance costs.',
         links: [
           { text: 'Property & Land Details', href: '/story/land' },
-          { text: 'Site Assessment', href: '/data-room/view/property/site-assessment' },
         ],
       },
       {
@@ -172,9 +170,8 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'What about the Houston toad?',
-        a: 'The Lost Pines ecoregion is home to the endangered Houston toad. Abundancia\'s conservation-forward design preserves 70-75% of the land, actively enhancing habitat through native planting, water feature management, and corridor connectivity — aligned with the Bastrop County LPHCP. Our approach transforms regulatory compliance into ecological enhancement.',
+        a: 'The Lost Pines ecoregion is home to the endangered Houston toad. Abundancia\'s conservation-forward design preserves over 90% of the land, actively enhancing habitat through native planting, water feature management, and corridor connectivity — aligned with the Bastrop County LPHCP. Our approach transforms regulatory compliance into ecological enhancement.',
         links: [
-          { text: 'Environmental Compliance', href: '/data-room/view/property/site-assessment' },
           { text: 'Land Story', href: '/story/land' },
         ],
       },
@@ -195,7 +192,6 @@ const FAQ_SECTIONS = [
         q: 'What are the advantages of Bastrop County?',
         a: 'No zoning restrictions (build by right), 6-12 month permitting (vs 18-24 months in Austin), agricultural exemption reducing holding costs, MUD bond financing available, and location in the Austin growth corridor. These regulatory advantages translate directly to faster development timelines and lower costs.',
         links: [
-          { text: 'Site Assessment', href: '/data-room/view/property/site-assessment' },
           { text: 'View Investment Thesis', href: '/invest' },
         ],
       },

@@ -71,7 +71,7 @@ const INVESTMENT_HIGHLIGHTS = [
     title: 'Five Revenue Streams',
     modalKey: 'revenue',
     brief: 'Residential sales, rental income, lot sales, commercial leasing, and retreat center.',
-    detail: 'Abundancia generates revenue through five diversified streams, reducing dependence on any single source:\n\n1. Residential Sales — $362M over 10 years from home and condo sales\n2. Rental Income — $43.6M from 60 short/long-term rental units\n3. Lot Sales — $15.4M from 200 prepared lots\n4. Commercial Leasing — $7.8M from retail, co-working, and wellness spaces\n5. Retreat Center — $6.3M from wellness retreats and event hosting\n\nThis diversification provides financial resilience across market cycles.',
+    detail: 'Abundancia generates revenue through four diversified streams, reducing dependence on any single source:\n\n1. Residential Sales — $362M over 10 years from home and condo sales\n2. Rental Income — $43.6M from 125 rental units (75 condos + 50 special rentals)\n3. Lot Sales — $15.4M from 100 prepared lots\n4. Commercial Leasing — $7.8M from retail, co-working, and wellness spaces\n\nThis diversification provides financial resilience across market cycles.',
     link: '/model',
     linkLabel: 'Explore Business Model',
   },
@@ -80,7 +80,7 @@ const INVESTMENT_HIGHLIGHTS = [
     title: 'Conservation Tax Benefits',
     modalKey: 'conservation-tax',
     brief: 'Permanent conservation easements provide significant tax deductions for investors.',
-    detail: 'By preserving 70% of the land (263 acres) under permanent conservation easements, Abundancia unlocks substantial tax benefits. Conservation easement donations are deductible up to 50% of adjusted gross income, with a 15-year carry-forward period. Combined with the existing agricultural exemption and Texas\'s lack of state income tax, investors benefit from a highly tax-efficient structure that simultaneously protects irreplaceable ecological habitat.',
+    detail: 'With a development footprint of only ~4% (16 acres), over 90% of the land (360 acres) is preserved under conservation and regenerative agriculture. Conservation easement donations are deductible up to 50% of adjusted gross income, with a 15-year carry-forward period. Combined with the existing agricultural exemption and Texas\'s lack of state income tax, investors benefit from a highly tax-efficient structure that simultaneously protects irreplaceable ecological habitat.',
     link: '/data-room/view/property/environmental-compliance',
     linkLabel: 'View Environmental Compliance',
   },
@@ -159,7 +159,7 @@ export default function OverviewPage() {
                   <strong>Abundancia</strong> is a mixed-use regenerative community designed to prove that profitable real estate development and ecological regeneration amplify each other. Built with hempcrete — carbon-negative, fire-resistant homes that last 500+ years — the community integrates renewable energy, water security, food forests, and sacred spaces.
                 </p>
                 <p>
-                  Located on 376 acres in Cedar Creek, Bastrop County, the project benefits from Austin&apos;s explosive growth (50-60K new residents/year), no zoning restrictions, agricultural exemption, and Texas hempcrete building codes. Five diversified revenue streams across residential sales, rental income, lot sales, commercial leasing, and a retreat center provide financial resilience.
+                  Located on 376 acres in Cedar Creek, Bastrop County, the project benefits from Austin&apos;s explosive growth (50-60K new residents/year), no zoning restrictions, agricultural exemption, and Texas hempcrete building codes. Four diversified revenue streams across residential sales, rental income, lot sales, and commercial leasing provide financial resilience.
                 </p>
                 <p>
                   The $12.5M capital raise funds the complete vision — land acquisition, Phase 1 construction, retreat center launch, and infrastructure. Revenue generation begins in Phase 1 through retreat operations and first home sales. LP-favorable waterfall with 8% preferred return and full capital return priority.
