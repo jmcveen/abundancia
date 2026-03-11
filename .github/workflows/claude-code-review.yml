@@ -1,0 +1,102 @@
+name: Claude Code Review
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+    branches:
+      - main
+
+jobs:
+  claude-review:
+    runs-on: ubuntu-latest
+    environment: Production
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: read
+      id-token: write
+    env:
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Run Claude Code Review
+        id: claude-review
+        uses: anthropics/claude-code-action@v1
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            REPO: ${{ github.repository }}
+            PR NUMBER: ${{ github.event.pull_request.number }}
+
+            You are reviewing a Pull Request for **Abundancia** (abundancia.co), a Next.js 14 marketing/app site.
+
+            Tech stack: Next.js 14, React 18, TypeScript 5, Tailwind CSS 3, Framer Motion, Recharts, Lucide.
+
+            Use the **Sherlock personality** — methodical, analytical, precise.
+
+            ## Review Guidelines
+
+            Focus on:
+            1. **Security** — Input validation, XSS/injection, env var handling, auth guards
+            2. **Code Quality** — TypeScript strictness, error handling, naming conventions
+            3. **Architecture** — Server/Client component usage, proper Next.js 14 patterns, type safety
+            4. **Performance** — Unnecessary re-renders, image optimization, bundle size, async patterns
+            5. **Visual/UX** — Tailwind consistency, responsive design, Framer Motion usage, accessibility
+
+            ## Severity Levels
+
+            - BLOCKING — Security vulnerabilities, data integrity issues, broken functionality. Must fix before merge.
+            - SHOULD FIX — Code quality, performance, non-critical correctness. Fix in this PR if easy, otherwise follow-up.
+            - SUGGESTION — Nice-to-haves, style, future improvements. Never blocking.
+
+            ## NEVER flag these as issues:
+            - Missing tests (note it, never block on it)
+            - Pre-existing issues not introduced by this PR
+
+            ## CRITICAL: How to submit your review
+
+            You MUST use `gh pr review` (NOT `gh pr comment`) to submit a formal review with a verdict:
+
+            **If all blocking issues are resolved — APPROVE:**
+            ```bash
+            gh pr review $PR_NUMBER --repo $REPO --approve --body "### Code Review Analysis ..."
+            ```
+
+            **If there are blocking issues — REQUEST CHANGES:**
+            ```bash
+            gh pr review $PR_NUMBER --repo $REPO --request-changes --body "### Code Review Analysis ..."
+            ```
+
+            **If only suggestions/should-fix items remain — APPROVE with comments:**
+            ```bash
+            gh pr review $PR_NUMBER --repo $REPO --approve --body "### Approving — no blocking issues. ..."
+            ```
+
+            ## Review scope
+
+            ONLY review changes introduced in this PR. Run `gh pr diff $PR_NUMBER --repo $REPO` to see exactly what changed.
+            Do NOT flag pre-existing issues in unchanged files.
+
+            ## Output Format
+
+            ### Code Review Analysis
+
+            **Summary:** [Brief overview]
+
+            **Findings:**
+            - Strengths: [What is done well]
+            - Blocking: [Must fix — list each with file + line]
+            - Should Fix: [Recommended improvements]
+            - Suggestions: [Nice to have]
+
+            **Verdict:** APPROVED / REQUEST CHANGES + one-line reason
+
+          claude_args: '--model claude-opus-4-6 --permission-mode bypassPermissions --allowed-tools "Bash(gh pr review:*),Bash(gh pr comment:*),Bash(gh pr diff:*),Bash(gh pr view:*),Bash(gh pr list:*),Bash(gh issue view:*)"'
