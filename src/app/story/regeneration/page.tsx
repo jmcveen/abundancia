@@ -76,7 +76,7 @@ const PETALS = [
 
 const REGEN_FEATURES = [
   {
-    image: '/images/website/42-ecological-preservation.jpeg',
+    image: '/images/website/42-ecological-preservation.png',
     icon: TreePine,
     title: 'Ecological Preservation',
     description: '70-75% of the land conserved — Lost Pines ecosystem, wildlife corridors, native habitat restoration.',
@@ -85,7 +85,7 @@ const REGEN_FEATURES = [
     linkLabel: 'View Environmental Compliance',
   },
   {
-    image: '/images/website/43-self-sufficiency.jpeg',
+    image: '/images/website/43-self-sufficiency.png',
     icon: Leaf,
     title: 'Self-Sufficiency',
     description: '80-100% food production, 100% energy/water/waste independence. True community resilience.',
@@ -94,7 +94,7 @@ const REGEN_FEATURES = [
     linkLabel: 'View Energy Independence Plan',
   },
   {
-    image: '/images/website/44-biodiversity-regeneration.jpg',
+    image: '/images/website/44-biodiversity-regeneration.png',
     icon: Bug,
     title: 'Biodiversity Regeneration',
     description: 'Lost Pines restoration, Houston toad habitat enhancement, native pollinator gardens, wildlife corridors.',
@@ -103,7 +103,7 @@ const REGEN_FEATURES = [
     linkLabel: 'View Environmental Compliance',
   },
   {
-    image: '/images/website/45-water-collection-efficiency-systems.jpeg',
+    image: '/images/website/45-water-collection-efficiency-systems.png',
     icon: Droplets,
     title: 'Water Collection & Efficiency',
     description: '7 retention ponds, rainwater harvesting, greywater recycling, ACWA backup, structured water systems.',
@@ -112,7 +112,7 @@ const REGEN_FEATURES = [
     linkLabel: 'View Water Systems Report',
   },
   {
-    image: '/images/website/46-renewable-energy-systems.jpeg',
+    image: '/images/website/46-renewable-energy-systems.png',
     icon: Sun,
     title: 'Renewable Energy Systems',
     description: 'Solar arrays + battery storage providing net-positive energy. Grid-independent after Winter Storm Uri lessons.',
@@ -121,7 +121,7 @@ const REGEN_FEATURES = [
     linkLabel: 'View Energy Independence Plan',
   },
   {
-    image: '/images/website/47-permaculture-agriculture.jpeg',
+    image: '/images/website/47-permaculture-agriculture.png',
     icon: Flower2,
     title: 'Permaculture & Agriculture',
     description: 'Food forests, community gardens, orchards. USDA Zone 8b provides 250+ growing days year-round.',
@@ -130,7 +130,7 @@ const REGEN_FEATURES = [
     linkLabel: 'View Permaculture Design',
   },
   {
-    image: '/images/website/48-waste-systems.jpeg',
+    image: '/images/website/48-waste-systems.png',
     icon: Recycle,
     title: 'Waste Systems',
     description: 'Composting, biodigestion, material recovery. Zero-waste-to-landfill target across the community.',
@@ -139,7 +139,7 @@ const REGEN_FEATURES = [
     linkLabel: 'View Regenerative Systems',
   },
   {
-    image: '/images/website/49-reforestation.jpeg',
+    image: '/images/website/49-reforestation.png',
     icon: TreePine,
     title: 'Reforestation',
     description: 'Native loblolly pine and post oak restoration — rebuilding the Lost Pines after the 2011 Bastrop wildfire.',
@@ -148,7 +148,7 @@ const REGEN_FEATURES = [
     linkLabel: 'View Environmental Report',
   },
   {
-    image: '/images/website/50-carbon-sequestration.jpg',
+    image: '/images/website/50-carbon-sequestration.png',
     icon: Leaf,
     title: 'Carbon Sequestration',
     description: 'Each hempcrete home sequesters 20-40 tons of CO2. The community is carbon-negative from day one.',
@@ -157,7 +157,7 @@ const REGEN_FEATURES = [
     linkLabel: 'View Hempcrete Report',
   },
   {
-    image: '/images/website/51-healthy-resilient-buildings.jpeg',
+    image: '/images/website/51-healthy-resilient-buildings.png',
     icon: Building2,
     title: 'Healthy Resilient Buildings',
     description: 'Fire-resistant (2+ hour rating), storm-resistant, pest-resistant. Healthiest indoor air quality available.',
@@ -166,7 +166,7 @@ const REGEN_FEATURES = [
     linkLabel: 'View Hempcrete Report',
   },
   {
-    image: '/images/website/52-efficient-site-design.jpeg',
+    image: '/images/website/52-efficient-site-design.png',
     icon: Compass,
     title: 'Efficient Site Design',
     description: 'Clustered development pods around water features. Walkable, bikeable, and connected by trail networks.',
@@ -184,7 +184,7 @@ const REGEN_FEATURES = [
     linkLabel: 'Learn About the 7 Petals',
   },
   {
-    image: '/images/website/54-electric-vehicle-transportation.jpg',
+    image: '/images/website/54-electric-vehicle-transportation.png',
     icon: Car,
     title: 'Electric Vehicle Transportation',
     description: 'EV charging infrastructure, community electric vehicles, and walkable design reducing car dependence.',
@@ -193,7 +193,7 @@ const REGEN_FEATURES = [
     linkLabel: 'View Energy Systems',
   },
   {
-    image: '/images/website/55-material-life-cycle-analysis.jpg',
+    image: '/images/website/55-material-life-cycle-analysis.png',
     icon: FlaskConical,
     title: 'Material Life Cycle Analysis',
     description: 'Every material evaluated for environmental impact from extraction through end-of-life. Red List free.',
@@ -202,7 +202,7 @@ const REGEN_FEATURES = [
     linkLabel: 'View Materials Report',
   },
   {
-    image: '/images/website/56-sustainable-ethical-products.jpg',
+    image: '/images/website/56-sustainable-ethical-products.png',
     icon: ShoppingBag,
     title: 'Sustainable & Ethical Products',
     description: 'On-site production and curation of ethical goods — supporting local makers and regenerative supply chains.',
@@ -214,21 +214,21 @@ const REGEN_FEATURES = [
 
 const COMMUNITY_OPS = [
   {
-    image: '/images/website/57-co-governance.jpeg',
+    image: '/images/website/57-co-governance.png',
     icon: Vote,
     title: 'Co-Governance',
     description: 'Sociocratic decision-making where every resident has voice and vote. Structured onboarding ensures inclusive participation from day one.',
     detail: 'Abundancia operates on a sociocratic governance model where decisions are made by consent rather than majority vote. Nested circles — from household to neighborhood to community-wide — ensure that every voice is heard at the appropriate level. New residents complete a structured onboarding program that teaches the governance model, builds relationships, and ensures inclusive participation from day one. This is not a commune — it is a sophisticated, scalable governance structure proven in communities worldwide.',
   },
   {
-    image: '/images/website/58-alternative-currency.jpeg',
+    image: '/images/website/58-alternative-currency.png',
     icon: Coins,
     title: 'Alternative Currency',
     description: 'Community-backed digital currency enabling local economic sovereignty. Residents can trade skills, goods, and services within the ecosystem.',
     detail: 'The Abundancia community currency is a blockchain-backed digital token that enables local economic sovereignty. Residents earn currency by contributing to community operations — teaching, gardening, mentoring, maintenance — and spend it at on-site businesses, the zero-waste grocery, and with fellow residents. The currency keeps economic value circulating within the community, creating a multiplier effect that strengthens local resilience independent of external economic conditions.',
   },
   {
-    image: '/images/website/59-health-care.jpeg',
+    image: '/images/website/59-health-care.png',
     icon: Stethoscope,
     title: 'Holistic Health Care',
     description: 'Nutrition counseling, health testing, on-site health center, preventive wellness programs. Health care designed around prevention, not crisis.',
@@ -250,7 +250,7 @@ export default function RegenerationPage() {
       {/* ═══ HERO ═══ */}
       <section className="relative py-24 md:py-32 overflow-hidden">
         <Image
-          src="/images/website/12-rethinking-development.jpeg"
+          src="/images/website/12-rethinking-development.png"
           alt="Rethinking development — regenerative building and design"
           fill
           className="object-cover"
@@ -263,7 +263,7 @@ export default function RegenerationPage() {
             <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
               Regenerative Systems
             </span>
-            <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-white mb-6 max-w-4xl">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-white mb-6 max-w-4xl">
               Rethinking Development
             </h1>
             <p className="text-xl text-white/80 max-w-3xl leading-relaxed">
@@ -291,7 +291,7 @@ export default function RegenerationPage() {
             <FadeIn delay={0.2}>
               <div>
                 <span className="eyebrow mb-3 block">Certification Standard</span>
-                <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
                   The Living Building Challenge
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-8">
@@ -352,7 +352,7 @@ export default function RegenerationPage() {
               <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-3 block">
                 Regenerative Infrastructure
               </span>
-              <h2 className="font-display text-4xl md:text-5xl mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl mb-4">
                 15 Integrated Systems
               </h2>
               <p className="text-lg text-white/70 max-w-2xl mx-auto">
@@ -430,7 +430,7 @@ export default function RegenerationPage() {
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">Community Operations</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 How We Live Together
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -511,7 +511,7 @@ export default function RegenerationPage() {
                 <Heart className="w-4 h-4 inline mr-2 -mt-0.5" />
                 Local Positive Impact
               </span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Lifting the Entire Region
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -522,11 +522,11 @@ export default function RegenerationPage() {
 
           <StaggerContainer className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
             {[
-              { image: '/images/website/66-affordable-homes.jpeg', label: 'Affordable Homes' },
-              { image: '/images/website/67-healthy-food.jpeg', label: 'Healthy Food' },
-              { image: '/images/website/68-job-creation.jpeg', label: 'Job Creation' },
-              { image: '/images/website/69-farmers-market.jpg', label: "Farmer's Market" },
-              { image: '/images/website/70-regenerative-education.jpeg', label: 'Regenerative Education' },
+              { image: '/images/website/66-affordable-homes.png', label: 'Affordable Homes' },
+              { image: '/images/website/67-healthy-food.png', label: 'Healthy Food' },
+              { image: '/images/website/68-job-creation.png', label: 'Job Creation' },
+              { image: '/images/website/69-farmers-market.png', label: "Farmer's Market" },
+              { image: '/images/website/70-regenerative-education.png', label: 'Regenerative Education' },
             ].map((item) => (
               <StaggerItem key={item.label}>
                 <Link href="/expansion" className="card-hover overflow-hidden group block">
@@ -558,7 +558,7 @@ export default function RegenerationPage() {
             <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
               The Opportunity
             </span>
-            <h2 className="font-display text-4xl md:text-5xl text-white mb-6">
+            <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white mb-6">
               From Vision to Investment
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
@@ -568,7 +568,7 @@ export default function RegenerationPage() {
 
           <FadeIn delay={0.2}>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link href="/model" className="btn-primary btn-lg rounded-2xl text-base group">
+              <Link href="/model" className="btn-primary-light btn-lg rounded-2xl text-base group">
                 View Business Model
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>

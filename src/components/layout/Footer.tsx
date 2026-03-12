@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { Leaf } from 'lucide-react'
+import Image from 'next/image'
 
 const FOOTER_LINKS = [
   {
@@ -32,22 +32,22 @@ const FOOTER_LINKS = [
 
 export function Footer() {
   return (
-    <footer className="bg-primary-900 text-white">
-      <div className="section-container py-16 md:py-20">
+    <footer className="bg-[#0f0f0f] text-white">
+      <div className="section-container py-20 md:py-24">
         {/* Top section */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
           {/* Brand column */}
           <div className="lg:col-span-1">
-            <div className="flex items-center gap-3 mb-4">
-              <div className="w-10 h-10 rounded-xl bg-white/10 flex items-center justify-center">
-                <Leaf className="w-5 h-5 text-secondary-400" />
-              </div>
-              <div>
-                <div className="font-heading text-lg font-bold">Abundancia</div>
-                <div className="text-xs text-white/60 font-accent">Austin, TX</div>
-              </div>
+            <div className="mb-6">
+              <Image
+                src="/Abundancia Logo - words.png"
+                alt="Abundancia"
+                width={160}
+                height={28}
+                className="h-6 w-auto"
+              />
             </div>
-            <p className="text-sm text-white/70 leading-relaxed max-w-xs">
+            <p className="text-sm text-white/30 leading-relaxed max-w-xs font-body font-light">
               Regenerative living in harmony with nature. A 376-acre community proving that profitable development and ecological regeneration amplify each other.
             </p>
           </div>
@@ -55,15 +55,15 @@ export function Footer() {
           {/* Link columns */}
           {FOOTER_LINKS.map((section) => (
             <div key={section.title}>
-              <h4 className="font-accent font-semibold text-sm text-white/90 mb-4 uppercase tracking-wider">
+              <h4 className="font-accent text-xs text-white/50 mb-5 uppercase tracking-[0.2em]">
                 {section.title}
               </h4>
-              <ul className="space-y-2.5">
+              <ul className="space-y-3">
                 {section.links.map((link) => (
                   <li key={link.href}>
                     <Link
                       href={link.href}
-                      className="text-sm text-white/60 hover:text-white transition-colors duration-200 font-accent"
+                      className="text-sm text-white/30 hover:text-[#ceb78e] transition-colors duration-300 font-accent"
                     >
                       {link.name}
                     </Link>
@@ -75,18 +75,18 @@ export function Footer() {
         </div>
 
         {/* Divider */}
-        <div className="h-px bg-white/10 my-10" />
+        <div className="h-px bg-white/[0.06] my-12" />
 
         {/* Bottom section */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-          <div className="text-xs text-white/40 font-accent">
+          <div className="text-xs text-white/20 font-accent tracking-wider">
             &copy; {new Date().getFullYear()} New Earth Development. All rights reserved.
           </div>
-          <div className="flex items-center gap-6">
-            <Link href="/legal" className="text-xs text-white/40 hover:text-white/70 transition-colors font-accent">
+          <div className="flex items-center gap-8">
+            <Link href="/legal" className="text-xs text-white/20 hover:text-white/40 transition-colors font-accent tracking-wider">
               Legal
             </Link>
-            <Link href="/legal#privacy" className="text-xs text-white/40 hover:text-white/70 transition-colors font-accent">
+            <Link href="/legal#privacy" className="text-xs text-white/20 hover:text-white/40 transition-colors font-accent tracking-wider">
               Privacy
             </Link>
           </div>

@@ -71,7 +71,7 @@ function MetricCard({ target, prefix, suffix, label, decimals = 0 }: {
 
   return (
     <div ref={ref} className="card p-6 text-center">
-      <div className="font-display text-3xl md:text-4xl font-bold text-primary-800 mb-1">
+      <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 mb-1">
         {prefix}{count.toLocaleString()}{suffix}
       </div>
       <div className="font-accent text-sm text-neutral-600">{label}</div>
@@ -142,7 +142,7 @@ export default function ModelPage() {
         <div className="relative section-container">
           <FadeIn>
             <span className="eyebrow mb-4 block">Business Model</span>
-            <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-neutral-900 mb-6 max-w-4xl">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-neutral-900 mb-6 max-w-4xl">
               Regenerative Is Profitable
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed mb-8">
@@ -179,7 +179,7 @@ export default function ModelPage() {
           <FadeIn>
             <div className="max-w-3xl mb-14">
               <span className="eyebrow mb-3 block">Revenue Streams</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Five Diversified Income Sources
               </h2>
               <p className="text-lg text-neutral-600">
@@ -217,7 +217,7 @@ export default function ModelPage() {
               <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-3 block">
                 Unit Economics
               </span>
-              <h2 className="font-display text-4xl md:text-5xl mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl mb-4">
                 Product Mix & Pricing
               </h2>
             </div>
@@ -277,7 +277,7 @@ export default function ModelPage() {
             <div className="flex flex-col md:flex-row md:items-end md:justify-between mb-14 gap-4">
               <div>
                 <span className="eyebrow mb-3 block">10-Year Projection</span>
-                <h2 className="font-display text-4xl md:text-5xl text-neutral-900">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900">
                   Revenue & EBITDA
                 </h2>
               </div>
@@ -349,7 +349,7 @@ export default function ModelPage() {
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">$12.5M Capital Raise</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Use of Funds
               </h2>
             </div>
@@ -393,7 +393,7 @@ export default function ModelPage() {
               <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-3 block">
                 Investor Returns
               </span>
-              <h2 className="font-display text-4xl md:text-5xl mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl mb-4">
                 Waterfall Distribution
               </h2>
               <p className="text-lg text-white/70 max-w-2xl mx-auto">
@@ -455,7 +455,7 @@ export default function ModelPage() {
             <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
               Take the Next Step
             </span>
-            <h2 className="font-display text-4xl md:text-5xl text-white mb-6">
+            <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white mb-6">
               Join the $12.5M Capital Raise
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
@@ -468,7 +468,7 @@ export default function ModelPage() {
               <Link href="/invest/apply" className="btn-accent btn-lg rounded-2xl text-base">
                 Join Investor Waitlist
               </Link>
-              <Link href="/expansion" className="btn bg-white/10 text-white border border-white/20 hover:bg-white/20 btn-lg rounded-2xl text-base group">
+              <Link href="/expansion" className="btn-secondary-light btn-lg rounded-2xl text-base group">
                 View Development Phases
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>

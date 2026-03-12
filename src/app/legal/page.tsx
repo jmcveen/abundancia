@@ -13,7 +13,7 @@ export default function LegalPage() {
         <div className="relative section-container">
           <FadeIn>
             <span className="eyebrow mb-4 block">Legal</span>
-            <h1 className="font-display text-5xl md:text-6xl text-neutral-900 mb-6 max-w-4xl">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-neutral-900 mb-6 max-w-4xl">
               Legal Notices & Privacy
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">

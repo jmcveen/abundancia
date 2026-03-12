@@ -9,16 +9,16 @@ const config: Config = {
   theme: {
     extend: {
       // ═══════════════════════════════════════════════════════════════════════════
-      // "Living Earth" Color Palette
-      // Regenerative Nature meets Sacred Luxury
+      // "Sacred Luxury" Color Palette
+      // Tesla/Apple-inspired — Dark, cinematic, editorial
       // ═══════════════════════════════════════════════════════════════════════════
       colors: {
-        // Canvas colors - The breathing room
+        // Canvas colors - Light foundation
         canvas: {
-          DEFAULT: '#FDFBF5',
-          subtle: '#F8F5ED',
-          muted: '#F0EBE0',
-          emphasis: '#E6DFD0',
+          DEFAULT: '#ffffff',
+          subtle: '#fafaf8',
+          muted: '#f5f4f0',
+          emphasis: '#eeeee8',
         },
 
         // Primary - Deep Forest Green (Regeneration + Authority)
@@ -31,54 +31,54 @@ const config: Config = {
           500: '#3a8249',
           600: '#2d6838',
           700: '#26562f',
-          800: '#1E4528', // Main brand color
+          800: '#1E4528',
           900: '#183920',
           950: '#0c1f12',
         },
 
-        // Accent - Warm Earth / Hempcrete (Warmth + Grounding)
+        // Accent - Sacred Gold (#ceb78e as the anchor)
         accent: {
-          50: '#faf6f2',
-          100: '#f4ebe0',
-          200: '#e8d4bf',
-          300: '#d9b894',
-          400: '#C4956A', // Primary accent - hempcrete
-          500: '#B07D4F',
-          600: '#9A6840',
-          700: '#7E5335',
-          800: '#67442D',
-          900: '#553928',
-          950: '#2E1D14',
+          50: '#fdf9f1',
+          100: '#f9f0dc',
+          200: '#f0deb8',
+          300: '#e4c896',
+          400: '#ceb78e', // User's preferred gold
+          500: '#b9a070',
+          600: '#9c8458',
+          700: '#7d6a47',
+          800: '#65553a',
+          900: '#534631',
+          950: '#2e2618',
         },
 
-        // Secondary - Sacred Gold (Investment + Sacred)
+        // Secondary - Cool accent for contrast
         secondary: {
-          50: '#fdfbf0',
-          100: '#faf3d8',
-          200: '#f3e5ab',
-          300: '#ebd375',
-          400: '#D4B84A', // Light gold
-          500: '#C9A227', // Sacred gold
-          600: '#AF8A1F',
-          700: '#8E6E1C',
-          800: '#74591C',
-          900: '#60491C',
-          950: '#37280E',
+          50: '#fdf9f1',
+          100: '#f9f0dc',
+          200: '#f0deb8',
+          300: '#e4c896',
+          400: '#ceb78e',
+          500: '#b9a070',
+          600: '#9c8458',
+          700: '#7d6a47',
+          800: '#65553a',
+          900: '#534631',
+          950: '#2e2618',
         },
 
-        // Neutral - Warm Gray Scale with green undertone
+        // Neutral - Pure cool grays
         neutral: {
-          50: '#faf9f6',
-          100: '#f3f2ed',
-          200: '#e5e3dc',
-          300: '#d1cec4',
-          400: '#ada89c',
-          500: '#918b7e',
-          600: '#756f63',
-          700: '#5c5850',
-          800: '#3D4A33', // Body text
-          900: '#1A2E0A', // Primary headings
-          950: '#0E1806',
+          50: '#fafafa',
+          100: '#f5f5f5',
+          200: '#e5e5e5',
+          300: '#d4d4d4',
+          400: '#a3a3a3',
+          500: '#737373',
+          600: '#525252',
+          700: '#404040',
+          800: '#262626',
+          900: '#171717',
+          950: '#0a0a0a',
         },
 
         // Status colors
@@ -113,12 +113,12 @@ const config: Config = {
       },
 
       // ═══════════════════════════════════════════════════════════════════════════
-      // Typography - Same distinctive stack as Transformational Epicenter
+      // Typography - Luxury stack
       // ═══════════════════════════════════════════════════════════════════════════
       fontFamily: {
-        display: ['Fraunces', 'Georgia', 'serif'],
-        heading: ['"Libre Baskerville"', 'Georgia', 'serif'],
-        body: ['"Source Sans 3"', 'system-ui', 'sans-serif'],
+        display: ['"Tenor Sans"', 'Georgia', 'serif'],
+        heading: ['"Tenor Sans"', 'Georgia', 'serif'],
+        body: ['Inter', 'system-ui', 'sans-serif'],
         accent: ['"DM Sans"', 'Arial', 'sans-serif'],
         mono: ['"JetBrains Mono"', 'Consolas', 'monospace'],
       },
@@ -126,16 +126,17 @@ const config: Config = {
       fontSize: {
         xs: ['0.75rem', { lineHeight: '1.5' }],
         sm: ['0.875rem', { lineHeight: '1.5' }],
-        base: ['1rem', { lineHeight: '1.625' }],
+        base: ['1rem', { lineHeight: '1.7' }],
         lg: ['1.125rem', { lineHeight: '1.7' }],
         xl: ['1.25rem', { lineHeight: '1.5' }],
         '2xl': ['1.5rem', { lineHeight: '1.4' }],
         '3xl': ['1.875rem', { lineHeight: '1.3' }],
-        '4xl': ['2.25rem', { lineHeight: '1.2' }],
-        '5xl': ['3rem', { lineHeight: '1.15' }],
-        '6xl': ['3.75rem', { lineHeight: '1.1' }],
-        '7xl': ['4.5rem', { lineHeight: '1.05' }],
-        '8xl': ['6rem', { lineHeight: '1' }],
+        '4xl': ['2.25rem', { lineHeight: '1.15' }],
+        '5xl': ['3rem', { lineHeight: '1.1' }],
+        '6xl': ['3.75rem', { lineHeight: '1.05' }],
+        '7xl': ['4.5rem', { lineHeight: '1' }],
+        '8xl': ['6rem', { lineHeight: '0.95' }],
+        '9xl': ['8rem', { lineHeight: '0.9' }],
       },
 
       // ═══════════════════════════════════════════════════════════════════════════
@@ -155,7 +156,7 @@ const config: Config = {
       },
 
       // ═══════════════════════════════════════════════════════════════════════════
-      // Border radius - Organic, rounded edges
+      // Border radius
       // ═══════════════════════════════════════════════════════════════════════════
       borderRadius: {
         sm: '0.25rem',
@@ -168,29 +169,29 @@ const config: Config = {
       },
 
       // ═══════════════════════════════════════════════════════════════════════════
-      // Shadows - Warm-tinted with earthy undertones
+      // Shadows - Subtle with warm gold hints
       // ═══════════════════════════════════════════════════════════════════════════
       boxShadow: {
-        'xs': '0 1px 2px rgba(26, 46, 10, 0.04)',
-        'sm': '0 2px 4px rgba(26, 46, 10, 0.06)',
-        'card': '0 4px 8px -2px rgba(26, 46, 10, 0.08), 0 2px 4px -1px rgba(26, 46, 10, 0.04)',
-        'card-hover': '0 12px 24px -4px rgba(26, 46, 10, 0.10), 0 4px 8px -2px rgba(26, 46, 10, 0.04)',
-        'lg': '0 12px 24px -4px rgba(26, 46, 10, 0.10), 0 4px 8px -2px rgba(26, 46, 10, 0.04)',
-        'xl': '0 20px 40px -8px rgba(26, 46, 10, 0.12), 0 8px 16px -4px rgba(26, 46, 10, 0.06)',
-        '2xl': '0 32px 64px -12px rgba(26, 46, 10, 0.16), 0 12px 24px -6px rgba(26, 46, 10, 0.08)',
-        'inner-sm': 'inset 0 1px 2px rgba(26, 46, 10, 0.06)',
-        'inner': 'inset 0 2px 4px rgba(26, 46, 10, 0.08)',
-        'glow-primary': '0 0 24px -4px rgba(30, 69, 40, 0.25)',
-        'glow-accent': '0 0 24px -4px rgba(196, 149, 106, 0.25)',
-        'glow-gold': '0 0 24px -4px rgba(201, 162, 39, 0.25)',
-        'nav': '0 1px 3px rgba(26, 46, 10, 0.08)',
+        'xs': '0 1px 2px rgba(0, 0, 0, 0.2)',
+        'sm': '0 2px 4px rgba(0, 0, 0, 0.3)',
+        'card': '0 4px 24px -4px rgba(0, 0, 0, 0.4)',
+        'card-hover': '0 12px 40px -8px rgba(0, 0, 0, 0.5)',
+        'lg': '0 12px 40px -8px rgba(0, 0, 0, 0.5)',
+        'xl': '0 20px 60px -12px rgba(0, 0, 0, 0.6)',
+        '2xl': '0 32px 80px -16px rgba(0, 0, 0, 0.7)',
+        'inner-sm': 'inset 0 1px 2px rgba(0, 0, 0, 0.3)',
+        'inner': 'inset 0 2px 4px rgba(0, 0, 0, 0.4)',
+        'glow-gold': '0 0 40px -8px rgba(206, 183, 142, 0.15)',
+        'glow-primary': '0 0 40px -8px rgba(30, 69, 40, 0.2)',
+        'glow-accent': '0 0 40px -8px rgba(206, 183, 142, 0.15)',
+        'nav': '0 4px 30px -4px rgba(0, 0, 0, 0.3)',
       },
 
       // ═══════════════════════════════════════════════════════════════════════════
-      // Animation - Natural, organic timing
+      // Animation - Smooth, cinematic timing
       // ═══════════════════════════════════════════════════════════════════════════
       transitionDuration: {
-        DEFAULT: '200ms',
+        DEFAULT: '300ms',
         '75': '75ms',
         '100': '100ms',
         '150': '150ms',
@@ -211,12 +212,12 @@ const config: Config = {
       },
 
       animation: {
-        'fade-in': 'fadeIn 0.5s ease-out-expo',
-        'slide-up': 'slideUp 0.6s ease-out-expo',
-        'slide-down': 'slideDown 0.6s ease-out-expo',
-        'slide-in-left': 'slideInLeft 0.6s ease-out-expo',
-        'slide-in-right': 'slideInRight 0.6s ease-out-expo',
-        'scale-in': 'scaleIn 0.4s ease-out-expo',
+        'fade-in': 'fadeIn 0.8s ease-out-expo',
+        'slide-up': 'slideUp 0.8s ease-out-expo',
+        'slide-down': 'slideDown 0.8s ease-out-expo',
+        'slide-in-left': 'slideInLeft 0.8s ease-out-expo',
+        'slide-in-right': 'slideInRight 0.8s ease-out-expo',
+        'scale-in': 'scaleIn 0.6s ease-out-expo',
         'shimmer': 'shimmer 2s linear infinite',
         'pulse-subtle': 'pulse-subtle 3s ease-in-out infinite',
         'float': 'float 4s ease-in-out infinite',
@@ -228,23 +229,23 @@ const config: Config = {
           to: { opacity: '1' },
         },
         slideUp: {
-          from: { opacity: '0', transform: 'translateY(24px)' },
+          from: { opacity: '0', transform: 'translateY(32px)' },
           to: { opacity: '1', transform: 'translateY(0)' },
         },
         slideDown: {
-          from: { opacity: '0', transform: 'translateY(-24px)' },
+          from: { opacity: '0', transform: 'translateY(-32px)' },
           to: { opacity: '1', transform: 'translateY(0)' },
         },
         slideInLeft: {
-          from: { opacity: '0', transform: 'translateX(-24px)' },
+          from: { opacity: '0', transform: 'translateX(-32px)' },
           to: { opacity: '1', transform: 'translateX(0)' },
         },
         slideInRight: {
-          from: { opacity: '0', transform: 'translateX(24px)' },
+          from: { opacity: '0', transform: 'translateX(32px)' },
           to: { opacity: '1', transform: 'translateX(0)' },
         },
         scaleIn: {
-          from: { opacity: '0', transform: 'scale(0.95)' },
+          from: { opacity: '0', transform: 'scale(0.96)' },
           to: { opacity: '1', transform: 'scale(1)' },
         },
         shimmer: {
@@ -265,14 +266,13 @@ const config: Config = {
       // Background
       // ═══════════════════════════════════════════════════════════════════════════
       backgroundImage: {
-        'gradient-warm-glow': 'radial-gradient(ellipse at 50% 0%, rgba(201, 162, 39, 0.08) 0%, transparent 60%)',
-        'gradient-card-shine': 'linear-gradient(135deg, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 60%)',
-        'paper-texture': "url(\"data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E\")",
+        'gradient-warm-glow': 'radial-gradient(ellipse at 50% 0%, rgba(206, 183, 142, 0.06) 0%, transparent 60%)',
+        'gradient-card-shine': 'linear-gradient(135deg, rgba(255, 255, 255, 0.04) 0%, rgba(255, 255, 255, 0) 60%)',
       },
 
       backdropBlur: {
-        nav: '12px',
-        'glass': '16px',
+        nav: '20px',
+        'glass': '20px',
       },
     },
   },

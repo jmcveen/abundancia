@@ -96,7 +96,7 @@ function Stat({ target, prefix, suffix, label, decimals = 0 }: {
   const { count, ref } = useAnimatedCounter({ target, decimals })
   return (
     <div ref={ref} className="text-center">
-      <div className="font-display text-3xl md:text-4xl font-bold text-primary-800 mb-1">
+      <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 mb-1">
         {prefix}{count.toLocaleString()}{suffix}
       </div>
       <div className="font-accent text-sm text-neutral-600">{label}</div>
@@ -121,7 +121,7 @@ export default function OverviewPage() {
         <div className="relative section-container">
           <FadeIn>
             <span className="eyebrow mb-4 block">Executive Summary</span>
-            <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-neutral-900 mb-6 max-w-4xl">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-neutral-900 mb-6 max-w-4xl">
               Abundancia Austin at a Glance
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
@@ -151,7 +151,7 @@ export default function OverviewPage() {
         <div className="section-container">
           <div className="max-w-3xl mx-auto">
             <FadeIn>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
                 Project Summary
               </h2>
               <div className="prose prose-lg text-neutral-600 space-y-4">
@@ -185,7 +185,7 @@ export default function OverviewPage() {
         <div className="section-container">
           <FadeIn>
             <div className="text-center mb-14">
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Unit Mix
               </h2>
               <p className="text-sm text-neutral-500 font-accent">Click any row for details</p>
@@ -290,7 +290,7 @@ export default function OverviewPage() {
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">For Investors</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Key Investment Highlights
               </h2>
             </div>
@@ -350,7 +350,7 @@ export default function OverviewPage() {
         <div className="section-container">
           <FadeIn>
             <div className="text-center mb-14">
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Explore Further
               </h2>
             </div>
@@ -383,7 +383,7 @@ export default function OverviewPage() {
       <section className="bg-primary-800 py-20 md:py-28">
         <div className="section-container text-center">
           <FadeIn>
-            <h2 className="font-display text-4xl md:text-5xl text-white mb-6">
+            <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white mb-6">
               Join the Movement
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
@@ -395,7 +395,7 @@ export default function OverviewPage() {
               <Link href="/invest/apply" className="btn-accent btn-lg rounded-2xl text-base">
                 Join Investor Waitlist
               </Link>
-              <Link href="/waitlist" className="btn-primary btn-lg rounded-2xl text-base group">
+              <Link href="/waitlist" className="btn-primary-light btn-lg rounded-2xl text-base group">
                 Join Resident Waitlist
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>

@@ -116,7 +116,7 @@ const PRINCIPLES = [
   {
     icon: TreePine,
     title: 'Regeneration',
-    image: '/images/website/60-regeneration.jpeg',
+    image: '/images/website/60-regeneration.png',
     description: 'Permaculture, zero pollution, zero waste, net-positive renewable energy, carbon sequestration, and abundant organic food. The earth is not harmed — only positive impact is made.',
     detail: 'Regeneration is the foundational principle of Abundancia. Every system is designed to give more than it takes — hempcrete sequesters carbon, food forests build topsoil, water systems recharge aquifers, and native plantings restore the Lost Pines ecosystem. This is not sustainability (maintaining the status quo) but active healing of damaged systems. Our permaculture design follows Holmgren\'s 12 principles, creating stacked functions where every element serves multiple purposes. The 70-75% conservation zone is not "undeveloped land" — it is an actively managed regenerative landscape.',
     relatedLink: '/story/regeneration',
@@ -125,7 +125,7 @@ const PRINCIPLES = [
   {
     icon: Sparkles,
     title: 'Creative Expression & Full Potential',
-    image: '/images/website/63-co-creation-collaboration.jpg',
+    image: '/images/website/63-co-creation-collaboration.png',
     description: 'Spaces where people fully express their creativity with all the tools they need. Once basic needs are met, residents focus on creation and innovation.',
     detail: 'When housing, food, water, and energy are handled, human energy is freed for higher pursuits. Abundancia includes dedicated maker spaces, art studios, music venues, co-working hubs, and outdoor amphitheaters designed to support creative expression at every scale. From the solo artist to the startup team, the built environment is calibrated to inspire creation. The barn with a performance stage already on the property will serve as a cultural anchor from Phase 1. Our programming includes artist residencies, innovation challenges, and community art installations.',
     relatedLink: '/story/community',
@@ -134,7 +134,7 @@ const PRINCIPLES = [
   {
     icon: Heart,
     title: 'Well-Being',
-    image: '/images/website/61-well-being.jpeg',
+    image: '/images/website/61-well-being.png',
     description: "Human well-being comes first — people's ability to live a life they value, comprising cultural heritage, health, access to land and natural resources.",
     detail: 'Well-being at Abundancia is holistic — physical, mental, emotional, and spiritual. The community includes walking and cycling trails, a holistic health center, meditation gardens, organic food production, and structured water systems. Every home is built with non-toxic hempcrete that actively regulates humidity and temperature, creating the healthiest possible indoor environment. The US Surgeon General has declared loneliness a public health epidemic. Abundancia\'s design directly addresses this through walkable neighborhoods, communal gathering spaces, and programmed social activities that make authentic connection the default, not the exception.',
     relatedLink: '/story/community',
@@ -143,7 +143,7 @@ const PRINCIPLES = [
   {
     icon: Users,
     title: 'Co-Creation & Collaboration',
-    image: '/images/website/63-co-creation-collaboration.jpg',
+    image: '/images/website/63-co-creation-collaboration.png',
     description: 'Spaces to co-work and create businesses with positive impact. Sociocratic governance where everyone is included and all voices matter.',
     detail: 'Abundancia uses sociocratic governance — a consent-based decision-making model where every resident has a voice and no one is excluded. This is not majority-rule democracy but a structured process that ensures all concerns are heard and integrated. The commercial village includes co-working spaces, shared workshops, and incubator facilities designed to support regenerative businesses. Residents can launch enterprises that serve both the community and the broader market, creating a circular local economy that keeps wealth within the community.',
     relatedLink: '/story/community',
@@ -152,7 +152,7 @@ const PRINCIPLES = [
   {
     icon: HandHeart,
     title: 'Connection & Loving Kindness',
-    image: '/images/website/62-connection-loving-kindness.jpg',
+    image: '/images/website/62-connection-loving-kindness.png',
     description: 'Social gatherings, authentic relating, and entertainment connecting neighbors and the local community. Designed from the ground up for connection.',
     detail: 'The physical design of Abundancia is intentionally calibrated for human connection. Front porches face shared courtyards. Walking paths converge at gathering nodes. The community hub, commercial village, and food forests are positioned to create natural encounter points throughout daily life. Programmed activities — community dinners, music nights, seasonal festivals, authentic relating circles, and skill-sharing workshops — create regular rhythms of connection. This is architecture and programming working together to solve the loneliness epidemic at its root.',
     relatedLink: '/story/community',
@@ -161,13 +161,89 @@ const PRINCIPLES = [
   {
     icon: Infinity,
     title: '7 Generations of Impact',
-    image: '/images/website/64-seven-generations-of-impact.jpg',
+    image: '/images/website/64-seven-generations-of-impact.png',
     description: 'If everyone built the way we build, all major world problems could be eradicated. Hempcrete buildings last 500+ years — truly building for seven generations.',
     detail: 'The Haudenosaunee (Iroquois) principle of Seven Generations teaches that every decision should consider its impact seven generations into the future — roughly 175 years. Hempcrete buildings last 500+ years, far exceeding this standard. Unlike conventional construction that degrades and requires demolition within 30-50 years, hempcrete actually strengthens over time as the lime binder continues to petrify. Abundancia is not just a development — it is a proof of concept. If replicated globally, regenerative building and community design could address climate change, housing affordability, food security, energy independence, and social isolation simultaneously. We are building the template.',
     relatedLink: '/expansion',
     relatedLabel: 'Expansion & Replication',
   },
 ]
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Maslow's Hierarchy Pyramid
+// ═══════════════════════════════════════════════════════════════════════════
+
+const PYRAMID_LEVELS = [
+  {
+    title: 'Self-Actualization',
+    description: 'Creative expression in art, inventorship, entrepreneurship, education, music, and health and wellness',
+    color: 'from-[#ceb78e] to-[#b8a274]',
+    textColor: 'text-white',
+    width: 'w-[45%]',
+  },
+  {
+    title: 'Esteem & Accomplishment',
+    description: 'Involvement in community decisions, environmental regeneration, and global initiatives',
+    color: 'from-[#d4c49e] to-[#c4b48e]',
+    textColor: 'text-neutral-800',
+    width: 'w-[60%]',
+  },
+  {
+    title: 'Belongingness & Love',
+    description: 'Community events, authentic relations and recreation',
+    color: 'from-[#e0d5b8] to-[#d5cab0]',
+    textColor: 'text-neutral-800',
+    width: 'w-[75%]',
+  },
+  {
+    title: 'Safety Needs',
+    description: 'Gated security protection and conflict resolution strategies',
+    color: 'from-[#e8e0cc] to-[#ddd5c2]',
+    textColor: 'text-neutral-700',
+    width: 'w-[88%]',
+  },
+  {
+    title: 'Physiological Needs',
+    description: 'Food, energy, water, waste management are free',
+    color: 'from-[#f0eadb] to-[#e8e2d4]',
+    textColor: 'text-neutral-700',
+    width: 'w-full',
+  },
+]
+
+function MaslowPyramid() {
+  return (
+    <div className="flex flex-col items-center gap-1.5">
+      {/* Apex cap */}
+      <div className="w-0 h-0 border-l-[24px] border-r-[24px] border-b-[20px] border-l-transparent border-r-transparent border-b-[#ceb78e]" />
+
+      {PYRAMID_LEVELS.map((level, i) => (
+        <div
+          key={level.title}
+          className={`${level.width} bg-gradient-to-r ${level.color} ${level.textColor} text-center py-3 md:py-4 px-3 transition-all duration-300 hover:scale-[1.02] hover:shadow-md`}
+          style={{
+            clipPath: i === PYRAMID_LEVELS.length - 1
+              ? 'none'
+              : 'polygon(3% 0%, 97% 0%, 100% 100%, 0% 100%)',
+            borderRadius: i === PYRAMID_LEVELS.length - 1 ? '0 0 4px 4px' : '0',
+          }}
+        >
+          <p className="font-accent text-xs md:text-sm font-semibold tracking-wide uppercase leading-tight">
+            {level.title}
+          </p>
+          <p className="text-[10px] md:text-xs opacity-75 mt-0.5 leading-snug max-w-[90%] mx-auto">
+            {level.description}
+          </p>
+        </div>
+      ))}
+
+      {/* Label */}
+      <p className="mt-3 font-accent text-[10px] md:text-xs tracking-[0.15em] uppercase text-neutral-400">
+        Maslow&apos;s Hierarchy — Abundancia Model
+      </p>
+    </div>
+  )
+}
 
 // ═══════════════════════════════════════════════════════════════════════════
 // Page
@@ -186,7 +262,7 @@ export default function VisionPage() {
         <div className="relative section-container">
           <FadeIn>
             <span className="eyebrow mb-4 block">Our Vision</span>
-            <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-neutral-900 mb-6 max-w-4xl">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-neutral-900 mb-6 max-w-4xl">
               Regenerative Development Is the Most Profitable Form of Real Estate
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
@@ -210,7 +286,7 @@ export default function VisionPage() {
             <FadeIn>
               <div>
                 <span className="eyebrow mb-3 block">The Problem</span>
-                <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
                   The Way We Build Is Broken
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-6">
@@ -233,7 +309,7 @@ export default function VisionPage() {
                     onClick={() => setActiveProblem(index)}
                     className="card p-5 text-left hover:border-primary-300 hover:shadow-md transition-all duration-300 cursor-pointer group"
                   >
-                    <div className="font-display text-3xl md:text-4xl font-bold text-primary-800 mb-2">
+                    <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 mb-2">
                       {item.stat}
                     </div>
                     <p className="text-sm text-neutral-600 leading-relaxed">
@@ -287,7 +363,7 @@ export default function VisionPage() {
               <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-3 block">
                 The Solution
               </span>
-              <h2 className="font-display text-4xl md:text-5xl mb-6">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl mb-6">
                 A Fundamentally Different Way of Living
               </h2>
               <p className="text-lg text-white/70 leading-relaxed">
@@ -362,7 +438,7 @@ export default function VisionPage() {
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">Guiding Principles</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 What We Stand For
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -448,20 +524,15 @@ export default function VisionPage() {
         <div className="section-container">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center">
             <FadeIn>
-              <div className="relative aspect-square max-w-lg mx-auto lg:mx-0">
-                <Image
-                  src="/images/website/65-maslows-hierarchy-human-potential.png"
-                  alt="Maslow's Hierarchy of Needs — Liberating Human Potential"
-                  fill
-                  className="object-contain"
-                />
+              <div className="max-w-lg mx-auto lg:mx-0">
+                <MaslowPyramid />
               </div>
             </FadeIn>
 
             <FadeIn delay={0.2}>
               <div>
                 <span className="eyebrow mb-3 block">Human Potential</span>
-                <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
                   Liberating Human Potential
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-6">
@@ -483,7 +554,7 @@ export default function VisionPage() {
       {/* ═══ REPLICABLE MODEL ═══ */}
       <section className="relative py-32 md:py-40 overflow-hidden">
         <Image
-          src="/images/website/71-replicable-model-architecture.jpeg"
+          src="/images/website/71-replicable-model-architecture.png"
           alt="Abundancia — a replicable model for regenerative communities"
           fill
           className="object-cover"
@@ -495,7 +566,7 @@ export default function VisionPage() {
             <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
               The First, Not the Only
             </span>
-            <h2 className="font-display text-4xl md:text-5xl text-white mb-6 max-w-3xl mx-auto">
+            <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white mb-6 max-w-3xl mx-auto">
               A Model for the World
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-8">
@@ -520,11 +591,11 @@ export default function VisionPage() {
 
           <FadeIn delay={0.4}>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link href="/story/land" className="btn-primary btn-lg rounded-2xl text-base group">
+              <Link href="/story/land" className="btn-primary-light btn-lg rounded-2xl text-base group">
                 Explore the Land
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>
-              <Link href="/expansion" className="btn bg-white/10 text-white border border-white/20 hover:bg-white/20 btn-lg rounded-2xl text-base group">
+              <Link href="/expansion" className="btn-secondary-light btn-lg rounded-2xl text-base group">
                 Expansion Strategy
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>

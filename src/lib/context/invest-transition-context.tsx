@@ -1,7 +1,7 @@
 'use client'
 
-import { createContext, useContext, useState, useCallback, useRef } from 'react'
-import { useRouter } from 'next/navigation'
+import { createContext, useContext, useState, useCallback, useRef, useEffect } from 'react'
+import { useRouter, usePathname } from 'next/navigation'
 
 type TransitionMode = 'to-dark' | 'to-light'
 
@@ -20,7 +20,46 @@ export function InvestTransitionProvider({ children }: { children: React.ReactNo
   const [isTransitioning, setIsTransitioning] = useState(false)
   const [transitionMode, setTransitionMode] = useState<TransitionMode>('to-light')
   const router = useRouter()
+  const pathname = usePathname()
   const lockRef = useRef(false)
+  const dismissTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+
+  // Hide loader once the new page has rendered
+  useEffect(() => {
+    if (!isTransitioning) return
+    if (dismissTimerRef.current) clearTimeout(dismissTimerRef.current)
+    dismissTimerRef.current = setTimeout(() => {
+      setIsTransitioning(false)
+      lockRef.current = false
+    }, 600)
+    return () => {
+      if (dismissTimerRef.current) clearTimeout(dismissTimerRef.current)
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pathname])
+
+  // Intercept all internal link clicks automatically
+  useEffect(() => {
+    const handleClick = (e: MouseEvent) => {
+      const anchor = (e.target as Element).closest('a')
+      if (!anchor) return
+      const href = anchor.getAttribute('href')
+      if (
+        !href ||
+        href.startsWith('#') ||
+        href.startsWith('http') ||
+        href.startsWith('mailto') ||
+        href.startsWith('tel') ||
+        anchor.target === '_blank'
+      ) return
+      if (lockRef.current) return
+      lockRef.current = true
+      setIsTransitioning(true)
+    }
+
+    document.addEventListener('click', handleClick)
+    return () => document.removeEventListener('click', handleClick)
+  }, [])
 
   const triggerTransition = useCallback(
     (href: string, mode: TransitionMode = 'to-light') => {

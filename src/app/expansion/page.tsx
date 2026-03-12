@@ -126,7 +126,7 @@ export default function ExpansionPage() {
         <div className="relative section-container">
           <FadeIn>
             <span className="eyebrow mb-4 block">Development Phases</span>
-            <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-neutral-900 mb-6 max-w-4xl">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-neutral-900 mb-6 max-w-4xl">
               Five Phases — From Due Diligence to Global Replication
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
@@ -214,7 +214,7 @@ export default function ExpansionPage() {
       {/* ═══ REPLICABLE MODEL ═══ */}
       <section className="relative py-32 md:py-40 overflow-hidden">
         <Image
-          src="/images/website/71-replicable-model-architecture.jpeg"
+          src="/images/website/71-replicable-model-architecture.png"
           alt="Abundancia — a replicable model for regenerative communities worldwide"
           fill
           className="object-cover"
@@ -226,7 +226,7 @@ export default function ExpansionPage() {
             <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
               The First, Not the Only
             </span>
-            <h2 className="font-display text-4xl md:text-5xl text-white mb-6 max-w-3xl mx-auto">
+            <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white mb-6 max-w-3xl mx-auto">
               A Model for the World
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-8">
@@ -267,7 +267,7 @@ export default function ExpansionPage() {
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">Community Impact</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Lifting the Entire Region
               </h2>
             </div>
@@ -275,11 +275,11 @@ export default function ExpansionPage() {
 
           <StaggerContainer className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
             {[
-              { image: '/images/website/66-affordable-homes.jpeg', label: 'Affordable Homes' },
-              { image: '/images/website/67-healthy-food.jpeg', label: 'Healthy Food' },
-              { image: '/images/website/68-job-creation.jpeg', label: 'Job Creation' },
-              { image: '/images/website/69-farmers-market.jpg', label: "Farmer's Market" },
-              { image: '/images/website/70-regenerative-education.jpeg', label: 'Regenerative Education' },
+              { image: '/images/website/66-affordable-homes.png', label: 'Affordable Homes' },
+              { image: '/images/website/67-healthy-food.png', label: 'Healthy Food' },
+              { image: '/images/website/68-job-creation.png', label: 'Job Creation' },
+              { image: '/images/website/69-farmers-market.png', label: "Farmer's Market" },
+              { image: '/images/website/70-regenerative-education.png', label: 'Regenerative Education' },
             ].map((item) => (
               <StaggerItem key={item.label}>
                 <Link href="/story/regeneration" className="card-hover overflow-hidden group block">
@@ -307,7 +307,7 @@ export default function ExpansionPage() {
       <section className="bg-primary-800 py-20 md:py-28">
         <div className="section-container text-center">
           <FadeIn>
-            <h2 className="font-display text-4xl md:text-5xl text-white mb-6">
+            <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white mb-6">
               Meet the Team
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
@@ -317,7 +317,7 @@ export default function ExpansionPage() {
 
           <FadeIn delay={0.2}>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link href="/team" className="btn-primary btn-lg rounded-2xl text-base group">
+              <Link href="/team" className="btn-primary-light btn-lg rounded-2xl text-base group">
                 Meet the Team
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>

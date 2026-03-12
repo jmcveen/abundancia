@@ -248,7 +248,7 @@ function AnimatedStat({ target, suffix, prefix, label, onClick }: {
 
   return (
     <button ref={ref} className="text-center cursor-pointer group" onClick={onClick}>
-      <div className="font-display text-3xl sm:text-4xl font-bold text-white mb-1 group-hover:text-secondary-400 transition-colors">
+      <div className="font-display text-2xl sm:text-3xl font-bold text-white mb-1 group-hover:text-secondary-400 transition-colors">
         {prefix}{count.toLocaleString()}{suffix}
       </div>
       <div className="font-accent text-sm text-white/70 uppercase tracking-wider group-hover:text-white/90 transition-colors">
@@ -276,7 +276,7 @@ export default function TeamPage() {
         <div className="relative section-container">
           <FadeIn>
             <span className="eyebrow mb-4 block">Leadership</span>
-            <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-neutral-900 mb-6 max-w-4xl">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-neutral-900 mb-6 max-w-4xl">
               The Team Behind the Vision
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
@@ -313,7 +313,7 @@ export default function TeamPage() {
                 <Award className="w-4 h-4 inline mr-2 -mt-0.5" />
                 Core Team
               </span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Leadership
               </h2>
             </div>
@@ -366,7 +366,7 @@ export default function TeamPage() {
                 <Handshake className="w-4 h-4 inline mr-2 -mt-0.5" />
                 Partners & Advisors
               </span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Strategic Partners
               </h2>
             </div>
@@ -401,7 +401,7 @@ export default function TeamPage() {
                   <Building2 className="w-4 h-4 inline mr-2 -mt-0.5" />
                   Development Company
                 </span>
-                <h2 className="font-display text-4xl md:text-5xl mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl mb-6">
                   New Earth Development
                 </h2>
                 <p className="text-lg text-white/70 leading-relaxed mb-6">
@@ -440,7 +440,7 @@ export default function TeamPage() {
       <section className="bg-canvas py-20 md:py-28">
         <div className="section-container text-center">
           <FadeIn>
-            <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+            <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
               Ready to Learn More?
             </h2>
             <p className="text-lg text-neutral-600 max-w-2xl mx-auto mb-10">

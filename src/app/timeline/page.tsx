@@ -133,7 +133,7 @@ export default function TimelinePage() {
         <div className="relative section-container">
           <FadeIn>
             <span className="eyebrow mb-4 block">Roadmap</span>
-            <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-neutral-900 mb-6 max-w-4xl">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-neutral-900 mb-6 max-w-4xl">
               Development Timeline
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
@@ -228,7 +228,7 @@ export default function TimelinePage() {
       <section className="bg-primary-800 py-20 md:py-28">
         <div className="section-container text-center">
           <FadeIn>
-            <h2 className="font-display text-4xl md:text-5xl text-white mb-6">
+            <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white mb-6">
               Be Part of the Journey
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
@@ -240,7 +240,7 @@ export default function TimelinePage() {
               <Link href="/invest/apply" className="btn-accent btn-lg rounded-2xl text-base">
                 Join Investor Waitlist
               </Link>
-              <Link href="/overview" className="btn bg-white/10 text-white border border-white/20 hover:bg-white/20 btn-lg rounded-2xl text-base group">
+              <Link href="/overview" className="btn-secondary-light btn-lg rounded-2xl text-base group">
                 Read Executive Summary
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>

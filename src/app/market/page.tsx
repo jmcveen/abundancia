@@ -182,7 +182,7 @@ export default function MarketPage() {
         <div className="relative section-container">
           <FadeIn>
             <span className="eyebrow mb-4 block">Market Opportunity</span>
-            <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-neutral-900 mb-6 max-w-4xl">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-neutral-900 mb-6 max-w-4xl">
               A $1.54 Trillion Market Opportunity
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
@@ -201,7 +201,7 @@ export default function MarketPage() {
                 <BarChart3 className="w-4 h-4 inline mr-2 -mt-0.5" />
                 Market Sizing
               </span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 TAM / SAM / SOM
               </h2>
             </div>
@@ -225,7 +225,7 @@ export default function MarketPage() {
                       </span>
                       <span className="font-accent text-sm text-neutral-500 ml-3">{tier.label}</span>
                     </div>
-                    <span className="font-display text-2xl md:text-3xl font-bold text-primary-800">
+                    <span className="font-display text-xl md:text-2xl font-bold text-primary-800">
                       {tier.value}
                     </span>
                   </div>
@@ -256,7 +256,7 @@ export default function MarketPage() {
               <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-3 block">
                 Austin Market
               </span>
-              <h2 className="font-display text-4xl md:text-5xl mb-6">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl mb-6">
                 The Fastest-Growing Metro in America
               </h2>
               <p className="text-lg text-white/70 leading-relaxed">
@@ -279,7 +279,7 @@ export default function MarketPage() {
                   <div className="w-12 h-12 rounded-xl bg-secondary-500/20 flex items-center justify-center mx-auto mb-3">
                     <item.icon className="w-6 h-6 text-secondary-400" />
                   </div>
-                  <div className="font-display text-3xl font-bold text-white mb-1">
+                  <div className="font-display text-2xl md:text-3xl font-bold text-white mb-1">
                     {item.stat}
                   </div>
                   <div className="font-accent text-sm font-semibold text-white/80 mb-1">
@@ -303,7 +303,7 @@ export default function MarketPage() {
             <FadeIn>
               <div>
                 <span className="eyebrow mb-3 block">Demand Signals</span>
-                <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
                   The Market Is Asking for This
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed">
@@ -324,7 +324,7 @@ export default function MarketPage() {
                     })}
                     className="card p-5 text-left hover:shadow-lg hover:border-primary-200 transition-all duration-300 cursor-pointer group"
                   >
-                    <div className="font-display text-3xl font-bold text-primary-800 mb-2">
+                    <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 mb-2">
                       {signal.stat}
                     </div>
                     <p className="text-sm text-neutral-600 leading-relaxed">
@@ -347,7 +347,7 @@ export default function MarketPage() {
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">Competitive Landscape</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Nothing Like This Exists
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -427,7 +427,7 @@ export default function MarketPage() {
             <FadeIn>
               <div className="relative aspect-[4/3] rounded-2xl overflow-hidden">
                 <Image
-                  src="/images/website/41-spa-massage.jpeg"
+                  src="/images/website/41-spa-massage.png"
                   alt="Wellness tourism — spa and retreat experiences"
                   fill
                   className="object-cover"
@@ -441,7 +441,7 @@ export default function MarketPage() {
                   <Heart className="w-4 h-4 inline mr-2 -mt-0.5" />
                   Wellness Tourism
                 </span>
-                <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
                   A $978 Billion Industry
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-6">
@@ -480,7 +480,7 @@ export default function MarketPage() {
             <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
               The Numbers
             </span>
-            <h2 className="font-display text-4xl md:text-5xl text-white mb-6">
+            <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white mb-6">
               See the Business Model
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
@@ -490,7 +490,7 @@ export default function MarketPage() {
 
           <FadeIn delay={0.2}>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link href="/model" className="btn-primary btn-lg rounded-2xl text-base group">
+              <Link href="/model" className="btn-primary-light btn-lg rounded-2xl text-base group">
                 View Business Model
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>

@@ -221,7 +221,7 @@ export default function LandPage() {
             <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
               The Land
             </span>
-            <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-white mb-6 max-w-4xl">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-white mb-6 max-w-4xl">
               376 Acres in the Heart of Texas
             </h1>
             <p className="text-xl text-white/80 max-w-3xl leading-relaxed">
@@ -245,7 +245,7 @@ export default function LandPage() {
             <FadeIn>
               <div>
                 <span className="eyebrow mb-3 block">The Macro Market</span>
-                <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
                   Why Austin
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-6">
@@ -328,7 +328,7 @@ export default function LandPage() {
               <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-3 block">
                 The Micro Market
               </span>
-              <h2 className="font-display text-4xl md:text-5xl mb-6">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl mb-6">
                 Why Bastrop County
               </h2>
               <p className="text-lg text-white/70 leading-relaxed">
@@ -344,7 +344,7 @@ export default function LandPage() {
                   onClick={() => setActiveBastrop(index)}
                   className="bg-white/5 border border-white/10 rounded-2xl p-6 h-full text-left hover:bg-white/10 transition-colors duration-300 cursor-pointer w-full group"
                 >
-                  <div className="font-display text-4xl md:text-5xl font-bold text-secondary-400 mb-1">
+                  <div className="font-display text-2xl md:text-3xl lg:text-4xl font-bold text-secondary-400 mb-1">
                     {item.stat}
                   </div>
                   <div className="font-accent text-sm font-semibold text-white mb-3">
@@ -395,7 +395,7 @@ export default function LandPage() {
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">The Property</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 A Rare Assemblage
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -456,10 +456,10 @@ export default function LandPage() {
       <section className="py-0">
         <div className="grid grid-cols-2 lg:grid-cols-4">
           {[
-            { image: '/images/website/24-parks-gardens-food-forests.jpeg', label: 'Parks & Food Forests' },
-            { image: '/images/website/42-ecological-preservation.jpeg', label: 'Ecological Preservation' },
-            { image: '/images/website/44-biodiversity-regeneration.jpg', label: 'Biodiversity' },
-            { image: '/images/website/49-reforestation.jpeg', label: 'Reforestation' },
+            { image: '/images/website/24-parks-gardens-food-forests.png', label: 'Parks & Food Forests' },
+            { image: '/images/website/42-ecological-preservation.png', label: 'Ecological Preservation' },
+            { image: '/images/website/44-biodiversity-regeneration.png', label: 'Biodiversity' },
+            { image: '/images/website/49-reforestation.png', label: 'Reforestation' },
           ].map((item) => (
             <Link key={item.label} href="/story/regeneration" className="relative aspect-square overflow-hidden group block">
               <Image
@@ -487,7 +487,7 @@ export default function LandPage() {
             <FadeIn>
               <div>
                 <span className="eyebrow mb-3 block">Climate & Growing</span>
-                <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
                   Built for Regeneration
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-6">
@@ -503,7 +503,7 @@ export default function LandPage() {
               <div className="grid grid-cols-2 gap-4">
                 {CLIMATE_STATS.map((stat) => (
                   <div key={stat.label} className="card p-5 text-center">
-                    <div className="font-display text-3xl md:text-4xl font-bold text-primary-800 mb-1">
+                    <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 mb-1">
                       {stat.value}
                     </div>
                     <div className="font-accent text-sm font-semibold text-neutral-900 mb-1">
@@ -526,7 +526,7 @@ export default function LandPage() {
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">Master Plan</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Conservation-Forward Design
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -624,7 +624,7 @@ export default function LandPage() {
             <FadeIn>
               <div>
                 <span className="eyebrow mb-3 block">Regulatory Advantage</span>
-                <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
                   No Zoning. No Barriers.
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-6">
@@ -724,7 +724,7 @@ export default function LandPage() {
       {/* ═══ CTA ═══ */}
       <section className="relative py-32 md:py-40 overflow-hidden">
         <Image
-          src="/images/website/52-efficient-site-design.jpeg"
+          src="/images/website/52-efficient-site-design.png"
           alt="Abundancia master plan site design"
           fill
           className="object-cover"
@@ -736,7 +736,7 @@ export default function LandPage() {
             <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
               Continue the Story
             </span>
-            <h2 className="font-display text-4xl md:text-5xl text-white mb-6 max-w-3xl mx-auto">
+            <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white mb-6 max-w-3xl mx-auto">
               See What We&apos;re Building
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-8">
@@ -746,11 +746,11 @@ export default function LandPage() {
 
           <FadeIn delay={0.3}>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link href="/story/community" className="btn-primary btn-lg rounded-2xl text-base group">
+              <Link href="/story/community" className="btn-primary-light btn-lg rounded-2xl text-base group">
                 Explore the Community
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>
-              <Link href="/story/regeneration" className="btn bg-white/10 text-white border border-white/20 hover:bg-white/20 btn-lg rounded-2xl text-base">
+              <Link href="/story/regeneration" className="btn-secondary-light btn-lg rounded-2xl text-base">
                 Regenerative Systems
               </Link>
             </div>

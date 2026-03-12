@@ -16,7 +16,7 @@ import {
 
 const HOUSING_TYPES = [
   {
-    image: '/images/website/15-residential-homes.jpeg',
+    image: '/images/website/15-residential-homes.png',
     type: 'Residential Homes',
     units: '~100 Units',
     description: 'Single-family hempcrete homes with passive solar design, smart automation, and sacred geometry principles.',
@@ -26,7 +26,7 @@ const HOUSING_TYPES = [
     features: ['Passive Solar Design', 'Smart Home Automation', 'Structured Water System', 'Sacred Geometry Layout', 'Carbon-Negative Construction'],
   },
   {
-    image: '/images/website/16-tiny-homes.jpeg',
+    image: '/images/website/16-tiny-homes.png',
     type: 'Tiny Homes',
     units: '~30 Units',
     description: 'Compact, efficient living spaces for minimalists and young professionals. Fully off-grid capable.',
@@ -36,7 +36,7 @@ const HOUSING_TYPES = [
     features: ['Off-Grid Capable', 'Integrated Solar Panels', 'Rainwater Collection', 'Composting Systems', 'Open Floor Plan'],
   },
   {
-    image: '/images/website/17-domes.jpeg',
+    image: '/images/website/17-domes.png',
     type: 'Domes',
     units: '~30 Units',
     description: 'Geodesic and monolithic dome structures — naturally resilient, energy-efficient, and architecturally striking.',
@@ -46,7 +46,7 @@ const HOUSING_TYPES = [
     features: ['Superior Wind Resistance', 'Natural Thermal Efficiency', 'Earthquake Resilient', 'Iconic Architecture', 'Reduced Material Usage'],
   },
   {
-    image: '/images/website/18-rental-units.jpeg',
+    image: '/images/website/18-rental-units.png',
     type: 'Multifamily & Rentals',
     units: '~260 Units',
     description: 'Affordable condominiums and rental units providing attainable entry points into regenerative living.',
@@ -101,35 +101,35 @@ const BIOHARMONIC_FEATURES = [
 ]
 
 const COMMUNITY_SPACES = [
-  { image: '/images/website/19-pyramid-ceremony-space.jpeg', name: 'Pyramid Ceremony Space', detail: 'A sacred gathering space designed with sacred geometry principles. The pyramid structure amplifies acoustic resonance and creates a container for ceremony, meditation, sound healing, and community ritual. Hosts weekly gatherings, solstice celebrations, and rites of passage.', link: '/story/vision' },
-  { image: '/images/website/20-yoga-shala.jpeg', name: 'Yoga Shala & Meditation Center', detail: 'A dedicated space for yoga, breathwork, and meditation practice with radiant-heated bamboo floors, floor-to-ceiling windows overlooking native gardens, and an outdoor practice deck. Daily classes are free for all residents.', link: '/story/vision' },
+  { image: '/images/website/19-pyramid-ceremony-space.png', name: 'Pyramid Ceremony Space', detail: 'A sacred gathering space designed with sacred geometry principles. The pyramid structure amplifies acoustic resonance and creates a container for ceremony, meditation, sound healing, and community ritual. Hosts weekly gatherings, solstice celebrations, and rites of passage.', link: '/story/vision' },
+  { image: '/images/website/20-yoga-shala.png', name: 'Yoga Shala & Meditation Center', detail: 'A dedicated space for yoga, breathwork, and meditation practice with radiant-heated bamboo floors, floor-to-ceiling windows overlooking native gardens, and an outdoor practice deck. Daily classes are free for all residents.', link: '/story/vision' },
   { image: '/images/website/21-resource-library.png', name: 'Resource Library', detail: 'A community knowledge hub with physical and digital collections covering permaculture, regenerative design, holistic health, and conscious living. Includes quiet study rooms, a children\'s reading corner, and a seed library.', link: '/story/vision' },
-  { image: '/images/website/22-indoor-outdoor-gyms.jpeg', name: 'Indoor & Outdoor Gyms', detail: 'Full fitness facilities including functional training equipment, outdoor calisthenics park, climbing wall, and movement studio. Designed to support holistic fitness — strength, flexibility, and cardiovascular health in fresh air.', link: '/story/vision' },
+  { image: '/images/website/22-indoor-outdoor-gyms.png', name: 'Indoor & Outdoor Gyms', detail: 'Full fitness facilities including functional training equipment, outdoor calisthenics park, climbing wall, and movement studio. Designed to support holistic fitness — strength, flexibility, and cardiovascular health in fresh air.', link: '/story/vision' },
   { image: '/images/website/23-research-center.png', name: 'Research Center', detail: 'An applied research facility focused on hempcrete construction innovation, regenerative agriculture methods, water purification systems, and renewable energy optimization. Partners with universities and publishes open-source findings.', link: '/data-room/view/regenerative/hempcrete-construction' },
-  { image: '/images/website/24-parks-gardens-food-forests.jpeg', name: 'Parks, Gardens & Food Forests', detail: 'Over 20 acres of permaculture food forests, community gardens, heritage orchards, and native wildflower meadows. Seven-layer food forests produce fruit, nuts, herbs, and vegetables year-round in USDA Zone 8b\'s 250+ growing days.', link: '/story/regeneration' },
-  { image: '/images/website/25-sacred-temple-complex.jpeg', name: 'Sacred Temple Complex', detail: 'A multi-faith contemplative space honoring diverse spiritual traditions. Includes an open-air temple, labyrinth walk, sacred grove, and quiet reflection gardens. Designed for personal practice and interfaith community gatherings.', link: '/story/vision' },
+  { image: '/images/website/24-parks-gardens-food-forests.png', name: 'Parks, Gardens & Food Forests', detail: 'Over 20 acres of permaculture food forests, community gardens, heritage orchards, and native wildflower meadows. Seven-layer food forests produce fruit, nuts, herbs, and vegetables year-round in USDA Zone 8b\'s 250+ growing days.', link: '/story/regeneration' },
+  { image: '/images/website/25-sacred-temple-complex.png', name: 'Sacred Temple Complex', detail: 'A multi-faith contemplative space honoring diverse spiritual traditions. Includes an open-air temple, labyrinth walk, sacred grove, and quiet reflection gardens. Designed for personal practice and interfaith community gatherings.', link: '/story/vision' },
 ]
 
 const CREATION_HUB = [
-  { image: '/images/website/26-co-working-space.jpeg', name: 'Co-Working Space', detail: 'Open-plan workspace with high-speed internet, private phone rooms, conference facilities, and standing desks. Designed for remote workers, entrepreneurs, and creative professionals. Free for residents, available to public members.', link: '/story/vision' },
-  { image: '/images/website/27-crafts-workshop.jpeg', name: 'Crafts Workshop', detail: 'A fully equipped workshop for woodworking, ceramics, textile arts, and mixed-media creation. Includes kilns, looms, hand tools, and workbenches. Regular workshops teach traditional crafts and sustainable making techniques.', link: '/story/vision' },
-  { image: '/images/website/28-yoga-studio.jpeg', name: 'Yoga Studio', detail: 'A versatile movement space for yoga, dance, martial arts, and body-centered practices. Sprung hardwood floor, full mirror wall, professional sound system, and adjustable lighting create an ideal practice environment.', link: '/story/vision' },
-  { image: '/images/website/29-gym-fitness-center.jpeg', name: 'Gym & Fitness Center', detail: 'State-of-the-art fitness equipment alongside functional training zones, recovery rooms with infrared saunas, and personal training services. Designed to support lifelong health and vitality for all ages and abilities.', link: '/story/vision' },
-  { image: '/images/website/30-photography-videography-studio.jpeg', name: 'Photography & Video Studio', detail: 'Professional production studio with cyclorama wall, lighting grid, and editing suites. Supports resident creators, community media production, and the Abundancia content team documenting the regenerative journey.', link: '/story/vision' },
-  { image: '/images/website/31-artist-studio.jpg', name: 'Artist Studio', detail: 'Dedicated studio spaces with north-facing natural light, ventilation for paints and solvents, and generous wall space for large-format work. Resident artists contribute to the community\'s visual identity and public art installations.', link: '/story/vision' },
+  { image: '/images/website/26-co-working-space.png', name: 'Co-Working Space', detail: 'Open-plan workspace with high-speed internet, private phone rooms, conference facilities, and standing desks. Designed for remote workers, entrepreneurs, and creative professionals. Free for residents, available to public members.', link: '/story/vision' },
+  { image: '/images/website/27-crafts-workshop.png', name: 'Crafts Workshop', detail: 'A fully equipped workshop for woodworking, ceramics, textile arts, and mixed-media creation. Includes kilns, looms, hand tools, and workbenches. Regular workshops teach traditional crafts and sustainable making techniques.', link: '/story/vision' },
+  { image: '/images/website/28-yoga-studio.png', name: 'Yoga Studio', detail: 'A versatile movement space for yoga, dance, martial arts, and body-centered practices. Sprung hardwood floor, full mirror wall, professional sound system, and adjustable lighting create an ideal practice environment.', link: '/story/vision' },
+  { image: '/images/website/29-gym-fitness-center.png', name: 'Gym & Fitness Center', detail: 'State-of-the-art fitness equipment alongside functional training zones, recovery rooms with infrared saunas, and personal training services. Designed to support lifelong health and vitality for all ages and abilities.', link: '/story/vision' },
+  { image: '/images/website/30-photography-videography-studio.png', name: 'Photography & Video Studio', detail: 'Professional production studio with cyclorama wall, lighting grid, and editing suites. Supports resident creators, community media production, and the Abundancia content team documenting the regenerative journey.', link: '/story/vision' },
+  { image: '/images/website/31-artist-studio.png', name: 'Artist Studio', detail: 'Dedicated studio spaces with north-facing natural light, ventilation for paints and solvents, and generous wall space for large-format work. Resident artists contribute to the community\'s visual identity and public art installations.', link: '/story/vision' },
   { image: '/images/website/32-music-recording-studio.png', name: 'Music Recording Studio', detail: 'Professional-grade recording studio with isolation booths, mixing console, and acoustically treated live room. Available for resident musicians and visiting artists. Hosts community jam sessions and music education programs.', link: '/story/vision' },
-  { image: '/images/website/33-makerspace.jpg', name: 'Makerspace', detail: 'A fabrication lab equipped with 3D printers, laser cutters, CNC routers, and electronics workbenches. Supports prototyping, repair culture, and STEM education. The community\'s innovation engine for sustainable product development.', link: '/story/vision' },
+  { image: '/images/website/33-makerspace.png', name: 'Makerspace', detail: 'A fabrication lab equipped with 3D printers, laser cutters, CNC routers, and electronics workbenches. Supports prototyping, repair culture, and STEM education. The community\'s innovation engine for sustainable product development.', link: '/story/vision' },
 ]
 
 const PUBLIC_SPACES = [
   { image: '/images/website/34-zero-waste-grocery.png', name: 'Zero Waste Grocery', detail: 'Community-owned grocery featuring local, organic, zero-packaging goods sourced from Abundancia\'s own food forests, partner farms, and ethical supply chains. Bulk dispensers, reusable containers, and a commitment to eliminating food waste.', link: '/story/regeneration' },
   { image: '/images/website/35-entertainment-areas-parks.png', name: 'Entertainment Areas & Parks', detail: 'Outdoor entertainment zones including playgrounds, picnic areas, fire pit gathering circles, and open-air event lawns. Designed for festivals, movie nights, community celebrations, and spontaneous connection.', link: '/story/vision' },
-  { image: '/images/website/36-organic-restaurants-cafes.jpg', name: 'Organic Restaurants & Cafes', detail: 'Farm-to-table dining featuring ingredients harvested from on-site food forests and gardens. Multiple concepts from casual cafes to fine dining, all committed to zero-waste operations and seasonal, regenerative menus.', link: '/story/regeneration' },
-  { image: '/images/website/37-amphitheater.jpeg', name: 'Amphitheater', detail: 'A natural hillside amphitheater seating 500+ for live music, theater, film screenings, and community assemblies. Acoustically optimized using natural terrain contours with a stage framed by native loblolly pines.', link: '/story/vision' },
-  { image: '/images/website/38-sustainable-ethical-retail-shops.jpg', name: 'Sustainable & Ethical Retail', detail: 'Curated retail spaces featuring ethical fashion, zero-waste goods, locally-made crafts, and regenerative products. Each vendor is vetted for environmental and social impact. A destination for conscious consumers from across Central Texas.', link: '/story/regeneration' },
-  { image: '/images/website/39-elixir-juice-tea-bar.jpeg', name: 'Elixir, Juice & Tea Bar', detail: 'A wellness-focused beverage bar serving cold-pressed juices, herbal elixirs, adaptogenic tonics, and specialty teas. Ingredients sourced from on-site gardens and food forests. A daily gathering spot for health-conscious community members.', link: '/story/regeneration' },
-  { image: '/images/website/40-health-center.jpeg', name: 'Health Center', detail: 'An integrative health facility offering preventive care, naturopathic medicine, acupuncture, chiropractic, and health testing. Focused on proactive wellness rather than reactive treatment. Open to residents and the broader Bastrop community.', link: '/story/regeneration' },
-  { image: '/images/website/41-spa-massage.jpeg', name: 'Spa & Massage', detail: 'A full-service wellness spa with massage therapy, hydrotherapy, infrared sauna, cold plunge, and beauty treatments using organic, locally-made products. Revenue-generating amenity open to residents and the visiting public.', link: '/story/regeneration' },
+  { image: '/images/website/36-organic-restaurants-cafes.png', name: 'Organic Restaurants & Cafes', detail: 'Farm-to-table dining featuring ingredients harvested from on-site food forests and gardens. Multiple concepts from casual cafes to fine dining, all committed to zero-waste operations and seasonal, regenerative menus.', link: '/story/regeneration' },
+  { image: '/images/website/37-amphitheater.png', name: 'Amphitheater', detail: 'A natural hillside amphitheater seating 500+ for live music, theater, film screenings, and community assemblies. Acoustically optimized using natural terrain contours with a stage framed by native loblolly pines.', link: '/story/vision' },
+  { image: '/images/website/38-sustainable-ethical-retail-shops.png', name: 'Sustainable & Ethical Retail', detail: 'Curated retail spaces featuring ethical fashion, zero-waste goods, locally-made crafts, and regenerative products. Each vendor is vetted for environmental and social impact. A destination for conscious consumers from across Central Texas.', link: '/story/regeneration' },
+  { image: '/images/website/39-elixir-juice-tea-bar.png', name: 'Elixir, Juice & Tea Bar', detail: 'A wellness-focused beverage bar serving cold-pressed juices, herbal elixirs, adaptogenic tonics, and specialty teas. Ingredients sourced from on-site gardens and food forests. A daily gathering spot for health-conscious community members.', link: '/story/regeneration' },
+  { image: '/images/website/40-health-center.png', name: 'Health Center', detail: 'An integrative health facility offering preventive care, naturopathic medicine, acupuncture, chiropractic, and health testing. Focused on proactive wellness rather than reactive treatment. Open to residents and the broader Bastrop community.', link: '/story/regeneration' },
+  { image: '/images/website/41-spa-massage.png', name: 'Spa & Massage', detail: 'A full-service wellness spa with massage therapy, hydrotherapy, infrared sauna, cold plunge, and beauty treatments using organic, locally-made products. Revenue-generating amenity open to residents and the visiting public.', link: '/story/regeneration' },
 ]
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -222,7 +222,7 @@ export default function CommunityPage() {
             <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
               The Community
             </span>
-            <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-white mb-6 max-w-4xl">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-white mb-6 max-w-4xl">
               More Than Homes — A Complete Ecosystem
             </h1>
             <p className="text-xl text-white/80 max-w-3xl leading-relaxed">
@@ -241,7 +241,7 @@ export default function CommunityPage() {
                 <Home className="w-4 h-4 inline mr-2 -mt-0.5" />
                 Biophilic Housing
               </span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Homes That Heal the Atmosphere
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -361,7 +361,7 @@ export default function CommunityPage() {
                 <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-3 block">
                   Building Technology
                 </span>
-                <h2 className="font-display text-4xl md:text-5xl mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl mb-6">
                   Bioharmonic Buildings
                 </h2>
                 <p className="text-lg text-white/70 leading-relaxed mb-8">
@@ -426,7 +426,7 @@ export default function CommunityPage() {
                 <Users className="w-4 h-4 inline mr-2 -mt-0.5" />
                 Community Spaces
               </span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Spaces for Connection & Growth
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -448,7 +448,7 @@ export default function CommunityPage() {
                 <Sparkles className="w-4 h-4 inline mr-2 -mt-0.5" />
                 Creation Hub & Wellness Hub
               </span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Create, Build, Express
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -470,7 +470,7 @@ export default function CommunityPage() {
                 <ShoppingBag className="w-4 h-4 inline mr-2 -mt-0.5" />
                 Public Spaces
               </span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Open to the World
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -493,7 +493,7 @@ export default function CommunityPage() {
                   <Calendar className="w-4 h-4 inline mr-2 -mt-0.5" />
                   Phase 1 Revenue Engine
                 </span>
-                <h2 className="font-display text-4xl md:text-5xl mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl mb-6">
                   Retreat & Event Center
                 </h2>
                 <p className="text-lg text-white/70 leading-relaxed mb-6">
@@ -569,7 +569,7 @@ export default function CommunityPage() {
       {/* ═══ CTA ═══ */}
       <section className="relative py-32 md:py-40 overflow-hidden">
         <Image
-          src="/images/website/51-healthy-resilient-buildings.jpeg"
+          src="/images/website/51-healthy-resilient-buildings.png"
           alt="Regenerative building systems at Abundancia"
           fill
           className="object-cover"
@@ -581,7 +581,7 @@ export default function CommunityPage() {
             <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
               Continue the Story
             </span>
-            <h2 className="font-display text-4xl md:text-5xl text-white mb-6 max-w-3xl mx-auto">
+            <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white mb-6 max-w-3xl mx-auto">
               The Systems Behind the Vision
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-8">
@@ -591,11 +591,11 @@ export default function CommunityPage() {
 
           <FadeIn delay={0.3}>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link href="/story/regeneration" className="btn-primary btn-lg rounded-2xl text-base group">
+              <Link href="/story/regeneration" className="btn-primary-light btn-lg rounded-2xl text-base group">
                 Regenerative Systems
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>
-              <Link href="/model" className="btn bg-white/10 text-white border border-white/20 hover:bg-white/20 btn-lg rounded-2xl text-base">
+              <Link href="/model" className="btn-secondary-light btn-lg rounded-2xl text-base">
                 View Business Model
               </Link>
             </div>

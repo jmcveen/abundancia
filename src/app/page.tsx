@@ -8,27 +8,28 @@ import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
 import { useScenario } from '@/lib/context/scenario-context'
 import { KEY_METRICS } from '@/lib/data/financials'
 import { useAnimatedCounter } from '@/hooks/useAnimatedCounter'
-import { ArrowRight, Leaf, Home, Droplets, Sun } from 'lucide-react'
+import { ArrowRight, Leaf, Home, Droplets, Sun, ChevronDown } from 'lucide-react'
 
 // ═══════════════════════════════════════════════════════════════════════════
 // Animated Stat Component
 // ═══════════════════════════════════════════════════════════════════════════
 
-function AnimatedStat({ target, suffix, prefix, label, decimals = 0 }: {
+function AnimatedStat({ target, suffix, prefix, label, decimals = 0, dark = false }: {
   target: number
   suffix?: string
   prefix?: string
   label: string
   decimals?: number
+  dark?: boolean
 }) {
   const { count, ref } = useAnimatedCounter({ target, decimals })
 
   return (
     <div ref={ref} className="text-center">
-      <div className="font-display text-3xl sm:text-4xl md:text-5xl font-bold text-white mb-1">
+      <div className={`font-display text-2xl sm:text-3xl md:text-4xl mb-2 tracking-wider ${dark ? 'text-white' : 'text-neutral-900'}`}>
         {prefix}{count.toLocaleString()}{suffix}
       </div>
-      <div className="font-accent text-sm text-white/70 uppercase tracking-wider">
+      <div className={`font-accent text-xs uppercase tracking-[0.2em] ${dark ? 'text-white/40' : 'text-neutral-400'}`}>
         {label}
       </div>
     </div>
@@ -41,25 +42,25 @@ function AnimatedStat({ target, suffix, prefix, label, decimals = 0 }: {
 
 const IMAGINE_CARDS = [
   {
-    image: '/images/website/02-basic-needs-provided.jpeg',
+    image: '/images/generated/abundancia-06-organic_food_community.png',
     text: 'All of your basic needs are provided...',
     detail: 'Food forests, renewable energy, and water security systems ensure every resident has access to clean food, power, and water — without dependence on fragile supply chains.',
     link: '/story/regeneration',
   },
   {
-    image: '/images/website/03-everything-you-need-to-thrive.jpeg',
+    image: '/images/generated/abundancia-03-yoga_wellness.png',
     text: 'You have everything you need to thrive...',
     detail: 'From co-working spaces and maker labs to wellness centers and retreat facilities, Abundancia provides the infrastructure for creative and professional fulfillment.',
     link: '/story/vision',
   },
   {
-    image: '/images/website/04-regenerative-buildings-in-harmony.png',
+    image: '/images/generated/abundancia-07-eco_living_spaces.png',
     text: 'Regenerative buildings are in harmony with nature...',
     detail: 'Hempcrete construction sequesters carbon, regulates humidity naturally, and creates the healthiest indoor air quality available — homes that heal the environment as they shelter you.',
     link: '/story/community',
   },
   {
-    image: '/images/website/05-inclusive-governance-models.jpg',
+    image: '/images/generated/abundancia-05-organic_food_community.png',
     text: 'Inclusive governance models are easily accessible...',
     detail: 'Community-driven decision making through transparent governance structures ensures every voice matters. Residents co-create the rules and culture of their shared home.',
     link: '/story/regeneration',
@@ -116,61 +117,65 @@ export default function HomePage() {
 
   return (
     <div className="-mt-24">
-      {/* ═══ HERO ═══ */}
-      <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
+      {/* ═══ HERO — Full-screen cinematic ═══ */}
+      <section className="relative h-screen flex items-end overflow-hidden">
         <Image
-          src="/images/website/01-hero-where-dreams-become-reality.png"
+          src="/images/generated/abundancia-01-hero.png"
           alt="Abundancia Austin — Regenerative Community"
           fill
-          className="object-cover"
+          className="object-cover scale-105"
           priority
         />
-        <div className="absolute inset-0 hero-overlay" />
+        <div className="absolute inset-0 bg-black/35" />
 
-        <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
-          <FadeIn delay={0.2} direction="none">
-            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 mb-8">
-              <Leaf className="w-4 h-4 text-secondary-400" />
-              <span className="font-accent text-sm text-white/90">376 Acres &middot; Cedar Creek, TX &middot; 30 min from Austin</span>
-            </div>
-          </FadeIn>
+        {/* Hero Content — Bottom-aligned like Apple */}
+        <div className="relative z-10 w-full pb-20 md:pb-28">
+          <div className="section-container">
+            <FadeIn delay={0.3} direction="none">
+              <div className="inline-flex items-center gap-3 mb-8">
+                <div className="w-px h-4 bg-[#ceb78e]" />
+                <span className="font-accent text-xs text-white uppercase tracking-[0.25em]">
+                  376 Acres &middot; Cedar Creek, TX &middot; 30 min from Austin
+                </span>
+              </div>
+            </FadeIn>
 
-          <FadeIn delay={0.4}>
-            <h1 className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold text-white mb-6 tracking-tight">
-              Where Dreams<br />Become Reality
-            </h1>
-          </FadeIn>
+            <FadeIn delay={0.5}>
+              <h1 className="font-display text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-white mb-6 tracking-[0.04em] uppercase">
+                Where Dreams<br />Become Reality
+              </h1>
+            </FadeIn>
 
-          <FadeIn delay={0.6}>
-            <p className="font-heading text-xl sm:text-2xl text-white/80 mb-10 italic max-w-2xl mx-auto">
-              Regenerative Living in Harmony with Nature
-            </p>
-          </FadeIn>
+            <FadeIn delay={0.7}>
+              <p className="font-body text-lg sm:text-xl text-white mb-10 max-w-xl font-light">
+                Regenerative Living in Harmony with Nature
+              </p>
+            </FadeIn>
 
-          <FadeIn delay={0.8}>
-            <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link href="/story/vision" className="btn-primary btn-lg rounded-2xl text-base group">
-                Explore the Vision
-                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-              </Link>
-              <Link href="/invest" className="btn-accent btn-lg rounded-2xl text-base">
-                Investor Overview
-              </Link>
-            </div>
-          </FadeIn>
+            <FadeIn delay={0.9}>
+              <div className="flex flex-col sm:flex-row items-start gap-4">
+                <Link href="/story/vision" className="btn-accent btn-lg group">
+                  Explore the Vision
+                  <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                </Link>
+                <Link href="/invest" className="btn-primary-light btn-lg">
+                  Investor Overview
+                </Link>
+              </div>
+            </FadeIn>
+          </div>
         </div>
 
-        <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-float">
-          <div className="w-6 h-10 rounded-full border-2 border-white/30 flex items-start justify-center p-2">
-            <div className="w-1.5 h-1.5 rounded-full bg-white/60 animate-pulse-subtle" />
-          </div>
+        {/* Scroll indicator */}
+        <div className="absolute bottom-6 left-1/2 -translate-x-1/2 z-10 animate-float">
+          <ChevronDown className="w-5 h-5 text-white/30" />
         </div>
       </section>
 
-      {/* ═══ KEY METRICS ═══ */}
-      <section className="bg-primary-900 py-12 md:py-16">
+      {/* ═══ KEY METRICS — Clean light strip ═══ */}
+      <section className="bg-white border-b border-black/[0.04] py-16 md:py-20">
         <div className="section-container">
-          <div className="grid grid-cols-2 md:grid-cols-5 gap-8 md:gap-4">
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-10 md:gap-4">
             <AnimatedStat target={376} suffix=" Acres" label="Texas Ranchland" />
             <AnimatedStat target={12.5} suffix="M" prefix="$" label="Capital Raise" decimals={1} />
             <AnimatedStat target={metrics.irr} suffix="%" label="Projected IRR" decimals={1} />
@@ -182,107 +187,109 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ═══ IMAGINE A COMMUNITY WHERE... ═══ */}
-      <section className="py-20 md:py-28 bg-canvas">
+      {/* ═══ IMAGINE A COMMUNITY WHERE... — Editorial grid ═══ */}
+      <section className="py-28 md:py-40 bg-[#fafaf8]">
         <div className="section-container">
           <FadeIn>
-            <div className="text-center mb-14">
-              <span className="eyebrow mb-3 block">The Vision</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+            <div className="mb-20 max-w-3xl">
+              <span className="eyebrow mb-6 block">The Vision</span>
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 tracking-[0.04em]">
                 Imagine a Community Where...
               </h2>
             </div>
           </FadeIn>
 
-          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {IMAGINE_CARDS.map((card) => (
-              <StaggerItem key={card.text}>
-                <Link href={card.link} className="block">
-                  <div className="card-hover overflow-hidden group cursor-pointer">
-                    <div className="relative h-56 overflow-hidden">
+          {/* Staggered editorial cards */}
+          <div className="space-y-8 md:space-y-0 md:grid md:grid-cols-2 md:gap-8">
+            {IMAGINE_CARDS.map((card, i) => (
+              <FadeIn key={card.text} delay={i * 0.15}>
+                <Link href={card.link} className="group block cursor-pointer">
+                  <div className={`${i % 2 === 1 ? 'md:mt-16' : ''}`}>
+                    <div className="relative aspect-[4/3] overflow-hidden rounded-xl mb-6">
                       <Image
                         src={card.image}
                         alt={card.text}
                         fill
-                        className="object-cover group-hover:scale-105 transition-transform duration-700"
+                        className="object-cover group-hover:scale-105 transition-transform duration-700 ease-out-expo"
                       />
                     </div>
-                    <div className="p-5">
-                      <p className="font-heading text-base text-neutral-800 italic leading-relaxed mb-2">
-                        {card.text}
-                      </p>
-                      <p className="text-sm text-neutral-500 leading-relaxed">
-                        {card.detail}
-                      </p>
-                      <span className="inline-flex items-center gap-1 mt-3 text-sm font-accent font-semibold text-primary-700 group-hover:text-primary-500 transition-colors">
-                        Learn More
-                        <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition-transform" />
-                      </span>
-                    </div>
+                    <p className="font-display text-lg md:text-xl text-neutral-900 tracking-wide uppercase mb-3">
+                      {card.text}
+                    </p>
+                    <p className="font-body text-sm text-neutral-400 leading-relaxed mb-4 max-w-md">
+                      {card.detail}
+                    </p>
+                    <span className="inline-flex items-center gap-2 text-xs font-accent font-medium text-[#a08a5e] uppercase tracking-[0.15em] group-hover:gap-3 transition-all duration-300">
+                      Learn More
+                      <ArrowRight className="w-3.5 h-3.5" />
+                    </span>
                   </div>
                 </Link>
-              </StaggerItem>
+              </FadeIn>
             ))}
-          </StaggerContainer>
+          </div>
         </div>
       </section>
 
-      {/* ═══ COMMUNITY AERIAL TAGLINE ═══ */}
-      <section className="relative py-32 md:py-44 overflow-hidden">
+      {/* ═══ COMMUNITY AERIAL — Full-bleed immersive (dark section) ═══ */}
+      <section className="relative min-h-[80vh] flex items-center overflow-hidden">
         <Image
-          src="/images/website/06-regenerative-community-aerial.png"
+          src="/images/generated/abundancia-09-nature_landscape.png"
           alt="Abundancia regenerative community aerial view"
           fill
           className="object-cover"
         />
-        <div className="absolute inset-0 bg-primary-950/70" />
+        <div className="absolute inset-0 bg-black/60" />
 
-        <div className="relative z-10 section-container text-center">
+        <div className="relative z-10 section-container py-28 md:py-40">
           <FadeIn>
-            <p className="font-display text-2xl sm:text-3xl md:text-4xl text-white leading-relaxed max-w-4xl mx-auto font-light">
-              A regenerative community designed to secure all basic needs, enabling all to thrive in harmony with nature and each other, while regenerating the environment and showcasing global solutions.
-            </p>
+            <div className="max-w-4xl">
+              <div className="w-12 h-px bg-[#ceb78e] mb-10" />
+              <p className="font-display text-xl sm:text-2xl md:text-3xl text-white leading-relaxed tracking-wide uppercase">
+                A regenerative community designed to secure all basic needs, enabling all to thrive in harmony with nature and each other, while regenerating the environment and showcasing global solutions.
+              </p>
+            </div>
           </FadeIn>
           <FadeIn delay={0.3}>
-            <p className="mt-8 font-body text-lg text-secondary-300 max-w-2xl mx-auto">
+            <p className="mt-10 font-body text-base sm:text-lg text-white/40 max-w-2xl font-light">
               Abundancia prioritizes ecological regeneration, well-being, and supporting each person to reach their full creative potential.
             </p>
           </FadeIn>
         </div>
       </section>
 
-      {/* ═══ KEY HIGHLIGHTS ═══ */}
-      <section className="py-20 md:py-28 bg-canvas-subtle">
+      {/* ═══ KEY HIGHLIGHTS — Minimal feature grid ═══ */}
+      <section className="py-28 md:py-40 bg-white">
         <div className="section-container">
           <FadeIn>
-            <div className="text-center mb-14">
-              <span className="eyebrow mb-3 block">Why Abundancia</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+            <div className="mb-20 max-w-3xl">
+              <span className="eyebrow mb-6 block">Why Abundancia</span>
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 tracking-[0.04em] mb-6">
                 Built Different. By Design.
               </h2>
-              <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
+              <p className="font-body text-base text-neutral-400 max-w-2xl font-light">
                 Every feature of Abundancia serves both ecological regeneration and financial performance.
               </p>
             </div>
           </FadeIn>
 
-          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <StaggerContainer className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-px bg-black/[0.04] rounded-2xl overflow-hidden">
             {HIGHLIGHTS.map((item) => (
               <StaggerItem key={item.title}>
                 <div
                   onClick={() => setActiveModal(item.modalKey)}
-                  className="card p-6 h-full cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-300 group"
+                  className="bg-white p-8 md:p-10 h-full cursor-pointer group hover:bg-[#fafaf8] transition-colors duration-500"
                 >
-                  <div className="w-12 h-12 rounded-xl bg-primary-50 flex items-center justify-center mb-4 group-hover:bg-primary-100 transition-colors">
-                    <item.icon className="w-6 h-6 text-primary-600" />
+                  <div className="w-10 h-10 rounded-full border border-black/[0.08] flex items-center justify-center mb-8 group-hover:border-[#ceb78e]/40 transition-colors duration-500">
+                    <item.icon className="w-5 h-5 text-[#a08a5e]" />
                   </div>
-                  <h3 className="font-accent text-lg font-semibold text-neutral-900 mb-2 group-hover:text-primary-700 transition-colors">
+                  <h3 className="font-display text-base text-neutral-900 tracking-[0.1em] uppercase mb-4">
                     {item.title}
                   </h3>
-                  <p className="text-sm text-neutral-600 leading-relaxed">
+                  <p className="font-body text-sm text-neutral-400 leading-relaxed">
                     {item.description}
                   </p>
-                  <span className="inline-flex items-center gap-1 mt-3 text-xs font-accent font-semibold text-primary-600 opacity-0 group-hover:opacity-100 transition-opacity">
+                  <span className="inline-flex items-center gap-2 mt-6 text-xs font-accent text-[#a08a5e]/50 uppercase tracking-[0.15em] group-hover:text-[#a08a5e] transition-colors duration-300">
                     View Details
                     <ArrowRight className="w-3 h-3" />
                   </span>
@@ -302,12 +309,12 @@ export default function HomePage() {
           title={item.title}
         >
           <div className="space-y-5">
-            <p className="text-neutral-600 leading-relaxed">{item.detail}</p>
+            <p className="text-neutral-500 leading-relaxed">{item.detail}</p>
             <div className="flex flex-wrap gap-2">
               {item.specs.map((spec) => (
                 <span
                   key={spec}
-                  className="inline-flex items-center px-3 py-1 rounded-full bg-primary-50 text-primary-700 text-xs font-accent font-semibold"
+                  className="inline-flex items-center px-3 py-1.5 rounded-full bg-neutral-50 border border-neutral-100 text-neutral-600 text-xs font-accent"
                 >
                   {spec}
                 </span>
@@ -315,7 +322,7 @@ export default function HomePage() {
             </div>
             <Link
               href={item.link}
-              className="inline-flex items-center gap-2 text-sm font-accent font-semibold text-primary-700 hover:text-primary-500 transition-colors mt-2"
+              className="inline-flex items-center gap-2 text-sm font-accent text-[#a08a5e] hover:text-[#8a7450] transition-colors mt-2"
               onClick={() => setActiveModal(null)}
             >
               View Full Report
@@ -325,41 +332,39 @@ export default function HomePage() {
         </Modal>
       ))}
 
-      {/* ═══ RESIDENTIAL PREVIEW ═══ */}
-      <section className="py-20 md:py-28 bg-canvas">
+      {/* ═══ RESIDENTIAL PREVIEW — Cinematic grid ═══ */}
+      <section className="py-28 md:py-40 bg-[#fafaf8]">
         <div className="section-container">
           <FadeIn>
-            <div className="text-center mb-14">
-              <span className="eyebrow mb-3 block">Residential & Commercial</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+            <div className="text-center mb-20">
+              <span className="eyebrow mb-6 block">Residential & Commercial</span>
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 tracking-[0.04em]">
                 A Place to Call Home
               </h2>
             </div>
           </FadeIn>
 
-          <StaggerContainer className="grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-6">
+          <StaggerContainer className="grid grid-cols-2 lg:grid-cols-4 gap-3 md:gap-4">
             {[
-              { image: '/images/website/08-homes.png', label: 'Homes' },
-              { image: '/images/website/09-commercial-areas.png', label: 'Commercial Areas' },
-              { image: '/images/website/10-affordable-condos.png', label: 'Affordable Condos' },
-              { image: '/images/website/11-tiny-homes-rendering.png', label: 'Tiny Homes' },
+              { image: '/images/generated/abundancia-08-eco_living_spaces.png', label: 'Outdoor Living' },
+              { image: '/images/generated/abundancia-04-yoga_wellness.png', label: 'Wellness' },
+              { image: '/images/generated/abundancia-10-nature_landscape.png', label: 'Conservation' },
+              { image: '/images/generated/abundancia-02-hero.png', label: 'Community' },
             ].map((item) => (
               <StaggerItem key={item.label}>
-                <Link href="/story/community" className="block">
-                  <div className="card-hover overflow-hidden group cursor-pointer">
-                    <div className="relative aspect-[4/3] overflow-hidden">
-                      <Image
-                        src={item.image}
-                        alt={item.label}
-                        fill
-                        className="object-cover group-hover:scale-105 transition-transform duration-700"
-                      />
-                      <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />
-                      <div className="absolute bottom-4 left-4">
-                        <span className="font-accent text-sm font-semibold text-white">
-                          {item.label}
-                        </span>
-                      </div>
+                <Link href="/story/community" className="block group cursor-pointer">
+                  <div className="relative aspect-[3/4] overflow-hidden rounded-xl">
+                    <Image
+                      src={item.image}
+                      alt={item.label}
+                      fill
+                      className="object-cover group-hover:scale-105 transition-transform duration-700 ease-out-expo"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/10 to-transparent" />
+                    <div className="absolute bottom-6 left-6 right-6">
+                      <span className="font-display text-sm text-white tracking-[0.15em] uppercase">
+                        {item.label}
+                      </span>
                     </div>
                   </div>
                 </Link>
@@ -368,8 +373,8 @@ export default function HomePage() {
           </StaggerContainer>
 
           <FadeIn delay={0.3}>
-            <div className="text-center mt-10">
-              <Link href="/story/community" className="btn-secondary btn-md rounded-xl group">
+            <div className="text-center mt-14">
+              <Link href="/story/community" className="btn-primary btn-md group">
                 Explore All Spaces
                 <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </Link>
@@ -378,78 +383,85 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ═══ INVESTMENT CTA ═══ */}
-      <section className="bg-primary-800 py-20 md:py-28">
-        <div className="section-container text-center">
-          <FadeIn>
-            <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
-              Investment Opportunity
-            </span>
-            <h2 className="font-display text-4xl md:text-5xl text-white mb-6">
-              $12.5M Capital Raise
-            </h2>
-            <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
-              Join the movement toward the next generation of housing. Projected {metrics.irr}% IRR with {metrics.emx}x equity multiple over a 10-year hold. Accredited investors welcome.
-            </p>
-          </FadeIn>
+      {/* ═══ INVESTMENT CTA — Dark luxury section ═══ */}
+      <section className="py-28 md:py-40 bg-[#0f0f0f]">
+        <div className="section-container">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-24 items-center">
+            {/* Left — Text */}
+            <FadeIn>
+              <div>
+                <span className="font-accent text-xs font-medium uppercase tracking-[0.2em] text-[#ceb78e] mb-6 block">
+                  Investment Opportunity
+                </span>
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white tracking-[0.04em] mb-8">
+                  $12.5M Capital Raise
+                </h2>
+                <p className="font-body text-base text-white/40 max-w-lg mb-10 font-light leading-relaxed">
+                  Join the movement toward the next generation of housing. Projected {metrics.irr}% IRR with {metrics.emx}x equity multiple over a 10-year hold. Accredited investors welcome.
+                </p>
 
-          <FadeIn delay={0.2}>
-            <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link href="/invest" className="btn-accent btn-lg rounded-2xl text-base group">
-                Investor Overview
-                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-              </Link>
-              <Link href="/model" className="btn bg-white/10 text-white border border-white/20 hover:bg-white/20 btn-lg rounded-2xl text-base group">
-                View Business Model
-                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-              </Link>
-            </div>
-          </FadeIn>
-
-          <FadeIn delay={0.4}>
-            <Link href="/team" className="block mt-14 group">
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-3xl mx-auto cursor-pointer rounded-2xl p-6 hover:bg-white/5 transition-colors">
-                {[
-                  { stat: '$755M+', label: 'Raised for RE Projects' },
-                  { stat: '200+', label: 'Successful Transactions' },
-                  { stat: '70+', label: 'Eco Communities Analyzed' },
-                  { stat: '21', label: 'Sustainable Projects' },
-                ].map((item) => (
-                  <div key={item.label} className="text-center">
-                    <div className="font-display text-2xl font-bold text-secondary-400">{item.stat}</div>
-                    <div className="font-accent text-xs text-white/60 mt-1">{item.label}</div>
-                  </div>
-                ))}
-                <div className="col-span-2 md:col-span-4 mt-2">
-                  <span className="inline-flex items-center gap-1 text-sm font-accent font-semibold text-secondary-400 group-hover:text-secondary-300 transition-colors">
-                    Meet the Team Behind the Numbers
+                <div className="flex flex-col sm:flex-row items-start gap-4">
+                  <Link href="/invest" className="btn-accent btn-lg group">
+                    Investor Overview
                     <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-                  </span>
+                  </Link>
+                  <Link href="/model" className="btn-secondary-light btn-lg group">
+                    View Business Model
+                    <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                  </Link>
                 </div>
               </div>
-            </Link>
-          </FadeIn>
+            </FadeIn>
+
+            {/* Right — Stats grid */}
+            <FadeIn delay={0.2}>
+              <Link href="/team" className="block group">
+                <div className="grid grid-cols-2 gap-px bg-white/[0.06] rounded-2xl overflow-hidden">
+                  {[
+                    { stat: '$755M+', label: 'Raised for RE Projects' },
+                    { stat: '200+', label: 'Successful Transactions' },
+                    { stat: '70+', label: 'Eco Communities Analyzed' },
+                    { stat: '21', label: 'Sustainable Projects' },
+                  ].map((item) => (
+                    <div key={item.label} className="bg-[#0f0f0f] group-hover:bg-white/[0.02] transition-colors duration-500 p-8 text-center">
+                      <div className="font-display text-2xl md:text-3xl text-[#ceb78e] tracking-wider mb-2">{item.stat}</div>
+                      <div className="font-accent text-xs text-white/30 uppercase tracking-[0.15em]">{item.label}</div>
+                    </div>
+                  ))}
+                </div>
+                <div className="text-center mt-6">
+                  <span className="inline-flex items-center gap-2 text-xs font-accent text-[#ceb78e]/60 uppercase tracking-[0.15em] group-hover:text-[#ceb78e] transition-colors duration-300">
+                    Meet the Team Behind the Numbers
+                    <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition-transform" />
+                  </span>
+                </div>
+              </Link>
+            </FadeIn>
+          </div>
         </div>
       </section>
 
-      {/* ═══ WAITLIST CTA ═══ */}
-      <section className="py-20 md:py-28 bg-canvas">
-        <div className="section-container text-center">
+      {/* ═══ WAITLIST CTA — Centered, minimal ═══ */}
+      <section className="py-28 md:py-40 bg-white">
+        <div className="section-container">
           <FadeIn>
-            <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
-              Be Part of the Future
-            </h2>
-            <p className="text-lg text-neutral-600 max-w-xl mx-auto mb-8">
-              Whether you&apos;re looking for a home, an investment, or a new way of living — your journey starts here.
-            </p>
-            <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link href="/waitlist" className="btn-primary btn-lg rounded-2xl text-base group">
-                Join Resident Waitlist
-                <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
-              </Link>
-              <Link href="/overview" className="btn-secondary btn-lg rounded-2xl text-base">
-                Read Executive Summary
-              </Link>
+            <div className="text-center max-w-2xl mx-auto">
+              <div className="w-12 h-px bg-[#ceb78e] mx-auto mb-10" />
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 tracking-[0.04em] mb-8">
+                Be Part of the Future
+              </h2>
+              <p className="font-body text-base text-neutral-400 max-w-lg mx-auto mb-12 font-light leading-relaxed">
+                Whether you&apos;re looking for a home, an investment, or a new way of living — your journey starts here.
+              </p>
+              <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+                <Link href="/waitlist" className="btn-accent btn-lg group">
+                  Join Resident Waitlist
+                  <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                </Link>
+                <Link href="/overview" className="btn-secondary btn-lg">
+                  Read Executive Summary
+                </Link>
+              </div>
             </div>
           </FadeIn>
         </div>
