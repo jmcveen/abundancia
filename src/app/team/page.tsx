@@ -20,10 +20,10 @@ const TRACK_RECORD = [
     label: 'Raised for RE Projects',
     detail: 'Over $755 million raised across institutional real estate funds, private syndications, and development joint ventures. Our capital markets experience spans multifamily, mixed-use, hospitality, and purpose-built communities across Texas, the Southwest, and beyond.',
     breakdown: [
-      'Institutional fund raises — LP/GP structures, Reg D 506(b) and 506(c)',
-      'Development JVs — equity + debt structuring for ground-up projects',
-      'Geographies — Texas, Colorado, Arizona, California, Pacific Northwest',
-      'Fund types — value-add, opportunistic, impact, and regenerative',
+      'Institutional fund raises - LP/GP structures, Reg D 506(b) and 506(c)',
+      'Development JVs - equity + debt structuring for ground-up projects',
+      'Geographies - Texas, Colorado, Arizona, California, Pacific Northwest',
+      'Fund types - value-add, opportunistic, impact, and regenerative',
     ],
     dataRoomLink: '/data-room/view/investment/executive-summary',
   },
@@ -44,12 +44,12 @@ const TRACK_RECORD = [
     target: 70,
     suffix: '+',
     label: 'Eco Communities Analyzed',
-    detail: 'Our research spans 70+ intentional and eco-communities worldwide — from Findhorn in Scotland to Auroville in India. We have studied what works, what fails, and why. Abundancia incorporates the best practices while avoiding the pitfalls that derail most community projects.',
+    detail: 'Our research spans 70+ intentional and eco-communities worldwide - from Findhorn in Scotland to Auroville in India. We have studied what works, what fails, and why. Abundancia incorporates the best practices while avoiding the pitfalls that derail most community projects.',
     breakdown: [
-      'Governance models — sociocracy, holacracy, consensus, hybrid',
-      'Revenue engines — real estate sales, hospitality, agriculture, education',
-      'Failure patterns — undercapitalization, governance collapse, market disconnect',
-      'Success factors — financial sustainability, clear structure, phased growth',
+      'Governance models - sociocracy, holacracy, consensus, hybrid',
+      'Revenue engines - real estate sales, hospitality, agriculture, education',
+      'Failure patterns - undercapitalization, governance collapse, market disconnect',
+      'Success factors - financial sustainability, clear structure, phased growth',
     ],
     dataRoomLink: '/data-room/view/research/market-research-report',
   },
@@ -171,23 +171,23 @@ const PARTNERS = [
     org: 'Paragon Development',
     focus: 'Development Advisory',
     detail: 'Jeff Hall of Paragon Development provides strategic advisory on phased development execution, construction management, and risk mitigation. His experience with large-scale residential and mixed-use developments in Texas gives Abundancia access to proven playbooks.',
-    role: 'Development strategy advisor — phased construction planning, contractor relationships, and cost management.',
+    role: 'Development strategy advisor - phased construction planning, contractor relationships, and cost management.',
   },
   {
     name: 'Jodie & Can',
     photo: '/images/team/jodie-and-can.jpg',
     org: 'Inphinity Design Architects',
     focus: 'Biophilic Architecture',
-    detail: 'Inphinity Design Architects specialize in biophilic architecture — designing buildings that integrate natural systems, light, air, and living materials. They lead Abundancia\'s architectural vision, ensuring every structure embodies the Living Building Challenge principles.',
-    role: 'Lead architects — master plan design, hempcrete home templates, commercial and community buildings.',
+    detail: 'Inphinity Design Architects specialize in biophilic architecture - designing buildings that integrate natural systems, light, air, and living materials. They lead Abundancia\'s architectural vision, ensuring every structure embodies the Living Building Challenge principles.',
+    role: 'Lead architects - master plan design, hempcrete home templates, commercial and community buildings.',
   },
   {
     name: 'Angie Gonzales',
     photo: '/images/team/angie-gonzales.jpg',
     org: 'Independent',
     focus: 'Permaculture Design',
-    detail: 'Angie is a certified permaculture designer who has planned food forests and agricultural systems across Central Texas. She leads the design of Abundancia\'s integrated food production landscape — from community gardens to perennial food forests.',
-    role: 'Permaculture systems design — food forests, water harvesting, soil regeneration, and growing zone planning.',
+    detail: 'Angie is a certified permaculture designer who has planned food forests and agricultural systems across Central Texas. She leads the design of Abundancia\'s integrated food production landscape - from community gardens to perennial food forests.',
+    role: 'Permaculture systems design - food forests, water harvesting, soil regeneration, and growing zone planning.',
   },
   {
     name: 'Kacee Jackson',
@@ -201,7 +201,7 @@ const PARTNERS = [
     org: 'Symbiosis TX',
     focus: 'Regenerative Land Planning',
     detail: 'Symbiosis TX is a regenerative land planning firm that designs development projects in harmony with native ecosystems. They lead Abundancia\'s master site planning, ensuring Houston toad habitat compliance, conservation easements, and ecological enhancement.',
-    role: 'Master site planning — land use, conservation corridors, habitat enhancement, and LPHCP compliance.',
+    role: 'Master site planning - land use, conservation corridors, habitat enhancement, and LPHCP compliance.',
   },
 ]
 
@@ -218,7 +218,7 @@ const NEW_EARTH_CARDS = [
     icon: Building2,
     title: 'Proven Track Record',
     description: '$755M+ raised, 200+ successful transactions, 21 sustainable development projects.',
-    detail: 'Our team brings a combined track record of $755M+ raised across real estate funds and development projects, over 200 successful transactions, and 21 sustainable projects delivered. This is not a first project by first-time developers — it is a proven team applying decades of experience to a generational opportunity.',
+    detail: 'Our team brings a combined track record of $755M+ raised across real estate funds and development projects, over 200 successful transactions, and 21 sustainable projects delivered. This is not a first project by first-time developers - it is a proven team applying decades of experience to a generational opportunity.',
     link: '/data-room/view/investment/investor-presentation',
     linkLabel: 'View Investor Presentation',
   },
@@ -226,7 +226,7 @@ const NEW_EARTH_CARDS = [
     icon: Award,
     title: 'Living Building Challenge',
     description: 'Building to the world\'s most rigorous green building certification standard.',
-    detail: 'The Living Building Challenge is the most ambitious green building standard in the world — requiring net-positive energy, net-positive water, non-toxic materials, and measurable ecological benefit. Abundancia is designed to meet these standards, creating homes that produce more energy and clean water than they consume while sequestering carbon through hempcrete construction.',
+    detail: 'The Living Building Challenge is the most ambitious green building standard in the world - requiring net-positive energy, net-positive water, non-toxic materials, and measurable ecological benefit. Abundancia is designed to meet these standards, creating homes that produce more energy and clean water than they consume while sequestering carbon through hempcrete construction.',
     link: '/story/regeneration',
     linkLabel: 'Learn About Our Standards',
   },
@@ -279,7 +279,7 @@ export default function TeamPage() {
               The Team Behind the Vision
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
-              A multidisciplinary team of developers, builders, designers, engineers, and capital markets professionals — united by the conviction that regenerative development is the future.
+              A multidisciplinary team of developers, builders, designers, engineers, and capital markets professionals - united by the conviction that regenerative development is the future.
             </p>
           </FadeIn>
         </div>
@@ -413,7 +413,7 @@ export default function TeamPage() {
                   We are here to bring about revolutionary societal change through regenerative culture and built environments. Recognizing the cutting-edge technology and abundant natural resources available on Earth today, we are creating the models to eradicate poverty, homelessness, hunger, disease, war, and crime.
                 </p>
                 <p className="text-lg text-white/70 leading-relaxed">
-                  Our passion is to develop a new society in which all beings are free to thrive in unity and peace. Abundancia Austin is our flagship project — the proof of concept for a global movement.
+                  Our passion is to develop a new society in which all beings are free to thrive in unity and peace. Abundancia Austin is our flagship project - the proof of concept for a global movement.
                 </p>
               </div>
             </FadeIn>
@@ -558,7 +558,7 @@ export default function TeamPage() {
       <Modal
         open={!!activeStat}
         onClose={() => setActiveStat(null)}
-        title={activeStat ? `${activeStat.prefix || ''}${activeStat.target.toLocaleString()}${activeStat.suffix || ''} — ${activeStat.label}` : ''}
+        title={activeStat ? `${activeStat.prefix || ''}${activeStat.target.toLocaleString()}${activeStat.suffix || ''} - ${activeStat.label}` : ''}
         size="md"
       >
         {activeStat && (

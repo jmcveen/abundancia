@@ -26,14 +26,14 @@ const PHASES = [
     timeline: 'Months 1-6',
     color: 'bg-primary-600',
     milestones: [
-      'Land acquisition — $6.5M for 380 acres in Bastrop County, TX',
+      'Land acquisition - $6.5M for 380 acres in Bastrop County, TX',
       'Hydrology study and water resource assessment',
       'Houston toad habitat compliance (LPHCP alignment)',
       'Master site planning with Symbiosis TX',
-      'Entity formation — Texas Series LLC',
+      'Entity formation - Texas Series LLC',
       'MUD (Municipal Utility District) petition',
     ],
-    detail: 'Phase 0 is the foundation — securing the land and completing all due diligence required before breaking ground. The 380-acre property is approximately 30 minutes from downtown Austin, positioned in the path of growth. Due diligence includes environmental assessment, hydrology study (confirming water resources for 665 structures), habitat compliance, and geotechnical analysis. The Texas Series LLC structure enables each development phase to be legally isolated, protecting investor capital. The MUD petition, if approved, unlocks municipal bond financing for future infrastructure.',
+    detail: 'Phase 0 is the foundation - securing the land and completing all due diligence required before breaking ground. The 380-acre property is approximately 30 minutes from downtown Austin, positioned in the path of growth. Due diligence includes environmental assessment, hydrology study (confirming water resources for 665 structures), habitat compliance, and geotechnical analysis. The Texas Series LLC structure enables each development phase to be legally isolated, protecting investor capital. The MUD petition, if approved, unlocks municipal bond financing for future infrastructure.',
     investment: '$4.0M',
     revenueTarget: null,
   },
@@ -46,10 +46,10 @@ const PHASES = [
       'Retreat center operations using existing farmhouse & guest house',
       '10-15 tiny homes and domes for guest capacity',
       'First hempcrete model homes (15 units)',
-      'Infrastructure — roads, water, septic, solar arrays',
+      'Infrastructure - roads, water, septic, solar arrays',
       'Revenue target: $500K-$1M retreat + $8.25M-$11.25M home sales',
     ],
-    detail: 'Phase 1 is designed to generate revenue within 6 months of closing. The existing farmhouse and guest house on the property are repurposed as the retreat center, with 10-15 tiny homes and domes added for guest capacity. Simultaneously, 15 hempcrete model homes are constructed to launch residential sales. This phase proves the concept — demonstrating hempcrete construction, retreat demand, and buyer appetite. Infrastructure investment (roads, water wells, septic, initial solar array) supports both Phase 1 and sets up Phase 2. The retreat center serves as the community\'s "front door," introducing potential buyers to the Abundancia vision.',
+    detail: 'Phase 1 is designed to generate revenue within 6 months of closing. The existing farmhouse and guest house on the property are repurposed as the retreat center, with 10-15 tiny homes and domes added for guest capacity. Simultaneously, 15 hempcrete model homes are constructed to launch residential sales. This phase proves the concept - demonstrating hempcrete construction, retreat demand, and buyer appetite. Infrastructure investment (roads, water wells, septic, initial solar array) supports both Phase 1 and sets up Phase 2. The retreat center serves as the community\'s "front door," introducing potential buyers to the Abundancia vision.',
     investment: '$5.5M',
     revenueTarget: '$8.75M - $12.25M',
   },
@@ -59,13 +59,13 @@ const PHASES = [
     timeline: 'Years 2-4',
     color: 'bg-primary-800',
     milestones: [
-      'Community spaces — Creation Hub, education center, yoga shala',
+      'Community spaces - Creation Hub, education center, yoga shala',
       'Multifamily construction begins (350 units)',
-      'Commercial spaces open — grocery, restaurants, retail',
+      'Commercial spaces open - grocery, restaurants, retail',
       'Expand to 100+ residential units',
       'Permaculture food forests reach initial maturity',
     ],
-    detail: 'Phase 2 transforms Abundancia from a residential development into a living community. The commercial village center opens — organic grocery, farm-to-table dining, wellness retail, coworking. Community spaces (Creation Hub, education center, yoga shala) become the social fabric. Multifamily construction begins, bringing the unit count past 100 and generating the density needed for commercial viability. Permaculture food forests planted in Phase 1 begin producing, and the community governance structure is formalized. This phase is where the flywheel kicks in — amenities drive demand, demand funds more amenities.',
+    detail: 'Phase 2 transforms Abundancia from a residential development into a living community. The commercial village center opens - organic grocery, farm-to-table dining, wellness retail, coworking. Community spaces (Creation Hub, education center, yoga shala) become the social fabric. Multifamily construction begins, bringing the unit count past 100 and generating the density needed for commercial viability. Permaculture food forests planted in Phase 1 begin producing, and the community governance structure is formalized. This phase is where the flywheel kicks in - amenities drive demand, demand funds more amenities.',
     investment: '$2.5M (from revenue)',
     revenueTarget: '$104M cumulative by year 4',
   },
@@ -75,13 +75,13 @@ const PHASES = [
     timeline: 'Years 4-8',
     color: 'bg-primary-900',
     milestones: [
-      'Complete residential buildout — all 665 structures',
+      'Complete residential buildout - all 665 structures',
       'All commercial spaces fully operational',
-      'Full renewable energy grid — net-positive',
+      'Full renewable energy grid - net-positive',
       'Complete permaculture food forest maturity',
       'Community governance fully operational',
     ],
-    detail: 'Phase 3 completes the physical buildout of Abundancia. All residential units are delivered, commercial spaces are fully leased, and the renewable energy grid achieves net-positive status (producing more energy than consumed). The permaculture food forests reach full maturity, producing meaningful food yields for residents and the village grocery. Community governance — a resident-led cooperative structure — is fully operational. This phase generates peak revenue as the remaining residential inventory is absorbed and all four revenue streams are fully online.',
+    detail: 'Phase 3 completes the physical buildout of Abundancia. All residential units are delivered, commercial spaces are fully leased, and the renewable energy grid achieves net-positive status (producing more energy than consumed). The permaculture food forests reach full maturity, producing meaningful food yields for residents and the village grocery. Community governance - a resident-led cooperative structure - is fully operational. This phase generates peak revenue as the remaining residential inventory is absorbed and all four revenue streams are fully online.',
     investment: 'Self-funded from operations',
     revenueTarget: '$330M cumulative by year 8',
   },
@@ -97,7 +97,7 @@ const PHASES = [
       'Template and resource sharing for global replication',
       'Abundancia as a model for communities worldwide',
     ],
-    detail: 'Phase 4 is where Abundancia transcends real estate and becomes a movement. The Regenerative Community Documentary captures the full journey — from bare land to thriving community — creating a blueprint for others. Online courses package the lessons learned: hempcrete construction methods, permaculture food system design, community governance frameworks, MUD formation, and regenerative business modeling. Community Building TV shows bring the vision to mainstream audiences. Every system, template, and process is open-sourced for global replication. Abundancia becomes not just a community, but a proof of concept for the world.',
+    detail: 'Phase 4 is where Abundancia transcends real estate and becomes a movement. The Regenerative Community Documentary captures the full journey - from bare land to thriving community - creating a blueprint for others. Online courses package the lessons learned: hempcrete construction methods, permaculture food system design, community governance frameworks, MUD formation, and regenerative business modeling. Community Building TV shows bring the vision to mainstream audiences. Every system, template, and process is open-sourced for global replication. Abundancia becomes not just a community, but a proof of concept for the world.',
     investment: '$500K (media production)',
     revenueTarget: '$435M cumulative (10-year total)',
   },
@@ -127,7 +127,7 @@ export default function ExpansionPage() {
           <FadeIn>
             <span className="eyebrow mb-4 block">Development Phases</span>
             <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-neutral-900 mb-6 max-w-4xl">
-              Five Phases — From Due Diligence to Global Replication
+              Five Phases - From Due Diligence to Global Replication
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
               A disciplined development timeline that generates revenue from Phase 1 while building toward the complete vision. Each phase is financially self-supporting.
@@ -215,7 +215,7 @@ export default function ExpansionPage() {
       <section className="relative py-32 md:py-40 overflow-hidden">
         <Image
           src="/images/website/71-replicable-model-architecture.png"
-          alt="Abundancia — a replicable model for regenerative communities worldwide"
+          alt="Abundancia - a replicable model for regenerative communities worldwide"
           fill
           className="object-cover"
         />
@@ -230,7 +230,7 @@ export default function ExpansionPage() {
               A Model for the World
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-8">
-              Abundancia is designed to be replicated. Every system, every process, every lesson is documented and shared — so that regenerative communities can be built everywhere.
+              Abundancia is designed to be replicated. Every system, every process, every lesson is documented and shared - so that regenerative communities can be built everywhere.
             </p>
           </FadeIn>
 
@@ -311,7 +311,7 @@ export default function ExpansionPage() {
               Meet the Team
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
-              The leadership, partners, and advisors executing this vision — with $755M+ in real estate experience across 200+ transactions.
+              The leadership, partners, and advisors executing this vision - with $755M+ in real estate experience across 200+ transactions.
             </p>
           </FadeIn>
 

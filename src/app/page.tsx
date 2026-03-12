@@ -44,7 +44,7 @@ const IMAGINE_CARDS = [
   {
     image: '/images/generated/abundancia-06-organic_food_community.png',
     text: 'All of your basic needs are provided...',
-    detail: 'Food forests, renewable energy, and water security systems ensure every resident has access to clean food, power, and water — without dependence on fragile supply chains.',
+    detail: 'Food forests, renewable energy, and water security systems ensure every resident has access to clean food, power, and water - without dependence on fragile supply chains.',
     link: '/story/regeneration',
   },
   {
@@ -56,7 +56,7 @@ const IMAGINE_CARDS = [
   {
     image: '/images/generated/abundancia-07-eco_living_spaces.png',
     text: 'Regenerative buildings are in harmony with nature...',
-    detail: 'Hempcrete construction sequesters carbon, regulates humidity naturally, and creates the healthiest indoor air quality available — homes that heal the environment as they shelter you.',
+    detail: 'Hempcrete construction sequesters carbon, regulates humidity naturally, and creates the healthiest indoor air quality available - homes that heal the environment as they shelter you.',
     link: '/story/community',
   },
   {
@@ -121,7 +121,7 @@ export default function HomePage() {
       <section className="relative h-screen flex items-end overflow-hidden">
         <Image
           src="/images/generated/abundancia-01-hero.png"
-          alt="Abundancia Austin — Regenerative Community"
+          alt="Abundancia Austin - Regenerative Community"
           fill
           className="object-cover scale-105"
           priority
@@ -451,7 +451,7 @@ export default function HomePage() {
                 Be Part of the Future
               </h2>
               <p className="font-body text-base text-neutral-400 max-w-lg mx-auto mb-12 font-light leading-relaxed">
-                Whether you&apos;re looking for a home, an investment, or a new way of living — your journey starts here.
+                Whether you&apos;re looking for a home, an investment, or a new way of living - your journey starts here.
               </p>
               <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                 <Link href="/waitlist" className="btn-accent btn-lg group">

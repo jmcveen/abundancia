@@ -16,7 +16,7 @@ import {
 } from 'lucide-react'
 
 // ═══════════════════════════════════════════════════════════════════════════
-// Smart CTA — Sticky header that appears on scroll
+// Smart CTA - Sticky header that appears on scroll
 // ═══════════════════════════════════════════════════════════════════════════
 
 function SmartCTA() {
@@ -80,7 +80,7 @@ function SmartCTA() {
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
-// Animated number — smooth transition when scenario changes
+// Animated number - smooth transition when scenario changes
 // ═══════════════════════════════════════════════════════════════════════════
 
 function AnimatedValue({ children }: { children: React.ReactNode }) {
@@ -149,8 +149,8 @@ const MARKET_POINTS = [
 ]
 
 const REVENUE_STREAM_META: Record<string, { description: string; tailwindColor: string }> = {
-  'Residential Sales': { description: '100 SFR, 350 condos, 60 special units — regenerative materials', tailwindColor: 'bg-primary-700' },
-  'Rental Income': { description: '75 condos + 50 unique stays — $5.5M annual target by year 5', tailwindColor: 'bg-primary-500' },
+  'Residential Sales': { description: '100 SFR, 350 condos, 60 special units - regenerative materials', tailwindColor: 'bg-primary-700' },
+  'Rental Income': { description: '75 condos + 50 unique stays - $5.5M annual target by year 5', tailwindColor: 'bg-primary-500' },
   'Lot Sales': { description: '100 custom lots within Abundancia design guidelines', tailwindColor: 'bg-primary-300' },
   'Commercial Leasing': { description: '10 commercial units, 11 amenities, 8 recreation areas', tailwindColor: 'bg-accent-400' },
 }
@@ -340,7 +340,7 @@ export default function InvestorOverviewPage() {
 
           <FadeIn delay={0.3}>
             <p className="text-xl md:text-2xl text-neutral-600 max-w-3xl leading-relaxed mb-10">
-              The first institutional-grade regenerative community in the Austin metro. Carbon-negative hempcrete homes, net-positive energy, food forests, and 90%+ land conservation — proving that profitable development and ecological regeneration amplify each other.
+              The first institutional-grade regenerative community in the Austin metro. Carbon-negative hempcrete homes, net-positive energy, food forests, and 90%+ land conservation - proving that profitable development and ecological regeneration amplify each other.
             </p>
           </FadeIn>
 
@@ -363,7 +363,7 @@ export default function InvestorOverviewPage() {
             </div>
           </FadeIn>
 
-          {/* Key Stats Strip — IRR and EMx are scenario-reactive */}
+          {/* Key Stats Strip - IRR and EMx are scenario-reactive */}
           <FadeIn delay={0.6}>
             <div className="grid grid-cols-2 sm:grid-cols-5 gap-6 sm:gap-4 max-w-4xl">
               <div className="text-center sm:text-left">
@@ -413,7 +413,7 @@ export default function InvestorOverviewPage() {
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-8">
                   Conventional construction is the single largest contributor to global emissions.
-                  Austin is the fastest-growing major metro in America — but every new subdivision
+                  Austin is the fastest-growing major metro in America - but every new subdivision
                   looks the same: energy-dependent, ecologically destructive, built to depreciate.
                   There is no regenerative community available for the hundreds of thousands of people
                   moving to Austin who want something fundamentally different.
@@ -479,7 +479,7 @@ export default function InvestorOverviewPage() {
         </div>
       </section>
 
-      {/* ═══ THE 376 ACRES — Data Room Teaser ═══ */}
+      {/* ═══ THE 376 ACRES - Data Room Teaser ═══ */}
       <section className="py-20 md:py-28 bg-white">
         <div className="section-container">
           <FadeIn>
@@ -550,12 +550,12 @@ export default function InvestorOverviewPage() {
                   Austin Is Ready
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-6">
-                  Austin&apos;s population doubles every 20 years. Tesla, Apple, Google, Oracle, Samsung —
+                  Austin&apos;s population doubles every 20 years. Tesla, Apple, Google, Oracle, Samsung:
                   the world&apos;s most innovative companies are moving here. And yet there is zero
                   institutional-grade regenerative housing available for the people who work at them.
                 </p>
                 <p className="text-lg text-neutral-600 leading-relaxed">
-                  Whisper Valley — Austin&apos;s only comparable eco-community — has sold out every
+                  Whisper Valley - Austin&apos;s only comparable eco-community - has sold out every
                   released phase. Abundancia goes further: hempcrete construction, food forests,
                   conservation-forward design, and a fully regenerative ecosystem that Whisper Valley
                   doesn&apos;t offer.
@@ -577,7 +577,7 @@ export default function InvestorOverviewPage() {
         </div>
       </section>
 
-      {/* ═══ REVENUE MODEL — Scenario-reactive ═══ */}
+      {/* ═══ REVENUE MODEL - Scenario-reactive ═══ */}
       <section className="py-20 md:py-28 bg-canvas">
         <div className="section-container">
           <FadeIn>
@@ -627,7 +627,7 @@ export default function InvestorOverviewPage() {
         </div>
       </section>
 
-      {/* ═══ UNIT ECONOMICS — Data Room Teaser ═══ */}
+      {/* ═══ UNIT ECONOMICS - Data Room Teaser ═══ */}
       <section className="py-20 md:py-28 bg-white">
         <div className="section-container">
           <FadeIn>
@@ -679,7 +679,7 @@ export default function InvestorOverviewPage() {
                 className="flex items-center gap-3 bg-primary-50 rounded-xl px-5 py-3 border border-primary-100 hover:bg-primary-100 transition-colors group"
               >
                 <FileText className="w-5 h-5 text-primary-600" />
-                <span className="font-accent text-sm font-semibold text-primary-800">Doc 07 — Unit Economics Model</span>
+                <span className="font-accent text-sm font-semibold text-primary-800">Doc 07 - Unit Economics Model</span>
                 <ArrowRight className="w-3.5 h-3.5 text-primary-400 group-hover:translate-x-1 transition-transform" />
               </button>
               <button
@@ -687,7 +687,7 @@ export default function InvestorOverviewPage() {
                 className="flex items-center gap-3 bg-primary-50 rounded-xl px-5 py-3 border border-primary-100 hover:bg-primary-100 transition-colors group"
               >
                 <FileText className="w-5 h-5 text-primary-600" />
-                <span className="font-accent text-sm font-semibold text-primary-800">Doc 08 — Sensitivity Analysis</span>
+                <span className="font-accent text-sm font-semibold text-primary-800">Doc 08 - Sensitivity Analysis</span>
                 <ArrowRight className="w-3.5 h-3.5 text-primary-400 group-hover:translate-x-1 transition-transform" />
               </button>
             </div>
@@ -695,7 +695,7 @@ export default function InvestorOverviewPage() {
         </div>
       </section>
 
-      {/* ═══ FINANCIAL HIGHLIGHTS — Scenario-reactive ═══ */}
+      {/* ═══ FINANCIAL HIGHLIGHTS - Scenario-reactive ═══ */}
       <section className="py-20 md:py-28 bg-primary-800">
         <div className="section-container">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16">
@@ -714,7 +714,7 @@ export default function InvestorOverviewPage() {
                       <CheckCircle2 className="w-4 h-4 text-secondary-400 mt-1 flex-shrink-0" />
                       <div>
                         <span className="font-accent text-sm font-semibold text-white">{item.label}</span>
-                        <span className="text-sm text-white/60"> &mdash; {item.value}</span>
+                        <span className="text-sm text-white/60"> - {item.value}</span>
                       </div>
                     </div>
                   ))}
@@ -859,7 +859,7 @@ export default function InvestorOverviewPage() {
         </div>
       </section>
 
-      {/* ═══ CASH FLOW TRAJECTORY — Data Room Teaser ═══ */}
+      {/* ═══ CASH FLOW TRAJECTORY - Data Room Teaser ═══ */}
       <section className="py-20 md:py-28 bg-white">
         <div className="section-container">
           <FadeIn>
@@ -926,7 +926,7 @@ export default function InvestorOverviewPage() {
                     className="flex items-center gap-2 bg-white rounded-xl px-5 py-2.5 border border-primary-200 hover:bg-primary-100 transition-colors group"
                   >
                     <FileText className="w-4 h-4 text-primary-600" />
-                    <span className="font-accent text-xs font-semibold text-primary-800">Doc 06 — Financial Projections</span>
+                    <span className="font-accent text-xs font-semibold text-primary-800">Doc 06 - Financial Projections</span>
                     <ArrowRight className="w-3 h-3 text-primary-400 group-hover:translate-x-1 transition-transform" />
                   </button>
                   <button
@@ -934,7 +934,7 @@ export default function InvestorOverviewPage() {
                     className="flex items-center gap-2 bg-white rounded-xl px-5 py-2.5 border border-primary-200 hover:bg-primary-100 transition-colors group"
                   >
                     <FileText className="w-4 h-4 text-primary-600" />
-                    <span className="font-accent text-xs font-semibold text-primary-800">Doc 09 — Cap Table</span>
+                    <span className="font-accent text-xs font-semibold text-primary-800">Doc 09 - Cap Table</span>
                     <ArrowRight className="w-3 h-3 text-primary-400 group-hover:translate-x-1 transition-transform" />
                   </button>
                 </div>
@@ -1018,7 +1018,7 @@ export default function InvestorOverviewPage() {
               Ready for the Full Picture?
             </h2>
             <p className="text-lg text-neutral-600 max-w-2xl mx-auto mb-4">
-              Access the complete investor data room — PPM, financial model, subscription agreement,
+              Access the complete investor data room - PPM, financial model, subscription agreement,
               and 29 institutional-grade documents across 7 categories.
             </p>
           </FadeIn>

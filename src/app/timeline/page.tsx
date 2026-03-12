@@ -17,12 +17,12 @@ const MILESTONES = [
     status: 'active' as const,
     items: [
       'Team assembled and operational',
-      'Land identified — 380 acres in Bastrop County',
+      'Land identified - 380 acres in Bastrop County',
       '$12.5M capital raise in progress',
       'Investor outreach at SXSW 2026',
     ],
     detail: 'The due diligence phase is the foundation of the entire project. Our team has completed preliminary site assessments, environmental reviews, and market analysis. The 380-acre parcel was selected from 70+ eco-community analyses worldwide for its combination of location (30 min from downtown Austin), no zoning in Bastrop County, natural features (mature trees, water features, rolling terrain), and price-to-value ratio.',
-    investment: '$500K — Pre-development costs, legal, environmental studies, team operations',
+    investment: '$500K - Pre-development costs, legal, environmental studies, team operations',
     dataRoomLink: '/data-room/view/property/site-assessment',
   },
   {
@@ -34,11 +34,11 @@ const MILESTONES = [
       'Hydrology study and water resource assessment',
       'Houston toad habitat compliance (LPHCP)',
       'Master site planning with Symbiosis TX',
-      'Entity formation — Texas Series LLC',
+      'Entity formation - Texas Series LLC',
       'MUD petition filed',
     ],
     detail: 'Land acquisition is the single largest capital deployment event. The $6.5M purchase price includes the full 380-acre parcel. Simultaneously, we initiate the critical planning workstreams: hydrology studies to map water resources and retention pond locations, environmental compliance review, master site planning with Symbiosis TX to define conservation corridors, building envelopes, and infrastructure routes. The Texas Series LLC entity is formed, and the MUD petition is filed to unlock tax-exempt bond financing for infrastructure.',
-    investment: '$7.5M — Land acquisition ($6.5M) + planning, legal, entity formation ($1M)',
+    investment: '$7.5M - Land acquisition ($6.5M) + planning, legal, entity formation ($1M)',
     dataRoomLink: '/data-room/view/property/construction-budget',
   },
   {
@@ -49,10 +49,10 @@ const MILESTONES = [
       'Retreat center operations launch using existing structures',
       'First 10-15 tiny homes and domes for guest capacity',
       'Hempcrete model home construction (15 units)',
-      'Infrastructure — roads, water, septic, solar',
+      'Infrastructure - roads, water, septic, solar',
     ],
     detail: 'Phase 1 construction is designed for rapid revenue activation. Existing structures on the property are converted into a retreat and event center that begins generating cash flow immediately. Simultaneously, the first tiny homes and domes are built to expand guest capacity, and 15 hempcrete model homes begin construction as the flagship product. Infrastructure investment includes roads, water systems, septic, and the initial solar array. This phase proves the construction methodology and establishes market pricing.',
-    investment: '$3.5M — Construction, infrastructure, retreat center activation',
+    investment: '$3.5M - Construction, infrastructure, retreat center activation',
     dataRoomLink: '/data-room/view/property/construction-budget',
   },
   {
@@ -66,40 +66,40 @@ const MILESTONES = [
       'Marketing and buyer pipeline established',
     ],
     detail: 'Phase 1 revenue generation marks the transition from capital deployment to cash flow. The retreat center reaches full operational capacity with events, workshops, and wellness retreats. The first hempcrete homes sell at projected prices of $550K-$625K each, with the 10-15% sustainability premium validated by market response. Community gardens and food forests are planted to begin the long-term food self-sufficiency program. Marketing efforts establish a robust buyer pipeline for Phase 2.',
-    investment: '$1M — Marketing, operations, food forest planting, community programming',
+    investment: '$1M - Marketing, operations, food forest planting, community programming',
     dataRoomLink: '/data-room/view/financial/financial-projections',
   },
   {
     period: 'Year 2-4',
-    title: 'Phase 2 — Community Core',
+    title: 'Phase 2 - Community Core',
     status: 'upcoming' as const,
     items: [
       'Creation Hub and education center built',
       'Multifamily construction begins (350 units)',
-      'Commercial spaces open — grocery, restaurants, retail',
+      'Commercial spaces open - grocery, restaurants, retail',
       'Expand to 100+ residential units',
     ],
-    detail: 'Phase 2 builds the community\'s core amenity infrastructure and scales residential density. The Creation Hub — co-working spaces, artist studios, recording studio, makerspace — becomes the creative heart of the community. Multifamily construction begins, adding 350 units at more accessible price points (~$275K-$350K). Commercial tenants move in, creating the walkable village center with grocery, restaurants, and retail. This phase is largely self-funded from Phase 1 revenues and MUD bond reimbursements.',
+    detail: 'Phase 2 builds the community\'s core amenity infrastructure and scales residential density. The Creation Hub - co-working spaces, artist studios, recording studio, makerspace - becomes the creative heart of the community. Multifamily construction begins, adding 350 units at more accessible price points (~$275K-$350K). Commercial tenants move in, creating the walkable village center with grocery, restaurants, and retail. This phase is largely self-funded from Phase 1 revenues and MUD bond reimbursements.',
     investment: 'Self-funded from Phase 1 revenues + MUD bond reimbursements',
     dataRoomLink: '/data-room/view/financial/financial-projections',
   },
   {
     period: 'Year 4-7',
-    title: 'Phase 3 — Full Buildout',
+    title: 'Phase 3 - Full Buildout',
     status: 'upcoming' as const,
     items: [
-      'Complete residential buildout — all 665 structures',
+      'Complete residential buildout - all 665 structures',
       'All commercial spaces fully operational',
-      'Full renewable energy grid — net-positive',
+      'Full renewable energy grid - net-positive',
       'Permaculture food forests reach maturity',
     ],
-    detail: 'Phase 3 completes the full residential and commercial buildout. All units are constructed and sold or rented. The commercial village center is fully occupied with diverse tenants. The renewable energy grid reaches net-positive status — the community produces more energy than it consumes. Permaculture food forests planted in Phase 1 reach productive maturity, contributing to the 80-100% food self-sufficiency target. The community is fully self-sustaining.',
+    detail: 'Phase 3 completes the full residential and commercial buildout. All units are constructed and sold or rented. The commercial village center is fully occupied with diverse tenants. The renewable energy grid reaches net-positive status - the community produces more energy than it consumes. Permaculture food forests planted in Phase 1 reach productive maturity, contributing to the 80-100% food self-sufficiency target. The community is fully self-sustaining.',
     investment: 'Self-funded from Phase 2 revenues + ongoing sales',
     dataRoomLink: '/data-room/view/financial/financial-projections',
   },
   {
     period: 'Year 7-10',
-    title: 'Phase 4 — Giveback & Replicate',
+    title: 'Phase 4 - Giveback & Replicate',
     status: 'upcoming' as const,
     items: [
       'Regenerative Community Documentary production',
@@ -209,7 +209,7 @@ export default function TimelinePage() {
                   Explore the Complete Investor Data Room
                 </h3>
                 <p className="text-sm text-neutral-600">
-                  29 documents across investment, financial, property, legal, regenerative, research, and compliance categories — full transparency for informed decision-making.
+                  29 documents across investment, financial, property, legal, regenerative, research, and compliance categories - full transparency for informed decision-making.
                 </p>
               </div>
               <Link

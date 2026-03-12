@@ -52,7 +52,7 @@ const PETALS = [
     name: 'Materials',
     description: 'Endorsing products that are safe for all species through time.',
     color: 'bg-amber-600',
-    detail: 'Abundancia is 100% Red List free — no toxic materials enter the building process. Hempcrete is the primary structural material: carbon-negative, non-toxic, and compostable at end of life. Every material undergoes full life cycle analysis from extraction through disposal. The result is buildings that are safe for occupants, builders, and the ecosystem from day one through century five.',
+    detail: 'Abundancia is 100% Red List free - no toxic materials enter the building process. Hempcrete is the primary structural material: carbon-negative, non-toxic, and compostable at end of life. Every material undergoes full life cycle analysis from extraction through disposal. The result is buildings that are safe for occupants, builders, and the ecosystem from day one through century five.',
     link: '/data-room/view/regenerative/hempcrete-construction',
     linkLabel: 'View Hempcrete Construction Report',
   },
@@ -68,7 +68,7 @@ const PETALS = [
     name: 'Beauty',
     description: 'Celebrating design that uplifts the human spirit.',
     color: 'bg-pink-500',
-    detail: 'Beauty is not optional — it is a core performance metric. Sacred geometry informs architectural proportions. Public art installations by resident artists activate shared spaces. Native landscaping creates seasonal color and texture throughout the year. The amphitheater, temple complex, and ceremony spaces are designed as works of art that serve as gathering points for the community spirit.',
+    detail: 'Beauty is not optional - it is a core performance metric. Sacred geometry informs architectural proportions. Public art installations by resident artists activate shared spaces. Native landscaping creates seasonal color and texture throughout the year. The amphitheater, temple complex, and ceremony spaces are designed as works of art that serve as gathering points for the community spirit.',
     link: '/story/community',
     linkLabel: 'See Community Spaces',
   },
@@ -79,8 +79,8 @@ const REGEN_FEATURES = [
     image: '/images/website/42-ecological-preservation.jpg',
     icon: TreePine,
     title: 'Ecological Preservation',
-    description: 'Over 90% of the land conserved — Lost Pines ecosystem, wildlife corridors, native habitat restoration.',
-    detail: 'The property sits within the Lost Pines — an isolated pocket of loblolly pines 100 miles west of the main pine belt. After the devastating 2011 Bastrop wildfire, ecological restoration is both an environmental imperative and a community identity. Abundancia designates over 90% of its acreage as permanently conserved land, actively restoring native habitat for the endangered Houston toad and dozens of other species.',
+    description: 'Over 90% of the land conserved - Lost Pines ecosystem, wildlife corridors, native habitat restoration.',
+    detail: 'The property sits within the Lost Pines - an isolated pocket of loblolly pines 100 miles west of the main pine belt. After the devastating 2011 Bastrop wildfire, ecological restoration is both an environmental imperative and a community identity. Abundancia designates over 90% of its acreage as permanently conserved land, actively restoring native habitat for the endangered Houston toad and dozens of other species.',
     dataRoomLink: '/data-room/view/property/environmental-compliance',
     linkLabel: 'View Environmental Compliance',
   },
@@ -116,7 +116,7 @@ const REGEN_FEATURES = [
     icon: Sun,
     title: 'Renewable Energy Systems',
     description: 'Solar arrays + battery storage providing net-positive energy. Grid-independent after Winter Storm Uri lessons.',
-    detail: 'Community-scale solar installations paired with lithium-iron-phosphate battery storage provide net-positive energy generation — the community produces more energy than it consumes annually. Designed explicitly for grid independence after Winter Storm Uri left millions of Texans without power. Passive solar home design further reduces demand by 60-80%.',
+    detail: 'Community-scale solar installations paired with lithium-iron-phosphate battery storage provide net-positive energy generation - the community produces more energy than it consumes annually. Designed explicitly for grid independence after Winter Storm Uri left millions of Texans without power. Passive solar home design further reduces demand by 60-80%.',
     dataRoomLink: '/data-room/view/regenerative/energy-independence',
     linkLabel: 'View Energy Independence Plan',
   },
@@ -142,8 +142,8 @@ const REGEN_FEATURES = [
     image: '/images/website/49-reforestation.png',
     icon: TreePine,
     title: 'Reforestation',
-    description: 'Native loblolly pine and post oak restoration — rebuilding the Lost Pines after the 2011 Bastrop wildfire.',
-    detail: 'The 2011 Complex wildfire burned 34,000 acres and destroyed 1,600 homes — the most destructive wildfire in Texas history. Abundancia\'s reforestation program plants thousands of native loblolly pines and post oaks annually, rebuilding the Lost Pines ecosystem that gives the region its identity. Fire-resistant hempcrete construction ensures the community itself is protected.',
+    description: 'Native loblolly pine and post oak restoration - rebuilding the Lost Pines after the 2011 Bastrop wildfire.',
+    detail: 'The 2011 Complex wildfire burned 34,000 acres and destroyed 1,600 homes - the most destructive wildfire in Texas history. Abundancia\'s reforestation program plants thousands of native loblolly pines and post oaks annually, rebuilding the Lost Pines ecosystem that gives the region its identity. Fire-resistant hempcrete construction ensures the community itself is protected.',
     dataRoomLink: '/data-room/view/property/environmental-compliance',
     linkLabel: 'View Environmental Report',
   },
@@ -152,7 +152,7 @@ const REGEN_FEATURES = [
     icon: Leaf,
     title: 'Carbon Sequestration',
     description: 'Each hempcrete home sequesters 20-40 tons of CO2. The community is carbon-negative from day one.',
-    detail: 'Hemp absorbs massive amounts of CO2 during growth — approximately 1.6 tons per ton of hemp. When locked into hempcrete walls, this carbon is permanently sequestered for the 500+ year lifespan of the building. Each Abundancia home sequesters 20-40 tons of CO2 at construction. Combined with reforestation and permaculture soil building, the community achieves measurable carbon-negative status from day one.',
+    detail: 'Hemp absorbs massive amounts of CO2 during growth - approximately 1.6 tons per ton of hemp. When locked into hempcrete walls, this carbon is permanently sequestered for the 500+ year lifespan of the building. Each Abundancia home sequesters 20-40 tons of CO2 at construction. Combined with reforestation and permaculture soil building, the community achieves measurable carbon-negative status from day one.',
     dataRoomLink: '/data-room/view/regenerative/hempcrete-construction',
     linkLabel: 'View Hempcrete Report',
   },
@@ -161,7 +161,7 @@ const REGEN_FEATURES = [
     icon: Building2,
     title: 'Healthy Resilient Buildings',
     description: 'Fire-resistant (2+ hour rating), storm-resistant, pest-resistant. Healthiest indoor air quality available.',
-    detail: 'Hempcrete buildings achieve a 2+ hour fire rating without chemical fire retardants, resist hurricane-force winds, are naturally impervious to termites and pests, and provide R-30+ insulation. Indoor air quality is the healthiest achievable in any building type — zero VOCs, natural humidity regulation between 40-60%, and breathable wall systems that prevent mold. These buildings literally heal the people inside them.',
+    detail: 'Hempcrete buildings achieve a 2+ hour fire rating without chemical fire retardants, resist hurricane-force winds, are naturally impervious to termites and pests, and provide R-30+ insulation. Indoor air quality is the healthiest achievable in any building type - zero VOCs, natural humidity regulation between 40-60%, and breathable wall systems that prevent mold. These buildings literally heal the people inside them.',
     dataRoomLink: '/data-room/view/regenerative/hempcrete-construction',
     linkLabel: 'View Hempcrete Report',
   },
@@ -178,8 +178,8 @@ const REGEN_FEATURES = [
     image: '/images/website/53-living-building-certification.png',
     icon: Award,
     title: 'Living Building Certification',
-    description: 'Pursuing the most rigorous green building standard in the world — the Living Building Challenge.',
-    detail: 'The Living Building Challenge is the most rigorous green building certification in existence — requiring actual performance data over 12 months of operation, not just design intent. Abundancia pursues full Living Building Certification across all seven petals: Place, Water, Energy, Health & Happiness, Materials, Equity, and Beauty. Only a handful of communities worldwide have achieved this standard.',
+    description: 'Pursuing the most rigorous green building standard in the world - the Living Building Challenge.',
+    detail: 'The Living Building Challenge is the most rigorous green building certification in existence - requiring actual performance data over 12 months of operation, not just design intent. Abundancia pursues full Living Building Certification across all seven petals: Place, Water, Energy, Health & Happiness, Materials, Equity, and Beauty. Only a handful of communities worldwide have achieved this standard.',
     dataRoomLink: '/story/regeneration',
     linkLabel: 'Learn About the 7 Petals',
   },
@@ -188,7 +188,7 @@ const REGEN_FEATURES = [
     icon: Car,
     title: 'Electric Vehicle Transportation',
     description: 'EV charging infrastructure, community electric vehicles, and walkable design reducing car dependence.',
-    detail: 'Every parking area is equipped with Level 2 EV chargers, with DC fast charging at community hubs. A fleet of shared community electric vehicles reduces the need for individual car ownership. The walkable, bikeable site design means most daily needs are met without any vehicle at all — the EV infrastructure serves trips to Austin and beyond.',
+    detail: 'Every parking area is equipped with Level 2 EV chargers, with DC fast charging at community hubs. A fleet of shared community electric vehicles reduces the need for individual car ownership. The walkable, bikeable site design means most daily needs are met without any vehicle at all - the EV infrastructure serves trips to Austin and beyond.',
     dataRoomLink: '/data-room/view/regenerative/energy-independence',
     linkLabel: 'View Energy Systems',
   },
@@ -197,7 +197,7 @@ const REGEN_FEATURES = [
     icon: FlaskConical,
     title: 'Material Life Cycle Analysis',
     description: 'Every material evaluated for environmental impact from extraction through end-of-life. Red List free.',
-    detail: 'Every material used in Abundancia undergoes comprehensive life cycle analysis — evaluating environmental impact from raw material extraction, through manufacturing and transportation, to installation, maintenance, and eventual end-of-life. All materials are Red List free (no toxic chemicals). The research center publishes findings as open-source data to advance the regenerative building industry.',
+    detail: 'Every material used in Abundancia undergoes comprehensive life cycle analysis - evaluating environmental impact from raw material extraction, through manufacturing and transportation, to installation, maintenance, and eventual end-of-life. All materials are Red List free (no toxic chemicals). The research center publishes findings as open-source data to advance the regenerative building industry.',
     dataRoomLink: '/data-room/view/regenerative/hempcrete-construction',
     linkLabel: 'View Materials Report',
   },
@@ -205,7 +205,7 @@ const REGEN_FEATURES = [
     image: '/images/website/56-sustainable-ethical-products.png',
     icon: ShoppingBag,
     title: 'Sustainable & Ethical Products',
-    description: 'On-site production and curation of ethical goods — supporting local makers and regenerative supply chains.',
+    description: 'On-site production and curation of ethical goods - supporting local makers and regenerative supply chains.',
     detail: 'The community supports a local maker economy producing ethical goods: body care products from garden herbs, preserved foods from the permaculture harvest, artisan crafts from workshop studios, and curated retail featuring regenerative supply chains. Every product sold on-site meets sustainability and ethical sourcing standards. This creates both community revenue and a destination retail experience.',
     dataRoomLink: '/story/community',
     linkLabel: 'Explore Community Spaces',
@@ -218,14 +218,14 @@ const COMMUNITY_OPS = [
     icon: Vote,
     title: 'Co-Governance',
     description: 'Sociocratic decision-making where every resident has voice and vote. Structured onboarding ensures inclusive participation from day one.',
-    detail: 'Abundancia operates on a sociocratic governance model where decisions are made by consent rather than majority vote. Nested circles — from household to neighborhood to community-wide — ensure that every voice is heard at the appropriate level. New residents complete a structured onboarding program that teaches the governance model, builds relationships, and ensures inclusive participation from day one. This is not a commune — it is a sophisticated, scalable governance structure proven in communities worldwide.',
+    detail: 'Abundancia operates on a sociocratic governance model where decisions are made by consent rather than majority vote. Nested circles - from household to neighborhood to community-wide - ensure that every voice is heard at the appropriate level. New residents complete a structured onboarding program that teaches the governance model, builds relationships, and ensures inclusive participation from day one. This is not a commune - it is a sophisticated, scalable governance structure proven in communities worldwide.',
   },
   {
     image: '/images/website/58-alternative-currency.png',
     icon: Coins,
     title: 'Alternative Currency',
     description: 'Community-backed digital currency enabling local economic sovereignty. Residents can trade skills, goods, and services within the ecosystem.',
-    detail: 'The Abundancia community currency is a blockchain-backed digital token that enables local economic sovereignty. Residents earn currency by contributing to community operations — teaching, gardening, mentoring, maintenance — and spend it at on-site businesses, the zero-waste grocery, and with fellow residents. The currency keeps economic value circulating within the community, creating a multiplier effect that strengthens local resilience independent of external economic conditions.',
+    detail: 'The Abundancia community currency is a blockchain-backed digital token that enables local economic sovereignty. Residents earn currency by contributing to community operations - teaching, gardening, mentoring, maintenance - and spend it at on-site businesses, the zero-waste grocery, and with fellow residents. The currency keeps economic value circulating within the community, creating a multiplier effect that strengthens local resilience independent of external economic conditions.',
   },
   {
     image: '/images/website/59-health-care.png',
@@ -251,7 +251,7 @@ export default function RegenerationPage() {
       <section className="relative py-24 md:py-32 overflow-hidden">
         <Image
           src="/images/website/12-rethinking-development.png"
-          alt="Rethinking development — regenerative building and design"
+          alt="Rethinking development - regenerative building and design"
           fill
           className="object-cover"
           priority
@@ -267,7 +267,7 @@ export default function RegenerationPage() {
               Rethinking Development
             </h1>
             <p className="text-xl text-white/80 max-w-3xl leading-relaxed">
-              Conventional development generates 40% of annual global CO2 emissions. Abundancia eliminates pollution, waste, and environmental destruction — replacing them with systems that regenerate the land.
+              Conventional development generates 40% of annual global CO2 emissions. Abundancia eliminates pollution, waste, and environmental destruction - replacing them with systems that regenerate the land.
             </p>
           </FadeIn>
         </div>
@@ -281,7 +281,7 @@ export default function RegenerationPage() {
               <div className="relative aspect-square max-w-md mx-auto lg:mx-0">
                 <Image
                   src="/images/website/13-living-building-challenge-logo.png"
-                  alt="Living Building Challenge Certification — the 7 Petals"
+                  alt="Living Building Challenge Certification - the 7 Petals"
                   fill
                   className="object-contain"
                 />
@@ -295,7 +295,7 @@ export default function RegenerationPage() {
                   The Living Building Challenge
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-8">
-                  We are building with the most rigorous green building certification in the world — aligning with the 7 Petals to co-create a world we are proud to pass on to our grandchildren.
+                  We are building with the most rigorous green building certification in the world - aligning with the 7 Petals to co-create a world we are proud to pass on to our grandchildren.
                 </p>
 
                 <div className="space-y-3">
@@ -308,7 +308,7 @@ export default function RegenerationPage() {
                       <div className={`w-2.5 h-2.5 rounded-full ${petal.color} mt-2 flex-shrink-0`} />
                       <div>
                         <span className="font-accent text-sm font-semibold text-neutral-900">{petal.name}</span>
-                        <span className="text-sm text-neutral-600"> — {petal.description}</span>
+                        <span className="text-sm text-neutral-600"> - {petal.description}</span>
                       </div>
                     </button>
                   ))}
@@ -434,7 +434,7 @@ export default function RegenerationPage() {
                 How We Live Together
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                Governance, economics, and health care — designed for sovereignty, inclusion, and well-being.
+                Governance, economics, and health care - designed for sovereignty, inclusion, and well-being.
               </p>
             </div>
           </FadeIn>
@@ -515,7 +515,7 @@ export default function RegenerationPage() {
                 Lifting the Entire Region
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                Abundancia isn&apos;t just for residents — it creates affordable homes, healthy food access, jobs, education, and economic opportunity for the wider Bastrop County community.
+                Abundancia isn&apos;t just for residents - it creates affordable homes, healthy food access, jobs, education, and economic opportunity for the wider Bastrop County community.
               </p>
             </div>
           </FadeIn>

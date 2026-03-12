@@ -241,7 +241,7 @@ export default function WaitlistPage() {
         </div>
       </section>
 
-      {/* ═══ WHILE YOU WAIT — EXPLORE ═══ */}
+      {/* ═══ WHILE YOU WAIT - EXPLORE ═══ */}
       <section className="py-20 md:py-28 bg-canvas">
         <div className="section-container">
           <FadeIn>
