@@ -116,7 +116,7 @@ const config: Config = {
       // Typography - Same distinctive stack as Transformational Epicenter
       // ═══════════════════════════════════════════════════════════════════════════
       fontFamily: {
-        display: ['Fraunces', 'Georgia', 'serif'],
+        display: ['"Tenor Sans"', 'Georgia', 'serif'],
         heading: ['"Libre Baskerville"', 'Georgia', 'serif'],
         body: ['"Source Sans 3"', 'system-ui', 'sans-serif'],
         accent: ['"DM Sans"', 'Arial', 'sans-serif'],
