@@ -35,7 +35,7 @@ export function Footer() {
     <footer className="bg-[#0f0f0f] text-white">
       <div className="section-container py-20 md:py-24">
         {/* Top section */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-12 lg:gap-8">
           {/* Brand column */}
           <div className="lg:col-span-1">
             <div className="mb-6">

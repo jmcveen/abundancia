@@ -96,7 +96,7 @@ function Stat({ target, prefix, suffix, label, decimals = 0 }: {
   const { count, ref } = useAnimatedCounter({ target, decimals })
   return (
     <div ref={ref} className="text-center">
-      <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 mb-1">
+      <div className="font-display text-lg sm:text-2xl md:text-3xl font-bold text-primary-800 mb-1">
         {prefix}{count.toLocaleString()}{suffix}
       </div>
       <div className="font-accent text-sm text-neutral-600">{label}</div>
@@ -134,7 +134,7 @@ export default function OverviewPage() {
       {/* ═══ KEY METRICS ═══ */}
       <section className="py-12 md:py-16 bg-canvas">
         <div className="section-container">
-          <div className="grid grid-cols-2 md:grid-cols-5 gap-6">
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-3 sm:gap-6">
             <Stat target={376} suffix=" Acres" label="Texas Ranchland" />
             <Stat target={12.5} suffix="M" prefix="$" label="Capital Raise" decimals={1} />
             <Stat target={metrics.irr} suffix="%" label="Projected IRR" decimals={1} />

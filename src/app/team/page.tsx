@@ -340,12 +340,12 @@ export default function TeamPage() {
                   </p>
                   <div className="mt-3 flex flex-wrap gap-1.5">
                     {member.expertise.slice(0, 2).map((tag) => (
-                      <span key={tag} className="font-accent text-[10px] px-2 py-0.5 rounded-full bg-primary-50 text-primary-600">
+                      <span key={tag} className="font-accent text-xs px-2 py-0.5 rounded-full bg-primary-50 text-primary-600">
                         {tag}
                       </span>
                     ))}
                     {member.expertise.length > 2 && (
-                      <span className="font-accent text-[10px] px-2 py-0.5 rounded-full bg-neutral-100 text-neutral-500">
+                      <span className="font-accent text-xs px-2 py-0.5 rounded-full bg-neutral-100 text-neutral-500">
                         +{member.expertise.length - 2}
                       </span>
                     )}

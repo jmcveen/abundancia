@@ -231,14 +231,14 @@ function MaslowPyramid() {
           <p className="font-accent text-xs md:text-sm font-semibold tracking-wide uppercase leading-tight">
             {level.title}
           </p>
-          <p className="text-[10px] md:text-xs opacity-75 mt-0.5 leading-snug max-w-[90%] mx-auto">
+          <p className="text-xs md:text-sm opacity-75 mt-0.5 leading-snug max-w-[90%] mx-auto">
             {level.description}
           </p>
         </div>
       ))}
 
       {/* Label */}
-      <p className="mt-3 font-accent text-[10px] md:text-xs tracking-[0.15em] uppercase text-neutral-400">
+      <p className="mt-3 font-accent text-xs tracking-[0.15em] uppercase text-neutral-400">
         Maslow&apos;s Hierarchy — Abundancia Model
       </p>
     </div>

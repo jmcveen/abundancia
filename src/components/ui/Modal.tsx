@@ -61,7 +61,7 @@ export function Modal({ open, onClose, children, title, size = 'md' }: ModalProp
           >
             {/* Header */}
             {title && (
-              <div className="sticky top-0 z-10 flex items-center justify-between px-6 py-4 bg-white/95 backdrop-blur-sm border-b border-black/[0.04] rounded-t-2xl">
+              <div className="sticky top-0 z-10 flex items-center justify-between px-4 sm:px-6 py-3 sm:py-4 bg-white/95 backdrop-blur-sm border-b border-black/[0.04] rounded-t-2xl">
                 <h3 className="font-display text-sm text-neutral-900 tracking-[0.1em] uppercase">{title}</h3>
                 <button
                   onClick={onClose}
@@ -83,7 +83,7 @@ export function Modal({ open, onClose, children, title, size = 'md' }: ModalProp
             )}
 
             {/* Content */}
-            <div className="px-6 py-6">{children}</div>
+            <div className="px-4 sm:px-6 py-4 sm:py-6">{children}</div>
           </motion.div>
         </div>
       )}

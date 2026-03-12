@@ -141,7 +141,7 @@ function SpaceGrid({ spaces }: { spaces: { image: string; name: string; detail: 
 
   return (
     <>
-      <StaggerContainer className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+      <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
         {spaces.map((space) => (
           <StaggerItem key={space.name}>
             <button

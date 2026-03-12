@@ -265,7 +265,7 @@ export default function MarketPage() {
             </div>
           </FadeIn>
 
-          <StaggerContainer className="grid grid-cols-2 lg:grid-cols-4 gap-6">
+          <StaggerContainer className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
             {AUSTIN_DYNAMICS.map((item) => (
               <StaggerItem key={item.label}>
                 <button
@@ -279,7 +279,7 @@ export default function MarketPage() {
                   <div className="w-12 h-12 rounded-xl bg-secondary-500/20 flex items-center justify-center mx-auto mb-3">
                     <item.icon className="w-6 h-6 text-secondary-400" />
                   </div>
-                  <div className="font-display text-2xl md:text-3xl font-bold text-white mb-1">
+                  <div className="font-display text-lg sm:text-2xl md:text-3xl font-bold text-white mb-1">
                     {item.stat}
                   </div>
                   <div className="font-accent text-sm font-semibold text-white/80 mb-1">
@@ -322,9 +322,9 @@ export default function MarketPage() {
                       body: signal.modalDetail,
                       link: { href: '/data-room/view/research/competitive-landscape', label: 'View Competitive Landscape Analysis' },
                     })}
-                    className="card p-5 text-left hover:shadow-lg hover:border-primary-200 transition-all duration-300 cursor-pointer group"
+                    className="card p-4 sm:p-5 text-left hover:shadow-lg hover:border-primary-200 transition-all duration-300 cursor-pointer group"
                   >
-                    <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 mb-2">
+                    <div className="font-display text-lg sm:text-2xl md:text-3xl font-bold text-primary-800 mb-2">
                       {signal.stat}
                     </div>
                     <p className="text-sm text-neutral-600 leading-relaxed">

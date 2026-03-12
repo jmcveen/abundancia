@@ -158,7 +158,7 @@ export default function TimelinePage() {
                     <StatusIcon status={milestone.status} />
                   </div>
 
-                  <div className={`card p-6 ${milestone.status === 'active' ? 'border-l-4 border-l-secondary-500' : ''}`}>
+                  <div className={`card p-4 sm:p-6 ${milestone.status === 'active' ? 'border-l-4 border-l-secondary-500' : ''}`}>
                     <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4 gap-2">
                       <h3 className="font-display text-xl text-neutral-900">
                         {milestone.title}

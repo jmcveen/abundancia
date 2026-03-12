@@ -175,7 +175,7 @@ export default function HomePage() {
       {/* ═══ KEY METRICS — Clean light strip ═══ */}
       <section className="bg-white border-b border-black/[0.04] py-16 md:py-20">
         <div className="section-container">
-          <div className="grid grid-cols-2 md:grid-cols-5 gap-10 md:gap-4">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-10 md:gap-4">
             <AnimatedStat target={376} suffix=" Acres" label="Texas Ranchland" />
             <AnimatedStat target={12.5} suffix="M" prefix="$" label="Capital Raise" decimals={1} />
             <AnimatedStat target={metrics.irr} suffix="%" label="Projected IRR" decimals={1} />
@@ -314,7 +314,7 @@ export default function HomePage() {
               {item.specs.map((spec) => (
                 <span
                   key={spec}
-                  className="inline-flex items-center px-3 py-1.5 rounded-full bg-neutral-50 border border-neutral-100 text-neutral-600 text-xs font-accent"
+                  className="inline-flex items-center px-3 py-2 rounded-full bg-neutral-50 border border-neutral-100 text-neutral-600 text-xs font-accent"
                 >
                   {spec}
                 </span>
@@ -344,7 +344,7 @@ export default function HomePage() {
             </div>
           </FadeIn>
 
-          <StaggerContainer className="grid grid-cols-2 lg:grid-cols-4 gap-3 md:gap-4">
+          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
             {[
               { image: '/images/generated/abundancia-08-eco_living_spaces.png', label: 'Outdoor Living' },
               { image: '/images/generated/abundancia-04-yoga_wellness.png', label: 'Wellness' },
@@ -416,7 +416,7 @@ export default function HomePage() {
             {/* Right — Stats grid */}
             <FadeIn delay={0.2}>
               <Link href="/team" className="block group">
-                <div className="grid grid-cols-2 gap-px bg-white/[0.06] rounded-2xl overflow-hidden">
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-px bg-white/[0.06] rounded-2xl overflow-hidden">
                   {[
                     { stat: '$755M+', label: 'Raised for RE Projects' },
                     { stat: '200+', label: 'Successful Transactions' },

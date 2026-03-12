@@ -70,8 +70,8 @@ function MetricCard({ target, prefix, suffix, label, decimals = 0 }: {
   const { count, ref } = useAnimatedCounter({ target, decimals })
 
   return (
-    <div ref={ref} className="card p-6 text-center">
-      <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 mb-1">
+    <div ref={ref} className="card p-4 sm:p-6 text-center">
+      <div className="font-display text-lg sm:text-2xl md:text-3xl font-bold text-primary-800 mb-1">
         {prefix}{count.toLocaleString()}{suffix}
       </div>
       <div className="font-accent text-sm text-neutral-600">{label}</div>
