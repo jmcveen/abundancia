@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { motion, AnimatePresence } from 'framer-motion'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
 import { ScenarioToggle } from '@/components/ui/ScenarioToggle'
@@ -320,8 +321,8 @@ export default function InvestorOverviewPage() {
 
       {/* ═══ HERO ═══ */}
       <section className="relative pt-8 pb-20 md:pt-12 md:pb-28 overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-b from-primary-50/60 via-canvas to-canvas" />
-        <div className="absolute top-0 right-0 w-1/2 h-full bg-gradient-to-l from-secondary-50/30 to-transparent" />
+        <Image src="/images/website/06-regenerative-community-aerial.png" alt="" fill className="object-cover" priority />
+        <div className="absolute inset-0 bg-gradient-to-b from-white/90 via-white/70 to-white/95" />
 
         <div className="relative section-container">
           <FadeIn>
@@ -332,7 +333,7 @@ export default function InvestorOverviewPage() {
           </FadeIn>
 
           <FadeIn delay={0.15}>
-            <h1 className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-neutral-900 mb-6 max-w-5xl tracking-tight">
+            <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-neutral-900 mb-6 max-w-5xl">
               New Age Development<br />
               <span className="text-primary-600">Comes to Austin</span>
             </h1>
@@ -367,31 +368,31 @@ export default function InvestorOverviewPage() {
           <FadeIn delay={0.6}>
             <div className="grid grid-cols-2 sm:grid-cols-5 gap-6 sm:gap-4 max-w-4xl">
               <div className="text-center sm:text-left">
-                <div className="font-display text-3xl sm:text-2xl md:text-3xl font-bold text-primary-800">
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
                   376<span className="text-primary-500"> Acres</span>
                 </div>
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Texas Ranchland</div>
               </div>
               <div className="text-center sm:text-left">
-                <div className="font-display text-3xl sm:text-2xl md:text-3xl font-bold text-primary-800">
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
                   $12.5<span className="text-primary-500">M</span>
                 </div>
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Capital Raise</div>
               </div>
               <div className="text-center sm:text-left">
-                <div className="font-display text-3xl sm:text-2xl md:text-3xl font-bold text-primary-800">
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
                   <AnimatedValue>{metrics.irr}</AnimatedValue><span className="text-primary-500">% IRR</span>
                 </div>
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Projected Return</div>
               </div>
               <div className="text-center sm:text-left">
-                <div className="font-display text-3xl sm:text-2xl md:text-3xl font-bold text-primary-800">
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
                   <AnimatedValue>{metrics.emx}</AnimatedValue><span className="text-primary-500">x</span>
                 </div>
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Equity Multiple</div>
               </div>
               <div className="text-center sm:text-left">
-                <div className="font-display text-3xl sm:text-2xl md:text-3xl font-bold text-primary-800">
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
                   670<span className="text-primary-500">+</span>
                 </div>
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Planned Units</div>
@@ -408,7 +409,7 @@ export default function InvestorOverviewPage() {
             <FadeIn>
               <div>
                 <span className="eyebrow mb-4 block">The Problem</span>
-                <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
                   Traditional Development Is Broken
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-8">
@@ -428,7 +429,7 @@ export default function InvestorOverviewPage() {
               <div className="grid grid-cols-1 gap-4">
                 {PROBLEM_STATS.map((item) => (
                   <div key={item.stat} className="bg-canvas rounded-2xl p-6 border border-neutral-100">
-                    <div className="font-display text-4xl md:text-5xl font-bold text-primary-800 mb-2">
+                    <div className="font-display text-2xl md:text-3xl lg:text-4xl font-bold text-primary-800 mb-2">
                       {item.stat}
                     </div>
                     <p className="text-sm text-neutral-600 leading-relaxed">{item.label}</p>
@@ -446,7 +447,7 @@ export default function InvestorOverviewPage() {
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">The Solution</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Regenerative by Design
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -488,7 +489,7 @@ export default function InvestorOverviewPage() {
                 <MapPin className="w-4 h-4 inline mr-2 -mt-0.5" />
                 Property Deep Dive
               </span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 How 376 Acres Become a Community
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -568,7 +569,7 @@ export default function InvestorOverviewPage() {
             <FadeIn>
               <div>
                 <span className="eyebrow mb-4 block">Market Opportunity</span>
-                <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
                   Austin Is Ready
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-6">
@@ -589,7 +590,7 @@ export default function InvestorOverviewPage() {
               <div className="grid grid-cols-2 gap-4">
                 {MARKET_POINTS.map((item) => (
                   <div key={item.label} className="bg-canvas rounded-2xl p-6 text-center border border-neutral-100">
-                    <div className="font-display text-3xl font-bold text-primary-800 mb-2">{item.stat}</div>
+                    <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 mb-2">{item.stat}</div>
                     <p className="text-xs text-neutral-500 leading-relaxed font-accent">{item.label}</p>
                   </div>
                 ))}
@@ -605,7 +606,7 @@ export default function InvestorOverviewPage() {
           <FadeIn>
             <div className="text-center mb-6">
               <span className="eyebrow mb-3 block">Revenue Model</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Five Revenue Streams
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto mb-6">
@@ -658,7 +659,7 @@ export default function InvestorOverviewPage() {
                 <BarChart3 className="w-4 h-4 inline mr-2 -mt-0.5" />
                 Unit Economics
               </span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 The Math Per Unit
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -726,7 +727,7 @@ export default function InvestorOverviewPage() {
                 <span className="font-accent text-sm font-semibold uppercase tracking-widest text-secondary-400 mb-4 block">
                   Financial Highlights
                 </span>
-                <h2 className="font-display text-4xl md:text-5xl text-white mb-8">
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white mb-8">
                   The Numbers
                 </h2>
 
@@ -814,7 +815,7 @@ export default function InvestorOverviewPage() {
                 <Shield className="w-4 h-4 inline mr-2 -mt-0.5" />
                 Competitive Moat
               </span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Seven Layers of Protection
               </h2>
             </div>
@@ -844,7 +845,7 @@ export default function InvestorOverviewPage() {
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">Development Roadmap</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 10-Year Vision. 4 Phases.
               </h2>
             </div>
@@ -890,7 +891,7 @@ export default function InvestorOverviewPage() {
                 <TrendingUp className="w-4 h-4 inline mr-2 -mt-0.5" />
                 Cash Flow Trajectory
               </span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 From Capital to Returns
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -912,7 +913,7 @@ export default function InvestorOverviewPage() {
                       <div className="font-accent text-xs text-neutral-400">{item.years}</div>
                     </div>
                   </div>
-                  <div className={`font-display text-3xl font-bold ${item.color} mb-1`}>
+                  <div className={`font-display text-2xl md:text-3xl font-bold ${item.color} mb-1`}>
                     {item.fcf}
                   </div>
                   <div className="font-accent text-xs text-neutral-500">{item.status}</div>
@@ -972,7 +973,7 @@ export default function InvestorOverviewPage() {
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">Leadership</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Proven Operators
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
@@ -1013,7 +1014,7 @@ export default function InvestorOverviewPage() {
           <FadeIn>
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">Investor FAQ</span>
-              <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
+              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Common Questions
               </h2>
             </div>
@@ -1036,7 +1037,7 @@ export default function InvestorOverviewPage() {
             <div className="w-16 h-16 rounded-2xl bg-primary-100 flex items-center justify-center mx-auto mb-8">
               <FolderOpen className="w-8 h-8 text-primary-700" />
             </div>
-            <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-6">
+            <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-6">
               Ready for the Full Picture?
             </h2>
             <p className="text-lg text-neutral-600 max-w-2xl mx-auto mb-4">
@@ -1080,7 +1081,7 @@ export default function InvestorOverviewPage() {
       <section className="bg-primary-800 py-16 md:py-20">
         <div className="section-container text-center">
           <FadeIn>
-            <p className="font-display text-2xl md:text-3xl text-white max-w-3xl mx-auto leading-relaxed mb-6">
+            <p className="font-display text-xl md:text-2xl text-white max-w-3xl mx-auto leading-relaxed mb-6">
               &ldquo;The future of housing is regenerative. The future of Austin is Abundancia.&rdquo;
             </p>
             <p className="font-accent text-sm text-white/50 mb-8">
