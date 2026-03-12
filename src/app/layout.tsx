@@ -36,11 +36,20 @@ export const metadata: Metadata = {
     siteName: 'Abundancia Austin',
     locale: 'en_US',
     type: 'website',
+    images: [
+      {
+        url: '/images/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Abundancia Austin - 380 Acres of Regenerative Living in Bastrop County, TX',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Abundancia Austin - Regenerative Living in Harmony with Nature',
     description: 'A 380-acre regenerative community proving that profitable development and ecological regeneration amplify each other.',
+    images: ['/images/og-image.png'],
   },
 }
 
