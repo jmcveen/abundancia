@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
 import { Modal } from '@/components/ui/Modal'
 import { ArrowRight, Award, Building2, TreePine, Handshake, ExternalLink } from 'lucide-react'
@@ -69,6 +70,7 @@ const TRACK_RECORD = [
 const CORE_TEAM = [
   {
     name: 'Kelly Krezek',
+    photo: '/images/team/kelly-krezek.jpg',
     role: 'CEO, New Earth Development',
     bio: 'Visionary leader driving the regenerative development movement. Deep expertise in sustainable community design, investor relations, and project management across multiple eco-development projects.',
     expertise: ['Regenerative Development', 'Investor Relations', 'Community Design', 'Project Management'],
@@ -81,6 +83,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Joe McVeen',
+    photo: '/images/team/joe-mcveen.jpg',
     role: 'Marketing & Community',
     bio: 'Brand strategist and community builder with experience in purpose-driven marketing. Leads Abundancia\'s narrative and investor communications.',
     expertise: ['Brand Strategy', 'Community Building', 'Investor Communications', 'Digital Marketing'],
@@ -92,6 +95,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Gloria Merrick',
+    photo: '/images/team/gloria-merrick.jpg',
     role: 'Tiny Home Builder',
     bio: 'Specialist in compact, efficient living spaces. Brings hands-on construction experience and deep knowledge of tiny home design, materials, and Texas building codes.',
     expertise: ['Tiny Home Design', 'Efficient Construction', 'Texas Building Codes', 'Material Sourcing'],
@@ -103,6 +107,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Rohan Guyot-Sutherland',
+    photo: '/images/team/rohan-guyot-sutherland.jpg',
     role: 'Regenerative Systems',
     bio: 'Expert in permaculture design, renewable energy systems, and ecological restoration. Leads the integration of regenerative infrastructure across the community.',
     expertise: ['Permaculture Design', 'Renewable Energy', 'Ecological Restoration', 'Water Systems'],
@@ -115,6 +120,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Angele Miller',
+    photo: '/images/team/angele-miller.png',
     role: 'Glamping & Retreat Operations',
     bio: 'Experienced hospitality operator specializing in nature-based retreat experiences. Manages Abundancia\'s Phase 1 retreat center revenue engine.',
     expertise: ['Retreat Operations', 'Hospitality Management', 'Nature-Based Experiences', 'Revenue Strategy'],
@@ -126,6 +132,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Fred Haas PE',
+    photo: '/images/team/fred-haas.png',
     role: 'Civil Engineer',
     bio: 'Licensed professional engineer with extensive experience in land development, site infrastructure, utility systems, and regulatory compliance in Texas.',
     expertise: ['Civil Engineering', 'Land Development', 'Utility Systems', 'Regulatory Compliance'],
@@ -137,6 +144,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Lancelot Stukaloff',
+    photo: '/images/team/lancelot-stukaloff.png',
     role: 'Capital Markets',
     bio: 'Capital markets specialist with deep experience structuring real estate investment vehicles, investor relations, and fund management.',
     expertise: ['Capital Markets', 'Fund Structuring', 'Investor Relations', 'Real Estate Finance'],
@@ -159,6 +167,7 @@ const PARTNERS = [
   },
   {
     name: 'Jeff Hall',
+    photo: '/images/team/jeff-hall.jpg',
     org: 'Paragon Development',
     focus: 'Development Advisory',
     detail: 'Jeff Hall of Paragon Development provides strategic advisory on phased development execution, construction management, and risk mitigation. His experience with large-scale residential and mixed-use developments in Texas gives Abundancia access to proven playbooks.',
@@ -166,6 +175,7 @@ const PARTNERS = [
   },
   {
     name: 'Jodie & Can',
+    photo: '/images/team/jodie-and-can.jpg',
     org: 'Inphinity Design Architects',
     focus: 'Biophilic Architecture',
     detail: 'Inphinity Design Architects specialize in biophilic architecture — designing buildings that integrate natural systems, light, air, and living materials. They lead Abundancia\'s architectural vision, ensuring every structure embodies the Living Building Challenge principles.',
@@ -173,6 +183,7 @@ const PARTNERS = [
   },
   {
     name: 'Angie Gonzales',
+    photo: '/images/team/angie-gonzales.jpg',
     org: 'Independent',
     focus: 'Permaculture Design',
     detail: 'Angie is a certified permaculture designer who has planned food forests and agricultural systems across Central Texas. She leads the design of Abundancia\'s integrated food production landscape — from community gardens to perennial food forests.',
@@ -314,11 +325,17 @@ export default function TeamPage() {
                   onClick={() => setActiveTeamMember(member)}
                   className="card p-6 h-full text-left w-full cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-200 group"
                 >
-                  <div className="w-14 h-14 rounded-xl bg-primary-100 flex items-center justify-center mb-4 group-hover:bg-primary-200 transition-colors">
-                    <span className="font-display text-xl font-bold text-primary-700">
-                      {member.name.split(' ').map((n) => n[0]).join('')}
-                    </span>
-                  </div>
+                  {member.photo ? (
+                    <div className="w-16 h-16 rounded-xl overflow-hidden mb-4 ring-2 ring-primary-100 group-hover:ring-primary-300 transition-all">
+                      <Image src={member.photo} alt={member.name} width={64} height={64} className="w-full h-full object-cover" />
+                    </div>
+                  ) : (
+                    <div className="w-16 h-16 rounded-xl bg-primary-100 flex items-center justify-center mb-4 group-hover:bg-primary-200 transition-colors">
+                      <span className="font-display text-xl font-bold text-primary-700">
+                        {member.name.split(' ').map((n) => n[0]).join('')}
+                      </span>
+                    </div>
+                  )}
                   <h3 className="font-accent text-base font-semibold text-neutral-900 mb-1 group-hover:text-primary-700 transition-colors">
                     {member.name}
                   </h3>
@@ -461,6 +478,11 @@ export default function TeamPage() {
       >
         {activeTeamMember && (
           <div>
+            {activeTeamMember.photo && (
+              <div className="w-24 h-24 rounded-xl overflow-hidden mb-4 ring-2 ring-primary-100">
+                <Image src={activeTeamMember.photo} alt={activeTeamMember.name} width={96} height={96} className="w-full h-full object-cover" />
+              </div>
+            )}
             <p className="font-accent text-sm font-semibold text-primary-600 mb-4">{activeTeamMember.role}</p>
             <p className="text-neutral-600 leading-relaxed mb-6">{activeTeamMember.bio}</p>
 
