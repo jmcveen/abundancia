@@ -20,7 +20,7 @@ const PETALS = [
     name: 'Place',
     description: 'Restoring a healthy interrelationship with nature.',
     color: 'bg-green-500',
-    detail: 'Abundancia preserves over 90% of its 376 acres as native Lost Pines ecosystem, wildlife corridors, and restored habitat. Development is clustered into pods that minimize land disturbance while maximizing connection to nature. Every resident lives within a 2-minute walk of preserved wilderness, food forests, or restored waterways.',
+    detail: 'Abundancia preserves over 90% of its 380 acres as native Lost Pines ecosystem, wildlife corridors, and restored habitat. Development is clustered into pods that minimize land disturbance while maximizing connection to nature. Every resident lives within a 2-minute walk of preserved wilderness, food forests, or restored waterways.',
     link: '/data-room/view/property/site-assessment',
     linkLabel: 'View Site Assessment',
   },
@@ -60,7 +60,7 @@ const PETALS = [
     name: 'Equity',
     description: 'Supporting a just and equitable world.',
     color: 'bg-purple-500',
-    detail: 'Abundancia\'s housing mix ensures regenerative living is not reserved for the wealthy. Affordable condominiums, subsidized by commercial revenue streams, provide entry points for working families. Sociocratic governance gives every resident an equal voice. A community currency enables local economic participation beyond traditional income levels. Bastrop County residents receive priority access.',
+    detail: 'Abundancia\'s housing mix ensures regenerative living is not reserved for the wealthy. Affordable condominiums, subsidized by commercial revenue streams, provide entry points for working families. Sociocratic governance gives every resident an equal voice. A community currency enables local economic participation beyond traditional income levels. Local residents receive priority access.',
     link: '/story/community',
     linkLabel: 'Learn About Community Living',
   },
@@ -98,7 +98,7 @@ const REGEN_FEATURES = [
     icon: Bug,
     title: 'Biodiversity Regeneration',
     description: 'Lost Pines restoration, Houston toad habitat enhancement, native pollinator gardens, wildlife corridors.',
-    detail: 'Active biodiversity programs include Houston toad habitat enhancement (a federally endangered species native to Bastrop County), native pollinator gardens spanning 5+ acres, wildlife corridor connectivity to adjacent conservation lands, and a comprehensive invasive species management plan. Annual biodiversity audits track ecosystem health as a core community metric.',
+    detail: 'Active biodiversity programs include Houston toad habitat enhancement (a federally endangered species native to the region), native pollinator gardens spanning 5+ acres, wildlife corridor connectivity to adjacent conservation lands, and a comprehensive invasive species management plan. Annual biodiversity audits track ecosystem health as a core community metric.',
     dataRoomLink: '/data-room/view/property/environmental-compliance',
     linkLabel: 'View Environmental Compliance',
   },
@@ -143,7 +143,7 @@ const REGEN_FEATURES = [
     icon: TreePine,
     title: 'Reforestation',
     description: 'Native loblolly pine and post oak restoration — rebuilding the Lost Pines after the 2011 Bastrop wildfire.',
-    detail: 'The 2011 Bastrop County Complex wildfire burned 34,000 acres and destroyed 1,600 homes — the most destructive wildfire in Texas history. Abundancia\'s reforestation program plants thousands of native loblolly pines and post oaks annually, rebuilding the Lost Pines ecosystem that gives the region its identity. Fire-resistant hempcrete construction ensures the community itself is protected.',
+    detail: 'The 2011 Complex wildfire burned 34,000 acres and destroyed 1,600 homes — the most destructive wildfire in Texas history. Abundancia\'s reforestation program plants thousands of native loblolly pines and post oaks annually, rebuilding the Lost Pines ecosystem that gives the region its identity. Fire-resistant hempcrete construction ensures the community itself is protected.',
     dataRoomLink: '/data-room/view/property/environmental-compliance',
     linkLabel: 'View Environmental Report',
   },
@@ -515,7 +515,7 @@ export default function RegenerationPage() {
                 Lifting the Entire Region
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                Abundancia isn&apos;t just for residents — it creates affordable homes, healthy food access, jobs, education, and economic opportunity for the wider Bastrop County community.
+                Abundancia isn&apos;t just for residents — it creates affordable homes, healthy food access, jobs, education, and economic opportunity for the wider community.
               </p>
             </div>
           </FadeIn>

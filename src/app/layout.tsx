@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     default: 'Abundancia Austin — Regenerative Living in Harmony with Nature',
     template: '%s | Abundancia Austin',
   },
-  description: 'A 376-acre regenerative community in Cedar Creek, TX. Hempcrete homes, food forests, renewable energy, sacred spaces. $12.5M investment opportunity.',
+  description: 'A 380-acre regenerative community near Austin, TX. Hempcrete homes, food forests, renewable energy, sacred spaces. $12.5M investment opportunity.',
   keywords: [
     'regenerative community',
     'Austin Texas',
@@ -25,14 +25,14 @@ export const metadata: Metadata = {
     'eco community',
     'permaculture',
     'Living Building Challenge',
-    'Cedar Creek',
-    'Bastrop County',
+    
+    'Austin area',
   ],
   metadataBase: new URL('https://abundancia.life'),
   applicationName: 'Abundancia Austin',
   openGraph: {
     title: 'Abundancia Austin — Regenerative Living in Harmony with Nature',
-    description: 'A 376-acre regenerative community proving that profitable development and ecological regeneration amplify each other. $12.5M investment opportunity.',
+    description: 'A 380-acre regenerative community proving that profitable development and ecological regeneration amplify each other. $12.5M investment opportunity.',
     siteName: 'Abundancia Austin',
     locale: 'en_US',
     type: 'website',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Abundancia Austin — Regenerative Living in Harmony with Nature',
-    description: 'A 376-acre regenerative community proving that profitable development and ecological regeneration amplify each other.',
+    description: 'A 380-acre regenerative community proving that profitable development and ecological regeneration amplify each other.',
   },
 }
 

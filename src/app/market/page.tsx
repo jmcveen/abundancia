@@ -37,7 +37,7 @@ const TAM_SAM_SOM = [
     value: '$3B-$7B',
     description: 'Austin-area wellness, sustainable, and intentional communities. Our direct competitive landscape.',
     width: '25%',
-    detail: 'The Austin-San Antonio corridor represents one of the fastest-growing real estate markets in the US. Within this corridor, the addressable market for wellness, sustainable, and intentional community developments is estimated at $3-7 billion. This includes Whisper Valley ($2B+ total development value), Colony Park ($500M+), and emerging projects in Bastrop, Dripping Springs, and Cedar Creek. Abundancia targets initial capture of $435M (base case 10-year revenue) — approximately 6-15% of the SOM.',
+    detail: 'The Austin-San Antonio corridor represents one of the fastest-growing real estate markets in the US. Within this corridor, the addressable market for wellness, sustainable, and intentional community developments is estimated at $3-7 billion. This includes Whisper Valley ($2B+ total development value), Colony Park ($500M+), and emerging projects in the greater Austin area. Abundancia targets initial capture of $429M (base case 10-year revenue) — approximately 6-15% of the SOM.',
   },
 ]
 
@@ -61,14 +61,14 @@ const AUSTIN_DYNAMICS = [
     stat: '$435K+',
     label: 'Median Home Price',
     detail: 'Pricing families out of the core',
-    modalDetail: 'Austin median home prices have risen from $210K in 2015 to $435K+ in 2025 — a 107% increase in a decade. Core Austin (78701-78704 zip codes) now averages $650K+, pushing buyers toward suburban and exurban communities. Cedar Creek, at $300-400K median, represents a value proposition — 30 minutes from downtown with substantially lower price points. This pricing dynamic is exactly what drives demand for master-planned communities on Austin\'s periphery. The 30-minute commute radius has expanded significantly with remote/hybrid work adoption (62% of Austin tech workers).',
+    modalDetail: 'Austin median home prices have risen from $210K in 2015 to $435K+ in 2025 — a 107% increase in a decade. Core Austin (78701-78704 zip codes) now averages $650K+, pushing buyers toward suburban and exurban communities. Communities 30 minutes from downtown, at $300-400K median, represent a strong value proposition. This pricing dynamic is exactly what drives demand for master-planned communities on Austin\'s periphery. The 30-minute commute radius has expanded significantly with remote/hybrid work adoption (62% of Austin tech workers).',
   },
   {
     icon: Building2,
     stat: 'Tesla',
     label: '+ Apple, Google, Oracle',
     detail: 'Tech corridor job engine',
-    modalDetail: 'Austin\'s tech corridor stretches from downtown to the eastern suburbs, anchored by Tesla\'s Gigafactory (5 million SF, 20,000+ employees), Apple\'s $1B campus in North Austin (15,000 employees), Google\'s downtown tower (5,000+), Oracle\'s relocated HQ (10,000+), and Samsung\'s $17B fab plant in Taylor. This corporate migration has created a self-reinforcing talent loop — companies follow talent, talent follows companies. Cedar Creek sits along the SH-71 corridor connecting Austin to this eastern tech hub, making it an ideal commuter location for Gigafactory and Samsung workers.',
+    modalDetail: 'Austin\'s tech corridor stretches from downtown to the eastern suburbs, anchored by Tesla\'s Gigafactory (5 million SF, 20,000+ employees), Apple\'s $1B campus in North Austin (15,000 employees), Google\'s downtown tower (5,000+), Oracle\'s relocated HQ (10,000+), and Samsung\'s $17B fab plant in Taylor. This corporate migration has created a self-reinforcing talent loop — companies follow talent, talent follows companies. Abundancia sits along the corridor connecting Austin to this eastern tech hub, making it an ideal commuter location for Gigafactory and Samsung workers.',
   },
 ]
 
@@ -90,8 +90,8 @@ const DEMAND_SIGNALS = [
   },
   {
     stat: 'Remote',
-    description: 'Remote work has permanently expanded the viable commute radius. Cedar Creek\'s 30-minute distance is now mainstream.',
-    modalDetail: 'Stanford\'s WFH Research (Nick Bloom, 2024) shows remote/hybrid work has stabilized at 28% of US workdays — down from the pandemic peak but 4x pre-pandemic levels. In Austin\'s tech sector specifically, 62% of workers are hybrid or fully remote. This has fundamentally expanded the acceptable "commute radius" from 20 minutes to 45+ minutes, making Cedar Creek\'s 30-minute distance to downtown Austin not just viable but attractive. Comparable communities in the 25-35 minute range (Dripping Springs, Bee Cave, Lago Vista) have seen 35-50% price appreciation since 2020, validating this structural shift.',
+    description: 'Remote work has permanently expanded the viable commute radius. A 30-minute distance from Austin is now mainstream.',
+    modalDetail: 'Stanford\'s WFH Research (Nick Bloom, 2024) shows remote/hybrid work has stabilized at 28% of US workdays — down from the pandemic peak but 4x pre-pandemic levels. In Austin\'s tech sector specifically, 62% of workers are hybrid or fully remote. This has fundamentally expanded the acceptable "commute radius" from 20 minutes to 45+ minutes, making a 30-minute distance to downtown Austin not just viable but attractive. Comparable communities in the 25-35 minute range (Dripping Springs, Bee Cave, Lago Vista) have seen 35-50% price appreciation since 2020, validating this structural shift.',
   },
 ]
 
@@ -125,11 +125,11 @@ const COMPARABLES = [
   {
     name: 'Cosmos Ranch',
     type: 'Intentional Community',
-    location: 'Bastrop',
+    location: 'Austin Area',
     units: '~50',
     priceRange: '$400K-$800K',
     differentiator: 'Small scale. No commercial amenities, no retreat center, limited infrastructure.',
-    modalDetail: 'Cosmos Ranch is a small-scale intentional community in Bastrop County, approximately 40 minutes from Austin. It represents the "intentional community" end of the spectrum. What they have: strong community ethos, natural setting, shared values governance, organic gardens. What they lack: scale for commercial viability, professional management infrastructure, hospitality/retreat revenue, hempcrete construction, renewable energy grid, food sovereignty at community scale, affordable entry-level housing. At ~50 units and $400K-$800K pricing, Cosmos Ranch serves a niche audience. Abundancia operates at 8x the scale (665 structures) with a full commercial ecosystem, enabling amenities and infrastructure that small intentional communities cannot support.',
+    modalDetail: 'Cosmos Ranch is a small-scale intentional community approximately 40 minutes from Austin. It represents the "intentional community" end of the spectrum. What they have: strong community ethos, natural setting, shared values governance, organic gardens. What they lack: scale for commercial viability, professional management infrastructure, hospitality/retreat revenue, hempcrete construction, renewable energy grid, food sovereignty at community scale, affordable entry-level housing. At ~50 units and $400K-$800K pricing, Cosmos Ranch serves a niche audience. Abundancia operates at 8x the scale (665 structures) with a full commercial ecosystem, enabling amenities and infrastructure that small intentional communities cannot support.',
     features: {
       has: ['Community governance', 'Natural setting', 'Shared values', 'Organic gardens', 'Strong community bonds'],
       lacks: ['Commercial scale', 'Professional management', 'Retreat/hospitality', 'Hempcrete construction', 'Energy grid', 'Affordable housing', 'Food sovereignty at scale'],
@@ -156,7 +156,7 @@ const WELLNESS_TOURISM_STATS = [
   {
     stat: 'Austin',
     label: 'Emerging Wellness Hub',
-    modalDetail: 'Austin is rapidly establishing itself as a wellness destination. Key indicators: 45+ yoga studios downtown (3x growth since 2018), 12 major wellness retreat venues within 60 miles, annual Austin Wellness Festival (15,000+ attendees), and a thriving organic/natural foods scene anchored by Whole Foods HQ (founded in Austin). Austin Convention & Visitors Bureau reports "wellness" as the #3 search term for Austin travel planning, behind "live music" and "food." Cedar Creek\'s proximity to Austin (30 min) and Bastrop State Park positions Abundancia as both a destination retreat and an accessible day-trip wellness experience.',
+    modalDetail: 'Austin is rapidly establishing itself as a wellness destination. Key indicators: 45+ yoga studios downtown (3x growth since 2018), 12 major wellness retreat venues within 60 miles, annual Austin Wellness Festival (15,000+ attendees), and a thriving organic/natural foods scene anchored by Whole Foods HQ (founded in Austin). Austin Convention & Visitors Bureau reports "wellness" as the #3 search term for Austin travel planning, behind "live music" and "food." Abundancia\'s proximity to Austin (30 min) positions it as both a destination retreat and an accessible day-trip wellness experience.',
   },
 ]
 
@@ -394,7 +394,7 @@ export default function MarketPage() {
                   <tr className="bg-primary-50/50">
                     <td className="font-accent text-sm font-bold text-primary-800 py-4 px-3">Abundancia</td>
                     <td className="text-sm font-semibold text-primary-700 py-4 px-3">Regenerative Community</td>
-                    <td className="text-sm text-primary-700 py-4 px-3">Cedar Creek</td>
+                    <td className="text-sm text-primary-700 py-4 px-3">Greater Austin</td>
                     <td className="text-sm text-primary-700 py-4 px-3">420+</td>
                     <td className="text-sm text-primary-700 py-4 px-3">$200K-$625K</td>
                     <td className="text-sm font-semibold text-primary-800 py-4 px-3">Full ecosystem — first of its kind</td>

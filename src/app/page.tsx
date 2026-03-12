@@ -99,8 +99,8 @@ const HIGHLIGHTS = [
     icon: Leaf,
     title: '90%+ Land Preserved',
     description: 'Conservation-forward design preserves the Lost Pines ecosystem while enhancing Houston toad habitat.',
-    detail: 'With a development footprint of only ~4% (16 acres), over 90% of the 376-acre property is preserved as natural habitat, food forests, and regenerative agriculture. This conservation-forward approach preserves the Lost Pines ecosystem — one of the most ecologically significant regions in Texas — and enhances habitat for the endangered Houston toad. Conservation easements provide significant tax benefits while permanently protecting the land.',
-    specs: ['360+ acres preserved', 'Houston toad habitat', 'Lost Pines ecosystem', 'Conservation easements', 'Tax benefit eligible'],
+    detail: 'With a development footprint of only ~4%, over 90% of the 380-acre property is preserved as natural habitat, food forests, and regenerative agriculture. This conservation-forward approach preserves a unique ecosystem and enhances habitat for endangered species. Conservation easements provide significant tax benefits while permanently protecting the land.',
+    specs: ['340+ acres preserved', 'Houston toad habitat', 'Lost Pines ecosystem', 'Conservation easements', 'Tax benefit eligible'],
     link: '/data-room/view/property/environmental-compliance',
     modalKey: 'conservation',
   },
@@ -135,7 +135,7 @@ export default function HomePage() {
               <div className="inline-flex items-center gap-3 mb-8">
                 <div className="w-px h-4 bg-[#ceb78e]" />
                 <span className="font-accent text-xs text-white uppercase tracking-[0.25em]">
-                  376 Acres &middot; Cedar Creek, TX &middot; 30 min from Austin
+                  380 Acres &middot; Greater Austin, TX
                 </span>
               </div>
             </FadeIn>
@@ -176,7 +176,7 @@ export default function HomePage() {
       <section className="bg-white border-b border-black/[0.04] py-16 md:py-20">
         <div className="section-container">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-10 md:gap-4">
-            <AnimatedStat target={376} suffix=" Acres" label="Texas Ranchland" />
+            <AnimatedStat target={380} suffix=" Acres" label="Texas Ranchland" />
             <AnimatedStat target={12.5} suffix="M" prefix="$" label="Capital Raise" decimals={1} />
             <AnimatedStat target={metrics.irr} suffix="%" label="Projected IRR" decimals={1} />
             <AnimatedStat target={500} suffix="+" label="Year Building Lifespan" />

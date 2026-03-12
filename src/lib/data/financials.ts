@@ -31,7 +31,7 @@ export const KEY_METRICS: Record<Scenario, {
 
 // ─── Unit Mix ────────────────────────────────────────────────────────────
 // Source: Financial Model Main Inputs → Summary table
-// 665 total structures across the 376-acre development
+// 665 total structures across the 380-acre development
 
 export const UNIT_MIX = [
   { type: 'Single-Family Homes', count: 100, avgPrice: 450_000, avgSF: 2_475, avgNightly: 0, revenue10yr: 0 },

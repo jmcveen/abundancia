@@ -31,7 +31,7 @@ const FAQ_SECTIONS = [
     faqs: [
       {
         q: 'What is Abundancia?',
-        a: 'Abundancia is a 376-acre regenerative community in Cedar Creek, Bastrop County — 30 minutes from downtown Austin, Texas. It integrates hempcrete homes, food forests, renewable energy, sacred spaces, and commercial amenities into a complete ecosystem designed for regenerative living.',
+        a: 'Abundancia is a 380-acre regenerative community in the greater Austin, Texas area. It integrates hempcrete homes, food forests, renewable energy, sacred spaces, and commercial amenities into a complete ecosystem designed for regenerative living.',
         links: [
           { text: 'Explore the Land', href: '/story/land' },
           { text: 'Regenerative Vision', href: '/story/regeneration' },
@@ -39,7 +39,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'Where exactly is it?',
-        a: 'Cedar Creek, TX 78612 — along the SH 71 corridor in Bastrop County. The property is approximately 30 minutes from downtown Austin, with direct access via SH 71 and SH 130. The location sits in Austin\'s southeastern growth corridor, benefiting from the city\'s rapid expansion while maintaining the natural beauty and regulatory advantages of Bastrop County.',
+        a: 'The property is located in the greater Austin area, approximately 30 minutes from downtown. Exact location details are available to qualified investors in our data room.',
         links: [
           { text: 'Learn About the Land', href: '/story/land' },
         ],
@@ -170,7 +170,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'What about the Houston toad?',
-        a: 'The Lost Pines ecoregion is home to the endangered Houston toad. Abundancia\'s conservation-forward design preserves over 90% of the land, actively enhancing habitat through native planting, water feature management, and corridor connectivity — aligned with the Bastrop County LPHCP. Our approach transforms regulatory compliance into ecological enhancement.',
+        a: 'The Lost Pines ecoregion is home to the endangered Houston toad. Abundancia\'s conservation-forward design preserves over 90% of the land, actively enhancing habitat through native planting, water feature management, and corridor connectivity — aligned with local habitat conservation plans. Our approach transforms regulatory compliance into ecological enhancement.',
         links: [
           { text: 'Land Story', href: '/story/land' },
         ],
@@ -179,7 +179,7 @@ const FAQ_SECTIONS = [
   },
   {
     id: 'about-austin-bastrop',
-    title: 'About Austin & Bastrop County',
+    title: 'About Austin & the Region',
     faqs: [
       {
         q: 'Why Austin?',
@@ -189,7 +189,7 @@ const FAQ_SECTIONS = [
         ],
       },
       {
-        q: 'What are the advantages of Bastrop County?',
+        q: 'What are the advantages of the location?',
         a: 'No zoning restrictions (build by right), 6-12 month permitting (vs 18-24 months in Austin), agricultural exemption reducing holding costs, MUD bond financing available, and location in the Austin growth corridor. These regulatory advantages translate directly to faster development timelines and lower costs.',
         links: [
           { text: 'View Investment Thesis', href: '/invest' },
