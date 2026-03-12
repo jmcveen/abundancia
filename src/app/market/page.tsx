@@ -61,7 +61,7 @@ const AUSTIN_DYNAMICS = [
     stat: '$435K+',
     label: 'Median Home Price',
     detail: 'Pricing families out of the core',
-    modalDetail: 'Austin median home prices have risen from $210K in 2015 to $435K+ in 2025 — a 107% increase in a decade. Core Austin (78701-78704 zip codes) now averages $650K+, pushing buyers toward suburban and exurban communities. Communities 30 minutes from downtown, at $300-400K median, represent a strong value proposition. This pricing dynamic is exactly what drives demand for master-planned communities on Austin\'s periphery. The 30-minute commute radius has expanded significantly with remote/hybrid work adoption (62% of Austin tech workers).',
+    modalDetail: 'Austin median home prices have risen from $210K in 2015 to $435K+ in 2025 — a 107% increase in a decade. Core Austin (78701-78704 zip codes) now averages $650K+, pushing buyers toward suburban and exurban communities. Bastrop County, at $300-400K median, represent a strong value proposition. This pricing dynamic is exactly what drives demand for master-planned communities on Austin\'s periphery. The 30-minute commute radius has expanded significantly with remote/hybrid work adoption (62% of Austin tech workers).',
   },
   {
     icon: Building2,
@@ -125,7 +125,7 @@ const COMPARABLES = [
   {
     name: 'Cosmos Ranch',
     type: 'Intentional Community',
-    location: 'Austin Area',
+    location: 'Bastrop County',
     units: '~50',
     priceRange: '$400K-$800K',
     differentiator: 'Small scale. No commercial amenities, no retreat center, limited infrastructure.',

@@ -93,7 +93,7 @@ const WHY_LOCATION = [
     description: 'Agricultural exemption dramatically reduces holding costs during development. The 380-acre site qualifies.',
     detail: [
       'The 380-acre Abundancia property qualifies for Texas agricultural exemption, which values the land based on agricultural productivity rather than market value. This reduces the assessed value from approximately $15-20K per acre (market) to $200-400 per acre (agricultural), cutting annual property taxes by over 95% during the development period.',
-      'The combined county tax rate of approximately $0.98 per $100 of assessed value is also significantly lower than Austin\'s rate of $1.85-2.20. Even after development, Abundancia homeowners benefit from lower base tax rates — though the MUD bond overlay will add a special assessment for infrastructure debt service.',
+      'The combined Bastrop County tax rate of approximately $0.98 per $100 of assessed value is also significantly lower than Austin\'s rate of $1.85-2.20. Even after development, Abundancia homeowners benefit from lower base tax rates — though the MUD bond overlay will add a special assessment for infrastructure debt service.',
       'The agricultural exemption can be maintained on the 90%+ of the site designated as conservation and agricultural land even after the development parcels are subdivided, providing ongoing tax benefits that enhance the long-term economics of the project.',
     ],
     link: '/data-room/view/investment/executive-summary',
@@ -106,7 +106,7 @@ const WHY_LOCATION = [
     detail: [
       'The Abundancia property has direct highway access to downtown Austin in approximately 30 minutes. Multiple major highways provide alternative routes and direct access to Austin-Bergstrom International Airport in under 25 minutes.',
       'The eastern growth corridor is the primary expansion vector for the Austin metro. TxDOT has invested billions in capacity improvements, and the corridor is planned for continued widening and improvement over the next decade. This infrastructure investment supports both commuter access and long-term property value appreciation.',
-      'The property is positioned at the convergence of Austin\'s growth wave and favorable county regulatory advantages — close enough for daily commuting, but far enough to capture the benefits of unincorporated county land.',
+      'The property is positioned at the convergence of Austin\'s growth wave and Bastrop County regulatory advantages — close enough for daily commuting, but far enough to capture the benefits of unincorporated county land.',
     ],
     link: '/data-room/view/research/market-research-report',
     linkLabel: 'View Location Analysis',
@@ -142,7 +142,7 @@ const PROPERTY_FEATURES = [
     icon: Landmark,
     title: '1870 Historic Guest House',
     description: '2,000 SF historic structure — one of the oldest in the county. Character asset for events and heritage tourism.',
-    detail: 'Dating to approximately 1870, this 2,000 SF structure is one of the oldest surviving buildings in the county. The historic guest house provides irreplaceable character and authenticity — a tangible connection to the region\'s heritage that cannot be replicated by new construction. Planned uses include a boutique event venue, heritage tourism attraction, and community gathering space. The structure may qualify for historic preservation tax credits, and its story adds marketing value that differentiates Abundancia from generic new developments.',
+    detail: 'Dating to approximately 1870, this 2,000 SF structure is one of the oldest surviving buildings in Bastrop County. The historic guest house provides irreplaceable character and authenticity — a tangible connection to the region\'s heritage that cannot be replicated by new construction. Planned uses include a boutique event venue, heritage tourism attraction, and community gathering space. The structure may qualify for historic preservation tax credits, and its story adds marketing value that differentiates Abundancia from generic new developments.',
     link: '/data-room/view/property/site-assessment',
     linkLabel: 'Historic Structures',
   },
@@ -222,10 +222,10 @@ export default function LandPage() {
               The Land
             </span>
             <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-white mb-6 max-w-4xl">
-              380 Acres Near Austin, Texas
+              380 Acres in Bastrop County
             </h1>
             <p className="text-xl text-white/80 max-w-3xl leading-relaxed">
-              Near Austin, Texas — 30 minutes from downtown. A rare assemblage of water, mature trees, existing structures, and agricultural exemption in the fastest-growing metro in America.
+              Bastrop County — 30 minutes from downtown Austin. A rare assemblage of water, mature trees, existing structures, and agricultural exemption in the fastest-growing metro in America.
             </p>
           </FadeIn>
 
@@ -628,7 +628,7 @@ export default function LandPage() {
                   No Zoning. No Barriers.
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-6">
-                  The county&apos;s lack of zoning is a decisive competitive advantage. While conventional Austin developments spend 18-24 months navigating rezoning hearings, neighborhood opposition, and political risk, Abundancia can build innovative mixed-use design by right.
+                  Bastrop County&apos;s lack of zoning is a decisive competitive advantage. While conventional Austin developments spend 18-24 months navigating rezoning hearings, neighborhood opposition, and political risk, Abundancia can build innovative mixed-use design by right.
                 </p>
                 <p className="text-lg text-neutral-600 leading-relaxed">
                   Texas has also adopted hempcrete building codes (IRC 2024, Appendix BA for hemp-lime construction and Appendix Q for tiny homes), removing what was historically the biggest regulatory barrier to natural building materials.
@@ -640,7 +640,7 @@ export default function LandPage() {
               <div className="space-y-4">
                 <div className="card p-5">
                   <div className="flex items-center justify-between mb-3">
-                    <span className="font-accent text-sm font-semibold text-neutral-900">Our County</span>
+                    <span className="font-accent text-sm font-semibold text-neutral-900">Bastrop County</span>
                     <span className="font-accent text-xs text-primary-600 bg-primary-50 px-2 py-1 rounded-full">Abundancia</span>
                   </div>
                   <div className="w-full bg-primary-100 rounded-full h-3 mb-2">

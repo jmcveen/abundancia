@@ -60,7 +60,7 @@ const PETALS = [
     name: 'Equity',
     description: 'Supporting a just and equitable world.',
     color: 'bg-purple-500',
-    detail: 'Abundancia\'s housing mix ensures regenerative living is not reserved for the wealthy. Affordable condominiums, subsidized by commercial revenue streams, provide entry points for working families. Sociocratic governance gives every resident an equal voice. A community currency enables local economic participation beyond traditional income levels. Local residents receive priority access.',
+    detail: 'Abundancia\'s housing mix ensures regenerative living is not reserved for the wealthy. Affordable condominiums, subsidized by commercial revenue streams, provide entry points for working families. Sociocratic governance gives every resident an equal voice. A community currency enables local economic participation beyond traditional income levels. Bastrop County residents receive priority access.',
     link: '/story/community',
     linkLabel: 'Learn About Community Living',
   },
@@ -98,7 +98,7 @@ const REGEN_FEATURES = [
     icon: Bug,
     title: 'Biodiversity Regeneration',
     description: 'Lost Pines restoration, Houston toad habitat enhancement, native pollinator gardens, wildlife corridors.',
-    detail: 'Active biodiversity programs include Houston toad habitat enhancement (a federally endangered species native to the region), native pollinator gardens spanning 5+ acres, wildlife corridor connectivity to adjacent conservation lands, and a comprehensive invasive species management plan. Annual biodiversity audits track ecosystem health as a core community metric.',
+    detail: 'Active biodiversity programs include Houston toad habitat enhancement (a federally endangered species native to Bastrop County), native pollinator gardens spanning 5+ acres, wildlife corridor connectivity to adjacent conservation lands, and a comprehensive invasive species management plan. Annual biodiversity audits track ecosystem health as a core community metric.',
     dataRoomLink: '/data-room/view/property/environmental-compliance',
     linkLabel: 'View Environmental Compliance',
   },
@@ -515,7 +515,7 @@ export default function RegenerationPage() {
                 Lifting the Entire Region
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                Abundancia isn&apos;t just for residents — it creates affordable homes, healthy food access, jobs, education, and economic opportunity for the wider community.
+                Abundancia isn&apos;t just for residents — it creates affordable homes, healthy food access, jobs, education, and economic opportunity for the wider Bastrop County community.
               </p>
             </div>
           </FadeIn>

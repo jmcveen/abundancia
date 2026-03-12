@@ -48,7 +48,7 @@ export function Footer() {
               </div>
             </div>
             <p className="text-sm text-white/70 leading-relaxed max-w-xs">
-              Regenerative living in harmony with nature. A 380-acre community near Austin proving that profitable development and ecological regeneration amplify each other.
+              Regenerative living in harmony with nature. A 380-acre community in Bastrop County proving that profitable development and ecological regeneration amplify each other.
             </p>
           </div>
 

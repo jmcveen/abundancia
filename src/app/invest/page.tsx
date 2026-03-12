@@ -165,8 +165,8 @@ const CAPITAL_HIGHLIGHTS = [
 
 const MOAT_LAYERS = [
   { title: 'First Hempcrete Community in Austin', description: 'No comparable product exists in the fastest-growing metro in America.' },
-  { title: '380 Acres in the Path of Growth', description: 'Greater Austin area, 30 min from downtown. Land at this scale cannot be replicated.' },
-  { title: 'Regulatory Advantage', description: 'Favorable regulatory environment. Hempcrete codes adopted in Texas. 6-12 month permitting timeline.' },
+  { title: '380 Acres in the Path of Growth', description: 'Bastrop County, 30 min from downtown Austin. Land at this scale cannot be replicated.' },
+  { title: 'Regulatory Advantage', description: 'No zoning in Bastrop County. Hempcrete codes adopted in Texas. 6-12 month timeline vs 18-24 in Austin.' },
   { title: 'Conservation Ecosystem', description: '90%+ land preserved with tax-advantaged easements. Exceeds LPHCP environmental requirements.' },
   { title: 'Proven Team', description: '$755M+ raised for real estate projects. 200+ transactions. 70+ eco communities analyzed.' },
   { title: 'Diversified Revenue', description: 'Four streams across residential, commercial, rental, and lots.' },
