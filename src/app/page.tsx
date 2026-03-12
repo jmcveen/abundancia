@@ -43,7 +43,7 @@ const IMAGINE_CARDS = [
   {
     image: '/images/website/02-basic-needs-provided.jpeg',
     text: 'All of your basic needs are provided...',
-    detail: 'Food forests, renewable energy, and water security systems ensure every resident has access to clean food, power, and water — without dependence on fragile supply chains.',
+    detail: 'Food forests, renewable energy, and water security systems ensure every resident has access to clean food, power, and water - without dependence on fragile supply chains.',
     link: '/story/regeneration',
   },
   {
@@ -55,7 +55,7 @@ const IMAGINE_CARDS = [
   {
     image: '/images/website/04-regenerative-buildings-in-harmony.png',
     text: 'Regenerative buildings are in harmony with nature...',
-    detail: 'Hempcrete construction sequesters carbon, regulates humidity naturally, and creates the healthiest indoor air quality available — homes that heal the environment as they shelter you.',
+    detail: 'Hempcrete construction sequesters carbon, regulates humidity naturally, and creates the healthiest indoor air quality available - homes that heal the environment as they shelter you.',
     link: '/story/community',
   },
   {
@@ -120,7 +120,7 @@ export default function HomePage() {
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
         <Image
           src="/images/website/01-hero-where-dreams-become-reality.png"
-          alt="Abundancia Austin — Regenerative Community"
+          alt="Abundancia Austin - Regenerative Community"
           fill
           className="object-cover"
           priority
@@ -440,7 +440,7 @@ export default function HomePage() {
               Be Part of the Future
             </h2>
             <p className="text-lg text-neutral-600 max-w-xl mx-auto mb-8">
-              Whether you&apos;re looking for a home, an investment, or a new way of living — your journey starts here.
+              Whether you&apos;re looking for a home, an investment, or a new way of living - your journey starts here.
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
               <Link href="/waitlist" className="btn-primary btn-lg rounded-2xl text-base group">

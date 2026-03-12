@@ -101,19 +101,19 @@ const FUND_DETAILS: Record<string, { description: string; lineItems: { item: str
 }
 
 const WATERFALL_EXPLANATIONS: Record<string, { plain: string; example: string }> = {
-  'Tier 1 — Return of Capital': {
+  'Tier 1 - Return of Capital': {
     plain: 'Initial sales fund development up to the approved budget plus a 10% reserve. Proceeds are distributed 80% LP / 20% GP until investor principal is fully repaid.',
     example: 'If you invest $250,000, proceeds are split 80/20 until you receive your full $250,000 back.',
   },
-  'Tier 2 — 12% IRR': {
+  'Tier 2 - 12% IRR': {
     plain: 'Once principal is repaid and a 12% IRR to LP is reached, profits are distributed 70% LP / 30% GP. The GP begins to participate more meaningfully in the upside.',
     example: 'After your capital is returned with a 12% IRR, 70% of additional distributions flow to you as LP.',
   },
-  'Tier 3 — 15% IRR': {
+  'Tier 3 - 15% IRR': {
     plain: 'At a 15% IRR to LP, the split shifts to 60% LP / 40% GP. The increasing GP share rewards the management team for outperformance.',
     example: 'Once your returns exceed 15% IRR, 60% of additional distributions flow to you as LP.',
   },
-  'Tier 4 — 18% IRR': {
+  'Tier 4 - 18% IRR': {
     plain: 'At an 18% IRR to LP, profits are split 50/50 until the agreed term is reached. At this level, the project has far exceeded expectations.',
     example: 'Above 18% IRR, LPs and GP split 50/50 for the remaining term.',
   },
@@ -263,7 +263,7 @@ function FinancialsContent() {
       <Modal
         open={waterfallModal !== null}
         onClose={() => setWaterfallModal(null)}
-        title={waterfallModal ? `${waterfallModal} — How It Works` : ''}
+        title={waterfallModal ? `${waterfallModal} - How It Works` : ''}
         size="md"
       >
         {waterfallModal && WATERFALL_EXPLANATIONS[waterfallModal] && (

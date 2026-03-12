@@ -45,7 +45,7 @@ const UNIT_DETAILS: Record<string, {
     timeline: 'Phase 2–4 (Years 2–7)',
   },
   'Lots': {
-    description: 'Prepared lots with full infrastructure — roads, utilities, water, and fiber internet — for owners who want to build custom hempcrete homes. All builds must comply with Abundancia design guidelines and regenerative building standards.',
+    description: 'Prepared lots with full infrastructure - roads, utilities, water, and fiber internet - for owners who want to build custom hempcrete homes. All builds must comply with Abundancia design guidelines and regenerative building standards.',
     targetBuyer: 'Custom home builders, investors, and families who want full control over their home design within a regenerative community framework.',
     priceRange: '$250K – $450K',
     timeline: 'Phase 1–4 (Years 1–7)',
@@ -71,7 +71,7 @@ const INVESTMENT_HIGHLIGHTS = [
     title: 'Five Revenue Streams',
     modalKey: 'revenue',
     brief: 'Residential sales, rental income, lot sales, commercial leasing, and retreat center.',
-    detail: 'Abundancia generates revenue through four diversified streams, reducing dependence on any single source:\n\n1. Residential Sales — $362M over 10 years from home and condo sales\n2. Rental Income — $43.6M from 125 rental units (75 condos + 50 special rentals)\n3. Lot Sales — $15.4M from 100 prepared lots\n4. Commercial Leasing — $7.8M from retail, co-working, and wellness spaces\n\nThis diversification provides financial resilience across market cycles.',
+    detail: 'Abundancia generates revenue through four diversified streams, reducing dependence on any single source:\n\n1. Residential Sales - $362M over 10 years from home and condo sales\n2. Rental Income - $43.6M from 125 rental units (75 condos + 50 special rentals)\n3. Lot Sales - $15.4M from 100 prepared lots\n4. Commercial Leasing - $7.8M from retail, co-working, and wellness spaces\n\nThis diversification provides financial resilience across market cycles.',
     link: '/model',
     linkLabel: 'Explore Business Model',
   },
@@ -125,7 +125,7 @@ export default function OverviewPage() {
               Abundancia Austin at a Glance
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
-              A 380-acre regenerative community in Bastrop County — 30 minutes from downtown Austin — 30 minutes from downtown. $12.5M capital raise targeting {metrics.irr}% IRR with hempcrete homes, food forests, renewable energy, and sacred spaces.
+              A 380-acre regenerative community in Bastrop County - 30 minutes from downtown Austin - 30 minutes from downtown. $12.5M capital raise targeting {metrics.irr}% IRR with hempcrete homes, food forests, renewable energy, and sacred spaces.
             </p>
           </FadeIn>
         </div>
@@ -156,13 +156,13 @@ export default function OverviewPage() {
               </h2>
               <div className="prose prose-lg text-neutral-600 space-y-4">
                 <p>
-                  <strong>Abundancia</strong> is a mixed-use regenerative community designed to prove that profitable real estate development and ecological regeneration amplify each other. Built with hempcrete — carbon-negative, fire-resistant homes that last 500+ years — the community integrates renewable energy, water security, food forests, and sacred spaces.
+                  <strong>Abundancia</strong> is a mixed-use regenerative community designed to prove that profitable real estate development and ecological regeneration amplify each other. Built with hempcrete - carbon-negative, fire-resistant homes that last 500+ years - the community integrates renewable energy, water security, food forests, and sacred spaces.
                 </p>
                 <p>
                   Located on 380 acres in Bastrop County, the project benefits from Austin&apos;s explosive growth (50-60K new residents/year), no zoning restrictions, agricultural exemption, and Texas hempcrete building codes. Four diversified revenue streams across residential sales, rental income, lot sales, and commercial leasing provide financial resilience.
                 </p>
                 <p>
-                  The $12.5M capital raise funds the complete vision — land acquisition, Phase 1 construction, retreat center launch, and infrastructure. Revenue generation begins in Phase 1 through retreat operations and first home sales. LP-favorable waterfall with 8% preferred return and full capital return priority.
+                  The $12.5M capital raise funds the complete vision - land acquisition, Phase 1 construction, retreat center launch, and infrastructure. Revenue generation begins in Phase 1 through retreat operations and first home sales. LP-favorable waterfall with 8% preferred return and full capital return priority.
                 </p>
               </div>
               <div className="mt-8">
@@ -387,7 +387,7 @@ export default function OverviewPage() {
               Join the Movement
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
-              Whether you&apos;re an investor, future resident, or simply believe in regenerative living — your journey starts here.
+              Whether you&apos;re an investor, future resident, or simply believe in regenerative living - your journey starts here.
             </p>
           </FadeIn>
           <FadeIn delay={0.2}>

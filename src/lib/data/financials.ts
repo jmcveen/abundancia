@@ -1,5 +1,5 @@
 // ═══════════════════════════════════════════════════════════════════════════
-// Financial Data — Abundancia Austin
+// Financial Data - Abundancia Austin
 // Source: Financial Model Spreadsheet (3. Financial Model) + Investor Deck
 // Capital Raise: $12.5M | IRR: 37.12% | EMx: 4.42x
 // Updated: 2026-03-11 from Simple Pro Forma & Main Inputs tabs
@@ -125,12 +125,12 @@ export const USE_OF_FUNDS = [
 ]
 
 // ─── Waterfall Distribution ──────────────────────────────────────────────
-// Source: Investor Deck slide 30 — Investment Opportunity Terms
+// Source: Investor Deck slide 30 - Investment Opportunity Terms
 // LP-favorable structure with IRR-based tier progression
 
 export const WATERFALL = [
-  { tier: 'Tier 1 — Return of Capital', lpSplit: 80, gpSplit: 20, threshold: 'Until principal repaid' },
-  { tier: 'Tier 2 — 12% IRR', lpSplit: 70, gpSplit: 30, threshold: '12% IRR to LP' },
-  { tier: 'Tier 3 — 15% IRR', lpSplit: 60, gpSplit: 40, threshold: '15% IRR to LP' },
-  { tier: 'Tier 4 — 18% IRR', lpSplit: 50, gpSplit: 50, threshold: '18% IRR to LP' },
+  { tier: 'Tier 1 - Return of Capital', lpSplit: 80, gpSplit: 20, threshold: 'Until principal repaid' },
+  { tier: 'Tier 2 - 12% IRR', lpSplit: 70, gpSplit: 30, threshold: '12% IRR to LP' },
+  { tier: 'Tier 3 - 15% IRR', lpSplit: 60, gpSplit: 40, threshold: '15% IRR to LP' },
+  { tier: 'Tier 4 - 18% IRR', lpSplit: 50, gpSplit: 50, threshold: '18% IRR to LP' },
 ]

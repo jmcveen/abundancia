@@ -19,7 +19,7 @@ const TAM_SAM_SOM = [
     tier: 'TAM',
     label: 'Total Addressable Market',
     value: '$1.54T',
-    description: 'Global wellness real estate market — the intersection of real estate and the wellness economy.',
+    description: 'Global wellness real estate market - the intersection of real estate and the wellness economy.',
     width: '100%',
     detail: 'The Global Wellness Institute values the wellness real estate sector at $1.54 trillion as of 2023, growing at 16.1% CAGR. This encompasses properties that intentionally incorporate elements of health and well-being into their design, materials, services, and programming. Key growth segments include residential wellness communities (+18% CAGR), wellness hospitality (+14% CAGR), and workplace wellness environments (+12% CAGR). By 2028, the market is projected to exceed $2.7 trillion.',
   },
@@ -37,7 +37,7 @@ const TAM_SAM_SOM = [
     value: '$3B-$7B',
     description: 'Austin-area wellness, sustainable, and intentional communities. Our direct competitive landscape.',
     width: '25%',
-    detail: 'The Austin-San Antonio corridor represents one of the fastest-growing real estate markets in the US. Within this corridor, the addressable market for wellness, sustainable, and intentional community developments is estimated at $3-7 billion. This includes Whisper Valley ($2B+ total development value), Colony Park ($500M+), and emerging projects in the greater Austin area. Abundancia targets initial capture of $429M (base case 10-year revenue) — approximately 6-15% of the SOM.',
+    detail: 'The Austin-San Antonio corridor represents one of the fastest-growing real estate markets in the US. Within this corridor, the addressable market for wellness, sustainable, and intentional community developments is estimated at $3-7 billion. This includes Whisper Valley ($2B+ total development value), Colony Park ($500M+), and emerging projects in the greater Austin area. Abundancia targets initial capture of $429M (base case 10-year revenue) - approximately 6-15% of the SOM.',
   },
 ]
 
@@ -47,51 +47,51 @@ const AUSTIN_DYNAMICS = [
     stat: '2.4M+',
     label: 'MSA Population',
     detail: '50-60K new residents per year',
-    modalDetail: 'The Austin-Round Rock-Georgetown MSA has grown from 1.2 million in 2005 to over 2.4 million today — a doubling in under two decades. Net migration averages 50,000-60,000 new residents annually, with the majority being high-income professionals (median income $86K vs. national $75K). Top source markets: California (28%), New York/New Jersey (12%), Chicago (8%). The MSA is projected to reach 3 million by 2030. Key employers driving growth: Tesla (Gigafactory, 20,000+ jobs), Apple ($1B campus, 15,000 jobs), Google, Oracle, Samsung, and a rapidly expanding startup ecosystem.',
+    modalDetail: 'The Austin-Round Rock-Georgetown MSA has grown from 1.2 million in 2005 to over 2.4 million today - a doubling in under two decades. Net migration averages 50,000-60,000 new residents annually, with the majority being high-income professionals (median income $86K vs. national $75K). Top source markets: California (28%), New York/New Jersey (12%), Chicago (8%). The MSA is projected to reach 3 million by 2030. Key employers driving growth: Tesla (Gigafactory, 20,000+ jobs), Apple ($1B campus, 15,000 jobs), Google, Oracle, Samsung, and a rapidly expanding startup ecosystem.',
   },
   {
     icon: TrendingUp,
     stat: '$86K',
     label: 'Median Income',
     detail: 'High-income professional migration',
-    modalDetail: 'Austin household median income of $86K significantly exceeds both state ($67K) and national ($75K) medians. The tech sector drives this premium — Austin tech workers earn a median $115K. Remote work has accelerated high-income migration from coastal cities, with transplants from SF/LA earning 15-25% more than the Austin median. This income profile supports premium pricing for wellness and sustainability features, with studies showing Austin buyers are willing to pay 8-12% premiums for green-certified homes.',
+    modalDetail: 'Austin household median income of $86K significantly exceeds both state ($67K) and national ($75K) medians. The tech sector drives this premium - Austin tech workers earn a median $115K. Remote work has accelerated high-income migration from coastal cities, with transplants from SF/LA earning 15-25% more than the Austin median. This income profile supports premium pricing for wellness and sustainability features, with studies showing Austin buyers are willing to pay 8-12% premiums for green-certified homes.',
   },
   {
     icon: Home,
     stat: '$435K+',
     label: 'Median Home Price',
     detail: 'Pricing families out of the core',
-    modalDetail: 'Austin median home prices have risen from $210K in 2015 to $435K+ in 2025 — a 107% increase in a decade. Core Austin (78701-78704 zip codes) now averages $650K+, pushing buyers toward suburban and exurban communities. Bastrop County, at $300-400K median, represent a strong value proposition. This pricing dynamic is exactly what drives demand for master-planned communities on Austin\'s periphery. The 30-minute commute radius has expanded significantly with remote/hybrid work adoption (62% of Austin tech workers).',
+    modalDetail: 'Austin median home prices have risen from $210K in 2015 to $435K+ in 2025 - a 107% increase in a decade. Core Austin (78701-78704 zip codes) now averages $650K+, pushing buyers toward suburban and exurban communities. Bastrop County, at $300-400K median, represent a strong value proposition. This pricing dynamic is exactly what drives demand for master-planned communities on Austin\'s periphery. The 30-minute commute radius has expanded significantly with remote/hybrid work adoption (62% of Austin tech workers).',
   },
   {
     icon: Building2,
     stat: 'Tesla',
     label: '+ Apple, Google, Oracle',
     detail: 'Tech corridor job engine',
-    modalDetail: 'Austin\'s tech corridor stretches from downtown to the eastern suburbs, anchored by Tesla\'s Gigafactory (5 million SF, 20,000+ employees), Apple\'s $1B campus in North Austin (15,000 employees), Google\'s downtown tower (5,000+), Oracle\'s relocated HQ (10,000+), and Samsung\'s $17B fab plant in Taylor. This corporate migration has created a self-reinforcing talent loop — companies follow talent, talent follows companies. Abundancia sits along the corridor connecting Austin to this eastern tech hub, making it an ideal commuter location for Gigafactory and Samsung workers.',
+    modalDetail: 'Austin\'s tech corridor stretches from downtown to the eastern suburbs, anchored by Tesla\'s Gigafactory (5 million SF, 20,000+ employees), Apple\'s $1B campus in North Austin (15,000 employees), Google\'s downtown tower (5,000+), Oracle\'s relocated HQ (10,000+), and Samsung\'s $17B fab plant in Taylor. This corporate migration has created a self-reinforcing talent loop - companies follow talent, talent follows companies. Abundancia sits along the corridor connecting Austin to this eastern tech hub, making it an ideal commuter location for Gigafactory and Samsung workers.',
   },
 ]
 
 const DEMAND_SIGNALS = [
   {
     stat: '68%',
-    description: 'of homebuyers will pay more for sustainable features — and this premium is growing year over year.',
+    description: 'of homebuyers will pay more for sustainable features - and this premium is growing year over year.',
     modalDetail: 'Source: National Association of Realtors (NAR) 2024 Sustainability Report. The 68% figure represents buyers willing to pay an average 5-10% premium for sustainable features. In Austin specifically, Whisper Valley\'s zero-energy homes sell at a 12-15% premium to comparable conventional homes, with faster absorption rates (2.3x the metro average). Additional data: 73% of millennials and 62% of Gen-X buyers cite sustainability as a "very important" factor. Abundancia\'s hempcrete construction, solar arrays, and regenerative food systems go significantly beyond what any comparable project offers.',
   },
   {
     stat: '75%',
     description: 'of millennials prioritize sustainability in purchasing decisions. They are now the largest homebuying demographic.',
-    modalDetail: 'Source: Deloitte Global 2024 Gen Z and Millennial Survey + NAR Generational Trends Report. Millennials (born 1981-1996) became the largest homebuying cohort in 2022 at 43% of all buyers, and now represent 38% of Austin\'s population. Their sustainability preferences are not aspirational — they are transactional. 75% report actively prioritizing sustainability in major purchases, and 64% have paid more for sustainable products in the past year. This demographic alignment is a structural tailwind for Abundancia: our target buyer profile (30-45, household income $100K+, values-driven) represents approximately 180,000 households in the Austin MSA.',
+    modalDetail: 'Source: Deloitte Global 2024 Gen Z and Millennial Survey + NAR Generational Trends Report. Millennials (born 1981-1996) became the largest homebuying cohort in 2022 at 43% of all buyers, and now represent 38% of Austin\'s population. Their sustainability preferences are not aspirational - they are transactional. 75% report actively prioritizing sustainability in major purchases, and 64% have paid more for sustainable products in the past year. This demographic alignment is a structural tailwind for Abundancia: our target buyer profile (30-45, household income $100K+, values-driven) represents approximately 180,000 households in the Austin MSA.',
   },
   {
     stat: 'Sold Out',
-    description: 'Whisper Valley — Austin\'s first zero-energy community — sold through multiple phases, proving deep market demand.',
-    modalDetail: 'Whisper Valley, developed by Taurus Investment Holdings and located in East Austin, is the most relevant comparable for Abundancia. Key proof points: Phase 1 (200 homes) sold out 40% faster than projected. Phase 2 expanded to 600 homes with strong absorption. Total planned: 7,500+ homes across the full master plan. Pricing: $300-500K with 12-15% premiums over conventional. Their offering is energy-only (geothermal + solar) — no regenerative agriculture, no hempcrete, no community governance, no wellness programming. Abundancia offers a significantly more comprehensive product at a wider price range ($200K-$625K), suggesting we can capture premium buyers that Whisper Valley cannot reach.',
+    description: 'Whisper Valley - Austin\'s first zero-energy community - sold through multiple phases, proving deep market demand.',
+    modalDetail: 'Whisper Valley, developed by Taurus Investment Holdings and located in East Austin, is the most relevant comparable for Abundancia. Key proof points: Phase 1 (200 homes) sold out 40% faster than projected. Phase 2 expanded to 600 homes with strong absorption. Total planned: 7,500+ homes across the full master plan. Pricing: $300-500K with 12-15% premiums over conventional. Their offering is energy-only (geothermal + solar) - no regenerative agriculture, no hempcrete, no community governance, no wellness programming. Abundancia offers a significantly more comprehensive product at a wider price range ($200K-$625K), suggesting we can capture premium buyers that Whisper Valley cannot reach.',
   },
   {
     stat: 'Remote',
     description: 'Remote work has permanently expanded the viable commute radius. A 30-minute distance from Austin is now mainstream.',
-    modalDetail: 'Stanford\'s WFH Research (Nick Bloom, 2024) shows remote/hybrid work has stabilized at 28% of US workdays — down from the pandemic peak but 4x pre-pandemic levels. In Austin\'s tech sector specifically, 62% of workers are hybrid or fully remote. This has fundamentally expanded the acceptable "commute radius" from 20 minutes to 45+ minutes, making a 30-minute distance to downtown Austin not just viable but attractive. Comparable communities in the 25-35 minute range (Dripping Springs, Bee Cave, Lago Vista) have seen 35-50% price appreciation since 2020, validating this structural shift.',
+    modalDetail: 'Stanford\'s WFH Research (Nick Bloom, 2024) shows remote/hybrid work has stabilized at 28% of US workdays - down from the pandemic peak but 4x pre-pandemic levels. In Austin\'s tech sector specifically, 62% of workers are hybrid or fully remote. This has fundamentally expanded the acceptable "commute radius" from 20 minutes to 45+ minutes, making a 30-minute distance to downtown Austin not just viable but attractive. Comparable communities in the 25-35 minute range (Dripping Springs, Bee Cave, Lago Vista) have seen 35-50% price appreciation since 2020, validating this structural shift.',
   },
 ]
 
@@ -115,8 +115,8 @@ const COMPARABLES = [
     location: 'NE Austin (City-Led)',
     units: '~2,000',
     priceRange: '$250K-$400K',
-    differentiator: 'City project — slow timeline. No hempcrete, no food systems, no wellness.',
-    modalDetail: 'Colony Park is a City of Austin-led sustainable master-planned community on 208 acres in Northeast Austin. It has been in planning since 2014 with construction beginning in 2023 — a nearly decade-long development timeline that illustrates the challenges of government-led development. What they have: affordable housing mandates, transit-oriented design, mixed-use zoning, LEED neighborhood certification. What they lack: natural building materials, food production systems, wellness amenities, retreat/hospitality revenue, community governance, renewable energy independence. Colony Park is constrained by city bureaucracy and political cycles. Abundancia, as a private development, can move at market speed while still prioritizing affordability and sustainability.',
+    differentiator: 'City project - slow timeline. No hempcrete, no food systems, no wellness.',
+    modalDetail: 'Colony Park is a City of Austin-led sustainable master-planned community on 208 acres in Northeast Austin. It has been in planning since 2014 with construction beginning in 2023 - a nearly decade-long development timeline that illustrates the challenges of government-led development. What they have: affordable housing mandates, transit-oriented design, mixed-use zoning, LEED neighborhood certification. What they lack: natural building materials, food production systems, wellness amenities, retreat/hospitality revenue, community governance, renewable energy independence. Colony Park is constrained by city bureaucracy and political cycles. Abundancia, as a private development, can move at market speed while still prioritizing affordability and sustainability.',
     features: {
       has: ['Affordable housing mandates', 'Transit-oriented design', 'Mixed-use zoning', 'LEED certification', 'City backing'],
       lacks: ['Natural building materials', 'Food production', 'Wellness amenities', 'Retreat center', 'Energy independence', 'Private governance'],
@@ -141,17 +141,17 @@ const WELLNESS_TOURISM_STATS = [
   {
     stat: '$978B',
     label: 'Global Market Size',
-    modalDetail: 'The Global Wellness Institute estimates the wellness tourism market at $978 billion (2023), making it one of the fastest-growing travel segments globally. This includes wellness-motivated travel (primary purpose) and wellness-incidental travel (wellness activities as part of a broader trip). The US represents approximately $293B of this market — the largest single country. Key subsectors: spa tourism ($128B), wellness resorts ($89B), thermal/mineral springs ($72B), and wellness retreats ($56B). Abundancia\'s retreat center targets the wellness retreat and spa tourism segments.',
+    modalDetail: 'The Global Wellness Institute estimates the wellness tourism market at $978 billion (2023), making it one of the fastest-growing travel segments globally. This includes wellness-motivated travel (primary purpose) and wellness-incidental travel (wellness activities as part of a broader trip). The US represents approximately $293B of this market - the largest single country. Key subsectors: spa tourism ($128B), wellness resorts ($89B), thermal/mineral springs ($72B), and wellness retreats ($56B). Abundancia\'s retreat center targets the wellness retreat and spa tourism segments.',
   },
   {
     stat: '12%+',
     label: 'Annual Growth Rate',
-    modalDetail: 'Wellness tourism is growing at 12.1% CAGR (2020-2028 projected), compared to 6.8% for overall tourism. Post-pandemic acceleration has been driven by increased health consciousness, remote work enabling "workation" travel, and a fundamental shift toward experiential over material spending among millennials and Gen-Z. In the US specifically, wellness travel grew 21% in 2023 vs. 2022. The Austin market is outperforming national trends — wellness-oriented Airbnb listings in the Austin area grew 34% YoY with average nightly rates 2.8x standard listings.',
+    modalDetail: 'Wellness tourism is growing at 12.1% CAGR (2020-2028 projected), compared to 6.8% for overall tourism. Post-pandemic acceleration has been driven by increased health consciousness, remote work enabling "workation" travel, and a fundamental shift toward experiential over material spending among millennials and Gen-Z. In the US specifically, wellness travel grew 21% in 2023 vs. 2022. The Austin market is outperforming national trends - wellness-oriented Airbnb listings in the Austin area grew 34% YoY with average nightly rates 2.8x standard listings.',
   },
   {
     stat: '3.4x',
     label: 'Wellness vs. Regular Travel Spend',
-    modalDetail: 'Wellness tourists spend an average of $1,601 per trip domestically vs. $465 for the average domestic tourist — a 3.4x premium. International wellness tourists spend $2,363 vs. $735. This spending premium flows through the entire local economy: restaurants, retail, experiences, and transportation. For Abundancia, this means the retreat and rental operations drive awareness, home sales, and commercial tenant demand while generating $5.5M annually by year 5. Retreat guests become potential residents and brand ambassadors.',
+    modalDetail: 'Wellness tourists spend an average of $1,601 per trip domestically vs. $465 for the average domestic tourist - a 3.4x premium. International wellness tourists spend $2,363 vs. $735. This spending premium flows through the entire local economy: restaurants, retail, experiences, and transportation. For Abundancia, this means the retreat and rental operations drive awareness, home sales, and commercial tenant demand while generating $5.5M annually by year 5. Retreat guests become potential residents and brand ambassadors.',
   },
   {
     stat: 'Austin',
@@ -260,7 +260,7 @@ export default function MarketPage() {
                 The Fastest-Growing Metro in America
               </h2>
               <p className="text-lg text-white/70 leading-relaxed">
-                Austin&apos;s population has doubled in two decades. The city adds 50-60,000 new residents annually — high-income professionals, tech workers, and entrepreneurs drawn by jobs, culture, and quality of life.
+                Austin&apos;s population has doubled in two decades. The city adds 50-60,000 new residents annually - high-income professionals, tech workers, and entrepreneurs drawn by jobs, culture, and quality of life.
               </p>
             </div>
           </FadeIn>
@@ -270,7 +270,7 @@ export default function MarketPage() {
               <StaggerItem key={item.label}>
                 <button
                   onClick={() => setModal({
-                    title: `${item.stat} — ${item.label}`,
+                    title: `${item.stat} - ${item.label}`,
                     body: item.modalDetail,
                     link: { href: '/data-room/view/research/market-research-report', label: 'View Full Market Research' },
                   })}
@@ -307,7 +307,7 @@ export default function MarketPage() {
                   The Market Is Asking for This
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed">
-                  Every trend points in the same direction — consumers want sustainable, wellness-oriented homes. Remote work has expanded the viable geography. And Austin&apos;s sustainability culture has already proven premium pricing for eco-conscious developments.
+                  Every trend points in the same direction - consumers want sustainable, wellness-oriented homes. Remote work has expanded the viable geography. And Austin&apos;s sustainability culture has already proven premium pricing for eco-conscious developments.
                 </p>
               </div>
             </FadeIn>
@@ -374,7 +374,7 @@ export default function MarketPage() {
                     <tr
                       key={comp.name}
                       onClick={() => setModal({
-                        title: `${comp.name} — Competitive Analysis`,
+                        title: `${comp.name} - Competitive Analysis`,
                         body: comp.modalDetail,
                         link: { href: '/data-room/view/research/competitive-landscape', label: 'View Full Competitive Landscape' },
                         features: comp.features,
@@ -397,7 +397,7 @@ export default function MarketPage() {
                     <td className="text-sm text-primary-700 py-4 px-3">Greater Austin</td>
                     <td className="text-sm text-primary-700 py-4 px-3">420+</td>
                     <td className="text-sm text-primary-700 py-4 px-3">$200K-$625K</td>
-                    <td className="text-sm font-semibold text-primary-800 py-4 px-3">Full ecosystem — first of its kind</td>
+                    <td className="text-sm font-semibold text-primary-800 py-4 px-3">Full ecosystem - first of its kind</td>
                   </tr>
                 </tbody>
               </table>
@@ -428,7 +428,7 @@ export default function MarketPage() {
               <div className="relative aspect-[4/3] rounded-2xl overflow-hidden">
                 <Image
                   src="/images/website/41-spa-massage.jpeg"
-                  alt="Wellness tourism — spa and retreat experiences"
+                  alt="Wellness tourism - spa and retreat experiences"
                   fill
                   className="object-cover"
                 />
@@ -445,7 +445,7 @@ export default function MarketPage() {
                   A $978 Billion Industry
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-6">
-                  Global wellness tourism is growing at 12%+ CAGR — one of the fastest-growing travel segments. Austin is emerging as a wellness destination, and Abundancia&apos;s retreat center positions it to capture this demand from day one.
+                  Global wellness tourism is growing at 12%+ CAGR - one of the fastest-growing travel segments. Austin is emerging as a wellness destination, and Abundancia&apos;s retreat center positions it to capture this demand from day one.
                 </p>
 
                 <div className="grid grid-cols-2 gap-4">
@@ -484,7 +484,7 @@ export default function MarketPage() {
               See the Business Model
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
-              The market demand is clear. Now explore the financial model — revenue streams, unit economics, and projected returns that make Abundancia a compelling investment.
+              The market demand is clear. Now explore the financial model - revenue streams, unit economics, and projected returns that make Abundancia a compelling investment.
             </p>
           </FadeIn>
 

@@ -117,9 +117,9 @@ export default function InvestorApplyPage() {
                     className="w-full px-4 py-3 border border-neutral-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent text-sm text-neutral-700"
                   >
                     <option value="">Select status</option>
-                    <option value="yes">Yes — I am an accredited investor</option>
-                    <option value="no">No — I am not accredited</option>
-                    <option value="unsure">Unsure — I need to verify</option>
+                    <option value="yes">Yes - I am an accredited investor</option>
+                    <option value="no">No - I am not accredited</option>
+                    <option value="unsure">Unsure - I need to verify</option>
                   </select>
                 </div>
 
