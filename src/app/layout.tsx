@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     default: 'Abundancia Austin — Regenerative Living in Harmony with Nature',
     template: '%s | Abundancia Austin',
   },
-  description: 'A 380-acre regenerative community near Austin, TX. Hempcrete homes, food forests, renewable energy, sacred spaces. $12.5M investment opportunity.',
+  description: 'A 380-acre regenerative community in Bastrop County, TX. Hempcrete homes, food forests, renewable energy, sacred spaces. $12.5M investment opportunity.',
   keywords: [
     'regenerative community',
     'Austin Texas',
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     'permaculture',
     'Living Building Challenge',
     
-    'Austin area',
+    'Bastrop County',
   ],
   metadataBase: new URL('https://abundancia.life'),
   applicationName: 'Abundancia Austin',

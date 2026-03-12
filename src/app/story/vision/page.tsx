@@ -97,8 +97,8 @@ const DIFFERENTIATORS = [
   {
     icon: Shield,
     title: 'No Zoning Barriers',
-    description: "The county's lack of zoning means mixed-use, innovative community design can be built by right — no years of rezoning hearings or political risk.",
-    detail: 'While Austin developments spend 18-24 months navigating rezoning hearings and political opposition, our county allows mixed-use, innovative design by right. This eliminates political risk, accelerates timelines to 6-12 months, and enables the kind of integrated live-work-play community design that traditional zoning prohibits.',
+    description: "Bastrop County's lack of zoning means mixed-use, innovative community design can be built by right — no years of rezoning hearings or political risk.",
+    detail: 'While Austin developments spend 18-24 months navigating rezoning hearings and political opposition, Bastrop County allows mixed-use, innovative design by right. This eliminates political risk, accelerates timelines to 6-12 months, and enables the kind of integrated live-work-play community design that traditional zoning prohibits.',
     specs: ['Zero Zoning Restrictions', '6-12 Month Permitting', 'Mixed-Use by Right', 'No Rezoning Risk', 'IRC 2024 Hempcrete Codes'],
     link: '/data-room/view/property/site-assessment',
   },

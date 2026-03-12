@@ -39,7 +39,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'Where exactly is it?',
-        a: 'The property is located in the greater Austin area, approximately 30 minutes from downtown. Exact location details are available to qualified investors in our data room.',
+        a: 'Bastrop County, approximately 30 minutes from downtown Austin. Exact property address and parcel details are available to qualified investors in our data room.',
         links: [
           { text: 'Learn About the Land', href: '/story/land' },
         ],

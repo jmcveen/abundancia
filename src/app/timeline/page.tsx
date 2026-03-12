@@ -17,11 +17,11 @@ const MILESTONES = [
     status: 'active' as const,
     items: [
       'Team assembled and operational',
-      'Land identified — 380 acres near Austin, TX',
+      'Land identified — 380 acres in Bastrop County',
       '$12.5M capital raise in progress',
       'Investor outreach at SXSW 2026',
     ],
-    detail: 'The due diligence phase is the foundation of the entire project. Our team has completed preliminary site assessments, environmental reviews, and market analysis. The 380-acre parcel was selected from 70+ eco-community analyses worldwide for its combination of location (30 min from downtown Austin), favorable regulatory environment, natural features (mature trees, water features, rolling terrain), and price-to-value ratio.',
+    detail: 'The due diligence phase is the foundation of the entire project. Our team has completed preliminary site assessments, environmental reviews, and market analysis. The 380-acre parcel was selected from 70+ eco-community analyses worldwide for its combination of location (30 min from downtown Austin), no zoning in Bastrop County, natural features (mature trees, water features, rolling terrain), and price-to-value ratio.',
     investment: '$500K — Pre-development costs, legal, environmental studies, team operations',
     dataRoomLink: '/data-room/view/property/site-assessment',
   },

@@ -26,7 +26,7 @@ const PHASES = [
     timeline: 'Months 1-6',
     color: 'bg-primary-600',
     milestones: [
-      'Land acquisition — $6.5M for 380 acres near Austin, TX',
+      'Land acquisition — $6.5M for 380 acres in Bastrop County, TX',
       'Hydrology study and water resource assessment',
       'Houston toad habitat compliance (LPHCP alignment)',
       'Master site planning with Symbiosis TX',

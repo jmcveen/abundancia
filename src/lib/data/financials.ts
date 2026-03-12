@@ -37,8 +37,9 @@ export const UNIT_MIX = [
   { type: 'Single-Family Homes', count: 100, avgPrice: 450_000, avgSF: 2_475, avgNightly: 0, revenue10yr: 0 },
   { type: 'Multifamily', count: 350, avgPrice: 443_571, avgSF: 986, avgNightly: 0, revenue10yr: 0 },
   { type: 'Special Residential', count: 60, avgPrice: 141_520, avgSF: 324, avgNightly: 0, revenue10yr: 0 },
-  { type: 'Rental Multifamily', count: 75, avgPrice: 0, avgSF: 997, avgNightly: 421, revenue10yr: 11_525_116 },
-  { type: 'Special Rental', count: 50, avgPrice: 0, avgSF: 236, avgNightly: 1_000, revenue10yr: 23_097_055 },
+  { type: 'Rental Multifamily', count: 75, avgPrice: 0, avgSF: 997, avgNightly: 90, revenue10yr: 11_000_000 },
+  { type: 'Special Rental', count: 50, avgPrice: 0, avgSF: 236, avgNightly: 200, revenue10yr: 23_000_000 },
+  { type: 'Event Center', count: 1, avgPrice: 0, avgSF: 6_000, avgNightly: 4_000, revenue10yr: 9_000_000 },
   { type: 'Lots', count: 100, avgPrice: 250_000, avgSF: 0, avgNightly: 0, revenue10yr: 0 },
 ]
 
