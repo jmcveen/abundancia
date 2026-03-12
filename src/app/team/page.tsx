@@ -95,7 +95,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Gloria Merrick',
-    photo: '/images/team/gloria-merrick.jpg',
+    photo: '/images/team/gloria-merrick.png',
     role: 'Tiny Home Builder',
     bio: 'Specialist in compact, efficient living spaces. Brings hands-on construction experience and deep knowledge of tiny home design, materials, and Texas building codes.',
     expertise: ['Tiny Home Design', 'Efficient Construction', 'Texas Building Codes', 'Material Sourcing'],
@@ -120,7 +120,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Angele Miller',
-    photo: '/images/team/angele-miller.png',
+    photo: '/images/team/angele-miller.jpg',
     role: 'Glamping & Retreat Operations',
     bio: 'Experienced hospitality operator specializing in nature-based retreat experiences. Manages Abundancia\'s Phase 1 retreat center revenue engine.',
     expertise: ['Retreat Operations', 'Hospitality Management', 'Nature-Based Experiences', 'Revenue Strategy'],
