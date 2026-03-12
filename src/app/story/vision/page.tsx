@@ -54,7 +54,7 @@ const PROBLEMS = [
     detail: [
       'Austin\'s median home price has surged past $435,000, with many desirable neighborhoods well above $600,000. This has created a housing affordability crisis that prices out teachers, artists, service workers, and young professionals — the very people who make Austin\'s culture vibrant.',
       'Abundancia addresses affordability through multiple strategies. Hempcrete construction costs are competitive with conventional building when factoring in reduced HVAC requirements, minimal maintenance, and extreme longevity. Off-grid energy systems eliminate utility bills. Community food production reduces grocery costs. The result is a dramatically lower total cost of living.',
-      'Located just 30 minutes from downtown Austin via SH 71, Abundancia offers access to Austin\'s tech jobs, live music scene, and cultural amenities at a significantly lower price point. Residents get the Austin lifestyle without the Austin price tag — and in a community designed for genuine human connection.',
+      'Located just 30 minutes from downtown Austin, Abundancia offers access to Austin\'s tech jobs, live music scene, and cultural amenities at a significantly lower price point. Residents get the Austin lifestyle without the Austin price tag — and in a community designed for genuine human connection.',
     ],
     link: '/market',
     linkLabel: 'See Market Analysis',
@@ -90,15 +90,15 @@ const DIFFERENTIATORS = [
     icon: Home,
     title: "Austin's Culture, Not Its Prices",
     description: '30 minutes from downtown Austin — access the tech jobs, live music, and culture while living in a purpose-built community at lower price points.',
-    detail: 'Cedar Creek sits in the sweet spot — close enough to Austin for daily commuting via SH 71 and SH 130, but far enough to benefit from Bastrop County\'s lower land costs, zero zoning restrictions, and agricultural tax exemptions. Residents access Austin\'s $400B economy while living in a regenerative community.',
-    specs: ['30 Min to Downtown', 'SH 71 Direct Access', 'Austin-Bergstrom Airport Nearby', 'Tech Corridor Access', 'Lower Price Points'],
+    detail: 'Our location sits in the sweet spot — close enough to Austin for daily commuting, but far enough to benefit from the county\'s lower land costs, zero zoning restrictions, and agricultural tax exemptions. Residents access Austin\'s $400B economy while living in a regenerative community.',
+    specs: ['30 Min to Downtown', 'Direct Highway Access', 'Austin-Bergstrom Airport Nearby', 'Tech Corridor Access', 'Lower Price Points'],
     link: '/data-room/view/research/market-research-report',
   },
   {
     icon: Shield,
     title: 'No Zoning Barriers',
-    description: "Bastrop County's lack of zoning means mixed-use, innovative community design can be built by right — no years of rezoning hearings or political risk.",
-    detail: 'While Austin developments spend 18-24 months navigating rezoning hearings and political opposition, Bastrop County allows mixed-use, innovative design by right. This eliminates political risk, accelerates timelines to 6-12 months, and enables the kind of integrated live-work-play community design that traditional zoning prohibits.',
+    description: "The county's lack of zoning means mixed-use, innovative community design can be built by right — no years of rezoning hearings or political risk.",
+    detail: 'While Austin developments spend 18-24 months navigating rezoning hearings and political opposition, our county allows mixed-use, innovative design by right. This eliminates political risk, accelerates timelines to 6-12 months, and enables the kind of integrated live-work-play community design that traditional zoning prohibits.',
     specs: ['Zero Zoning Restrictions', '6-12 Month Permitting', 'Mixed-Use by Right', 'No Rezoning Risk', 'IRC 2024 Hempcrete Codes'],
     link: '/data-room/view/property/site-assessment',
   },
@@ -197,7 +197,7 @@ export default function VisionPage() {
           <FadeIn delay={0.3}>
             <div className="mt-8 flex items-center gap-3">
               <div className="accent-line w-16" />
-              <span className="font-accent text-sm text-neutral-500">376 Acres &middot; Cedar Creek, Bastrop County, TX</span>
+              <span className="font-accent text-sm text-neutral-500">380 Acres &middot; Greater Austin, TX</span>
             </div>
           </FadeIn>
         </div>

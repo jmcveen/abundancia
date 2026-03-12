@@ -98,8 +98,8 @@ const HIGHLIGHTS = [
     icon: Leaf,
     title: '90%+ Land Preserved',
     description: 'Conservation-forward design preserves the Lost Pines ecosystem while enhancing Houston toad habitat.',
-    detail: 'With a development footprint of only ~4% (16 acres), over 90% of the 376-acre property is preserved as natural habitat, food forests, and regenerative agriculture. This conservation-forward approach preserves the Lost Pines ecosystem — one of the most ecologically significant regions in Texas — and enhances habitat for the endangered Houston toad. Conservation easements provide significant tax benefits while permanently protecting the land.',
-    specs: ['360+ acres preserved', 'Houston toad habitat', 'Lost Pines ecosystem', 'Conservation easements', 'Tax benefit eligible'],
+    detail: 'With a development footprint of only ~4%, over 90% of the 380-acre property is preserved as natural habitat, food forests, and regenerative agriculture. This conservation-forward approach preserves a unique ecosystem and enhances habitat for endangered species. Conservation easements provide significant tax benefits while permanently protecting the land.',
+    specs: ['340+ acres preserved', 'Houston toad habitat', 'Lost Pines ecosystem', 'Conservation easements', 'Tax benefit eligible'],
     link: '/data-room/view/property/environmental-compliance',
     modalKey: 'conservation',
   },
@@ -131,7 +131,7 @@ export default function HomePage() {
           <FadeIn delay={0.2} direction="none">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 mb-8">
               <Leaf className="w-4 h-4 text-secondary-400" />
-              <span className="font-accent text-sm text-white/90">376 Acres &middot; Cedar Creek, TX &middot; 30 min from Austin</span>
+              <span className="font-accent text-sm text-white/90">380 Acres &middot; Greater Austin, TX</span>
             </div>
           </FadeIn>
 
@@ -171,7 +171,7 @@ export default function HomePage() {
       <section className="bg-primary-900 py-12 md:py-16">
         <div className="section-container">
           <div className="grid grid-cols-2 md:grid-cols-5 gap-8 md:gap-4">
-            <AnimatedStat target={376} suffix=" Acres" label="Texas Ranchland" />
+            <AnimatedStat target={380} suffix=" Acres" label="Texas Ranchland" />
             <AnimatedStat target={12.5} suffix="M" prefix="$" label="Capital Raise" decimals={1} />
             <AnimatedStat target={metrics.irr} suffix="%" label="Projected IRR" decimals={1} />
             <AnimatedStat target={500} suffix="+" label="Year Building Lifespan" />

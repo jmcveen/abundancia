@@ -23,7 +23,7 @@ const WHY_AUSTIN = [
     detail: [
       'Austin has been the fastest-growing large metro in the US for most of the past decade, adding over 150 people per day at its peak. The population of the Austin-Round Rock-Georgetown MSA surpassed 2.4 million in 2024, with projections to exceed 3 million by 2030.',
       'This growth is driven primarily by corporate relocations (Tesla, Oracle, Apple, Samsung) and remote workers from higher-cost metros like San Francisco and New York. The median household income of in-migrants is 20-30% higher than the existing Austin median, creating sustained demand for premium housing.',
-      'The growth corridor running east along SH 71 and SH 130 — exactly where Abundancia is located — is the primary expansion vector. Bastrop County population growth has outpaced even Austin proper in recent years, as buyers seek affordability while maintaining access to Austin\'s economy.',
+      'The growth corridor east of Austin — where Abundancia is located — is the primary expansion vector. Population growth in the surrounding county has outpaced even Austin proper in recent years, as buyers seek affordability while maintaining access to Austin\'s economy.',
     ],
     source: 'US Census Bureau, Austin Chamber of Commerce, Texas Demographic Center (2024)',
   },
@@ -45,7 +45,7 @@ const WHY_AUSTIN = [
     detail: [
       'Austin is home to Tesla\'s Gigafactory (employing 20,000+), Apple\'s $1B campus, Google\'s expanding downtown office, Oracle\'s relocated headquarters, Samsung\'s $17B chip fab, and hundreds of venture-backed startups. The tech sector accounts for approximately 18% of Austin\'s GDP.',
       'Tech professionals represent the ideal buyer demographic for Abundancia: high income, values-driven, early adopters of sustainable living, and accustomed to premium pricing for quality and innovation. Many are relocating from the Bay Area where regenerative and sustainable communities command significant premiums.',
-      'The remote work revolution has further expanded the addressable market. Professionals no longer need to live within commuting distance of downtown offices — a 30-minute drive from Cedar Creek to Austin is well within acceptable range, especially for hybrid workers who commute 2-3 days per week.',
+      'The remote work revolution has further expanded the addressable market. Professionals no longer need to live within commuting distance of downtown offices — a 30-minute drive to Austin is well within acceptable range, especially for hybrid workers who commute 2-3 days per week.',
     ],
     source: 'Austin Economic Development Department, LinkedIn Workforce Report, Bureau of Labor Statistics (2024)',
   },
@@ -62,14 +62,14 @@ const WHY_AUSTIN = [
   },
 ]
 
-const WHY_BASTROP = [
+const WHY_LOCATION = [
   {
     stat: 'Zero',
     label: 'Zoning Restrictions',
     description: 'No zoning means mixed-use, innovative design built by right — no years of rezoning hearings or political risk.',
     detail: [
-      'Bastrop County has no zoning ordinances, which is increasingly rare even in Texas. This means Abundancia can build a true mixed-use community — residential, commercial, agricultural, and recreational uses integrated together — without requiring variances, special use permits, or rezoning approvals.',
-      'In contrast, a comparable development within Austin city limits would require 18-24 months of entitlement work, public hearings, environmental reviews, and political negotiations. The risk of denial or significant design compromises is substantial. Bastrop County\'s regulatory environment eliminates this entire layer of risk and cost.',
+      'The county where Abundancia is located has no zoning ordinances, which is increasingly rare even in Texas. This means Abundancia can build a true mixed-use community — residential, commercial, agricultural, and recreational uses integrated together — without requiring variances, special use permits, or rezoning approvals.',
+      'In contrast, a comparable development within Austin city limits would require 18-24 months of entitlement work, public hearings, environmental reviews, and political negotiations. The risk of denial or significant design compromises is substantial. Our location\'s regulatory environment eliminates this entire layer of risk and cost.',
       'The county does require subdivision platting and compliance with building codes (including the newly adopted IRC 2024 hempcrete appendix), but these are predictable, non-discretionary processes with clear timelines.',
     ],
     link: '/data-room/view/property/site-assessment',
@@ -78,10 +78,10 @@ const WHY_BASTROP = [
   {
     stat: '6-12',
     label: 'Month Timeline',
-    description: 'Bastrop County permitting vs. 18-24 months in Austin. Faster to market, lower carrying costs, reduced risk.',
+    description: 'County permitting vs. 18-24 months in Austin. Faster to market, lower carrying costs, reduced risk.',
     detail: [
-      'Bastrop County\'s streamlined permitting process enables a 6-12 month timeline from application to first building permits. This is less than half the 18-24 month timeline typical for Austin developments, and does not carry the political risk of discretionary approvals.',
-      'Faster permitting translates directly to improved project economics: lower carrying costs on land, earlier revenue generation, and reduced exposure to market cycle risk. For a 376-acre development, the interest savings alone on a 12-month acceleration can exceed $1M.',
+      'The county\'s streamlined permitting process enables a 6-12 month timeline from application to first building permits. This is less than half the 18-24 month timeline typical for Austin developments, and does not carry the political risk of discretionary approvals.',
+      'Faster permitting translates directly to improved project economics: lower carrying costs on land, earlier revenue generation, and reduced exposure to market cycle risk. For a 380-acre development, the interest savings alone on a 12-month acceleration can exceed $1M.',
       'The county building department has also been proactive in preparing for hempcrete construction, with inspectors trained on the IRC 2024 Appendix BA standards. This removes what has historically been the biggest regulatory uncertainty for natural building materials.',
     ],
     link: '/data-room/view/property/site-assessment',
@@ -90,10 +90,10 @@ const WHY_BASTROP = [
   {
     stat: '$0.98',
     label: '/ $100 Property Tax',
-    description: 'Agricultural exemption dramatically reduces holding costs during development. The 376-acre site qualifies.',
+    description: 'Agricultural exemption dramatically reduces holding costs during development. The 380-acre site qualifies.',
     detail: [
-      'The 376-acre Abundancia property qualifies for Texas agricultural exemption, which values the land based on agricultural productivity rather than market value. This reduces the assessed value from approximately $15-20K per acre (market) to $200-400 per acre (agricultural), cutting annual property taxes by over 95% during the development period.',
-      'The combined Bastrop County tax rate of approximately $0.98 per $100 of assessed value is also significantly lower than Austin\'s rate of $1.85-2.20. Even after development, Abundancia homeowners benefit from lower base tax rates — though the MUD bond overlay will add a special assessment for infrastructure debt service.',
+      'The 380-acre Abundancia property qualifies for Texas agricultural exemption, which values the land based on agricultural productivity rather than market value. This reduces the assessed value from approximately $15-20K per acre (market) to $200-400 per acre (agricultural), cutting annual property taxes by over 95% during the development period.',
+      'The combined county tax rate of approximately $0.98 per $100 of assessed value is also significantly lower than Austin\'s rate of $1.85-2.20. Even after development, Abundancia homeowners benefit from lower base tax rates — though the MUD bond overlay will add a special assessment for infrastructure debt service.',
       'The agricultural exemption can be maintained on the 90%+ of the site designated as conservation and agricultural land even after the development parcels are subdivided, providing ongoing tax benefits that enhance the long-term economics of the project.',
     ],
     link: '/data-room/view/investment/executive-summary',
@@ -102,11 +102,11 @@ const WHY_BASTROP = [
   {
     stat: '30',
     label: 'Minutes to Austin',
-    description: 'SH 71 and SH 130 provide direct access to downtown Austin, the airport, and the tech corridor.',
+    description: 'Direct highway access to downtown Austin, the airport, and the tech corridor.',
     detail: [
-      'The Abundancia property is located along the SH 71 corridor, providing direct highway access to downtown Austin in approximately 30 minutes. SH 130 — the high-speed toll road paralleling I-35 — provides an alternative route and direct access to Austin-Bergstrom International Airport in under 25 minutes.',
-      'The SH 71/SH 130 corridor is the primary eastern growth vector for the Austin metro. TxDOT has invested billions in capacity improvements, and the corridor is planned for continued widening and improvement over the next decade. This infrastructure investment supports both commuter access and long-term property value appreciation.',
-      'Cedar Creek is positioned at the convergence of Austin\'s growth wave and Bastrop County\'s regulatory advantage — close enough for daily commuting, but far enough to capture the benefits of unincorporated county land.',
+      'The Abundancia property has direct highway access to downtown Austin in approximately 30 minutes. Multiple major highways provide alternative routes and direct access to Austin-Bergstrom International Airport in under 25 minutes.',
+      'The eastern growth corridor is the primary expansion vector for the Austin metro. TxDOT has invested billions in capacity improvements, and the corridor is planned for continued widening and improvement over the next decade. This infrastructure investment supports both commuter access and long-term property value appreciation.',
+      'The property is positioned at the convergence of Austin\'s growth wave and favorable county regulatory advantages — close enough for daily commuting, but far enough to capture the benefits of unincorporated county land.',
     ],
     link: '/data-room/view/research/market-research-report',
     linkLabel: 'View Location Analysis',
@@ -142,7 +142,7 @@ const PROPERTY_FEATURES = [
     icon: Landmark,
     title: '1870 Historic Guest House',
     description: '2,000 SF historic structure — one of the oldest in the county. Character asset for events and heritage tourism.',
-    detail: 'Dating to approximately 1870, this 2,000 SF structure is one of the oldest surviving buildings in Bastrop County. The historic guest house provides irreplaceable character and authenticity — a tangible connection to the region\'s heritage that cannot be replicated by new construction. Planned uses include a boutique event venue, heritage tourism attraction, and community gathering space. The structure may qualify for historic preservation tax credits, and its story adds marketing value that differentiates Abundancia from generic new developments.',
+    detail: 'Dating to approximately 1870, this 2,000 SF structure is one of the oldest surviving buildings in the county. The historic guest house provides irreplaceable character and authenticity — a tangible connection to the region\'s heritage that cannot be replicated by new construction. Planned uses include a boutique event venue, heritage tourism attraction, and community gathering space. The structure may qualify for historic preservation tax credits, and its story adds marketing value that differentiates Abundancia from generic new developments.',
     link: '/data-room/view/property/site-assessment',
     linkLabel: 'Historic Structures',
   },
@@ -150,7 +150,7 @@ const PROPERTY_FEATURES = [
     icon: Fence,
     title: 'Completely Fenced',
     description: 'Full perimeter fencing with agricultural infrastructure. 2 barns — one with a performance stage for events.',
-    detail: 'The entire 376-acre property is enclosed with maintained perimeter fencing — a significant existing asset that provides immediate security, livestock management capability, and a defined community boundary. The two barns include a traditional agricultural barn suitable for equipment storage and workshop conversion, and a larger event barn featuring an existing performance stage that has been used for concerts and gatherings. This event infrastructure provides immediate revenue potential from Phase 1, hosting weddings, corporate retreats, music events, and community festivals while residential development progresses.',
+    detail: 'The entire 380-acre property is enclosed with maintained perimeter fencing — a significant existing asset that provides immediate security, livestock management capability, and a defined community boundary. The two barns include a traditional agricultural barn suitable for equipment storage and workshop conversion, and a larger event barn featuring an existing performance stage that has been used for concerts and gatherings. This event infrastructure provides immediate revenue potential from Phase 1, hosting weddings, corporate retreats, music events, and community festivals while residential development progresses.',
     link: '/data-room/view/property/site-assessment',
     linkLabel: 'Infrastructure Assessment',
   },
@@ -177,7 +177,7 @@ const MASTER_PLAN = [
   {
     percentage: '90%+',
     label: 'Conservation & Agriculture',
-    acres: '360+ acres',
+    acres: '340+ acres',
     description: 'Preserved ecosystems, food forests, permaculture zones, wildlife corridors, Houston toad habitat, trail networks.',
     detail: 'The conservation zone is not passive "preserved land" but an actively managed regenerative landscape. Key components include: 40+ acres of food forests and permaculture gardens producing year-round organic food for residents, 80+ acres of restored native Lost Pines habitat with Houston toad conservation corridors, 20+ acres of managed ponds and wetlands for water security and biodiversity, 15+ miles of trail networks for hiking, cycling, and equestrian use, and 100+ acres of managed grassland and savanna for carbon sequestration and livestock grazing. Conservation easements on this portion may qualify for significant federal and state tax benefits while permanently protecting the ecological character of the community.',
     link: '/data-room/view/property/master-plan',
@@ -198,7 +198,7 @@ const CLIMATE_STATS = [
 
 export default function LandPage() {
   const [activeAustin, setActiveAustin] = useState<number | null>(null)
-  const [activeBastrop, setActiveBastrop] = useState<number | null>(null)
+  const [activeLocation, setActiveLocation] = useState<number | null>(null)
   const [activeFeature, setActiveFeature] = useState<number | null>(null)
   const [activeMasterPlan, setActiveMasterPlan] = useState<number | null>(null)
   const [mudModalOpen, setMudModalOpen] = useState(false)
@@ -209,7 +209,7 @@ export default function LandPage() {
       <section className="relative py-24 md:py-32 overflow-hidden">
         <Image
           src="/images/website/06-regenerative-community-aerial.png"
-          alt="Abundancia — 376 acres in Cedar Creek, Bastrop County, Texas"
+          alt="Abundancia — 380 acres near Austin, Texas"
           fill
           className="object-cover"
           priority
@@ -222,17 +222,17 @@ export default function LandPage() {
               The Land
             </span>
             <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-white mb-6 max-w-4xl">
-              376 Acres in the Heart of Texas
+              380 Acres Near Austin, Texas
             </h1>
             <p className="text-xl text-white/80 max-w-3xl leading-relaxed">
-              Cedar Creek, Bastrop County — 30 minutes from downtown Austin. A rare assemblage of water, mature trees, existing structures, and agricultural exemption in the fastest-growing metro in America.
+              Near Austin, Texas — 30 minutes from downtown. A rare assemblage of water, mature trees, existing structures, and agricultural exemption in the fastest-growing metro in America.
             </p>
           </FadeIn>
 
           <FadeIn delay={0.3}>
             <div className="mt-8 flex items-center gap-3">
               <MapPin className="w-5 h-5 text-secondary-400" />
-              <span className="font-accent text-sm text-white/70">Cedar Creek, TX 78612 &middot; SH 71 Corridor &middot; Bastrop County</span>
+              <span className="font-accent text-sm text-white/70">Greater Austin, TX &middot; 30 Minutes from Downtown</span>
             </div>
           </FadeIn>
         </div>
@@ -329,19 +329,19 @@ export default function LandPage() {
                 The Micro Market
               </span>
               <h2 className="font-display text-4xl md:text-5xl mb-6">
-                Why Bastrop County
+                Why This Location
               </h2>
               <p className="text-lg text-white/70 leading-relaxed">
-                Bastrop County sits in the Austin growth corridor — one of the fastest-appreciating land markets in Texas. But what makes it truly special for Abundancia is the regulatory environment: no zoning restrictions, streamlined permitting, and agricultural exemptions that make innovative, mixed-use development possible by right.
+                This area sits in the Austin growth corridor — one of the fastest-appreciating land markets in Texas. But what makes it truly special for Abundancia is the regulatory environment: no zoning restrictions, streamlined permitting, and agricultural exemptions that make innovative, mixed-use development possible by right.
               </p>
             </div>
           </FadeIn>
 
           <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            {WHY_BASTROP.map((item, index) => (
+            {WHY_LOCATION.map((item, index) => (
               <StaggerItem key={item.label}>
                 <button
-                  onClick={() => setActiveBastrop(index)}
+                  onClick={() => setActiveLocation(index)}
                   className="bg-white/5 border border-white/10 rounded-2xl p-6 h-full text-left hover:bg-white/10 transition-colors duration-300 cursor-pointer w-full group"
                 >
                   <div className="font-display text-4xl md:text-5xl font-bold text-secondary-400 mb-1">
@@ -365,24 +365,24 @@ export default function LandPage() {
 
       {/* Why Bastrop Modal */}
       <Modal
-        open={activeBastrop !== null}
-        onClose={() => setActiveBastrop(null)}
-        title={activeBastrop !== null ? `${WHY_BASTROP[activeBastrop].stat} ${WHY_BASTROP[activeBastrop].label}` : ''}
+        open={activeLocation !== null}
+        onClose={() => setActiveLocation(null)}
+        title={activeLocation !== null ? `${WHY_LOCATION[activeLocation].stat} ${WHY_LOCATION[activeLocation].label}` : ''}
       >
-        {activeBastrop !== null && (
+        {activeLocation !== null && (
           <div>
             <div className="space-y-4 mb-6">
-              {WHY_BASTROP[activeBastrop].detail.map((paragraph, i) => (
+              {WHY_LOCATION[activeLocation].detail.map((paragraph, i) => (
                 <p key={i} className="text-sm text-neutral-600 leading-relaxed">
                   {paragraph}
                 </p>
               ))}
             </div>
             <Link
-              href={WHY_BASTROP[activeBastrop].link}
+              href={WHY_LOCATION[activeLocation].link}
               className="inline-flex items-center gap-2 font-accent text-sm font-semibold text-primary-700 hover:text-primary-900 transition-colors group"
             >
-              {WHY_BASTROP[activeBastrop].linkLabel}
+              {WHY_LOCATION[activeLocation].linkLabel}
               <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </Link>
           </div>
@@ -399,7 +399,7 @@ export default function LandPage() {
                 A Rare Assemblage
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                376 acres of water-rich ranchland with existing structures, mature tree cover, and agricultural exemption — assembled and ready for development.
+                380 acres of water-rich ranchland with existing structures, mature tree cover, and agricultural exemption — assembled and ready for development.
               </p>
             </div>
           </FadeIn>
@@ -600,7 +600,7 @@ export default function LandPage() {
                       Houston Toad Habitat Enhancement
                     </h4>
                     <p className="text-sm text-neutral-600 leading-relaxed mb-3">
-                      The Lost Pines ecoregion is home to the endangered Houston toad. Abundancia&apos;s conservation-forward design not only protects existing habitat — it actively enhances it through native planting, water feature management, and corridor connectivity. This aligns with the Bastrop County Lost Pines Habitat Conservation Plan (LPHCP), potentially qualifying for conservation easement tax benefits.
+                      The Lost Pines ecoregion is home to the endangered Houston toad. Abundancia&apos;s conservation-forward design not only protects existing habitat — it actively enhances it through native planting, water feature management, and corridor connectivity. This aligns with the Lost Pines Habitat Conservation Plan (LPHCP), potentially qualifying for conservation easement tax benefits.
                     </p>
                     <Link
                       href="/data-room/view/property/environmental-compliance"
@@ -628,7 +628,7 @@ export default function LandPage() {
                   No Zoning. No Barriers.
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-6">
-                  Bastrop County&apos;s lack of zoning is a decisive competitive advantage. While conventional Austin developments spend 18-24 months navigating rezoning hearings, neighborhood opposition, and political risk, Abundancia can build innovative mixed-use design by right.
+                  The county&apos;s lack of zoning is a decisive competitive advantage. While conventional Austin developments spend 18-24 months navigating rezoning hearings, neighborhood opposition, and political risk, Abundancia can build innovative mixed-use design by right.
                 </p>
                 <p className="text-lg text-neutral-600 leading-relaxed">
                   Texas has also adopted hempcrete building codes (IRC 2024, Appendix BA for hemp-lime construction and Appendix Q for tiny homes), removing what was historically the biggest regulatory barrier to natural building materials.
@@ -640,7 +640,7 @@ export default function LandPage() {
               <div className="space-y-4">
                 <div className="card p-5">
                   <div className="flex items-center justify-between mb-3">
-                    <span className="font-accent text-sm font-semibold text-neutral-900">Bastrop County</span>
+                    <span className="font-accent text-sm font-semibold text-neutral-900">Our County</span>
                     <span className="font-accent text-xs text-primary-600 bg-primary-50 px-2 py-1 rounded-full">Abundancia</span>
                   </div>
                   <div className="w-full bg-primary-100 rounded-full h-3 mb-2">
