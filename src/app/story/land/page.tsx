@@ -19,11 +19,11 @@ const WHY_AUSTIN = [
   {
     icon: TrendingUp,
     title: 'Explosive Growth',
-    description: 'Austin\'s population has doubled in two decades — sustained in-migration of high-income professionals, entrepreneurs, and creatives.',
+    description: 'Austin\'s population has doubled in two decades - sustained in-migration of high-income professionals, entrepreneurs, and creatives.',
     detail: [
       'Austin has been the fastest-growing large metro in the US for most of the past decade, adding over 150 people per day at its peak. The population of the Austin-Round Rock-Georgetown MSA surpassed 2.4 million in 2024, with projections to exceed 3 million by 2030.',
       'This growth is driven primarily by corporate relocations (Tesla, Oracle, Apple, Samsung) and remote workers from higher-cost metros like San Francisco and New York. The median household income of in-migrants is 20-30% higher than the existing Austin median, creating sustained demand for premium housing.',
-      'The growth corridor east of Austin — where Abundancia is located — is the primary expansion vector. Population growth in the surrounding county has outpaced even Austin proper in recent years, as buyers seek affordability while maintaining access to Austin\'s economy.',
+      'The growth corridor east of Austin - where Abundancia is located - is the primary expansion vector. Population growth in the surrounding county has outpaced even Austin proper in recent years, as buyers seek affordability while maintaining access to Austin\'s economy.',
     ],
     source: 'US Census Bureau, Austin Chamber of Commerce, Texas Demographic Center (2024)',
   },
@@ -32,31 +32,31 @@ const WHY_AUSTIN = [
     title: 'Sustainability Culture',
     description: 'Whisper Valley (zero-energy) and Colony Park (208-acre sustainable dev) prove Austin\'s deep appetite for eco-conscious living.',
     detail: [
-      'Austin has the strongest sustainability culture of any major Texas city. The Austin Climate Equity Plan targets net-zero community-wide greenhouse gas emissions by 2040. The city\'s Green Building program — the first in the nation when launched in 1991 — has rated over 15,000 projects.',
+      'Austin has the strongest sustainability culture of any major Texas city. The Austin Climate Equity Plan targets net-zero community-wide greenhouse gas emissions by 2040. The city\'s Green Building program - the first in the nation when launched in 1991 - has rated over 15,000 projects.',
       'Market proof points are compelling. Whisper Valley, Texas\'s first zero-energy community, has sold out multiple phases with premium pricing. Mueller, the 700-acre mixed-use development on the former airport site, commands significant price premiums over comparable neighborhoods. Colony Park, a 208-acre city-led sustainable development, was approved with broad community support.',
-      'Abundancia represents the next evolution beyond these projects — not just zero-energy or sustainable, but actively regenerative. The Austin market has been educated by these predecessors and is ready for a development that goes further: carbon-negative construction, food sovereignty, water independence, and community governance.',
+      'Abundancia represents the next evolution beyond these projects - not just zero-energy or sustainable, but actively regenerative. The Austin market has been educated by these predecessors and is ready for a development that goes further: carbon-negative construction, food sovereignty, water independence, and community governance.',
     ],
     source: 'City of Austin Climate Equity Plan, Whisper Valley Sales Data, Mueller Development Authority (2024)',
   },
   {
     icon: Building2,
     title: 'Tech & Innovation Hub',
-    description: 'Tesla, Apple, Google, Oracle, Samsung — the world\'s most innovative companies are here, creating demand for progressive housing.',
+    description: 'Tesla, Apple, Google, Oracle, Samsung - the world\'s most innovative companies are here, creating demand for progressive housing.',
     detail: [
       'Austin is home to Tesla\'s Gigafactory (employing 20,000+), Apple\'s $1B campus, Google\'s expanding downtown office, Oracle\'s relocated headquarters, Samsung\'s $17B chip fab, and hundreds of venture-backed startups. The tech sector accounts for approximately 18% of Austin\'s GDP.',
       'Tech professionals represent the ideal buyer demographic for Abundancia: high income, values-driven, early adopters of sustainable living, and accustomed to premium pricing for quality and innovation. Many are relocating from the Bay Area where regenerative and sustainable communities command significant premiums.',
-      'The remote work revolution has further expanded the addressable market. Professionals no longer need to live within commuting distance of downtown offices — a 30-minute drive to Austin is well within acceptable range, especially for hybrid workers who commute 2-3 days per week.',
+      'The remote work revolution has further expanded the addressable market. Professionals no longer need to live within commuting distance of downtown offices - a 30-minute drive to Austin is well within acceptable range, especially for hybrid workers who commute 2-3 days per week.',
     ],
     source: 'Austin Economic Development Department, LinkedIn Workforce Report, Bureau of Labor Statistics (2024)',
   },
   {
     icon: CloudSun,
     title: 'Year-Round Growing',
-    description: 'USDA Zone 8b with 250+ growing days, 300+ sunny days, and 37" annual rainfall — perfect for permaculture and solar.',
+    description: 'USDA Zone 8b with 250+ growing days, 300+ sunny days, and 37" annual rainfall - perfect for permaculture and solar.',
     detail: [
-      'Central Texas USDA Zone 8b provides one of the longest growing seasons in the continental US — 250+ frost-free days per year. This enables year-round food production through succession planting, food forests, and season-extending techniques like cold frames and hoop houses.',
-      'Solar irradiance in the Austin area averages 4.7-5.5 kWh/m²/day, among the highest in the US east of the Rockies. With 300+ sunny days annually, rooftop solar arrays achieve exceptional efficiency — a typical residential system produces 20-30% more energy than the same system in the Northeast.',
-      'The 37 inches of annual rainfall, while requiring supplemental irrigation during summer months, provides significant rainwater harvesting potential. A 2,500 SF rooftop captures approximately 58,000 gallons annually — enough for substantial household and garden use. Combined with Abundancia\'s seven retention ponds, the property has water resources that far exceed typical Texas developments.',
+      'Central Texas USDA Zone 8b provides one of the longest growing seasons in the continental US - 250+ frost-free days per year. This enables year-round food production through succession planting, food forests, and season-extending techniques like cold frames and hoop houses.',
+      'Solar irradiance in the Austin area averages 4.7-5.5 kWh/m²/day, among the highest in the US east of the Rockies. With 300+ sunny days annually, rooftop solar arrays achieve exceptional efficiency - a typical residential system produces 20-30% more energy than the same system in the Northeast.',
+      'The 37 inches of annual rainfall, while requiring supplemental irrigation during summer months, provides significant rainwater harvesting potential. A 2,500 SF rooftop captures approximately 58,000 gallons annually - enough for substantial household and garden use. Combined with Abundancia\'s seven retention ponds, the property has water resources that far exceed typical Texas developments.',
     ],
     source: 'USDA Plant Hardiness Zone Map, NREL Solar Radiation Data, NOAA Climate Normals (2024)',
   },
@@ -66,9 +66,9 @@ const WHY_LOCATION = [
   {
     stat: 'Zero',
     label: 'Zoning Restrictions',
-    description: 'No zoning means mixed-use, innovative design built by right — no years of rezoning hearings or political risk.',
+    description: 'No zoning means mixed-use, innovative design built by right - no years of rezoning hearings or political risk.',
     detail: [
-      'The county where Abundancia is located has no zoning ordinances, which is increasingly rare even in Texas. This means Abundancia can build a true mixed-use community — residential, commercial, agricultural, and recreational uses integrated together — without requiring variances, special use permits, or rezoning approvals.',
+      'The county where Abundancia is located has no zoning ordinances, which is increasingly rare even in Texas. This means Abundancia can build a true mixed-use community - residential, commercial, agricultural, and recreational uses integrated together - without requiring variances, special use permits, or rezoning approvals.',
       'In contrast, a comparable development within Austin city limits would require 18-24 months of entitlement work, public hearings, environmental reviews, and political negotiations. The risk of denial or significant design compromises is substantial. Our location\'s regulatory environment eliminates this entire layer of risk and cost.',
       'The county does require subdivision platting and compliance with building codes (including the newly adopted IRC 2024 hempcrete appendix), but these are predictable, non-discretionary processes with clear timelines.',
     ],
@@ -93,7 +93,7 @@ const WHY_LOCATION = [
     description: 'Agricultural exemption dramatically reduces holding costs during development. The 380-acre site qualifies.',
     detail: [
       'The 380-acre Abundancia property qualifies for Texas agricultural exemption, which values the land based on agricultural productivity rather than market value. This reduces the assessed value from approximately $15-20K per acre (market) to $200-400 per acre (agricultural), cutting annual property taxes by over 95% during the development period.',
-      'The combined Bastrop County tax rate of approximately $0.98 per $100 of assessed value is also significantly lower than Austin\'s rate of $1.85-2.20. Even after development, Abundancia homeowners benefit from lower base tax rates — though the MUD bond overlay will add a special assessment for infrastructure debt service.',
+      'The combined Bastrop County tax rate of approximately $0.98 per $100 of assessed value is also significantly lower than Austin\'s rate of $1.85-2.20. Even after development, Abundancia homeowners benefit from lower base tax rates - though the MUD bond overlay will add a special assessment for infrastructure debt service.',
       'The agricultural exemption can be maintained on the 90%+ of the site designated as conservation and agricultural land even after the development parcels are subdivided, providing ongoing tax benefits that enhance the long-term economics of the project.',
     ],
     link: '/data-room/view/investment/executive-summary',
@@ -106,7 +106,7 @@ const WHY_LOCATION = [
     detail: [
       'The Abundancia property has direct highway access to downtown Austin in approximately 30 minutes. Multiple major highways provide alternative routes and direct access to Austin-Bergstrom International Airport in under 25 minutes.',
       'The eastern growth corridor is the primary expansion vector for the Austin metro. TxDOT has invested billions in capacity improvements, and the corridor is planned for continued widening and improvement over the next decade. This infrastructure investment supports both commuter access and long-term property value appreciation.',
-      'The property is positioned at the convergence of Austin\'s growth wave and Bastrop County regulatory advantages — close enough for daily commuting, but far enough to capture the benefits of unincorporated county land.',
+      'The property is positioned at the convergence of Austin\'s growth wave and Bastrop County regulatory advantages - close enough for daily commuting, but far enough to capture the benefits of unincorporated county land.',
     ],
     link: '/data-room/view/research/market-research-report',
     linkLabel: 'View Location Analysis',
@@ -125,8 +125,8 @@ const PROPERTY_FEATURES = [
   {
     icon: TreePine,
     title: 'Lost Pines Ecoregion',
-    description: 'A biological island of loblolly pines — the westernmost stand in North America. Unique ecological value enhances property premium.',
-    detail: 'The Lost Pines is a 70-square-mile island of loblolly pine forest separated from the main East Texas pine belt by over 100 miles of blackland prairie. This biological anomaly — the westernmost naturally occurring pine stand in North America — creates a unique ecological character that is both a conservation responsibility and a significant property value driver. The ecoregion supports dozens of species not found elsewhere in Central Texas, including the endangered Houston toad. Abundancia\'s conservation-forward design (over 90% preserved land) actively enhances this habitat through native planting, water management, and corridor connectivity.',
+    description: 'A biological island of loblolly pines - the westernmost stand in North America. Unique ecological value enhances property premium.',
+    detail: 'The Lost Pines is a 70-square-mile island of loblolly pine forest separated from the main East Texas pine belt by over 100 miles of blackland prairie. This biological anomaly - the westernmost naturally occurring pine stand in North America - creates a unique ecological character that is both a conservation responsibility and a significant property value driver. The ecoregion supports dozens of species not found elsewhere in Central Texas, including the endangered Houston toad. Abundancia\'s conservation-forward design (over 90% preserved land) actively enhances this habitat through native planting, water management, and corridor connectivity.',
     link: '/data-room/view/property/environmental-compliance',
     linkLabel: 'Environmental Compliance',
   },
@@ -141,23 +141,23 @@ const PROPERTY_FEATURES = [
   {
     icon: Landmark,
     title: '1870 Historic Guest House',
-    description: '2,000 SF historic structure — one of the oldest in the county. Character asset for events and heritage tourism.',
-    detail: 'Dating to approximately 1870, this 2,000 SF structure is one of the oldest surviving buildings in Bastrop County. The historic guest house provides irreplaceable character and authenticity — a tangible connection to the region\'s heritage that cannot be replicated by new construction. Planned uses include a boutique event venue, heritage tourism attraction, and community gathering space. The structure may qualify for historic preservation tax credits, and its story adds marketing value that differentiates Abundancia from generic new developments.',
+    description: '2,000 SF historic structure - one of the oldest in the county. Character asset for events and heritage tourism.',
+    detail: 'Dating to approximately 1870, this 2,000 SF structure is one of the oldest surviving buildings in Bastrop County. The historic guest house provides irreplaceable character and authenticity - a tangible connection to the region\'s heritage that cannot be replicated by new construction. Planned uses include a boutique event venue, heritage tourism attraction, and community gathering space. The structure may qualify for historic preservation tax credits, and its story adds marketing value that differentiates Abundancia from generic new developments.',
     link: '/data-room/view/property/site-assessment',
     linkLabel: 'Historic Structures',
   },
   {
     icon: Fence,
     title: 'Completely Fenced',
-    description: 'Full perimeter fencing with agricultural infrastructure. 2 barns — one with a performance stage for events.',
-    detail: 'The entire 380-acre property is enclosed with maintained perimeter fencing — a significant existing asset that provides immediate security, livestock management capability, and a defined community boundary. The two barns include a traditional agricultural barn suitable for equipment storage and workshop conversion, and a larger event barn featuring an existing performance stage that has been used for concerts and gatherings. This event infrastructure provides immediate revenue potential from Phase 1, hosting weddings, corporate retreats, music events, and community festivals while residential development progresses.',
+    description: 'Full perimeter fencing with agricultural infrastructure. 2 barns - one with a performance stage for events.',
+    detail: 'The entire 380-acre property is enclosed with maintained perimeter fencing - a significant existing asset that provides immediate security, livestock management capability, and a defined community boundary. The two barns include a traditional agricultural barn suitable for equipment storage and workshop conversion, and a larger event barn featuring an existing performance stage that has been used for concerts and gatherings. This event infrastructure provides immediate revenue potential from Phase 1, hosting weddings, corporate retreats, music events, and community festivals while residential development progresses.',
     link: '/data-room/view/property/site-assessment',
     linkLabel: 'Infrastructure Assessment',
   },
   {
     icon: Sun,
     title: '2 Dry Creek Beds',
-    description: 'Natural drainage corridors that become design features — walking trails, wildlife corridors, and bioswale systems.',
+    description: 'Natural drainage corridors that become design features - walking trails, wildlife corridors, and bioswale systems.',
     detail: 'The two dry creek beds are natural drainage corridors that channel rainfall across the property into the retention ponds. Rather than treating these as obstacles to development, Abundancia\'s master plan integrates them as premium design features: linear parks with walking and cycling trails, wildlife movement corridors connecting habitat patches, and engineered bioswale systems that filter stormwater naturally before it reaches the ponds. These corridors also serve as natural fire breaks and contribute to the property\'s microclimate by channeling cool air through developed areas.',
     link: '/data-room/view/property/master-plan',
     linkLabel: 'Master Plan Details',
@@ -209,7 +209,7 @@ export default function LandPage() {
       <section className="relative py-24 md:py-32 overflow-hidden">
         <Image
           src="/images/website/06-regenerative-community-aerial.png"
-          alt="Abundancia — 380 acres near Austin, Texas"
+          alt="Abundancia - 380 acres near Austin, Texas"
           fill
           className="object-cover"
           priority
@@ -225,7 +225,7 @@ export default function LandPage() {
               380 Acres in Bastrop County
             </h1>
             <p className="text-xl text-white/80 max-w-3xl leading-relaxed">
-              Bastrop County — 30 minutes from downtown Austin. A rare assemblage of water, mature trees, existing structures, and agricultural exemption in the fastest-growing metro in America.
+              Bastrop County - 30 minutes from downtown Austin. A rare assemblage of water, mature trees, existing structures, and agricultural exemption in the fastest-growing metro in America.
             </p>
           </FadeIn>
 
@@ -332,7 +332,7 @@ export default function LandPage() {
                 Why This Location
               </h2>
               <p className="text-lg text-white/70 leading-relaxed">
-                This area sits in the Austin growth corridor — one of the fastest-appreciating land markets in Texas. But what makes it truly special for Abundancia is the regulatory environment: no zoning restrictions, streamlined permitting, and agricultural exemptions that make innovative, mixed-use development possible by right.
+                This area sits in the Austin growth corridor - one of the fastest-appreciating land markets in Texas. But what makes it truly special for Abundancia is the regulatory environment: no zoning restrictions, streamlined permitting, and agricultural exemptions that make innovative, mixed-use development possible by right.
               </p>
             </div>
           </FadeIn>
@@ -399,7 +399,7 @@ export default function LandPage() {
                 A Rare Assemblage
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                380 acres of water-rich ranchland with existing structures, mature tree cover, and agricultural exemption — assembled and ready for development.
+                380 acres of water-rich ranchland with existing structures, mature tree cover, and agricultural exemption - assembled and ready for development.
               </p>
             </div>
           </FadeIn>
@@ -491,10 +491,10 @@ export default function LandPage() {
                   Built for Regeneration
                 </h2>
                 <p className="text-lg text-neutral-600 leading-relaxed mb-6">
-                  Central Texas provides an exceptional climate for both solar energy production and year-round food cultivation. USDA Zone 8b means a 250+ day growing season — long enough to sustain permaculture food forests, community gardens, and orchard systems that feed residents year-round.
+                  Central Texas provides an exceptional climate for both solar energy production and year-round food cultivation. USDA Zone 8b means a 250+ day growing season - long enough to sustain permaculture food forests, community gardens, and orchard systems that feed residents year-round.
                 </p>
                 <p className="text-lg text-neutral-600 leading-relaxed">
-                  With 300+ sunny days annually, solar arrays achieve maximum efficiency. Combined with passive solar building design and hempcrete&apos;s thermal mass, homes maintain comfortable temperatures with minimal energy input — a critical advantage in Texas summers.
+                  With 300+ sunny days annually, solar arrays achieve maximum efficiency. Combined with passive solar building design and hempcrete&apos;s thermal mass, homes maintain comfortable temperatures with minimal energy input - a critical advantage in Texas summers.
                 </p>
               </div>
             </FadeIn>
@@ -564,7 +564,7 @@ export default function LandPage() {
           <Modal
             open={activeMasterPlan !== null}
             onClose={() => setActiveMasterPlan(null)}
-            title={activeMasterPlan !== null ? `${MASTER_PLAN[activeMasterPlan].percentage} — ${MASTER_PLAN[activeMasterPlan].label}` : ''}
+            title={activeMasterPlan !== null ? `${MASTER_PLAN[activeMasterPlan].percentage} - ${MASTER_PLAN[activeMasterPlan].label}` : ''}
           >
             {activeMasterPlan !== null && (
               <div>
@@ -600,7 +600,7 @@ export default function LandPage() {
                       Houston Toad Habitat Enhancement
                     </h4>
                     <p className="text-sm text-neutral-600 leading-relaxed mb-3">
-                      The Lost Pines ecoregion is home to the endangered Houston toad. Abundancia&apos;s conservation-forward design not only protects existing habitat — it actively enhances it through native planting, water feature management, and corridor connectivity. This aligns with the Lost Pines Habitat Conservation Plan (LPHCP), potentially qualifying for conservation easement tax benefits.
+                      The Lost Pines ecoregion is home to the endangered Houston toad. Abundancia&apos;s conservation-forward design not only protects existing habitat - it actively enhances it through native planting, water feature management, and corridor connectivity. This aligns with the Lost Pines Habitat Conservation Plan (LPHCP), potentially qualifying for conservation easement tax benefits.
                     </p>
                     <Link
                       href="/data-room/view/property/environmental-compliance"
@@ -671,7 +671,7 @@ export default function LandPage() {
                         MUD Bond Financing
                       </h4>
                       <p className="text-xs text-neutral-600 leading-relaxed">
-                        Municipal Utility District bonds can reimburse infrastructure costs with tax-free municipal bonds — dramatically improving project economics and reducing capital requirements.
+                        Municipal Utility District bonds can reimburse infrastructure costs with tax-free municipal bonds - dramatically improving project economics and reducing capital requirements.
                       </p>
                       <span className="inline-flex items-center gap-1 mt-2 text-xs font-accent font-semibold text-secondary-600 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                         Learn more <ArrowRight className="w-3 h-3" />
@@ -696,10 +696,10 @@ export default function LandPage() {
             A Municipal Utility District (MUD) is a special-purpose political subdivision of the State of Texas that provides water, sewage, drainage, and other utility services within its boundaries. MUDs are authorized under Article XVI, Section 59 of the Texas Constitution and Chapter 54 of the Texas Water Code.
           </p>
           <p className="text-sm text-neutral-600 leading-relaxed mb-4">
-            For Abundancia, a MUD allows the project to issue tax-free municipal bonds to finance infrastructure construction — roads, water distribution, wastewater treatment, drainage systems, and utility lines. Once the infrastructure is built and the bonds are issued, the MUD levies a property tax on residents within the district to service the debt. The developer is then reimbursed for infrastructure costs from bond proceeds.
+            For Abundancia, a MUD allows the project to issue tax-free municipal bonds to finance infrastructure construction - roads, water distribution, wastewater treatment, drainage systems, and utility lines. Once the infrastructure is built and the bonds are issued, the MUD levies a property tax on residents within the district to service the debt. The developer is then reimbursed for infrastructure costs from bond proceeds.
           </p>
           <p className="text-sm text-neutral-600 leading-relaxed mb-6">
-            This mechanism converts upfront capital expenditure into long-term, tax-supported municipal debt — dramatically improving project IRR, reducing the equity requirement, and aligning infrastructure costs with the timeline of home sales and resident occupancy. MUDs are a proven, widely-used structure in Texas real estate development, with hundreds of active districts across the state.
+            This mechanism converts upfront capital expenditure into long-term, tax-supported municipal debt - dramatically improving project IRR, reducing the equity requirement, and aligning infrastructure costs with the timeline of home sales and resident occupancy. MUDs are a proven, widely-used structure in Texas real estate development, with hundreds of active districts across the state.
           </p>
           <div className="flex flex-wrap gap-2 mb-6">
             {['Tax-Free Bonds', 'Infrastructure Reimbursement', 'Texas Water Code Ch. 54', 'Improved IRR', 'Reduced Equity Need', 'Proven Structure'].map((tag) => (
@@ -740,7 +740,7 @@ export default function LandPage() {
               See What We&apos;re Building
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-8">
-              Explore the homes, community spaces, and regenerative infrastructure that make Abundancia more than a development — it&apos;s a complete ecosystem.
+              Explore the homes, community spaces, and regenerative infrastructure that make Abundancia more than a development - it&apos;s a complete ecosystem.
             </p>
           </FadeIn>
 

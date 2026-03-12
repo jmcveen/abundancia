@@ -39,7 +39,7 @@ const HOUSING_TYPES = [
     image: '/images/website/17-domes.jpeg',
     type: 'Domes',
     units: '~30 Units',
-    description: 'Geodesic and monolithic dome structures — naturally resilient, energy-efficient, and architecturally striking.',
+    description: 'Geodesic and monolithic dome structures - naturally resilient, energy-efficient, and architecturally striking.',
     detail: 'Geodesic and monolithic dome structures represent the pinnacle of natural architecture. The dome shape distributes structural loads evenly, making them inherently resistant to wind, earthquakes, and storms. Their thermal efficiency reduces energy consumption by up to 50% compared to conventional homes, and the striking silhouettes create an iconic community aesthetic.',
     priceRange: '$200K-$450K',
     sqftRange: '800-2,200 SF',
@@ -59,7 +59,7 @@ const HOUSING_TYPES = [
     image: '/images/website/10-affordable-condos.png',
     type: 'Affordable Condos',
     units: 'Included in Multi',
-    description: 'Designed to address Austin\'s affordability crisis — premium quality at accessible price points.',
+    description: 'Designed to address Austin\'s affordability crisis - premium quality at accessible price points.',
     detail: 'Purpose-built to address the Austin-area affordability crisis without sacrificing quality. These condominiums use the same carbon-negative hempcrete construction and regenerative systems as premium units but optimize layouts and shared infrastructure to deliver price points accessible to working families. Subsidized by the community model\'s commercial revenue streams.',
     priceRange: '$150K-$275K',
     sqftRange: '500-1,100 SF',
@@ -69,7 +69,7 @@ const HOUSING_TYPES = [
     image: '/images/website/08-homes.png',
     type: 'Custom Lots',
     units: 'Select Sites',
-    description: 'Premium lots for custom builds within Abundancia\'s design guidelines — bring your vision to life.',
+    description: 'Premium lots for custom builds within Abundancia\'s design guidelines - bring your vision to life.',
     detail: 'Premium homesites for buyers who want to design their own residence within Abundancia\'s regenerative building guidelines. Each lot is pre-assessed for solar orientation, water features, and native landscape integration. Owners work with Abundancia\'s approved builders to ensure hempcrete construction, Living Building Challenge compliance, and visual harmony with the community.',
     priceRange: '$175K-$400K (Lot)',
     sqftRange: 'Custom Design',
@@ -81,17 +81,17 @@ const BIOHARMONIC_FEATURES = [
   {
     title: 'Long Lasting',
     description: 'Last 500+ years. Resistant to fire, floods, hurricanes, earthquakes, pests, and mold.',
-    detail: 'Hempcrete structures have been documented lasting over 500 years in European buildings. The material is naturally fire-resistant with a 2+ hour fire rating, impervious to pests and mold, and gains strength over time through continued petrification. Unlike conventional construction that degrades, hempcrete buildings improve with age — making them multi-generational assets.',
+    detail: 'Hempcrete structures have been documented lasting over 500 years in European buildings. The material is naturally fire-resistant with a 2+ hour fire rating, impervious to pests and mold, and gains strength over time through continued petrification. Unlike conventional construction that degrades, hempcrete buildings improve with age - making them multi-generational assets.',
   },
   {
     title: 'All Natural',
     description: 'Breathable, non-toxic, natural materials with low to no maintenance requirements.',
-    detail: 'Every material in a bioharmonic building is sourced from nature and returns safely to nature. Hempcrete walls breathe, actively regulating indoor humidity between 40-60% — the ideal range for human health. Zero VOCs, zero formaldehyde, zero toxic off-gassing. The result is the healthiest indoor air quality achievable in any building type, reducing respiratory illness and improving sleep quality.',
+    detail: 'Every material in a bioharmonic building is sourced from nature and returns safely to nature. Hempcrete walls breathe, actively regulating indoor humidity between 40-60% - the ideal range for human health. Zero VOCs, zero formaldehyde, zero toxic off-gassing. The result is the healthiest indoor air quality achievable in any building type, reducing respiratory illness and improving sleep quality.',
   },
   {
     title: 'Harmonic Design',
     description: 'Biophilic architecture, sacred geometry, 3D printing, and passive solar design.',
-    detail: 'Biophilic design principles integrate nature into every living space — natural light, organic forms, living walls, and water features. Sacred geometry proportions (golden ratio, Fibonacci sequences) create spaces that feel intuitively harmonious. Passive solar orientation captures winter warmth and deflects summer heat, reducing energy demands by 60-80% compared to conventional homes.',
+    detail: 'Biophilic design principles integrate nature into every living space - natural light, organic forms, living walls, and water features. Sacred geometry proportions (golden ratio, Fibonacci sequences) create spaces that feel intuitively harmonious. Passive solar orientation captures winter warmth and deflects summer heat, reducing energy demands by 60-80% compared to conventional homes.',
   },
   {
     title: 'Smart Automation',
@@ -104,7 +104,7 @@ const COMMUNITY_SPACES = [
   { image: '/images/website/19-pyramid-ceremony-space.jpeg', name: 'Pyramid Ceremony Space', detail: 'A sacred gathering space designed with sacred geometry principles. The pyramid structure amplifies acoustic resonance and creates a container for ceremony, meditation, sound healing, and community ritual. Hosts weekly gatherings, solstice celebrations, and rites of passage.', link: '/story/vision' },
   { image: '/images/website/20-yoga-shala.jpeg', name: 'Yoga Shala & Meditation Center', detail: 'A dedicated space for yoga, breathwork, and meditation practice with radiant-heated bamboo floors, floor-to-ceiling windows overlooking native gardens, and an outdoor practice deck. Daily classes are free for all residents.', link: '/story/vision' },
   { image: '/images/website/21-resource-library.png', name: 'Resource Library', detail: 'A community knowledge hub with physical and digital collections covering permaculture, regenerative design, holistic health, and conscious living. Includes quiet study rooms, a children\'s reading corner, and a seed library.', link: '/story/vision' },
-  { image: '/images/website/22-indoor-outdoor-gyms.jpeg', name: 'Indoor & Outdoor Gyms', detail: 'Full fitness facilities including functional training equipment, outdoor calisthenics park, climbing wall, and movement studio. Designed to support holistic fitness — strength, flexibility, and cardiovascular health in fresh air.', link: '/story/vision' },
+  { image: '/images/website/22-indoor-outdoor-gyms.jpeg', name: 'Indoor & Outdoor Gyms', detail: 'Full fitness facilities including functional training equipment, outdoor calisthenics park, climbing wall, and movement studio. Designed to support holistic fitness - strength, flexibility, and cardiovascular health in fresh air.', link: '/story/vision' },
   { image: '/images/website/23-research-center.png', name: 'Research Center', detail: 'An applied research facility focused on hempcrete construction innovation, regenerative agriculture methods, water purification systems, and renewable energy optimization. Partners with universities and publishes open-source findings.', link: '/data-room/view/regenerative/hempcrete-construction' },
   { image: '/images/website/24-parks-gardens-food-forests.jpeg', name: 'Parks, Gardens & Food Forests', detail: 'Over 20 acres of permaculture food forests, community gardens, heritage orchards, and native wildflower meadows. Seven-layer food forests produce fruit, nuts, herbs, and vegetables year-round in USDA Zone 8b\'s 250+ growing days.', link: '/story/regeneration' },
   { image: '/images/website/25-sacred-temple-complex.jpeg', name: 'Sacred Temple Complex', detail: 'A multi-faith contemplative space honoring diverse spiritual traditions. Includes an open-air temple, labyrinth walk, sacred grove, and quiet reflection gardens. Designed for personal practice and interfaith community gatherings.', link: '/story/vision' },
@@ -210,7 +210,7 @@ export default function CommunityPage() {
       <section className="relative py-24 md:py-32 overflow-hidden">
         <Image
           src="/images/website/09-commercial-areas.png"
-          alt="Abundancia community — more than homes, a complete ecosystem"
+          alt="Abundancia community - more than homes, a complete ecosystem"
           fill
           className="object-cover"
           priority
@@ -223,10 +223,10 @@ export default function CommunityPage() {
               The Community
             </span>
             <h1 className="font-display text-5xl md:text-6xl lg:text-7xl text-white mb-6 max-w-4xl">
-              More Than Homes — A Complete Ecosystem
+              More Than Homes - A Complete Ecosystem
             </h1>
             <p className="text-xl text-white/80 max-w-3xl leading-relaxed">
-              Hempcrete residences, creative studios, wellness facilities, organic restaurants, sacred spaces, and commercial amenities — all designed for regenerative living.
+              Hempcrete residences, creative studios, wellness facilities, organic restaurants, sacred spaces, and commercial amenities - all designed for regenerative living.
             </p>
           </FadeIn>
         </div>
@@ -245,7 +245,7 @@ export default function CommunityPage() {
                 Homes That Heal the Atmosphere
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                Every home is built with hempcrete — carbon-negative, fire-resistant, and designed to last 500+ years. Multiple housing types ensure accessibility at every price point.
+                Every home is built with hempcrete - carbon-negative, fire-resistant, and designed to last 500+ years. Multiple housing types ensure accessibility at every price point.
               </p>
             </div>
           </FadeIn>
@@ -365,7 +365,7 @@ export default function CommunityPage() {
                   Bioharmonic Buildings
                 </h2>
                 <p className="text-lg text-white/70 leading-relaxed mb-8">
-                  These resilient buildings are made with healthy materials such as bioceramic, hemp, algae, and rammed earth — designed to harmonize with both the human body and the natural environment.
+                  These resilient buildings are made with healthy materials such as bioceramic, hemp, algae, and rammed earth - designed to harmonize with both the human body and the natural environment.
                 </p>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -430,7 +430,7 @@ export default function CommunityPage() {
                 Spaces for Connection & Growth
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                Sacred ceremony spaces, wellness facilities, libraries, and food forests — designed for the collective well-being of the community.
+                Sacred ceremony spaces, wellness facilities, libraries, and food forests - designed for the collective well-being of the community.
               </p>
             </div>
           </FadeIn>
@@ -474,7 +474,7 @@ export default function CommunityPage() {
                 Open to the World
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                Commercial spaces designed to inspire locals and tourists — demonstrating how zero-waste, eco-products, and a healthy lifestyle integrate with nature and connection.
+                Commercial spaces designed to inspire locals and tourists - demonstrating how zero-waste, eco-products, and a healthy lifestyle integrate with nature and connection.
               </p>
             </div>
           </FadeIn>
@@ -497,7 +497,7 @@ export default function CommunityPage() {
                   Retreat & Event Center
                 </h2>
                 <p className="text-lg text-white/70 leading-relaxed mb-6">
-                  The existing 2,821 SF farmhouse, 2,000 SF historic guest house, and 2 barns form the nucleus of Abundancia&apos;s retreat and event center — generating revenue from day one while the broader community is built.
+                  The existing 2,821 SF farmhouse, 2,000 SF historic guest house, and 2 barns form the nucleus of Abundancia&apos;s retreat and event center - generating revenue from day one while the broader community is built.
                 </p>
 
                 <div className="space-y-4">
@@ -511,7 +511,7 @@ export default function CommunityPage() {
                       <div className="w-1.5 h-1.5 rounded-full bg-secondary-400 mt-2.5 flex-shrink-0" />
                       <div>
                         <span className="font-accent text-sm font-semibold text-white">{item.label}</span>
-                        <span className="text-sm text-white/60"> — {item.detail}</span>
+                        <span className="text-sm text-white/60"> - {item.detail}</span>
                       </div>
                     </div>
                   ))}
@@ -585,7 +585,7 @@ export default function CommunityPage() {
               The Systems Behind the Vision
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-8">
-              Discover the regenerative infrastructure — energy, water, food, and waste systems — that make Abundancia a truly self-sustaining community.
+              Discover the regenerative infrastructure - energy, water, food, and waste systems - that make Abundancia a truly self-sustaining community.
             </p>
           </FadeIn>
 

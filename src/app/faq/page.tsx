@@ -54,7 +54,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'How many homes will there be?',
-        a: 'The full buildout includes 665 total structures: 100 single-family homes, 350 multifamily condos, 60 special residential units (tiny homes, domes, and other unique designs), 75 rental multifamily condos, 50 special rental units, 100 lots, plus community and commercial spaces. All residential construction uses hempcrete or other approved regenerative materials — carbon-negative, fire-resistant building materials with a 500+ year lifespan.',
+        a: 'The full buildout includes 665 total structures: 100 single-family homes, 350 multifamily condos, 60 special residential units (tiny homes, domes, and other unique designs), 75 rental multifamily condos, 50 special rental units, 100 lots, plus community and commercial spaces. All residential construction uses hempcrete or other approved regenerative materials - carbon-negative, fire-resistant building materials with a 500+ year lifespan.',
         links: [
           { text: 'Hempcrete Construction Details', href: '/data-room/view/regenerative/hempcrete-construction' },
           { text: 'View Unit Economics', href: '/data-room/view/financial/unit-economics' },
@@ -93,7 +93,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'When do investors receive distributions?',
-        a: 'Distributions begin when Phase 1 operations generate sufficient cash flow — projected within 12-18 months. Quarterly reporting with annual K-1s. The retreat center and initial home sales drive early cash flow, with distributions increasing as later phases come online.',
+        a: 'Distributions begin when Phase 1 operations generate sufficient cash flow - projected within 12-18 months. Quarterly reporting with annual K-1s. The retreat center and initial home sales drive early cash flow, with distributions increasing as later phases come online.',
         links: [
           { text: 'View Timeline', href: '/timeline' },
           { text: 'Financial Projections', href: '/data-room/view/financial/financial-projections' },
@@ -148,7 +148,7 @@ const FAQ_SECTIONS = [
     faqs: [
       {
         q: 'What is hempcrete?',
-        a: 'Hempcrete is a bio-composite building material made from hemp hurds and a lime binder. It provides R-30+ insulation, 2+ hour fire resistance, is naturally pest-resistant, non-toxic, and carbon-negative — each home sequesters 20-40 tons of CO2. Buildings last 500+ years. Texas adopted hempcrete building codes in 2023, providing clear regulatory pathways.',
+        a: 'Hempcrete is a bio-composite building material made from hemp hurds and a lime binder. It provides R-30+ insulation, 2+ hour fire resistance, is naturally pest-resistant, non-toxic, and carbon-negative - each home sequesters 20-40 tons of CO2. Buildings last 500+ years. Texas adopted hempcrete building codes in 2023, providing clear regulatory pathways.',
         links: [
           { text: 'Hempcrete Construction Guide', href: '/data-room/view/regenerative/hempcrete-construction' },
           { text: 'Regenerative Vision', href: '/story/regeneration' },
@@ -156,7 +156,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'Why is fire resistance important here?',
-        a: 'The 2011 Bastrop Complex Fire burned 34,000 acres and destroyed 1,673 homes — the most destructive wildfire in Texas history. Hempcrete\'s 2+ hour fire rating provides critical protection that no other development in the Lost Pines region offers. This is not just a feature — it is a fundamental safety advantage for families and a key factor in reduced insurance costs.',
+        a: 'The 2011 Bastrop Complex Fire burned 34,000 acres and destroyed 1,673 homes - the most destructive wildfire in Texas history. Hempcrete\'s 2+ hour fire rating provides critical protection that no other development in the Lost Pines region offers. This is not just a feature - it is a fundamental safety advantage for families and a key factor in reduced insurance costs.',
         links: [
           { text: 'Property & Land Details', href: '/story/land' },
         ],
@@ -170,7 +170,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'What about the Houston toad?',
-        a: 'The Lost Pines ecoregion is home to the endangered Houston toad. Abundancia\'s conservation-forward design preserves over 90% of the land, actively enhancing habitat through native planting, water feature management, and corridor connectivity — aligned with local habitat conservation plans. Our approach transforms regulatory compliance into ecological enhancement.',
+        a: 'The Lost Pines ecoregion is home to the endangered Houston toad. Abundancia\'s conservation-forward design preserves over 90% of the land, actively enhancing habitat through native planting, water feature management, and corridor connectivity - aligned with local habitat conservation plans. Our approach transforms regulatory compliance into ecological enhancement.',
         links: [
           { text: 'Land Story', href: '/story/land' },
         ],
@@ -183,7 +183,7 @@ const FAQ_SECTIONS = [
     faqs: [
       {
         q: 'Why Austin?',
-        a: 'Austin is one of the fastest-growing metros in the US — 2.4M+ MSA population, 50-60K new residents/year, $86K median income, major tech employers (Tesla, Apple, Google, Oracle), and the strongest sustainability culture in Texas. The demand for sustainable living options far exceeds current supply.',
+        a: 'Austin is one of the fastest-growing metros in the US - 2.4M+ MSA population, 50-60K new residents/year, $86K median income, major tech employers (Tesla, Apple, Google, Oracle), and the strongest sustainability culture in Texas. The demand for sustainable living options far exceeds current supply.',
         links: [
           { text: 'Market Research Report', href: '/data-room/view/research/market-research-report' },
         ],
@@ -269,7 +269,7 @@ export default function FAQPage() {
               Frequently Asked Questions
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
-              Everything you need to know about Abundancia — the project, the investment, the community, and the regenerative systems.
+              Everything you need to know about Abundancia - the project, the investment, the community, and the regenerative systems.
             </p>
           </FadeIn>
         </div>
@@ -344,7 +344,7 @@ export default function FAQPage() {
               Ready to Take the Next Step?
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
-              Get in touch with our team — we&apos;re happy to discuss any aspect of the project.
+              Get in touch with our team - we&apos;re happy to discuss any aspect of the project.
             </p>
           </FadeIn>
           <FadeIn delay={0.2}>

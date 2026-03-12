@@ -163,7 +163,7 @@ export function Header() {
           transition-all duration-500
           ${isScrolled ? 'bg-white/90 shadow-xl shadow-neutral-900/10' : ''}
         `}>
-          {/* Logo — triple-tap the icon to unlock admin access */}
+          {/* Logo - triple-tap the icon to unlock admin access */}
           <div className="flex items-center gap-2 sm:gap-3 group">
             <button
               onClick={handleLogoTap}
