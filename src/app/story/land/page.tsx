@@ -456,10 +456,17 @@ export default function LandPage() {
       <section className="py-0">
         <div className="grid grid-cols-2 lg:grid-cols-4">
           {[
+<<<<<<< HEAD
             { image: '/images/website/24-parks-gardens-food-forests.png', label: 'Parks & Food Forests' },
             { image: '/images/website/42-ecological-preservation.png', label: 'Ecological Preservation' },
             { image: '/images/website/44-biodiversity-regeneration.png', label: 'Biodiversity' },
             { image: '/images/website/49-reforestation.png', label: 'Reforestation' },
+=======
+            { image: '/images/website/24-parks-gardens-food-forests.jpeg', label: 'Parks & Food Forests' },
+            { image: '/images/website/42-ecological-preservation.webp', label: 'Ecological Preservation' },
+            { image: '/images/website/44-biodiversity-regeneration.jpg', label: 'Biodiversity' },
+            { image: '/images/website/49-reforestation.jpeg', label: 'Reforestation' },
+>>>>>>> 94cf381 (style: replace ecological preservation image with creek/forest photo (#7))
           ].map((item) => (
             <Link key={item.label} href="/story/regeneration" className="relative aspect-square overflow-hidden group block">
               <Image
