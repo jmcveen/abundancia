@@ -134,7 +134,7 @@ const SOLUTION_PILLARS = [
     icon: TreePine,
     title: '90%+ Land Preserved',
     description: 'Conservation-forward design protects the Lost Pines ecosystem and enhances Houston toad habitat. Tax-advantaged easements.',
-    stat: '360',
+    stat: '340',
     statLabel: 'Acres Conserved',
     color: 'bg-success-50 text-success-700',
   },
@@ -165,8 +165,8 @@ const CAPITAL_HIGHLIGHTS = [
 
 const MOAT_LAYERS = [
   { title: 'First Hempcrete Community in Austin', description: 'No comparable product exists in the fastest-growing metro in America.' },
-  { title: '376 Acres in the Path of Growth', description: 'Bastrop County, 30 min from downtown Austin. Land at this scale cannot be replicated.' },
-  { title: 'Regulatory Advantage', description: 'No zoning in Bastrop County. Hempcrete codes adopted in Texas. 6-12 month timeline vs 18-24 in Austin.' },
+  { title: '380 Acres in the Path of Growth', description: 'Greater Austin area, 30 min from downtown. Land at this scale cannot be replicated.' },
+  { title: 'Regulatory Advantage', description: 'Favorable regulatory environment. Hempcrete codes adopted in Texas. 6-12 month permitting timeline.' },
   { title: 'Conservation Ecosystem', description: '90%+ land preserved with tax-advantaged easements. Exceeds LPHCP environmental requirements.' },
   { title: 'Proven Team', description: '$755M+ raised for real estate projects. 200+ transactions. 70+ eco communities analyzed.' },
   { title: 'Diversified Revenue', description: 'Four streams across residential, commercial, rental, and lots.' },
@@ -326,7 +326,7 @@ export default function InvestorOverviewPage() {
           <FadeIn>
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary-50 border border-primary-100 mb-8">
               <MapPin className="w-3.5 h-3.5 text-primary-600" />
-              <span className="font-accent text-sm font-medium text-primary-700">376 Acres &middot; Cedar Creek, TX &middot; 30 min from Austin</span>
+              <span className="font-accent text-sm font-medium text-primary-700">380 Acres &middot; Greater Austin, TX</span>
             </div>
           </FadeIn>
 
@@ -488,7 +488,7 @@ export default function InvestorOverviewPage() {
                 Property Deep Dive
               </span>
               <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
-                How 376 Acres Become a Community
+                How 380 Acres Become a Community
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
                 Every acre has a purpose. Over 90% of the land is preserved for conservation and regenerative agriculture.
