@@ -463,7 +463,7 @@ export default function LandPage() {
             { image: '/images/website/49-reforestation.png', label: 'Reforestation' },
 =======
             { image: '/images/website/24-parks-gardens-food-forests.jpeg', label: 'Parks & Food Forests' },
-            { image: '/images/website/42-ecological-preservation.webp', label: 'Ecological Preservation' },
+            { image: '/images/website/42-ecological-preservation.jpg', label: 'Ecological Preservation' },
             { image: '/images/website/44-biodiversity-regeneration.jpg', label: 'Biodiversity' },
             { image: '/images/website/49-reforestation.jpeg', label: 'Reforestation' },
 >>>>>>> 94cf381 (style: replace ecological preservation image with creek/forest photo (#7))

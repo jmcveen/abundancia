@@ -76,7 +76,7 @@ const PETALS = [
 
 const REGEN_FEATURES = [
   {
-    image: '/images/website/42-ecological-preservation.webp',
+    image: '/images/website/42-ecological-preservation.jpg',
     icon: TreePine,
     title: 'Ecological Preservation',
     description: 'Over 90% of the land conserved — Lost Pines ecosystem, wildlife corridors, native habitat restoration.',
