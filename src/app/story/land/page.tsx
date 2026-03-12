@@ -166,11 +166,11 @@ const PROPERTY_FEATURES = [
 
 const MASTER_PLAN = [
   {
-    percentage: '25-30%',
+    percentage: '5-10%',
     label: 'Development Footprint',
-    acres: '94-113 acres',
+    acres: '19-38 acres',
     description: 'Clustered development pods around water features. Residential villages, commercial core, retreat center, community hub.',
-    detail: 'The development footprint is organized into distinct pods, each clustered around water features and connected by a network of walking trails and greenways. Key zones include: 3-4 residential villages (each with 40-80 homes organized around shared courtyards), a mixed-use commercial village with co-working, retail, and dining, a retreat and wellness center, the community hub with event spaces and maker workshops, and the educational campus. Homes are positioned to maximize passive solar orientation, views of conservation land, and pedestrian connectivity to shared amenities. No home is more than a 5-minute walk from a community gathering space.',
+    detail: 'The development footprint is organized into distinct pods, each clustered around water features and connected by a network of walking trails and greenways. Key zones include: residential villages organized around shared courtyards, a mixed-use commercial village with co-working, retail, and dining, a retreat and wellness center, the community hub with event spaces and maker workshops, and the educational campus. Homes are positioned to maximize passive solar orientation, views of conservation land, and pedestrian connectivity to shared amenities. No home is more than a 5-minute walk from a community gathering space.',
     link: '/data-room/view/property/master-plan',
     linkLabel: 'Full Master Plan',
   },
