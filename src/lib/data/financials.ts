@@ -1,7 +1,7 @@
 // ═══════════════════════════════════════════════════════════════════════════
 // Financial Data - Abundancia Austin
 // Source: Financial Model Spreadsheet (3. Financial Model) + Investor Deck
-// Capital Raise: $12.5M | IRR: 37.12% | EMx: 4.42x
+// Capital Raise: $12.5M | IRR: 32.0% | EMx: 4.42x
 // Updated: 2026-03-11 from Simple Pro Forma & Main Inputs tabs
 // ═══════════════════════════════════════════════════════════════════════════
 
@@ -25,9 +25,12 @@ export const KEY_METRICS: Record<Scenario, {
   ebitda10yr: number
 }> = {
   conservative: { irr: 24, emx: 3.0, revenue10yr: 350_000_000, ebitda10yr: 70_000_000 },
-  base: { irr: 37.12, emx: 4.42, revenue10yr: 428_935_061, ebitda10yr: 100_673_704 },
+  base: { irr: 32, emx: 4.42, revenue10yr: 428_935_061, ebitda10yr: 100_673_704 },
   optimistic: { irr: 45, emx: 5.5, revenue10yr: 520_000_000, ebitda10yr: 140_000_000 },
 }
+
+export const INVESTMENT_DISCLAIMER =
+  'For verified accredited investors only. Projected returns are forward-looking and not guaranteed.'
 
 // ─── Unit Mix ────────────────────────────────────────────────────────────
 // Source: Financial Model Main Inputs → Summary table

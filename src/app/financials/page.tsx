@@ -10,6 +10,7 @@ import { ScenarioToggle } from '@/components/ui/ScenarioToggle'
 import { useScenario } from '@/lib/context/scenario-context'
 import { ArrowRight, ExternalLink, Info } from 'lucide-react'
 import {
+  INVESTMENT_DISCLAIMER,
   KEY_METRICS,
   REVENUE_BY_YEAR,
   USE_OF_FUNDS,
@@ -298,6 +299,9 @@ function FinancialsContent() {
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed mb-8">
               Detailed financial projections for the $12.5M capital raise. Toggle between conservative, base, and optimistic scenarios to stress-test assumptions.
             </p>
+            <p className="mb-8 font-accent text-xs uppercase tracking-[0.14em] text-secondary-600">
+              {INVESTMENT_DISCLAIMER}
+            </p>
             <ScenarioToggle />
           </FadeIn>
         </div>
@@ -344,6 +348,9 @@ function FinancialsContent() {
               />
             </StaggerItem>
           </StaggerContainer>
+          <p className="mt-6 font-accent text-xs uppercase tracking-[0.14em] text-secondary-600">
+            {INVESTMENT_DISCLAIMER}
+          </p>
 
           {/* Data Room Callouts */}
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">

@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { Modal } from '@/components/ui/Modal'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
 import { useScenario } from '@/lib/context/scenario-context'
-import { KEY_METRICS } from '@/lib/data/financials'
+import { INVESTMENT_DISCLAIMER, KEY_METRICS } from '@/lib/data/financials'
 import { useAnimatedCounter } from '@/hooks/useAnimatedCounter'
 import { ArrowRight, FileText, Layers, DollarSign, TreePine } from 'lucide-react'
 import { UNIT_MIX } from '@/lib/data/financials'
@@ -126,6 +126,9 @@ export default function OverviewPage() {
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
               A 380-acre regenerative community in Bastrop County - 30 minutes from downtown Austin - 30 minutes from downtown. $12.5M capital raise targeting {metrics.irr}% IRR with hempcrete homes, food forests, renewable energy, and sacred spaces.
+            </p>
+            <p className="mt-4 font-accent text-xs uppercase tracking-[0.14em] text-secondary-600">
+              {INVESTMENT_DISCLAIMER}
             </p>
           </FadeIn>
         </div>

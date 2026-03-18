@@ -6,7 +6,7 @@ import Link from 'next/link'
 import { Modal } from '@/components/ui/Modal'
 import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
 import { useScenario } from '@/lib/context/scenario-context'
-import { KEY_METRICS } from '@/lib/data/financials'
+import { INVESTMENT_DISCLAIMER, KEY_METRICS } from '@/lib/data/financials'
 import { useAnimatedCounter } from '@/hooks/useAnimatedCounter'
 import { ArrowRight, Leaf, Home, Droplets, Sun, ChevronDown } from 'lucide-react'
 
@@ -397,7 +397,10 @@ export default function HomePage() {
                   $12.5M Capital Raise
                 </h2>
                 <p className="font-body text-base text-white/40 max-w-lg mb-10 font-light leading-relaxed">
-                  Join the movement toward the next generation of housing. Projected {metrics.irr}% IRR with {metrics.emx}x equity multiple over a 10-year hold. Accredited investors welcome.
+                  Join the movement toward the next generation of housing. Projected {metrics.irr}% IRR with {metrics.emx}x equity multiple over a 10-year hold.
+                </p>
+                <p className="font-accent text-xs uppercase tracking-[0.14em] text-[#ceb78e]/80 mb-10 max-w-lg">
+                  {INVESTMENT_DISCLAIMER}
                 </p>
 
                 <div className="flex flex-col sm:flex-row items-start gap-4">
