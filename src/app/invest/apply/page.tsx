@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { FadeIn } from '@/components/animation'
 import { useScenario } from '@/lib/context/scenario-context'
-import { KEY_METRICS } from '@/lib/data/financials'
+import { INVESTMENT_DISCLAIMER, KEY_METRICS } from '@/lib/data/financials'
 import { CheckCircle2, TrendingUp } from 'lucide-react'
 
 export default function InvestorApplyPage() {
@@ -57,6 +57,9 @@ export default function InvestorApplyPage() {
                 </h1>
                 <p className="text-lg text-neutral-600">
                   Accredited investors are invited to participate in a regenerative development opportunity targeting {metrics.irr}% IRR.
+                </p>
+                <p className="mt-4 font-accent text-xs uppercase tracking-[0.14em] text-secondary-600">
+                  {INVESTMENT_DISCLAIMER}
                 </p>
               </div>
             </FadeIn>
@@ -181,7 +184,7 @@ export default function InvestorApplyPage() {
                 </button>
 
                 <p className="text-xs text-neutral-400 text-center">
-                  This is an expression of interest, not a commitment. Securities offered under Reg D 506(c) to accredited investors only.
+                  This is an expression of interest, not a commitment. Securities offered under Reg D 506(c) to accredited investors only. Projected returns are forward-looking and not guaranteed.
                 </p>
               </form>
             </FadeIn>

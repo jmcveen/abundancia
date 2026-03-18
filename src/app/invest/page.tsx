@@ -8,10 +8,10 @@ import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
 import { ScenarioToggle } from '@/components/ui/ScenarioToggle'
 import { useInvestTransition } from '@/lib/context/invest-transition-context'
 import { useScenario } from '@/lib/context/scenario-context'
-import { KEY_METRICS, REVENUE_STREAMS as REVENUE_DATA } from '@/lib/data/financials'
+import { INVESTMENT_DISCLAIMER, KEY_METRICS, REVENUE_STREAMS as REVENUE_DATA } from '@/lib/data/financials'
 import {
   ArrowRight, ArrowDown, Leaf, Home, Droplets, Sun, Shield,
-  MapPin, Users, TreePine, FileText, TrendingUp, BarChart3,
+  MapPin, TreePine, FileText, TrendingUp, BarChart3,
   CheckCircle2, FolderOpen, ChevronDown, ChevronUp,
 } from 'lucide-react'
 
@@ -211,9 +211,9 @@ const ROADMAP_PHASES = [
 ]
 
 const TEAM_MEMBERS = [
-  { name: 'Kelly Krezek', title: 'Capital Markets Lead', credential: 'Leading the $12.5M raise' },
-  { name: 'Joe McVeen', title: 'Managing Partner', credential: '$755M+ raised for RE projects' },
-  { name: 'Advisory Board', title: 'Domain Experts', credential: '70+ eco communities analyzed' },
+  { name: 'Kelly Krezek', title: 'CEO, Regenerative Development', credential: '20+ eco projects', photo: '/images/team/kelly-mcveendelmar-007.png' },
+  { name: 'Joe McVeen', title: 'Growth & AI Marketing', credential: '$10M+ Client Revenue', photo: '/images/team/joe-mcveen.jpg' },
+  { name: 'Lance Stukaloff', title: 'Capital Markets Lead', credential: '$755M+ raised for RE projects', photo: '/images/team/lancelot-stukaloff.png' },
 ]
 
 const FAQ_ITEMS = [
@@ -223,7 +223,7 @@ const FAQ_ITEMS = [
   },
   {
     question: 'What are the projected returns?',
-    answer: 'Base case: 37.1% IRR with 4.42x equity multiple over a 10-year hold. Conservative scenario: 24% IRR / 3.0x. Optimistic: 45% IRR / 5.5x. Use the scenario toggle on this page to explore all three projections.',
+    answer: 'Base case: 32% IRR with 4.42x equity multiple over a 10-year hold. Conservative scenario: 24% IRR / 3.0x. Optimistic: 45% IRR / 5.5x. Accredited investors only. Projected returns are forward-looking and not guaranteed. Use the scenario toggle on this page to explore all three projections.',
   },
   {
     question: 'What makes hempcrete special?',
@@ -397,6 +397,9 @@ export default function InvestorOverviewPage() {
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Planned Units</div>
               </div>
             </div>
+            <p className="mt-6 max-w-3xl font-accent text-xs uppercase tracking-[0.14em] text-primary-700">
+              {INVESTMENT_DISCLAIMER}
+            </p>
           </FadeIn>
         </div>
       </section>
@@ -963,8 +966,14 @@ export default function InvestorOverviewPage() {
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-3xl mx-auto mb-10">
               {TEAM_MEMBERS.map((member) => (
                 <div key={member.name} className="text-center bg-canvas rounded-2xl p-6 border border-neutral-100">
-                  <div className="w-16 h-16 rounded-full bg-primary-100 flex items-center justify-center mx-auto mb-4">
-                    <Users className="w-7 h-7 text-primary-600" />
+                  <div className="relative w-20 h-20 rounded-full overflow-hidden ring-2 ring-white shadow-sm mx-auto mb-4">
+                    <Image
+                      src={member.photo}
+                      alt={member.name}
+                      fill
+                      sizes="80px"
+                      className="object-cover"
+                    />
                   </div>
                   <h3 className="font-accent text-base font-semibold text-neutral-900">{member.name}</h3>
                   <p className="text-sm text-neutral-500 mb-2">{member.title}</p>

@@ -76,7 +76,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'What are the projected returns?',
-        a: 'Base case projections: 37.1% IRR with a 4.42x equity multiple over a 10-year hold. Conservative scenario: 24% IRR / 3.0x. Optimistic: 45% IRR / 5.5x. These are projections, not guarantees. Returns are driven by four diversified revenue streams across residential sales, rentals, lot sales, and commercial leasing.',
+        a: 'Base case projections: 32% IRR with a 4.42x equity multiple over a 10-year hold. Conservative scenario: 24% IRR / 3.0x. Optimistic: 45% IRR / 5.5x. This offering is available to accredited investors only, and projected returns are not guaranteed. Returns are driven by four diversified revenue streams across residential sales, rentals, lot sales, and commercial leasing.',
         links: [
           { text: 'Explore the Financial Model', href: '/model' },
           { text: 'View Financial Projections', href: '/data-room/view/financial/financial-projections' },
