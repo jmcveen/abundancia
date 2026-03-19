@@ -120,7 +120,7 @@ export default function HomePage() {
       {/* ═══ HERO — Full-screen cinematic ═══ */}
       <section className="relative h-screen flex items-end overflow-hidden">
         <Image
-          src="/images/generated/abundancia-01-hero.png"
+          src="/images/website/01-hero-where-dreams-become-reality.png"
           alt="Abundancia Austin - Regenerative Community"
           fill
           className="object-cover scale-105"
