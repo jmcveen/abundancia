@@ -57,13 +57,13 @@ const HOUSING_TYPES = [
   },
   {
     image: '/images/website/10-affordable-condos.png',
-    type: 'Affordable Multifamily',
-    units: 'Included in Multi',
-    description: 'Designed to expand access to regenerative living through thoughtfully planned multifamily options.',
-    detail: 'Affordable multifamily options are designed to widen access without compromising the quality of the living experience. Shared infrastructure, efficient layouts, and durable natural materials help create attainable price points for working families, younger residents, and those seeking an easier entry into community life.',
-    priceRange: '$150K-$275K',
-    sqftRange: '500-1,100 SF',
-    features: ['Attainable Entry Point', 'Shared Infrastructure', 'Natural Materials', 'Working Family Friendly', 'Full Amenity Access'],
+    type: 'Luxury Modern Homes',
+    units: 'Select Residences',
+    description: 'Contemporary regenerative homes with premium finishes, expansive glass, and seamless indoor-outdoor living.',
+    detail: 'Luxury modern homes pair elevated architecture with natural surroundings, offering spacious layouts, refined materials, and a resort-like relationship to water, landscape, and light. Designed for buyers seeking a high-end expression of regenerative living, these residences blend comfort, beauty, and presence without losing connection to the land.',
+    priceRange: 'Custom Pricing',
+    sqftRange: 'Custom Design',
+    features: ['Modern Architectural Design', 'Indoor-Outdoor Living', 'Premium Finishes', 'Regenerative Materials', 'Signature Residences'],
   },
   {
     image: '/images/website/08-homes.png',
@@ -102,7 +102,6 @@ const BIOHARMONIC_FEATURES = [
 
 const COMMUNITY_SPACES = [
   { image: '/images/website/19-pyramid-ceremony-space.jpeg', name: 'Pyramids & Gardens', detail: 'A sacred landscape of pyramids, pathways, and gardens designed for reflection, beauty, ceremony, and connection with nature. This space invites residents and guests into a slower rhythm through contemplative walks, gatherings, and immersive outdoor experiences.', link: '/story/vision' },
-  { image: '/images/website/20-yoga-shala.jpeg', name: 'Yoga Shala', detail: 'A dedicated space for yoga, meditation, and embodied practice with a strong connection to the surrounding landscape. Designed for daily classes, personal practice, and restorative gatherings, it supports both individual well-being and shared ritual.', link: '/story/vision' },
   { image: '/images/website/72-regenerative-center.png', name: 'Regenerative Center', detail: 'A flexible venue for events, retreats, and wellness experiences that bring the Abundancia vision to life. Designed to host gatherings of depth and meaning, it supports community programming, immersive retreats, and transformational experiences.', link: '/story/vision' },
   { image: '/images/website/73-community-lounge.png', name: 'Community Lounge', detail: 'A welcoming everyday gathering space for conversation, coworking, casual meals, and spontaneous connection. It functions as a social heart for the community, offering a relaxed setting for residents and guests to meet, rest, and recharge.', link: '/story/vision' },
   { image: '/images/website/21-resource-library.png', name: 'Resource Library', detail: 'A community knowledge hub with physical and digital collections covering permaculture, regenerative design, holistic health, and conscious living. Includes quiet study rooms, a children\'s reading corner, and a seed library.', link: '/story/vision' },
@@ -266,6 +265,7 @@ export default function CommunityPage() {
                       alt={housing.type}
                       fill
                       className="object-cover"
+                      style={housing.type === 'Tiny Homes' ? { objectPosition: '50% 60%' } : undefined}
                     />
                     <div className="absolute top-3 right-3">
                       <span className="font-accent text-xs font-semibold bg-white/90 backdrop-blur-sm text-primary-800 px-2.5 py-1 rounded-full">
@@ -298,6 +298,7 @@ export default function CommunityPage() {
                 alt={activeHousing.type}
                 fill
                 className="object-cover"
+                style={activeHousing.type === 'Tiny Homes' ? { objectPosition: '50% 60%' } : undefined}
               />
               <div className="absolute top-3 right-3">
                 <span className="font-accent text-xs font-semibold bg-white/90 backdrop-blur-sm text-primary-800 px-2.5 py-1 rounded-full">
