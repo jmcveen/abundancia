@@ -19,8 +19,8 @@ const HOUSING_TYPES = [
     image: '/images/website/15-residential-homes.png',
     type: 'Residential Homes',
     units: '~100 Units',
-    description: 'Single-family hempcrete homes with passive solar design, smart automation, and sacred geometry principles.',
-    detail: 'Hempcrete single-family homes ranging from 1,400 to 2,800 SF. Passive solar design orients living spaces to capture winter sun while shading in summer. Smart home automation controls lighting, temperature, security, and structured water systems. Sacred geometry principles inform proportions and spatial flow.',
+    description: 'Single-family homes built with healthy materials, timeless design, and a deep relationship to the land.',
+    detail: 'Thoughtfully designed single-family homes ranging from 1,400 to 2,800 SF. Built with hempcrete or rammed earth, these residences are crafted for durability, comfort, and natural beauty. Passive solar orientation, healthy indoor air quality, and sacred geometry principles shape living spaces that feel grounded, restorative, and built to endure for generations.',
     priceRange: '$350K-$625K',
     sqftRange: '1,400-2,800 SF',
     features: ['Passive Solar Design', 'Smart Home Automation', 'Structured Water System', 'Sacred Geometry Layout', 'Carbon-Negative Construction'],
@@ -29,8 +29,8 @@ const HOUSING_TYPES = [
     image: '/images/website/16-tiny-homes.png',
     type: 'Tiny Homes',
     units: '~30 Units',
-    description: 'Compact, efficient living spaces for minimalists and young professionals. Fully off-grid capable.',
-    detail: 'Thoughtfully designed compact homes for those who value simplicity and minimal footprint. Each unit is fully off-grid capable with integrated solar, rainwater collection, and composting systems. Open floor plans maximize every square foot while hempcrete walls provide superior insulation and indoor air quality.',
+    description: 'Compact, efficient homes designed for simplicity, beauty, and low-impact living.',
+    detail: 'Thoughtfully designed compact homes for those who value simplicity and a lighter footprint. These residences maximize every square foot while maintaining natural materials, healthy air, and strong indoor-outdoor connection. Ideal for minimalists, couples, and flexible living, with layouts that support both everyday comfort and regenerative values.',
     priceRange: '$125K-$225K',
     sqftRange: '400-800 SF',
     features: ['Off-Grid Capable', 'Integrated Solar Panels', 'Rainwater Collection', 'Composting Systems', 'Open Floor Plan'],
@@ -47,23 +47,23 @@ const HOUSING_TYPES = [
   },
   {
     image: '/images/website/18-rental-units.png',
-    type: 'Multifamily & Rentals',
+    type: 'Condos',
     units: '~350 Units',
-    description: 'Affordable condominiums and rental units providing attainable entry points into regenerative living.',
-    detail: 'Multi-unit residential buildings designed to make regenerative living accessible to a broader population. These units maintain the same hempcrete construction, indoor air quality, and smart home features as single-family homes while achieving economies of scale that reduce per-unit costs. Shared amenities and community spaces are integrated into each building cluster.',
+    description: 'Beautifully designed shared-building residences that bring regenerative living into a more connected format.',
+    detail: 'Condominium residences offer an efficient, community-oriented housing option without sacrificing beauty or quality. These homes bring healthy materials, natural light, and thoughtful shared amenities into a more compact footprint, creating a strong balance between privacy, connection, and accessibility.',
     priceRange: '$185K-$375K',
     sqftRange: '600-1,400 SF',
-    features: ['Shared Community Amenities', 'Hempcrete Construction', 'Smart Home Features', 'Economies of Scale', 'Below-Market Pricing'],
+    features: ['Shared Community Amenities', 'Healthy Materials', 'Natural Light', 'Community-Oriented Design', 'Accessible Ownership'],
   },
   {
     image: '/images/website/10-affordable-condos.png',
-    type: 'Affordable Condos',
-    units: 'Included in Multi',
-    description: 'Designed to address Austin\'s affordability crisis - premium quality at accessible price points.',
-    detail: 'Purpose-built to address the Austin-area affordability crisis without sacrificing quality. These condominiums use the same carbon-negative hempcrete construction and regenerative systems as premium units but optimize layouts and shared infrastructure to deliver price points accessible to working families. Subsidized by the community model\'s commercial revenue streams.',
-    priceRange: '$150K-$275K',
-    sqftRange: '500-1,100 SF',
-    features: ['Below-Market Pricing', 'Same Premium Materials', 'Community-Subsidized', 'Working Family Friendly', 'Full Amenity Access'],
+    type: 'Luxury Modern Homes',
+    units: 'Select Residences',
+    description: 'Contemporary regenerative homes with premium finishes, expansive glass, and seamless indoor-outdoor living.',
+    detail: 'Luxury modern homes pair elevated architecture with natural surroundings, offering spacious layouts, refined materials, and a resort-like relationship to water, landscape, and light. Designed for buyers seeking a high-end expression of regenerative living, these residences blend comfort, beauty, and presence without losing connection to the land.',
+    priceRange: 'Custom Pricing',
+    sqftRange: 'Custom Design',
+    features: ['Modern Architectural Design', 'Indoor-Outdoor Living', 'Premium Finishes', 'Regenerative Materials', 'Signature Residences'],
   },
   {
     image: '/images/website/08-homes.png',
@@ -101,13 +101,14 @@ const BIOHARMONIC_FEATURES = [
 ]
 
 const COMMUNITY_SPACES = [
-  { image: '/images/website/19-pyramid-ceremony-space.png', name: 'Pyramid Ceremony Space', detail: 'A sacred gathering space designed with sacred geometry principles. The pyramid structure amplifies acoustic resonance and creates a container for ceremony, meditation, sound healing, and community ritual. Hosts weekly gatherings, solstice celebrations, and rites of passage.', link: '/story/vision' },
-  { image: '/images/website/20-yoga-shala.png', name: 'Yoga Shala & Meditation Center', detail: 'A dedicated space for yoga, breathwork, and meditation practice with radiant-heated bamboo floors, floor-to-ceiling windows overlooking native gardens, and an outdoor practice deck. Daily classes are free for all residents.', link: '/story/vision' },
+  { image: '/images/website/19-pyramid-ceremony-space.jpeg', name: 'Pyramids & Gardens', detail: 'A sacred landscape of pyramids, pathways, and gardens designed for reflection, beauty, ceremony, and connection with nature. This space invites residents and guests into a slower rhythm through contemplative walks, gatherings, and immersive outdoor experiences.', link: '/story/vision' },
+  { image: '/images/website/72-regenerative-center.png', name: 'Regenerative Center', detail: 'A flexible venue for events, retreats, and wellness experiences that bring the Abundancia vision to life. Designed to host gatherings of depth and meaning, it supports community programming, immersive retreats, and transformational experiences.', link: '/story/vision' },
+  { image: '/images/website/73-community-lounge.png', name: 'Community Lounge', detail: 'A welcoming everyday gathering space for conversation, coworking, casual meals, and spontaneous connection. It functions as a social heart for the community, offering a relaxed setting for residents and guests to meet, rest, and recharge.', link: '/story/vision' },
   { image: '/images/website/21-resource-library.png', name: 'Resource Library', detail: 'A community knowledge hub with physical and digital collections covering permaculture, regenerative design, holistic health, and conscious living. Includes quiet study rooms, a children\'s reading corner, and a seed library.', link: '/story/vision' },
   { image: '/images/website/22-indoor-outdoor-gyms.png', name: 'Indoor & Outdoor Gyms', detail: 'Full fitness facilities including functional training equipment, outdoor calisthenics park, climbing wall, and movement studio. Designed to support holistic fitness - strength, flexibility, and cardiovascular health in fresh air.', link: '/story/vision' },
   { image: '/images/website/23-research-center.png', name: 'Research Center', detail: 'An applied research facility focused on hempcrete construction innovation, regenerative agriculture methods, water purification systems, and renewable energy optimization. Partners with universities and publishes open-source findings.', link: '/data-room/view/regenerative/hempcrete-construction' },
   { image: '/images/website/24-parks-gardens-food-forests.png', name: 'Parks, Gardens & Food Forests', detail: 'Over 20 acres of permaculture food forests, community gardens, heritage orchards, and native wildflower meadows. Seven-layer food forests produce fruit, nuts, herbs, and vegetables year-round in USDA Zone 8b\'s 250+ growing days.', link: '/story/regeneration' },
-  { image: '/images/website/25-sacred-temple-complex.png', name: 'Sacred Temple Complex', detail: 'A multi-faith contemplative space honoring diverse spiritual traditions. Includes an open-air temple, labyrinth walk, sacred grove, and quiet reflection gardens. Designed for personal practice and interfaith community gatherings.', link: '/story/vision' },
+  { image: '/images/website/25-sacred-temple-complex.jpeg', name: 'Sacred Temple Complex', detail: 'A multi-faith contemplative space honoring diverse spiritual traditions. Includes an open-air temple, labyrinth walk, sacred grove, and quiet reflection gardens. Designed for personal practice and interfaith community gatherings.', link: '/story/vision' },
 ]
 
 const CREATION_HUB = [
@@ -129,7 +130,7 @@ const PUBLIC_SPACES = [
   { image: '/images/website/38-sustainable-ethical-retail-shops.jpg', name: 'Sustainable & Ethical Retail', detail: 'Curated retail spaces featuring ethical fashion, zero-waste goods, locally-made crafts, and regenerative products. Each vendor is vetted for environmental and social impact. A destination for conscious consumers from across Central Texas.', link: '/story/regeneration' },
   { image: '/images/website/39-elixir-juice-tea-bar.jpeg', name: 'Elixir, Juice & Tea Bar', detail: 'A wellness-focused beverage bar serving cold-pressed juices, herbal elixirs, adaptogenic tonics, and specialty teas. Ingredients sourced from on-site gardens and food forests. A daily gathering spot for health-conscious community members.', link: '/story/regeneration' },
   { image: '/images/website/40-health-center.jpeg', name: 'Health Center', detail: 'An integrative health facility offering preventive care, naturopathic medicine, acupuncture, chiropractic, and health testing. Focused on proactive wellness rather than reactive treatment. Open to residents and the broader Bastrop community.', link: '/story/regeneration' },
-  { image: '/images/website/41-spa-massage.jpeg', name: 'Spa & Massage', detail: 'A full-service wellness spa with massage therapy, hydrotherapy, infrared sauna, cold plunge, and beauty treatments using organic, locally-made products. Revenue-generating amenity open to residents and the visiting public.', link: '/story/regeneration' },
+  { image: '/images/website/74-wellness-center.png', name: 'Wellness Center & Spa', detail: 'A restorative destination for holistic wellness experiences, recovery, and daily self-care. Designed to support vitality through bio-optimization tech, hydrotherapy, infrared saunas, cold plunges, massage, and more.', link: '/story/regeneration' },
 ]
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -242,10 +243,10 @@ export default function CommunityPage() {
                 Biophilic Housing
               </span>
               <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
-                Homes That Heal the Atmosphere
+                Homes That Heal
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                Every home is built with hempcrete - carbon-negative, fire-resistant, and designed to last 500+ years. Multiple housing types ensure accessibility at every price point.
+                Every home is built with hempcrete or rammed earth, carbon-negative, fire-resistant, mold resistant, and designed to last 500+ years. Multiple housing types ensure accessibility at every price point.
               </p>
             </div>
           </FadeIn>
@@ -263,6 +264,7 @@ export default function CommunityPage() {
                       alt={housing.type}
                       fill
                       className="object-cover"
+                      style={housing.type === 'Tiny Homes' ? { objectPosition: '50% 60%' } : undefined}
                     />
                     <div className="absolute top-3 right-3">
                       <span className="font-accent text-xs font-semibold bg-white/90 backdrop-blur-sm text-primary-800 px-2.5 py-1 rounded-full">
@@ -295,6 +297,7 @@ export default function CommunityPage() {
                 alt={activeHousing.type}
                 fill
                 className="object-cover"
+                style={activeHousing.type === 'Tiny Homes' ? { objectPosition: '50% 60%' } : undefined}
               />
               <div className="absolute top-3 right-3">
                 <span className="font-accent text-xs font-semibold bg-white/90 backdrop-blur-sm text-primary-800 px-2.5 py-1 rounded-full">
