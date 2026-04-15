@@ -48,7 +48,7 @@ const IMAGINE_CARDS = [
     link: '/story/regeneration',
   },
   {
-    image: '/images/generated/abundancia-03-yoga_wellness.png',
+    image: '/images/generated/abundancia-03-yoga_wellness-colorful.png',
     text: 'You have everything you need to thrive...',
     detail: 'From co-working spaces and maker labs to wellness centers and retreat facilities, Abundancia provides the infrastructure for creative and professional fulfillment.',
     link: '/story/vision',
@@ -60,7 +60,7 @@ const IMAGINE_CARDS = [
     link: '/story/community',
   },
   {
-    image: '/images/generated/abundancia-05-organic_food_community.png',
+    image: '/images/generated/abundancia-05-organic_food_community-colorful.png',
     text: 'Inclusive governance models are easily accessible...',
     detail: 'Community-driven decision making through transparent governance structures ensures every voice matters. Residents co-create the rules and culture of their shared home.',
     link: '/story/regeneration',
