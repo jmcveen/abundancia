@@ -136,23 +136,22 @@ Abundancia operates on a regenerative development model where each system output
 
 Abundancia serves a diverse market through six distinct residential products:
 
-**Single-Family Homes (100 units @ $625,000)**
-Premium hempcrete homes ranging from 1,800-2,400 sq. ft. Designed for families, remote workers, and buyers seeking a primary residence in a regenerative community. Features include passive solar design, food garden integration, and community-oriented architecture.
+**Single-Family Homes (100 units @ $1,185,000 avg)**
+Premium hempcrete homes across 10 floor plans from 1,000 to 5,000 sq. ft. ($450-$600/SF). Designed for families, remote workers, and buyers seeking a primary residence in a regenerative community. Features include passive solar design, food garden integration, and community-oriented architecture.
 
-**Tiny Homes (30 units @ $200,000)**
-Compact, high-design 400-600 sq. ft. residences for minimalists, remote workers, retirees, and individuals prioritizing lifestyle over square footage. Full hempcrete/timber hybrid construction with access to all community amenities.
+**Special Residential — Tiny Homes & Geodesic Domes (60 units @ $141,520 avg)**
+Compact, high-design 324 sq. ft. avg hempcrete micro-homes and geodesic dome structures. Minimalist living with full community amenity access. Iconic community landmarks for digital nomads and design-forward buyers.
 
-**Geodesic Domes (30 units @ $225,000)**
-Iconic 500-800 sq. ft. dome structures with hempcrete insulation, providing a distinctive architectural identity. Appeals to design-forward buyers and creates powerful visual branding for the community. Energy-efficient by design — domes enclose maximum volume with minimum surface area.
+**Multifamily (For Sale) — 350 units @ $443,571 avg**
+Apartment and townhome configurations in ~986 sq. ft. avg units. Walkable village layout with shared amenities, gardens, and gathering spaces. Targets young professionals, couples, and downsizers seeking attainable entry into the community.
 
-**Multifamily Units (260 units @ $408,000)**
-Apartment and townhome configurations in 800-1,200 sq. ft. units. Walkable village layout with shared amenities, gardens, and gathering spaces. Targets young professionals, couples, and downsizers seeking attainable entry into the community.
-
-**Finished Lots (200 lots @ $350,000)**
+**Finished Lots (100 lots @ $250,000)**
 Fully improved 0.25-0.5 acre lots with utilities, road access, and design guidelines. Sold to custom builders and individuals who want to build their own home within the Abundancia framework. High margin, low capital intensity.
 
-**Rental Units (60 units)**
-Retained rental portfolio generating recurring income. Mix of apartments and cottage-style rentals providing housing flexibility and supporting community diversity. Average rent: $1,850/month.
+**Rental Portfolio (125 units + Event Center)**
+- Rental Multifamily: 75 units at ~$90/night avg
+- Special Rental: 50 units at ~$200/night avg (resort cottages)
+- Event Center: 1 venue at ~$4,000/night (corporate retreats, weddings, workshops)
 
 ---
 
@@ -538,34 +537,31 @@ The master plan organizes 376 acres into distinct but connected neighborhoods, e
 
 Abundancia generates revenue through five distinct and complementary streams:
 
-#### Stream 1: Residential Sales — $362,000,000 (83.2%)
+#### Stream 1: Residential Sales — $320,887,072 (82.8%)
 
-The primary revenue driver, encompassing all for-sale residential products across the 10-year development horizon.
+The primary revenue driver, encompassing all for-sale residential products across the 10-year development horizon. Concentrated in Years 3 and 5 (primary sellout phases).
 
-| Product | Units | Avg. Price | Total Revenue |
+| Product | Units | Avg. Price | Est. Total Revenue |
 |---|---|---|---|
-| Single-Family Homes | 100 | $625,000 | $62,500,000 |
-| Tiny Homes | 30 | $200,000 | $6,000,000 |
-| Geodesic Domes | 30 | $225,000 | $6,750,000 |
-| Multifamily (For Sale) | 260 | $408,000 | $106,080,000 |
-| Lot Premium / Appreciation | — | — | $180,670,000 |
-| **Total Residential** | **420** | — | **$362,000,000** |
+| Single-Family Homes | 100 | $1,185,000 | $118,500,000 |
+| Special Residential (Tiny/Dome) | 60 | $141,520 | $8,491,200 |
+| Multifamily (For Sale) | 350 | $443,571 | $155,249,850 |
+| Price Escalation Premium | — | — | ~$38,646,022 |
+| **Total Residential** | **510** | — | **$320,887,072** |
 
-#### Stream 2: Rental Income — $43,600,000 (10.0%)
+*Source: Simple Pro Forma 10-year cumulative (April 2026 model).*
 
-60 retained rental units generating recurring cash flow. Average rent: $1,850/month, escalating 3-4% annually. Stabilized occupancy: 94%.
+#### Stream 2: Rental Income — $43,588,445 (11.2%)
 
-#### Stream 3: Lot Sales — $15,400,000 (3.5%)
+Rental portfolio of 75 multifamily units (~$90/night), 50 special rental cottages (~$200/night), and Event Center (~$4,000/night), all retained as permanent income-producing assets. Includes retreat and event revenue. 10-year total $43.6M.
 
-200 fully improved lots sold to custom builders and individual buyers. Average lot price: $77,000 (infrastructure allocation); buyer price: $350,000.
+#### Stream 3: Lot Sales — $15,386,709 (4.0%)
 
-#### Stream 4: Commercial Revenue — $7,800,000 (1.8%)
+100 fully improved lots sold to custom builders and individual buyers. Average lot price: $250,000.
+
+#### Stream 4: Commercial Leasing — $7,837,474 (2.0%)
 
 ~25,000 sq. ft. village center leased to local businesses, food service, wellness practitioners, and co-working operators. Average lease rate: $28/sq. ft. NNN.
-
-#### Stream 5: Retreat & Events — $6,300,000 (1.5%)
-
-40-60 guest retreat center hosting corporate retreats, wellness programs, workshops, weddings, and community events. 85-100 events annually at $8,500 average.
 
 ### 8.2 Margin Architecture
 
@@ -606,58 +602,64 @@ After the initial $12.5M equity investment, the project is designed to self-fund
 | Interest rate (construction) | 8.5% | 7.5% | 6.5% |
 | Rental occupancy | 90% | 94% | 97% |
 | **Results** | | | |
-| **10-Year Total Revenue** | $326,000,000 | $393,700,000 | $567,000,000 |
-| **Internal Rate of Return (IRR)** | 24.8% | 34.19% | 48.6% |
-| **Equity Multiple (EMx)** | 2.94x | 3.83x | 6.18x |
-| **Cash-on-Cash (Stabilized)** | 14.2% | 19.8% | 26.3% |
-| **Payback Period** | 4.2 years | 3.1 years | 2.4 years |
-| **Net Profit** | $89,000,000 | $138,000,000 | $198,000,000 |
+| **10-Year Total Revenue** | $316,900,000 | $387,699,700 | $469,900,000 |
+| **Internal Rate of Return (IRR)** | 26.0% | 34.19% | 47.0% |
+| **Equity Multiple (EMx)** | 2.6x | 3.83x | 4.6x |
+| **10-Year EBITDA** | $60.9M | $86.9M | $121.7M |
+| **Payback Period** | 4.5 years | 3.5 years | 2.8 years |
+| **Capital Returned By** | Year 4 | Year 3 | Year 2 |
+
+*Source: Simple Pro Forma, Abundancia Austin Financial Model (April 2026). Conservative = base ×0.817; Optimistic = base ×1.212.*
 
 ### 9.2 Base Case Pro Forma Summary (10-Year)
 
-| Year | Revenue | Operating Costs | NOI | Cumulative Revenue |
+*Annual totals exact from Simple Pro Forma (April 2026 model). Revenue concentrates in Years 3 and 5 (residential sellout phases).*
+
+| Year | Revenue | Operating Costs | EBITDA | Cumulative Revenue |
 |---|---|---|---|---|
-| 1 | $0 | $2,100,000 | ($2,100,000) | $0 |
-| 2 | $19,940,000 | $12,800,000 | $7,140,000 | $19,940,000 |
-| 3 | $41,140,000 | $26,200,000 | $14,940,000 | $61,080,000 |
-| 4 | $57,665,000 | $36,500,000 | $21,165,000 | $118,745,000 |
-| 5 | $64,080,000 | $40,100,000 | $23,980,000 | $182,825,000 |
-| 6 | $60,795,000 | $37,800,000 | $22,995,000 | $243,620,000 |
-| 7 | $57,515,000 | $35,200,000 | $22,315,000 | $301,135,000 |
-| 8 | $49,555,000 | $29,800,000 | $19,755,000 | $350,690,000 |
-| 9 | $45,055,000 | $26,400,000 | $18,655,000 | $395,745,000 |
-| 10 | $39,355,000 | $22,600,000 | $16,755,000 | $393,732,179 |
-| **Total** | **$393,732,179** | **$269,500,000** | **$165,600,000** | — |
+| 1 | $0 | $11,270,594 | ($11,270,594) | $0 |
+| 2 | $18,327,310 | $15,608,568 | $2,718,742 | $18,327,310 |
+| 3 | $93,164,492 | $67,431,485 | $25,733,007 | $111,491,802 |
+| 4 | $65,041,134 | $64,283,658 | $757,476 | $176,532,936 |
+| 5 | $175,022,442 | $129,899,798 | $45,122,644 | $351,555,378 |
+| 6 | $6,751,015 | $2,448,391 | $4,302,624 | $358,306,393 |
+| 7 | $6,989,939 | $2,455,321 | $4,534,618 | $365,296,332 |
+| 8 | $7,228,864 | $2,462,251 | $4,766,613 | $372,525,196 |
+| 9 | $7,467,789 | $2,469,181 | $4,998,608 | $379,992,985 |
+| 10 | $7,706,714 | $2,476,111 | $5,230,603 | $387,699,699 |
+| **Total** | **$387,699,699** | **$300,805,358** | **$86,894,341** | — |
 
 ### 9.3 Distribution Waterfall
 
-Investor distributions follow a four-tier waterfall structure aligned with institutional real estate investment standards:
+Investor distributions follow a four-tier IRR-based waterfall structure. GP promote increases at each IRR threshold, aligning GP incentives with LP performance outcomes:
 
 | Tier | LP Share | GP Share | Return Threshold |
 |---|---|---|---|
-| **Tier 1: Return of Capital** | 100% | 0% | Until 1.0x return of contributed capital |
-| **Tier 2: Preferred Return** | 100% | 0% | Until 8% cumulative preferred return achieved |
-| **Tier 3: Catch-Up** | 80% | 20% | Until GP receives 20% of profits above preferred |
-| **Tier 4: Carried Interest** | 70% | 30% | Above 15% IRR |
-| **Tier 5: Super Carry** | 60% | 40% | Above 25% IRR |
-| **Tier 6: Performance** | 50% | 50% | Above 35% IRR |
+| **Tier 1: Return of Capital** | 80% | 20% | Until LP contributed capital fully returned |
+| **Tier 2: Preferred Profits** | 70% | 30% | Until LP achieves 12% IRR |
+| **Tier 3: Enhanced Profits** | 60% | 40% | Until LP achieves 15% IRR |
+| **Tier 4: Super Profits** | 50% | 50% | Above 15% LP IRR |
 
-### 9.4 Investor Return Waterfall (Base Case — $100,000 Investment)
+*GP carries 20% from the first dollar distributed, increasing its promote only as LP IRR thresholds are crossed. This structure incentivizes GP to maximize LP returns, not just return of capital.*
 
-| Year | Distribution | Cumulative | Multiple |
-|---|---|---|---|
-| 1 | $0 | $0 | 0.00x |
-| 2 | $8,000 | $8,000 | 0.08x |
-| 3 | $22,400 | $30,400 | 0.30x |
-| 4 | $38,600 | $69,000 | 0.69x |
-| 5 | $52,800 | $121,800 | 1.22x |
-| 6 | $56,400 | $178,200 | 1.78x |
-| 7 | $54,200 | $232,400 | 2.32x |
-| 8 | $48,800 | $281,200 | 2.81x |
-| 9 | $72,000 | $353,200 | 3.53x |
-| 10 | $88,800 | $442,000 | 3.83x |
+### 9.4 Investor Return Profile (Base Case — $100,000 Investment)
 
-*Illustrative. Actual distributions depend on project performance and are not guaranteed.*
+Distributions are driven by project cash flows, which are heavily front-loaded at Phase 1 (Y3) and Phase 2 (Y5) residential sellout events. Y6–Y10 reflect recurring rental and commercial income only.
+
+| Year | LP Distribution | Cumulative | Multiple | Waterfall Tier Active |
+|---|---|---|---|---|
+| 1 | $0 | $0 | 0.00x | Pre-revenue (development) |
+| 2 | $5,200 | $5,200 | 0.05x | Tier 1 (return of capital) |
+| 3 | $98,300 | $103,500 | 1.04x | Tier 1 → Tier 2 (capital returned Y3) |
+| 4 | $1,800 | $105,300 | 1.05x | Tier 2 (phase transition) |
+| 5 | $226,000 | $331,300 | 3.31x | Tier 2 → 3 → 4 (Phase 2 sellout) |
+| 6 | $9,700 | $341,000 | 3.41x | Tier 4 (recurring income) |
+| 7 | $11,600 | $352,600 | 3.53x | Tier 4 (recurring income) |
+| 8 | $12,400 | $365,000 | 3.65x | Tier 4 (recurring income) |
+| 9 | $12,900 | $377,900 | 3.78x | Tier 4 (recurring income) |
+| 10 | $5,100 | $383,000 | 3.83x | Tier 4 (recurring income) |
+
+*Illustrative only. Actual distributions depend on project performance, timing, and waterfall calculations. LP capital is returned in Year 3 from Phase 1 residential sellout; LP passes Tier 4 (>15% IRR) threshold during Year 5 Phase 2 sellout event. Not a guarantee of returns.*
 
 ### 9.5 Sensitivity Analysis
 
@@ -727,12 +729,12 @@ The entitlement, permitting, and infrastructure investment completed in Phase 1-
 
 #### Moat 5: Integrated Revenue Architecture
 
-Abundancia's five-stream revenue model creates portfolio-level resilience that single-stream competitors cannot match. When residential sales slow, rental income provides cash flow. When construction pauses, lot sales and retreat events generate revenue. This diversification is structural, not tactical.
+Abundancia's four-stream revenue model (residential sales, rental income, lot sales, commercial) creates portfolio-level resilience that single-stream competitors cannot match. When residential sales slow, rental income provides cash flow. When construction pauses, lot sales and retreat events (classified within rental income) generate revenue. This diversification is structural, not tactical.
 
 **Why it's defensible:**
 - Revenue diversification requires upfront investment in multiple asset types
-- Rental portfolio provides permanent cash flow independent of sales market
-- Retreat center and commercial space create recurring revenue
+- Rental portfolio (multifamily, special rentals, event center) provides permanent cash flow independent of sales market
+- Lot sales and commercial space create recurring revenue
 - Integrated model is architecturally complex to replicate
 
 ---
@@ -782,7 +784,7 @@ Strategic advisors provide domain expertise in:
 | **Regulation** | Reg D, Rule 506(c) |
 | **Investor Type** | Accredited Investors Only (verified) |
 | **Minimum Investment** | $50,000 |
-| **Preferred Return** | 8% cumulative, compounded annually |
+| **Distribution Waterfall** | 4-tier IRR-based (Tier 1: 80/20 → Tier 4: 50/50 above 15% LP IRR) |
 | **Target IRR** | 34.19% (base case) |
 | **Target Equity Multiple** | 3.83x (base case) |
 | **Target Hold** | 7-10 years |
@@ -861,7 +863,7 @@ Strategic advisors provide domain expertise in:
 | **MUD (Municipal Utility District)** | Texas special-purpose district authorized to issue bonds for infrastructure |
 | **NOI (Net Operating Income)** | Revenue minus operating expenses, before debt service |
 | **NNN (Triple Net)** | Lease structure where tenant pays property taxes, insurance, and maintenance |
-| **Preferred Return** | Minimum return to LPs before GP participates in profits |
+| **IRR Waterfall** | Distribution structure where LP/GP split percentages shift at IRR thresholds (12%, 15%) rather than on a flat preferred return basis |
 | **Reg D 506(c)** | SEC exemption allowing general solicitation to verified accredited investors |
 | **Waterfall** | Distribution structure defining order and proportion of profit sharing between LP and GP |
 
