@@ -52,8 +52,8 @@ This report presents a comprehensive valuation analysis of Abundancia Austin, a 
 | **Total Acreage** | 376 acres |
 | **Distance to Austin CBD** | ~30 minutes (SH 71 corridor) |
 | **Zoning** | No county-level zoning (Bastrop County) |
-| **Development Program** | 680 residential units, 200 finished lots, 60 rental units, commercial, retreat |
-| **Projected 10-Year Revenue** | $393.7M (base case) |
+| **Development Program** | 736 structures (100 SFH, 350 MF, 60 special residential), 100 lots, 75 rental MF units, 50 special rentals, 1 event center |
+| **Projected 10-Year Revenue** | $387.7M (base case) |
 | **Projected 10-Year EBITDA** | $86.9M (base case) |
 | **Capital Raise** | $12.5M |
 | **Entity Structure** | TX Series LLC, LP/GP, Reg D 506(c) |
@@ -98,28 +98,30 @@ Five independent valuation methodologies have been applied to triangulate a defe
 | **Revenue Growth Rate (Yr 1-3)** | 25-40% | 18-30% | 30-50% |
 | **Revenue Growth Rate (Yr 4-7)** | 15-25% | 10-18% | 20-30% |
 | **Revenue Growth Rate (Yr 8-10)** | 5-10% | 3-7% | 8-15% |
-| **EBITDA Margin (Stabilized)** | 23.9% | 20.0% | 26.9% |
+| **EBITDA Margin (10-yr blended)** | 22.4% | 18.3% | 25.9% |
 | **Construction Cost Inflation** | 3.5%/yr | 4.5%/yr | 2.5%/yr |
 | **Home Price Appreciation** | 4.0%/yr | 2.5%/yr | 5.5%/yr |
 | **Absorption Rate (units/yr)** | 68 | 50 | 85 |
 
 ### 3.2 Projected Cash Flow Summary (Base Case)
 
-| Year | Revenue ($M) | COGS ($M) | Gross Margin ($M) | OpEx ($M) | EBITDA ($M) | Free Cash Flow ($M) |
-|------|-------------|----------|-------------------|----------|------------|-------------------|
-| Year 1 | $8.2 | $5.7 | $2.5 | $3.8 | ($1.3) | ($5.8) |
-| Year 2 | $22.4 | $14.6 | $7.8 | $4.2 | $3.6 | $0.4 |
-| Year 3 | $38.7 | $23.2 | $15.5 | $5.1 | $10.4 | $6.8 |
-| Year 4 | $52.1 | $30.2 | $21.9 | $6.3 | $15.6 | $11.2 |
-| Year 5 | $58.6 | $33.5 | $25.1 | $7.0 | $18.1 | $13.8 |
-| Year 6 | $62.3 | $35.1 | $27.2 | $7.4 | $19.8 | $15.4 |
-| Year 7 | $59.8 | $33.5 | $26.3 | $7.2 | $19.1 | $14.8 |
-| Year 8 | $51.4 | $28.8 | $22.6 | $6.6 | $16.0 | $12.2 |
-| Year 9 | $44.2 | $24.5 | $19.7 | $6.1 | $13.6 | $10.1 |
-| Year 10 | $37.3 | $20.4 | $16.9 | $5.6 | $11.3 | $8.0 |
-| **Total** | **$393.7** | **$249.5** | **$144.2** | **$59.3** | **$84.9** | **$86.9** |
+Revenue is highly concentrated in Phase 1 (Year 3) and Phase 2 (Year 5) residential sellout events. Years 6–10 reflect recurring rental and commercial income only, after for-sale inventory is fully absorbed.
 
-*Note: Year 1 negative FCF reflects land development, infrastructure investment, and pre-construction costs funded by the $12.5M capital raise.*
+| Year | Revenue ($M) | Total Costs ($M) | EBITDA ($M) | Notes |
+|------|-------------|-----------------|------------|-------|
+| Year 1 | $0.0 | $11.3 | ($11.3) | Pre-revenue: land, infrastructure, staffing |
+| Year 2 | $18.3 | $15.6 | $2.7 | Phase 1 construction + early SFH closings |
+| Year 3 | $93.2 | $67.4 | $25.7 | Phase 1 residential sellout (100 SFH, 250 MF, 50 lots) |
+| Year 4 | $65.0 | $64.3 | $0.8 | Phase transition: Phase 2 site prep + partial MF sales |
+| Year 5 | $175.0 | $129.9 | $45.1 | Phase 2 residential sellout (100 MF, 60 special res, 50 lots) |
+| Year 6 | $6.8 | $2.5 | $4.3 | Recurring: rental income + commercial only |
+| Year 7 | $7.0 | $2.5 | $4.5 | Recurring (slight occupancy ramp) |
+| Year 8 | $7.2 | $2.5 | $4.7 | Recurring |
+| Year 9 | $7.4 | $2.4 | $5.0 | Recurring |
+| Year 10 | $7.7 | $2.5 | $5.2 | Recurring |
+| **Total** | **$387.7** | **$300.8** | **$86.9** | |
+
+*Note: Revenue profile is front-loaded by design — residential sellout events drive most revenue in Y3 and Y5. Post-sellout recurring income ($6.75M–$7.71M/yr) reflects stabilized rental/commercial portfolio.*
 
 ### 3.3 Terminal Value Calculation
 
@@ -244,15 +246,15 @@ The replacement cost method calculates the total cost to replicate the Abundanci
 
 | Unit Type | Units | Avg SF | Cost/SF | Total Cost |
 |-----------|-------|--------|---------|-----------|
-| **Single-Family Hempcrete Homes** | 100 | 2,200 | $195 | $42.9M |
-| **Tiny Homes** | 30 | 550 | $210 | $3.5M |
-| **Geodesic Domes** | 30 | 800 | $185 | $4.4M |
-| **Multifamily Apartments** | 260 | 950 | $175 | $43.2M |
-| **Rental Units** | 60 | 850 | $170 | $8.7M |
+| **Single-Family Hempcrete Homes** | 100 | 2,475 | $195 | $48.3M |
+| **Multifamily (For-Sale)** | 350 | 986 | $175 | $60.4M |
+| **Special Residential** | 60 | 700 | $185 | $7.8M |
+| **Rental Multifamily (Retained)** | 75 | 900 | $175 | $11.8M |
+| **Special Rentals (Short-Term)** | 50 | 400 | $170 | $3.4M |
+| **Event Center / Venue** | 15,000 SF | — | $250 | $3.8M |
 | **Commercial Space** | 25,000 SF | — | $225 | $5.6M |
-| **Retreat Center** | 15,000 SF | — | $250 | $3.8M |
 | **Community Center** | 8,000 SF | — | $235 | $1.9M |
-| **Subtotal — Vertical** | | | | **$114.0M** |
+| **Subtotal — Vertical** | | | | **$143.0M** |
 
 ### 5.5 Soft Costs
 
@@ -271,13 +273,13 @@ The replacement cost method calculates the total cost to replicate the Abundanci
 
 | Category | Amount | % of Total |
 |----------|--------|-----------|
-| **Land Basis** | $46.9M | 19.7% |
-| **Infrastructure** | $41.8M | 17.6% |
-| **Vertical Construction** | $114.0M | 47.9% |
-| **Soft Costs** | $35.1M | 14.8% |
-| **Total Replacement Cost** | **$237.8M** | **100%** |
-| **Developer's Required Profit (20%)** | $47.6M | |
-| **Replacement Cost Value** | **$285.4M** | |
+| **Land Basis** | $46.9M | 17.4% |
+| **Infrastructure** | $41.8M | 15.5% |
+| **Vertical Construction** | $143.0M | 53.0% |
+| **Soft Costs** | $38.5M | 14.3% |
+| **Total Replacement Cost** | **$270.2M** | **100%** |
+| **Developer's Required Profit (20%)** | $54.0M | |
+| **Replacement Cost Value** | **$324.2M** | |
 
 *Note: The replacement cost method reflects the value of the completed project at full buildout. The current-stage value is derived by applying a stage-of-completion discount (see Section 8).*
 
@@ -293,14 +295,14 @@ The income capitalization approach values the income-producing components of Abu
 
 | Income Component | Units/SF | Monthly Rate | Annual Gross | Vacancy | Effective Gross |
 |-----------------|---------|-------------|-------------|---------|----------------|
-| **Multifamily Apartments (Retained)** | 60 units | $1,850/unit | $1,332,000 | 5.0% | $1,265,400 |
-| **Rental Units** | 60 units | $1,650/unit | $1,188,000 | 6.0% | $1,116,720 |
+| **Rental Multifamily (Retained)** | 75 units | $1,850/unit/mo | $1,665,000 | 5.0% | $1,581,750 |
+| **Special Rentals (Short-Term)** | 50 units | $200/night × 210 nights | $2,100,000 | 8.0% | $1,932,000 |
+| **Event Center / Venue** | 1 | $4,000/night × 120 nights | $480,000 | 10.0% | $432,000 |
 | **Commercial Space** | 25,000 SF | $28/SF/yr | $700,000 | 8.0% | $644,000 |
-| **Retreat Center** | — | — | $1,260,000 | 10.0% | $1,134,000 |
 | **Community Farm (CSA + Sales)** | 40 acres | — | $480,000 | 5.0% | $456,000 |
 | **Solar Energy Credits** | 2.5 MW | — | $225,000 | 2.0% | $220,500 |
-| **HOA Management Fees** | 880 units | $150/unit/yr | $132,000 | 0% | $132,000 |
-| **Total Effective Gross Income** | | | **$5,317,000** | | **$4,968,620** |
+| **HOA Management Fees** | 736 structures | $150/structure/yr | $110,400 | 0% | $110,400 |
+| **Total Effective Gross Income** | | | **$5,760,400** | | **$5,376,650** |
 
 ### 6.3 Operating Expenses (Stabilized)
 
@@ -320,9 +322,9 @@ The income capitalization approach values the income-producing components of Abu
 
 | Metric | Amount |
 |--------|--------|
-| **Effective Gross Income** | $4,968,620 |
-| **Total Operating Expenses** | ($2,285,566) |
-| **Net Operating Income (NOI)** | **$2,683,054** |
+| **Effective Gross Income** | $5,376,650 |
+| **Total Operating Expenses** | ($2,473,259) |
+| **Net Operating Income (NOI)** | **$2,903,391** |
 
 ### 6.5 Capitalization Rate Selection
 
@@ -339,19 +341,19 @@ The income capitalization approach values the income-producing components of Abu
 
 | Cap Rate | Implied Value | $/Unit (Income Assets) |
 |----------|--------------|----------------------|
-| **5.00%** | $53.7M | $268,305 |
-| **5.50%** | $48.8M | $243,914 |
-| **6.00%** | **$44.7M** | **$223,587** |
-| **6.50%** | $41.3M | $206,388 |
-| **7.00%** | $38.3M | $191,646 |
+| **5.00%** | $58.1M | $290,441 |
+| **5.50%** | $52.8M | $263,944 |
+| **6.00%** | **$48.4M** | **$241,949** |
+| **6.50%** | $44.7M | $223,337 |
+| **7.00%** | $41.5M | $207,385 |
 
 ### 6.7 Income Capitalization Value
 
 | Component | Value |
 |-----------|-------|
-| **Capitalized Value of Income Assets** | $44.7M |
-| **For-Sale Residential NPV (remaining 520 units + 200 lots)** | $68.4M |
-| **Total Income-Based Value** | **$113.1M** |
+| **Capitalized Value of Income Assets** | $48.4M |
+| **For-Sale Residential NPV (510 for-sale units + 100 lots)** | $68.4M |
+| **Total Income-Based Value** | **$116.8M** |
 
 *Note: The for-sale residential component is valued at the NPV of projected net sale proceeds using a 13.5% discount rate, as direct capitalization is not applicable to for-sale inventory.*
 
@@ -367,18 +369,16 @@ The development profit method works backward from projected total revenue, subtr
 
 | Revenue Stream | Units | Avg Price | Gross Revenue |
 |---------------|-------|-----------|--------------|
-| **Single-Family Homes** | 100 | $625,000 | $62.5M |
-| **Tiny Homes** | 30 | $200,000 | $6.0M |
-| **Geodesic Domes** | 30 | $225,000 | $6.8M |
-| **Multifamily (For Sale)** | 200 | $408,000 | $81.6M |
-| **Multifamily (Retained Rental)** | 60 | Cap Value | $17.1M |
-| **Finished Lots** | 200 | $350,000 | $70.0M |
-| **Lot Premium Escalation (4%/yr avg over program)** | — | — | $15.4M |
-| **Rental Units (10-yr NOI + Residual)** | 60 | — | $43.6M |
+| **Single-Family Homes** | 100 | $1,185,000 | $118.5M |
+| **Multifamily (For Sale)** | 350 | $443,600 | $155.3M |
+| **Special Residential** | 60 | $141,500 | $8.5M |
+| **Finished Lots** | 100 | $250,000 | $25.0M |
+| **Appreciation Premium (4%/yr avg over program)** | — | — | $13.6M |
+| **Rental MF (10-yr NOI + Residual)** | 75 units | — | $26.4M |
+| **Special Rentals + Event Center (10-yr Revenue)** | 50 + 1 | — | $17.2M |
 | **Commercial Space (10-yr NOI + Residual)** | 25,000 SF | — | $7.8M |
-| **Retreat Center (10-yr Revenue)** | — | — | $6.3M |
-| **Home Price Appreciation (4%/yr avg)** | — | — | $118.0M |
-| **Gross Development Value** | | | **$393.7M** |
+| **Rental MF Home Price Appreciation** | — | — | $15.4M |
+| **Gross Development Value** | | | **$387.7M** |
 
 ### 7.3 Total Development Costs
 
@@ -398,11 +398,11 @@ The development profit method works backward from projected total revenue, subtr
 
 | Component | Amount |
 |-----------|--------|
-| **Gross Development Value** | $393.7M |
-| **Less: Total Development Costs** | ($396.0M) |
-| **Gross Development Profit** | ($2.3M) |
-| **Required Developer Return (15% on cost)** | ($59.4M) |
-| **Residual Before Time Adjustment** | ($20.3M) |
+| **Gross Development Value** | $387.7M |
+| **Less: Total Development Costs** | ($300.8M) |
+| **Gross Development Profit** | $86.9M |
+| **Required Developer Return (15% on cost)** | ($45.1M) |
+| **Residual Before Time Adjustment** | $41.8M |
 | **Time-Adjusted Residual (NPV at 13.5%, phased over 10 years)** | — |
 | **Adjusted Residual Entity Value** | **$95.2M** |
 
@@ -428,10 +428,10 @@ The development profit method works backward from projected total revenue, subtr
 |-----------------|----------------|-----------------|-------------------|--------|
 | **DCF Analysis** | $120.3M | — | $120.3M | 35% |
 | **Comparable Transactions** | $56.4M | — | $56.4M | 20% |
-| **Replacement Cost** | $285.4M | 40% complete | $114.2M | 15% |
-| **Income Capitalization** | $113.1M | — | $113.1M | 15% |
+| **Replacement Cost** | $324.2M | 40% complete | $129.7M | 15% |
+| **Income Capitalization** | $116.8M | — | $116.8M | 15% |
 | **Development Profit** | $95.2M | — | $95.2M | 15% |
-| **Weighted Average** | | | **$103.8M** | **100%** |
+| **Weighted Average** | | | **$107.5M** | **100%** |
 
 ### 8.2 Reconciliation Discussion
 
@@ -449,12 +449,12 @@ The development profit method works backward from projected total revenue, subtr
 
 | Metric | Low | Midpoint | High |
 |--------|-----|----------|------|
-| **Enterprise Value** | $85.0M | $103.8M | $125.0M |
-| **Equity Value** | $85.0M | $103.8M | $125.0M |
-| **Concluded Fair Market Value** | | **$100M - $110M** | |
-| **Selected Point Estimate** | | **$105.0M** | |
+| **Enterprise Value** | $85.0M | $107.5M | $130.0M |
+| **Equity Value** | $85.0M | $107.5M | $130.0M |
+| **Concluded Fair Market Value** | | **$100M - $115M** | |
+| **Selected Point Estimate** | | **$107.5M** | |
 
-The concluded value range of **$100M to $110M** reflects a judgment-weighted synthesis of all five methodologies, with primary reliance on the DCF and income approaches. The selected point estimate of **$105.0M** represents the midpoint of this range and forms the basis for the pre-money and post-money valuation analysis.
+The concluded value range of **$100M to $115M** reflects a judgment-weighted synthesis of all five methodologies, with primary reliance on the DCF and income approaches. The selected point estimate of **$107.5M** represents the weighted average of all methods and forms the basis for the pre-money and post-money valuation analysis.
 
 ---
 
@@ -467,9 +467,8 @@ The concluded value range of **$100M to $110M** reflects a judgment-weighted syn
 | **Capital Raise Amount** | $12.5M |
 | **Security Type** | Class A LP Units |
 | **Offering Type** | Regulation D, Rule 506(c) |
-| **Minimum Investment** | $250,000 |
-| **Maximum LP Units** | 50 units at $250,000 each |
-| **Preferred Return** | 8% cumulative |
+| **Minimum Investment** | $50,000 |
+| **Distribution Waterfall** | 4-tier IRR-based (80/20 → 50/50 above 15% LP IRR) |
 | **GP Commitment** | $1.5M (10.7% of total) |
 
 ### 9.2 Pre-Money Valuation
@@ -496,12 +495,12 @@ The concluded value range of **$100M to $110M** reflects a judgment-weighted syn
 
 | Metric | Conservative | Base | Optimistic |
 |--------|-------------|------|-----------|
-| **Target EMx** | 3.0x | 3.83x | 5.5x |
+| **Target EMx** | 2.6x | 3.83x | 4.6x |
 | **LP Investment** | $12.5M | $12.5M | $12.5M |
-| **Required LP Distributions** | $37.5M | $55.3M | $68.8M |
-| **Implied Equity Value at Exit** | $187.5M | $276.3M | $343.8M |
+| **Required LP Distributions** | $32.5M | $47.9M | $57.5M |
+| **Implied Equity Value at Exit** | $162.5M | $239.5M | $287.5M |
 | **Target IRR** | 26.0% | 34.19% | 47.0% |
-| **Value Creation** | $124.5M | $213.3M | $280.8M |
+| **Value Creation** | $99.5M | $176.5M | $224.5M |
 
 ### 9.5 Valuation Accretion Analysis
 
@@ -522,8 +521,8 @@ The concluded value range of **$100M to $110M** reflects a judgment-weighted syn
 
 | Metric | Pre-Money | Post-Money | At Buildout (Base) |
 |--------|-----------|-----------|-------------------|
-| **Value per Residential Unit (680)** | $92,647 | $111,029 | $406,324 |
-| **Value per Total Unit (880 incl. lots)** | $71,591 | $85,795 | $313,977 |
+| **Value per Residential Unit (510 for-sale)** | $123,529 | $147,059 | $541,176 |
+| **Value per Total Structure (736 incl. rentals)** | $85,598 | $102,446 | $375,000 |
 | **Value per Acre** | $167,553 | $200,798 | $734,840 |
 | **Value per Buildable Acre (200 acres)** | $315,000 | $377,500 | $1,381,500 |
 
@@ -566,19 +565,19 @@ The concluded value range of **$100M to $110M** reflects a judgment-weighted syn
 
 | Scenario | IRR | EMx | Enterprise Value | LP Distributions |
 |----------|-----|-----|-----------------|-----------------|
-| **Bear Case (Recession)** | 16.0% | 2.2x | $62.0M | $27.5M |
-| **Conservative** | 26.0% | 3.0x | $85.0M | $37.5M |
-| **Base** | 34.19% | 3.83x | $103.8M | $55.3M |
-| **Optimistic** | 47.0% | 5.5x | $125.0M | $68.8M |
-| **Bull Case (Tech Boom)** | 52.0% | 6.8x | $155.0M | $85.0M |
+| **Bear Case (Recession)** | 16.0% | 2.0x | $62.0M | $25.0M |
+| **Conservative** | 26.0% | 2.6x | $85.0M | $32.5M |
+| **Base** | 34.19% | 3.83x | $103.8M | $47.9M |
+| **Optimistic** | 47.0% | 4.6x | $125.0M | $57.5M |
+| **Bull Case (Tech Boom)** | 52.0% | 5.8x | $155.0M | $72.5M |
 
 ### 11.3 Break-Even Valuation
 
 | Break-Even Metric | Required Value | Current Projection | Margin of Safety |
 |-------------------|---------------|-------------------|-----------------|
-| **1.0x Return of Capital** | $12.5M distributions | $55.3M | 342% |
-| **8% Preferred Return (10yr)** | $25.0M distributions | $55.3M | 121% |
-| **2.0x Equity Multiple** | $25.0M distributions | $55.3M | 121% |
+| **1.0x Return of Capital** | $12.5M distributions | $47.9M | 283% |
+| **12% LP IRR (Tier 2 threshold)** | ~$22.0M distributions | $47.9M | 118% |
+| **2.0x Equity Multiple** | $25.0M distributions | $47.9M | 92% |
 | **20% IRR Threshold** | $72M enterprise value | $103.8M | 44% |
 | **Land Value Floor** | $45.1M (comp-based) | $103.8M | 130% |
 
