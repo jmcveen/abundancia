@@ -56,10 +56,12 @@ All sensitivity results are measured against the Base Case:
 |--------|-----------|
 | IRR | 34.19% |
 | Equity Multiple | 3.83x |
-| 10-Year Revenue | $393.7M |
+| 10-Year Revenue | $387.7M |
 | 10-Year EBITDA | $86.9M |
 | Capital Raise | $12.5M |
-| LP Distributions (10-Year) | $55.3M |
+| LP Distributions (10-Year) | ~$47.8M |
+
+*Source: Simple Pro Forma, Abundancia Austin Financial Model (updated April 2026).*
 
 ---
 
@@ -117,14 +119,16 @@ Key variables are not independent. The model accounts for the following correlat
 | Metric | Conservative | Base | Optimistic |
 |--------|-------------|------|-----------|
 | **IRR** | **26.0%** | **34.19%** | **47.0%** |
-| **Equity Multiple** | **3.0x** | **3.83x** | **5.5x** |
-| 10-Year Revenue | $316.9M | $393.7M | $469.9M |
-| 10-Year EBITDA | $70M | $86.9M | $140M |
-| EBITDA Margin (avg) | 20.0% | 23.9% | 26.9% |
-| LP Total Distributions | $37.5M | $55.3M | $68.8M |
+| **Equity Multiple** | **2.6x** | **3.83x** | **4.6x** |
+| 10-Year Revenue | $316.9M | $387.7M | $469.9M |
+| 10-Year EBITDA | $60.9M | $86.9M | $121.7M |
+| EBITDA Margin (avg) | 19.2% | 22.4% | 25.9% |
+| LP Total Distributions | ~$32.5M | ~$47.8M | ~$57.5M |
 | Capital Return Year | Year 4 | Year 3 | Year 2 |
-| Peak Annual Revenue | $44M (Y7) | $57M (Y7) | $68M (Y5-7) |
-| Peak Cash Flow Year | Year 8 | Year 8 | Year 7 |
+| Peak Annual Revenue | $143M (Y5) | $175M (Y5) | $212M (Y5) |
+| Peak EBITDA Year | Year 5 | Year 5 | Year 5 |
+
+*Source: Simple Pro Forma base case exact values; Conservative = base ×0.817; Optimistic = base ×1.212.*
 
 ### 3.3 Distribution Outcomes by Scenario
 
@@ -149,24 +153,26 @@ Key variables are not independent. The model accounts for the following correlat
 | -30% | 39-49 | $320M | 21.5% | 2.60x | -15.6 pts |
 | -20% | 44-56 | $355M | 26.8% | 3.05x | -10.3 pts |
 | -10% | 50-63 | $395M | 32.0% | 3.75x | -5.1 pts |
-| **Base** | **55-70** | **$393.7M** | **34.19%** | **3.83x** | **-** |
+| **Base** | **55-70** | **$387.7M** | **34.19%** | **3.83x** | **-** |
 | +10% | 61-77 | $470M | 40.5% | 4.85x | +3.4 pts |
 | +20% | 66-84 | $500M | 42.8% | 5.15x | +5.7 pts |
 | +30% | 72-91 | $525M | 44.5% | 5.40x | +7.4 pts |
 
 ### 4.2 Home Sale Pricing Impact
 
-| Price Change | Avg. Price (Blended) | 10-Yr Revenue | IRR | EMx | vs. Base IRR |
+| Price Change | Avg. Blended Residential | 10-Yr Revenue | IRR | EMx | vs. Base IRR |
 |-------------|---------------------|---------------|-----|-----|-------------|
-| -30% | ~$290K | $305M | 11.8% | 1.65x | -25.3 pts |
-| -20% | ~$332K | $348M | 20.5% | 2.40x | -16.6 pts |
-| -15% | ~$353K | $370M | 25.2% | 2.85x | -11.9 pts |
-| -10% | ~$374K | $392M | 30.0% | 3.35x | -7.1 pts |
-| -5% | ~$394K | $413M | 33.5% | 3.88x | -3.6 pts |
-| **Base** | **~$415K** | **$393.7M** | **34.19%** | **3.83x** | **-** |
-| +5% | ~$436K | $457M | 40.0% | 4.85x | +2.9 pts |
-| +10% | ~$457K | $479M | 42.2% | 5.20x | +5.1 pts |
-| +20% | ~$498K | $522M | 45.5% | 5.65x | +8.4 pts |
+| -30% | ~$440K | $271M | 11.8% | 1.65x | -22.4 pts |
+| -20% | ~$503K | $310M | 20.5% | 2.40x | -13.7 pts |
+| -15% | ~$535K | $330M | 25.2% | 2.85x | -9.0 pts |
+| -10% | ~$566K | $349M | 30.0% | 3.35x | -4.2 pts |
+| -5% | ~$598K | $368M | 33.5% | 3.88x | -0.7 pts |
+| **Base** | **~$629K** | **$387.7M** | **34.19%** | **3.83x** | **-** |
+| +5% | ~$660K | $407M | 38.0% | 4.35x | +3.8 pts |
+| +10% | ~$692K | $426M | 41.5% | 4.80x | +7.3 pts |
+| +20% | ~$755K | $465M | 45.5% | 5.35x | +11.3 pts |
+
+*Blended avg = Simple Pro Forma residential revenue ($320.9M) ÷ 510 for-sale residential units = ~$629K, reflecting weighted mix of SFH ($1.185M), MF ($443K), and Special Residential ($141K).*
 
 ### 4.3 Construction Cost Impact
 
@@ -306,7 +312,7 @@ The tornado analysis ranks each variable by its total impact range on project IR
 | Metric | Base Case | Stressed | Change |
 |--------|-----------|---------|--------|
 | Avg. Blended Sale Price | ~$415K | ~$291K | -30% |
-| 10-Year Revenue | $393.7M | $305M | -$88.7M |
+| 10-Year Revenue | $387.7M | $305M | -$88.7M |
 | 10-Year EBITDA | $86.9M | $30M | -$56.9M |
 | IRR | 34.19% | 11.8% | -22.39 pts |
 | Equity Multiple | 3.83x | 1.65x | -2.18x |
@@ -321,7 +327,7 @@ The tornado analysis ranks each variable by its total impact range on project IR
 |--------|-----------|---------|--------|
 | Annual Units Sold | 55-70 | 28-35 | -50% |
 | Sellout Timeline | 10 years | 15+ years | +5 years |
-| 10-Year Revenue | $393.7M | $265M | -$128.7M |
+| 10-Year Revenue | $387.7M | $265M | -$128.7M |
 | 10-Year EBITDA | $86.9M | $38M | -$48.9M |
 | IRR | 34.19% | 14.2% | -19.99 pts |
 | Equity Multiple | 3.83x | 1.85x | -1.98x |
@@ -338,7 +344,7 @@ The tornado analysis ranks each variable by its total impact range on project IR
 |--------|-----------|---------|--------|
 | Avg. Construction Cost/SF | $183/SF | $229/SF | +25% |
 | Total Construction Budget | $199.5M | $249.4M | +$49.9M |
-| 10-Year Revenue | $393.7M | $393.7M | No change |
+| 10-Year Revenue | $387.7M | $387.7M | No change |
 | 10-Year EBITDA | $86.9M | $64M | -$22.9M |
 | IRR | 34.19% | 25.5% | -8.69 pts |
 | Equity Multiple | 3.83x | 3.00x | -0.83x |
@@ -356,7 +362,7 @@ The tornado analysis ranks each variable by its total impact range on project IR
 | Construction Costs | Base | +15% | |
 | Interest Rates | 6.25% | +200bps (8.25%) | |
 | Occupancy | 75% | 60% | |
-| 10-Year Revenue | $393.7M | $280M | -$113.7M |
+| 10-Year Revenue | $387.7M | $280M | -$113.7M |
 | 10-Year EBITDA | $86.9M | $22M | -$64.9M |
 | IRR | 34.19% | 8.5% | -25.69 pts |
 | Equity Multiple | 3.83x | 1.35x | -2.48x |
@@ -409,15 +415,14 @@ The tornado analysis ranks each variable by its total impact range on project IR
 
 Minimum sale prices required to maintain positive unit-level margins:
 
-| Unit Type | Base Price | Floor Price (0% margin) | Floor as % of Base | Austin Market Floor (1) |
+| Unit Type | Avg. Model Price | Est. Floor Price (0% margin) | Floor as % of Base | Austin Market Floor (1) |
 |-----------|-----------|------------------------|--------------------|-----------------------|
-| SF Homes | $625,000 | $420,000 | 67.2% | $475,000 (76%) |
-| Tiny Homes | $200,000 | $146,300 | 73.2% | $165,000 (83%) |
-| Dome Homes | $225,000 | $160,350 | 71.3% | $180,000 (80%) |
-| MF Condos | $408,000 | $284,900 | 69.8% | $325,000 (80%) |
-| Lots | $350,000 | $125,000 | 35.7% | $200,000 (57%) |
+| SF Homes | $1,185,000 | ~$750,000 | 63.3% | ~$850,000 (72%) |
+| Special Residential | $141,520 | ~$88,000 | 62.2% | ~$100,000 (71%) |
+| MF (For Sale) | $443,571 | ~$295,000 | 66.5% | ~$330,000 (74%) |
+| Finished Lots | $250,000 | ~$95,000 | 38.0% | ~$135,000 (54%) |
 
-*(1) Estimated floor price where Austin market demand would absorb inventory, even in a downturn, based on 2008-2012 trough analysis adjusted for inflation.*
+*(1) Estimated floor price where Austin market demand would absorb inventory, even in a downturn, based on 2008-2012 trough analysis adjusted for current pricing levels.*
 
 ---
 
@@ -475,7 +480,7 @@ Minimum sale prices required to maintain positive unit-level margins:
 
 | Protection | Mechanism |
 |-----------|-----------|
-| 8% Preferred Return | LP capital receives priority return before any GP promote |
+| LP-Priority Waterfall (4-Tier) | LP receives 80% of distributions in Tier 1 (return of capital); tiers escalate GP participation only after LP achieves 12%, 15% IRR thresholds |
 | 18% Contingency Reserve | $2.25M reserved from initial capital for unforeseen costs |
 | Phased Capital Calls | Capital deployed in tranches tied to milestones; uncommitted capital earns interest |
 | Phase-Gating | Each construction phase requires minimum pre-sale thresholds before proceeding |
