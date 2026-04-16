@@ -53,8 +53,8 @@ This report presents a comprehensive valuation analysis of Abundancia Austin, a 
 | **Distance to Austin CBD** | ~30 minutes (SH 71 corridor) |
 | **Zoning** | No county-level zoning (Bastrop County) |
 | **Development Program** | 680 residential units, 200 finished lots, 60 rental units, commercial, retreat |
-| **Projected 10-Year Revenue** | $435M (base case) |
-| **Projected 10-Year EBITDA** | $104M (base case) |
+| **Projected 10-Year Revenue** | $393.7M (base case) |
+| **Projected 10-Year EBITDA** | $86.9M (base case) |
 | **Capital Raise** | $12.5M |
 | **Entity Structure** | TX Series LLC, LP/GP, Reg D 506(c) |
 
@@ -117,7 +117,7 @@ Five independent valuation methodologies have been applied to triangulate a defe
 | Year 8 | $51.4 | $28.8 | $22.6 | $6.6 | $16.0 | $12.2 |
 | Year 9 | $44.2 | $24.5 | $19.7 | $6.1 | $13.6 | $10.1 |
 | Year 10 | $37.3 | $20.4 | $16.9 | $5.6 | $11.3 | $8.0 |
-| **Total** | **$435.0** | **$249.5** | **$185.5** | **$59.3** | **$126.2** | **$86.9** |
+| **Total** | **$393.7** | **$249.5** | **$144.2** | **$59.3** | **$84.9** | **$86.9** |
 
 *Note: Year 1 negative FCF reflects land development, infrastructure investment, and pre-construction costs funded by the $12.5M capital raise.*
 
@@ -378,7 +378,7 @@ The development profit method works backward from projected total revenue, subtr
 | **Commercial Space (10-yr NOI + Residual)** | 25,000 SF | — | $7.8M |
 | **Retreat Center (10-yr Revenue)** | — | — | $6.3M |
 | **Home Price Appreciation (4%/yr avg)** | — | — | $118.0M |
-| **Gross Development Value** | | | **$435.1M** |
+| **Gross Development Value** | | | **$393.7M** |
 
 ### 7.3 Total Development Costs
 
@@ -398,9 +398,9 @@ The development profit method works backward from projected total revenue, subtr
 
 | Component | Amount |
 |-----------|--------|
-| **Gross Development Value** | $435.1M |
+| **Gross Development Value** | $393.7M |
 | **Less: Total Development Costs** | ($396.0M) |
-| **Gross Development Profit** | $39.1M |
+| **Gross Development Profit** | ($2.3M) |
 | **Required Developer Return (15% on cost)** | ($59.4M) |
 | **Residual Before Time Adjustment** | ($20.3M) |
 | **Time-Adjusted Residual (NPV at 13.5%, phased over 10 years)** | — |
@@ -496,11 +496,11 @@ The concluded value range of **$100M to $110M** reflects a judgment-weighted syn
 
 | Metric | Conservative | Base | Optimistic |
 |--------|-------------|------|-----------|
-| **Target EMx** | 3.0x | 4.42x | 5.5x |
+| **Target EMx** | 3.0x | 3.83x | 5.5x |
 | **LP Investment** | $12.5M | $12.5M | $12.5M |
 | **Required LP Distributions** | $37.5M | $55.3M | $68.8M |
 | **Implied Equity Value at Exit** | $187.5M | $276.3M | $343.8M |
-| **Target IRR** | 24.0% | 37.1% | 45.0% |
+| **Target IRR** | 26.0% | 34.19% | 47.0% |
 | **Value Creation** | $124.5M | $213.3M | $280.8M |
 
 ### 9.5 Valuation Accretion Analysis
@@ -567,9 +567,9 @@ The concluded value range of **$100M to $110M** reflects a judgment-weighted syn
 | Scenario | IRR | EMx | Enterprise Value | LP Distributions |
 |----------|-----|-----|-----------------|-----------------|
 | **Bear Case (Recession)** | 16.0% | 2.2x | $62.0M | $27.5M |
-| **Conservative** | 24.0% | 3.0x | $85.0M | $37.5M |
-| **Base** | 37.1% | 4.42x | $103.8M | $55.3M |
-| **Optimistic** | 45.0% | 5.5x | $125.0M | $68.8M |
+| **Conservative** | 26.0% | 3.0x | $85.0M | $37.5M |
+| **Base** | 34.19% | 3.83x | $103.8M | $55.3M |
+| **Optimistic** | 47.0% | 5.5x | $125.0M | $68.8M |
 | **Bull Case (Tech Boom)** | 52.0% | 6.8x | $155.0M | $85.0M |
 
 ### 11.3 Break-Even Valuation

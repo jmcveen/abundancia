@@ -80,8 +80,8 @@ The following is a summary of the material terms of the offering. This summary i
 | **Management Fee** | 1.5% of committed capital per annum |
 | **Disposition Fee** | 1.0% of gross sale proceeds |
 | **Target Hold Period** | 7-10 years |
-| **Target IRR** | 37.1% (base case — not guaranteed) |
-| **Target Equity Multiple** | 4.42x (base case — not guaranteed) |
+| **Target IRR** | 34.19% (base case — not guaranteed) |
+| **Target Equity Multiple** | 3.83x (base case — not guaranteed) |
 | **Distributions** | Quarterly, beginning when cash flow permits (estimated Year 2) |
 | **K-1 Reporting** | Annual Schedule K-1 provided to each investor |
 | **Offering Period** | March 2026 through September 2026 (may be extended) |
@@ -216,7 +216,7 @@ The Company intends to develop the following program across five phases over a 1
 | Commercial Space | ~25,000 SF | $28/SF NNN | $7,800,000 (10-yr lease) | 4-5 |
 | Retreat Center | 1 | N/A | $6,300,000 (10-yr revenue) | 4-5 |
 
-**Total 10-Year Projected Revenue: $435,100,000** (base case)
+**Total 10-Year Projected Revenue: $393,732,179** (base case)
 
 ### 3.4 Competitive Position
 
@@ -547,9 +547,9 @@ In the event that, upon final dissolution and liquidation of the Company, the Ge
 | **Tier 6: 50/50 Split** | $61,638 (LP: $30,819 / GP: $30,819) | $442,000 |
 | **Total LP Distributions** | **$339,730** | 3.40x LP return |
 | **Total GP Distributions** | **$102,270** | — |
-| **Total** | **$442,000** | 4.42x blended |
+| **Total** | **$442,000** | 3.83x blended |
 
-*Illustrative only. Actual distributions depend on project performance. Base case projects 4.42x blended equity multiple.*
+*Illustrative only. Actual distributions depend on project performance. Base case projects 3.83x blended equity multiple.*
 
 ---
 
@@ -569,7 +569,7 @@ The following is a summary of certain risks associated with an investment in the
 
 **Competition.** The Austin MSA is an active market for residential development. New master-planned communities, conventional subdivisions, and infill projects compete for the same buyer pool. There can be no assurance that the Company's differentiated positioning will sustain pricing premiums throughout the development period.
 
-**Pricing Risk.** The financial projections assume specific pricing for each product type. Actual achievable prices may be lower than projected due to market conditions, competition, or other factors. A 10% reduction in achievable prices would reduce projected revenue by approximately $43.5 million.
+**Pricing Risk.** The financial projections assume specific pricing for each product type. Actual achievable prices may be lower than projected due to market conditions, competition, or other factors. A 10% reduction in achievable prices would reduce projected revenue by approximately $39.4 million.
 
 ### 9.3 Construction Risks
 

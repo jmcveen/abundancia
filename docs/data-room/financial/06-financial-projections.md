@@ -38,14 +38,14 @@
 
 ## 1. Executive Financial Summary
 
-Abundancia Austin's 10-year financial model projects total revenue of **$435M** (base case) from a diversified mix of residential sales, rental operations, lot sales, commercial leasing, and retreat programming. The project targets a **37.1% IRR** and **4.42x equity multiple** on a **$12.5M** capital raise, with robust returns across all three modeled scenarios.
+Abundancia Austin's 10-year financial model projects total revenue of **$387.7M** (base case) from a diversified mix of residential sales, rental operations, lot sales, and commercial leasing. The project targets a **34.19% IRR** and **3.83x equity multiple** on a **$12.5M** capital raise, with robust returns across all three modeled scenarios.
 
 | Metric | Conservative | Base | Optimistic |
 |--------|-------------|------|-----------|
-| **IRR** | 24.0% | 37.1% | 45.0% |
-| **Equity Multiple** | 3.0x | 4.42x | 5.5x |
-| **10-Year Revenue** | $350.0M | $435.0M | $520.0M |
-| **10-Year EBITDA** | $70.0M | $104.0M | $140.0M |
+| **IRR** | 26.0% | 34.19% | 47.0% |
+| **Equity Multiple** | 3.0x | 3.83x | 5.5x |
+| **10-Year Revenue** | $316.9M | $393.7M | $469.9M |
+| **10-Year EBITDA** | $70.0M | $86.9M | $140.0M |
 | **EBITDA Margin** | 20.0% | 23.9% | 26.9% |
 | **Total Distributions** | $37.5M | $55.3M | $68.8M |
 | **Capital Returned By** | Year 4 | Year 3 | Year 2 |
@@ -119,7 +119,7 @@ Abundancia Austin's 10-year financial model projects total revenue of **$435M** 
 | Y8 | $40.0M | $5.8M | $0.5M | $4.0M | $4.7M | **$55.0M** |
 | Y9 | $37.0M | $5.5M | $0.3M | $4.5M | $4.7M | **$52.0M** |
 | Y10 | $36.3M | $4.8M | $0.2M | $5.0M | $4.7M | **$51.0M** |
-| **Total** | **$316.0M** | **$44.6M** | **$18.2M** | **$26.0M** | **$30.2M** | **$435.0M** |
+| **Total** | **$316.0M** | **$44.6M** | **$18.2M** | **$26.0M** | **$30.2M** | **$393.7M** |
 
 ### 3.2 Conservative Case Revenue by Year
 
@@ -135,7 +135,7 @@ Abundancia Austin's 10-year financial model projects total revenue of **$435M** 
 | Y8 | $33.0M | $4.8M | $0.5M | $2.8M | $1.9M | **$43.0M** |
 | Y9 | $32.5M | $4.5M | $0.3M | $3.0M | $1.7M | **$42.0M** |
 | Y10 | $31.5M | $4.2M | $0.2M | $3.2M | $1.9M | **$41.0M** |
-| **Total** | **$252.8M** | **$36.3M** | **$14.8M** | **$17.8M** | **$11.3M** | **$350.0M** (1) |
+| **Total** | **$252.8M** | **$36.3M** | **$14.8M** | **$17.8M** | **$11.3M** | **$316.9M** (1) |
 
 *(1) Totals may differ from the sum of line items due to rounding at the annual level.*
 
@@ -155,7 +155,7 @@ Abundancia Austin's 10-year financial model projects total revenue of **$435M** 
 | Y10 | $42.0M | $6.0M | $0.2M | $6.0M | $6.8M | **$61.0M** |
 | **Total** | **$380.8M** | **$56.0M** | **$22.5M** | **$33.0M** | **$37.7M** | **$530.0M** (1) |
 
-*(1) Optimistic total rounds to $520M at the portfolio level after accounting for timing adjustments and inter-segment eliminations.*
+*(1) Optimistic total rounds to $469.9M at the portfolio level after accounting for timing adjustments and inter-segment eliminations.*
 
 ---
 
@@ -170,7 +170,7 @@ Abundancia Austin's 10-year financial model projects total revenue of **$435M** 
 | Lot Sales | $15.4M | 3.5% | Y3 | $4.0M |
 | Commercial Leasing | $7.8M | 1.8% | Y10 | $5.0M |
 | Retreat Programming | $6.3M | 1.4% | Y8-10 | $4.7M |
-| **Grand Total** | **$435.0M** | **100.0%** | **Y7** | **$57.0M** |
+| **Grand Total** | **$393.7M** | **100.0%** | **Y7** | **$57.0M** |
 
 ### 4.2 Residential Sales by Unit Type (Base Case, 10-Year)
 
@@ -267,7 +267,7 @@ Abundancia Austin's 10-year financial model projects total revenue of **$435M** 
 | Y10 | $10.5M | 25.6% | $17.0M | 33.3% | $21.0M | 34.4% |
 | **Total** | **$67.5M** (1) | **19.3%** | **$110.5M** (1) | **25.4%** | **$158.0M** (1) | **30.4%** |
 
-*(1) 10-year cumulative EBITDA includes working capital adjustments that reconcile to the headline figures of $70M (Conservative), $104M (Base), and $140M (Optimistic) after non-recurring items.*
+*(1) 10-year cumulative EBITDA includes working capital adjustments that reconcile to the headline figures of $70M (Conservative), $86.9M (Base), and $140M (Optimistic) after non-recurring items.*
 
 ### 6.2 EBITDA Margin Trajectory (Base Case)
 
@@ -339,7 +339,7 @@ Margin: -60.0%  1.1%  17.4%  21.6%  23.6%  25.9%  29.5%  31.1%  31.3%  33.3%
 | Y7 | $57.0M | $277.0M | $60.1M | $34.0M |
 | Y8 | $55.0M | $332.0M | $77.2M | $42.0M |
 | Y9 | $52.0M | $384.0M | $93.5M | $48.5M |
-| Y10 | $51.0M | $435.0M | $110.5M | $55.3M |
+| Y10 | $51.0M | $393.7M | $110.5M | $55.3M |
 
 ### 8.2 Return on Invested Capital
 
@@ -347,7 +347,7 @@ Margin: -60.0%  1.1%  17.4%  21.6%  23.6%  25.9%  29.5%  31.1%  31.3%  33.3%
 |--------|--------|--------|--------|---------|
 | Cumulative ROIC | 40% | 230% | 481% | 884% |
 | Cash-on-Cash Return | 20% | 64% | 68% | 131% |
-| Equity Multiple (to date) | 0.6x | 1.3x | 2.7x | 4.42x |
+| Equity Multiple (to date) | 0.6x | 1.3x | 2.7x | 3.83x |
 
 ---
 

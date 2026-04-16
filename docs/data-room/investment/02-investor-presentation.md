@@ -606,9 +606,9 @@ After the initial $12.5M equity investment, the project is designed to self-fund
 | Interest rate (construction) | 8.5% | 7.5% | 6.5% |
 | Rental occupancy | 90% | 94% | 97% |
 | **Results** | | | |
-| **10-Year Total Revenue** | $326,000,000 | $435,000,000 | $567,000,000 |
-| **Internal Rate of Return (IRR)** | 24.8% | 37.1% | 48.6% |
-| **Equity Multiple (EMx)** | 2.94x | 4.42x | 6.18x |
+| **10-Year Total Revenue** | $326,000,000 | $393,700,000 | $567,000,000 |
+| **Internal Rate of Return (IRR)** | 24.8% | 34.19% | 48.6% |
+| **Equity Multiple (EMx)** | 2.94x | 3.83x | 6.18x |
 | **Cash-on-Cash (Stabilized)** | 14.2% | 19.8% | 26.3% |
 | **Payback Period** | 4.2 years | 3.1 years | 2.4 years |
 | **Net Profit** | $89,000,000 | $138,000,000 | $198,000,000 |
@@ -626,8 +626,8 @@ After the initial $12.5M equity investment, the project is designed to self-fund
 | 7 | $57,515,000 | $35,200,000 | $22,315,000 | $301,135,000 |
 | 8 | $49,555,000 | $29,800,000 | $19,755,000 | $350,690,000 |
 | 9 | $45,055,000 | $26,400,000 | $18,655,000 | $395,745,000 |
-| 10 | $39,355,000 | $22,600,000 | $16,755,000 | $435,100,000 |
-| **Total** | **$435,100,000** | **$269,500,000** | **$165,600,000** | — |
+| 10 | $39,355,000 | $22,600,000 | $16,755,000 | $393,732,179 |
+| **Total** | **$393,732,179** | **$269,500,000** | **$165,600,000** | — |
 
 ### 9.3 Distribution Waterfall
 
@@ -655,7 +655,7 @@ Investor distributions follow a four-tier waterfall structure aligned with insti
 | 7 | $54,200 | $232,400 | 2.32x |
 | 8 | $48,800 | $281,200 | 2.81x |
 | 9 | $72,000 | $353,200 | 3.53x |
-| 10 | $88,800 | $442,000 | 4.42x |
+| 10 | $88,800 | $442,000 | 3.83x |
 
 *Illustrative. Actual distributions depend on project performance and are not guaranteed.*
 
@@ -783,8 +783,8 @@ Strategic advisors provide domain expertise in:
 | **Investor Type** | Accredited Investors Only (verified) |
 | **Minimum Investment** | $50,000 |
 | **Preferred Return** | 8% cumulative, compounded annually |
-| **Target IRR** | 37.1% (base case) |
-| **Target Equity Multiple** | 4.42x (base case) |
+| **Target IRR** | 34.19% (base case) |
+| **Target Equity Multiple** | 3.83x (base case) |
 | **Target Hold** | 7-10 years |
 | **Distributions** | Quarterly (beginning Year 2) |
 | **Reporting** | Quarterly financial reports, annual K-1 |

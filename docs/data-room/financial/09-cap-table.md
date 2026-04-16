@@ -366,14 +366,14 @@ Distribution Priority:
 | $37.5M (3.0x) | $29.38M | 78.3% | 2.35x | $8.13M | 21.7% |
 | $43.75M (3.5x) | $32.50M | 74.3% | 2.60x | $11.25M | 25.7% |
 | $50.0M (4.0x) | $35.63M | 71.3% | 2.85x | $14.38M | 28.8% |
-| $55.25M (4.42x) | $38.25M | 69.2% | 3.06x | $17.00M | 30.8% |
+| $55.25M (3.83x) | $38.25M | 69.2% | 3.06x | $17.00M | 30.8% |
 | $62.5M (5.0x) | $41.88M | 67.0% | 3.35x | $20.63M | 33.0% |
 
 ---
 
 ## 8. Promote Calculations
 
-### 8.1 GP Promote by Tier (at Base Case: 4.42x, $55.25M distributed)
+### 8.1 GP Promote by Tier (at Base Case: 3.83x, $55.25M distributed)
 
 | Tier | Revenue to Tier | GP Share % | GP Promote | % of Total Promote |
 |------|----------------|-----------|-----------|-------------------|
@@ -381,7 +381,7 @@ Distribution Priority:
 | Tier 2 (1.0x - 1.5x) | $6,250,000 | 20% | $1,250,000 | 7.4% |
 | Tier 3 (1.5x - 2.0x) | $6,250,000 | 30% | $1,875,000 | 11.0% |
 | Tier 4 (2.0x - 3.0x) | $12,500,000 | 40% | $5,000,000 | 29.4% |
-| Tier 5 (3.0x - 4.42x) | $17,750,000 | 50% | $8,875,000 | 52.2% |
+| Tier 5 (3.0x - 3.83x) | $17,750,000 | 50% | $8,875,000 | 52.2% |
 | **Total** | **$55,250,000** | | **$17,000,000** | **100.0%** |
 
 ### 8.2 GP Total Compensation (Base Case, 10 Years)
@@ -400,7 +400,7 @@ Distribution Priority:
 | Scenario | Total Profit (above capital) | GP Promote | Promote as % of Profit |
 |----------|----------------------------|-----------|----------------------|
 | Conservative (3.0x) | $25,000,000 | $8,125,000 | 32.5% |
-| Base (4.42x) | $42,750,000 | $17,000,000 | 39.8% |
+| Base (3.83x) | $42,750,000 | $17,000,000 | 39.8% |
 | Optimistic (5.5x) | $56,250,000 | $23,750,000 | 42.2% |
 
 ---
@@ -437,7 +437,7 @@ Distribution Priority:
 | Total Distributions | $55.25M | $68.0M (2) | +$12.75M |
 | Original LP Distributions | $38.25M | $36.50M | -$1.75M |
 | Original LP EMx | 3.06x | 2.92x | -0.14x |
-| Original LP IRR | 37.1% | 36.0% | -1.1 pts |
+| Original LP IRR | 34.19% | 33.1% | -1.09 pts |
 
 *(2) Additional capital accelerates development, increasing total distributions, but original LP share is reduced.*
 

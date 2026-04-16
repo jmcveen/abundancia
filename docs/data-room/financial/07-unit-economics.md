@@ -42,15 +42,14 @@
 
 | Unit Type | Count | Avg. Size | Base Price | Total Revenue (Base) | % of Total |
 |-----------|-------|-----------|-----------|---------------------|-----------|
-| Single-Family Homes | 100 | 1,900 SF | $625,000 | $62.5M (1) | 14.4% |
-| Tiny Homes | 30 | 600 SF | $200,000 | $6.0M (1) | 1.4% |
-| Dome Homes | 30 | 600 SF | $225,000 | $6.8M (1) | 1.6% |
-| Multifamily Condos | 260 | 1,100 SF | $408,000 | $106.1M (1) | 24.4% |
-| Finished Lots | 200 | Varies | $350,000 | $70.0M (1) | 16.1% |
-| Rental Units | 60 | 800 SF | $233/night | $43.6M (2) | 10.0% |
-| Commercial / Retreat | - | - | - | $14.1M (2) | 3.2% |
-| Builder/Developer Sales | - | - | - | $125.9M | 28.9% |
-| **Total** | **680+** | | | **$435.0M** | **100.0%** |
+| Single-Family Homes | 100 | 2,475 SF | $1,185,000 | $320.9M (1) | 81.6% |
+| Multifamily Condos | 350 | 986 SF | $443,571 | — | included above |
+| Special Residential (tiny/dome) | 60 | 324 SF | $141,520 | — | included above |
+| Finished Lots | 100 | Varies | $250,000 | $15.4M (1) | 3.9% |
+| Rental Income (all rental units) | 126 | 750 SF avg | $90–$4,000/night | $43.6M (2) | 11.1% |
+| Commercial Leasing | 10+ | 21,000 SF | — | $7.8M (2) | 2.0% |
+| Amenities & Community Spaces | 19+ | Varies | — | included above | — |
+| **Total (10-year, base case)** | **665** | | | **$393.7M** | **100.0%** |
 
 *(1) Base price at launch; does not include annual escalation. Lifetime revenue includes escalation.*
 *(2) 10-year cumulative operating revenue.*

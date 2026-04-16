@@ -54,10 +54,10 @@ All sensitivity results are measured against the Base Case:
 
 | Metric | Base Case |
 |--------|-----------|
-| IRR | 37.1% |
-| Equity Multiple | 4.42x |
-| 10-Year Revenue | $435M |
-| 10-Year EBITDA | $104M |
+| IRR | 34.19% |
+| Equity Multiple | 3.83x |
+| 10-Year Revenue | $393.7M |
+| 10-Year EBITDA | $86.9M |
 | Capital Raise | $12.5M |
 | LP Distributions (10-Year) | $55.3M |
 
@@ -116,10 +116,10 @@ Key variables are not independent. The model accounts for the following correlat
 
 | Metric | Conservative | Base | Optimistic |
 |--------|-------------|------|-----------|
-| **IRR** | **24.0%** | **37.1%** | **45.0%** |
-| **Equity Multiple** | **3.0x** | **4.42x** | **5.5x** |
-| 10-Year Revenue | $350M | $435M | $520M |
-| 10-Year EBITDA | $70M | $104M | $140M |
+| **IRR** | **26.0%** | **34.19%** | **47.0%** |
+| **Equity Multiple** | **3.0x** | **3.83x** | **5.5x** |
+| 10-Year Revenue | $316.9M | $393.7M | $469.9M |
+| 10-Year EBITDA | $70M | $86.9M | $140M |
 | EBITDA Margin (avg) | 20.0% | 23.9% | 26.9% |
 | LP Total Distributions | $37.5M | $55.3M | $68.8M |
 | Capital Return Year | Year 4 | Year 3 | Year 2 |
@@ -149,7 +149,7 @@ Key variables are not independent. The model accounts for the following correlat
 | -30% | 39-49 | $320M | 21.5% | 2.60x | -15.6 pts |
 | -20% | 44-56 | $355M | 26.8% | 3.05x | -10.3 pts |
 | -10% | 50-63 | $395M | 32.0% | 3.75x | -5.1 pts |
-| **Base** | **55-70** | **$435M** | **37.1%** | **4.42x** | **-** |
+| **Base** | **55-70** | **$393.7M** | **34.19%** | **3.83x** | **-** |
 | +10% | 61-77 | $470M | 40.5% | 4.85x | +3.4 pts |
 | +20% | 66-84 | $500M | 42.8% | 5.15x | +5.7 pts |
 | +30% | 72-91 | $525M | 44.5% | 5.40x | +7.4 pts |
@@ -163,7 +163,7 @@ Key variables are not independent. The model accounts for the following correlat
 | -15% | ~$353K | $370M | 25.2% | 2.85x | -11.9 pts |
 | -10% | ~$374K | $392M | 30.0% | 3.35x | -7.1 pts |
 | -5% | ~$394K | $413M | 33.5% | 3.88x | -3.6 pts |
-| **Base** | **~$415K** | **$435M** | **37.1%** | **4.42x** | **-** |
+| **Base** | **~$415K** | **$393.7M** | **34.19%** | **3.83x** | **-** |
 | +5% | ~$436K | $457M | 40.0% | 4.85x | +2.9 pts |
 | +10% | ~$457K | $479M | 42.2% | 5.20x | +5.1 pts |
 | +20% | ~$498K | $522M | 45.5% | 5.65x | +8.4 pts |
@@ -175,7 +175,7 @@ Key variables are not independent. The model accounts for the following correlat
 | -15% | $155/SF | $128M | 43.0% | 5.25x | +5.9 pts |
 | -10% | $164/SF | $120M | 41.0% | 4.95x | +3.9 pts |
 | -5% | $174/SF | $112M | 39.0% | 4.68x | +1.9 pts |
-| **Base** | **$183/SF** | **$104M** | **37.1%** | **4.42x** | **-** |
+| **Base** | **$183/SF** | **$86.9M** | **34.19%** | **3.83x** | **-** |
 | +5% | $192/SF | $96M | 35.0% | 4.15x | -2.1 pts |
 | +10% | $201/SF | $88M | 32.8% | 3.88x | -4.3 pts |
 | +15% | $211/SF | $80M | 30.5% | 3.60x | -6.6 pts |
@@ -187,7 +187,7 @@ Key variables are not independent. The model accounts for the following correlat
 |-----------------|-------------|------------------|-----|-----|-------------|
 | Rates fall -200bps | 4.25% | SOFR+200 | 42.5% | 5.10x | +5.4 pts |
 | Rates fall -100bps | 5.25% | SOFR+300 | 39.8% | 4.75x | +2.7 pts |
-| **Base** | **6.25%** | **SOFR+400** | **37.1%** | **4.42x** | **-** |
+| **Base** | **6.25%** | **SOFR+400** | **34.19%** | **3.83x** | **-** |
 | Rates rise +100bps | 7.25% | SOFR+500 | 33.5% | 3.90x | -3.6 pts |
 | Rates rise +200bps | 8.25% | SOFR+600 | 29.0% | 3.35x | -8.1 pts |
 | Rates rise +300bps | 9.25% | SOFR+700 | 24.0% | 2.80x | -13.1 pts |
@@ -200,7 +200,7 @@ Key variables are not independent. The model accounts for the following correlat
 | 60% | $140 | $3.1M | 35.8% | 4.25x | -1.3 pts |
 | 65% | $151 | $3.3M | 36.3% | 4.32x | -0.8 pts |
 | 70% | $163 | $3.6M | 36.7% | 4.37x | -0.4 pts |
-| **75%** | **$175** | **$3.8M** | **37.1%** | **4.42x** | **-** |
+| **75%** | **$175** | **$3.8M** | **34.19%** | **3.83x** | **-** |
 | 80% | $186 | $4.1M | 37.5% | 4.48x | +0.4 pts |
 | 85% | $198 | $4.3M | 37.9% | 4.53x | +0.8 pts |
 | 90% | $210 | $4.6M | 38.3% | 4.58x | +1.2 pts |
@@ -274,8 +274,8 @@ The tornado analysis ranks each variable by its total impact range on project IR
 | IRR > 20% (target minimum) | 88.5% |
 | IRR > 25% (conservative case) | 78.2% |
 | IRR > 30% | 65.5% |
-| IRR > 37.1% (base case) | 45.2% |
-| IRR > 45% (optimistic case) | 12.8% |
+| IRR > 34.19% (base case) | 45.2% |
+| IRR > 47% (optimistic case) | 12.8% |
 | EMx > 1.0x (return of capital) | 99.5% |
 | EMx > 2.0x | 92.0% |
 | EMx > 3.0x | 78.5% |
@@ -306,10 +306,10 @@ The tornado analysis ranks each variable by its total impact range on project IR
 | Metric | Base Case | Stressed | Change |
 |--------|-----------|---------|--------|
 | Avg. Blended Sale Price | ~$415K | ~$291K | -30% |
-| 10-Year Revenue | $435M | $305M | -$130M |
-| 10-Year EBITDA | $104M | $30M | -$74M |
-| IRR | 37.1% | 11.8% | -25.3 pts |
-| Equity Multiple | 4.42x | 1.65x | -2.77x |
+| 10-Year Revenue | $393.7M | $305M | -$88.7M |
+| 10-Year EBITDA | $86.9M | $30M | -$56.9M |
+| IRR | 34.19% | 11.8% | -22.39 pts |
+| Equity Multiple | 3.83x | 1.65x | -2.18x |
 | Capital Return Year | Year 3 | Year 7 | +4 years |
 | LP Total Distributions | $55.3M | $20.6M | -$34.7M |
 
@@ -321,10 +321,10 @@ The tornado analysis ranks each variable by its total impact range on project IR
 |--------|-----------|---------|--------|
 | Annual Units Sold | 55-70 | 28-35 | -50% |
 | Sellout Timeline | 10 years | 15+ years | +5 years |
-| 10-Year Revenue | $435M | $265M | -$170M |
-| 10-Year EBITDA | $104M | $38M | -$66M |
-| IRR | 37.1% | 14.2% | -22.9 pts |
-| Equity Multiple | 4.42x | 1.85x | -2.57x |
+| 10-Year Revenue | $393.7M | $265M | -$128.7M |
+| 10-Year EBITDA | $86.9M | $38M | -$48.9M |
+| IRR | 34.19% | 14.2% | -19.99 pts |
+| Equity Multiple | 3.83x | 1.85x | -1.98x |
 | Capital Return Year | Year 3 | Year 6 | +3 years |
 | Additional Capital Required | $0 | $5-8M (1) | Construction financing gap |
 
@@ -338,10 +338,10 @@ The tornado analysis ranks each variable by its total impact range on project IR
 |--------|-----------|---------|--------|
 | Avg. Construction Cost/SF | $183/SF | $229/SF | +25% |
 | Total Construction Budget | $199.5M | $249.4M | +$49.9M |
-| 10-Year Revenue | $435M | $435M | No change |
-| 10-Year EBITDA | $104M | $64M | -$40M |
-| IRR | 37.1% | 25.5% | -11.6 pts |
-| Equity Multiple | 4.42x | 3.00x | -1.42x |
+| 10-Year Revenue | $393.7M | $393.7M | No change |
+| 10-Year EBITDA | $86.9M | $64M | -$22.9M |
+| IRR | 34.19% | 25.5% | -8.69 pts |
+| Equity Multiple | 3.83x | 3.00x | -0.83x |
 | Capital Return Year | Year 3 | Year 4 | +1 year |
 | Per-Unit Margin Impact | 30-33% | 18-22% | -10-12 pts |
 
@@ -356,10 +356,10 @@ The tornado analysis ranks each variable by its total impact range on project IR
 | Construction Costs | Base | +15% | |
 | Interest Rates | 6.25% | +200bps (8.25%) | |
 | Occupancy | 75% | 60% | |
-| 10-Year Revenue | $435M | $280M | -$155M |
-| 10-Year EBITDA | $104M | $22M | -$82M |
-| IRR | 37.1% | 8.5% | -28.6 pts |
-| Equity Multiple | 4.42x | 1.35x | -3.07x |
+| 10-Year Revenue | $393.7M | $280M | -$113.7M |
+| 10-Year EBITDA | $86.9M | $22M | -$64.9M |
+| IRR | 34.19% | 8.5% | -25.69 pts |
+| Equity Multiple | 3.83x | 1.35x | -2.48x |
 | Capital Return Year | Year 3 | Year 8 | +5 years |
 | Additional Capital Required | $0 | $8-12M | Significant |
 
@@ -375,7 +375,7 @@ The tornado analysis ranks each variable by its total impact range on project IR
 
 | Scenario | Probability | IRR | EMx | Capital at Risk? | Additional Capital? |
 |----------|------------|-----|-----|-----------------|-------------------|
-| Base Case | ~45% | 37.1% | 4.42x | No | No |
+| Base Case | ~45% | 34.19% | 3.83x | No | No |
 | A: -30% Pricing | ~3% | 11.8% | 1.65x | No | Possible |
 | B: -50% Absorption | ~5% | 14.2% | 1.85x | No | Likely ($5-8M) |
 | C: +25% Cost Overrun | ~8% | 25.5% | 3.00x | No | No |
@@ -427,9 +427,9 @@ Minimum sale prices required to maintain positive unit-level margins:
 
 | Scenario | Probability Weight | IRR | Weighted IRR | EMx | Weighted EMx |
 |----------|-------------------|-----|-------------|-----|-------------|
-| Optimistic | 20% | 45.0% | 9.0% | 5.50x | 1.10x |
-| Base | 50% | 37.1% | 18.6% | 4.42x | 2.21x |
-| Conservative | 25% | 24.0% | 6.0% | 3.00x | 0.75x |
+| Optimistic | 20% | 47.0% | 9.4% | 5.50x | 1.10x |
+| Base | 50% | 34.19% | 17.1% | 3.83x | 1.92x |
+| Conservative | 25% | 26.0% | 6.5% | 3.00x | 0.75x |
 | Severe Stress | 5% | 8.5% | 0.4% | 1.35x | 0.07x |
 | **Probability-Weighted** | **100%** | | **34.0%** | | **4.13x** |
 
