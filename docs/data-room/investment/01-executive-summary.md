@@ -557,8 +557,7 @@ Abundancia Austin Holdings, LLC is raising **$12,500,000** in equity capital thr
 | **Minimum Investment** | $50,000 |
 | **Investor Type** | Accredited Investors Only (verified) |
 | **Security** | Class A Limited Partnership Interests |
-| **Preferred Return** | 8% cumulative, compounded annually |
-| **Distribution Waterfall** | 4-tier promote structure (see PPM for details) |
+| **Distribution Waterfall** | 4-tier: 80/20 (return of capital) → 70/30 (to 12% LP IRR) → 60/40 (to 15% LP IRR) → 50/50 (18%+ LP IRR) |
 | **Target Hold Period** | 7-10 years |
 | **Target IRR** | 34.19% (base case) |
 | **Target Equity Multiple** | 3.83x (base case) |
@@ -567,9 +566,9 @@ Abundancia Austin Holdings, LLC is raising **$12,500,000** in equity capital thr
 
 ### 10.2 Investor Benefits
 
-- **Preferred Return**: 8% cumulative preferred return before any GP promote
+- **LP-Favorable Waterfall**: 80% to LP until principal returned; 70% to LP through 12% IRR; 60% to LP through 15% IRR; 50% thereafter
 - **Tax Efficiency**: Pass-through K-1 tax reporting; depreciation benefits; potential Opportunity Zone qualification
-- **Diversified Exposure**: Five revenue streams across residential, rental, commercial, lots, and retreat/events
+- **Diversified Exposure**: Four revenue streams across residential sales, rental income (incl. retreat/events), lot sales, and commercial leasing
 - **Tangible Asset**: Investment secured by 376 acres of Central Texas real estate with intrinsic land value
 - **Impact Alignment**: Verified carbon-negative development with measurable environmental and social impact metrics
 - **Transparency**: Quarterly investor reporting, annual audited financials, and 24/7 investor portal access
