@@ -47,7 +47,7 @@
 
 Abundancia Community's food systems are designed to achieve 80-100% food self-sufficiency for a community of 150-200 households. This is not a community garden with raised beds; it is a comprehensive, professionally designed permaculture system integrating multi-layer food forests, intensive annual production zones, animal systems, food processing infrastructure, and a community-owned seed library.
 
-Central Texas's USDA Zone 8b designation provides a 250+ day growing season with the capacity for year-round food production. The site's 7 retention ponds, 2 existing wells, and integrated rainwater harvesting systems provide water security independent of municipal supply. Approximately 30-40 acres of the property's total acreage will be dedicated to food production, with the remaining 70-75% preserved as conservation land, native habitat, and managed wildlands.
+Central Texas's USDA Zone 8b designation provides a 250+ day growing season with the capacity for year-round food production. The site's 7 retention ponds, 2 existing wells, and integrated rainwater harvesting systems provide water security independent of municipal supply. Approximately 30-40 acres of the property's total acreage will be dedicated to food production, with the remaining 62% preserved as natural land, native habitat, and managed wildlands.
 
 At maturity (years 5-7), the food system is projected to produce 200,000-400,000 lbs of food annually — fruit, nuts, vegetables, herbs, eggs, and honey — valued at $600,000-$1,200,000 at retail prices. This translates to household grocery savings of $3,000-$6,000 per year and potential surplus revenue of $50,000-$150,000 annually for the community association.
 

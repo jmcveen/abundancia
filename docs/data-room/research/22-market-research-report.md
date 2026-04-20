@@ -273,7 +273,7 @@ The project benefits from alignment with institutional ESG mandates and the grow
 | ESG Factor | Abundancia Alignment | Investor Relevance |
 |-----------|---------------------|-------------------|
 | **Carbon sequestration (hempcrete)** | ~165 kg CO2/m3 wall; net carbon-negative construction | Measurable, auditable environmental impact |
-| **Habitat conservation** | 70-75% of 376 acres preserved; Houston toad habitat | Endangered species protection; biodiversity |
+| **Habitat conservation** | 62% of the 376-acre property as natural land; Houston toad habitat | Endangered species protection; biodiversity |
 | **Regenerative agriculture** | 50+ acres of permaculture, food forests | Soil carbon, food security, ecosystem services |
 | **Renewable energy** | Community solar + battery; off-grid capable | Energy independence, grid resilience |
 | **Water stewardship** | Rainwater harvesting, greywater reuse, advanced treatment | Water security in drought-prone region |
@@ -622,7 +622,7 @@ The Abundancia premium is decomposed into quantifiable value components:
 
 | Value Component | Estimated Premium Contribution | Basis |
 |----------------|:------------------------------:|-------|
-| **Conservation setting (70-75% preserved)** | 8-12% | Serenbe commands 25-40% with 70% greenspace; Abundancia is conservatively benchmarked |
+| **Conservation setting (62% natural land)** | 8-12% | Serenbe commands 25-40% with 70% greenspace; Abundancia is conservatively benchmarked |
 | **Community infrastructure (solar, fiber, water)** | 3-5% | Babcock Ranch achieves 10-15% for solar alone |
 | **Amenity package (retreat center, village, food forests)** | 3-6% | Mueller and Serenbe amenity premiums documented |
 | **Hempcrete construction premium** | 2-4% | Superior performance (R-30+, fire rating, longevity); growing buyer awareness |
@@ -745,7 +745,7 @@ Absorption rate projections are derived from three analytical approaches:
 |------|:-----------:|:------:|------------|
 | **Hempcrete supply chain disruption** | Low-Medium | Medium | Multiple supplier relationships; domestic hemp processing scaling; inventory buffer |
 | **MUD bond issuance delay** | Low | Medium | Alternative infrastructure financing (private capital, phased investment); smaller initial scope |
-| **Environmental compliance (Houston toad)** | Low | High | LPHCP participation; 70-75% conservation design exceeds requirements; biologist on team |
+| **Environmental compliance (Houston toad)** | Low | High | LPHCP participation; 62% natural land design exceeds requirements; biologist on team |
 | **Community governance disputes** | Medium | Low-Medium | Clear governing documents; professional community management; conflict resolution framework |
 | **Brand / reputation risk** | Low | Medium | Authentic regenerative practices; third-party certifications; transparent reporting |
 | **Key-person risk (management)** | Medium | Medium | Deep management bench; documented systems and processes; advisory board |

@@ -244,7 +244,7 @@ The Houston toad is a federally endangered species (ESA listing: 1970) whose pri
 | **Breeding Season** | January - June (peak Feb-Mar) |
 | **Habitat Requirements** | Sandy soils, ephemeral ponds, pine/oak woodland |
 | **Regulatory Framework** | Lost Pines Habitat Conservation Plan (LPHCP) |
-| **Compliance Strategy** | Full LPHCP participation, 70-75% conservation |
+| **Compliance Strategy** | Full LPHCP participation, 62% natural land |
 
 ### 6.2 Species Inventory
 
@@ -479,7 +479,7 @@ The property falls within ASCE 7 Seismic Design Category A (very low seismic ris
 | Flood hazard | Low | 95%+ outside floodplain; retention system | Negligible |
 | Soil / geotechnical | Low | Pier & beam foundations; standard earthwork | Low |
 | Water supply | Low-Moderate | Dual aquifer access + rainwater + MUD system | Low |
-| Houston toad (ESA) | Moderate | LPHCP compliance; 70-75% conservation | Low |
+| Houston toad (ESA) | Moderate | LPHCP compliance; 62% natural land | Low |
 | Wildfire | Moderate | Defensible space design; fire-resistant materials | Low-Moderate |
 | Utility access | Low | MUD formation for infrastructure financing | Low |
 | Title / easements | Very Low | Clean title; manageable easements | Negligible |

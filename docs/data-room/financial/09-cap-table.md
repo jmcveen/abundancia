@@ -50,6 +50,7 @@
 | **Tax Treatment** | Partnership (pass-through); no entity-level tax |
 | **Fiscal Year** | Calendar year (January 1 - December 31) |
 | **Registered Agent** | Delaware Registered Agent Service LLC |
+| **SOS File Number** | 6553843 |
 
 ### 1.2 Series LLC Structure
 

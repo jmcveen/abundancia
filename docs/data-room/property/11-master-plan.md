@@ -42,7 +42,7 @@
 
 ### 1.1 Conservation-Forward Development
 
-Abundancia Community is designed around a foundational principle: **the land comes first**. Unlike conventional developments that maximize buildable area and relegate green space to residual parcels, Abundancia designates 70-75% of the 376-acre property for permanent conservation, regenerative agriculture, and natural habitat — then designs the built environment within the remaining 25-30% footprint.
+Abundancia Community is designed around a foundational principle: **the land comes first**. Unlike conventional developments that maximize buildable area and relegate green space to residual parcels, Abundancia designates 62.5% of the 376-acre property for preserved land, regenerative agriculture, permaculture gardens, and natural habitat — then designs the built environment within the remaining 37.5% footprint.
 
 This approach is not merely aesthetic. It is structurally integrated into every layer of the project:
 
@@ -55,7 +55,7 @@ This approach is not merely aesthetic. It is structurally integrated into every 
 
 | Principle | Application |
 |-----------|-------------|
-| **70-75% Conservation** | Permanent protection of habitat, food forests, sacred spaces, and corridors |
+| **62% Natural Land** | Preserved land, regenerative agriculture, permaculture gardens, and natural habitat |
 | **Biophilic Design** | Every structure oriented toward nature; no unit more than 200 ft from preserved land |
 | **Regenerative Infrastructure** | Solar + battery, rainwater harvesting, greywater recycling, composting |
 | **Walkable Core** | Mixed-use village center within 10-minute walk of all residential zones |
@@ -76,21 +76,19 @@ The 2011 Bastrop Complex Fire burned 34,000 acres and destroyed 1,673 homes in t
 
 | Land Use Category | Acreage | % of Total | Description |
 |-------------------|---------|------------|-------------|
-| **Conservation & Habitat** | 168 | 44.7% | Protected Houston toad habitat, native woodland, wildlife corridors |
-| **Regenerative Agriculture** | 52 | 13.8% | Food forests, permaculture, community gardens, orchards |
-| **Sacred & Ceremonial Spaces** | 14 | 3.7% | Ceremony grounds, meditation gardens, labyrinth, sacred groves |
-| **Water Management** | 34 | 9.0% | Retention ponds, constructed wetlands, bioswales, riparian buffers |
-| **Subtotal: Preserved Land** | **268** | **71.3%** | |
+| **Preserved Land** | 184.5 | 49.1% | Protected habitat, native woodland, wildlife corridors, open space |
+| **Regenerative Agriculture** | 42 | 11.2% | Food production fields, orchards, CSA farming |
+| **Permaculture Gardens & Barns** | 8.5 | 2.3% | Community gardens, permaculture zones, farm structures |
+| **Subtotal: Green / Natural** | **235** | **62.5%** | |
 | | | | |
-| **Residential — Single Family** | 38 | 10.1% | 100 single-family homes on varied lot sizes |
-| **Residential — Tiny / Dome** | 8 | 2.1% | 30 tiny homes + 30 geodesic domes |
-| **Residential — Multifamily** | 14 | 3.7% | 260 multifamily units (apartments, townhomes) |
-| **Residential — Lots (Sold)** | 18 | 4.8% | 200 prepared lots for custom builds |
-| **Residential — Rental** | 6 | 1.6% | 60 purpose-built rental units |
-| **Commercial / Village Center** | 8 | 2.1% | Retail, restaurants, co-working, wellness |
-| **Retreat Center** | 6 | 1.6% | Accommodations, program spaces, dining |
-| **Infrastructure & Roads** | 10 | 2.7% | Roads, utilities, solar array, community systems |
-| **Subtotal: Developed** | **108** | **28.7%** | |
+| **SFR Residential** | 61 | 16.2% | Single-family homes on varied lot sizes |
+| **Residential — Tiny Homes & Domes** | 16 | 4.3% | Owner-occupied tiny homes and geodesic domes |
+| **STRs — Tiny Homes, Domes** | 25 | 6.6% | Short-term rental tiny homes and dome accommodations |
+| **STRs — Unique Regenerative Stays** | 8 | 2.1% | Treehouses, earth-sheltered, and specialty eco-stays |
+| **Commercial** | 9 | 2.4% | Village center: retail, restaurants, co-working, wellness |
+| **Event & Healing Center** | 12 | 3.2% | Retreat center, event venue, healing arts facilities |
+| **Roads** | 10 | 2.7% | Internal roads, utilities, community infrastructure |
+| **Subtotal: Developed** | **141** | **37.5%** | |
 | | | | |
 | **Grand Total** | **376** | **100%** | |
 

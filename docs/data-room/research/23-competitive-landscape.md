@@ -41,7 +41,7 @@
 
 ### 1.1 Competitive Landscape Overview
 
-The Austin metropolitan area's residential development market is intensely competitive at the volume and production-builder level, but remarkably underserved in the eco-luxury and regenerative community segment. Abundancia Community operates in a category with effectively zero direct competitors offering the same combination of regenerative construction (hempcrete), conservation-forward land planning (70-75% preserved), full community infrastructure (solar, fiber, water systems), and wellness programming (retreat center, food forests, ceremony spaces).
+The Austin metropolitan area's residential development market is intensely competitive at the volume and production-builder level, but remarkably underserved in the eco-luxury and regenerative community segment. Abundancia Community operates in a category with effectively zero direct competitors offering the same combination of regenerative construction (hempcrete), conservation-forward land planning (62% natural land), full community infrastructure (solar, fiber, water systems), and wellness programming (retreat center, food forests, ceremony spaces).
 
 ### 1.2 Key Competitive Findings
 
@@ -130,7 +130,7 @@ Whisper Valley is the most directly comparable eco-branded development in the Au
 
 | Dimension | Whisper Valley | Abundancia | Advantage |
 |-----------|:-----------:|:---------:|:---------:|
-| **Conservation** | 15-20% preserved | 70-75% preserved | Abundancia (+55%) |
+| **Conservation** | 15-20% preserved | 62% natural land | Abundancia (+42%) |
 | **Building materials** | Standard frame + geothermal | Hempcrete (carbon-negative) | Abundancia |
 | **Energy** | Zero-energy capable; geothermal | Community solar + battery; off-grid | Comparable |
 | **Water** | Municipal water | Rainwater + greywater + advanced treatment | Abundancia |
@@ -171,7 +171,7 @@ Cosmos Ranch is the closest direct competitor to Abundancia in terms of philosop
 | **Infrastructure** | Limited; off-grid focus | Full community systems (solar, fiber, water, sewer) | Abundancia |
 | **Amenities** | Shared kitchen, garden | Retreat center, wellness pavilion, restaurant, village center | Abundancia |
 | **Building materials** | Varied (owner-built, some natural building) | Hempcrete (standardized, carbon-negative) | Abundancia |
-| **Conservation** | 40-50% | 70-75% | Abundancia |
+| **Conservation** | 40-50% | 62% | Abundancia |
 | **Price point** | $200K-400K | $125K-850K | Cosmos Ranch (lower entry) |
 | **Community ethos** | Strong intentional community culture | Designed for community with professional management | Cosmos Ranch (authenticity) |
 | **Financial sophistication** | Self-funded; limited investor structure | Reg D 506(c); institutional-grade | Abundancia |
@@ -230,7 +230,7 @@ The Dripping Springs corridor is Austin's established luxury-lifestyle submarket
 |-----------|:------------------------:|:---------:|:---------:|
 | **Price point** | $450K-1.5M | $125K-850K | Abundancia (broader access) |
 | **Price/SF** | $250-400/SF | $250-365/SF | Comparable |
-| **Conservation** | 10-25% (typical) | 70-75% | Abundancia |
+| **Conservation** | 10-25% (typical) | 62% | Abundancia |
 | **Sustainability** | Minimal (standard construction) | Carbon-negative hempcrete | Abundancia |
 | **Energy** | Grid-dependent | Solar + battery + off-grid capable | Abundancia |
 | **Food systems** | None | 50+ acres permaculture | Abundancia |
@@ -312,7 +312,7 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 
 | Feature | Detail | Abundancia Comparison |
 |---------|--------|----------------------|
-| **Conservation model** | 70% preserved; 25-acre organic farm | 70-75% preserved; 50+ acres permaculture |
+| **Conservation model** | 70% preserved; 25-acre organic farm | 62% natural land; 50+ acres permaculture |
 | **Architecture** | Biophilic design; Southern vernacular | Hempcrete; regenerative modern |
 | **Farm-to-table** | The Farmhouse restaurant; community farm | On-site restaurant; food forests; community agriculture |
 | **Wellness** | Serenbe Wellness (spa, fitness) | Full retreat center, ceremony spaces, yoga pavilion |
@@ -410,7 +410,7 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 
 | Feature | Abundancia Community | Whisper Valley | Cosmos Ranch | Serenbe (GA) | Babcock Ranch (FL) | Dripping Springs (Avg.) |
 |---------|:-----------------:|:--------------:|:------------:|:------------:|:------------------:|:----------------------:|
-| **Conservation %** | 70-75% | 15-20% | 40-50% | 70% | 50% | 10-25% |
+| **Conservation %** | 62% | 15-20% | 40-50% | 70% | 50% | 10-25% |
 | **Hempcrete construction** | Yes | No | Partial | No | No | No |
 | **Carbon-negative building** | Yes | No | No | No | No | No |
 | **Community solar** | Yes | Yes (geothermal + solar) | Partial (individual) | Partial | Yes (150 MW) | No |
@@ -478,7 +478,7 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 
 | Community | Price Range | Lot Size | Infrastructure | Conservation Context |
 |-----------|-----------|---------|---------------|---------------------|
-| **Abundancia** | $75K-175K | 0.15-0.35 acre | Full (solar, fiber, water, sewer) | 70-75% community conservation |
+| **Abundancia** | $75K-175K | 0.15-0.35 acre | Full (solar, fiber, water, sewer) | 62% community natural land |
 | Bastrop County (improved) | $55K-95K | 0.15-0.30 acre | Roads, utilities | None |
 | Whisper Valley | $80K-120K | 0.10-0.15 acre | Full | 15-20% community greenspace |
 | Dripping Springs | $125K-350K | 0.25-1.0 acre | Varies | Varies (10-25%) |
@@ -507,7 +507,7 @@ The following framework positions Abundancia relative to competitors on two axes
 | Strength | Detail | Competitive Impact |
 |----------|--------|-------------------|
 | **Only hempcrete community in Texas** | No competitor offers carbon-negative construction at community scale | Unique market position; measurable ESG differentiation |
-| **70-75% conservation** | Highest conservation ratio of any development in Austin MSA | Scarcity premium; environmental credibility; Houston toad compliance |
+| **62% natural land** | Highest conservation ratio of any development in Austin MSA | Scarcity premium; environmental credibility; Houston toad compliance |
 | **Integrated food systems** | 50+ acres permaculture; farm-to-table restaurant; food forests | No competitor offers anything comparable within 100 miles |
 | **Full infrastructure independence** | Solar + battery + rainwater + greywater + fiber | Climate resilience story; off-grid capability; lower operating costs |
 | **Diversified product mix** | 5+ housing types across $125K-850K price range | Broader addressable market; absorption resilience across cycles |
@@ -581,11 +581,11 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 | **Market position** | Only hempcrete community in Texas; one of fewer than 10 in the United States |
 | **Performance advantages** | R-30+ insulation, 2+ hour fire rating, hygroscopic moisture management, 500+ year lifespan, naturally pest-resistant |
 
-#### Differentiator 2: Conservation-First Land Planning (70-75%)
+#### Differentiator 2: Conservation-First Land Planning (62%)
 
 | Aspect | Detail |
 |--------|--------|
-| **What** | 70-75% of 376 acres permanently conserved; development concentrated on 25-30% |
+| **What** | 62% of the 376-acre property as natural land; development on 38% |
 | **Why it matters** | Creates scarcity, premium pricing, ecological credibility, and Houston toad compliance |
 | **Competitive barrier** | Requires willingness to leave revenue-generating land undeveloped; fundamentally different economics |
 | **Market comparison** | Whisper Valley: 15-20%; Babcock Ranch: 50%; Serenbe: 70%; Conventional: 5-15% |
@@ -626,7 +626,7 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 | Differentiator | Durability | Replicability | Investment to Replicate | Time to Replicate |
 |----------------|:----------:|:-------------:|:----------------------:|:-----------------:|
 | Hempcrete construction | High | Low | $2-5M (expertise, supply chain, labor training) | 2-3 years |
-| 70-75% conservation | High | Medium | Requires land acquisition at favorable basis | 1-2 years |
+| 62% natural land | High | Medium | Requires land acquisition at favorable basis | 1-2 years |
 | Integrated food systems | High | Medium | $1-3M + agricultural expertise | 2-4 years |
 | Wellness community infrastructure | Medium | Medium | $3-5M + programming network | 1-2 years |
 | Complete infrastructure independence | Medium | Medium-High | $2-4M (engineering + systems) | 1-2 years |
