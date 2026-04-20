@@ -49,7 +49,7 @@
 | **Governing Law** | Delaware Limited Liability Company Act (DLLCA) |
 | **Tax Treatment** | Partnership (pass-through); no entity-level tax |
 | **Fiscal Year** | Calendar year (January 1 - December 31) |
-| **Registered Agent** | [To be designated] |
+| **Registered Agent** | Delaware Registered Agent Service LLC |
 
 ### 1.2 Series LLC Structure
 

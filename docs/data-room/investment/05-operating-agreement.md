@@ -109,7 +109,7 @@ The principal office of the Company shall be located in Austin, Texas, or at suc
 
 ### Section 1.5 — Registered Agent and Office
 
-The registered agent and registered office of the Company in the State of Texas shall be as set forth in the Certificate of Formation, or as subsequently changed by the Manager in accordance with the DLLCA.
+The registered agent and registered office of the Company in the State of Delaware shall be Delaware Registered Agent Service LLC, or as subsequently changed by the Manager in accordance with the DLLCA.
 
 ### Section 1.6 — Term
 

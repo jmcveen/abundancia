@@ -583,7 +583,7 @@ The Company is subject to various federal, state, and local filing requirements.
 |--------|-----------|----------|-----------|
 | Texas Franchise Tax Return (Form 05-102) | Texas Comptroller | May 15 | Annually |
 | Texas Annual Public Information Report | Texas Comptroller | May 15 | Annually |
-| Texas Registered Agent Annual Statement | Texas Secretary of State | As required | Annually |
+| Delaware Registered Agent Annual Statement | Delaware Secretary of State | As required | Annually |
 | State partnership returns (non-Texas states) | Respective state agencies | Varies by state | Annually (as required) |
 | State notice filing renewals (Blue Sky) | State securities regulators | Anniversary of initial filing | Annually |
 
