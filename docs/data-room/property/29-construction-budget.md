@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Construction Budget & Timeline
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -40,7 +39,7 @@
 
 ## 1. Executive Summary
 
-Abundancia Austin is a $12,500,000 regenerative luxury community development on 120 acres in the Lost Pines region of Bastrop County, Texas, approximately 30 minutes east of downtown Austin. The project delivers 50 hempcrete homesites across two phases, supported by shared community amenities, off-grid energy and water infrastructure, and regenerative land systems.
+Abundancia Community is a $12,500,000 regenerative luxury community development on 120 acres in the Lost Pines region of Bastrop County, Texas, approximately 30 minutes east of downtown Austin. The project delivers 50 hempcrete homesites across two phases, supported by shared community amenities, off-grid energy and water infrastructure, and regenerative land systems.
 
 ### 1.1 Budget Summary at a Glance
 
@@ -953,7 +952,7 @@ SALES & CLOSINGS
 | Whisper Valley | Austin, TX | 7,500 | $1B+ | $133,000 | Zero-energy, geothermal |
 | Rancho Mirage (eco) | Palm Springs, CA | 80 | $32M | $400,000 | Net-zero, luxury |
 | Pocket Neighborhood (Ross Chapin) | Various | 8-16 | $2-5M | $250,000-312,000 | Cottage, community-oriented |
-| **Abundancia Austin** | **Bastrop County, TX** | **50** | **$12.5M** | **$250,000** | **Hempcrete, off-grid, regenerative** |
+| **Abundancia Community** | **Bastrop County, TX** | **50** | **$12.5M** | **$250,000** | **Hempcrete, off-grid, regenerative** |
 
 ---
 
@@ -973,7 +972,7 @@ SALES & CLOSINGS
 
 ---
 
-*This document is confidential and intended solely for qualified investors evaluating the Abundancia Austin project. Distribution without written consent of Abundancia Austin Holdings, LLC is prohibited.*
+*This document is confidential and intended solely for qualified investors evaluating the Abundancia Community project. Distribution without written consent of Abundancia Community LLC, a Delaware LLC is prohibited.*
 
 ---
 

@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Blue Sky Memorandum
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 2.0
-**Prepared by:** Abundancia Austin LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -51,13 +50,13 @@
 
 ### 1.1 Purpose
 
-This Blue Sky Memorandum has been prepared for Abundancia Austin LLC (the "Company") in connection with its offering (the "Offering") of membership interest units (the "Units") pursuant to Regulation D, Rule 506(c) under the Securities Act of 1933, as amended (the "Securities Act"). The purpose of this memorandum is to summarize the federal and state securities law requirements applicable to the Offering, including registration exemptions, notice filing obligations, filing fees, timing requirements, and ongoing compliance obligations.
+This Blue Sky Memorandum has been prepared for Abundancia Community LLC, a Delaware LLC (the "Company") in connection with its offering (the "Offering") of membership interest units (the "Units") pursuant to Regulation D, Rule 506(c) under the Securities Act of 1933, as amended (the "Securities Act"). The purpose of this memorandum is to summarize the federal and state securities law requirements applicable to the Offering, including registration exemptions, notice filing obligations, filing fees, timing requirements, and ongoing compliance obligations.
 
 ### 1.2 Offering Overview
 
 | Parameter | Detail |
 |-----------|--------|
-| Issuer | Abundancia Austin LLC (Texas LLC) |
+| Issuer | Abundancia Community LLC, a Delaware LLC (Delaware LLC) |
 | Managing Member | Light Brands Consulting LLC |
 | Manager | Nicholas Lawless |
 | Securities Offered | Membership Interest Units |
@@ -223,7 +222,7 @@ Form D requires disclosure of the following information:
 
 | Item | Description |
 |------|-------------|
-| Item 1 | Issuer identity (Abundancia Austin LLC, Texas, Bastrop County) |
+| Item 1 | Issuer identity (Abundancia Community LLC, a Delaware LLC, Texas, Bastrop County) |
 | Item 2 | Principal place of business and telephone |
 | Item 3 | Related persons (Nicholas Lawless, Manager; Light Brands Consulting LLC, Managing Member) |
 | Item 4 | Industry group (Real Estate) |
@@ -975,7 +974,7 @@ Nothing in this memorandum should be construed as a guarantee that the Offering 
 
 ## Confidentiality Notice
 
-This document is confidential and proprietary to Abundancia Austin LLC. It has been prepared solely for use by verified accredited investors and their professional advisors in evaluating a potential investment in the Company. This document may not be reproduced, distributed, or disclosed to any third party without the prior written consent of the Company. The information contained herein is subject to change without notice and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful.
+This document is confidential and proprietary to Abundancia Community LLC, a Delaware LLC. It has been prepared solely for use by verified accredited investors and their professional advisors in evaluating a potential investment in the Company. This document may not be reproduced, distributed, or disclosed to any third party without the prior written consent of the Company. The information contained herein is subject to change without notice and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful.
 
 Recipients should consult their own legal, tax, and financial advisors regarding the suitability and legal implications of any investment.
 
@@ -983,6 +982,6 @@ By accepting this document, the recipient agrees to be bound by the confidential
 
 ---
 
-*Document 27 of the Abundancia Austin Investor Data Room*
+*Document 27 of the Abundancia Community Investor Data Room*
 *Prepared March 2026*
 *Version 2.0*

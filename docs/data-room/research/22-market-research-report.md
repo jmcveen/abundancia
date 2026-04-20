@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Market Research Report
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -41,7 +40,7 @@
 
 ### 1.1 Research Scope
 
-This market research report provides the empirical foundation for Abundancia Austin's investment thesis. The analysis covers the Austin-Round Rock-Georgetown Metropolitan Statistical Area (MSA), with focused granularity on Bastrop County — the project's target geography — and the luxury/eco-conscious residential segment that represents the project's primary addressable market.
+This market research report provides the empirical foundation for Abundancia Community's investment thesis. The analysis covers the Austin-Round Rock-Georgetown Metropolitan Statistical Area (MSA), with focused granularity on Bastrop County — the project's target geography — and the luxury/eco-conscious residential segment that represents the project's primary addressable market.
 
 ### 1.2 Key Findings
 
@@ -58,7 +57,7 @@ This market research report provides the empirical foundation for Abundancia Aus
 
 ### 1.3 Investment Implication
 
-The convergence of Austin's sustained population growth, Bastrop County's regulatory advantages, accelerating consumer demand for wellness-oriented living, and the structural absence of conservation-community supply creates a significant market opportunity. Abundancia Austin is positioned to capture outsized returns by delivering a differentiated product into an underserved segment with strong secular tailwinds and limited direct competition.
+The convergence of Austin's sustained population growth, Bastrop County's regulatory advantages, accelerating consumer demand for wellness-oriented living, and the structural absence of conservation-community supply creates a significant market opportunity. Abundancia Community is positioned to capture outsized returns by delivering a differentiated product into an underserved segment with strong secular tailwinds and limited direct competition.
 
 ---
 
@@ -210,7 +209,7 @@ Austin's affordability crisis is a primary demand driver for Bastrop County. As 
 
 ### 4.1 Defining the Target Segment
 
-Abundancia Austin occupies the intersection of two high-growth market segments: **luxury lifestyle housing** ($450K+ price point with premium amenities and design) and **eco-conscious/wellness housing** (sustainability features, regenerative materials, health-oriented community design). This intersection — which we term "regenerative luxury" — is a nascent but rapidly expanding category with limited supply nationwide and virtually no supply in the Austin MSA.
+Abundancia Community occupies the intersection of two high-growth market segments: **luxury lifestyle housing** ($450K+ price point with premium amenities and design) and **eco-conscious/wellness housing** (sustainability features, regenerative materials, health-oriented community design). This intersection — which we term "regenerative luxury" — is a nascent but rapidly expanding category with limited supply nationwide and virtually no supply in the Austin MSA.
 
 | Segment | Market Size (Austin MSA) | Annual Growth | Supply Response | Gap |
 |---------|------------------------|--------------|----------------|-----|
@@ -604,7 +603,7 @@ Carbon credits and sequestration verification create a potential incremental rev
 
 ### 9.1 Pricing Strategy Overview
 
-Abundancia Austin employs a differentiated pricing strategy that positions each product type above standard Bastrop County market pricing but below premium Austin corridor (Dripping Springs, Lake Travis) and national conservation community (Serenbe) pricing. The premium is justified by the depth of community infrastructure, conservation setting, regenerative building materials, and lifestyle amenity package.
+Abundancia Community employs a differentiated pricing strategy that positions each product type above standard Bastrop County market pricing but below premium Austin corridor (Dripping Springs, Lake Travis) and national conservation community (Serenbe) pricing. The premium is justified by the depth of community infrastructure, conservation setting, regenerative building materials, and lifestyle amenity package.
 
 ### 9.2 Pricing by Product Type
 
@@ -802,10 +801,10 @@ Absorption rate projections are derived from three analytical approaches:
 
 ---
 
-*This Market Research Report was prepared for the exclusive use of accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. The information contained herein is believed to be reliable but is not guaranteed. Market conditions are subject to change. This document does not constitute an offer to sell or solicitation of an offer to buy securities. Investment decisions should be based on a thorough review of all offering documents, including the Private Placement Memorandum, Subscription Agreement, and Operating Agreement.*
+*This Market Research Report was prepared for the exclusive use of accredited investors evaluating a potential investment in Abundancia Community LLC, a Delaware LLC. The information contained herein is believed to be reliable but is not guaranteed. Market conditions are subject to change. This document does not constitute an offer to sell or solicitation of an offer to buy securities. Investment decisions should be based on a thorough review of all offering documents, including the Private Placement Memorandum, Subscription Agreement, and Operating Agreement.*
 
 ---
 
 **Document 22** | Market Research Report
-**Abundancia Austin Holdings, LLC** | Confidential
+**Abundancia Community LLC, a Delaware LLC** | Confidential
 **March 2026** | Version 1.0

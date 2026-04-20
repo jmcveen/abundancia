@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Capitalization Table & Distribution Waterfall
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -43,18 +42,18 @@
 
 | Attribute | Detail |
 |-----------|--------|
-| **Entity Name** | Abundancia Austin Holdings, LLC |
-| **Entity Type** | Texas Series Limited Liability Company |
-| **Formation State** | Texas |
+| **Entity Name** | Abundancia Community LLC, a Delaware LLC |
+| **Entity Type** | Delaware Limited Liability Company |
+| **Formation State** | Delaware |
 | **Formation Date** | 2026 |
-| **Governing Law** | Texas Business Organizations Code, Title 3, Chapter 101 |
+| **Governing Law** | Delaware Limited Liability Company Act (DLLCA) |
 | **Tax Treatment** | Partnership (pass-through); no entity-level tax |
 | **Fiscal Year** | Calendar year (January 1 - December 31) |
 | **Registered Agent** | [To be designated] |
 
 ### 1.2 Series LLC Structure
 
-The Texas Series LLC structure provides asset isolation between development phases:
+The Delaware LLC structure provides asset isolation between development phases:
 
 | Series | Purpose | Assets | Liability Shield |
 |--------|---------|--------|-----------------|
@@ -67,7 +66,7 @@ The Texas Series LLC structure provides asset isolation between development phas
 ### 1.3 Organizational Chart
 
 ```
-                    Abundancia Austin Holdings, LLC
+                    Abundancia Community LLC, a Delaware LLC
                          (TX Series LLC)
                               |
             ┌─────────┬───────────┬───────────┐

@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Unit Economics Model
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 

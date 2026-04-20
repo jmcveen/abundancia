@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Sensitivity Analysis
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -437,7 +436,7 @@ Minimum sale prices required to maintain positive unit-level margins:
 
 | Investment | Expected IRR | Std. Dev. | Sharpe-Like Ratio (1) | Min. Return | Max. Return |
 |-----------|-------------|----------|----------------------|-------------|-------------|
-| **Abundancia Austin** | **34.0%** | **10.2%** | **2.65** | **8.5%** | **52.0%** |
+| **Abundancia Community** | **34.0%** | **10.2%** | **2.65** | **8.5%** | **52.0%** |
 | Austin Multifamily (stabilized) | 12-15% | 4-6% | 1.50 | 5% | 22% |
 | Austin Land Development (typical) | 18-25% | 12-15% | 1.20 | -10% | 45% |
 | S&P 500 (10-year avg) | 10-12% | 16-18% | 0.50 | -20% | 35% |

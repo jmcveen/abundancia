@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Bad Actor Certification and Disqualification Verification
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -39,7 +38,7 @@
 
 ### 1.1 Overview
 
-This Bad Actor Certification and Disqualification Verification memorandum has been prepared in connection with the offering of membership interests ("Interests") in Abundancia Austin Holdings, LLC, a Texas Series Limited Liability Company (the "Company"), pursuant to Rule 506(c) of Regulation D under the Securities Act of 1933, as amended (the "Securities Act").
+This Bad Actor Certification and Disqualification Verification memorandum has been prepared in connection with the offering of membership interests ("Interests") in Abundancia Community LLC, a Delaware LLC, a Delaware Limited Liability Company (the "Company"), pursuant to Rule 506(c) of Regulation D under the Securities Act of 1933, as amended (the "Securities Act").
 
 ### 1.2 Rule 506(d) Requirements
 
@@ -81,7 +80,7 @@ Under Rule 506(d), "covered persons" include the following categories of persons
 ### 2.2 Categories of Covered Persons
 
 **(a) The Issuer**
-- Abundancia Austin Holdings, LLC (the "Company")
+- Abundancia Community LLC, a Delaware LLC (the "Company")
 - Any predecessor of the Company
 - Any affiliated issuer
 
@@ -90,7 +89,7 @@ Under Rule 506(d), "covered persons" include the following categories of persons
 - For purposes of this offering, this includes the Chief Executive Officer, Chief Operating Officer, and Technical Lead of the Company and its General Partner
 
 **(c) General Partners and Managing Members**
-- Abundancia Austin GP, LLC, in its capacity as the General Partner and Manager of the Company
+- the Manager, in its capacity as the General Partner and Manager of the Company
 - Any general partner or managing member of any general partner or managing member of the issuer
 
 **(d) Twenty Percent Beneficial Owners**
@@ -190,8 +189,8 @@ The following table identifies each covered person associated with this offering
 
 | Covered Person | Role | Relationship to Offering | Disqualification Categories Reviewed | Certification Status |
 |---|---|---|---|---|
-| Abundancia Austin Holdings, LLC | Issuer | Issuer of the Interests | (i) through (viii) | **CLEAR** |
-| Abundancia Austin GP, LLC | General Partner / Manager | General Partner managing the Company | (i) through (viii) | **CLEAR** |
+| Abundancia Community LLC, a Delaware LLC | Issuer | Issuer of the Interests | (i) through (viii) | **CLEAR** |
+| the Manager | General Partner / Manager | General Partner managing the Company | (i) through (viii) | **CLEAR** |
 
 ### 4.2 Individual Covered Persons
 
@@ -322,7 +321,7 @@ As a condition to each closing of the sale of Interests, the Manager of the Comp
 
 The Manager's certification shall be in substantially the following form:
 
-> *The undersigned, in his/her capacity as [title] of Abundancia Austin GP, LLC, the Manager of Abundancia Austin Holdings, LLC (the "Company"), hereby certifies that as of [date], after reasonable investigation: (a) no covered person (as defined in Rule 506(d) of Regulation D) associated with the offering of membership interests in the Company is subject to any disqualifying event described in Rule 506(d)(1)(i) through (viii); and (b) the Company has complied with the verification procedures described in the Company's Bad Actor Certification and Disqualification Verification memorandum dated March 2026.*
+> *The undersigned, in his/her capacity as [title] of the Manager, the Manager of Abundancia Community LLC, a Delaware LLC (the "Company"), hereby certifies that as of [date], after reasonable investigation: (a) no covered person (as defined in Rule 506(d) of Regulation D) associated with the offering of membership interests in the Company is subject to any disqualifying event described in Rule 506(d)(1)(i) through (viii); and (b) the Company has complied with the verification procedures described in the Company's Bad Actor Certification and Disqualification Verification memorandum dated March 2026.*
 
 ### 7.3 Remediation
 
@@ -339,7 +338,7 @@ In the event that a disqualifying event is discovered with respect to any covere
 
 ### 8.1 Company Certification
 
-Abundancia Austin Holdings, LLC and Abundancia Austin GP, LLC each represent and certify that:
+Abundancia Community LLC, a Delaware LLC and the Manager each represent and certify that:
 
 - A factual inquiry has been conducted into whether any disqualifying event specified in Rule 506(d)(1) applies to any covered person associated with this offering
 - The Company has exercised reasonable care in conducting such inquiry
@@ -363,7 +362,7 @@ This memorandum and the underlying verification procedures have been reviewed by
 
 ## Confidentiality Notice
 
-This document is confidential and proprietary to Abundancia Austin Holdings, LLC. It is provided solely for the purpose of evaluating a potential investment in membership interests of the Company.
+This document is confidential and proprietary to Abundancia Community LLC, a Delaware LLC. It is provided solely for the purpose of evaluating a potential investment in membership interests of the Company.
 
 This document may not be reproduced, distributed, or disclosed to any person other than the intended recipient and their professional advisors (legal, tax, and financial) who have agreed to maintain confidentiality. Any unauthorized reproduction or distribution of this document, in whole or in part, is strictly prohibited.
 
@@ -377,6 +376,6 @@ By accepting this document, the recipient agrees to be bound by the confidential
 
 ---
 
-*Abundancia Austin Holdings, LLC*
+*Abundancia Community LLC, a Delaware LLC*
 *Cedar Creek, Texas*
 *nicholas@lightbrands.ai*

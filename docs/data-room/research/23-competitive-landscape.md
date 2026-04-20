@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Competitive Landscape Analysis
@@ -12,11 +11,11 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
-> *This document contains confidential competitive intelligence and strategic analysis prepared for the exclusive use of accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. Competitive assessments are based on publicly available information, site visits, MLS data, county records, and proprietary research as of March 2026. Competitor strategies, pricing, and market positioning are subject to change. This document does not constitute an offer to sell or solicitation of an offer to buy securities. Distribution to unauthorized parties is strictly prohibited.*
+> *This document contains confidential competitive intelligence and strategic analysis prepared for the exclusive use of accredited investors evaluating a potential investment in Abundancia Community LLC, a Delaware LLC. Competitive assessments are based on publicly available information, site visits, MLS data, county records, and proprietary research as of March 2026. Competitor strategies, pricing, and market positioning are subject to change. This document does not constitute an offer to sell or solicitation of an offer to buy securities. Distribution to unauthorized parties is strictly prohibited.*
 
 ---
 
@@ -42,7 +41,7 @@
 
 ### 1.1 Competitive Landscape Overview
 
-The Austin metropolitan area's residential development market is intensely competitive at the volume and production-builder level, but remarkably underserved in the eco-luxury and regenerative community segment. Abundancia Austin operates in a category with effectively zero direct competitors offering the same combination of regenerative construction (hempcrete), conservation-forward land planning (70-75% preserved), full community infrastructure (solar, fiber, water systems), and wellness programming (retreat center, food forests, ceremony spaces).
+The Austin metropolitan area's residential development market is intensely competitive at the volume and production-builder level, but remarkably underserved in the eco-luxury and regenerative community segment. Abundancia Community operates in a category with effectively zero direct competitors offering the same combination of regenerative construction (hempcrete), conservation-forward land planning (70-75% preserved), full community infrastructure (solar, fiber, water systems), and wellness programming (retreat center, food forests, ceremony spaces).
 
 ### 1.2 Key Competitive Findings
 
@@ -59,7 +58,7 @@ The Austin metropolitan area's residential development market is intensely compe
 
 ### 1.3 Competitive Position Statement
 
-Abundancia Austin occupies a unique position in the Austin residential market: the only conservation-community offering regenerative construction at scale in the fastest-growing corridor of one of America's fastest-growing metros. The nearest comparable product (Serenbe, outside Atlanta) validates the model at national scale but does not compete for the same buyer pool. Within the Austin MSA, Abundancia's competitive set is limited to developments that share one or two attributes but lack the integrated regenerative platform.
+Abundancia Community occupies a unique position in the Austin residential market: the only conservation-community offering regenerative construction at scale in the fastest-growing corridor of one of America's fastest-growing metros. The nearest comparable product (Serenbe, outside Atlanta) validates the model at national scale but does not compete for the same buyer pool. Within the Austin MSA, Abundancia's competitive set is limited to developments that share one or two attributes but lack the integrated regenerative platform.
 
 ---
 
@@ -409,7 +408,7 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 
 ### 6.1 Comprehensive Feature Comparison
 
-| Feature | Abundancia Austin | Whisper Valley | Cosmos Ranch | Serenbe (GA) | Babcock Ranch (FL) | Dripping Springs (Avg.) |
+| Feature | Abundancia Community | Whisper Valley | Cosmos Ranch | Serenbe (GA) | Babcock Ranch (FL) | Dripping Springs (Avg.) |
 |---------|:-----------------:|:--------------:|:------------:|:------------:|:------------------:|:----------------------:|
 | **Conservation %** | 70-75% | 15-20% | 40-50% | 70% | 50% | 10-25% |
 | **Hempcrete construction** | Yes | No | Partial | No | No | No |
@@ -492,7 +491,7 @@ The following framework positions Abundancia relative to competitors on two axes
 | Quadrant | Position | Communities |
 |----------|----------|-------------|
 | **High Price / High Value** | Premium justified | **Serenbe**, Rancho Mission Viejo |
-| **Moderate Price / High Value** | Value play; highest ROI potential | **Abundancia Austin** |
+| **Moderate Price / High Value** | Value play; highest ROI potential | **Abundancia Community** |
 | **High Price / Low Value** | Overpriced; vulnerable | Serene Hills, some Dripping Springs |
 | **Low Price / Low Value** | Commodity housing | Bastrop conventional, Easton Park |
 | **Low Price / Moderate Value** | Accessible eco-branded | Whisper Valley, Cosmos Ranch |
@@ -641,7 +640,7 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 
 ### 10.1 Positioning Statement
 
-**For** wellness-oriented professionals, eco-conscious families, and impact-driven investors **in the Austin metropolitan area and beyond**, **Abundancia Austin** is a **regenerative luxury community** that **delivers authentic carbon-negative living, food sovereignty, complete infrastructure independence, and deep wellness programming** on 376 acres in the Lost Pines region of Bastrop County. **Unlike** conventional luxury developments that offer cosmetic sustainability features, and unlike small-scale eco-villages that lack infrastructure and financial sophistication, **Abundancia** is the first community in Texas to integrate hempcrete construction, 70% conservation, permaculture food systems, community energy independence, and institutional-grade financial returns into a single, scalable model.
+**For** wellness-oriented professionals, eco-conscious families, and impact-driven investors **in the Austin metropolitan area and beyond**, **Abundancia Community** is a **regenerative luxury community** that **delivers authentic carbon-negative living, food sovereignty, complete infrastructure independence, and deep wellness programming** on 376 acres in the Lost Pines region of Bastrop County. **Unlike** conventional luxury developments that offer cosmetic sustainability features, and unlike small-scale eco-villages that lack infrastructure and financial sophistication, **Abundancia** is the first community in Texas to integrate hempcrete construction, 70% conservation, permaculture food systems, community energy independence, and institutional-grade financial returns into a single, scalable model.
 
 ### 10.2 Positioning Map — Key Axes
 
@@ -652,7 +651,7 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 | **Superficial** | Most master-planned communities | "Green" marketing with minimal substance; energy-star appliances |
 | **Moderate** | Whisper Valley, some Dripping Springs | Meaningful energy features (solar, geothermal); limited conservation |
 | **Deep** | Babcock Ranch | Comprehensive energy; significant conservation; limited food/wellness |
-| **Regenerative** | **Abundancia Austin**, Serenbe | Carbon-negative construction; food sovereignty; ecosystem restoration; wellness infrastructure |
+| **Regenerative** | **Abundancia Community**, Serenbe | Carbon-negative construction; food sovereignty; ecosystem restoration; wellness infrastructure |
 
 #### Axis 2: Community Depth (Subdivision to Intentional)
 
@@ -661,11 +660,11 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 | **Subdivision** | Bastrop conventional, Easton Park | HOA-managed; minimal shared programming; individual homeowner focus |
 | **Amenity community** | Rough Hollow, Belterra | Pool, gym, trails, events; professionally managed amenities |
 | **Lifestyle community** | Whisper Valley, Dripping Springs premium | Brand identity; shared values (eco, Hill Country); events and culture |
-| **Intentional community** | **Abundancia Austin**, Serenbe, Cosmos Ranch | Shared governance; deep programming; wellness/ceremony; cultural identity |
+| **Intentional community** | **Abundancia Community**, Serenbe, Cosmos Ranch | Shared governance; deep programming; wellness/ceremony; cultural identity |
 
 ### 10.3 Brand Architecture
 
-| Brand Element | Abundancia Austin | Key Competitor (Whisper Valley) | National Benchmark (Serenbe) |
+| Brand Element | Abundancia Community | Key Competitor (Whisper Valley) | National Benchmark (Serenbe) |
 |--------------|-------------------|-------------------------------|----------------------------|
 | **Brand promise** | "Live regeneratively" | "Live sustainably" | "Live connected to nature" |
 | **Primary emotion** | Transformation, abundance, sovereignty | Responsibility, efficiency | Beauty, belonging, culture |
@@ -802,10 +801,10 @@ Using Warren Buffett's competitive moat framework:
 
 ---
 
-*This Competitive Landscape Analysis was prepared for the exclusive use of accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. Competitive assessments represent management's analysis based on publicly available information and are subject to change as market conditions evolve. This document does not constitute an offer to sell or solicitation of an offer to buy securities. Investment decisions should be based on a thorough review of all offering documents.*
+*This Competitive Landscape Analysis was prepared for the exclusive use of accredited investors evaluating a potential investment in Abundancia Community LLC, a Delaware LLC. Competitive assessments represent management's analysis based on publicly available information and are subject to change as market conditions evolve. This document does not constitute an offer to sell or solicitation of an offer to buy securities. Investment decisions should be based on a thorough review of all offering documents.*
 
 ---
 
 **Document 23** | Competitive Landscape Analysis
-**Abundancia Austin Holdings, LLC** | Confidential
+**Abundancia Community LLC, a Delaware LLC** | Confidential
 **March 2026** | Version 1.0

@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Ongoing Reporting Framework
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -46,13 +45,13 @@
 
 ### 1.1 Purpose
 
-This Ongoing Reporting Framework establishes the comprehensive reporting obligations, communication protocols, and disclosure commitments of Abundancia Austin LLC (the "Company") to its membership interest unit holders (the "Investors" or "Members"). This framework is designed to ensure transparency, regulatory compliance, and timely dissemination of material information throughout the life of the investment.
+This Ongoing Reporting Framework establishes the comprehensive reporting obligations, communication protocols, and disclosure commitments of Abundancia Community LLC, a Delaware LLC (the "Company") to its membership interest unit holders (the "Investors" or "Members"). This framework is designed to ensure transparency, regulatory compliance, and timely dissemination of material information throughout the life of the investment.
 
 ### 1.2 Offering Context
 
 | Parameter | Detail |
 |-----------|--------|
-| Issuer | Abundancia Austin LLC (Texas LLC) |
+| Issuer | Abundancia Community LLC, a Delaware LLC (Delaware LLC) |
 | Managing Member | Light Brands Consulting LLC |
 | Manager | Nicholas Lawless |
 | Securities | Membership Interest Units (250 Units at $50,000 each) |
@@ -77,7 +76,7 @@ The Company commits to the following reporting standards:
 
 This reporting framework is established pursuant to and consistent with:
 
-1. The Amended and Restated Operating Agreement of Abundancia Austin LLC (the "Operating Agreement")
+1. The Amended and Restated Operating Agreement of Abundancia Community LLC, a Delaware LLC (the "Operating Agreement")
 2. The Confidential Private Placement Memorandum (the "PPM")
 3. Regulation D, Rule 506(c) under the Securities Act of 1933
 4. Internal Revenue Code and Treasury Regulations governing partnership tax reporting
@@ -862,7 +861,7 @@ The Company shall maintain a risk register identifying and assessing key project
 
 ### 13.1 Overview
 
-As a regenerative luxury community, the Abundancia Austin project is committed to environmental stewardship and sustainability. The Company shall report on environmental performance as part of its ongoing investor communications.
+As a regenerative luxury community, the Abundancia Community project is committed to environmental stewardship and sustainability. The Company shall report on environmental performance as part of its ongoing investor communications.
 
 ### 13.2 Environmental Metrics
 
@@ -1006,7 +1005,7 @@ Members are encouraged to provide feedback on the Company's reporting practices.
 
 ## Confidentiality Notice
 
-This document is confidential and proprietary to Abundancia Austin LLC. It has been prepared solely for use by verified accredited investors and their professional advisors in evaluating a potential investment in the Company. This document may not be reproduced, distributed, or disclosed to any third party without the prior written consent of the Company. The information contained herein is subject to change without notice and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful.
+This document is confidential and proprietary to Abundancia Community LLC, a Delaware LLC. It has been prepared solely for use by verified accredited investors and their professional advisors in evaluating a potential investment in the Company. This document may not be reproduced, distributed, or disclosed to any third party without the prior written consent of the Company. The information contained herein is subject to change without notice and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful.
 
 Recipients should consult their own legal, tax, and financial advisors regarding the suitability and legal implications of any investment.
 
@@ -1014,6 +1013,6 @@ By accepting this document, the recipient agrees to be bound by the confidential
 
 ---
 
-*Document 28 of the Abundancia Austin Investor Data Room*
+*Document 28 of the Abundancia Community Investor Data Room*
 *Prepared March 2026*
 *Version 1.0*

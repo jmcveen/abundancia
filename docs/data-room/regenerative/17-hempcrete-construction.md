@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Hempcrete Construction Specifications
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -43,7 +42,7 @@
 
 ## 1. Executive Summary
 
-Abundancia Austin will employ hempcrete (hemp-lime bio-composite) as its primary envelope material for all residential and community structures. This decision is driven by five converging factors: superior fire resistance in a wildfire-prone region, carbon-negative lifecycle performance, exceptional thermal and acoustic properties, proven multi-century durability, and alignment with the project's Living Building Challenge certification goals.
+Abundancia Community will employ hempcrete (hemp-lime bio-composite) as its primary envelope material for all residential and community structures. This decision is driven by five converging factors: superior fire resistance in a wildfire-prone region, carbon-negative lifecycle performance, exceptional thermal and acoustic properties, proven multi-century durability, and alignment with the project's Living Building Challenge certification goals.
 
 Hempcrete is not experimental. Over 10,000 hempcrete structures exist across Europe, with the oldest documented examples exceeding 600 years. France alone has permitted hempcrete construction since the 1990s, with over 5,000 completed buildings. Texas adopted hempcrete-compatible building codes, and the material's fire resistance directly addresses the catastrophic risk demonstrated by the 2011 Bastrop Complex Fire, which destroyed 1,673 homes within miles of our site.
 
@@ -705,4 +704,4 @@ Hempcrete's extraordinary durability is not theoretical; it is documented across
 
 ---
 
-*This document is the intellectual property of Abundancia Austin Holdings, LLC. Reproduction or distribution without written consent is prohibited.*
+*This document is the intellectual property of Abundancia Community LLC, a Delaware LLC. Reproduction or distribution without written consent is prohibited.*

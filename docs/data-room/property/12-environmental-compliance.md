@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Environmental Compliance & Conservation Strategy
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -586,4 +585,4 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 
 *End of Document 12 — Environmental Compliance & Conservation Strategy*
 
-*Abundancia Austin Holdings, LLC — Confidential*
+*Abundancia Community LLC, a Delaware LLC — Confidential*

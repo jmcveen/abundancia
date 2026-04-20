@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Master Development Plan
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -43,7 +42,7 @@
 
 ### 1.1 Conservation-Forward Development
 
-Abundancia Austin is designed around a foundational principle: **the land comes first**. Unlike conventional developments that maximize buildable area and relegate green space to residual parcels, Abundancia designates 70-75% of the 376-acre property for permanent conservation, regenerative agriculture, and natural habitat — then designs the built environment within the remaining 25-30% footprint.
+Abundancia Community is designed around a foundational principle: **the land comes first**. Unlike conventional developments that maximize buildable area and relegate green space to residual parcels, Abundancia designates 70-75% of the 376-acre property for permanent conservation, regenerative agriculture, and natural habitat — then designs the built environment within the remaining 25-30% footprint.
 
 This approach is not merely aesthetic. It is structurally integrated into every layer of the project:
 
@@ -375,7 +374,7 @@ See Section 13 for detailed retreat center design.
 
 | Development | Total Acres | Units | Overall Density | Type |
 |-------------|-------------|-------|----------------|------|
-| **Abundancia Austin** | **376** | **420+ built** | **1.12 u/a** | **Conservation community** |
+| **Abundancia Community** | **376** | **420+ built** | **1.12 u/a** | **Conservation community** |
 | Whisper Valley (Austin) | 2,062 | 7,500 planned | 3.64 u/a | Master-planned suburban |
 | Colony Park (Austin) | 208 | 2,200 planned | 10.58 u/a | Urban mixed-use |
 | Serenbe (GA) | 1,000 | 1,200 planned | 1.20 u/a | Biophilic community |
@@ -548,4 +547,4 @@ Post-2011 fire, all landscape design incorporates defensible space principles:
 
 *End of Document 11 — Master Development Plan*
 
-*Abundancia Austin Holdings, LLC — Confidential*
+*Abundancia Community LLC, a Delaware LLC — Confidential*

@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA COMMUNITY
 
 ---
 
@@ -11,8 +11,8 @@
 **Document 14** | Data Room - Legal & Compliance
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -23,13 +23,13 @@
 ## Table of Contents
 
 1. [Entity Overview](#1-entity-overview)
-2. [Series LLC Structure & Rationale](#2-series-llc-structure--rationale)
-3. [Series LLC Benefits](#3-series-llc-benefits)
-4. [GP/LP Structure](#4-gplp-structure)
+2. [Delaware LLC Structure & Rationale](#2-delaware-llc-structure--rationale)
+3. [Delaware LLC Benefits](#3-delaware-llc-benefits)
+4. [Class A / Class B Unit Structure](#4-class-a--class-b-unit-structure)
 5. [Organizational Chart](#5-organizational-chart)
 6. [Management Rights & Authority](#6-management-rights--authority)
-7. [LP Protections](#7-lp-protections)
-8. [Affiliated Entities](#8-affiliated-entities)
+7. [Class A (LP) Investor Protections](#7-class-a-lp-investor-protections)
+8. [Manager & Affiliated Relationships](#8-manager--affiliated-relationships)
 9. [Insurance Requirements](#9-insurance-requirements)
 10. [Regulatory Compliance](#10-regulatory-compliance)
 11. [Tax Structure](#11-tax-structure)
@@ -42,15 +42,15 @@
 
 ## 1. Entity Overview
 
-Abundancia Austin Holdings, LLC ("the Company" or "Holdings") is organized as a Texas Series Limited Liability Company under the Texas Business Organizations Code (BOC), Title 3, Chapter 101, Subchapter M. The Company serves as the master holding entity for the Abundancia Austin planned community development located in Bastrop County, Texas.
+Abundancia Community LLC, a Delaware LLC ("the Company") is organized as a Delaware Limited Liability Company under the Delaware Limited Liability Company Act (DLLCA), 6 Del. C. Chapter 18. The Company serves as the holding and operating entity for the Abundancia Community planned community development located in Bastrop County, Texas.
 
 **Key Entity Data:**
 
 | Field | Detail |
 |-------|--------|
-| **Legal Name** | Abundancia Austin Holdings, LLC |
-| **Jurisdiction** | State of Texas |
-| **Entity Type** | Series Limited Liability Company |
+| **Legal Name** | Abundancia Community LLC |
+| **Jurisdiction** | State of Delaware |
+| **Entity Type** | Limited Liability Company |
 | **Formation Date** | [Formation Date] |
 | **SOS Filing Number** | [Filing Number] |
 | **Registered Agent** | [Agent Name & Address] |
@@ -58,185 +58,210 @@ Abundancia Austin Holdings, LLC ("the Company" or "Holdings") is organized as a 
 | **Tax Classification** | Partnership (IRS Form 1065) |
 | **Fiscal Year** | Calendar Year (January 1 - December 31) |
 
-The Company was specifically organized as a Texas Series LLC to provide maximum structural flexibility, asset isolation between development phases, and liability protection for investors participating in a multi-phase real estate development project.
+The Company was specifically organized as a Delaware LLC to benefit from Delaware's well-developed body of LLC law, flexible governance provisions, strong contractual freedom under the DLLCA, and the certainty and predictability afforded by the Delaware Court of Chancery. The two-class unit structure (Class A and Class B) provides clear delineation between capital partners and management, aligning incentives while preserving operational efficiency.
 
 ---
 
-## 2. Series LLC Structure & Rationale
+## 2. Delaware LLC Structure & Rationale
 
-### 2.1 What is a Texas Series LLC
+### 2.1 Why a Delaware LLC
 
-A Texas Series LLC is a single legal entity that permits the creation of separate "series" within the LLC, each of which may have its own members, managers, assets, liabilities, and business purposes. Under Texas BOC Section 101.601 et seq., the debts, liabilities, obligations, and expenses incurred with respect to a particular series are enforceable only against the assets of that series and not against the assets of any other series or the master LLC, provided proper statutory requirements are maintained.
+A Delaware LLC is the preferred entity for sophisticated real estate investment vehicles due to the following characteristics of the DLLCA and Delaware's legal environment:
 
-### 2.2 Rationale for Series LLC Structure
+**Contractual Freedom.** The DLLCA grants maximum deference to the terms of the Operating Agreement. Members and managers may customize governance, economic rights, and fiduciary duties to a degree not available under most other states' LLC statutes. This enables the Company to implement the Class A/B unit structure, tiered distribution waterfall, and management authority provisions described herein.
 
-The Abundancia Austin development is a multi-phase project with distinct capital requirements, risk profiles, and timelines for each phase. The Series LLC structure was selected for the following reasons:
+**Judicial Predictability.** Delaware's Court of Chancery, a specialized equity court without juries, has decades of precedent interpreting LLC agreements. This body of law provides investors and management with a high degree of certainty regarding the enforceability of their contractual arrangements.
 
-**Phase Isolation.** Each development phase (land acquisition, horizontal infrastructure, vertical construction, amenity development) can be organized as a separate series, ensuring that risks and liabilities associated with one phase do not jeopardize assets held in another.
+**Manager-Managed Flexibility.** The DLLCA permits the Company to be managed by a designated manager (the Class B unitholder) with broad authority, while limiting the economic participation of the manager to negotiated terms. This aligns with institutional real estate GP/LP structures.
 
-**Capital Efficiency.** Investors may participate in specific phases or series without exposure to the entire project. This allows for targeted capital raises aligned with phase-specific needs and risk/return profiles.
+**No State-Level Income Tax on LLC Income.** Delaware does not impose an income tax on LLCs that do not conduct business within Delaware. Since the Company's real estate operations are located in Texas, no Delaware income tax applies. The Company pays only the Delaware annual LLC tax ($300).
 
-**Operational Flexibility.** Each series can maintain separate books, records, bank accounts, and governance structures while operating under a single master entity, reducing administrative overhead compared to forming multiple standalone LLCs.
+### 2.2 Rationale for Single-Entity Structure
 
-**Regulatory Simplicity.** A single entity filing with the Texas Secretary of State, rather than multiple entity formations, reduces ongoing compliance costs and administrative burden.
+The Abundancia Community development is organized under a single Delaware LLC rather than multiple entities or a series structure, for the following reasons:
 
-**Scalability.** Additional series can be created as the project expands without forming new legal entities, enabling rapid response to market opportunities.
+**Simplicity.** A single entity with two classes of units provides a clean, easily understood capital structure for investors. There is one Operating Agreement, one set of books, one partnership tax return, and one chain of governance.
 
-### 2.3 Series Designations
+**Capital Efficiency.** All capital contributed by Class A investors is available for deployment across the entire project. There is no fragmentation of capital across separate entities or series, enabling the Manager to allocate resources dynamically based on development priorities and market conditions.
 
-The Company anticipates the following series structure, subject to modification as the project progresses:
+**Aligned Incentives.** The Class A/B structure ensures that the Manager (Class B) succeeds only when the investors (Class A) succeed. The distribution waterfall, preferred return, and promote structure create powerful alignment between capital and management.
 
-| Series | Purpose | Status |
-|--------|---------|--------|
-| **Series A - Land** | Land acquisition and entitlement | Active |
-| **Series B - Infrastructure** | Horizontal development, MUD-financed infrastructure | Planned |
-| **Series C - Residential Phase 1** | Initial residential vertical construction | Planned |
-| **Series D - Residential Phase 2** | Subsequent residential phases | Planned |
-| **Series E - Commercial/Amenity** | Commercial parcels and community amenities | Planned |
-| **Series F - Operations** | Ongoing community management and operations | Planned |
-
-Each series maintains separate:
-- Capital accounts and financial statements
-- Bank accounts
-- Asset registers
-- Liability records
-- Membership interest registers
+**Administrative Efficiency.** A single entity reduces formation costs, ongoing compliance obligations, registered agent fees, and administrative overhead compared to multi-entity or series structures.
 
 ---
 
-## 3. Series LLC Benefits
+## 3. Delaware LLC Benefits
 
-### 3.1 Asset Protection
+### 3.1 Limited Liability Protection
 
-Each series constitutes a separate protected series under Texas law. The assets of one series are shielded from the creditors of another series and from the creditors of the master LLC. This "internal liability shield" operates similarly to the liability protection between separate corporate entities, but within a single organizational structure.
+Each member of the Company enjoys limited liability under the DLLCA. No member is personally liable for the debts, obligations, or liabilities of the Company solely by reason of being a member or manager, except to the extent such member has personally guaranteed such obligations or liability arises from fraud, willful misconduct, or gross negligence.
 
-**Statutory Basis:** Texas BOC Section 101.602 provides that the debts, liabilities, obligations, and expenses incurred, contracted for, or otherwise existing with respect to a particular series shall be enforceable against the assets of such series only, and shall not be enforceable against the assets of the company generally or any other series thereof.
+**Statutory Basis:** 6 Del. C. Section 18-303 provides that, except as otherwise provided by the DLLCA, the debts, obligations, and liabilities of a limited liability company, whether arising in contract, tort, or otherwise, shall be solely the debts, obligations, and liabilities of the limited liability company, and no member or manager shall be obligated personally for any such debt, obligation, or liability solely by reason of being a member or acting as a manager.
 
-### 3.2 Liability Isolation Per Phase
+### 3.2 Contractual Flexibility
 
-Construction defect claims arising from Phase 1 residential construction (Series C) cannot reach land assets held in Series A or infrastructure assets in Series B. This phase-by-phase isolation is critical for a multi-year development project where risks evolve over time.
+The DLLCA permits the Operating Agreement to govern virtually all aspects of the Company's internal affairs, including:
+- Economic rights and distribution priorities among classes of units
+- Management authority, delegation, and removal procedures
+- Voting thresholds and consent requirements
+- Transfer restrictions and rights of first refusal
+- Indemnification and exculpation provisions
+- Dissolution and wind-down procedures
 
-### 3.3 Flexible Capital Structure
+### 3.3 Favorable Tax Treatment
 
-Each series may issue its own membership interests with distinct economic terms, distribution waterfalls, and governance rights. This enables the Company to tailor capital raises to the specific needs and risk profile of each phase.
+The Company has elected to be treated as a partnership for federal income tax purposes. This provides:
+- **Pass-through taxation.** No entity-level federal income tax. All items of income, gain, loss, deduction, and credit are allocated to members and reported on individual (or entity-level) tax returns.
+- **Single tax return.** The Company files one federal partnership tax return (Form 1065), with each member receiving an annual Schedule K-1.
+- **Depreciation benefits.** Members receive their pro rata share of depreciation deductions from the Company's real property assets, which may offset income from other sources.
+- **No Delaware income tax.** Because the Company's operations are in Texas (which has no personal income tax), and Delaware does not tax LLC income from operations outside the state, the structure is tax-efficient for members.
 
-### 3.4 Tax Efficiency
+### 3.4 Court of Chancery Access
 
-The master LLC files a single federal partnership tax return (Form 1065), with each series reported as a separate activity. This simplifies tax compliance while maintaining the benefits of pass-through taxation for all investors.
-
-### 3.5 Reduced Formation and Maintenance Costs
-
-Compared to forming a separate LLC for each phase (which would require separate formation filings, franchise tax reports, and registered agent designations), the Series LLC structure consolidates these requirements into a single entity, reducing annual compliance costs.
+Disputes arising under the Operating Agreement may be adjudicated in the Delaware Court of Chancery, providing access to a sophisticated, experienced judiciary with deep expertise in business entity governance. This reduces litigation uncertainty for all parties.
 
 ---
 
-## 4. GP/LP Structure
+## 4. Class A / Class B Unit Structure
 
 ### 4.1 Overview
 
-Each investment series utilizes a General Partner / Limited Partner structure to clearly delineate management authority and economic rights. The General Partner manages the day-to-day operations and investment decisions, while Limited Partners provide capital and receive economic returns.
+The Company's membership interests are divided into two classes of units, each with distinct economic rights, governance authority, and obligations:
 
-### 4.2 General Partner
+| Attribute | Class A Units (LP Investors) | Class B Units (GP / Manager) |
+|-----------|------------------------------|------------------------------|
+| **Holders** | Accredited investors admitted through the Regulation D, Rule 506(c) offering | Founding principals (Nicholas Courchesne and Jason Sparks, through the Manager entity) |
+| **Capital Contribution** | Cash capital per Subscription Agreement (minimum $50,000 per investor) | Vision, deal sourcing, execution capability, brand and ecosystem development |
+| **Economic Rights** | Return of capital, 8% cumulative preferred return, pro rata share of profits per waterfall | Promote (carried interest) per waterfall, management and other fees (optional), operational control |
+| **Voting Rights** | Limited: sale of substantially all assets, refinancing above threshold, material deviations from business plan, dissolution, amendment of Operating Agreement | Full management and operational control; no voting restrictions on ordinary course business decisions |
+| **Control** | Passive; no right to participate in management of the Company | Full, exclusive management authority subject to Major Decision protections |
 
-| Field | Detail |
-|-------|--------|
-| **Entity** | Abundancia Austin GP, LLC |
-| **Type** | Texas LLC (Manager-Managed) |
-| **Role** | General Partner of each investment series |
-| **Capital Contribution** | Minimum 1% of total capital committed per series |
-| **Management Fee** | 1.5% of committed capital per annum |
-| **Carried Interest** | Per waterfall schedule (see Section 4.4) |
+### 4.2 Class A Units (LP Investors)
 
-The General Partner has sole and exclusive authority over the management and operations of each series, subject to the Major Decision requirements set forth in Section 6.
+Class A Units are the investment units offered to accredited investors in the Company's Regulation D, Rule 506(c) offering. Each Class A Unit represents a proportional limited partnership-style interest in the Company.
 
-### 4.3 Limited Partners
+**Capital Contribution:**
+- Minimum investment: $50,000 per Unit
+- Maximum offering: $12,500,000 (250 Units)
+- Contributions fund land acquisition, development, construction, and operations
 
-Limited Partners are passive investors who contribute capital to one or more series in exchange for membership interests. All Limited Partners must qualify as "accredited investors" as defined in Rule 501(a) of Regulation D under the Securities Act of 1933, as amended.
+**Economic Rights:**
+- **8% Cumulative Preferred Return.** Class A investors receive a cumulative 8% annual preferred return on unreturned capital contributions, compounded annually. No distributions are made to Class B unitholders until the preferred return is fully satisfied.
+- **Return of Capital Priority.** 100% of initial distributions are allocated to Class A unitholders until each has received a full return of contributed capital.
+- **Pro Rata Profit Participation.** Above the preferred return and return of capital thresholds, Class A unitholders participate in profits per the tiered waterfall schedule (see Section 4.4).
+- **Quarterly Distributions.** Subject to available cash flow, distributions are targeted quarterly beginning when project operations generate sufficient cash (estimated Year 2).
 
-**Minimum Investment:** $250,000 per series (subject to GP discretion to accept lesser amounts)
+**Voting Rights (Limited):**
+Class A unitholders have voting rights only on the following Major Decisions, which require the affirmative vote or written consent of Class A unitholders holding a majority-in-interest (greater than 50%) of outstanding Class A Units:
 
-**LP Economic Rights:**
-- 8% cumulative preferred return on contributed capital
-- Pro rata share of distributable cash flow per waterfall schedule
-- 100% return of capital before GP promote participation
-- Quarterly cash distributions (subject to available cash flow)
+1. Sale or disposition of all or substantially all assets of the Company
+2. Refinancing that would increase total Company indebtedness above $50,000,000
+3. Material deviation from the development program described in the Private Placement Memorandum
+4. Merger, consolidation, or conversion of the Company
+5. Amendment of the Operating Agreement that materially adversely affects Class A economic rights
+6. Voluntary dissolution of the Company prior to completion of the project
+7. Related-party transactions in excess of $500,000 per annum
+8. Removal of the Manager for cause
+
+### 4.3 Class B Units (GP / Manager)
+
+Class B Units are held by the founding principals (through the Manager entity) and represent the management and operational interest in the Company.
+
+**Contribution:**
+Class B unitholders contribute non-cash value to the Company, including:
+- Project vision, concept development, and brand creation
+- Deal sourcing, property identification, and acquisition negotiation
+- Development execution, construction oversight, and operational management
+- Ecosystem development, community programming, and market positioning
+- Ongoing management and administrative services throughout the project life
+
+**Economic Rights:**
+- **Promote (Carried Interest).** Class B unitholders receive carried interest distributions per the tiered waterfall schedule described in Section 4.4, beginning only after Class A investors have received full return of capital and preferred return.
+- **Management Fees (Optional).** The Operating Agreement authorizes the following fees payable to the Manager or its affiliates:
+  - Management Fee: 1.5% of committed capital per annum
+  - Acquisition Fee: 1.0% of property acquisition cost
+  - Construction Management Fee: 3.0% of hard construction costs
+  - Disposition Fee: 1.0% of gross sale proceeds
+  - Refinancing Fee: 0.5% of refinancing proceeds
+- **Control.** Full operational authority over all Company business decisions, subject to the Major Decision protections afforded to Class A unitholders.
+
+**Obligations:**
+- Act in good faith and with the care of an ordinarily prudent person in managing the Company's affairs
+- Provide quarterly and annual financial reporting to Class A unitholders
+- Maintain accurate books and records
+- Comply with all applicable laws, regulations, and contractual obligations
+- Subject to clawback obligation on excess carried interest distributions
 
 ### 4.4 Distribution Waterfall
 
 Distributions of available cash flow shall be made in the following order of priority:
 
-| Tier | Distribution Level | LP Share | GP Share |
-|------|-------------------|----------|----------|
-| **Tier 1** | Return of Capital + 8% Preferred Return | 100% | 0% |
-| **Tier 2** | Up to 12% IRR | 80% | 20% |
-| **Tier 3** | 12% to 18% IRR | 70% | 30% |
-| **Tier 4** | 18% to 25% IRR | 60% | 40% |
-| **Tier 5** | Above 25% IRR | 50% | 50% |
+| Tier | Distribution Level | Class A Share | Class B Share |
+|------|-------------------|---------------|---------------|
+| **Tier 1** | Return of Capital | 100% | 0% |
+| **Tier 2** | 8% Cumulative Preferred Return | 100% | 0% |
+| **Tier 3** | GP Catch-Up (80/20) | 80% | 20% |
+| **Tier 4** | Above 15% IRR | 70% | 30% |
+| **Tier 5** | Above 25% IRR | 60% | 40% |
+| **Tier 6** | Above 35% IRR | 50% | 50% |
 
 **Waterfall Mechanics:**
 
-- **Preferred Return.** LPs receive a cumulative 8% annual preferred return on unreturned capital contributions, compounded quarterly. No distributions are made to the GP until the preferred return is fully satisfied.
-- **Return of Capital.** After satisfaction of the preferred return, 100% of distributions are allocated to LPs until each LP has received a return of its entire capital contribution.
-- **GP Catch-Up.** None. The GP participates in carried interest only after LPs have received full return of capital and preferred return.
-- **Carried Interest.** Above the preferred return and return of capital thresholds, the GP participates in distributions at the rates specified in the tiered waterfall above.
-- **Clawback.** The GP is subject to a clawback obligation at the end of the fund life or upon dissolution of a series, ensuring that aggregate distributions to the GP do not exceed the amounts to which the GP would be entitled based on cumulative results.
+- **Preferred Return.** Class A unitholders receive a cumulative 8% annual preferred return on unreturned capital contributions, compounded annually. No distributions are made to Class B unitholders until the preferred return is fully satisfied.
+- **Return of Capital.** After satisfaction of the preferred return, 100% of distributions are allocated to Class A unitholders until each has received a return of its entire capital contribution.
+- **GP Catch-Up.** After full return of capital and preferred return, 80% of distributions go to Class A and 20% to Class B until Class B has received 20% of the aggregate amount distributed under Tiers 2 and 3 combined.
+- **Carried Interest.** Above the catch-up, Class B participates in distributions at the rates specified in the tiered waterfall above, with increasing participation at higher IRR thresholds.
+- **Clawback.** Class B unitholders are subject to a clawback obligation at the end of the fund life or upon dissolution of the Company, ensuring that aggregate distributions to Class B do not exceed the amounts to which Class B would be entitled based on cumulative, whole-fund results.
 
 ---
 
 ## 5. Organizational Chart
 
 ```
-                    ABUNDANCIA AUSTIN HOLDINGS, LLC
-                        (Texas Series LLC)
-                    Master Entity / Holding Company
-                                |
-          ┌─────────────────────┼─────────────────────┐
-          |                     |                     |
-   Abundancia Austin     Abundancia Austin      Abundancia Austin
-      GP, LLC            Manager, LLC          Development, LLC
-   (General Partner)    (Property Manager)     (Construction Mgmt)
-          |
-          ├──── Series A - Land Acquisition LP
-          |        ├── GP: Abundancia Austin GP, LLC (1%)
-          |        └── LPs: Accredited Investors (99%)
-          |
-          ├──── Series B - Infrastructure LP
-          |        ├── GP: Abundancia Austin GP, LLC (1%)
-          |        └── LPs: Accredited Investors (99%)
-          |
-          ├──── Series C - Residential Phase 1 LP
-          |        ├── GP: Abundancia Austin GP, LLC (1%)
-          |        └── LPs: Accredited Investors (99%)
-          |
-          ├──── Series D - Residential Phase 2 LP
-          |        ├── GP: Abundancia Austin GP, LLC (1%)
-          |        └── LPs: Accredited Investors (99%)
-          |
-          ├──── Series E - Commercial/Amenity LP
-          |        ├── GP: Abundancia Austin GP, LLC (1%)
-          |        └── LPs: Accredited Investors (99%)
-          |
-          └──── Series F - Operations LP
-                   ├── GP: Abundancia Austin GP, LLC (1%)
-                   └── LPs: Accredited Investors (99%)
+             ABUNDANCIA COMMUNITY LLC
+              (Delaware LLC)
+         Single Entity / Two Unit Classes
+                      |
+         ┌────────────┴────────────┐
+         |                         |
+    CLASS A UNITS             CLASS B UNITS
+   (LP Investors)             (GP / Manager)
+         |                         |
+    Accredited              Nicholas Courchesne
+    Investors               Jason Sparks
+    (up to 250)             (through Manager entity)
+         |                         |
+    CONTRIBUTE:              CONTRIBUTE:
+    Capital                  Vision, deal sourcing,
+    ($50K minimum            execution, brand,
+    per investor)            ecosystem development
+         |                         |
+    RECEIVE:                 RECEIVE:
+    Return of capital,       Promote (carried interest),
+    8% preferred return,     fees (mgmt, acq, const,
+    pro rata profit share    disp), full management
+    per waterfall            control
+         |                         |
+    VOTING:                  CONTROL:
+    Limited (sale,           Full operational authority
+    refinance, material      subject to Major Decision
+    deviations, dissolution) protections for Class A
 ```
 
-### Entity Descriptions
+### Unit Class Summary
 
-| Entity | Role | Purpose |
-|--------|------|---------|
-| Abundancia Austin Holdings, LLC | Master Series LLC | Umbrella entity housing all series |
-| Abundancia Austin GP, LLC | General Partner | Manages all series; holds decision-making authority |
-| Abundancia Austin Manager, LLC | Property Management | Ongoing community and property management |
-| Abundancia Austin Development, LLC | Construction Management | Oversees horizontal and vertical construction |
+| Unit Class | Holders | Role | Economic Rights | Governance |
+|-----------|---------|------|-----------------|------------|
+| Class A | Accredited investors | Capital partners | Preferred return, return of capital, profit share per waterfall | Limited voting on Major Decisions |
+| Class B | Founding principals / Manager | Operating partner | Promote, fees, control | Full management authority |
 
 ---
 
 ## 6. Management Rights & Authority
 
-### 6.1 General Partner Authority
+### 6.1 Manager Authority (Class B)
 
-The General Partner shall have full, exclusive, and complete authority, power, and discretion to manage and control the business and affairs of each series, including but not limited to:
+The Manager (Class B unitholder) shall have full, exclusive, and complete authority, power, and discretion to manage and control the business and affairs of the Company, including but not limited to:
 
 - Acquisition, development, financing, and disposition of real property
 - Execution of contracts, leases, and agreements
@@ -247,85 +272,86 @@ The General Partner shall have full, exclusive, and complete authority, power, a
 - Litigation management and settlement authority
 - Insurance procurement and claims management
 
-### 6.2 Major Decisions Requiring LP Consent
+### 6.2 Major Decisions Requiring Class A Consent
 
-The following actions require the affirmative vote or written consent of LPs holding a majority-in-interest (greater than 50%) of the outstanding LP interests in the applicable series:
+The following actions require the affirmative vote or written consent of Class A unitholders holding a majority-in-interest (greater than 50%) of the outstanding Class A Units:
 
-1. Sale or disposition of all or substantially all assets of a series
-2. Merger, consolidation, or conversion of the Company or any series
-3. Amendment of the Operating Agreement that materially adversely affects LP economic rights
-4. Admission of the GP as a limited partner or the LP as a general partner
-5. Incurrence of indebtedness in excess of [threshold] per series
-6. Related-party transactions in excess of $500,000 per annum
-7. Dissolution of the Company or any series (other than as provided in the Operating Agreement)
-8. Removal of the General Partner for cause
+1. Sale or disposition of all or substantially all assets of the Company
+2. Merger, consolidation, or conversion of the Company
+3. Amendment of the Operating Agreement that materially adversely affects Class A economic rights
+4. Refinancing that would increase total Company indebtedness above $50,000,000
+5. Related-party transactions in excess of $500,000 per annum
+6. Voluntary dissolution of the Company prior to completion of the project
+7. Material deviation from the development program described in the Private Placement Memorandum
+8. Removal of the Manager for cause
 
-### 6.3 GP Removal
+### 6.3 Manager Removal
 
-The General Partner may be removed for "Cause" upon the affirmative vote of LPs holding at least 75% of outstanding LP interests. "Cause" is defined as:
+The Manager may be removed for "Cause" upon the affirmative vote of Class A unitholders holding at least 75% of outstanding Class A Units. "Cause" is defined as:
 
 - Fraud, willful misconduct, or gross negligence in the management of the Company
 - Material breach of the Operating Agreement that remains uncured for 30 days following written notice
-- Bankruptcy or insolvency of the General Partner
+- Bankruptcy or insolvency of the Manager entity
 - Conviction of a felony involving moral turpitude
+- Misappropriation or conversion of Company funds or assets
 
-Upon removal, LPs holding a majority-in-interest shall appoint a successor General Partner.
+Upon removal, Class A unitholders holding a majority-in-interest shall appoint a successor Manager.
 
 ---
 
-## 7. LP Protections
+## 7. Class A (LP) Investor Protections
 
 ### 7.1 Economic Protections
 
-- **Preferred Return.** 8% cumulative preferred return ensures LPs receive baseline economic returns before GP participation.
-- **Return of Capital Priority.** 100% return of contributed capital before any GP promote distributions.
-- **Clawback Right.** GP subject to clawback obligation ensuring aggregate GP distributions do not exceed entitled amounts.
-- **Anti-Dilution.** New issuances of interests in any series require either pro rata preemptive rights for existing LPs or majority LP consent.
-- **Capital Call Limitations.** Capital calls may not exceed committed capital without LP consent. Minimum 30 days notice for capital calls.
+- **Preferred Return.** 8% cumulative preferred return ensures Class A investors receive baseline economic returns before Class B participation.
+- **Return of Capital Priority.** 100% return of contributed capital before any Class B promote distributions.
+- **Clawback Right.** Class B subject to clawback obligation ensuring aggregate Class B distributions do not exceed entitled amounts based on whole-fund performance.
+- **Anti-Dilution.** New issuances of Class A Units require either pro rata preemptive rights for existing Class A holders or majority Class A consent.
+- **Capital Call Limitations.** Capital calls may not exceed committed capital without Class A consent. Minimum 30 days notice for capital calls.
 
 ### 7.2 Governance Protections
 
-- **Information Rights.** LPs have the right to inspect books and records during normal business hours upon reasonable notice.
+- **Information Rights.** Class A unitholders have the right to inspect books and records during normal business hours upon reasonable notice.
 - **Reporting.** Quarterly financial reports, annual audited financial statements, and annual K-1 tax documents (see Section 13).
-- **Advisory Committee.** LPs holding, in aggregate, at least 25% of outstanding LP interests may form an Advisory Committee with consultation rights on Major Decisions.
-- **Key Person.** If [Key Person(s)] cease to be actively involved in the management of the Company, LPs holding a majority-in-interest may elect to suspend new investments and/or wind down the applicable series.
+- **Advisory Committee.** Class A unitholders holding, in aggregate, at least 25% of outstanding Class A Units may form an Advisory Committee with consultation rights on Major Decisions.
+- **Key Person.** If [Key Person(s)] cease to be actively involved in the management of the Company, Class A unitholders holding a majority-in-interest may elect to suspend new investments and/or wind down the Company.
 
 ### 7.3 Transfer Restrictions
 
-- LP interests are subject to transfer restrictions under the Operating Agreement and applicable securities laws.
-- Transfers require prior written consent of the General Partner (not to be unreasonably withheld).
+- Class A Units are subject to transfer restrictions under the Operating Agreement and applicable securities laws.
+- Transfers require prior written consent of the Manager (not to be unreasonably withheld).
 - Transferees must qualify as accredited investors.
-- Right of first refusal in favor of the Company and existing LPs.
-- Tag-along rights if GP transfers its interest.
+- Right of first refusal in favor of the Company and existing Class A unitholders.
+- Tag-along rights if Class B transfers its interest.
 
 ### 7.4 Fiduciary Duties
 
-The General Partner owes fiduciary duties to the Company and the Limited Partners, including the duty of care and the duty of loyalty. The Operating Agreement does not eliminate or reduce these duties beyond the extent permitted under Texas BOC Section 101.401.
+The Manager owes fiduciary duties to the Company and the Class A unitholders, including the duty of care and the duty of loyalty. The Operating Agreement does not eliminate or reduce these duties beyond the extent permitted under the DLLCA, 6 Del. C. Section 18-1101(c).
 
 ---
 
-## 8. Affiliated Entities
+## 8. Manager & Affiliated Relationships
 
 ### 8.1 Disclosure of Affiliations
 
-The following entities are affiliates of the General Partner and may provide services to the Company or its series. All affiliated party transactions are subject to the disclosure requirements and approval thresholds set forth in Section 6.2.
+The Manager and its principals may engage affiliated service providers for property management, construction management, and other operational functions. All affiliated party transactions are subject to the disclosure requirements and approval thresholds set forth in Section 6.2.
 
-| Affiliated Entity | Relationship | Services Provided |
-|-------------------|-------------|-------------------|
-| Abundancia Austin GP, LLC | General Partner | Management and investment decisions |
-| Abundancia Austin Manager, LLC | Common ownership with GP | Property and community management |
-| Abundancia Austin Development, LLC | Common ownership with GP | Construction management and oversight |
-| [Additional Affiliates] | [Relationship] | [Services] |
+| Relationship | Services Provided | Governance |
+|-------------|-------------------|------------|
+| Manager (Class B unitholder) | Management and investment decisions | Per Operating Agreement |
+| Affiliated property management | Community and property management | Arm's-length pricing; disclosed in quarterly reports |
+| Affiliated construction management | Construction oversight | Arm's-length pricing; disclosed in quarterly reports |
+| [Additional Affiliates] | [Services] | Per Operating Agreement |
 
 ### 8.2 Conflict of Interest Policy
 
-All transactions between the Company (or any series) and affiliated entities shall be conducted on an arm's-length basis at fair market value. The General Partner shall disclose all material conflicts of interest to the Limited Partners and, for transactions exceeding $500,000 annually, obtain majority LP consent or Advisory Committee approval.
+All transactions between the Company and affiliated entities shall be conducted on an arm's-length basis at fair market value. The Manager shall disclose all material conflicts of interest to Class A unitholders and, for transactions exceeding $500,000 annually, obtain majority Class A consent or Advisory Committee approval.
 
 ---
 
 ## 9. Insurance Requirements
 
-The Company and each series shall maintain the following insurance coverage at all times during the term of the investment:
+The Company shall maintain the following insurance coverage at all times during the term of the investment:
 
 | Coverage Type | Minimum Limits | Carrier Rating |
 |---------------|---------------|----------------|
@@ -340,7 +366,7 @@ The Company and each series shall maintain the following insurance coverage at a
 | Flood Insurance | As required by lender / FEMA zone | NFIP or private equivalent |
 | Wildfire Coverage | Per policy terms (Bastrop County specific) | Specialized carrier |
 
-The General Partner shall review insurance coverage annually and adjust limits as appropriate for the stage of development. Certificates of insurance shall be made available to any LP upon written request.
+The Manager shall review insurance coverage annually and adjust limits as appropriate for the stage of development. Certificates of insurance shall be made available to any Class A unitholder upon written request.
 
 ---
 
@@ -348,12 +374,12 @@ The General Partner shall review insurance coverage annually and adjust limits a
 
 ### 10.1 Securities Law Compliance
 
-**Federal Securities Law.** The offering of membership interests in each series is conducted pursuant to the exemption from registration provided by Rule 506(c) of Regulation D under the Securities Act of 1933, as amended.
+**Federal Securities Law.** The offering of Class A Units is conducted pursuant to the exemption from registration provided by Rule 506(c) of Regulation D under the Securities Act of 1933, as amended.
 
 Key 506(c) requirements:
 - All investors must be verified accredited investors (income, net worth, or professional certification verification)
 - General solicitation and advertising are permitted
-- Form D filing with the SEC within 15 days of first sale in each series
+- Form D filing with the SEC within 15 days of first sale
 - No limit on the amount of capital that may be raised
 - No limit on the number of accredited investors
 
@@ -363,7 +389,7 @@ Key 506(c) requirements:
 - Written confirmation from a registered broker-dealer, SEC-registered investment adviser, licensed attorney, or certified public accountant
 - Professional certifications (Series 7, Series 65, Series 82)
 
-**Texas State Securities Law.** A notice filing is made with the Texas State Securities Board in compliance with the Texas Securities Act, Section 139.16 (Regulation D federal covered securities).
+**State Securities Law.** Notice filings are made in applicable states in compliance with state securities laws for Regulation D federal covered securities.
 
 ### 10.2 Anti-Money Laundering (AML)
 
@@ -383,11 +409,11 @@ The Company complies with the Corporate Transparency Act (CTA) and FinCEN's bene
 
 ### 11.1 Partnership Taxation
 
-The Company has elected to be treated as a partnership for federal income tax purposes. Each series is treated as a separate partnership for tax reporting purposes. The Company does not pay entity-level federal income tax. Instead, all items of income, gain, loss, deduction, and credit are passed through to the members (GP and LPs) in accordance with their respective shares as determined under the Operating Agreement and IRC Section 704(b).
+The Company has elected to be treated as a partnership for federal income tax purposes. The Company does not pay entity-level federal income tax. Instead, all items of income, gain, loss, deduction, and credit are passed through to the members (Class A and Class B unitholders) in accordance with their respective shares as determined under the Operating Agreement and IRC Section 704(b).
 
 ### 11.2 Pass-Through Treatment
 
-Each member reports its distributive share of Company income and loss on its individual (or entity-level) tax return. Members are taxed on their allocable share of Company income regardless of whether cash distributions are made. The General Partner will endeavor to make tax distributions sufficient to cover each member's estimated tax liability arising from Company income allocations.
+Each member reports its distributive share of Company income and loss on its individual (or entity-level) tax return. Members are taxed on their allocable share of Company income regardless of whether cash distributions are made. The Manager will endeavor to make tax distributions sufficient to cover each member's estimated tax liability arising from Company income allocations.
 
 ### 11.3 Schedule K-1
 
@@ -404,9 +430,13 @@ The Company will furnish each member with an IRS Schedule K-1 (Form 1065) on or 
 - Alternative minimum tax items
 - Other items required by the IRS
 
-### 11.4 Texas Franchise Tax
+### 11.4 Delaware Annual Tax
 
-Texas imposes a franchise tax (margin tax) on most entities doing business in the state. The Company will file Texas franchise tax reports annually. The franchise tax is calculated on the lesser of:
+The Company is subject to the Delaware annual LLC tax of $300, payable on or before June 1 of each year. No Delaware income tax applies because the Company's operations are conducted entirely outside Delaware.
+
+### 11.5 Texas Franchise Tax
+
+Because the Company's real property and operations are located in Texas, the Company is subject to the Texas franchise tax (margin tax). The Company will file Texas franchise tax reports annually. The franchise tax is calculated on the lesser of:
 - 70% of total revenue
 - Total revenue minus cost of goods sold
 - Total revenue minus compensation
@@ -414,9 +444,9 @@ Texas imposes a franchise tax (margin tax) on most entities doing business in th
 
 The current rate is 0.375% for qualifying wholesale and retail entities and 0.75% for other entities. Real estate development entities typically qualify for the 0.75% rate, applied to the taxable margin.
 
-### 11.5 Tax Elections
+### 11.6 Tax Elections
 
-The General Partner shall make the following tax elections on behalf of the Company:
+The Manager shall make the following tax elections on behalf of the Company:
 - **IRC Section 754 Election:** Made to adjust the basis of Company assets upon the transfer of an interest or the distribution of property, protecting transferee partners from inheriting unfavorable tax basis positions.
 - **Depreciation Methods:** Cost segregation studies will be conducted to maximize accelerated depreciation deductions available to members.
 - **Qualified Opportunity Zone (QOZ):** If any portion of the project is located within a designated QOZ, the Company will evaluate and, if beneficial, elect QOZ treatment under IRC Sections 1400Z-1 and 1400Z-2.
@@ -427,17 +457,17 @@ The General Partner shall make the following tax elections on behalf of the Comp
 
 ### 12.1 Management Structure
 
-The Company is manager-managed. The General Partner serves as the manager of the Company and each series. Day-to-day operations are conducted by the management team engaged by the General Partner.
+The Company is manager-managed. The Manager (Class B unitholder) serves as the sole manager of the Company. Day-to-day operations are conducted by the management team engaged by the Manager.
 
 ### 12.2 Meetings
 
-- **Annual Meeting.** The General Partner shall hold an annual meeting of all members (in person or virtual) within 120 days of the end of each fiscal year.
-- **Special Meetings.** Special meetings may be called by the General Partner or by LPs holding at least 25% of outstanding LP interests upon 15 days written notice.
+- **Annual Meeting.** The Manager shall hold an annual meeting of all members (in person or virtual) within 120 days of the end of each fiscal year.
+- **Special Meetings.** Special meetings may be called by the Manager or by Class A unitholders holding at least 25% of outstanding Class A Units upon 15 days written notice.
 - **Consent in Lieu of Meeting.** Any action that may be taken at a meeting may be taken without a meeting by written consent of the requisite number of members.
 
 ### 12.3 Books and Records
 
-The General Partner shall maintain complete and accurate books and records for the Company and each series at the Company's principal office, including:
+The Manager shall maintain complete and accurate books and records for the Company at the Company's principal office, including:
 - A current list of members and their contact information
 - Copies of the Certificate of Formation and all amendments
 - The Operating Agreement and all amendments
@@ -448,7 +478,7 @@ The General Partner shall maintain complete and accurate books and records for t
 
 ### 12.4 Bank Accounts
 
-Each series shall maintain one or more segregated bank accounts at FDIC-insured financial institutions. Series funds shall not be commingled with the funds of any other series, the master LLC, or the General Partner.
+The Company shall maintain one or more bank accounts at FDIC-insured financial institutions. Company funds shall not be commingled with the funds of the Manager or any member.
 
 ---
 
@@ -456,9 +486,9 @@ Each series shall maintain one or more segregated bank accounts at FDIC-insured 
 
 ### 13.1 Quarterly Reports
 
-Within 45 days of the end of each fiscal quarter, the General Partner shall deliver to each LP:
+Within 45 days of the end of each fiscal quarter, the Manager shall deliver to each Class A unitholder:
 
-- Unaudited financial statements for the applicable series (balance sheet, income statement, cash flow statement)
+- Unaudited financial statements (balance sheet, income statement, cash flow statement)
 - Capital account statement showing beginning balance, contributions, allocations, distributions, and ending balance
 - Development progress report (including construction milestones, budget vs. actual, and timeline updates)
 - Market update (relevant market conditions, comparable transactions, regulatory developments)
@@ -466,19 +496,19 @@ Within 45 days of the end of each fiscal quarter, the General Partner shall deli
 
 ### 13.2 Annual Reports
 
-Within 90 days of the end of each fiscal year, the General Partner shall deliver to each LP:
+Within 90 days of the end of each fiscal year, the Manager shall deliver to each Class A unitholder:
 
 - Audited financial statements prepared by an independent CPA firm in accordance with GAAP
 - Annual K-1 tax packages (target delivery: March 15; deadline per applicable extensions)
-- Annual valuation report for assets held by each series
+- Annual valuation report for Company assets
 - Insurance coverage summary
 - Regulatory compliance summary
-- GP compensation and affiliated party transaction disclosure
+- Manager compensation and affiliated party transaction disclosure
 
 ### 13.3 Ad Hoc Reporting
 
-The General Partner shall promptly notify LPs of:
-- Material adverse events affecting the Company or any series
+The Manager shall promptly notify Class A unitholders of:
+- Material adverse events affecting the Company
 - Litigation or threatened litigation with potential exposure exceeding $250,000
 - Environmental incidents or regulatory actions
 - Material changes to the development plan, timeline, or budget
@@ -488,26 +518,26 @@ The General Partner shall promptly notify LPs of:
 
 ## 14. Amendment Procedures
 
-### 14.1 Amendments Requiring LP Consent
+### 14.1 Amendments Requiring Class A Consent
 
-The following amendments to the Operating Agreement require the affirmative vote or written consent of LPs holding a majority-in-interest (greater than 50%) of outstanding LP interests:
+The following amendments to the Operating Agreement require the affirmative vote or written consent of Class A unitholders holding a majority-in-interest (greater than 50%) of outstanding Class A Units:
 
 - Changes to the distribution waterfall or preferred return
-- Increases in management fees or GP compensation
-- Changes to LP voting rights or consent requirements
+- Increases in management fees or Manager compensation
+- Changes to Class A voting rights or consent requirements
 - Modifications to transfer restrictions
 - Changes to the dissolution or wind-down provisions
-- Any amendment that materially adversely affects the economic rights of the LPs
+- Any amendment that materially adversely affects the economic rights of Class A unitholders
 
-### 14.2 Amendments by GP Without LP Consent
+### 14.2 Amendments by Manager Without Class A Consent
 
-The General Partner may amend the Operating Agreement without LP consent to:
+The Manager may amend the Operating Agreement without Class A consent to:
 
 - Reflect the admission or withdrawal of members in accordance with the Operating Agreement
 - Correct typographical or ministerial errors
 - Comply with applicable law or regulatory requirements
 - Reflect changes to the name or address of the Company or any member
-- Make changes that do not materially adversely affect the rights of the LPs
+- Make changes that do not materially adversely affect the rights of Class A unitholders
 
 ### 14.3 Amendment Process
 
@@ -519,19 +549,17 @@ All amendments shall be in writing, signed by the requisite parties, and distrib
 
 The following documents are incorporated by reference and available in the Data Room:
 
-- **Exhibit A:** Certificate of Formation (Texas Secretary of State)
+- **Exhibit A:** Certificate of Formation (Delaware Secretary of State)
 - **Exhibit B:** Operating Agreement (including all amendments)
-- **Exhibit C:** Series Designation Agreements
-- **Exhibit D:** Subscription Agreement (template)
-- **Exhibit E:** Accredited Investor Questionnaire
-- **Exhibit F:** Form D Filing (SEC)
-- **Exhibit G:** Texas Notice Filing Confirmation
-- **Exhibit H:** Insurance Certificates
-- **Exhibit I:** GP Management Agreement
-- **Exhibit J:** Affiliated Entity Service Agreements
+- **Exhibit C:** Subscription Agreement (template)
+- **Exhibit D:** Accredited Investor Questionnaire
+- **Exhibit E:** Form D Filing (SEC)
+- **Exhibit F:** State Notice Filing Confirmations
+- **Exhibit G:** Insurance Certificates
+- **Exhibit H:** Manager Compensation Agreement
 
 ---
 
 *This document is provided for informational purposes to prospective investors and does not constitute an offer to sell or a solicitation of an offer to buy securities. Any such offer may only be made pursuant to the Confidential Private Placement Memorandum and related subscription documents. Securities are offered exclusively to accredited investors under Regulation D, Rule 506(c).*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC. All rights reserved.*

@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Site Assessment & Due Diligence Report
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -500,4 +499,4 @@ The property falls within ASCE 7 Seismic Design Category A (very low seismic ris
 
 *End of Document 10 — Site Assessment & Due Diligence Report*
 
-*Abundancia Austin Holdings, LLC — Confidential*
+*Abundancia Community LLC, a Delaware LLC — Confidential*

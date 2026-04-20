@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Private Placement Memorandum
@@ -12,11 +11,11 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
-> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. This Private Placement Memorandum ("PPM") does not constitute an offer to sell or a solicitation of an offer to buy securities in any jurisdiction where such offer or solicitation would be unlawful. Securities offered hereby have not been registered under the Securities Act of 1933, as amended (the "Securities Act"), or any state securities laws, and are being offered in reliance upon exemptions from the registration requirements of the Securities Act and applicable state securities laws. These securities may not be resold unless registered under the Securities Act and applicable state securities laws or unless an exemption from such registration is available.*
+> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Community LLC, a Delaware LLC. This Private Placement Memorandum ("PPM") does not constitute an offer to sell or a solicitation of an offer to buy securities in any jurisdiction where such offer or solicitation would be unlawful. Securities offered hereby have not been registered under the Securities Act of 1933, as amended (the "Securities Act"), or any state securities laws, and are being offered in reliance upon exemptions from the registration requirements of the Securities Act and applicable state securities laws. These securities may not be resold unless registered under the Securities Act and applicable state securities laws or unless an exemption from such registration is available.*
 
 ---
 
@@ -41,7 +40,7 @@
 
 ## IMPORTANT NOTICES
 
-**NO OFFERING IS BEING MADE HEREBY.** This Private Placement Memorandum is furnished on a confidential basis to a limited number of accredited investors for the sole purpose of evaluating a potential investment in Abundancia Austin Holdings, LLC (the "Company"). This document is not intended to be, and should not be construed as, an offer to sell or a solicitation of an offer to buy any security.
+**NO OFFERING IS BEING MADE HEREBY.** This Private Placement Memorandum is furnished on a confidential basis to a limited number of accredited investors for the sole purpose of evaluating a potential investment in Abundancia Community LLC, a Delaware LLC (the "Company"). This document is not intended to be, and should not be construed as, an offer to sell or a solicitation of an offer to buy any security.
 
 **ACCREDITED INVESTORS ONLY.** The securities described herein are being offered exclusively to "accredited investors" as defined in Rule 501 of Regulation D under the Securities Act of 1933, as amended. Verification of accredited investor status will be required prior to acceptance of any subscription.
 
@@ -61,8 +60,8 @@ The following is a summary of the material terms of the offering. This summary i
 
 | Term | Detail |
 |---|---|
-| **Issuer** | Abundancia Austin Holdings, LLC |
-| **Entity Type** | Texas Series Limited Liability Company |
+| **Issuer** | Abundancia Community LLC, a Delaware LLC |
+| **Entity Type** | Delaware Limited Liability Company |
 | **Structure** | Limited Partnership (GP/LP) — Manager-Managed |
 | **Securities Offered** | Class A Limited Partnership Interests ("Units") |
 | **Exemption** | Regulation D, Rule 506(c) under the Securities Act |
@@ -73,7 +72,7 @@ The following is a summary of the material terms of the offering. This summary i
 | **Minimum Investment** | $50,000 (1 Unit) |
 | **Maximum Number of Units** | 250 Units |
 | **Investor Qualification** | Accredited Investors Only (verified per Rule 506(c)) |
-| **General Partner** | Abundancia Austin GP, LLC |
+| **General Partner** | the Manager |
 | **General Partner Interest** | 20% Carried Interest (subject to waterfall) |
 | **Limited Partner Interest** | 80% (pro rata among all LP investors) |
 | **Preferred Return** | 8% cumulative, compounded annually |
@@ -104,10 +103,10 @@ The following is a summary of the material terms of the offering. This summary i
 ### 1.3 Entity Structure
 
 ```
-Abundancia Austin Holdings, LLC
-(Texas Series LLC — Master Entity)
+Abundancia Community LLC, a Delaware LLC
+(Delaware LLC — Master Entity)
 │
-├── Abundancia Austin GP, LLC (General Partner — 20% Carried Interest)
+├── the Manager (General Partner — 20% Carried Interest)
 │   └── Managed by Nicholas Courchesne and Jason Sparks
 │
 ├── Class A Limited Partners (80% — Investor Units)
@@ -129,7 +128,7 @@ Abundancia Austin Holdings, LLC
     └── Retreat center operations
 ```
 
-The Texas Series LLC structure allows each development component to operate as a separate series with liability segregation, while maintaining a single operating entity for management efficiency and investor simplicity.
+The Delaware LLC structure allows each development component to operate as a separate series with liability segregation, while maintaining a single operating entity for management efficiency and investor simplicity.
 
 ---
 
@@ -181,7 +180,7 @@ The Manager reserves the right, in its sole and absolute discretion, to reject a
 
 ### 3.1 Formation and Purpose
 
-Abundancia Austin Holdings, LLC (the "Company") is a Texas Series Limited Liability Company formed under the Texas Business Organizations Code for the purpose of acquiring, developing, and operating a 376-acre regenerative master-planned community in Cedar Creek, Bastrop County, Texas.
+Abundancia Community LLC, a Delaware LLC (the "Company") is a Delaware Limited Liability Company formed under the Delaware Limited Liability Company Act (DLLCA) for the purpose of acquiring, developing, and operating a 376-acre regenerative master-planned community in Cedar Creek, Bastrop County, Texas.
 
 ### 3.2 Business Objectives
 
@@ -371,7 +370,7 @@ Beyond the initial equity raise, the Company anticipates utilizing the following
 
 ### 6.1 General Partner
 
-Abundancia Austin GP, LLC (the "General Partner" or "Manager") is a Texas limited liability company formed for the purpose of serving as the managing member and general partner of the Company. The General Partner is owned and controlled by Nicholas Courchesne and Jason Sparks.
+the Manager (the "General Partner" or "Manager") is a Delaware limited liability company formed for the purpose of serving as the managing member and general partner of the Company. The General Partner is owned and controlled by Nicholas Courchesne and Jason Sparks.
 
 The General Partner has sole authority and responsibility for the management and operation of the Company, including but not limited to:
 
@@ -388,7 +387,7 @@ The General Partner has sole authority and responsibility for the management and
 
 **Nicholas Courchesne — Founder & Chief Executive Officer**
 
-Mr. Courchesne is the founder and visionary behind Abundancia Austin. He conceived the regenerative community concept and has led all aspects of project development including site identification, community design philosophy, and capital formation strategy. Mr. Courchesne brings deep expertise in sustainable community design, regenerative agriculture systems, and mission-driven real estate development. He maintains an extensive network in the Austin development, sustainability, and investment communities.
+Mr. Courchesne is the founder and visionary behind Abundancia Community. He conceived the regenerative community concept and has led all aspects of project development including site identification, community design philosophy, and capital formation strategy. Mr. Courchesne brings deep expertise in sustainable community design, regenerative agriculture systems, and mission-driven real estate development. He maintains an extensive network in the Austin development, sustainability, and investment communities.
 
 *Role: Overall strategic direction, capital formation, community vision, external relationships*
 
@@ -839,7 +838,7 @@ The following exhibits are incorporated by reference into this Private Placement
 
 [Date]
 
-Abundancia Austin Holdings, LLC
+Abundancia Community LLC, a Delaware LLC
 [Address]
 Austin, Texas
 
@@ -864,4 +863,4 @@ Sincerely,
 
 *This Private Placement Memorandum is provided for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful. Securities offered hereby have not been registered under the Securities Act of 1933 or any state securities laws and may not be resold unless registered or exempt from registration. An investment in the Company involves a high degree of risk, including the potential for total loss of invested capital. Prospective investors should consult their own legal, tax, and financial advisors before making any investment decision.*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC, a Delaware LLC. All rights reserved.*

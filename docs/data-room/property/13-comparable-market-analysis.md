@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Comparable Market Analysis
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -212,7 +211,7 @@
 
 | Development | Acres | Units | Conservation % | Price Range | Absorption | Premium |
 |-------------|-------|-------|---------------|-------------|------------|---------|
-| **Abundancia Austin** | **376** | **420+** | **70-75%** | **$125K-850K** | **60-90/yr (proj.)** | **15-30% (proj.)** |
+| **Abundancia Community** | **376** | **420+** | **70-75%** | **$125K-850K** | **60-90/yr (proj.)** | **15-30% (proj.)** |
 | Whisper Valley | 2,062 | 7,500 | 15-20% | $290K-550K | 400/yr | 5-10% |
 | Colony Park | 208 | 2,200 | 10-15% | $250K-600K | TBD | N/A (mixed-income) |
 | Cosmos Ranch | 135 | 40-60 | 40-50% | $200K-400K | 8-12/yr | 10-15% |
@@ -541,4 +540,4 @@
 
 *End of Document 13 — Comparable Market Analysis*
 
-*Abundancia Austin Holdings, LLC — Confidential*
+*Abundancia Community LLC, a Delaware LLC — Confidential*
