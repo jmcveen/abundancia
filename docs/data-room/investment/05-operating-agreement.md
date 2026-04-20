@@ -79,29 +79,29 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements set fort
 
 ### Section 1.1 — Formation
 
-The Company has been organized as a Delaware Limited Liability Company pursuant to the provisions of the DLLCA by the filing of a Certificate of Formation with the Texas Secretary of State. The rights and obligations of the Members shall be as provided in the DLLCA, except as otherwise expressly provided herein. To the extent that the provisions of this Agreement are inconsistent with the non-mandatory provisions of the DLLCA, this Agreement shall control.
+The Company has been organized as a Delaware Limited Liability Company pursuant to the provisions of the DLLCA by the filing of a Certificate of Formation with the Delaware Secretary of State on January 19, 2022. The rights and obligations of the Members shall be as provided in the DLLCA, except as otherwise expressly provided herein. To the extent that the provisions of this Agreement are inconsistent with the non-mandatory provisions of the DLLCA, this Agreement shall control.
 
 ### Section 1.2 — Name
 
 The name of the Company is "Abundancia Community LLC, a Delaware LLC." The Company's business shall be conducted under such name or under such other names as the Manager may from time to time designate, subject to compliance with applicable law.
 
-### Section 1.3 — Series LLC Structure
+### Section 1.3 — Unit Classes
 
-(a) The Company is organized as a Series LLC under the DLLCA, Section 101.601 et seq. The Manager is authorized to establish one or more separate series (each a "Series") within the Company, each of which may have separate assets, liabilities, members, and purposes.
+The Company is organized as a single-entity Delaware LLC with two classes of membership units:
 
-(b) The following Series are hereby established:
+**(a) Class A Units (LP Investors).** Class A Units are issued to investors who contribute capital to the Company. Class A Unit holders receive:
+- Return of contributed capital
+- Preferred return as set forth in the waterfall provisions of this Agreement
+- A pro-rata share of distributable profits
 
-| Series | Purpose | Assets |
-|---|---|---|
-| **Series A — Land Holdings** | Hold title to the 376-acre property and undeveloped land | Real property, mineral rights, easements |
-| **Series B — Residential Development** | Develop, construct, and sell residential units and lots | Construction contracts, inventory, receivables |
-| **Series C — Rental Portfolio** | Own and operate retained rental units | Rental properties, leases, operating accounts |
-| **Series D — Commercial Operations** | Own and operate commercial spaces in the village center | Commercial leases, tenant improvements, operating accounts |
-| **Series E — Retreat & Events** | Own and operate the retreat center and event programming | Retreat center property, event contracts, operating accounts |
+Class A Unit holders have limited voting rights, restricted to the following major decisions: (i) sale or disposition of all or substantially all of the Company's real property; (ii) refinancing of senior debt in excess of thresholds set forth herein; and (iii) material deviations from the approved project budget or business plan.
 
-(c) The debts, liabilities, obligations, and expenses incurred, contracted for, or otherwise existing with respect to a particular Series shall be enforceable only against the assets of such Series, and not against the assets of the Company generally or any other Series, to the fullest extent permitted by the DLLCA.
+**(b) Class B Units (GP / Manager).** Class B Units are issued to the Manager in recognition of contributions of vision, deal sourcing, execution, and brand and ecosystem development. Class B Unit holders receive:
+- A promote (carried interest / profit share) as set forth in the waterfall provisions of this Agreement
+- Management fees as may be approved by the Manager from time to time
+- Full management control of the Company and the Project
 
-(d) The Manager has sole authority to create additional Series, allocate assets and liabilities among Series, and dissolve or merge Series, in each case without the consent of the Limited Partners.
+The Manager holds all Class B Units and has sole authority to manage the day-to-day operations of the Company, make investment and development decisions, and take all actions on behalf of the Company except those requiring Class A Unit holder approval as set forth above.
 
 ### Section 1.4 — Principal Office
 

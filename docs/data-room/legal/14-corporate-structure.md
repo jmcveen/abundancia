@@ -51,7 +51,7 @@ Abundancia Community LLC, a Delaware LLC ("the Company") is organized as a Delaw
 | **Legal Name** | Abundancia Community LLC |
 | **Jurisdiction** | State of Delaware |
 | **Entity Type** | Limited Liability Company |
-| **Formation Date** | [Formation Date] |
+| **Formation Date** | January 19, 2022 |
 | **SOS Filing Number** | [Filing Number] |
 | **Registered Agent** | Delaware Registered Agent Service LLC |
 | **Principal Office** | [Office Address] |

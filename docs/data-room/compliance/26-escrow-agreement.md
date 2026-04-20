@@ -662,7 +662,7 @@ Any costs associated with the preparation and filing of tax reports (including I
 
 The Company represents and warrants to the Escrow Agent as follows:
 
-1. **Organization and Good Standing.** The Company is a limited liability company duly organized, validly existing, and in good standing under the laws of the State of Texas
+1. **Organization and Good Standing.** The Company is a limited liability company duly organized, validly existing, and in good standing under the laws of the State of Delaware
 
 2. **Authority.** The Company has full power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery of this Agreement has been duly authorized by all necessary action of the Managing Member
 

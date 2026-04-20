@@ -45,7 +45,7 @@
 | **Entity Name** | Abundancia Community LLC, a Delaware LLC |
 | **Entity Type** | Delaware Limited Liability Company |
 | **Formation State** | Delaware |
-| **Formation Date** | 2026 |
+| **Formation Date** | January 19, 2022 |
 | **Governing Law** | Delaware Limited Liability Company Act (DLLCA) |
 | **Tax Treatment** | Partnership (pass-through); no entity-level tax |
 | **Fiscal Year** | Calendar year (January 1 - December 31) |

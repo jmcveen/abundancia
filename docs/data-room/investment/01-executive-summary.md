@@ -57,7 +57,7 @@ Abundancia Community LLC, a Delaware LLC is organized as a Delaware Limited Liab
 | **Management** | Manager-Managed (GP/LP Structure) |
 | **Tax Treatment** | Partnership (Pass-Through) |
 | **Registered Agent** | Delaware Registered Agent Service LLC |
-| **Formation Date** | 2025 |
+| **Formation Date** | January 19, 2022 |
 | **Principal Office** | Austin, Texas |
 
 ### 1.4 The Opportunity in Brief

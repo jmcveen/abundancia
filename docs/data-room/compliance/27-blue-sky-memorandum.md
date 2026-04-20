@@ -303,7 +303,7 @@ Most states accept electronic notice filings through one or both of the followin
 
 ### 6.1 Texas Securities Act
 
-The Company is organized in Texas and the Project is located in Bastrop County, Texas. Texas securities law is governed by The Securities Act (Tex. Gov't Code Ch. 4001-4008, effective January 1, 2022, formerly Tex. Rev. Civ. Stat. Ann. art. 581) and the rules adopted by the Texas State Securities Board.
+The Company is organized in Delaware and the Project is located in Bastrop County, Texas. Texas securities law is governed by The Securities Act (Tex. Gov't Code Ch. 4001-4008, effective January 1, 2022, formerly Tex. Rev. Civ. Stat. Ann. art. 581) and the rules adopted by the Texas State Securities Board.
 
 ### 6.2 Notice Filing Requirements
 
