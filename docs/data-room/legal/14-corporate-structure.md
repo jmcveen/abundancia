@@ -54,7 +54,7 @@ Abundancia Community LLC, a Delaware LLC ("the Company") is organized as a Delaw
 | **Formation Date** | January 19, 2022 |
 | **SOS Filing Number** | [Filing Number] |
 | **Registered Agent** | Delaware Registered Agent Service LLC |
-| **Principal Office** | [Office Address] |
+| **Principal Office** | 8 The Green, Suite D, Dover, Delaware 19901 |
 | **Tax Classification** | Partnership (IRS Form 1065) |
 | **Fiscal Year** | Calendar Year (January 1 - December 31) |
 

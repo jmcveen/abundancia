@@ -839,8 +839,8 @@ The following exhibits are incorporated by reference into this Private Placement
 [Date]
 
 Abundancia Community LLC, a Delaware LLC
-[Address]
-Austin, Texas
+8 The Green, Suite D
+Dover, Delaware 19901
 
 Re: Accredited Investor Verification — [Investor Name]
 

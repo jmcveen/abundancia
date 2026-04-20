@@ -105,7 +105,7 @@ The Manager holds all Class B Units and has sole authority to manage the day-to-
 
 ### Section 1.4 — Principal Office
 
-The principal office of the Company shall be located in Austin, Texas, or at such other location as the Manager may from time to time designate. The Company may maintain additional offices at such places as the Manager deems necessary or appropriate.
+The principal office of the Company shall be located at 8 The Green, Suite D, Dover, Delaware 19901, or at such other location as the Manager may from time to time designate. The Company may maintain additional offices at such places as the Manager deems necessary or appropriate.
 
 ### Section 1.5 — Registered Agent and Office
 
