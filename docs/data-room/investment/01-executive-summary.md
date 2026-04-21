@@ -181,19 +181,18 @@ The 376-acre site presents a diverse topography well-suited to the planned devel
 
 The 376 acres are allocated across the following program areas:
 
-| Land Use Category | Approximate Acreage | Percentage |
+| Land Use Category | Acreage | Percentage |
 |---|---|---|
-| **Single-Family Residential** | 80 acres | 21% |
-| **Tiny Home Village** | 15 acres | 4% |
-| **Dome Community** | 18 acres | 5% |
-| **Multifamily Housing** | 40 acres | 11% |
-| **Finished Lots (For Sale)** | 60 acres | 16% |
-| **Rental Community** | 20 acres | 5% |
-| **Commercial / Village Center** | 10 acres | 3% |
-| **Retreat & Event Center** | 15 acres | 4% |
-| **Regenerative Agriculture** | 50 acres | 13% |
-| **Conservation / Open Space** | 40 acres | 11% |
-| **Infrastructure / Roads** | 28 acres | 7% |
+| **Preserved Land** | 184.5 acres | 49.1% |
+| **Regenerative Agriculture** | 42 acres | 11.2% |
+| **Permaculture Gardens & Barns** | 8.5 acres | 2.3% |
+| **SFR Residential** | 61 acres | 16.2% |
+| **Residential — Tiny Homes & Domes** | 16 acres | 4.3% |
+| **STRs — Tiny Homes, Domes** | 25 acres | 6.6% |
+| **STRs — Unique Regenerative Stays** | 8 acres | 2.1% |
+| **Commercial** | 9 acres | 2.4% |
+| **Event & Healing Center** | 12 acres | 3.2% |
+| **Roads** | 10 acres | 2.7% |
 | **Total** | **376 acres** | **100%** |
 
 ### 3.5 Infrastructure Strategy
