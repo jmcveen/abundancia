@@ -131,6 +131,18 @@ const CORE_TEAM = [
     linkedIn: '',
   },
   {
+    name: 'Amanda William',
+    photo: '/images/team/amanda-william.jpg',
+    role: 'Wellness & Functional Programs',
+    bio: 'Leads the vision and development of Abundancia\'s wellness and functional health experiences. Brings expertise in program design, operations, hospitality, and high-touch guest journeys. Oversees retreats, recovery offerings, biohacking experiences, and strategic wellness partnerships across the project.',
+    expertise: ['Wellness Programming', 'Retreat Operations', 'Biohacking & Recovery', 'Hospitality Design'],
+    achievements: [
+      'Leads design and operations of Abundancia\'s full wellness and functional health experience portfolio',
+      'Drives strategic wellness partnerships and high-touch guest journey development',
+    ],
+    linkedIn: '',
+  },
+  {
     name: 'Fred Haas PE',
     photo: '/images/team/fred-haas.png',
     role: 'Civil Engineer',
