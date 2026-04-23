@@ -134,6 +134,7 @@ const CORE_TEAM = [
     name: 'Amanda William',
     photo: '/images/team/amanda-william.jpg',
     role: 'Wellness & Functional Programs',
+    shortBio: 'Leads Abundancia\'s wellness and functional health experiences. Brings expertise in program design, hospitality, and high-touch guest journeys.',
     bio: 'Leads the vision and development of Abundancia\'s wellness and functional health experiences. Brings expertise in program design, operations, hospitality, and high-touch guest journeys. Oversees retreats, recovery offerings, biohacking experiences, and strategic wellness partnerships across the project.',
     expertise: ['Wellness Programming', 'Retreat Operations', 'Biohacking & Recovery', 'Hospitality Design'],
     achievements: [
@@ -353,7 +354,7 @@ export default function TeamPage() {
                   </h3>
                   <p className="font-accent text-xs text-primary-600 mb-3">{member.role}</p>
                   <p className="text-sm text-neutral-600 leading-relaxed">
-                    {member.bio}
+                    {'shortBio' in member ? member.shortBio : member.bio}
                   </p>
                   <div className="mt-3 flex flex-wrap gap-1.5">
                     {member.expertise.slice(0, 2).map((tag) => (
