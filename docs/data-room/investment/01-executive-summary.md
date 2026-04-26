@@ -224,36 +224,39 @@ Abundancia Austin will employ a phased infrastructure strategy leveraging Munici
 
 ### 4.2 Return Projections
 
-| Metric | Conservative | Base Case | Aggressive |
+| Metric | Conservative | Base Case | Optimistic |
 |---|---|---|---|
-| **Internal Rate of Return (IRR)** | 24.8% | 37.1% | 48.6% |
-| **Equity Multiple (EMx)** | 2.94x | 4.42x | 6.18x |
-| **10-Year Total Revenue** | $326M | $435M | $567M |
-| **Cash-on-Cash (Stabilized)** | 14.2% | 19.8% | 26.3% |
-| **Payback Period** | 4.2 years | 3.1 years | 2.4 years |
+| **LP Internal Rate of Return (IRR)** | 26% | 34% | 47% |
+| **LP Equity Multiple (EMx)** | 2.6x | 3.83x | 4.6x |
+| **10-Year Total Revenue** | $316.9M | $387.7M | $469.9M |
+| **10-Year EBITDA** | $60.9M | $86.9M | $121.7M |
+| **Payback Period** | 4.5 years | 3.5 years | 2.8 years |
+
+*Source: Simple Pro Forma, Abundancia Austin Financial Model (updated April 2026). LP IRR computed at Year 10 on LP cash flows.*
 
 ### 4.3 Revenue Summary (Base Case — 10-Year Horizon)
 
 | Revenue Stream | 10-Year Revenue | % of Total |
 |---|---|---|
-| **Residential Sales** | $362,000,000 | 83.2% |
-| **Rental Income** | $43,600,000 | 10.0% |
-| **Lot Sales** | $15,400,000 | 3.5% |
-| **Commercial Revenue** | $7,800,000 | 1.8% |
-| **Retreat & Events** | $6,300,000 | 1.5% |
-| **Total** | **$435,100,000** | **100.0%** |
+| **Residential Sales** | $320,887,072 | 82.8% |
+| **Rental Income** | $43,588,445 | 11.2% |
+| **Lot Sales** | $15,386,709 | 4.0% |
+| **Commercial Leasing** | $7,837,474 | 2.0% |
+| **Total** | **$387,699,700** | **100.0%** |
+
+*Note: Retreat/event revenue (Event House + Special Rentals) is included within the Rental Income line.*
 
 ### 4.4 Key Financial Metrics
 
 | Metric | Value |
 |---|---|
-| **Gross Development Value (GDV)** | $435,100,000 |
-| **Total Development Cost (Est.)** | $267,000,000 |
-| **Gross Margin** | 38.6% |
-| **Net Operating Margin (Stabilized)** | 28.4% |
-| **Preferred Return** | 8% cumulative, compounded annually |
+| **Gross Development Value (GDV)** | $387,699,700 |
+| **Total Development Cost (Est.)** | $275,246,025 |
+| **Gross Margin** | ~29% |
+| **10-Year EBITDA** | $86,894,342 |
 | **Distribution Waterfall** | 4-tier (80/20 → 70/30 → 60/40 → 50/50) |
-| **GP Promote** | Above 8% preferred, per waterfall schedule |
+| **Waterfall IRR Hurdles** | Tier 2: 12% LP IRR · Tier 3: 15% · Tier 4: 18% |
+| **Capital Raise** | $12,500,000 |
 
 ### 4.5 Development Timeline
 
@@ -303,17 +306,18 @@ The company has assembled an advisory board comprising experts in regenerative a
 
 ### 6.1 Unit Mix
 
-The Abundancia Austin development program encompasses 680 residential units across six distinct product types, designed to serve a range of buyer demographics and price points.
+The Abundancia Austin development program encompasses 665 structures across seven distinct product types, designed to serve a range of buyer demographics and price points.
 
-| Product Type | Units | Avg. Price/Unit | Total Revenue | Avg. Sq. Ft. | Description |
+| Product Type | Units | Avg. Price/Unit | For-Sale Revenue | Avg. Sq. Ft. | Description |
 |---|---|---|---|---|---|
-| **Single-Family Homes** | 100 | $625,000 | $62,500,000 | 1,800-2,400 | Hempcrete construction, solar-ready, regenerative landscaping, community-integrated design |
-| **Tiny Homes** | 30 | $200,000 | $6,000,000 | 400-600 | Minimalist living, hempcrete/timber hybrid, shared amenity access, ideal for remote workers and minimalists |
-| **Geodesic Domes** | 30 | $225,000 | $6,750,000 | 500-800 | Iconic dome architecture, hempcrete-insulated, energy-efficient design, strong visual identity for the community |
-| **Multifamily Units** | 260 | $408,000 | $106,080,000 | 800-1,200 | Apartment and townhome configurations, hempcrete construction, shared amenities, walkable village design |
-| **Finished Lots** | 200 | $350,000 | $70,000,000 | N/A (0.25-0.5 acre) | Fully improved lots with utilities, roads, and design guidelines — sold to custom builders or individual buyers |
-| **Rental Units** | 60 | N/A (rental) | N/A (see rental income) | 600-1,000 | Retained rental portfolio generating recurring income; mix of apartments and cottage rentals |
-| **Total** | **680** | — | **$251,330,000** | — | *Note: Total above reflects for-sale revenue only; rental, commercial, and retreat revenue shown separately* |
+| **Single-Family Homes** | 100 | $1,185,000 | $118,500,000 | ~2,475 avg | Hempcrete construction, solar-ready, regenerative landscaping; range from 1,000 SF cottages to 5,000 SF estates |
+| **Special Residential (Tiny / Dome)** | 60 | $141,520 | $8,491,200 | ~324 avg | Minimalist hempcrete micro-homes and geodesic dome structures; ideal for remote workers and minimalists |
+| **Multifamily (For Sale)** | 350 | $443,571 | $155,249,850 | ~986 avg | Condominium and townhome configurations, hempcrete construction, shared amenities, walkable village design |
+| **Rental Multifamily** | 75 | N/A (rental) | $11,000,000 (10-yr) | ~997 avg | Retained rental portfolio at ~$90/night avg nightly rate; stabilized by Year 3 |
+| **Special Rental** | 50 | N/A (rental) | $23,000,000 (10-yr) | ~236 avg | Premium short-term rental units at ~$200/night avg; resort-style amenity access |
+| **Event Center** | 1 | N/A (rental) | $9,000,000 (10-yr) | ~6,000 | Retreat & event venue at ~$4,000/night avg; corporate retreats, weddings, wellness programs |
+| **Finished Lots** | 100 | $250,000 | $25,000,000 | N/A (0.25-0.5 ac) | Fully improved lots with utilities, roads, and design guidelines — sold to custom builders or individual buyers |
+| **Total** | **736** | — | **$350,241,050** | — | *For-sale revenue shown for transactional units; rental units show 10-yr income. Total project revenue = $387.7M (base case)* |
 
 ### 6.2 Product Design Philosophy
 
@@ -368,55 +372,50 @@ Development is structured in five phases over a 10-year horizon, with each phase
 
 ## 7. Revenue Model
 
-### 7.1 Five Revenue Streams
+### 7.1 Four Revenue Streams
 
-Abundancia Austin generates revenue through five distinct and complementary streams, providing natural diversification across market cycles, buyer segments, and asset classes.
+Abundancia Austin generates revenue through four distinct and complementary streams, providing natural diversification across market cycles, buyer segments, and asset classes.
 
-#### Stream 1: Residential Sales — $362,000,000 (83.2% of total)
+*Source: Simple Pro Forma, Abundancia Austin Financial Model (updated April 2026). 10-year cumulative base case.*
 
-Residential sales comprise the primary revenue driver, encompassing single-family homes, tiny homes, geodesic domes, multifamily units, and for-sale condominiums. Revenue is recognized at closing as units are sold to end buyers.
+#### Stream 1: Residential Sales — $320,887,072 (82.8% of total)
 
-| Product | Units | Avg. Price | Gross Revenue | Est. Gross Margin |
+Residential sales comprise the primary revenue driver, encompassing single-family homes, special residential (tiny/dome), and multifamily for-sale condominiums. Revenue is concentrated in Years 3 and 5 as the primary sellout phases complete.
+
+| Product | Units | Avg. Price | Est. Gross Revenue | Est. Gross Margin |
 |---|---|---|---|---|
-| Single-Family | 100 | $625,000 | $62,500,000 | 35-40% |
-| Tiny Homes | 30 | $200,000 | $6,000,000 | 40-45% |
-| Geodesic Domes | 30 | $225,000 | $6,750,000 | 38-42% |
-| Multifamily (For Sale) | 260 | $408,000 | $106,080,000 | 32-38% |
-| Lot Premium in Residential | — | — | $180,670,000 | 45-55% |
-| **Total Residential** | — | — | **$362,000,000** | **36-42%** |
+| Single-Family Homes | 100 | $1,185,000 | $118,500,000 | 35-42% |
+| Special Residential (Tiny/Dome) | 60 | $141,520 | $8,491,200 | 38-44% |
+| Multifamily (For Sale) | 350 | $443,571 | $155,249,850 | 32-38% |
+| Price Escalation & Mix Premium | — | — | ~$38,646,022 | — |
+| **Total Residential** | **510** | — | **$320,887,072** | **34-40%** |
 
-#### Stream 2: Rental Income — $43,600,000 (10.0% of total)
+#### Stream 2: Rental Income — $43,588,445 (11.2% of total)
 
-A portfolio of 60 purpose-built rental units is retained as a permanent income-producing asset, generating recurring cash flow for investor distributions and long-term portfolio value.
-
-| Metric | Value |
-|---|---|
-| **Total Rental Units** | 60 |
-| **Average Monthly Rent** | $1,850 |
-| **Annual Gross Rental Revenue (Stabilized)** | $1,332,000 |
-| **Occupancy Assumption** | 94% |
-| **Effective Gross Income** | $1,252,080 |
-| **Operating Expenses (35%)** | $438,228 |
-| **Net Operating Income** | $813,852 |
-| **10-Year Cumulative Revenue** | $43,600,000 |
-| **Cap Rate (Stabilized)** | 6.2% |
-
-*Note: Rental revenue includes annual rent escalations of 3-4% and accounts for lease-up periods in early phases.*
-
-#### Stream 3: Lot Sales — $15,400,000 (3.5% of total)
-
-Finished lots — fully improved with utilities, road access, and design guidelines — are sold to custom home builders and individual buyers seeking to build within the Abundancia community framework.
+The rental portfolio — comprising 75 rental multifamily units, 50 special rental cottages, and the Event Center — is retained as a permanent income-producing asset generating recurring cash flow. Retreat and event revenue is included in this stream.
 
 | Metric | Value |
 |---|---|
-| **Total Lots** | 200 |
-| **Average Lot Price** | $77,000 |
-| **10-Year Lot Sale Revenue** | $15,400,000 |
+| **Rental Multifamily Units** | 75 (~$90/night avg) |
+| **Special Rental Units** | 50 (~$200/night avg) |
+| **Event Center** | 1 (~$4,000/night avg) |
+| **10-Year Cumulative Rental Revenue** | $43,588,445 |
+| **Stabilized Annual Revenue (Year 6+)** | ~$5.0–6.1M/year |
+
+*Note: Rental revenue grows from ~$0.3M in Year 2 to ~$6.1M in Year 10 as units come online and occupancy stabilizes.*
+
+#### Stream 3: Lot Sales — $15,386,709 (4.0% of total)
+
+One hundred finished lots — fully improved with utilities, road access, and design guidelines — are sold to custom home builders and individual buyers seeking to build within the Abundancia community framework.
+
+| Metric | Value |
+|---|---|
+| **Total Lots** | 100 |
+| **Average Lot Price** | $250,000 |
+| **10-Year Lot Sale Revenue** | $15,386,709 |
 | **Gross Margin** | 55-65% |
 
-*Note: Lot prices reflect early-phase pricing; later phases command significant premium as community matures. Average lot sale price to individual buyers is $350,000 inclusive of improvements and community infrastructure allocation.*
-
-#### Stream 4: Commercial Revenue — $7,800,000 (1.8% of total)
+#### Stream 4: Commercial Leasing — $7,837,474 (2.0% of total)
 
 The village center includes commercial, retail, and co-working space leased to local businesses, food service operators, wellness practitioners, and community service providers.
 
@@ -424,38 +423,27 @@ The village center includes commercial, retail, and co-working space leased to l
 |---|---|
 | **Commercial Sq. Ft.** | ~25,000 |
 | **Average Lease Rate** | $28/sq. ft. NNN |
-| **Annual Gross Commercial Revenue (Stabilized)** | $700,000 |
+| **Annual Gross Commercial Revenue (Stabilized)** | ~$700,000 |
 | **Occupancy Assumption** | 88% |
-| **10-Year Cumulative Revenue** | $7,800,000 |
-
-#### Stream 5: Retreat & Events — $6,300,000 (1.5% of total)
-
-A purpose-built retreat center accommodating corporate retreats, wellness programs, workshops, weddings, and community events generates high-margin revenue and serves as a brand amplification engine.
-
-| Metric | Value |
-|---|---|
-| **Retreat Capacity** | 40-60 guests |
-| **Event Spaces** | 3 (indoor pavilion, outdoor amphitheater, workshop studio) |
-| **Average Event Revenue** | $8,500 |
-| **Annual Events (Stabilized)** | 85-100 |
-| **Annual Retreat/Event Revenue** | $765,000 |
-| **10-Year Cumulative Revenue** | $6,300,000 |
+| **10-Year Cumulative Revenue** | $7,837,474 |
 
 ### 7.2 Revenue Ramp
 
-| Year | Residential Sales | Rental Income | Lot Sales | Commercial | Retreat/Events | Total |
-|---|---|---|---|---|---|---|
-| 1 | $0 | $0 | $0 | $0 | $0 | $0 |
-| 2 | $18,750,000 | $420,000 | $770,000 | $0 | $0 | $19,940,000 |
-| 3 | $38,200,000 | $1,260,000 | $1,540,000 | $140,000 | $0 | $41,140,000 |
-| 4 | $52,100,000 | $2,520,000 | $2,310,000 | $420,000 | $315,000 | $57,665,000 |
-| 5 | $56,800,000 | $3,780,000 | $2,310,000 | $560,000 | $630,000 | $64,080,000 |
-| 6 | $52,400,000 | $4,620,000 | $2,310,000 | $700,000 | $765,000 | $60,795,000 |
-| 7 | $48,200,000 | $5,460,000 | $2,310,000 | $780,000 | $765,000 | $57,515,000 |
-| 8 | $40,100,000 | $6,300,000 | $1,540,000 | $850,000 | $765,000 | $49,555,000 |
-| 9 | $32,200,000 | $8,820,000 | $1,155,000 | $1,350,000 | $1,530,000 | $45,055,000 |
-| 10 | $23,250,000 | $10,420,000 | $1,155,000 | $3,000,000 | $1,530,000 | $39,355,000 |
-| **Total** | **$362,000,000** | **$43,600,000** | **$15,400,000** | **$7,800,000** | **$6,300,000** | **$435,100,000** |
+Annual totals are sourced directly from the Simple Pro Forma. Revenue concentrates in Years 3 and 5 (residential sellout phases); Years 6–10 reflect stabilized recurring rental and commercial income. Category breakdowns are approximate based on model stream proportions.
+
+| Year | Residential Sales | Rental Income | Lot Sales | Commercial | **Total** |
+|---|---|---|---|---|---|
+| 1 | $0 | $0 | $0 | $0 | **$0** |
+| 2 | $17,000,000 | $200,000 | $1,000,000 | $127,310 | **$18,327,310** |
+| 3 | $87,000,000 | $900,000 | $3,600,000 | $1,664,492 | **$93,164,492** |
+| 4 | $60,000,000 | $2,000,000 | $1,541,134 | $1,500,000 | **$65,041,134** |
+| 5 | $156,887,072 | $13,500,000 | $3,235,370 | $1,400,000 | **$175,022,442** |
+| 6 | $0 | $5,051,015 | $1,100,000 | $600,000 | **$6,751,015** |
+| 7 | $0 | $5,289,939 | $1,100,000 | $600,000 | **$6,989,939** |
+| 8 | $0 | $5,528,864 | $1,100,000 | $600,000 | **$7,228,864** |
+| 9 | $0 | $5,567,789 | $1,200,000 | $700,000 | **$7,467,789** |
+| 10 | $0 | $5,550,838 | $1,510,205 | $645,671 | **$7,706,714** |
+| **Total** | **$320,887,072** | **$43,588,445** | **$15,386,709** | **$7,837,473** | **$387,699,699** |
 
 ---
 
@@ -569,19 +557,18 @@ Abundancia Austin Holdings, LLC is raising **$12,500,000** in equity capital thr
 | **Minimum Investment** | $50,000 |
 | **Investor Type** | Accredited Investors Only (verified) |
 | **Security** | Class A Limited Partnership Interests |
-| **Preferred Return** | 8% cumulative, compounded annually |
-| **Distribution Waterfall** | 4-tier promote structure (see PPM for details) |
+| **Distribution Waterfall** | 4-tier: 80/20 (return of capital) → 70/30 (to 12% LP IRR) → 60/40 (to 15% LP IRR) → 50/50 (18%+ LP IRR) |
 | **Target Hold Period** | 7-10 years |
-| **Target IRR** | 37.1% (base case) |
-| **Target Equity Multiple** | 4.42x (base case) |
+| **Target IRR** | 34.19% (base case) |
+| **Target Equity Multiple** | 3.83x (base case) |
 | **Management Fee** | 1.5% of committed capital annually |
 | **Disposition Fee** | 1.0% of gross sale proceeds |
 
 ### 10.2 Investor Benefits
 
-- **Preferred Return**: 8% cumulative preferred return before any GP promote
+- **LP-Favorable Waterfall**: 80% to LP until principal returned; 70% to LP through 12% IRR; 60% to LP through 15% IRR; 50% thereafter
 - **Tax Efficiency**: Pass-through K-1 tax reporting; depreciation benefits; potential Opportunity Zone qualification
-- **Diversified Exposure**: Five revenue streams across residential, rental, commercial, lots, and retreat/events
+- **Diversified Exposure**: Four revenue streams across residential sales, rental income (incl. retreat/events), lot sales, and commercial leasing
 - **Tangible Asset**: Investment secured by 376 acres of Central Texas real estate with intrinsic land value
 - **Impact Alignment**: Verified carbon-negative development with measurable environmental and social impact metrics
 - **Transparency**: Quarterly investor reporting, annual audited financials, and 24/7 investor portal access

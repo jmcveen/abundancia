@@ -95,16 +95,17 @@ The Texas Series LLC structure provides asset isolation between development phas
 
 ### 2.2 Use of Proceeds
 
+*Source: Investor Deck slide 31. Total deployment: $12,473,002.*
+
 | Category | Amount | % of Raise | Deployment |
 |----------|--------|-----------|-----------|
-| Land Acquisition | $4,000,000 | 32.0% | Q1 Year 1 |
-| Hard Costs (Phase 1) | $1,750,000 | 14.0% | Q2-Q4 Year 1 |
-| Site Work & Infrastructure | $1,750,000 | 14.0% | Q1-Q3 Year 1 |
-| Master Planning & Entitlements | $1,375,000 | 11.0% | Q1-Q2 Year 1 |
-| Staffing & Operations | $750,000 | 6.0% | Q1 Y1 - Q2 Y2 |
-| Marketing & Pre-Sales | $625,000 | 5.0% | Q3 Y1 - Q4 Y2 |
-| Contingency & Reserves | $2,250,000 | 18.0% | As needed |
-| **Total** | **$12,500,000** | **100.0%** | |
+| Land Acquisition | $3,945,000 | 32% | Q1 Year 1 |
+| Hard Costs (Phase 1) | $1,798,304 | 14% | Q2-Q4 Year 1 |
+| Site Work & Infrastructure | $1,761,323 | 14% | Q1-Q3 Year 1 |
+| Master Planning & Architecture | $1,340,596 | 11% | Q1-Q2 Year 1 |
+| Staffing, Ops & Marketing | $1,400,771 | 11% | Q1 Y1 - Q2 Y2 |
+| Contingency & Carry Costs | $2,227,007 | 18% | As needed |
+| **Total** | **$12,473,001** | **100%** | |
 
 ---
 
@@ -122,15 +123,16 @@ The Texas Series LLC structure provides asset isolation between development phas
 
 ### 3.2 Effective Ownership Through Waterfall
 
-GP effective ownership increases as returns exceed waterfall thresholds:
+GP effective ownership increases as LP achieves higher IRR thresholds. Note: Tier 1 begins immediately at first distribution — the 80/20 split applies even during the return-of-capital phase, giving the LP an 80% priority advantage throughout.
 
-| Return Multiple | LP Effective Ownership | GP Effective Ownership |
-|----------------|----------------------|----------------------|
-| 0 - 1.0x (return of capital) | 100% | 0% |
-| 1.0x - 1.5x (preferred return tier) | 80% | 20% |
-| 1.5x - 2.0x | 70% | 30% |
-| 2.0x - 3.0x | 60% | 40% |
-| 3.0x+ | 50% | 50% |
+| Phase | LP IRR Range | LP Distribution Share | GP Distribution Share |
+|-------|-------------|----------------------|----------------------|
+| Tier 1 — Return of Capital | 0% to capital returned | 80% | 20% |
+| Tier 2 — First Promote | After capital returned → LP 12% IRR | 70% | 30% |
+| Tier 3 — Second Promote | LP 12% → LP 15% IRR | 60% | 40% |
+| Tier 4 — Full Promote | LP 15%+ IRR (18%+ continuing) | 50% | 50% |
+
+*The LP's strong early share (80%) in Tier 1 front-loads LP returns versus a standard 0% GP / 100% LP return-of-capital structure — meaning the GP earns alongside the LP from day one, while LPs retain priority through the waterfall tiers.*
 
 ### 3.3 LP Unit Allocation (Illustrative)
 
@@ -158,19 +160,19 @@ GP effective ownership increases as returns exceed waterfall thresholds:
 | **Unit Price** | $1,000 per unit |
 | **Total Units Offered** | 12,500 |
 | **Total Raise** | $12,500,000 |
-| **Minimum Investment** | $250,000 (250 units) |
-| **Preferred Return** | 8.0% cumulative, non-compounding |
-| **Priority** | Senior to all GP distributions |
+| **Minimum Investment** | $50,000 (50 units) |
+| **Distribution Waterfall** | 4-tier IRR-based (see Section 6) |
+| **LP Priority** | 80% of all distributions until principal returned (Tier 1) |
 | **Transferability** | Restricted; GP consent required; ROFR to existing LPs |
 | **Redemption** | No voluntary redemption; exit via distribution or secondary sale |
 | **Tax Treatment** | K-1 income/loss; depreciation pass-through |
-| **Accreditation** | Accredited investors only (Reg D, Rule 506(b) or 506(c)) |
+| **Accreditation** | Accredited investors only (Reg D, Rule 506(c)) |
 
 ### 4.2 LP Rights
 
 | Right | Description |
 |-------|------------|
-| **Preferred Return** | 8% cumulative preferred on unreturned capital |
+| **Distribution Priority** | 80% of all distributions in Tier 1 (return of capital); 70% through 12% LP IRR; 60% through 15% LP IRR; 50% thereafter |
 | **Information Rights** | Quarterly financial statements, annual audited financials, tax documents |
 | **Major Decision Consent** | Required for: sale of all assets, additional equity raises >10% dilutive, change of GP, leverage >75% LTV |
 | **LP Advisory Committee** | 3-member committee with quarterly meeting rights |
@@ -230,178 +232,142 @@ GP effective ownership increases as returns exceed waterfall thresholds:
 
 ### 6.1 Waterfall Structure
 
-Distributions follow a four-tier waterfall with increasing GP participation:
+Distributions follow a four-tier IRR-based waterfall. Unlike a simple EMx waterfall, tier transitions are determined by the LP's cumulative internal rate of return — meaning the timing of cash flows affects when each tier triggers.
 
-| Tier | Return Threshold | LP Share | GP Share | Description |
+*Source: Investor Deck slide 30 — Investment Opportunity Terms*
+
+| Tier | LP IRR Threshold | LP Share | GP Share | Description |
 |------|-----------------|---------|---------|-------------|
-| **Tier 1 — Return of Capital** | 0 to 1.0x | 100% | 0% | All distributions to LPs until 100% of contributed capital ($12.5M) is returned |
-| **Tier 2 — Preferred Return** | 1.0x to ~1.5x (8% pref) | 80% | 20% | 8% cumulative preferred return on unreturned capital; 80/20 split |
-| **Tier 3 — First Promote** | 1.5x to 2.0x | 70% | 30% | Profits split 70/30 until 2.0x equity multiple achieved |
-| **Tier 4 — Second Promote** | 2.0x to 3.0x | 60% | 40% | Profits split 60/40 until 3.0x equity multiple achieved |
-| **Tier 5 — Full Promote** | 3.0x+ | 50% | 50% | All profits above 3.0x split equally |
+| **Tier 1 — Return of Capital** | Until LP principal returned | 80% | 20% | Distributions split 80/20 until all LP contributed capital ($12.5M) is returned |
+| **Tier 2 — 12% LP IRR** | After Tier 1 until LP reaches 12% IRR | 70% | 30% | Profits split 70/30 until LP has earned 12% IRR on invested capital |
+| **Tier 3 — 15% LP IRR** | After LP reaches 12% IRR, until 15% IRR | 60% | 40% | Profits split 60/40 until LP has earned 15% IRR |
+| **Tier 4 — 18%+ LP IRR** | After LP reaches 15% IRR (continuing above 18%) | 50% | 50% | All profits split equally once LP has earned 15%+ IRR |
 
-### 6.2 Preferred Return Detail
+**Key distinction from a standard waterfall:** Tier 1 is 80/20 (not 100% LP), meaning the GP participates from the first dollar of distributions. This structure is LP-favorable in that it prioritizes capital return while allowing the GP to earn alongside the LP from inception.
 
-| Element | Specification |
-|---------|--------------|
-| Rate | 8.0% per annum |
-| Basis | Unreturned capital balance |
-| Accrual | Cumulative, non-compounding |
-| Payment priority | Senior to all GP promote distributions |
-| Catch-up | No GP catch-up provision; straight split at each tier |
-| Compounding | Simple (non-compounding) |
+### 6.2 Waterfall Tier Summary
+
+| Tier | Trigger | LP % | GP % | LP Advantage |
+|------|---------|------|------|-------------|
+| Tier 1 | Principal outstanding | 80% | 20% | Strong LP priority during recovery phase |
+| Tier 2 | Principal returned → 12% IRR | 70% | 30% | LP earns majority as IRR builds |
+| Tier 3 | 12% → 15% LP IRR | 60% | 40% | LP still majority share through mid-IRR |
+| Tier 4 | 15%+ LP IRR | 50% | 50% | Profit sharing above high-return threshold |
 
 ### 6.3 Waterfall Mechanics — Calculation Flow
 
 ```
-Step 1: Calculate total distributable cash for the period
-Step 2: Determine unreturned capital balance (initial $12.5M less prior returns)
-Step 3: Calculate accrued preferred return (8% x unreturned capital x time)
+Step 1: Calculate total distributable cash for the distribution period
+Step 2: Determine whether LP contributed capital has been fully returned
 
-Distribution Priority:
-  → First: Return unreturned capital to LPs (Tier 1: 100% to LP)
-  → Second: Pay accrued 8% preferred (Tier 2: 80% LP / 20% GP)
-  → Third: Distribute to 2.0x EMx (Tier 3: 70% LP / 30% GP)
-  → Fourth: Distribute to 3.0x EMx (Tier 4: 60% LP / 40% GP)
-  → Fifth: All remaining (Tier 5: 50% LP / 50% GP)
+Tier 1 (until LP capital returned):
+  → 80% of all distributions → LP
+  → 20% of all distributions → GP
+
+Tier 2 (after capital returned, until LP achieves 12% IRR):
+  → 70% of remaining distributions → LP
+  → 30% of remaining distributions → GP
+
+Tier 3 (after LP achieves 12% IRR, until LP achieves 15% IRR):
+  → 60% of remaining distributions → LP
+  → 40% of remaining distributions → GP
+
+Tier 4 (after LP achieves 15% IRR, continuing above 18%):
+  → 50% of remaining distributions → LP
+  → 50% of remaining distributions → GP
+
+Note: IRR thresholds are computed on LP's actual cash flows (contributions in,
+distributions out) using standard IRR methodology. Timing of distributions
+determines when each threshold is crossed.
 ```
 
 ---
 
 ## 7. Waterfall Modeling — Worked Examples
 
-### 7.1 At 1.0x Multiple ($12.5M Total Distributions)
+Because this waterfall is IRR-based (not EMx-based), the precise tier transition points depend on the *timing* of cash flows — not just the total amount distributed. The examples below illustrate the logic using the base case pro forma cash flows. For precise calculations by investment size, see the Waterfall Model Google Sheet.
 
-| Tier | Distributable | LP Receives | GP Receives | LP Cumulative | GP Cumulative |
-|------|-------------|------------|------------|--------------|--------------|
-| Tier 1 (Return of Capital) | $12,500,000 | $12,500,000 | $0 | $12,500,000 | $0 |
-| **Total** | **$12,500,000** | **$12,500,000** | **$0** | **$12,500,000** | **$0** |
+### 7.1 Conceptual Mechanics (4-Tier IRR Waterfall)
 
-| Summary | Amount | % of Total |
-|---------|--------|-----------|
-| LP Total | $12,500,000 | 100.0% |
-| GP Total | $0 | 0.0% |
-| LP EMx | 1.00x | |
-| GP Promote | $0 | |
+**How IRR-based tiers work:**
+1. The LP invests $12.5M on Day 1 (or in capital call tranches)
+2. Every dollar distributed first goes through Tier 1 (80/20) until the LP's contributed capital is fully returned
+3. Once principal is returned, the running LP IRR is calculated on the cash flow history
+4. When LP IRR crosses 12%, the tier shifts to Tier 3 (60/40)
+5. When LP IRR crosses 15%, the tier shifts to Tier 4 (50/50)
 
-### 7.2 At 2.0x Multiple ($25.0M Total Distributions)
+### 7.2 Base Case Distribution Summary (10-Year, $12.5M invested)
 
-| Tier | Distributable | LP Receives | GP Receives | LP Cumulative | GP Cumulative |
-|------|-------------|------------|------------|--------------|--------------|
-| Tier 1 (Return of Capital) | $12,500,000 | $12,500,000 | $0 | $12,500,000 | $0 |
-| Tier 2 (Pref: 80/20) | $6,250,000 (1) | $5,000,000 | $1,250,000 | $17,500,000 | $1,250,000 |
-| Tier 3 (70/30) | $6,250,000 | $4,375,000 | $1,875,000 | $21,875,000 | $3,125,000 |
-| **Total** | **$25,000,000** | **$21,875,000** | **$3,125,000** | | |
+*Source: Waterfall Model Google Sheet (linked in data room). Based on Simple Pro Forma EBITDA → distributable cash flow, with 70% payout ratio.*
 
-*(1) Tier 2 covers 1.0x to ~1.5x; the remaining distributions from 1.5x to 2.0x fall into Tier 3.*
+| Year | Distributable Cash | LP Tier | LP Receives | GP Receives | LP Cumulative | LP Running IRR |
+|------|-------------------|---------|------------|------------|--------------|---------------|
+| Y1 | $0 | T1 | $0 | $0 | $0 | n/a |
+| Y2 | ~$1.9M | T1 | ~$1.5M | ~$0.4M | ~$1.5M | n/a |
+| Y3 | ~$18.0M | T1→T2 | ~$14.4M | ~$3.6M | ~$15.9M | ~12%+ |
+| Y4 | ~$0.5M | T3 | ~$0.3M | ~$0.2M | ~$16.2M | ~15%+ |
+| Y5 | ~$31.6M | T4 | ~$15.8M | ~$15.8M | ~$32.0M | 18%+ |
+| Y6 | ~$3.0M | T4 | ~$1.5M | ~$1.5M | ~$33.5M | 25%+ |
+| Y7-Y10 | ~$15.1M | T4 | ~$7.6M | ~$7.6M | ~$41.1M | 34%+ |
+| **Total** | **~$70.1M** | | **~$41.1M** | **~$29.0M** | | **34.19%** |
 
-| Summary | Amount | % of Total |
-|---------|--------|-----------|
-| LP Total | $21,875,000 | 87.5% |
-| GP Total | $3,125,000 | 12.5% |
-| LP EMx | 1.75x | |
-| GP Promote | $3,125,000 | |
+*Note: The LP crosses all tier thresholds by Year 5 given the large Year 5 distribution ($175M revenue year). Year 3 is when principal return + 12% IRR threshold is crossed.*
 
-### 7.3 At 3.0x Multiple ($37.5M Total Distributions)
+### 7.3 LP Returns by Investment Size
 
-| Tier | Distributable | LP Receives | GP Receives | LP Cumulative | GP Cumulative |
-|------|-------------|------------|------------|--------------|--------------|
-| Tier 1 (Return of Capital) | $12,500,000 | $12,500,000 | $0 | $12,500,000 | $0 |
-| Tier 2 (80/20) | $6,250,000 | $5,000,000 | $1,250,000 | $17,500,000 | $1,250,000 |
-| Tier 3 (70/30) | $6,250,000 | $4,375,000 | $1,875,000 | $21,875,000 | $3,125,000 |
-| Tier 4 (60/40) | $12,500,000 | $7,500,000 | $5,000,000 | $29,375,000 | $8,125,000 |
-| **Total** | **$37,500,000** | **$29,375,000** | **$8,125,000** | | |
+| Investment | LP Total Returned (Base) | LP EMx (Base) | LP IRR (Base) | Capital Returned By |
+|-----------|------------------------|-------------|-------------|-------------------|
+| $50,000 | ~$191,500 | 3.83x | 34.19% | Year 3 |
+| $100,000 | ~$383,000 | 3.83x | 34.19% | Year 3 |
+| $250,000 | ~$957,500 | 3.83x | 34.19% | Year 3 |
+| $500,000 | ~$1,915,000 | 3.83x | 34.19% | Year 3 |
+| $1,000,000 | ~$3,830,000 | 3.83x | 34.19% | Year 3 |
+| $2,000,000 | ~$7,660,000 | 3.83x | 34.19% | Year 3 |
 
-| Summary | Amount | % of Total |
-|---------|--------|-----------|
-| LP Total | $29,375,000 | 78.3% |
-| GP Total | $8,125,000 | 21.7% |
-| LP EMx | 2.35x | |
-| GP Promote | $8,125,000 | |
+### 7.4 Waterfall Scenario Summary
 
-### 7.4 At 4.0x Multiple ($50.0M Total Distributions)
+| Scenario | Total Distributed | LP Receives | LP % | LP EMx | GP Receives | GP % |
+|----------|------------------|------------|------|--------|------------|------|
+| Conservative (26% LP IRR) | ~$47.8M | ~$32.5M | ~68% | 2.6x | ~$15.3M | ~32% |
+| Base (34.19% LP IRR) | ~$70.1M | ~$47.8M | ~68% | 3.83x | ~$22.3M | ~32% |
+| Optimistic (47% LP IRR) | ~$89.8M | ~$57.5M | ~64% | 4.6x | ~$32.3M | ~36% |
 
-| Tier | Distributable | LP Receives | GP Receives | LP Cumulative | GP Cumulative |
-|------|-------------|------------|------------|--------------|--------------|
-| Tier 1 (Return of Capital) | $12,500,000 | $12,500,000 | $0 | $12,500,000 | $0 |
-| Tier 2 (80/20) | $6,250,000 | $5,000,000 | $1,250,000 | $17,500,000 | $1,250,000 |
-| Tier 3 (70/30) | $6,250,000 | $4,375,000 | $1,875,000 | $21,875,000 | $3,125,000 |
-| Tier 4 (60/40) | $12,500,000 | $7,500,000 | $5,000,000 | $29,375,000 | $8,125,000 |
-| Tier 5 (50/50) | $12,500,000 | $6,250,000 | $6,250,000 | $35,625,000 | $14,375,000 |
-| **Total** | **$50,000,000** | **$35,625,000** | **$14,375,000** | | |
-
-| Summary | Amount | % of Total |
-|---------|--------|-----------|
-| LP Total | $35,625,000 | 71.3% |
-| GP Total | $14,375,000 | 28.8% |
-| LP EMx | 2.85x | |
-| GP Promote | $14,375,000 | |
-
-### 7.5 At 5.0x Multiple ($62.5M Total Distributions)
-
-| Tier | Distributable | LP Receives | GP Receives | LP Cumulative | GP Cumulative |
-|------|-------------|------------|------------|--------------|--------------|
-| Tier 1 (Return of Capital) | $12,500,000 | $12,500,000 | $0 | $12,500,000 | $0 |
-| Tier 2 (80/20) | $6,250,000 | $5,000,000 | $1,250,000 | $17,500,000 | $1,250,000 |
-| Tier 3 (70/30) | $6,250,000 | $4,375,000 | $1,875,000 | $21,875,000 | $3,125,000 |
-| Tier 4 (60/40) | $12,500,000 | $7,500,000 | $5,000,000 | $29,375,000 | $8,125,000 |
-| Tier 5 (50/50) | $25,000,000 | $12,500,000 | $12,500,000 | $41,875,000 | $20,625,000 |
-| **Total** | **$62,500,000** | **$41,875,000** | **$20,625,000** | | |
-
-| Summary | Amount | % of Total |
-|---------|--------|-----------|
-| LP Total | $41,875,000 | 67.0% |
-| GP Total | $20,625,000 | 33.0% |
-| LP EMx | 3.35x | |
-| GP Promote | $20,625,000 | |
-
-### 7.6 Waterfall Summary Across Multiples
-
-| Total Distributed | LP Receives | LP % | LP EMx | GP Receives | GP % |
-|------------------|------------|------|--------|------------|------|
-| $12.5M (1.0x) | $12.50M | 100.0% | 1.00x | $0.00M | 0.0% |
-| $18.75M (1.5x) | $17.50M | 93.3% | 1.40x | $1.25M | 6.7% |
-| $25.0M (2.0x) | $21.88M | 87.5% | 1.75x | $3.13M | 12.5% |
-| $31.25M (2.5x) | $25.63M | 82.0% | 2.05x | $5.63M | 18.0% |
-| $37.5M (3.0x) | $29.38M | 78.3% | 2.35x | $8.13M | 21.7% |
-| $43.75M (3.5x) | $32.50M | 74.3% | 2.60x | $11.25M | 25.7% |
-| $50.0M (4.0x) | $35.63M | 71.3% | 2.85x | $14.38M | 28.8% |
-| $55.25M (4.42x) | $38.25M | 69.2% | 3.06x | $17.00M | 30.8% |
-| $62.5M (5.0x) | $41.88M | 67.0% | 3.35x | $20.63M | 33.0% |
+*Note: LP EMx and IRR represent the LP's return on their $12.5M investment. GP receives the balance after LP distributions, plus fees earned throughout the hold period.*
 
 ---
 
 ## 8. Promote Calculations
 
-### 8.1 GP Promote by Tier (at Base Case: 4.42x, $55.25M distributed)
+### 8.1 GP Distribution by Tier (Base Case, Approximate)
 
-| Tier | Revenue to Tier | GP Share % | GP Promote | % of Total Promote |
-|------|----------------|-----------|-----------|-------------------|
-| Tier 1 (0 - 1.0x) | $12,500,000 | 0% | $0 | 0.0% |
-| Tier 2 (1.0x - 1.5x) | $6,250,000 | 20% | $1,250,000 | 7.4% |
-| Tier 3 (1.5x - 2.0x) | $6,250,000 | 30% | $1,875,000 | 11.0% |
-| Tier 4 (2.0x - 3.0x) | $12,500,000 | 40% | $5,000,000 | 29.4% |
-| Tier 5 (3.0x - 4.42x) | $17,750,000 | 50% | $8,875,000 | 52.2% |
-| **Total** | **$55,250,000** | | **$17,000,000** | **100.0%** |
+*Tier transitions are IRR-based; distributions through each tier are estimated based on the cash flow timing in the Simple Pro Forma. Precise figures computed in the Waterfall Model Google Sheet.*
+
+| Tier | Applies When | Approx. Cash Through Tier | GP Share % | GP Distribute |
+|------|-------------|--------------------------|-----------|--------------|
+| Tier 1 (80/20 — principal recovery) | Years 2-3 | ~$19.9M | 20% | ~$4.0M |
+| Tier 2 (70/30 — to 12% LP IRR) | Year 3 | ~$5.4M | 30% | ~$1.6M |
+| Tier 3 (60/40 — to 15% LP IRR) | Year 3-4 | ~$1.7M | 40% | ~$0.7M |
+| Tier 4 (50/50 — 15%+ LP IRR) | Years 5-10 | ~$43.1M | 50% | ~$21.6M |
+| **Total** | | **~$70.1M** | | **~$27.9M** |
 
 ### 8.2 GP Total Compensation (Base Case, 10 Years)
 
 | Component | 10-Year Total | % of Total GP Comp |
 |-----------|-------------|-------------------|
-| Asset Management Fee | $1,875,000 | 6.0% |
-| Development Fee | $5,985,000 | 19.1% |
+| Asset Management Fee | $1,875,000 | 5.9% |
+| Development Fee | $5,985,000 | 18.8% |
 | Property Management Fee | $2,180,000 | 6.9% |
-| Disposition Fee | $4,350,000 | 13.9% |
-| **Promote (Carried Interest)** | **$17,000,000** | **54.2%** |
-| **Total GP Compensation** | **$31,390,000** | **100.0%** |
+| Disposition Fee | $4,350,000 | 13.7% |
+| **Promote (Carried Interest)** | **~$17,500,000** | **54.7%** |
+| **Total GP Compensation** | **~$31,890,000** | **100.0%** |
 
-### 8.3 GP Promote as % of Total Profit
+### 8.3 GP Promote by Scenario
 
-| Scenario | Total Profit (above capital) | GP Promote | Promote as % of Profit |
-|----------|----------------------------|-----------|----------------------|
-| Conservative (3.0x) | $25,000,000 | $8,125,000 | 32.5% |
-| Base (4.42x) | $42,750,000 | $17,000,000 | 39.8% |
-| Optimistic (5.5x) | $56,250,000 | $23,750,000 | 42.2% |
+| Scenario | LP IRR | LP EMx | Approx. LP Distributions | Approx. GP Promote | GP % of Total |
+|----------|--------|--------|-------------------------|-------------------|--------------|
+| Conservative | 26.0% | 2.6x | ~$32.5M | ~$15.3M | ~32% |
+| Base | 34.19% | 3.83x | ~$47.8M | ~$22.3M | ~32% |
+| Optimistic | 47.0% | 4.6x | ~$57.5M | ~$32.3M | ~36% |
 
 ---
 
@@ -437,7 +403,7 @@ Distribution Priority:
 | Total Distributions | $55.25M | $68.0M (2) | +$12.75M |
 | Original LP Distributions | $38.25M | $36.50M | -$1.75M |
 | Original LP EMx | 3.06x | 2.92x | -0.14x |
-| Original LP IRR | 37.1% | 36.0% | -1.1 pts |
+| Original LP IRR | 34.19% | 33.1% | -1.09 pts |
 
 *(2) Additional capital accelerates development, increasing total distributions, but original LP share is reduced.*
 
@@ -561,7 +527,7 @@ Distribution Priority:
 
 | Provision | Detail |
 |-----------|--------|
-| **Clawback** | GP must return excess promote if, at final liquidation, LP has not received 1.0x capital + 8% preferred |
+| **Clawback** | GP must return excess promote if, at final liquidation, LP has not received 1.0x capital + 12% IRR (Tier 2 threshold) |
 | **No Self-Dealing** | GP and affiliates prohibited from transacting with the fund without LP advisory committee approval |
 | **Co-Investment Limitation** | GP principals cannot co-invest in competing Austin developments during fund term |
 | **Insurance Requirements** | $5M+ general liability, $2M+ D&O, project-specific builder's risk |

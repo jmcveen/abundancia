@@ -42,31 +42,30 @@
 
 | Unit Type | Count | Avg. Size | Base Price | Total Revenue (Base) | % of Total |
 |-----------|-------|-----------|-----------|---------------------|-----------|
-| Single-Family Homes | 100 | 1,900 SF | $625,000 | $62.5M (1) | 14.4% |
-| Tiny Homes | 30 | 600 SF | $200,000 | $6.0M (1) | 1.4% |
-| Dome Homes | 30 | 600 SF | $225,000 | $6.8M (1) | 1.6% |
-| Multifamily Condos | 260 | 1,100 SF | $408,000 | $106.1M (1) | 24.4% |
-| Finished Lots | 200 | Varies | $350,000 | $70.0M (1) | 16.1% |
-| Rental Units | 60 | 800 SF | $233/night | $43.6M (2) | 10.0% |
-| Commercial / Retreat | - | - | - | $14.1M (2) | 3.2% |
-| Builder/Developer Sales | - | - | - | $125.9M | 28.9% |
-| **Total** | **680+** | | | **$435.0M** | **100.0%** |
+| Single-Family Homes | 100 | 2,475 SF | $1,185,000 | $320.9M (1) | 81.6% |
+| Multifamily Condos | 350 | 986 SF | $443,571 | — | included above |
+| Special Residential (tiny/dome) | 60 | 324 SF | $141,520 | — | included above |
+| Finished Lots | 100 | Varies | $250,000 | $15.4M (1) | 3.9% |
+| Rental Income (all rental units) | 126 | 750 SF avg | $90–$4,000/night | $43.6M (2) | 11.1% |
+| Commercial Leasing | 10+ | 21,000 SF | — | $7.8M (2) | 2.0% |
+| Amenities & Community Spaces | 19+ | Varies | — | included above | — |
+| **Total (10-year, base case)** | **665** | | | **$387.7M** | **100.0%** |
 
 *(1) Base price at launch; does not include annual escalation. Lifetime revenue includes escalation.*
 *(2) 10-year cumulative operating revenue.*
 
 ### 1.2 Per-Unit Economic Summary
 
-| Unit Type | Sale Price | Total Cost | **Gross Profit** | **Gross Margin** | ROI per Unit |
-|-----------|-----------|-----------|-----------------|-----------------|-------------|
-| Single-Family Homes | $625,000 | $420,000 | **$205,000** | **32.8%** | 48.8% |
-| Tiny Homes | $200,000 | $145,000 | **$55,000** | **27.5%** | 37.9% |
-| Dome Homes | $225,000 | $160,000 | **$65,000** | **28.9%** | 40.6% |
-| Multifamily Condos | $408,000 | $285,000 | **$123,000** | **30.1%** | 43.2% |
-| Finished Lots | $350,000 | $125,000 | **$225,000** | **64.3%** | 180.0% |
-| Rental Units | $85,100/yr (3) | $53,200/yr | **$31,900/yr** | **37.5%** | 17.1% yield |
+*Prices and costs updated to match Financial Model Main Inputs (April 2026). SFH cost reflects weighted mix of 10 floor plans.*
 
-*(3) Per-unit annual gross revenue at 75% occupancy and $233/night ADR (stabilized).*
+| Unit Type | Sale Price | Est. Total Cost | **Gross Profit** | **Gross Margin** | ROI per Unit |
+|-----------|-----------|-----------|-----------------|-----------------|-------------|
+| Single-Family Homes | $1,185,000 | ~$750,000 | **~$435,000** | **~36.7%** | ~58% |
+| Special Residential (Tiny/Dome) | $141,520 | ~$88,000 | **~$53,500** | **~37.8%** | ~61% |
+| Multifamily (For Sale) | $443,571 | ~$295,000 | **~$148,500** | **~33.5%** | ~50% |
+| Finished Lots | $250,000 | ~$95,000 | **~$155,000** | **~62.0%** | ~163% |
+| Rental Multifamily | ~$90/night | ~$55/night | **~$35/night** | **~38.9%** | ~19% yield |
+| Special Rental | ~$200/night | ~$120/night | **~$80/night** | **~40.0%** | ~24% yield |
 
 ---
 
@@ -74,17 +73,20 @@
 
 ### 2.1 Product Specification
 
+*Source: Financial Model Main Inputs — 10 floor plans ranging from 1,000 to 5,000 SF at $450–$600/SF. Weighted average across all 100 units.*
+
 | Attribute | Detail |
 |-----------|--------|
 | **Unit Count** | 100 |
-| **Average Size** | 1,900 SF (range: 1,600 - 2,400 SF) |
-| **Lot Size** | 6,000 - 10,000 SF |
-| **Bedrooms / Bathrooms** | 3-4 BD / 2-3 BA |
-| **Garage** | 2-car attached |
-| **Base Price** | $625,000 |
-| **Price per SF** | $329/SF |
-| **Target Buyer** | Primary residence; families, move-up buyers |
-| **Comparable Market** | Mueller, Whisper Valley, Easton Park |
+| **Average Size** | 2,475 SF avg (range: 1,000 - 5,000 SF across 10 floor plans) |
+| **Floor Plans** | 10× 1,000 SF · 20× 1,500 SF · 20× 2,000 SF · 20× 2,500 SF · 20× 3,500 SF · 5× 4,500 SF · 5× 5,000 SF |
+| **Lot Size** | 6,000 - 15,000 SF |
+| **Bedrooms / Bathrooms** | 2-5 BD / 2-4 BA (varies by plan) |
+| **Garage** | 1-2 car (plan-dependent) |
+| **Avg. Price (Weighted)** | $1,185,000 |
+| **Price per SF** | $450-$600/SF (by plan) |
+| **Target Buyer** | Primary residence; families, move-up buyers, Austin-area professionals |
+| **Comparable Market** | Mueller, Whisper Valley, Easton Park (attainable luxury segment) |
 
 ### 2.2 Cost Breakdown
 
@@ -122,26 +124,27 @@
 
 ### 2.3 Margin Analysis
 
+*Estimated cost based on construction cost + land allocation + soft costs + marketing. Actual margins will vary by floor plan.*
+
 | Metric | Value |
 |--------|-------|
-| Base Sale Price | $625,000 |
-| Total All-In Cost | $420,100 |
-| **Gross Profit per Unit** | **$204,900** |
-| **Gross Margin** | **32.8%** |
-| Contribution to Overhead | $186,400 (after marketing) |
-| Break-Even Price | $420,100 |
-| Margin of Safety | $204,900 (32.8%) |
-| Price per SF at Break-Even | $221/SF |
+| Weighted Avg Sale Price | $1,185,000 |
+| Est. Total All-In Cost | ~$750,000 |
+| **Est. Gross Profit per Unit** | **~$435,000** |
+| **Est. Gross Margin** | **~36.7%** |
+| Break-Even Price | ~$750,000 |
+| Margin of Safety | ~$435,000 (~36.7%) |
+| Price per SF at Break-Even | ~$303/SF (weighted avg) |
 
 ### 2.4 Revenue Sensitivity (Single-Family)
 
-| Price Change | Sale Price | Gross Profit | Gross Margin | Impact on Project IRR |
+| Price Change | Sale Price | Est. Gross Profit | Est. Gross Margin | Impact on Project IRR |
 |-------------|-----------|-------------|-------------|---------------------|
-| -20% | $500,000 | $79,900 | 16.0% | -4.8 pts |
-| -10% | $562,500 | $142,400 | 25.3% | -2.3 pts |
-| Base | $625,000 | $204,900 | 32.8% | - |
-| +10% | $687,500 | $267,400 | 38.9% | +1.9 pts |
-| +20% | $750,000 | $329,900 | 44.0% | +3.5 pts |
+| -20% | $948,000 | ~$198,000 | ~20.9% | -5.2 pts |
+| -10% | $1,066,500 | ~$316,500 | ~29.7% | -2.5 pts |
+| Base | $1,185,000 | ~$435,000 | ~36.7% | — |
+| +10% | $1,303,500 | ~$553,500 | ~42.5% | +2.1 pts |
+| +20% | $1,422,000 | ~$672,000 | ~47.3% | +3.8 pts |
 
 ---
 
@@ -297,15 +300,17 @@ Dome homes command a 12.5% price premium over comparably-sized tiny homes due to
 
 ### 5.1 Product Specification
 
+*Source: Financial Model Main Inputs — 350 for-sale units at $155,249,850 total ÷ 350 = $443,571 avg.*
+
 | Attribute | Detail |
 |-----------|--------|
-| **Unit Count** | 260 |
-| **Average Size** | 1,100 SF (range: 750 - 1,500 SF) |
-| **Configuration** | 3-4 story buildings, 12-24 units per building |
+| **Unit Count** | 350 (for sale) |
+| **Average Size** | 986 SF avg (range: 750 - 1,400 SF) |
+| **Configuration** | 3-4 story buildings, 12-30 units per building |
 | **Bedrooms / Bathrooms** | 1-3 BD / 1-2 BA |
 | **Parking** | 1 dedicated + 0.5 guest spaces per unit |
-| **Base Price** | $408,000 |
-| **Price per SF** | $371/SF |
+| **Base Price** | $443,571 avg |
+| **Price per SF** | ~$450/SF avg |
 | **Target Buyer** | Young professionals, DINKS, investors, downsizers |
 | **Comparable Market** | East Austin condos, Mueller condos, Domain-area |
 
@@ -349,33 +354,32 @@ Dome homes command a 12.5% price premium over comparably-sized tiny homes due to
 
 | Metric | Value |
 |--------|-------|
-| Base Sale Price | $408,000 |
-| Total All-In Cost | $284,900 |
-| **Gross Profit per Unit** | **$123,100** |
-| **Gross Margin** | **30.2%** |
-| Contribution to Overhead | $116,980 (after marketing) |
-| Break-Even Price | $284,900 |
-| Margin of Safety | $123,100 (30.2%) |
-| Price per SF at Break-Even | $259/SF |
+| Avg Sale Price | $443,571 |
+| Est. Total All-In Cost | ~$295,000 |
+| **Est. Gross Profit per Unit** | **~$148,500** |
+| **Est. Gross Margin** | **~33.5%** |
+| Break-Even Price | ~$295,000 |
+| Margin of Safety | ~$148,500 (~33.5%) |
+| Price per SF at Break-Even | ~$299/SF |
 
 ### 5.4 Building-Level Economics
 
-| Metric | 12-Unit Building | 24-Unit Building |
+| Metric | 15-Unit Building | 30-Unit Building |
 |--------|-----------------|-----------------|
-| Total Revenue | $4,896,000 | $9,792,000 |
-| Total Cost | $3,418,800 | $6,837,600 |
-| Gross Profit | $1,477,200 | $2,954,400 |
+| Total Revenue | $6,653,565 | $13,307,130 |
+| Est. Total Cost | $4,425,000 | $8,850,000 |
+| Est. Gross Profit | $2,228,565 | $4,457,130 |
 | Construction Timeline | 14 months | 18 months |
-| Pre-Sale Requirement | 40% (5 units) | 40% (10 units) |
+| Pre-Sale Requirement | 40% (6 units) | 40% (12 units) |
 | Construction Financing | 65% LTC | 65% LTC |
 
 ### 5.5 MF Strategic Considerations
 
-- **Scale economics:** 260 units generate the largest absolute profit pool ($32.0M gross)
+- **Scale economics:** 350 units generate the largest absolute profit pool (~$52.0M gross)
 - **Financing efficiency:** Multifamily qualifies for favorable construction financing terms
 - **Phased delivery:** 10-12 buildings delivered in 4-5 phases, limiting inventory risk
 - **HOA revenue:** Management fees of $250-350/month/unit create recurring income stream
-- **Total segment contribution:** 260 units x $123,100 = **$32.0M gross profit**
+- **Total segment contribution:** 350 units × ~$148,500 = **~$52.0M gross profit**
 
 ---
 
@@ -383,13 +387,15 @@ Dome homes command a 12.5% price premium over comparably-sized tiny homes due to
 
 ### 6.1 Product Specification
 
+*Source: Financial Model Main Inputs Summary table — 100 lots at $250,000/lot avg.*
+
 | Attribute | Detail |
 |-----------|--------|
-| **Lot Count** | 200 |
-| **Lot Sizes** | 5,000 - 15,000 SF (varies by phase and zone) |
+| **Lot Count** | 100 |
+| **Lot Sizes** | 0.25 - 0.5 acre (varies by phase and zone) |
 | **Entitlements** | Fully entitled, utility-ready |
 | **Infrastructure** | Roads, water, sewer, electric, fiber to lot line |
-| **Base Price** | $350,000 |
+| **Base Price** | $250,000 avg |
 | **Target Buyer** | Custom builders, regional homebuilders, individual buyers |
 
 ### 6.2 Cost Breakdown
@@ -424,34 +430,33 @@ Dome homes command a 12.5% price premium over comparably-sized tiny homes due to
 
 | Metric | Value |
 |--------|-------|
-| Base Sale Price | $350,000 |
-| Total All-In Cost | $125,000 |
-| **Gross Profit per Lot** | **$225,000** |
-| **Gross Margin** | **64.3%** |
-| Contribution to Overhead | $214,500 (after commission) |
-| Break-Even Price | $125,000 |
-| Margin of Safety | $225,000 (64.3%) |
+| Avg Sale Price | $250,000 |
+| Est. Total All-In Cost | ~$95,000 |
+| **Est. Gross Profit per Lot** | **~$155,000** |
+| **Est. Gross Margin** | **~62.0%** |
+| Break-Even Price | ~$95,000 |
+| Margin of Safety | ~$155,000 (~62%) |
 
 ### 6.4 Lot Sales Economics
 
 | Metric | Detail |
 |--------|--------|
-| Highest margin product | 64.3% gross margin (vs. 27-33% for built product) |
+| Highest margin product | ~62% gross margin (vs. 33-37% for built product) |
 | Fastest cash conversion | 60-90 day close cycle |
 | Lowest capital intensity | Infrastructure cost only; no vertical construction |
-| Revenue timing advantage | Lot pre-sales begin in Year 1 during entitlement |
-| Volume discount tier | 10+ lots: 5% discount; 25+ lots: 10% discount |
-| Phased pricing | Phase 1: $325K; Phase 2: $350K; Phase 3: $385K; Phase 4: $415K |
+| Revenue timing advantage | Lot pre-sales begin in Year 2 |
+| Volume discount tier | 5+ lots: 5% discount; 10+ lots: 8% discount |
+| Phased pricing | Phase 1: $225K; Phase 2: $250K; Phase 3: $275K; Phase 4: $295K |
 
 ### 6.5 Builder Program
 
 | Builder Tier | Lot Commitment | Price | Deposit | Takedown Schedule |
 |-------------|---------------|-------|---------|------------------|
-| Preferred Builder | 25+ lots | $315,000 (10% discount) | 10% non-refundable | 5/quarter |
-| Standard Builder | 10-24 lots | $332,500 (5% discount) | 10% non-refundable | 3/quarter |
-| Custom / Individual | 1-9 lots | $350,000 (full price) | 15% non-refundable | At closing |
+| Preferred Builder | 10+ lots | $230,000 (8% discount) | 10% non-refundable | 2-3/quarter |
+| Standard Builder | 5-9 lots | $237,500 (5% discount) | 10% non-refundable | 1-2/quarter |
+| Custom / Individual | 1-4 lots | $250,000 (full price) | 15% non-refundable | At closing |
 
-**Total segment contribution:** 200 lots x $225,000 = **$45.0M gross profit**
+**Total segment contribution:** 100 lots × ~$155,000 = **~$15.5M gross profit**
 
 ---
 
@@ -537,40 +542,40 @@ Dome homes command a 12.5% price premium over comparably-sized tiny homes due to
 
 ### 8.1 Gross Profit Contribution by Segment (Base Case)
 
-| Segment | Units | Gross Profit/Unit | Total Gross Profit | % of Total | Cumulative % |
-|---------|-------|-------------------|-------------------|-----------|-------------|
-| Finished Lots | 200 | $225,000 | $45.0M | 40.2% | 40.2% |
-| Multifamily Condos | 260 | $123,100 | $32.0M | 28.6% | 68.8% |
-| Single-Family Homes | 100 | $204,900 | $20.5M | 18.3% | 87.1% |
-| Rental Units (10-yr NOI) | 60 | $199,000 (1) | $11.9M | 10.6% | 97.8% |
-| Dome Homes | 30 | $64,650 | $1.9M | 1.7% | 99.5% |
-| Tiny Homes | 30 | $53,700 | $1.6M | 1.4% | 100.0% (2) |
-| **Total** | **680** | | **$112.9M** (2) | **100.0%** | |
+*Estimated gross profits based on model prices and approximate all-in costs.*
 
-*(1) Cumulative 10-year NOI per unit.*
-*(2) Does not include commercial and retreat revenue streams ($14.1M), which are accounted for separately in the operating model.*
+| Segment | Units | Est. Profit/Unit | Est. Total GP | % of Total | Cumulative % |
+|---------|-------|-------------------|-------------------|-----------|-------------|
+| Multifamily (For Sale) | 350 | ~$148,500 | ~$52.0M | 40.3% | 40.3% |
+| Single-Family Homes | 100 | ~$435,000 | ~$43.5M | 33.7% | 74.0% |
+| Finished Lots | 100 | ~$155,000 | ~$15.5M | 12.0% | 86.0% |
+| Rental Portfolio (10-yr NOI) | 126 | ~$115,000 (1) | ~$14.5M | 11.2% | 97.2% |
+| Special Residential (Tiny/Dome) | 60 | ~$53,500 | ~$3.2M | 2.5% | 99.7% |
+| Commercial (10-yr) | — | — | ~$0.4M (2) | 0.3% | 100.0% |
+| **Total** | **736** | | **~$129.1M** | **100.0%** | |
+
+*(1) Cumulative 10-year NOI across Rental MF (75 units), Special Rental (50 units), and Event Center (1 unit).*
+*(2) Commercial leasing net contribution after operating costs.*
 
 ### 8.2 Capital Efficiency by Segment
 
-| Segment | Capital Deployed | Gross Profit | Return on Capital | Payback Period |
+| Segment | Est. Capital Deployed | Est. Gross Profit | Return on Capital | Payback Period |
 |---------|-----------------|-------------|-------------------|---------------|
-| Finished Lots | $25.0M | $45.0M | 180% | 1.2 years |
-| Multifamily Condos | $74.1M | $32.0M | 43% | 2.8 years |
-| Single-Family Homes | $42.0M | $20.5M | 49% | 2.5 years |
-| Tiny Homes | $4.4M | $1.6M | 37% | 3.1 years |
-| Dome Homes | $4.8M | $1.9M | 40% | 2.9 years |
-| Rental Units | $11.2M | $11.9M (10yr) | 106% | 5.7 years |
+| Finished Lots | ~$9.5M | ~$15.5M | ~163% | ~1.5 years |
+| Single-Family Homes | ~$75.0M | ~$43.5M | ~58% | ~2.5 years |
+| Multifamily (For Sale) | ~$103.3M | ~$52.0M | ~50% | ~2.8 years |
+| Special Residential | ~$5.3M | ~$3.2M | ~60% | ~2.5 years |
+| Rental Portfolio | ~$14.2M | ~$14.5M (10yr) | ~102% | ~5.5 years |
 
 ### 8.3 Revenue Per Invested Dollar
 
-| Segment | Revenue | Capital Invested | Revenue/$ Invested |
+| Segment | 10-Yr Revenue | Est. Capital | Revenue/$ Invested |
 |---------|---------|-----------------|-------------------|
-| Finished Lots | $70.0M | $25.0M | $2.80 |
-| Single-Family Homes | $62.5M | $42.0M | $1.49 |
-| Multifamily Condos | $106.1M | $74.1M | $1.43 |
-| Dome Homes | $6.8M | $4.8M | $1.40 |
-| Tiny Homes | $6.0M | $4.4M | $1.37 |
-| Rental Units (10yr) | $43.6M | $11.2M | $3.89 |
+| Finished Lots | $15.4M | ~$9.5M | ~$1.62 |
+| Rental Portfolio | $43.6M | ~$14.2M | ~$3.07 |
+| Single-Family Homes | $118.5M | ~$75.0M | ~$1.58 |
+| Multifamily (For Sale) | $155.3M | ~$103.3M | ~$1.50 |
+| Special Residential | $8.5M | ~$5.3M | ~$1.60 |
 
 ---
 
@@ -578,15 +583,17 @@ Dome homes command a 12.5% price premium over comparably-sized tiny homes due to
 
 ### 9.1 Annual Absorption by Unit Type (Base Case)
 
+*Revenue profile (Y3: $93.2M, Y5: $175.0M) implies bulk of for-sale units close in Years 3 and 5. Rental units come online progressively as phases complete.*
+
 | Unit Type | Y1 | Y2 | Y3 | Y4 | Y5 | Y6 | Y7 | Y8 | Y9 | Y10 | Total |
 |-----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|-------|
-| SF Homes | 0 | 5 | 10 | 13 | 15 | 15 | 14 | 12 | 10 | 6 | 100 |
-| Tiny Homes | 0 | 3 | 6 | 6 | 5 | 5 | 3 | 2 | 0 | 0 | 30 |
-| Dome Homes | 0 | 3 | 5 | 6 | 5 | 5 | 4 | 2 | 0 | 0 | 30 |
-| MF Condos | 0 | 15 | 30 | 35 | 40 | 40 | 38 | 30 | 20 | 12 | 260 |
-| Lots | 5 | 25 | 35 | 30 | 30 | 25 | 20 | 15 | 10 | 5 | 200 |
-| Rental (online) | 0 | 15 | 30 | 10 | 5 | 0 | 0 | 0 | 0 | 0 | 60 |
-| **Total** | **5** | **66** | **116** | **100** | **100** | **90** | **79** | **61** | **40** | **23** | **680** |
+| SF Homes | 0 | 5 | 12 | 14 | 20 | 16 | 14 | 12 | 7 | 0 | 100 |
+| Special Residential | 0 | 5 | 12 | 10 | 15 | 10 | 8 | 0 | 0 | 0 | 60 |
+| MF (For Sale) | 0 | 20 | 60 | 50 | 110 | 60 | 30 | 20 | 0 | 0 | 350 |
+| Lots | 0 | 8 | 18 | 12 | 18 | 14 | 12 | 10 | 8 | 0 | 100 |
+| Rental MF (online) | 0 | 20 | 40 | 15 | 0 | 0 | 0 | 0 | 0 | 0 | 75 |
+| Special Rental (online) | 0 | 0 | 15 | 20 | 15 | 0 | 0 | 0 | 0 | 0 | 50 |
+| **Total For Sale** | **0** | **38** | **102** | **86** | **163** | **100** | **64** | **42** | **15** | **0** | **610** |
 
 ### 9.2 Absorption Rate Comparables
 
@@ -615,13 +622,12 @@ Dome homes command a 12.5% price premium over comparably-sized tiny homes due to
 
 ### 10.1 Price Positioning
 
-| Unit Type | Abundancia Price/SF | Market Comp/SF | Premium/(Discount) | Justification |
-|-----------|-------------------|---------------|-------------------|---------------|
-| SF Homes | $329/SF | $310-$380/SF | Mid-market | Premium amenities offset by location value |
-| Tiny Homes | $333/SF | $280-$400/SF | Mid-market | Turnkey with sustainability features |
-| Dome Homes | $375/SF | $350-$500/SF | Below premium | Unique product; early-adopter pricing |
-| MF Condos | $371/SF | $350-$450/SF | Mid-to-premium | Community amenities, sustainability |
-| Lots | $350K avg | $250K-$500K | Mid-market | Fully entitled, infrastructure-ready |
+| Unit Type | Abundancia Avg Price | Price/SF | Market Comp/SF | Premium/(Discount) | Justification |
+|-----------|-------------------|---------|---------------|-------------------|---------------|
+| SF Homes | $1,185,000 | $450-600/SF | $350-$500/SF | Slight premium | Premium hempcrete quality + regenerative community |
+| Special Residential | $141,520 | ~$437/SF | $280-$450/SF | Mid-market | Turnkey micro-units with full amenity access |
+| MF (For Sale) | $443,571 | ~$450/SF | $350-$480/SF | Mid-to-premium | Community amenities, sustainability, location |
+| Lots | $250,000 | N/A | $150K-$400K | Mid-market | Fully entitled, infrastructure-ready in growth corridor |
 
 ### 10.2 Phased Pricing Escalation
 

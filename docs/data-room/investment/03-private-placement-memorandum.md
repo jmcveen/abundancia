@@ -76,12 +76,12 @@ The following is a summary of the material terms of the offering. This summary i
 | **General Partner** | Abundancia Austin GP, LLC |
 | **General Partner Interest** | 20% Carried Interest (subject to waterfall) |
 | **Limited Partner Interest** | 80% (pro rata among all LP investors) |
-| **Preferred Return** | 8% cumulative, compounded annually |
+| **Distribution Waterfall** | 4-tier IRR-based (Tier 1: 80/20 return of capital → Tier 4: 50/50 above 15% LP IRR) |
 | **Management Fee** | 1.5% of committed capital per annum |
 | **Disposition Fee** | 1.0% of gross sale proceeds |
 | **Target Hold Period** | 7-10 years |
-| **Target IRR** | 37.1% (base case — not guaranteed) |
-| **Target Equity Multiple** | 4.42x (base case — not guaranteed) |
+| **Target IRR** | 34.19% (base case — not guaranteed) |
+| **Target Equity Multiple** | 3.83x (base case — not guaranteed) |
 | **Distributions** | Quarterly, beginning when cash flow permits (estimated Year 2) |
 | **K-1 Reporting** | Annual Schedule K-1 provided to each investor |
 | **Offering Period** | March 2026 through September 2026 (may be extended) |
@@ -216,7 +216,7 @@ The Company intends to develop the following program across five phases over a 1
 | Commercial Space | ~25,000 SF | $28/SF NNN | $7,800,000 (10-yr lease) | 4-5 |
 | Retreat Center | 1 | N/A | $6,300,000 (10-yr revenue) | 4-5 |
 
-**Total 10-Year Projected Revenue: $435,100,000** (base case)
+**Total 10-Year Projected Revenue: $393,732,179** (base case)
 
 ### 3.4 Competitive Position
 
@@ -454,7 +454,7 @@ The General Partner and its affiliates will receive the following compensation i
 | **Acquisition Fee** | 1.0% of property acquisition cost | At closing | Compensation for identification, evaluation, negotiation, and acquisition of the property |
 | **Construction Management Fee** | 3.0% of hard construction costs | Monthly during construction | Compensation for oversight and management of construction operations |
 | **Disposition Fee** | 1.0% of gross sale proceeds | At closing of each sale | Compensation for sale of residential units, lots, and other disposition events |
-| **Carried Interest** | Per waterfall (Section 8) | As distributions are made | General Partner's share of profits above preferred return |
+| **Carried Interest** | Per waterfall (Section 8) | As distributions are made | General Partner's share of profits per IRR-based waterfall tiers |
 | **Refinancing Fee** | 0.5% of refinancing proceeds | At closing | Compensation for arranging refinancing of Company debt |
 
 ### 7.2 Reimbursement of Expenses
@@ -491,40 +491,30 @@ In addition to the fees described above, the Company will reimburse the General 
 
 Available cash flow from operations and capital events (sales, refinancing, dissolution) shall be distributed in the following order of priority:
 
-**Tier 1 — Return of Capital (100% to LPs)**
+**Tier 1 — Return of Capital (80% LP / 20% GP)**
 
-First, 100% to the Limited Partners until each Limited Partner has received cumulative distributions equal to its aggregate Capital Contributions.
+First, 80% to the Limited Partners and 20% to the General Partner, until the Limited Partners have received cumulative distributions equal to their aggregate Capital Contributions (i.e., each LP has received a 1.0x return of contributed capital). The General Partner participates from the first dollar distributed; there is no preferred return period during which GP receives 0%.
 
-**Tier 2 — Preferred Return (100% to LPs)**
+**Tier 2 — To 12% LP IRR (70% LP / 30% GP)**
 
-Second, 100% to the Limited Partners until each Limited Partner has received a cumulative annual return equal to 8% of its unreturned Capital Contribution, compounded annually from the date of each Capital Contribution (the "Preferred Return").
+Second, 70% to the Limited Partners and 30% to the General Partner, until the Limited Partners have achieved a 12% internal rate of return on their Capital Contributions, calculated using the standard net present value methodology based on the timing of contributions and distributions.
 
-**Tier 3 — GP Catch-Up (80% LP / 20% GP)**
+**Tier 3 — To 15% LP IRR (60% LP / 40% GP)**
 
-Third, 80% to the Limited Partners and 20% to the General Partner, until the General Partner has received cumulative distributions equal to 20% of the aggregate amount distributed under Tiers 2 and 3.
+Third, 60% to the Limited Partners and 40% to the General Partner, until the Limited Partners have achieved a 15% internal rate of return on their Capital Contributions.
 
-**Tier 4 — Above 15% IRR (70% LP / 30% GP)**
+**Tier 4 — Above 15% LP IRR (50% LP / 50% GP)**
 
-Fourth, after the Limited Partners have achieved a 15% internal rate of return on their Capital Contributions, 70% to the Limited Partners and 30% to the General Partner.
-
-**Tier 5 — Above 25% IRR (60% LP / 40% GP)**
-
-Fifth, after the Limited Partners have achieved a 25% internal rate of return on their Capital Contributions, 60% to the Limited Partners and 40% to the General Partner.
-
-**Tier 6 — Above 35% IRR (50% LP / 50% GP)**
-
-Sixth, after the Limited Partners have achieved a 35% internal rate of return on their Capital Contributions, 50% to the Limited Partners and 50% to the General Partner.
+Fourth, thereafter, 50% to the Limited Partners and 50% to the General Partner, for all distributions above the 15% LP IRR threshold.
 
 ### 8.2 Waterfall Summary Table
 
 | Tier | Threshold | LP Share | GP Share | Description |
 |---|---|---|---|---|
-| 1 | Until 1.0x return of capital | 100% | 0% | Return of invested capital |
-| 2 | Until 8% preferred return | 100% | 0% | Cumulative preferred return |
-| 3 | Catch-up | 80% | 20% | GP catch-up to 20% of Tier 2-3 |
-| 4 | Above 15% IRR | 70% | 30% | Performance tier |
-| 5 | Above 25% IRR | 60% | 40% | Enhanced performance tier |
-| 6 | Above 35% IRR | 50% | 50% | Maximum performance tier |
+| 1 | Until 1.0x LP return of capital | 80% | 20% | Return of contributed capital; GP carries 20% from first dollar |
+| 2 | Until LP achieves 12% IRR | 70% | 30% | GP promote increases as LP IRR builds |
+| 3 | Until LP achieves 15% IRR | 60% | 40% | GP promote increases at 15% LP IRR threshold |
+| 4 | Above 15% LP IRR | 50% | 50% | Equal split on performance above 15% LP IRR |
 
 ### 8.3 Distribution Timing
 
@@ -534,22 +524,22 @@ The Manager intends to make distributions quarterly, subject to available cash f
 
 In the event that, upon final dissolution and liquidation of the Company, the General Partner has received cumulative distributions in excess of the amounts it would have been entitled to under the waterfall based on the Company's total performance, the General Partner shall return such excess to the Limited Partners (the "Clawback Obligation"). This ensures that the waterfall operates on a whole-fund basis, not a deal-by-deal basis.
 
-### 8.5 Illustrative Waterfall (Base Case — $100,000 Investment)
+### 8.5 Illustrative Waterfall (Base Case — $100,000 LP Investment)
 
-| Component | Amount | Cumulative |
-|---|---|---|
-| **Capital Contributed** | $100,000 | — |
-| **Tier 1: Return of Capital** | $100,000 | $100,000 |
-| **Tier 2: Preferred Return (8% x ~4 years)** | $36,049 | $136,049 |
-| **Tier 3: Catch-Up (80/20)** | $45,061 (LP: $36,049 / GP: $9,012) | $172,098 |
-| **Tier 4: 70/30 Split** | $118,540 (LP: $82,978 / GP: $35,562) | $290,638 |
-| **Tier 5: 60/40 Split** | $89,724 (LP: $53,834 / GP: $35,890) | $380,362 |
-| **Tier 6: 50/50 Split** | $61,638 (LP: $30,819 / GP: $30,819) | $442,000 |
-| **Total LP Distributions** | **$339,730** | 3.40x LP return |
-| **Total GP Distributions** | **$102,270** | — |
-| **Total** | **$442,000** | 4.42x blended |
+The following illustrates how distributions flow through the 4-tier IRR-based waterfall for a $100,000 LP investment in the base case scenario (34.19% LP IRR, 3.83x LP EMx). Revenue is front-loaded: LP capital is returned in Year 3 from Phase 1 residential sellout; LP passes the 15% IRR threshold during Year 5 Phase 2 sellout.
 
-*Illustrative only. Actual distributions depend on project performance. Base case projects 4.42x blended equity multiple.*
+| Component | LP Receives | GP Receives | Total Distributed | Notes |
+|---|---|---|---|---|
+| **Capital Contributed** | $100,000 | — | — | LP entry capital |
+| **Tier 1: Return of Capital (80/20)** | $80,000 | $20,000 | $100,000 | Until LP receives 1.0x contributed capital |
+| **Tier 2: To 12% LP IRR (70/30)** | ~$56,000 | ~$24,000 | ~$80,000 | LP builds from 1.0x to 12% IRR threshold |
+| **Tier 3: To 15% LP IRR (60/40)** | ~$38,000 | ~$25,300 | ~$63,300 | LP builds from 12% to 15% IRR threshold |
+| **Tier 4: Above 15% LP IRR (50/50)** | ~$209,000 | ~$209,000 | ~$418,000 | Phase 2 sellout (Y5) drives majority of distributions |
+| **Total LP Distributions** | **~$383,000** | — | — | **3.83x LP EMx** |
+| **Total GP Distributions** | — | **~$278,300** | — | GP promote on LP capital |
+| **Grand Total Distributed** | | | **~$661,300** | Combined LP + GP on $100K LP investment |
+
+*Illustrative only. Actual distributions depend on project performance, cash flow timing, and precise IRR calculations. LP total of ~$383K on $100K investment represents the 3.83x base case EMx. Not a guarantee of returns.*
 
 ---
 
@@ -569,7 +559,7 @@ The following is a summary of certain risks associated with an investment in the
 
 **Competition.** The Austin MSA is an active market for residential development. New master-planned communities, conventional subdivisions, and infill projects compete for the same buyer pool. There can be no assurance that the Company's differentiated positioning will sustain pricing premiums throughout the development period.
 
-**Pricing Risk.** The financial projections assume specific pricing for each product type. Actual achievable prices may be lower than projected due to market conditions, competition, or other factors. A 10% reduction in achievable prices would reduce projected revenue by approximately $43.5 million.
+**Pricing Risk.** The financial projections assume specific pricing for each product type. Actual achievable prices may be lower than projected due to market conditions, competition, or other factors. A 10% reduction in achievable prices would reduce projected revenue by approximately $39.4 million.
 
 ### 9.3 Construction Risks
 
