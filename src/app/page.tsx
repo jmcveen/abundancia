@@ -60,7 +60,7 @@ const IMAGINE_CARDS = [
     link: '/story/community',
   },
   {
-    image: '/images/generated/abundancia-05-organic_food_community-colorful.png',
+    image: '/images/website/05-inclusive-governance.png',
     text: 'Inclusive governance models are easily accessible...',
     detail: 'Community-driven decision making through transparent governance structures ensures every voice matters. Residents co-create the rules and culture of their shared home.',
     link: '/story/regeneration',
