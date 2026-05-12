@@ -48,7 +48,7 @@ const IMAGINE_CARDS = [
     link: '/story/regeneration',
   },
   {
-    image: '/images/generated/abundancia-03-yoga_wellness-colorful.png',
+    image: '/images/website/03-regen-center-all-you-need-to-thrive.png',
     text: 'You have everything you need to thrive...',
     detail: 'From co-working spaces and maker labs to wellness centers and retreat facilities, Abundancia provides the infrastructure for creative and professional fulfillment.',
     link: '/story/vision',
