@@ -72,11 +72,12 @@ const CORE_TEAM = [
     name: 'Kelly Krezek',
     photo: '/images/team/kelly-krezek.jpg',
     role: 'CEO, New Earth Development',
-    bio: 'Visionary leader driving the regenerative development movement. Deep expertise in sustainable community design, investor relations, and project management across multiple eco-development projects.',
-    expertise: ['Regenerative Development', 'Investor Relations', 'Community Design', 'Project Management'],
+    bio: '12 years in project management, finance, and real estate investing across 10 regenerative community development projects worldwide. Provides sustainability consulting for real estate companies with $100B in AUM. Kelly is the visionary and operating force behind Abundancia — bringing together the finest regenerative designers, engineers, and capital partners in Texas.',
+    expertise: ['Regenerative Development', 'Project Management', 'Real Estate Finance', 'Sustainability Consulting'],
     achievements: [
-      'Founded New Earth Development to pioneer regenerative community models',
-      'Assembled and leads the cross-disciplinary team bringing Abundancia to life',
+      '10 regenerative community development projects completed or in progress',
+      'Sustainability consulting for real estate portfolios with $100B+ AUM',
+      'Founded New Earth Development to build the global model for regenerative communities',
     ],
     linkedIn: '',
     projectLink: { label: 'New Earth Development', href: '/team#new-earth-development' },
@@ -84,36 +85,39 @@ const CORE_TEAM = [
   {
     name: 'Joe McVeen',
     photo: '/images/team/joe-mcveen.jpg',
-    role: 'Marketing & Community',
-    bio: 'Brand strategist and community builder with experience in purpose-driven marketing. Leads Abundancia\'s narrative and investor communications.',
-    expertise: ['Brand Strategy', 'Community Building', 'Investor Communications', 'Digital Marketing'],
+    role: 'Marketing & AI Systems',
+    bio: '10 years engineering business systems for scale. CEO of Viral Purpose Media, launching purpose-driven brands to a 400M+ influencer network. Automated webinar funnel expert driving Abundancia\'s investor marketing platform and AI-powered community growth strategy.',
+    expertise: ['Brand Strategy', 'AI Systems', 'Influencer Marketing', 'Business Development'],
     achievements: [
+      'CEO of Viral Purpose Media — 400M+ influencer network reach',
       'Built Abundancia\'s full investor marketing platform and brand identity',
-      'Leads community engagement and SXSW 2026 investor outreach',
+      'Automated webinar and funnel systems scaled to thousands of leads',
     ],
     linkedIn: '',
   },
   {
     name: 'Gloria Merrick',
     photo: '/images/team/gloria-merrick.png',
-    role: 'Tiny Home Builder',
-    bio: 'Specialist in compact, efficient living spaces. Brings hands-on construction experience and deep knowledge of tiny home design, materials, and Texas building codes.',
-    expertise: ['Tiny Home Design', 'Efficient Construction', 'Texas Building Codes', 'Material Sourcing'],
+    role: 'Tiny Home Builder & Design',
+    bio: '11 years in construction, marketing, interior design, and real estate investing. Specializes in eco-friendly alternative housing and has built over 16 unique tiny and off-grid living spaces. Gloria brings hands-on expertise in every phase from design concept to final build.',
+    expertise: ['Tiny Home Design', 'Eco-Friendly Construction', 'Interior Design', 'Off-Grid Systems'],
     achievements: [
-      'Designed and built multiple tiny home communities in Central Texas',
+      '16+ unique tiny and off-grid living spaces built',
       'Developed Abundancia\'s tiny home and dome product line specifications',
+      '11 years spanning construction, marketing, interior design, and real estate',
     ],
     linkedIn: '',
   },
   {
     name: 'Rohan Guyot-Sutherland',
     photo: '/images/team/rohan-guyot-sutherland.jpg',
-    role: 'Regenerative Systems',
-    bio: 'Expert in permaculture design, renewable energy systems, and ecological restoration. Leads the integration of regenerative infrastructure across the community.',
-    expertise: ['Permaculture Design', 'Renewable Energy', 'Ecological Restoration', 'Water Systems'],
+    role: 'Regenerative Systems & Design',
+    bio: '15 years as a regenerative designer, builder, teacher, and global advocate. Has led 20+ projects in sustainability, biomimicry, self-sufficiency, and climate change adaptation. Rohan leads the integration of Abundancia\'s food forests, solar arrays, water harvesting systems, and living infrastructure.',
+    expertise: ['Permaculture Design', 'Biomimicry', 'Climate Adaptation', 'Self-Sufficiency Systems'],
     achievements: [
-      'Designed regenerative infrastructure plans for 380-acre site',
-      'Leads integration of food forests, solar arrays, and water harvesting systems',
+      '15 years as regenerative designer, builder, and global advocate',
+      '20+ projects in sustainability, biomimicry, and climate change adaptation',
+      'Leads all regenerative systems design for the 380-acre Abundancia site',
     ],
     linkedIn: '',
     projectLink: { label: 'Regenerative Systems', href: '/story/regeneration' },
@@ -121,25 +125,27 @@ const CORE_TEAM = [
   {
     name: 'Angele Miller',
     photo: '/images/team/angele-miller.jpg',
-    role: 'Glamping & Retreat Operations',
-    bio: 'Experienced hospitality operator specializing in nature-based retreat experiences. Manages Abundancia\'s Phase 1 retreat center revenue engine.',
-    expertise: ['Retreat Operations', 'Hospitality Management', 'Nature-Based Experiences', 'Revenue Strategy'],
+    role: 'Glamping Operations Partner',
+    bio: 'Co-Founder of Creekside RNR Glamping and its franchise network. Founder of Abundant by Design. Visionary investor and board member recognized as a 2023 Rural Leader Award winner and featured on Dragon\'s Den E4 Season 18. Angele leads Abundancia\'s Phase 1 retreat center and glamping revenue engine.',
+    expertise: ['Glamping Operations', 'Franchise Development', 'Hospitality Management', 'Rural Leadership'],
     achievements: [
-      'Designed the Phase 1 retreat center operating model generating early revenue',
-      'Brings extensive hospitality background in nature-based luxury experiences',
+      'Co-Founded Creekside RNR Glamping and launched its franchise model',
+      '2023 Rural Leader Award winner',
+      'Featured on Dragon\'s Den E4 Season 18',
     ],
     linkedIn: '',
   },
   {
-    name: 'Amanda William',
+    name: 'Amanda Williams',
     photo: '/images/team/amanda-william.jpg',
-    role: 'Wellness & Functional Programs',
-    shortBio: 'Leads Abundancia\'s wellness and functional health experiences. Brings expertise in program design, hospitality, and high-touch guest journeys.',
-    bio: 'Leads the vision and development of Abundancia\'s wellness and functional health experiences. Brings expertise in program design, operations, hospitality, and high-touch guest journeys. Oversees retreats, recovery offerings, biohacking experiences, and strategic wellness partnerships across the project.',
-    expertise: ['Wellness Programming', 'Retreat Operations', 'Biohacking & Recovery', 'Hospitality Design'],
+    role: 'Wellness Program Coordinator',
+    shortBio: 'eXp Realty Top 1% STR/MTR specialist and CEO of Carolina Furnished Rentals, with 15+ years in real estate investing, hospitality, and wellness experience design.',
+    bio: 'eXp Realty Top 1% STR/MTR specialist and CEO of Carolina Furnished Rentals, with 15+ years in real estate investing, flipping, rental operations, and hospitality. Leads Abundancia\'s wellness programming and high-touch guest journey development — from retreat offerings to biohacking experiences and strategic wellness partnerships.',
+    expertise: ['Wellness Programming', 'Short-Term Rentals', 'Hospitality Design', 'Real Estate Investing'],
     achievements: [
-      'Leads design and operations of Abundancia\'s full wellness and functional health experience portfolio',
-      'Drives strategic wellness partnerships and high-touch guest journey development',
+      'eXp Realty Top 1% STR/MTR specialist nationwide',
+      'CEO of Carolina Furnished Rentals',
+      '15+ years across real estate investing, flipping, and hospitality operations',
     ],
     linkedIn: '',
   },
@@ -147,10 +153,11 @@ const CORE_TEAM = [
     name: 'Fred Haas PE',
     photo: '/images/team/fred-haas.png',
     role: 'Civil Engineer',
-    bio: 'Licensed professional engineer with extensive experience in land development, site infrastructure, utility systems, and regulatory compliance in Texas.',
-    expertise: ['Civil Engineering', 'Land Development', 'Utility Systems', 'Regulatory Compliance'],
+    bio: '40+ year civil engineer and 20+ year owner of Sustainable Land Strategies. Specializes in land development, drainage studies, waste system design, entitlements, and permits for eco projects. Fred is the licensed PE leading all site infrastructure and MUD formation engineering for Abundancia.',
+    expertise: ['Civil Engineering', 'Land Development', 'Drainage & Waste Design', 'Eco Project Permitting'],
     achievements: [
-      'Licensed PE with decades of Texas land development experience',
+      '40+ years civil engineering experience',
+      '20+ years as owner of Sustainable Land Strategies',
       'Leads site infrastructure and MUD formation engineering for Abundancia',
     ],
     linkedIn: '',
@@ -159,62 +166,135 @@ const CORE_TEAM = [
     name: 'Lancelot Stukaloff',
     photo: '/images/team/lancelot-stukaloff.png',
     role: 'Capital Markets',
-    bio: 'Capital markets specialist with deep experience structuring real estate investment vehicles, investor relations, and fund management.',
-    expertise: ['Capital Markets', 'Fund Structuring', 'Investor Relations', 'Real Estate Finance'],
+    bio: '10+ years as a real estate investor and capital markets advisor. Has arranged over $750M in equity and debt financing for real estate developments and projects nationwide. Lancelot structures Abundancia\'s investment vehicles, manages the investor pipeline, and drives capital deployment.',
+    expertise: ['Capital Markets', 'Equity Structuring', 'Debt Financing', 'Investor Relations'],
     achievements: [
+      '$750M+ in equity and debt arranged for real estate nationally',
       'Structured the $12.5M Reg D 506(c) offering with LP-favorable waterfall',
-      'Manages the investor pipeline, due diligence process, and capital deployment',
+      'Manages investor pipeline, due diligence process, and capital deployment',
     ],
     linkedIn: '',
     projectLink: { label: 'Investment Details', href: '/invest' },
+  },
+  {
+    name: 'Paul Merrick',
+    photo: undefined,
+    role: 'Construction Advisor',
+    bio: '30+ years in construction specializing in ADUs, additions, garage conversions, and whole house remodels in San Diego. Expert general contractor with deep residential construction and city planning expertise. Paul advises on construction phasing, cost management, and contractor coordination for Abundancia.',
+    expertise: ['Construction Management', 'ADU Development', 'Residential Construction', 'City Planning'],
+    achievements: [
+      '30+ years of hands-on residential construction experience',
+      'Expert in ADU development, additions, and garage conversions',
+      'Brings deep city planning and general contracting expertise to Abundancia',
+    ],
+    linkedIn: '',
   },
 ]
 
 const PARTNERS = [
   {
     name: 'Eduardo Esparza',
-    org: 'RECODE Fund',
+    photo: undefined,
+    org: 'RECODE Fund / Blue Dot',
     focus: 'Impact Investment',
-    detail: 'Eduardo brings deep impact investment expertise through the RECODE Fund, connecting Abundancia with mission-aligned capital sources. His fund focuses on regenerative real estate and community development projects that deliver both financial returns and measurable environmental impact.',
-    role: 'Advises on impact investment structuring and connects the project with ESG-focused institutional investors.',
+    detail: '10+ years in SaaS and angel investing. Blue Dot Founder leading $30M in regenerative finance initiatives. Advisor to Mex30x30 Conservation. Keynote speaker at COP16, SXSW, and Davos. Eduardo connects Abundancia with mission-aligned impact capital and ESG-focused institutional investors.',
+    role: 'Advises on impact investment structuring and connects the project with regenerative finance sources at the global level.',
   },
   {
     name: 'Jeff Hall',
     photo: '/images/team/jeff-hall.jpg',
     org: 'Paragon Development',
     focus: 'Development Advisory',
-    detail: 'Jeff Hall of Paragon Development provides strategic advisory on phased development execution, construction management, and risk mitigation. His experience with large-scale residential and mixed-use developments in Texas gives Abundancia access to proven playbooks.',
-    role: 'Development strategy advisor - phased construction planning, contractor relationships, and cost management.',
+    detail: '$6 billion in hospitality, medical, industrial, education, and mixed-use projects in the US and internationally, with a focus on efficiency, transparency, collaboration, and creativity. Jeff brings proven playbooks for phased development execution, construction management, and risk mitigation in Texas.',
+    role: 'Development strategy advisor — phased construction planning, contractor relationships, and cost management.',
   },
   {
     name: 'Jodie & Can',
     photo: '/images/team/jodie-and-can.jpg',
     org: 'Inphinity Design Architects',
     focus: 'Biophilic Architecture',
-    detail: 'Inphinity Design Architects specialize in biophilic architecture - designing buildings that integrate natural systems, light, air, and living materials. They lead Abundancia\'s architectural vision, ensuring every structure embodies the Living Building Challenge principles.',
-    role: 'Lead architects - master plan design, hempcrete home templates, commercial and community buildings.',
+    detail: '10 years in sacred geometry and biophilic architecture design, 3D modeling, and project management. Inphinity Design creates symbiotic relationships between humans and their built environment — ensuring every structure at Abundancia embodies Living Building Challenge principles and natural systems integration.',
+    role: 'Lead architects — master plan design, hempcrete home templates, commercial and community buildings.',
   },
   {
     name: 'Angie Gonzales',
     photo: '/images/team/angie-gonzales.jpg',
     org: 'Independent',
     focus: 'Permaculture Design',
-    detail: 'Angie is a certified permaculture designer who has planned food forests and agricultural systems across Central Texas. She leads the design of Abundancia\'s integrated food production landscape - from community gardens to perennial food forests.',
-    role: 'Permaculture systems design - food forests, water harvesting, soil regeneration, and growing zone planning.',
+    detail: 'Founder of Eco Rainbow Goddesses Non-Profit. Expert in permaculture design, yoga therapy, healing arts, shamanism, health and wellness, and regenerative lifestyle design. Angie leads the design of Abundancia\'s integrated food production landscape — from community gardens to perennial food forests.',
+    role: 'Permaculture systems design — food forests, water harvesting, soil regeneration, and growing zone planning.',
   },
   {
     name: 'Kacee Jackson',
-    org: 'Independent',
+    photo: undefined,
+    org: '360 Company',
     focus: 'Development Advisory',
-    detail: 'Kacee Jackson provides independent development advisory services with a focus on community-centered real estate. Her expertise in stakeholder alignment and project governance helps ensure Abundancia serves both investors and future residents.',
-    role: 'Independent advisor on community governance, stakeholder alignment, and development strategy.',
+    detail: '25 years and 400+ Texas real estate projects. Currently leading Stonebrush — an 817-home Bastrop master-planned community with $52M in MUD bond reimbursements. Kacee brings unmatched expertise in MUD bond financing, builder attraction, and Bastrop County permitting directly applicable to Abundancia.',
+    role: 'Development advisor on MUD bond financing, builder attraction, county permitting, and large-scale project structuring.',
   },
   {
     name: 'Symbiosis TX',
+    photo: undefined,
     org: 'Symbiosis TX',
     focus: 'Regenerative Land Planning',
-    detail: 'Symbiosis TX is a regenerative land planning firm that designs development projects in harmony with native ecosystems. They lead Abundancia\'s master site planning, ensuring Houston toad habitat compliance, conservation easements, and ecological enhancement.',
-    role: 'Master site planning - land use, conservation corridors, habitat enhancement, and LPHCP compliance.',
+    detail: 'Central Texas regenerative design and water-resilient landscape firm specializing in watershed science, ecology, and regenerative land management. Experience on thousands of acres from homesteads to large conservation ranches, with end-to-end execution: design, earthworks, planting, water systems, and construction.',
+    role: 'Master site planning — land use, conservation corridors, habitat enhancement, and LPHCP compliance.',
+  },
+  {
+    name: 'Jared Gossett',
+    photo: undefined,
+    org: 'Independent',
+    focus: 'Luxury Home Building',
+    detail: "Austin's #1 luxury builder by volume with 170+ homes built and 2X Austin Custom Home Builder of the Year. Creator of the Legacy Living™ wellness-home program, integrating craftsmanship with health-forward design principles aligned with Abundancia's vision.",
+    role: 'Luxury home construction lead — high-end residential builds integrating wellness design standards.',
+  },
+  {
+    name: 'Adelle York',
+    photo: undefined,
+    org: 'Plural Office',
+    focus: 'Passive House Architecture',
+    detail: 'Harvard GSD-trained and PHIUS-certified for passive house design, with active projects across 6+ US states. Adelle specializes in creating ecological single-family and mixed-use projects that meet the most rigorous energy performance standards while remaining beautiful and livable.',
+    role: 'Passive design and energy efficiency architecture for Abundancia residential units.',
+  },
+  {
+    name: 'Adam Russell',
+    photo: undefined,
+    org: 'Stewardship, Inc.',
+    focus: 'Regenerative Land Design',
+    detail: "Austin's hempcrete architect with dual degrees in Architecture (UT Austin) and Biology (U of Illinois). President/CEO of Stewardship, Inc. and Chairman of Design.Build.Live. Adam integrates ecological systems thinking into every built environment, making him a natural fit for Abundancia's hempcrete construction vision.",
+    role: 'Hempcrete architecture and regenerative land design — ensuring built structures enhance rather than diminish the ecosystem.',
+  },
+  {
+    name: 'Mary Mandel',
+    photo: undefined,
+    org: 'Olympus Foundation',
+    focus: 'Development Advisory',
+    detail: '2x successful exits with a career spanning private equity, angel investing, and LP positions in top-tier funds. Co-founder of Sanctuary. Founder of the Olympus Foundation. Mary brings a rare combination of capital markets sophistication and values-aligned investing to Abundancia.',
+    role: 'Investor and development advisor with deep private equity and regenerative fund experience.',
+  },
+  {
+    name: 'Nico Scegiel',
+    photo: undefined,
+    org: 'Santé / Marché Market ATX',
+    focus: 'Regenerative Food Systems',
+    detail: 'Founder of Santé organic fine-dining restaurant and Marché Market ATX. Stanford-certified health coaching credentials and a lifelong commitment to hospitality and food systems. Nico leads Abundancia\'s farm-to-table dining and wellness food programming.',
+    role: 'Food systems and hospitality advisor — farm-to-table dining, community market, and wellness nutrition programming.',
+  },
+  {
+    name: 'Eric Amyot',
+    photo: undefined,
+    org: 'Oliizoi / RegenEarth Studio',
+    focus: 'Regenerative Development',
+    detail: 'Founder of the Keystone Species ecosystem — Oliizoi (regenerative real estate), issho (modular housing), and RegenEarth Studio. Leads a team with nearly 200 years of combined experience in regenerative development, capital, and media.',
+    role: 'Regenerative development advisor and capital partner bringing global ecosystem connections to Abundancia.',
+  },
+  {
+    name: 'Tony Cho',
+    photo: undefined,
+    org: 'Metro 1 / Future of Cities',
+    focus: 'Retreat Center Advisory',
+    detail: 'Founder of Metro 1 ($3.5B in real estate), the Wynwood Art District, Future of Cities, and Magic City Innovation District in Miami. Urban Land Institute Young Leader of the Year. Tony brings world-class placemaking and destination development expertise to Abundancia\'s retreat center vision.',
+    role: 'Retreat center and destination advisory — placemaking, mixed-use programming, and experience design.',
   },
 ]
 
@@ -331,42 +411,51 @@ export default function TeamPage() {
             </div>
           </FadeIn>
 
-          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {CORE_TEAM.map((member) => (
               <StaggerItem key={member.name}>
                 <button
                   onClick={() => setActiveTeamMember(member)}
-                  className="card p-6 h-full text-left w-full cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-200 group"
+                  className="card overflow-hidden h-full text-left w-full cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-200 group"
                 >
+                  {/* Full-width photo header */}
                   {member.photo ? (
-                    <div className="w-16 h-16 rounded-xl overflow-hidden mb-4 ring-2 ring-primary-100 group-hover:ring-primary-300 transition-all">
-                      <Image src={member.photo} alt={member.name} width={64} height={64} className="w-full h-full object-cover" />
+                    <div className="relative w-full h-56 overflow-hidden">
+                      <Image
+                        src={member.photo}
+                        alt={member.name}
+                        fill
+                        className="object-cover object-top group-hover:scale-105 transition-transform duration-500"
+                      />
                     </div>
                   ) : (
-                    <div className="w-16 h-16 rounded-xl bg-primary-100 flex items-center justify-center mb-4 group-hover:bg-primary-200 transition-colors">
-                      <span className="font-display text-xl font-bold text-primary-700">
+                    <div className="w-full h-56 bg-primary-100 flex items-center justify-center group-hover:bg-primary-200 transition-colors">
+                      <span className="font-display text-5xl font-bold text-primary-400">
                         {member.name.split(' ').map((n) => n[0]).join('')}
                       </span>
                     </div>
                   )}
-                  <h3 className="font-accent text-base font-semibold text-neutral-900 mb-1 group-hover:text-primary-700 transition-colors">
-                    {member.name}
-                  </h3>
-                  <p className="font-accent text-xs text-primary-600 mb-3">{member.role}</p>
-                  <p className="text-sm text-neutral-600 leading-relaxed">
-                    {'shortBio' in member ? member.shortBio : member.bio}
-                  </p>
-                  <div className="mt-3 flex flex-wrap gap-1.5">
-                    {member.expertise.slice(0, 2).map((tag) => (
-                      <span key={tag} className="font-accent text-xs px-2 py-0.5 rounded-full bg-primary-50 text-primary-600">
-                        {tag}
-                      </span>
-                    ))}
-                    {member.expertise.length > 2 && (
-                      <span className="font-accent text-xs px-2 py-0.5 rounded-full bg-neutral-100 text-neutral-500">
-                        +{member.expertise.length - 2}
-                      </span>
-                    )}
+                  {/* Card content */}
+                  <div className="p-6">
+                    <h3 className="font-accent text-base font-semibold text-neutral-900 mb-1 group-hover:text-primary-700 transition-colors">
+                      {member.name}
+                    </h3>
+                    <p className="font-accent text-xs text-primary-600 mb-3">{member.role}</p>
+                    <p className="text-sm text-neutral-600 leading-relaxed">
+                      {'shortBio' in member ? member.shortBio : member.bio}
+                    </p>
+                    <div className="mt-3 flex flex-wrap gap-1.5">
+                      {member.expertise.slice(0, 2).map((tag) => (
+                        <span key={tag} className="font-accent text-xs px-2 py-0.5 rounded-full bg-primary-50 text-primary-600">
+                          {tag}
+                        </span>
+                      ))}
+                      {member.expertise.length > 2 && (
+                        <span className="font-accent text-xs px-2 py-0.5 rounded-full bg-neutral-100 text-neutral-500">
+                          +{member.expertise.length - 2}
+                        </span>
+                      )}
+                    </div>
                   </div>
                 </button>
               </StaggerItem>
@@ -390,18 +479,37 @@ export default function TeamPage() {
             </div>
           </FadeIn>
 
-          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-3xl mx-auto">
+          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
             {PARTNERS.map((partner) => (
               <StaggerItem key={partner.name}>
                 <button
                   onClick={() => setActivePartner(partner)}
-                  className="card p-5 text-left w-full cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-200 group"
+                  className="card overflow-hidden text-left w-full cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-200 group h-full"
                 >
-                  <h3 className="font-accent text-base font-semibold text-neutral-900 mb-0.5 group-hover:text-primary-700 transition-colors">
-                    {partner.name}
-                  </h3>
-                  <p className="font-accent text-xs text-primary-600 mb-2">{partner.org}</p>
-                  <p className="text-sm text-neutral-600">{partner.focus}</p>
+                  {/* Photo header */}
+                  {partner.photo ? (
+                    <div className="relative w-full h-40 overflow-hidden">
+                      <Image
+                        src={partner.photo}
+                        alt={partner.name}
+                        fill
+                        className="object-cover object-top group-hover:scale-105 transition-transform duration-500"
+                      />
+                    </div>
+                  ) : (
+                    <div className="w-full h-40 bg-primary-50 flex items-center justify-center group-hover:bg-primary-100 transition-colors">
+                      <span className="font-display text-3xl font-bold text-primary-300">
+                        {partner.name.split(' ').map((n) => n[0]).join('').slice(0, 3)}
+                      </span>
+                    </div>
+                  )}
+                  <div className="p-5">
+                    <h3 className="font-accent text-base font-semibold text-neutral-900 mb-0.5 group-hover:text-primary-700 transition-colors">
+                      {partner.name}
+                    </h3>
+                    <p className="font-accent text-xs text-primary-600 mb-2">{partner.org}</p>
+                    <p className="text-sm text-neutral-600">{partner.focus}</p>
+                  </div>
                 </button>
               </StaggerItem>
             ))}
@@ -492,8 +600,8 @@ export default function TeamPage() {
         {activeTeamMember && (
           <div>
             {activeTeamMember.photo && (
-              <div className="w-24 h-24 rounded-xl overflow-hidden mb-4 ring-2 ring-primary-100">
-                <Image src={activeTeamMember.photo} alt={activeTeamMember.name} width={96} height={96} className="w-full h-full object-cover" />
+              <div className="relative w-28 h-28 rounded-xl overflow-hidden mb-4 ring-2 ring-primary-100">
+                <Image src={activeTeamMember.photo} alt={activeTeamMember.name} fill className="object-cover object-top" />
               </div>
             )}
             <p className="font-accent text-sm font-semibold text-primary-600 mb-4">{activeTeamMember.role}</p>
@@ -529,7 +637,7 @@ export default function TeamPage() {
               >
                 Connect on LinkedIn
               </button>
-              {activeTeamMember.projectLink && (
+              {'projectLink' in activeTeamMember && activeTeamMember.projectLink && (
                 <Link
                   href={activeTeamMember.projectLink.href}
                   className="font-accent text-sm px-4 py-2 rounded-lg bg-primary-50 text-primary-700 hover:bg-primary-100 transition-colors flex items-center gap-1.5"
@@ -553,6 +661,17 @@ export default function TeamPage() {
       >
         {activePartner && (
           <div>
+            {activePartner.photo ? (
+              <div className="relative w-20 h-20 rounded-xl overflow-hidden mb-4 ring-2 ring-primary-100">
+                <Image src={activePartner.photo} alt={activePartner.name} fill className="object-cover object-top" />
+              </div>
+            ) : (
+              <div className="w-20 h-20 rounded-xl bg-primary-50 flex items-center justify-center mb-4">
+                <span className="font-display text-2xl font-bold text-primary-300">
+                  {activePartner.name.split(' ').map((n) => n[0]).join('').slice(0, 3)}
+                </span>
+              </div>
+            )}
             <div className="flex items-center gap-3 mb-4">
               <span className="font-accent text-sm font-semibold text-primary-600">{activePartner.org}</span>
               <span className="text-neutral-300">|</span>
