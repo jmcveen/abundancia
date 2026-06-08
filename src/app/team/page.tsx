@@ -220,14 +220,6 @@ const PARTNERS = [
     role: 'Development advisor on MUD bond financing, builder attraction, county permitting, and large-scale project structuring.',
   },
   {
-    name: 'Symbiosis TX',
-    photo: undefined,
-    org: 'Symbiosis TX',
-    focus: 'Regenerative Land Planning',
-    detail: 'Central Texas regenerative design and water-resilient landscape firm specializing in watershed science, ecology, and regenerative land management. Experience on thousands of acres from homesteads to large conservation ranches, with end-to-end execution: design, earthworks, planting, water systems, and construction.',
-    role: 'Master site planning — land use, conservation corridors, habitat enhancement, and LPHCP compliance.',
-  },
-  {
     name: 'Jared Gossett',
     photo: '/images/team/jared-gossett.png',
     org: 'Independent',
@@ -246,10 +238,10 @@ const PARTNERS = [
   {
     name: 'Adam Russell',
     photo: '/images/team/adam-russell.jpg',
-    org: 'Stewardship, Inc.',
+    org: 'Symbiosis TX',
     focus: 'Regenerative Land Design',
-    detail: "Austin's hempcrete architect with dual degrees in Architecture (UT Austin) and Biology (U of Illinois). President/CEO of Stewardship, Inc. and Chairman of Design.Build.Live. Adam integrates ecological systems thinking into every built environment, making him a natural fit for Abundancia's hempcrete construction vision.",
-    role: 'Hempcrete architecture and regenerative land design — ensuring built structures enhance rather than diminish the ecosystem.',
+    detail: 'Founder and lead designer at Symbiosis TX — Central Texas\'s premier regenerative land planning firm. Specializes in watershed science, keyline earthworks, drone mapping, and full design-to-build execution across thousands of acres from homesteads to large conservation ranches. Adam leads Abundancia\'s master site planning, conservation corridors, habitat enhancement, and LPHCP compliance.',
+    role: 'Master site planning — land use, regenerative systems, conservation corridors, and ecological land design.',
   },
   {
     name: 'Mary Mandel',
