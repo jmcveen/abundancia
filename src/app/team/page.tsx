@@ -176,19 +176,6 @@ const CORE_TEAM = [
     linkedIn: '',
     projectLink: { label: 'Investment Details', href: '/invest' },
   },
-  {
-    name: 'Paul Merrick',
-    photo: undefined,
-    role: 'Construction Advisor',
-    bio: '30+ years in construction specializing in ADUs, additions, garage conversions, and whole house remodels in San Diego. Expert general contractor with deep residential construction and city planning expertise. Paul advises on construction phasing, cost management, and contractor coordination for Abundancia.',
-    expertise: ['Construction Management', 'ADU Development', 'Residential Construction', 'City Planning'],
-    achievements: [
-      '30+ years of hands-on residential construction experience',
-      'Expert in ADU development, additions, and garage conversions',
-      'Brings deep city planning and general contracting expertise to Abundancia',
-    ],
-    linkedIn: '',
-  },
 ]
 
 const PARTNERS = [
@@ -420,16 +407,16 @@ export default function TeamPage() {
                 >
                   {/* Full-width photo header */}
                   {member.photo ? (
-                    <div className="relative w-full h-56 overflow-hidden">
+                    <div className="relative w-full h-72 overflow-hidden">
                       <Image
                         src={member.photo}
                         alt={member.name}
                         fill
-                        className="object-cover object-top group-hover:scale-105 transition-transform duration-500"
+                        className="object-cover object-center group-hover:scale-105 transition-transform duration-500"
                       />
                     </div>
                   ) : (
-                    <div className="w-full h-56 bg-primary-100 flex items-center justify-center group-hover:bg-primary-200 transition-colors">
+                    <div className="w-full h-72 bg-primary-100 flex items-center justify-center group-hover:bg-primary-200 transition-colors">
                       <span className="font-display text-5xl font-bold text-primary-400">
                         {member.name.split(' ').map((n) => n[0]).join('')}
                       </span>
@@ -488,16 +475,16 @@ export default function TeamPage() {
                 >
                   {/* Photo header */}
                   {partner.photo ? (
-                    <div className="relative w-full h-40 overflow-hidden">
+                    <div className="relative w-full h-52 overflow-hidden">
                       <Image
                         src={partner.photo}
                         alt={partner.name}
                         fill
-                        className="object-cover object-top group-hover:scale-105 transition-transform duration-500"
+                        className="object-cover object-center group-hover:scale-105 transition-transform duration-500"
                       />
                     </div>
                   ) : (
-                    <div className="w-full h-40 bg-primary-50 flex items-center justify-center group-hover:bg-primary-100 transition-colors">
+                    <div className="w-full h-52 bg-primary-50 flex items-center justify-center group-hover:bg-primary-100 transition-colors">
                       <span className="font-display text-3xl font-bold text-primary-300">
                         {partner.name.split(' ').map((n) => n[0]).join('').slice(0, 3)}
                       </span>
@@ -601,7 +588,7 @@ export default function TeamPage() {
           <div>
             {activeTeamMember.photo && (
               <div className="relative w-28 h-28 rounded-xl overflow-hidden mb-4 ring-2 ring-primary-100">
-                <Image src={activeTeamMember.photo} alt={activeTeamMember.name} fill className="object-cover object-top" />
+                <Image src={activeTeamMember.photo} alt={activeTeamMember.name} fill className="object-cover object-center" />
               </div>
             )}
             <p className="font-accent text-sm font-semibold text-primary-600 mb-4">{activeTeamMember.role}</p>
@@ -663,7 +650,7 @@ export default function TeamPage() {
           <div>
             {activePartner.photo ? (
               <div className="relative w-20 h-20 rounded-xl overflow-hidden mb-4 ring-2 ring-primary-100">
-                <Image src={activePartner.photo} alt={activePartner.name} fill className="object-cover object-top" />
+                <Image src={activePartner.photo} alt={activePartner.name} fill className="object-cover object-center" />
               </div>
             ) : (
               <div className="w-20 h-20 rounded-xl bg-primary-50 flex items-center justify-center mb-4">
