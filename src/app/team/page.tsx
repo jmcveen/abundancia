@@ -137,7 +137,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Amanda Williams',
-    photo: '/images/team/amanda-william.jpg',
+    photo: '/images/team/amanda-williams.jpg',
     role: 'Wellness Program Coordinator',
     shortBio: 'eXp Realty Top 1% STR/MTR specialist and CEO of Carolina Furnished Rentals, with 15+ years in real estate investing, hospitality, and wellness experience design.',
     bio: 'eXp Realty Top 1% STR/MTR specialist and CEO of Carolina Furnished Rentals, with 15+ years in real estate investing, flipping, rental operations, and hospitality. Leads Abundancia\'s wellness programming and high-touch guest journey development — from retreat offerings to biohacking experiences and strategic wellness partnerships.',
@@ -213,7 +213,7 @@ const PARTNERS = [
   },
   {
     name: 'Kacee Jackson',
-    photo: undefined,
+    photo: '/images/team/kacee-jackson.jpg',
     org: '360 Company',
     focus: 'Development Advisory',
     detail: '25 years and 400+ Texas real estate projects. Currently leading Stonebrush — an 817-home Bastrop master-planned community with $52M in MUD bond reimbursements. Kacee brings unmatched expertise in MUD bond financing, builder attraction, and Bastrop County permitting directly applicable to Abundancia.',
@@ -229,7 +229,7 @@ const PARTNERS = [
   },
   {
     name: 'Jared Gossett',
-    photo: undefined,
+    photo: '/images/team/jared-gossett.png',
     org: 'Independent',
     focus: 'Luxury Home Building',
     detail: "Austin's #1 luxury builder by volume with 170+ homes built and 2X Austin Custom Home Builder of the Year. Creator of the Legacy Living™ wellness-home program, integrating craftsmanship with health-forward design principles aligned with Abundancia's vision.",
@@ -237,7 +237,7 @@ const PARTNERS = [
   },
   {
     name: 'Adelle York',
-    photo: undefined,
+    photo: '/images/team/adelle-york.jpg',
     org: 'Plural Office',
     focus: 'Passive House Architecture',
     detail: 'Harvard GSD-trained and PHIUS-certified for passive house design, with active projects across 6+ US states. Adelle specializes in creating ecological single-family and mixed-use projects that meet the most rigorous energy performance standards while remaining beautiful and livable.',
@@ -245,7 +245,7 @@ const PARTNERS = [
   },
   {
     name: 'Adam Russell',
-    photo: undefined,
+    photo: '/images/team/adam-russell.jpg',
     org: 'Stewardship, Inc.',
     focus: 'Regenerative Land Design',
     detail: "Austin's hempcrete architect with dual degrees in Architecture (UT Austin) and Biology (U of Illinois). President/CEO of Stewardship, Inc. and Chairman of Design.Build.Live. Adam integrates ecological systems thinking into every built environment, making him a natural fit for Abundancia's hempcrete construction vision.",
@@ -253,7 +253,7 @@ const PARTNERS = [
   },
   {
     name: 'Mary Mandel',
-    photo: undefined,
+    photo: '/images/team/mary-mandel.jpg',
     org: 'Olympus Foundation',
     focus: 'Development Advisory',
     detail: '2x successful exits with a career spanning private equity, angel investing, and LP positions in top-tier funds. Co-founder of Sanctuary. Founder of the Olympus Foundation. Mary brings a rare combination of capital markets sophistication and values-aligned investing to Abundancia.',
@@ -261,7 +261,7 @@ const PARTNERS = [
   },
   {
     name: 'Nico Scegiel',
-    photo: undefined,
+    photo: '/images/team/nico-scegiel.jpg',
     org: 'Santé / Marché Market ATX',
     focus: 'Regenerative Food Systems',
     detail: 'Founder of Santé organic fine-dining restaurant and Marché Market ATX. Stanford-certified health coaching credentials and a lifelong commitment to hospitality and food systems. Nico leads Abundancia\'s farm-to-table dining and wellness food programming.',
@@ -269,7 +269,7 @@ const PARTNERS = [
   },
   {
     name: 'Eric Amyot',
-    photo: undefined,
+    photo: '/images/team/eric-amyot.jpg',
     org: 'Oliizoi / RegenEarth Studio',
     focus: 'Regenerative Development',
     detail: 'Founder of the Keystone Species ecosystem — Oliizoi (regenerative real estate), issho (modular housing), and RegenEarth Studio. Leads a team with nearly 200 years of combined experience in regenerative development, capital, and media.',
@@ -277,11 +277,27 @@ const PARTNERS = [
   },
   {
     name: 'Tony Cho',
-    photo: undefined,
+    photo: '/images/team/tony-cho.jpg',
     org: 'Metro 1 / Future of Cities',
     focus: 'Retreat Center Advisory',
     detail: 'Founder of Metro 1 ($3.5B in real estate), the Wynwood Art District, Future of Cities, and Magic City Innovation District in Miami. Urban Land Institute Young Leader of the Year. Tony brings world-class placemaking and destination development expertise to Abundancia\'s retreat center vision.',
     role: 'Retreat center and destination advisory — placemaking, mixed-use programming, and experience design.',
+  },
+  {
+    name: 'Gayle Borst',
+    photo: '/images/team/gayle-borst.jpg',
+    org: 'Independent',
+    focus: 'Regenerative Design Architecture',
+    detail: 'Regenerative design architect integrating ecological systems thinking, biophilic principles, and sustainable materials into built environments. Gayle brings a holistic approach to architecture that honors the relationship between structures and the living systems that surround them.',
+    role: 'Regenerative architectural design — ensuring community structures are in harmony with the land and its ecology.',
+  },
+  {
+    name: 'Jean-Marc La Flamme',
+    photo: '/images/team/jean-marc-la-flamme.jpg',
+    org: 'Geoship',
+    focus: 'Crowdfunding & Capital Strategy',
+    detail: 'Crowdfunding strategist with $30M+ raised through platforms like DealMaker and WeFunder. Co-founder at Geoship, bringing deep expertise in community-funded real estate and regenerative project finance. Jean-Marc helps Abundancia access a new generation of values-aligned investors through equity crowdfunding.',
+    role: 'Crowdfunding strategy and DealMaker platform advisor — expanding Abundancia\'s investor base beyond accredited investors.',
   },
 ]
 
