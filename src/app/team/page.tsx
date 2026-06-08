@@ -151,7 +151,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Fred Haas PE',
-    photo: '/images/team/fred-haas.png',
+    photo: '/images/team/fred-haas.jpg',
     role: 'Civil Engineer',
     bio: '40+ year civil engineer and 20+ year owner of Sustainable Land Strategies. Specializes in land development, drainage studies, waste system design, entitlements, and permits for eco projects. Fred is the licensed PE leading all site infrastructure and MUD formation engineering for Abundancia.',
     expertise: ['Civil Engineering', 'Land Development', 'Drainage & Waste Design', 'Eco Project Permitting'],
@@ -181,7 +181,7 @@ const CORE_TEAM = [
 const PARTNERS = [
   {
     name: 'Eduardo Esparza',
-    photo: undefined,
+    photo: '/images/team/eduardo-esparza.jpg',
     org: 'RECODE Fund / Blue Dot',
     focus: 'Impact Investment',
     detail: '10+ years in SaaS and angel investing. Blue Dot Founder leading $30M in regenerative finance initiatives. Advisor to Mex30x30 Conservation. Keynote speaker at COP16, SXSW, and Davos. Eduardo connects Abundancia with mission-aligned impact capital and ESG-focused institutional investors.',
