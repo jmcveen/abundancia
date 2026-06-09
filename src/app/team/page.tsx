@@ -411,27 +411,29 @@ export default function TeamPage() {
               <StaggerItem key={member.name}>
                 <button
                   onClick={() => setActiveTeamMember(member)}
-                  className="card overflow-hidden h-full text-left w-full cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-200 group"
+                  className="card h-full text-center w-full cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-200 group"
                 >
-                  {/* Full-width photo header */}
-                  {member.photo ? (
-                    <div className="relative w-full h-72 overflow-hidden">
-                      <Image
-                        src={member.photo}
-                        alt={member.name}
-                        fill
-                        className="object-cover object-center group-hover:scale-105 transition-transform duration-500"
-                      />
-                    </div>
-                  ) : (
-                    <div className="w-full h-72 bg-primary-100 flex items-center justify-center group-hover:bg-primary-200 transition-colors">
-                      <span className="font-display text-5xl font-bold text-primary-400">
-                        {member.name.split(' ').map((n) => n[0]).join('')}
-                      </span>
-                    </div>
-                  )}
+                  {/* Circular photo — matches slides 33 & 34 style */}
+                  <div className="pt-8 px-6 flex justify-center">
+                    {member.photo ? (
+                      <div className="relative w-36 h-36 rounded-full overflow-hidden ring-4 ring-primary-100 group-hover:ring-primary-300 transition-all duration-300 shadow-md">
+                        <Image
+                          src={member.photo}
+                          alt={member.name}
+                          fill
+                          className="object-cover object-center group-hover:scale-105 transition-transform duration-500"
+                        />
+                      </div>
+                    ) : (
+                      <div className="w-36 h-36 rounded-full bg-primary-100 flex items-center justify-center ring-4 ring-primary-100 group-hover:bg-primary-200 transition-colors shadow-md">
+                        <span className="font-display text-4xl font-bold text-primary-400">
+                          {member.name.split(' ').map((n) => n[0]).join('')}
+                        </span>
+                      </div>
+                    )}
+                  </div>
                   {/* Card content */}
-                  <div className="p-6">
+                  <div className="p-6 pt-4">
                     <h3 className="font-accent text-base font-semibold text-neutral-900 mb-1 group-hover:text-primary-700 transition-colors">
                       {member.name}
                     </h3>
@@ -439,7 +441,7 @@ export default function TeamPage() {
                     <p className="text-sm text-neutral-600 leading-relaxed">
                       {'shortBio' in member ? member.shortBio : member.bio}
                     </p>
-                    <div className="mt-3 flex flex-wrap gap-1.5">
+                    <div className="mt-3 flex flex-wrap gap-1.5 justify-center">
                       {member.expertise.slice(0, 2).map((tag) => (
                         <span key={tag} className="font-accent text-xs px-2 py-0.5 rounded-full bg-primary-50 text-primary-600">
                           {tag}
@@ -479,26 +481,28 @@ export default function TeamPage() {
               <StaggerItem key={partner.name}>
                 <button
                   onClick={() => setActivePartner(partner)}
-                  className="card overflow-hidden text-left w-full cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-200 group h-full"
+                  className="card text-center w-full cursor-pointer hover:shadow-lg hover:border-primary-200 transition-all duration-200 group h-full"
                 >
-                  {/* Photo header */}
-                  {partner.photo ? (
-                    <div className="relative w-full h-52 overflow-hidden">
-                      <Image
-                        src={partner.photo}
-                        alt={partner.name}
-                        fill
-                        className="object-cover object-center group-hover:scale-105 transition-transform duration-500"
-                      />
-                    </div>
-                  ) : (
-                    <div className="w-full h-52 bg-primary-50 flex items-center justify-center group-hover:bg-primary-100 transition-colors">
-                      <span className="font-display text-3xl font-bold text-primary-300">
-                        {partner.name.split(' ').map((n) => n[0]).join('').slice(0, 3)}
-                      </span>
-                    </div>
-                  )}
-                  <div className="p-5">
+                  {/* Circular photo — matches slides 33 & 34 style */}
+                  <div className="pt-6 px-5 flex justify-center">
+                    {partner.photo ? (
+                      <div className="relative w-28 h-28 rounded-full overflow-hidden ring-4 ring-primary-50 group-hover:ring-primary-200 transition-all duration-300 shadow-sm">
+                        <Image
+                          src={partner.photo}
+                          alt={partner.name}
+                          fill
+                          className="object-cover object-center group-hover:scale-105 transition-transform duration-500"
+                        />
+                      </div>
+                    ) : (
+                      <div className="w-28 h-28 rounded-full bg-primary-50 flex items-center justify-center ring-4 ring-primary-50 group-hover:bg-primary-100 transition-colors shadow-sm">
+                        <span className="font-display text-2xl font-bold text-primary-300">
+                          {partner.name.split(' ').map((n) => n[0]).join('').slice(0, 3)}
+                        </span>
+                      </div>
+                    )}
+                  </div>
+                  <div className="p-5 pt-4">
                     <h3 className="font-accent text-base font-semibold text-neutral-900 mb-0.5 group-hover:text-primary-700 transition-colors">
                       {partner.name}
                     </h3>
@@ -595,7 +599,7 @@ export default function TeamPage() {
         {activeTeamMember && (
           <div>
             {activeTeamMember.photo && (
-              <div className="relative w-28 h-28 rounded-xl overflow-hidden mb-4 ring-2 ring-primary-100">
+              <div className="relative w-28 h-28 rounded-full overflow-hidden mb-4 ring-4 ring-primary-100 shadow-md">
                 <Image src={activeTeamMember.photo} alt={activeTeamMember.name} fill className="object-cover object-center" />
               </div>
             )}
@@ -657,11 +661,11 @@ export default function TeamPage() {
         {activePartner && (
           <div>
             {activePartner.photo ? (
-              <div className="relative w-20 h-20 rounded-xl overflow-hidden mb-4 ring-2 ring-primary-100">
+              <div className="relative w-24 h-24 rounded-full overflow-hidden mb-4 ring-4 ring-primary-100 shadow-md">
                 <Image src={activePartner.photo} alt={activePartner.name} fill className="object-cover object-center" />
               </div>
             ) : (
-              <div className="w-20 h-20 rounded-xl bg-primary-50 flex items-center justify-center mb-4">
+              <div className="w-24 h-24 rounded-full bg-primary-50 flex items-center justify-center mb-4 ring-4 ring-primary-100">
                 <span className="font-display text-2xl font-bold text-primary-300">
                   {activePartner.name.split(' ').map((n) => n[0]).join('').slice(0, 3)}
                 </span>
