@@ -3,6 +3,15 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  async redirects() {
+    return [
+      {
+        source: '/story/community/live',
+        destination: '/story/community/homebuyer',
+        permanent: true,
+      },
+    ]
+  },
   async headers() {
     return [
       {
