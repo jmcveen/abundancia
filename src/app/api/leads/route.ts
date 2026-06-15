@@ -103,7 +103,7 @@ async function sendUserApplicationLinks(lead: Lead) {
   }
 
   const LINKS: Record<string, { label: string; href: string }> = {
-    buying: { label: 'Complete Your Resident / Homebuyer Application', href: 'https://abundancia.life/story/community/live' },
+    buying: { label: 'Complete Your Homebuyer Application', href: 'https://abundancia.life/story/community/live' },
     investing: { label: 'Complete Your Investor Application', href: 'https://abundancia.life/invest/apply' },
     collaborating: { label: 'Complete Your Collaborator Application', href: 'https://abundancia.life/team/collaborate' },
   }
@@ -203,7 +203,7 @@ async function sendLeadNotification(lead: Lead) {
     },
     body: JSON.stringify({
       From: process.env.POSTMARK_FROM_EMAIL || 'leads@abundancia.life',
-      To: process.env.LEADS_NOTIFICATION_EMAIL || 'kelly@newearthdevelopment.org, joe@newearthdevelopment.org',
+      To: process.env.LEADS_NOTIFICATION_EMAIL || 'kelly@newearthdevelopment.org, info@newearthdevelopment.org',
       Subject: `🌿 New Abundancia Lead: ${lead.firstName}`,
       HtmlBody: `
         <div style="font-family: 'Source Sans 3', system-ui, sans-serif; max-width: 500px; margin: 0 auto; padding: 24px;">

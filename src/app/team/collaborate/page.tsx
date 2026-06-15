@@ -99,8 +99,8 @@ export default function CollaboratorApplyPage() {
   const [howContribute, setHowContribute] = useState('')
   const [skills, setSkills] = useState('')
 
-  // Section 3 — Role
-  const [collabRole, setCollabRole] = useState('')
+  // Section 3 — Role (multi-select)
+  const [collabRole, setCollabRole] = useState<string[]>([])
   const [hoursPerWeek, setHoursPerWeek] = useState('')
   const [buildingCommunity, setBuildingCommunity] = useState('')
   const [projectStage, setProjectStage] = useState('')
@@ -255,17 +255,22 @@ export default function CollaboratorApplyPage() {
                   <h2 className={sectionHeaderCls}>3. Collaboration Role</h2>
                   <div className="space-y-5">
                     <div>
-                      <label className={labelCls}>Which role best describes how you may want to collaborate?</label>
+                      <label className={labelCls}>Which role(s) best describe how you may want to collaborate? <span className="font-normal text-neutral-400">Select all that apply</span></label>
                       <div className="space-y-2 mt-1">
                         {COLLAB_ROLES.map(role => (
                           <label key={role.value} className="flex items-start gap-3 cursor-pointer group p-3 rounded-xl hover:bg-canvas-subtle transition-colors">
                             <input
-                              type="radio"
-                              name="collabRole"
+                              type="checkbox"
                               value={role.value}
-                              checked={collabRole === role.value}
-                              onChange={() => setCollabRole(role.value)}
-                              className="mt-0.5 w-4 h-4 border-neutral-300 text-primary-600 focus:ring-primary-500 cursor-pointer flex-shrink-0"
+                              checked={collabRole.includes(role.value)}
+                              onChange={() => {
+                                setCollabRole(prev =>
+                                  prev.includes(role.value)
+                                    ? prev.filter(r => r !== role.value)
+                                    : [...prev, role.value]
+                                )
+                              }}
+                              className="mt-0.5 w-4 h-4 rounded border-neutral-300 text-primary-600 focus:ring-primary-500 cursor-pointer flex-shrink-0"
                             />
                             <span>
                               <span className="text-sm font-semibold text-neutral-800 font-accent">{role.value}</span>

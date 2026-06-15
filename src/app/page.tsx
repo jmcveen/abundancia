@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useCallback } from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 import { Modal } from '@/components/ui/Modal'
@@ -8,7 +8,214 @@ import { FadeIn, StaggerContainer, StaggerItem } from '@/components/animation'
 import { useScenario } from '@/lib/context/scenario-context'
 import { INVESTMENT_DISCLAIMER, KEY_METRICS } from '@/lib/data/financials'
 import { useAnimatedCounter } from '@/hooks/useAnimatedCounter'
-import { ArrowRight, Leaf, Home, Droplets, Sun, ChevronDown } from 'lucide-react'
+import { ArrowRight, Leaf, Home, Droplets, Sun, ChevronDown, TrendingUp, Handshake, Sprout } from 'lucide-react'
+
+// ═══════════════════════════════════════════════════════════════════════════
+// Community Join Form — shared interest/routing logic with LeadCapturePopup
+// ═══════════════════════════════════════════════════════════════════════════
+
+const JOIN_INTERESTS = [
+  { id: 'buying',        label: 'Buying a Home',               icon: Home },
+  { id: 'investing',     label: 'Investing in the Project',    icon: TrendingUp },
+  { id: 'collaborating', label: 'Collaborating with the Project', icon: Handshake },
+] as const
+
+type JoinInterestId = (typeof JOIN_INTERESTS)[number]['id']
+
+const JOIN_ROUTES: Record<JoinInterestId, { label: string; href: string; icon: typeof Home }> = {
+  buying:        { label: 'Complete Homebuyer Application',    href: '/story/community/homebuyer', icon: Home },
+  investing:     { label: 'Complete Investor Application',     href: '/invest/apply',              icon: TrendingUp },
+  collaborating: { label: 'Complete Collaborator Application', href: '/team/collaborate',          icon: Handshake },
+}
+
+function CommunityJoinForm() {
+  const [firstName, setFirstName]       = useState('')
+  const [email, setEmail]               = useState('')
+  const [interests, setInterests]       = useState<Set<JoinInterestId>>(new Set())
+  const [isSubmitting, setIsSubmitting] = useState(false)
+  const [submitted, setSubmitted]       = useState(false)
+  const [submittedInterests, setSubmittedInterests] = useState<JoinInterestId[]>([])
+  const [error, setError]               = useState<string | null>(null)
+
+  const toggle = useCallback((id: JoinInterestId) => {
+    setInterests(prev => {
+      const next = new Set(prev)
+      if (next.has(id)) { next.delete(id) } else { next.add(id) }
+      return next
+    })
+  }, [])
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault()
+    setError(null)
+    setIsSubmitting(true)
+    try {
+      const selected = Array.from(interests)
+      const res = await fetch('/api/leads', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          firstName,
+          email,
+          interests: selected,
+          source: 'homepage-cta',
+          capturedAt: new Date().toISOString(),
+        }),
+      })
+      if (!res.ok) throw new Error('Submission failed')
+      localStorage.setItem('abundancia_lead_captured', 'true')
+      setSubmittedInterests(selected)
+      setSubmitted(true)
+    } catch {
+      setError('Something went wrong. Please try again.')
+    } finally {
+      setIsSubmitting(false)
+    }
+  }
+
+  if (submitted) {
+    return (
+      <div className="text-center max-w-lg mx-auto">
+        <div className="w-14 h-14 rounded-2xl bg-primary-50 flex items-center justify-center mx-auto mb-5">
+          <Leaf className="w-7 h-7 text-primary-600" />
+        </div>
+        <h3 className="font-display text-2xl text-neutral-900 mb-3">
+          Welcome to the Community 🌿
+        </h3>
+        {submittedInterests.length > 0 ? (
+          <>
+            <p className="font-body text-base text-neutral-500 mb-6 leading-relaxed">
+              {submittedInterests.length === 1
+                ? 'Your next step is to complete your application:'
+                : 'Based on your interests, please complete your applications:'}
+            </p>
+            <div className="space-y-3 mb-5">
+              {submittedInterests.map((id) => {
+                const route = JOIN_ROUTES[id]
+                const Icon = route.icon
+                return (
+                  <Link
+                    key={id}
+                    href={route.href}
+                    className="flex items-center gap-3 w-full px-5 py-4 rounded-xl
+                               bg-primary-700 hover:bg-primary-800 text-white
+                               font-accent text-sm font-semibold transition-colors group"
+                  >
+                    <Icon className="w-4 h-4 flex-shrink-0 text-primary-200" />
+                    <span className="flex-1 text-left">{route.label}</span>
+                    <ArrowRight className="w-4 h-4 text-primary-300 group-hover:translate-x-0.5 transition-transform" />
+                  </Link>
+                )
+              })}
+            </div>
+            <p className="font-accent text-xs text-neutral-400 leading-relaxed">
+              We also sent {submittedInterests.length === 1 ? 'this link' : 'these links'} to your email so you can return anytime.
+            </p>
+          </>
+        ) : (
+          <p className="font-body text-base text-neutral-500 leading-relaxed">
+            We&apos;ll be in touch with updates about Abundancia.
+          </p>
+        )}
+      </div>
+    )
+  }
+
+  return (
+    <form onSubmit={handleSubmit} className="max-w-lg mx-auto space-y-5">
+      {/* Name + Email */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div>
+          <label className="font-accent text-xs font-semibold text-neutral-500 uppercase tracking-wider mb-2 block">
+            First Name
+          </label>
+          <input
+            type="text"
+            required
+            value={firstName}
+            onChange={e => setFirstName(e.target.value)}
+            placeholder="Your first name"
+            className="w-full px-4 py-3 bg-white border border-neutral-200 rounded-xl
+                       focus:outline-none focus:ring-2 focus:ring-primary-400 focus:border-transparent
+                       text-sm text-neutral-800 placeholder:text-neutral-300 font-body"
+          />
+        </div>
+        <div>
+          <label className="font-accent text-xs font-semibold text-neutral-500 uppercase tracking-wider mb-2 block">
+            Email Address
+          </label>
+          <input
+            type="email"
+            required
+            value={email}
+            onChange={e => setEmail(e.target.value)}
+            placeholder="your@email.com"
+            className="w-full px-4 py-3 bg-white border border-neutral-200 rounded-xl
+                       focus:outline-none focus:ring-2 focus:ring-primary-400 focus:border-transparent
+                       text-sm text-neutral-800 placeholder:text-neutral-300 font-body"
+          />
+        </div>
+      </div>
+
+      {/* Interest chips */}
+      <div>
+        <label className="font-accent text-xs font-semibold text-neutral-500 uppercase tracking-wider mb-3 block">
+          What interests you? <span className="font-normal normal-case tracking-normal text-neutral-400">Select all that apply</span>
+        </label>
+        <div className="flex flex-wrap gap-2.5">
+          {JOIN_INTERESTS.map(({ id, label, icon: Icon }) => {
+            const selected = interests.has(id)
+            return (
+              <button
+                key={id}
+                type="button"
+                onClick={() => toggle(id)}
+                className={`flex items-center gap-2 px-4 py-2.5 rounded-xl border text-sm font-accent font-medium
+                  transition-all duration-200 cursor-pointer select-none
+                  ${selected
+                    ? 'bg-primary-50 border-primary-300 text-primary-800'
+                    : 'bg-white border-neutral-200 text-neutral-600 hover:border-neutral-300 hover:bg-neutral-50'
+                  }`}
+              >
+                <Icon className={`w-4 h-4 flex-shrink-0 ${selected ? 'text-primary-600' : 'text-neutral-400'}`} />
+                <span>{label}</span>
+                {selected && <Sprout className="w-3.5 h-3.5 text-primary-500" />}
+              </button>
+            )
+          })}
+        </div>
+      </div>
+
+      {error && <p className="text-sm text-red-600 font-accent">{error}</p>}
+
+      <button
+        type="submit"
+        disabled={isSubmitting}
+        className="w-full flex items-center justify-center gap-2 px-6 py-4
+                   bg-primary-700 hover:bg-primary-800 text-white
+                   font-accent text-sm font-semibold rounded-xl
+                   transition-colors disabled:opacity-60 disabled:cursor-not-allowed group"
+      >
+        {isSubmitting ? (
+          <>
+            <Leaf className="w-4 h-4 animate-spin" />
+            Joining...
+          </>
+        ) : (
+          <>
+            <Sprout className="w-4 h-4 group-hover:scale-110 transition-transform" />
+            Continue
+            <ArrowRight className="w-4 h-4 group-hover:translate-x-0.5 transition-transform" />
+          </>
+        )}
+      </button>
+
+      <p className="text-xs text-neutral-400 text-center font-accent">
+        We respect your privacy. Unsubscribe anytime.
+      </p>
+    </form>
+  )
+}
 
 // ═══════════════════════════════════════════════════════════════════════════
 // Animated Stat Component
@@ -444,29 +651,26 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* ═══ WAITLIST CTA — Centered, minimal ═══ */}
-      <section className="py-28 md:py-40 bg-white">
+      {/* ═══ COMMUNITY JOIN FORM — Embedded lead capture ═══ */}
+      <section className="py-28 md:py-40 bg-[#fafaf8]">
         <div className="section-container">
-          <FadeIn>
-            <div className="text-center max-w-2xl mx-auto">
-              <div className="w-12 h-px bg-[#ceb78e] mx-auto mb-10" />
-              <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 tracking-[0.04em] mb-8">
-                Be Part of the Future
-              </h2>
-              <p className="font-body text-base text-neutral-400 max-w-lg mx-auto mb-12 font-light leading-relaxed">
-                Whether you&apos;re looking for a home, an investment, or a new way of living - your journey starts here.
-              </p>
-              <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-                <Link href="/waitlist" className="btn-accent btn-lg group">
-                  Join Resident Waitlist
-                  <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-                </Link>
-                <Link href="/overview" className="btn-secondary btn-lg">
-                  Read Executive Summary
-                </Link>
+          <div className="max-w-2xl mx-auto">
+            <FadeIn>
+              <div className="text-center mb-12">
+                <div className="w-12 h-px bg-[#ceb78e] mx-auto mb-10" />
+                <span className="eyebrow mb-5 block">Join the Community</span>
+                <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 tracking-[0.04em] mb-5">
+                  Join the Abundancia Community
+                </h2>
+                <p className="font-body text-base text-neutral-400 max-w-md mx-auto font-light leading-relaxed">
+                  Stay connected with the vision for Abundancia and choose the path that best reflects your interest.
+                </p>
               </div>
-            </div>
-          </FadeIn>
+            </FadeIn>
+            <FadeIn delay={0.2}>
+              <CommunityJoinForm />
+            </FadeIn>
+          </div>
         </div>
       </section>
     </div>
