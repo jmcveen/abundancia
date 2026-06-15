@@ -96,31 +96,18 @@ const CORE_TEAM = [
     linkedIn: '',
   },
   {
-    name: 'Gloria Merrick',
-    photo: '/images/team/gloria-merrick.png',
-    role: 'Tiny Home Builder & Design',
-    bio: '11 years in construction, marketing, interior design, and real estate investing. Specializes in eco-friendly alternative housing and has built over 16 unique tiny and off-grid living spaces. Gloria brings hands-on expertise in every phase from design concept to final build.',
-    expertise: ['Tiny Home Design', 'Eco-Friendly Construction', 'Interior Design', 'Off-Grid Systems'],
+    name: 'Lancelot Stukaloff',
+    photo: '/images/team/lancelot-stukaloff.png',
+    role: 'Capital Markets',
+    bio: '10+ years as a real estate investor and capital markets advisor. Has arranged over $750M in equity and debt financing for real estate developments and projects nationwide. Lancelot structures Abundancia\'s investment vehicles, manages the investor pipeline, and drives capital deployment.',
+    expertise: ['Capital Markets', 'Equity Structuring', 'Debt Financing', 'Investor Relations'],
     achievements: [
-      '16+ unique tiny and off-grid living spaces built',
-      'Developed Abundancia\'s tiny home and dome product line specifications',
-      '11 years spanning construction, marketing, interior design, and real estate',
+      '$750M+ in equity and debt arranged for real estate nationally',
+      'Structured the $12.5M Reg D 506(c) offering with LP-favorable waterfall',
+      'Manages investor pipeline, due diligence process, and capital deployment',
     ],
     linkedIn: '',
-  },
-  {
-    name: 'Rohan Guyot-Sutherland',
-    photo: '/images/team/rohan-guyot-sutherland.jpg',
-    role: 'Regenerative Systems & Design',
-    bio: '15 years as a regenerative designer, builder, teacher, and global advocate. Has led 20+ projects in sustainability, biomimicry, self-sufficiency, and climate change adaptation. Rohan leads the integration of Abundancia\'s food forests, solar arrays, water harvesting systems, and living infrastructure.',
-    expertise: ['Permaculture Design', 'Biomimicry', 'Climate Adaptation', 'Self-Sufficiency Systems'],
-    achievements: [
-      '15 years as regenerative designer, builder, and global advocate',
-      '20+ projects in sustainability, biomimicry, and climate change adaptation',
-      'Leads all regenerative systems design for the 380-acre Abundancia site',
-    ],
-    linkedIn: '',
-    projectLink: { label: 'Regenerative Systems', href: '/story/regeneration' },
+    projectLink: { label: 'Investment Details', href: '/invest' },
   },
   {
     name: 'Angele Miller',
@@ -163,22 +150,57 @@ const CORE_TEAM = [
     linkedIn: '',
   },
   {
-    name: 'Lancelot Stukaloff',
-    photo: '/images/team/lancelot-stukaloff.png',
-    role: 'Capital Markets',
-    bio: '10+ years as a real estate investor and capital markets advisor. Has arranged over $750M in equity and debt financing for real estate developments and projects nationwide. Lancelot structures Abundancia\'s investment vehicles, manages the investor pipeline, and drives capital deployment.',
-    expertise: ['Capital Markets', 'Equity Structuring', 'Debt Financing', 'Investor Relations'],
+    name: 'Gloria Merrick',
+    photo: '/images/team/gloria-merrick.png',
+    role: 'Tiny Home Builder & Design',
+    bio: '11 years in construction, marketing, interior design, and real estate investing. Specializes in eco-friendly alternative housing and has built over 16 unique tiny and off-grid living spaces. Gloria brings hands-on expertise in every phase from design concept to final build.',
+    expertise: ['Tiny Home Design', 'Eco-Friendly Construction', 'Interior Design', 'Off-Grid Systems'],
     achievements: [
-      '$750M+ in equity and debt arranged for real estate nationally',
-      'Structured the $12.5M Reg D 506(c) offering with LP-favorable waterfall',
-      'Manages investor pipeline, due diligence process, and capital deployment',
+      '16+ unique tiny and off-grid living spaces built',
+      'Developed Abundancia\'s tiny home and dome product line specifications',
+      '11 years spanning construction, marketing, interior design, and real estate',
     ],
     linkedIn: '',
-    projectLink: { label: 'Investment Details', href: '/invest' },
+  },
+  {
+    name: 'Chelsae Zirna',
+    photo: '/images/team/chelsae-zirna.jpg',
+    role: 'Retreat Visionary & Steward',
+    bio: 'Chelsae Zirna is a retreat facilitator devoted to liberating love. She has been an experience designer and community builder for over a decade — from inside IBM to her company Chrysalis. Chelsae leads the intentional design of Abundancia\'s retreat experiences, weaving transformative programming into the land itself.',
+    shortBio: 'Retreat facilitator and experience designer devoted to liberating love, with a decade of work spanning IBM to founding Chrysalis.',
+    expertise: ['Retreat Facilitation', 'Experience Design', 'Community Building', 'Transformative Programming'],
+    achievements: [
+      'Over a decade of experience design and community building',
+      'Led transformative initiatives from inside IBM to founding Chrysalis',
+      'Steward of intentional retreat experiences rooted in love and liberation',
+    ],
+    linkedIn: '',
+  },
+  {
+    name: 'Jared Gossett',
+    photo: '/images/team/jared-gossett.png',
+    role: 'Luxury Home Builder',
+    bio: "Austin's #1 luxury builder by volume with 170+ homes built and 2X Austin Custom Home Builder of the Year. Creator of the Legacy Living™ wellness-home program, integrating masterful craftsmanship with health-forward design principles aligned with Abundancia's vision for exceptional residential living.",
+    shortBio: "Austin's #1 luxury builder by volume — 170+ homes, 2X Custom Home Builder of the Year, and creator of the Legacy Living™ wellness-home program.",
+    expertise: ['Luxury Home Building', 'Wellness Design', 'Custom Homes', 'Construction Management'],
+    achievements: [
+      "Austin's #1 luxury builder by volume with 170+ homes built",
+      '2X Austin Custom Home Builder of the Year',
+      'Creator of the Legacy Living™ wellness-home program',
+    ],
+    linkedIn: '',
   },
 ]
 
 const PARTNERS = [
+  {
+    name: 'Rohan Guyot-Sutherland',
+    photo: '/images/team/rohan-guyot-sutherland.jpg',
+    org: 'Independent',
+    focus: 'Regenerative Systems Design',
+    detail: '15 years as a regenerative designer, builder, teacher, and global advocate. Has led 20+ projects in sustainability, biomimicry, self-sufficiency, and climate change adaptation. Rohan leads the integration of food forests, solar arrays, water harvesting systems, and living infrastructure across the Abundancia site.',
+    role: 'Regenerative systems advisor — food forests, water harvesting, solar integration, and ecological living infrastructure.',
+  },
   {
     name: 'Eduardo Esparza',
     photo: '/images/team/eduardo-esparza.jpg',
@@ -218,14 +240,6 @@ const PARTNERS = [
     focus: 'Development Advisory',
     detail: '25 years and 400+ Texas real estate projects. Currently leading Stonebrush — an 817-home Bastrop master-planned community with $52M in MUD bond reimbursements. Kacee brings unmatched expertise in MUD bond financing, builder attraction, and Bastrop County permitting directly applicable to Abundancia.',
     role: 'Development advisor on MUD bond financing, builder attraction, county permitting, and large-scale project structuring.',
-  },
-  {
-    name: 'Jared Gossett',
-    photo: '/images/team/jared-gossett.png',
-    org: 'Independent',
-    focus: 'Luxury Home Building',
-    detail: "Austin's #1 luxury builder by volume with 170+ homes built and 2X Austin Custom Home Builder of the Year. Creator of the Legacy Living™ wellness-home program, integrating craftsmanship with health-forward design principles aligned with Abundancia's vision.",
-    role: 'Luxury home construction lead — high-end residential builds integrating wellness design standards.',
   },
   {
     name: 'Adelle York',
@@ -362,7 +376,7 @@ export default function TeamPage() {
         <div className="absolute inset-0 bg-gradient-to-b from-primary-50 to-canvas" />
         <div className="relative section-container">
           <FadeIn>
-            <span className="eyebrow mb-4 block">Leadership</span>
+            <span className="eyebrow mb-4 block">Team &amp; Partners</span>
             <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-neutral-900 mb-6 max-w-4xl">
               The Team Behind the Vision
             </h1>
@@ -401,7 +415,7 @@ export default function TeamPage() {
                 Core Team
               </span>
               <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
-                Leadership
+                Team &amp; Partners
               </h2>
             </div>
           </FadeIn>
