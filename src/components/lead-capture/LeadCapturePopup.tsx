@@ -21,7 +21,7 @@ type InterestId = (typeof INTERESTS)[number]['id']
 // Routing map — interest → application page
 // ═══════════════════════════════════════════════════════════════════════════
 const INTEREST_ROUTES: Record<InterestId, { label: string; href: string; icon: typeof Home }> = {
-  buying: { label: 'Complete Homebuyer Application', href: '/story/community/live', icon: Home },
+  buying: { label: 'Complete Homebuyer Application', href: '/story/community/homebuyer', icon: Home },
   investing: { label: 'Complete Investor Application', href: '/invest/apply', icon: TrendingUp },
   collaborating: { label: 'Complete Collaborator Application', href: '/team/collaborate', icon: Handshake },
 }

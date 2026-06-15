@@ -103,7 +103,7 @@ async function sendUserApplicationLinks(lead: Lead) {
   }
 
   const LINKS: Record<string, { label: string; href: string }> = {
-    buying: { label: 'Complete Your Homebuyer Application', href: 'https://abundancia.life/story/community/live' },
+    buying: { label: 'Complete Your Homebuyer Application', href: 'https://abundancia.life/story/community/homebuyer' },
     investing: { label: 'Complete Your Investor Application', href: 'https://abundancia.life/invest/apply' },
     collaborating: { label: 'Complete Your Collaborator Application', href: 'https://abundancia.life/team/collaborate' },
   }
