@@ -4,7 +4,7 @@ import { NextResponse } from 'next/server'
 // Application Submissions API
 //
 // Handles all 3 form types:
-//   homebuyer    → /story/community/live
+//   homebuyer    → /story/community/homebuyer
 //   investor     → /invest/apply
 //   collaborator → /team/collaborate
 //
