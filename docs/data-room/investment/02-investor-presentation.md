@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Investor Presentation
@@ -12,11 +11,11 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
-> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. Distribution, reproduction, or disclosure to unauthorized parties is strictly prohibited. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before making any investment decision.*
+> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Community LLC, a Delaware LLC. Distribution, reproduction, or disclosure to unauthorized parties is strictly prohibited. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before making any investment decision.*
 
 ---
 
@@ -98,15 +97,15 @@ This paradigm has produced the suburbs of the 20th century — functional as she
 
 ## 2. The Solution
 
-### 2.1 Abundancia Austin: Regenerative Community as Asset Class
+### 2.1 Abundancia Community: Regenerative Community as Asset Class
 
-Abundancia Austin is a 376-acre regenerative master-planned community in Cedar Creek, Bastrop County, Texas, designed to prove that profitable development and ecological regeneration are not competing objectives but complementary forces.
+Abundancia Community is a 376-acre regenerative master-planned community in Cedar Creek, Bastrop County, Texas, designed to prove that profitable development and ecological regeneration are not competing objectives but complementary forces.
 
 **The core insight:** When you design with nature rather than against it, you reduce costs, increase value, and create communities people will pay a premium to join.
 
 ### 2.2 What Makes Abundancia Different
 
-| Dimension | Conventional Development | Abundancia Austin |
+| Dimension | Conventional Development | Abundancia Community |
 |---|---|---|
 | **Building Material** | Concrete, wood frame, synthetic insulation | Hempcrete (carbon-negative, 500+ yr lifespan) |
 | **Land Strategy** | Clear, grade, build | Restore, integrate, enhance |
@@ -389,7 +388,7 @@ Hempcrete has matured from a niche material to a commercially viable constructio
 
 ### 6.1 Market Size and Segmentation
 
-Abundancia Austin sits at the intersection of several large and growing markets:
+Abundancia Community sits at the intersection of several large and growing markets:
 
 | Market | Global Size | US Size | Growth Rate |
 |---|---|---|---|
@@ -455,7 +454,7 @@ The Austin market has numerous master-planned communities, but none offering Abu
 
 | Community | Location | Price Range | Hempcrete | Regenerative Ag | Carbon Negative | Community Model |
 |---|---|---|---|---|---|---|
-| **Abundancia Austin** | Cedar Creek (Bastrop Co.) | $200K-$625K | Yes | Yes | Yes | Regenerative community |
+| **Abundancia Community** | Cedar Creek (Bastrop Co.) | $200K-$625K | Yes | Yes | Yes | Regenerative community |
 | Whisper Valley | Manor (Travis Co.) | $350K-$650K | No | No | No | Geothermal + solar |
 | Easton Park | SE Austin (Travis Co.) | $400K-$800K | No | No | No | Conventional MPD |
 | Sunfield | Buda (Hays Co.) | $300K-$550K | No | No | No | Conventional MPD |
@@ -682,7 +681,7 @@ Investor distributions follow a four-tier waterfall structure aligned with insti
 
 ### 10.1 Five Strategic Moats
 
-Abundancia Austin has constructed five competitive moats that are difficult or impossible for conventional developers to replicate:
+Abundancia Community has constructed five competitive moats that are difficult or impossible for conventional developers to replicate:
 
 #### Moat 1: Carbon-Negative Construction at Scale
 
@@ -812,7 +811,7 @@ Strategic advisors provide domain expertise in:
 |---|---|
 | **Nicholas Courchesne** | Founder & CEO |
 | **Email** | nicholas@lightbrands.ai |
-| **Entity** | Abundancia Austin Holdings, LLC |
+| **Entity** | Abundancia Community LLC, a Delaware LLC |
 | **Location** | Austin, Texas |
 
 ---
@@ -869,4 +868,4 @@ Strategic advisors provide domain expertise in:
 
 *This Investor Presentation is provided for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities. Any such offer may only be made pursuant to the Private Placement Memorandum and related offering documents. Past performance is not indicative of future results. Prospective investors should consult their own legal, tax, and financial advisors before making any investment decision.*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC, a Delaware LLC. All rights reserved.*

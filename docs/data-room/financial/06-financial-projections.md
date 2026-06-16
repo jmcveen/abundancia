@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## 10-Year Financial Projections
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -38,7 +37,7 @@
 
 ## 1. Executive Financial Summary
 
-Abundancia Austin's 10-year financial model projects total revenue of **$435M** (base case) from a diversified mix of residential sales, rental operations, lot sales, commercial leasing, and retreat programming. The project targets a **37.1% IRR** and **4.42x equity multiple** on a **$12.5M** capital raise, with robust returns across all three modeled scenarios.
+Abundancia Community's 10-year financial model projects total revenue of **$435M** (base case) from a diversified mix of residential sales, rental operations, lot sales, commercial leasing, and retreat programming. The project targets a **37.1% IRR** and **4.42x equity multiple** on a **$12.5M** capital raise, with robust returns across all three modeled scenarios.
 
 | Metric | Conservative | Base | Optimistic |
 |--------|-------------|------|-----------|

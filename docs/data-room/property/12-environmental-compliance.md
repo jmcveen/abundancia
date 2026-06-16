@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Environmental Compliance & Conservation Strategy
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -171,14 +170,14 @@ The LPHCP classifies land into tiers based on Houston toad habitat quality:
 
 ### 4.1 Conservation-First Design
 
-Abundancia's 70-75% conservation commitment significantly exceeds LPHCP minimum requirements. This surplus conservation creates a strong compliance position and potential for mitigation banking.
+Abundancia's 62% natural land commitment significantly exceeds LPHCP minimum requirements. This surplus conservation creates a strong compliance position and potential for mitigation banking.
 
 | LPHCP Requirement | Minimum Required | Abundancia Commitment | Surplus |
 |-------------------|-----------------|----------------------|---------|
 | Tier 1 conservation | 100% | 100% | 0% (full compliance) |
 | Tier 2 conservation ratio | 2:1 | ~3:1 (effective) | +50% above minimum |
 | Tier 3 conservation ratio | 1:1 | ~2:1 (effective) | +100% above minimum |
-| Total land conserved | ~180 acres (est. minimum) | 268 acres (71.3%) | +88 acres surplus |
+| Total land conserved | ~180 acres (est. minimum) | 235 acres (62.5%) | +55 acres surplus |
 | Breeding pond buffers | 300 ft radius | 500 ft radius (planned) | +67% buffer |
 | Construction timing restrictions | Jan 15 - Jun 30 (breeding) | Full compliance | Standard |
 
@@ -219,7 +218,7 @@ Abundancia's 70-75% conservation commitment significantly exceeds LPHCP minimum 
 
 | Parameter | Detail |
 |-----------|--------|
-| **Total conservation acreage** | 268 acres (71.3% of property) |
+| **Total conservation acreage** | 235 acres (62.5% of property) |
 | **Easement holder** | Qualified land trust (e.g., Texas Land Conservancy, Hill Country Conservancy) |
 | **Duration** | Perpetual |
 | **Monitoring** | Annual by easement holder + USFWS reporting |
@@ -239,7 +238,7 @@ Abundancia's 70-75% conservation commitment significantly exceeds LPHCP minimum 
 | Food Forest Commons | 25 | Agricultural conservation | Moderate | Phase 2 |
 | Pond System (non-breeding) | 20 | Water management | Moderate | Phase 1-2 |
 | Buffer Zones | 14 | Development edge buffers | Standard | Phase 2-3 |
-| **Total** | **268** | | | |
+| **Total** | **235** | | | |
 
 ### 5.3 Tax Benefits Analysis
 
@@ -357,7 +356,7 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 
 | BMP Category | Specific Measure | Location | Effectiveness |
 |-------------|-----------------|----------|---------------|
-| **Source control** | Zero chemical landscaping in conservation zones | 268 conservation acres | Eliminates runoff contamination |
+| **Source control** | Zero chemical landscaping in conservation zones | 235 conservation acres | Eliminates runoff contamination |
 | **Source control** | Organic-only food forest management | 52 agricultural acres | Prevents pesticide loading |
 | **Source control** | Pet waste stations + composting | All residential zones | Reduces nutrient loading |
 | **Structural** | Bioswales along all roads | 7+ miles of road | 70-80% TSS removal |
@@ -574,7 +573,7 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 
 ### 13.2 Key Compliance Advantages
 
-1. **Conservation surplus**: 71.3% conservation commitment far exceeds LPHCP minimums, providing regulatory cushion and goodwill with USFWS and Bastrop County
+1. **Conservation surplus**: 62.5% natural land commitment far exceeds LPHCP minimums, providing regulatory cushion and goodwill with USFWS and Bastrop County
 2. **Net positive environmental impact**: Active habitat restoration, invasive management, and prescribed fire improve ecological conditions beyond baseline
 3. **Early engagement**: Pre-application meetings with Bastrop County and USFWS establish collaborative relationship before any permit applications
 4. **Flexible site plan**: 200 prepared lots and phased construction allow unit placement to respond to survey findings
@@ -586,4 +585,4 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 
 *End of Document 12 — Environmental Compliance & Conservation Strategy*
 
-*Abundancia Austin Holdings, LLC — Confidential*
+*Abundancia Community LLC, a Delaware LLC — Confidential*

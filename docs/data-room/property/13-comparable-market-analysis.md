@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Comparable Market Analysis
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -212,7 +211,7 @@
 
 | Development | Acres | Units | Conservation % | Price Range | Absorption | Premium |
 |-------------|-------|-------|---------------|-------------|------------|---------|
-| **Abundancia Austin** | **376** | **420+** | **70-75%** | **$125K-850K** | **60-90/yr (proj.)** | **15-30% (proj.)** |
+| **Abundancia Community** | **376** | **420+** | **62%** | **$125K-850K** | **60-90/yr (proj.)** | **15-30% (proj.)** |
 | Whisper Valley | 2,062 | 7,500 | 15-20% | $290K-550K | 400/yr | 5-10% |
 | Colony Park | 208 | 2,200 | 10-15% | $250K-600K | TBD | N/A (mixed-income) |
 | Cosmos Ranch | 135 | 40-60 | 40-50% | $200K-400K | 8-12/yr | 10-15% |
@@ -236,7 +235,7 @@
 
 **Pricing Rationale:** Abundancia single-family homes are positioned above standard Bastrop County new construction (reflecting the premium community, infrastructure, and conservation setting) but below Dripping Springs custom and Serenbe pricing. The $250-305/SF target represents a 25-35% premium over Bastrop County averages, justified by:
 
-- 70-75% conservation setting (unique in market)
+- 62% natural land setting (unique in market)
 - Solar + battery + fiber infrastructure
 - Community amenities (retreat, village center, food forests)
 - Houston toad conservation story (ESG appeal)
@@ -327,7 +326,7 @@
 
 | Attribute | Conventional Suburban | Eco-Branded (Whisper Valley) | Premium Conservation (Abundancia) |
 |-----------|---------------------|-----------------------------|---------------------------------|
-| Conservation % | 5-15% | 15-20% | 70-75% |
+| Conservation % | 5-15% | 15-20% | 62% |
 | Energy | Grid-dependent | Zero-energy homes | Community solar + battery |
 | Water | Municipal | Municipal | Community system + rainwater + reuse |
 | Food | None | Community farm (limited) | 20+ acre food forests, restaurant |
@@ -341,7 +340,7 @@
 
 | Factor | Estimated Premium Contribution | Evidence |
 |--------|-------------------------------|----------|
-| Conservation setting (70-75% preserved) | 8-12% | Serenbe commands 25-40% with 70% greenspace |
+| Conservation setting (62% natural land) | 8-12% | Serenbe commands 25-40% with 70% greenspace |
 | Community infrastructure (solar, fiber, water) | 3-5% | Babcock Ranch 10-15% premium for solar |
 | Amenity package (retreat, village, food forests) | 3-6% | Mueller, Serenbe amenity premiums |
 | Brand / lifestyle positioning | 2-4% | Wellness economy buyer willingness to pay |
@@ -447,7 +446,7 @@
 
 | Factor | Abundancia | Whisper Valley | Advantage |
 |--------|-----------|----------------|-----------|
-| Conservation | 70-75% | 15-20% | Abundancia |
+| Conservation | 62% | 15-20% | Abundancia |
 | Lot size | 0.15-0.50 acre | 0.10-0.15 acre | Abundancia |
 | Price/SF | $250-305 | $195-245 | Whisper Valley (lower) |
 | Amenity depth | Full retreat + village + food forest | Farm, pool, trails | Abundancia |
@@ -465,7 +464,7 @@
 | Setting | Rural conservation (376 acres) | Urban infill (208 acres) | Different — depends on buyer |
 | Transit | Car-dependent | Bus/future rail | Colony Park |
 | Affordability | Market-rate premium | 30% affordable component | Colony Park (inclusivity) |
-| Nature access | 268 acres preserved | Limited urban greenspace | Abundancia |
+| Nature access | 235 acres natural land | Limited urban greenspace | Abundancia |
 | Commute | 30 min to downtown | 15 min to downtown | Colony Park |
 | Wellness amenities | Comprehensive | Basic | Abundancia |
 | **Overall** | | | **Different target markets** |
@@ -487,7 +486,7 @@
 
 | Factor | Abundancia | Serenbe | Advantage |
 |--------|-----------|---------|-----------|
-| Conservation % | 70-75% | 70% | Comparable |
+| Conservation % | 62% | 70% | Serenbe |
 | Market maturity | Pre-development | 20+ years operating | Serenbe (proven) |
 | Price level | $125K-850K | $500K-2.5M+ | Abundancia (accessibility) |
 | Geographic demand | Austin MSA (fastest-growing) | Atlanta MSA (large, slower-growing) | Abundancia |
@@ -541,4 +540,4 @@
 
 *End of Document 13 — Comparable Market Analysis*
 
-*Abundancia Austin Holdings, LLC — Confidential*
+*Abundancia Community LLC, a Delaware LLC — Confidential*

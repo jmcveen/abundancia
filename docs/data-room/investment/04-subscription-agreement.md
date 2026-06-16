@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Subscription Agreement
@@ -12,11 +11,11 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
-> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. This Subscription Agreement, together with the Private Placement Memorandum and Operating Agreement, constitutes the complete offering materials for this investment. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before executing this Agreement.*
+> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Community LLC, a Delaware LLC. This Subscription Agreement, together with the Private Placement Memorandum and Operating Agreement, constitutes the complete offering materials for this investment. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before executing this Agreement.*
 
 ---
 
@@ -49,7 +48,7 @@
 
 THIS SUBSCRIPTION AGREEMENT (this "Agreement") is entered into as of the date of execution set forth on the signature page hereof (the "Effective Date"), by and between:
 
-**ABUNDANCIA AUSTIN HOLDINGS, LLC**, a Texas Series Limited Liability Company (the "Company"), acting through its General Partner, Abundancia Austin GP, LLC (the "Manager"),
+**ABUNDANCIA AUSTIN HOLDINGS, LLC**, a Delaware Limited Liability Company (the "Company"), acting through its General Partner, the Manager (the "Manager"),
 
 and
 
@@ -283,7 +282,7 @@ The Subscriber represents and warrants that:
 
 (b) The Subscriber has prior experience investing in one or more of the following: (i) private placements of securities; (ii) real estate development projects; (iii) limited partnerships or limited liability companies; (iv) illiquid, long-term investments; or (v) other investments of a comparable nature and risk profile; or, alternatively, the Subscriber has consulted with professional advisors who have provided guidance regarding the risks, merits, and suitability of this investment;
 
-(c) The Subscriber understands the nature and structure of the Company, including the Texas Series LLC structure, the GP/LP relationship, the distribution waterfall, the fee structure, and the limited rights of Limited Partners;
+(c) The Subscriber understands the nature and structure of the Company, including the Delaware LLC structure, the GP/LP relationship, the distribution waterfall, the fee structure, and the limited rights of Limited Partners;
 
 (d) The Subscriber understands the terms, risks, and potential rewards of an investment in the Units as described in the Offering Documents; and
 
@@ -361,7 +360,7 @@ Subscription funds shall be wired to:
 |---|---|
 | **Receiving Bank** | [To be provided upon execution] |
 | **ABA/Routing Number** | [To be provided upon execution] |
-| **Account Name** | Abundancia Austin Holdings, LLC — Investor Escrow Account |
+| **Account Name** | Abundancia Community LLC, a Delaware LLC — Investor Escrow Account |
 | **Account Number** | [To be provided upon execution] |
 | **SWIFT Code (international)** | [To be provided if applicable] |
 | **Reference/Memo** | [Subscriber Name] — Class A Subscription |
@@ -819,7 +818,7 @@ BY SIGNING BELOW, THE SUBSCRIBER REPRESENTS, WARRANTS, AND CERTIFIES THAT:
 The Manager, on behalf of the Company, hereby accepts the subscription of the Subscriber identified above for the number of Units and Subscription Amount set forth herein, subject to the terms and conditions of this Agreement, the Operating Agreement, and the Private Placement Memorandum.
 
 **ABUNDANCIA AUSTIN HOLDINGS, LLC**
-By: Abundancia Austin GP, LLC, its General Partner and Manager
+By: the Manager, its General Partner and Manager
 
 | | |
 |---|---|
@@ -833,7 +832,7 @@ By: Abundancia Austin GP, LLC, its General Partner and Manager
 ---
 
 **ABUNDANCIA AUSTIN HOLDINGS, LLC**
-By: Abundancia Austin GP, LLC, its General Partner and Manager
+By: the Manager, its General Partner and Manager
 
 | | |
 |---|---|
@@ -859,6 +858,6 @@ By: Abundancia Austin GP, LLC, its General Partner and Manager
 
 ---
 
-*This Subscription Agreement is provided as part of the Abundancia Austin investor data room. Securities offered hereby have not been registered under the Securities Act of 1933 or any state securities laws and may not be resold unless registered or exempt from registration. This document does not constitute an offer to sell or a solicitation of an offer to buy securities in any jurisdiction where such offer or solicitation would be unlawful.*
+*This Subscription Agreement is provided as part of the Abundancia Community investor data room. Securities offered hereby have not been registered under the Securities Act of 1933 or any state securities laws and may not be resold unless registered or exempt from registration. This document does not constitute an offer to sell or a solicitation of an offer to buy securities in any jurisdiction where such offer or solicitation would be unlawful.*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC, a Delaware LLC. All rights reserved.*

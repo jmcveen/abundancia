@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Operating Agreement
@@ -12,11 +11,11 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
-> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. This Operating Agreement, together with the Private Placement Memorandum and Subscription Agreement, constitutes the complete offering materials for this investment. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before executing any investment documents.*
+> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Community LLC, a Delaware LLC. This Operating Agreement, together with the Private Placement Memorandum and Subscription Agreement, constitutes the complete offering materials for this investment. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before executing any investment documents.*
 
 ---
 
@@ -52,9 +51,9 @@
 
 ---
 
-THIS OPERATING AGREEMENT (this "Agreement") of **ABUNDANCIA AUSTIN HOLDINGS, LLC**, a Texas Series Limited Liability Company (the "Company"), is entered into and effective as of the date of the last signature hereto (the "Effective Date"), by and among:
+THIS OPERATING AGREEMENT (this "Agreement") of **ABUNDANCIA AUSTIN HOLDINGS, LLC**, a Delaware Limited Liability Company (the "Company"), is entered into and effective as of the date of the last signature hereto (the "Effective Date"), by and among:
 
-**ABUNDANCIA AUSTIN GP, LLC**, a Texas limited liability company, as General Partner and Manager (the "Manager" or "General Partner" or "GP"); and
+**ABUNDANCIA AUSTIN GP, LLC**, a Delaware limited liability company, as General Partner and Manager (the "Manager" or "General Partner" or "GP"); and
 
 **THE PERSONS AND ENTITIES** listed on **Exhibit A** attached hereto, as Limited Partners (each a "Limited Partner" and collectively, the "Limited Partners" or "LPs");
 
@@ -64,7 +63,7 @@ THIS OPERATING AGREEMENT (this "Agreement") of **ABUNDANCIA AUSTIN HOLDINGS, LLC
 
 ### RECITALS
 
-A. The Company was formed as a Texas Series Limited Liability Company under the Texas Business Organizations Code (the "TBOC"), Title 3, Chapter 101, by the filing of a Certificate of Formation with the Secretary of State of Texas.
+A. The Company was formed as a Delaware Limited Liability Company under the Texas Business Organizations Code (the "DLLCA"), Title 3, Chapter 101, by the filing of a Certificate of Formation with the Secretary of State of Texas.
 
 B. The Members desire to enter into this Agreement to set forth their respective rights, obligations, and duties with respect to the Company and to govern the management, operation, and affairs of the Company.
 
@@ -80,37 +79,37 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements set fort
 
 ### Section 1.1 — Formation
 
-The Company has been organized as a Texas Series Limited Liability Company pursuant to the provisions of the TBOC by the filing of a Certificate of Formation with the Texas Secretary of State. The rights and obligations of the Members shall be as provided in the TBOC, except as otherwise expressly provided herein. To the extent that the provisions of this Agreement are inconsistent with the non-mandatory provisions of the TBOC, this Agreement shall control.
+The Company has been organized as a Delaware Limited Liability Company pursuant to the provisions of the DLLCA by the filing of a Certificate of Formation with the Delaware Secretary of State on January 19, 2022. The rights and obligations of the Members shall be as provided in the DLLCA, except as otherwise expressly provided herein. To the extent that the provisions of this Agreement are inconsistent with the non-mandatory provisions of the DLLCA, this Agreement shall control.
 
 ### Section 1.2 — Name
 
-The name of the Company is "Abundancia Austin Holdings, LLC." The Company's business shall be conducted under such name or under such other names as the Manager may from time to time designate, subject to compliance with applicable law.
+The name of the Company is "Abundancia Community LLC, a Delaware LLC." The Company's business shall be conducted under such name or under such other names as the Manager may from time to time designate, subject to compliance with applicable law.
 
-### Section 1.3 — Series LLC Structure
+### Section 1.3 — Unit Classes
 
-(a) The Company is organized as a Series LLC under the TBOC, Section 101.601 et seq. The Manager is authorized to establish one or more separate series (each a "Series") within the Company, each of which may have separate assets, liabilities, members, and purposes.
+The Company is organized as a single-entity Delaware LLC with two classes of membership units:
 
-(b) The following Series are hereby established:
+**(a) Class A Units (LP Investors).** Class A Units are issued to investors who contribute capital to the Company. Class A Unit holders receive:
+- Return of contributed capital
+- Preferred return as set forth in the waterfall provisions of this Agreement
+- A pro-rata share of distributable profits
 
-| Series | Purpose | Assets |
-|---|---|---|
-| **Series A — Land Holdings** | Hold title to the 376-acre property and undeveloped land | Real property, mineral rights, easements |
-| **Series B — Residential Development** | Develop, construct, and sell residential units and lots | Construction contracts, inventory, receivables |
-| **Series C — Rental Portfolio** | Own and operate retained rental units | Rental properties, leases, operating accounts |
-| **Series D — Commercial Operations** | Own and operate commercial spaces in the village center | Commercial leases, tenant improvements, operating accounts |
-| **Series E — Retreat & Events** | Own and operate the retreat center and event programming | Retreat center property, event contracts, operating accounts |
+Class A Unit holders have limited voting rights, restricted to the following major decisions: (i) sale or disposition of all or substantially all of the Company's real property; (ii) refinancing of senior debt in excess of thresholds set forth herein; and (iii) material deviations from the approved project budget or business plan.
 
-(c) The debts, liabilities, obligations, and expenses incurred, contracted for, or otherwise existing with respect to a particular Series shall be enforceable only against the assets of such Series, and not against the assets of the Company generally or any other Series, to the fullest extent permitted by the TBOC.
+**(b) Class B Units (GP / Manager).** Class B Units are issued to the Manager in recognition of contributions of vision, deal sourcing, execution, and brand and ecosystem development. Class B Unit holders receive:
+- A promote (carried interest / profit share) as set forth in the waterfall provisions of this Agreement
+- Management fees as may be approved by the Manager from time to time
+- Full management control of the Company and the Project
 
-(d) The Manager has sole authority to create additional Series, allocate assets and liabilities among Series, and dissolve or merge Series, in each case without the consent of the Limited Partners.
+The Manager holds all Class B Units and has sole authority to manage the day-to-day operations of the Company, make investment and development decisions, and take all actions on behalf of the Company except those requiring Class A Unit holder approval as set forth above.
 
 ### Section 1.4 — Principal Office
 
-The principal office of the Company shall be located in Austin, Texas, or at such other location as the Manager may from time to time designate. The Company may maintain additional offices at such places as the Manager deems necessary or appropriate.
+The principal office of the Company shall be located at 8 The Green, Suite D, Dover, Delaware 19901, or at such other location as the Manager may from time to time designate. The Company may maintain additional offices at such places as the Manager deems necessary or appropriate.
 
 ### Section 1.5 — Registered Agent and Office
 
-The registered agent and registered office of the Company in the State of Texas shall be as set forth in the Certificate of Formation, or as subsequently changed by the Manager in accordance with the TBOC.
+The registered agent and registered office of the Company in the State of Delaware shall be Delaware Registered Agent Service LLC, or as subsequently changed by the Manager in accordance with the DLLCA.
 
 ### Section 1.6 — Term
 
@@ -156,7 +155,7 @@ The Company is organized for the following purposes:
 
 ### Section 2.2 — Powers
 
-The Company shall have and may exercise all powers and privileges granted to limited liability companies under the TBOC and any other applicable laws, together with any powers incidental thereto, so far as such powers and privileges are necessary or convenient for the conduct of the Company's business.
+The Company shall have and may exercise all powers and privileges granted to limited liability companies under the DLLCA and any other applicable laws, together with any powers incidental thereto, so far as such powers and privileges are necessary or convenient for the conduct of the Company's business.
 
 ### Section 2.3 — Limitations
 
@@ -174,7 +173,7 @@ The Members of the Company as of the Effective Date are set forth on **Exhibit A
 
 The membership interests in the Company are classified as follows:
 
-**(a) General Partner Interest.** The General Partner (Abundancia Austin GP, LLC) holds a General Partner Interest entitling it to: (i) manage the Company in accordance with Article VI; (ii) receive compensation as set forth in Section 6.8; and (iii) participate in distributions in accordance with Article VIII (the "Carried Interest" or "Promote").
+**(a) General Partner Interest.** The General Partner (the Manager) holds a General Partner Interest entitling it to: (i) manage the Company in accordance with Article VI; (ii) receive compensation as set forth in Section 6.8; and (iii) participate in distributions in accordance with Article VIII (the "Carried Interest" or "Promote").
 
 **(b) Class A Limited Partnership Interests ("Units").** Class A Units are issued to investors pursuant to the Subscription Agreement and entitle the holder to: (i) distributions in accordance with Article VIII; (ii) allocations of income, gain, loss, deduction, and credit in accordance with Article IX; (iii) information rights as set forth in Article XII; (iv) voting rights as set forth in Section 7.2; and (v) such other rights as set forth herein.
 
@@ -196,7 +195,7 @@ Membership interests in the Company shall not be represented by certificates. Th
 
 ### Section 3.6 — No Authority of Limited Partners
 
-Except as expressly provided in this Agreement, no Limited Partner shall have any right, power, or authority to act for or bind the Company, to participate in the management or control of the Company's business, or to transact any business on behalf of the Company. The exercise by a Limited Partner of any right or power granted to Limited Partners under this Agreement or the TBOC shall not be deemed participation in the management or control of the Company's business.
+Except as expressly provided in this Agreement, no Limited Partner shall have any right, power, or authority to act for or bind the Company, to participate in the management or control of the Company's business, or to transact any business on behalf of the Company. The exercise by a Limited Partner of any right or power granted to Limited Partners under this Agreement or the DLLCA shall not be deemed participation in the management or control of the Company's business.
 
 ---
 
@@ -234,11 +233,11 @@ If a Limited Partner (a "Defaulting Member") fails to fund its pro rata share of
 
 (a) Except as expressly provided in Article VIII (Distributions) and Article XIII (Dissolution), no Member shall have the right to withdraw, reduce, or receive a return of its Capital Contribution, or to receive interest on its Capital Contribution.
 
-(b) No Member shall be obligated to restore any deficit in its Capital Account upon dissolution or otherwise, except as may be required by the TBOC or this Agreement.
+(b) No Member shall be obligated to restore any deficit in its Capital Account upon dissolution or otherwise, except as may be required by the DLLCA or this Agreement.
 
 ### Section 4.5 — No Additional Obligation
 
-Except as provided in Section 4.2 (Capital Calls), no Member shall be required to contribute capital to the Company in excess of its initial Capital Contribution. A Limited Partner's liability is limited to the amount of its Capital Contribution and any obligation to fund capital calls, as set forth in this Agreement and the TBOC.
+Except as provided in Section 4.2 (Capital Calls), no Member shall be required to contribute capital to the Company in excess of its initial Capital Contribution. A Limited Partner's liability is limited to the amount of its Capital Contribution and any obligation to fund capital calls, as set forth in this Agreement and the DLLCA.
 
 ---
 
@@ -274,7 +273,7 @@ The provisions of this Article V are intended to comply with Treasury Regulation
 
 ### Section 6.1 — Manager-Managed Company
 
-The Company is a "manager-managed" limited liability company. The business and affairs of the Company shall be managed exclusively by the Manager (Abundancia Austin GP, LLC). Except as expressly provided in this Agreement, no Member other than the Manager shall have any right, power, or authority to manage, conduct, or control the business of the Company.
+The Company is a "manager-managed" limited liability company. The business and affairs of the Company shall be managed exclusively by the Manager (the Manager). Except as expressly provided in this Agreement, no Member other than the Manager shall have any right, power, or authority to manage, conduct, or control the business of the Company.
 
 ### Section 6.2 — Powers of the Manager
 
@@ -417,7 +416,7 @@ In addition to the foregoing fees, the Company shall reimburse the Manager and i
 
 ### Section 7.1 — Limited Liability
 
-(a) No Limited Partner shall be personally liable for any debts, obligations, or liabilities of the Company solely by reason of being a Limited Partner. The liability of each Limited Partner shall be limited to the amount of its Capital Contribution, its share of undistributed Company profits (if any), and its obligation to fund capital calls (if any), to the fullest extent permitted by the TBOC and applicable law.
+(a) No Limited Partner shall be personally liable for any debts, obligations, or liabilities of the Company solely by reason of being a Limited Partner. The liability of each Limited Partner shall be limited to the amount of its Capital Contribution, its share of undistributed Company profits (if any), and its obligation to fund capital calls (if any), to the fullest extent permitted by the DLLCA and applicable law.
 
 (b) The Manager shall not be personally liable for the debts, obligations, or liabilities of the Company solely by reason of being the Manager, except to the extent that the Manager has personally guaranteed such debts, obligations, or liabilities, or to the extent that liability arises from the Manager's fraud, willful misconduct, or gross negligence.
 
@@ -772,13 +771,13 @@ The Company shall be dissolved upon the first to occur of the following events:
 
 (b) The sale, exchange, or other disposition of all or substantially all of the Company's assets and the distribution of all net proceeds to the Members in accordance with Article VIII;
 
-(c) The entry of a decree of judicial dissolution under Section 101.487 of the TBOC;
+(c) The entry of a decree of judicial dissolution under Section 101.487 of the DLLCA;
 
 (d) The occurrence of any event that makes it unlawful for the Company to continue its business, unless the illegality is cured within ninety (90) days;
 
 (e) The death, withdrawal, resignation, expulsion, bankruptcy, insolvency, or dissolution of the Manager, unless a successor Manager is appointed by Limited Partners holding a Supermajority Interest within ninety (90) days of such event; or
 
-(f) Any other event specified by the TBOC as causing dissolution of a limited liability company, to the extent not superseded by the provisions of this Agreement.
+(f) Any other event specified by the DLLCA as causing dissolution of a limited liability company, to the extent not superseded by the provisions of this Agreement.
 
 ### Section 13.2 — No Dissolution by Withdrawal of Limited Partner
 
@@ -796,7 +795,7 @@ The Company shall not be dissolved by the withdrawal, death, bankruptcy, insolve
 
    (iii) Liquidating remaining assets, including real property, at commercially reasonable prices (the Manager may distribute assets in kind if it determines that in-kind distribution is more advantageous to the Members than a forced sale);
 
-   (iv) Paying or adequately providing for all debts, liabilities, obligations, and expenses of the Company (in order of priority required by the TBOC and applicable law);
+   (iv) Paying or adequately providing for all debts, liabilities, obligations, and expenses of the Company (in order of priority required by the DLLCA and applicable law);
 
    (v) Establishing such reserves as the Manager deems reasonably necessary for contingent, conditional, or unliquidated liabilities or obligations of the Company (such reserves may be held for a period the Manager deems appropriate and shall be distributed to the Members upon release); and
 
@@ -836,7 +835,7 @@ Within one hundred twenty (120) days following the final distribution, the Manag
 
 ### Section 13.6 — Certificate of Termination
 
-Upon completion of winding up and distribution of all remaining assets, the Manager shall file a Certificate of Termination with the Texas Secretary of State in accordance with the TBOC, and the Company shall thereupon be terminated.
+Upon completion of winding up and distribution of all remaining assets, the Manager shall file a Certificate of Termination with the Texas Secretary of State in accordance with the DLLCA, and the Company shall thereupon be terminated.
 
 ### Section 13.7 — Survival of Certain Provisions
 
@@ -888,7 +887,7 @@ The Manager may amend this Agreement without the consent of any Limited Partner 
 
 (g) Ensuring that the Company is not treated as a publicly traded partnership under Section 7704 of the Code; or
 
-(h) Ensuring that the Company qualifies and continues to qualify as a limited liability company under the TBOC.
+(h) Ensuring that the Company qualifies and continues to qualify as a limited liability company under the DLLCA.
 
 ### Section 14.4 — Notice of Amendments
 
@@ -900,7 +899,7 @@ The Manager shall provide written notice to all Members of any amendment to this
 
 ### Section 15.1 — Indemnification of Manager and Related Parties
 
-(a) The Company shall, to the fullest extent permitted by the TBOC and applicable law, indemnify and hold harmless the Manager, its members, managers, officers, employees, agents, and affiliates (each, a "Manager Indemnified Party") from and against any and all losses, claims, damages, liabilities, judgments, fines, penalties, costs, and expenses (including reasonable attorneys' fees, court costs, costs of investigation, and amounts paid in settlement) (collectively, "Losses") arising out of, resulting from, or related to any act or omission of such Manager Indemnified Party performed or omitted in connection with the Company's business or affairs, or in such Manager Indemnified Party's capacity as manager, officer, employee, agent, or affiliate of the Company, to the extent that:
+(a) The Company shall, to the fullest extent permitted by the DLLCA and applicable law, indemnify and hold harmless the Manager, its members, managers, officers, employees, agents, and affiliates (each, a "Manager Indemnified Party") from and against any and all losses, claims, damages, liabilities, judgments, fines, penalties, costs, and expenses (including reasonable attorneys' fees, court costs, costs of investigation, and amounts paid in settlement) (collectively, "Losses") arising out of, resulting from, or related to any act or omission of such Manager Indemnified Party performed or omitted in connection with the Company's business or affairs, or in such Manager Indemnified Party's capacity as manager, officer, employee, agent, or affiliate of the Company, to the extent that:
 
    (i) Such act or omission was performed or omitted in good faith;
 
@@ -941,7 +940,7 @@ The Manager may obtain and maintain, at the Company's expense, such insurance po
 
 ### Section 15.5 — Exculpation
 
-To the fullest extent permitted by the TBOC and applicable law, no Member shall be liable, responsible, or accountable in damages or otherwise to the Company or to any other Member for any act performed, or failure to act, within the scope of the authority conferred on such Member by this Agreement, provided that such act or omission was performed or omitted in good faith and without fraud, willful misconduct, or gross negligence.
+To the fullest extent permitted by the DLLCA and applicable law, no Member shall be liable, responsible, or accountable in damages or otherwise to the Company or to any other Member for any act performed, or failure to act, within the scope of the authority conferred on such Member by this Agreement, provided that such act or omission was performed or omitted in good faith and without fraud, willful misconduct, or gross negligence.
 
 ---
 
@@ -953,7 +952,7 @@ This Agreement, together with the Subscription Agreements, the Private Placement
 
 ### Section 16.2 — Governing Law
 
-This Agreement shall be governed by and construed in accordance with the internal laws of the State of Texas (including the TBOC), without giving effect to any choice of law or conflict of law provisions that would cause the application of the laws of any other jurisdiction.
+This Agreement shall be governed by and construed in accordance with the internal laws of the State of Texas (including the DLLCA), without giving effect to any choice of law or conflict of law provisions that would cause the application of the laws of any other jurisdiction.
 
 ### Section 16.3 — Jurisdiction and Venue
 
@@ -1067,7 +1066,7 @@ Each Limited Partner shall execute a counterpart signature page to this Operatin
 
 **LIMITED PARTNER COUNTERPART SIGNATURE PAGE**
 
-By signing below, the undersigned acknowledges that it has read, understands, and agrees to be bound by the terms and conditions of this Operating Agreement of Abundancia Austin Holdings, LLC, dated as of March 2026.
+By signing below, the undersigned acknowledges that it has read, understands, and agrees to be bound by the terms and conditions of this Operating Agreement of Abundancia Community LLC, a Delaware LLC, dated as of March 2026.
 
 | | |
 |---|---|
@@ -1086,7 +1085,7 @@ By signing below, the undersigned acknowledges that it has read, understands, an
 
 | Member | Type | Capital Contribution | Units | Percentage Interest | Admission Date |
 |---|---|---|---|---|---|
-| Abundancia Austin GP, LLC | General Partner | $[________] | GP Interest | Carried Interest (per Art. VIII) | [________] |
+| the Manager | General Partner | $[________] | GP Interest | Carried Interest (per Art. VIII) | [________] |
 | [Investor 1] | Class A Limited Partner | $[________] | [________] | [________]% | [________] |
 | [Investor 2] | Class A Limited Partner | $[________] | [________] | [________]% | [________] |
 | [Investor 3] | Class A Limited Partner | $[________] | [________] | [________]% | [________] |
@@ -1105,9 +1104,9 @@ By signing below, the undersigned acknowledges that it has read, understands, an
 
 **Date:** [________]
 
-**To:** All Limited Partners of Abundancia Austin Holdings, LLC
+**To:** All Limited Partners of Abundancia Community LLC, a Delaware LLC
 
-Pursuant to Section 4.2 of the Operating Agreement of Abundancia Austin Holdings, LLC (the "Company"), dated March 2026, the Manager hereby calls for Additional Capital Contributions from the Limited Partners as follows:
+Pursuant to Section 4.2 of the Operating Agreement of Abundancia Community LLC, a Delaware LLC (the "Company"), dated March 2026, the Manager hereby calls for Additional Capital Contributions from the Limited Partners as follows:
 
 | Detail | Information |
 |---|---|
@@ -1124,8 +1123,8 @@ Pursuant to Section 4.2 of the Operating Agreement of Abundancia Austin Holdings
 
 Sincerely,
 
-**Abundancia Austin GP, LLC**
-Manager of Abundancia Austin Holdings, LLC
+**the Manager**
+Manager of Abundancia Community LLC, a Delaware LLC
 
 By: __________________________________________
 Nicholas Courchesne, Managing Member
@@ -1168,11 +1167,11 @@ Pursuant to Article VIII of the Operating Agreement, the Manager hereby provides
 
 Sincerely,
 
-**Abundancia Austin GP, LLC**
-Manager of Abundancia Austin Holdings, LLC
+**the Manager**
+Manager of Abundancia Community LLC, a Delaware LLC
 
 ---
 
-*This Operating Agreement is provided as part of the Abundancia Austin investor data room. Securities offered hereby have not been registered under the Securities Act of 1933 or any state securities laws and may not be resold unless registered or exempt from registration. This document does not constitute an offer to sell or a solicitation of an offer to buy securities in any jurisdiction where such offer or solicitation would be unlawful. Prospective investors should consult their own legal, tax, and financial advisors before making any investment decision.*
+*This Operating Agreement is provided as part of the Abundancia Community investor data room. Securities offered hereby have not been registered under the Securities Act of 1933 or any state securities laws and may not be resold unless registered or exempt from registration. This document does not constitute an offer to sell or a solicitation of an offer to buy securities in any jurisdiction where such offer or solicitation would be unlawful. Prospective investors should consult their own legal, tax, and financial advisors before making any investment decision.*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC, a Delaware LLC. All rights reserved.*

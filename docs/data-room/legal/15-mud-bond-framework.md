@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## MUD Bond Framework
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -41,7 +40,7 @@
 
 ## 1. Executive Summary
 
-The Abundancia Austin development intends to utilize a Municipal Utility District ("MUD") as a primary financing mechanism for major public infrastructure. MUD financing is a well-established tool in Texas real estate development that enables the issuance of tax-exempt bonds to fund water, wastewater, drainage, and road infrastructure. The developer advances the cost of infrastructure construction and is subsequently reimbursed through MUD bond proceeds, which are repaid by ad valorem property taxes levied within the district.
+The Abundancia Community development intends to utilize a Municipal Utility District ("MUD") as a primary financing mechanism for major public infrastructure. MUD financing is a well-established tool in Texas real estate development that enables the issuance of tax-exempt bonds to fund water, wastewater, drainage, and road infrastructure. The developer advances the cost of infrastructure construction and is subsequently reimbursed through MUD bond proceeds, which are repaid by ad valorem property taxes levied within the district.
 
 **Key Financial Impact:**
 
@@ -54,7 +53,7 @@ The Abundancia Austin development intends to utilize a Municipal Utility Distric
 | **Bond Term** | 20-30 years |
 | **Bond Rating Target** | Investment grade upon sufficient buildout |
 
-MUD financing is critical to the Abundancia Austin financial model. By shifting a substantial portion of infrastructure costs from upfront investor capital to long-term bond financing repaid by future property owners, the MUD structure significantly reduces the equity capital required from Limited Partners for horizontal development, improves project-level IRR, and accelerates the return of invested capital.
+MUD financing is critical to the Abundancia Community financial model. By shifting a substantial portion of infrastructure costs from upfront investor capital to long-term bond financing repaid by future property owners, the MUD structure significantly reduces the equity capital required from Limited Partners for horizontal development, improves project-level IRR, and accelerates the return of invested capital.
 
 ---
 
@@ -171,7 +170,7 @@ Following TCEQ approval, the MUD holds a confirmation election within its bounda
 
 ### 4.5 Bastrop County Considerations
 
-Bastrop County does not require separate county consent for MUD creation. The Abundancia Austin property is located outside any city's ETJ, which simplifies the creation process by eliminating the need for municipal consent. However, coordination with the Bastrop County Commissioners Court is advisable for road and drainage infrastructure that interfaces with county facilities.
+Bastrop County does not require separate county consent for MUD creation. The Abundancia Community property is located outside any city's ETJ, which simplifies the creation process by eliminating the need for municipal consent. However, coordination with the Bastrop County Commissioners Court is advisable for road and drainage infrastructure that interfaces with county facilities.
 
 ---
 
@@ -186,7 +185,7 @@ Bastrop County does not require separate county consent for MUD creation. The Ab
 | **Refunding Bonds** | Refinance existing bonds at lower rates | Tax-exempt interest |
 | **Contract Revenue Bonds** | Revenue-backed facilities | Varies |
 
-The Abundancia Austin MUD anticipates issuing primarily Unlimited Tax Bonds for water, wastewater, and drainage infrastructure, and Road Bonds for internal roadway construction.
+The Abundancia Community MUD anticipates issuing primarily Unlimited Tax Bonds for water, wastewater, and drainage infrastructure, and Road Bonds for internal roadway construction.
 
 ### 5.2 Bond Issuance Process
 
@@ -294,7 +293,7 @@ The MUD tax rate consists of two components:
 | **Operations & Maintenance (O&M)** | Ongoing utility operations, facility maintenance, administrative costs | $0.15 - $0.35 per $100 AV |
 | **Combined Rate** | Total MUD tax | $0.75 - $1.25 per $100 AV |
 
-### 7.2 Tax Rate Projections for Abundancia Austin
+### 7.2 Tax Rate Projections for Abundancia Community
 
 | Year | Estimated Assessed Value | Debt Service Rate | O&M Rate | Combined Rate |
 |------|------------------------|-------------------|----------|---------------|
@@ -310,13 +309,13 @@ The MUD tax rate consists of two components:
 
 ### 7.3 Total Tax Burden Context
 
-Homebuyers within the Abundancia Austin MUD will pay the following overlapping tax levies:
+Homebuyers within the Abundancia Community MUD will pay the following overlapping tax levies:
 
 | Taxing Authority | Estimated Rate (per $100 AV) |
 |-----------------|------------------------------|
 | Bastrop County | $0.37 |
 | Bastrop ISD | $1.05 |
-| Abundancia Austin MUD | $1.00 (stabilized estimate) |
+| Abundancia Community MUD | $1.00 (stabilized estimate) |
 | **Total** | **$2.42** |
 
 This total tax rate is competitive with comparable master-planned communities in the greater Austin region, where combined tax rates typically range from $2.20 to $3.00 per $100 of assessed value.
@@ -472,7 +471,7 @@ The following developments in the greater Austin region have successfully utiliz
 **Key Observations:**
 
 - MUD financing is the norm, not the exception, for master-planned communities in the Austin MSA.
-- Total tax rates across comparable developments range from $2.45 to $2.85, consistent with the Abundancia Austin projected rate of approximately $2.42.
+- Total tax rates across comparable developments range from $2.45 to $2.85, consistent with the Abundancia Community projected rate of approximately $2.42.
 - Bastrop County has active MUDs supporting major residential developments, confirming regulatory and market familiarity with the MUD structure.
 - Developments utilizing MUD financing have achieved strong absorption rates, demonstrating that MUD tax rates do not materially impede home sales in this market.
 
@@ -581,4 +580,4 @@ The following developments in the greater Austin region have successfully utiliz
 
 *MUD creation, bond issuance, and tax rates are subject to regulatory approval and market conditions. There is no guarantee that the MUD will be created, that bonds will be issued, or that the developer will be reimbursed on the timeline or in the amounts projected herein.*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC, a Delaware LLC. All rights reserved.*

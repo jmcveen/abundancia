@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Water Security Systems
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -45,7 +44,7 @@
 
 ## 1. Executive Summary
 
-Abundancia Austin's water system is designed as a closed-loop, self-sufficient infrastructure that secures the community's water supply independent of municipal water utilities. The system integrates five water sources — two existing wells, rainwater harvesting, seven retention ponds, and recycled greywater — into a unified management system that provides potable water, irrigation water, fire suppression capacity, and ecological services.
+Abundancia Community's water system is designed as a closed-loop, self-sufficient infrastructure that secures the community's water supply independent of municipal water utilities. The system integrates five water sources — two existing wells, rainwater harvesting, seven retention ponds, and recycled greywater — into a unified management system that provides potable water, irrigation water, fire suppression capacity, and ecological services.
 
 Central Texas receives approximately 34-38 inches of annual rainfall, and the community's land area captures an estimated 50-80 million gallons of precipitation annually. The water system is designed to capture, store, treat, and distribute this resource while maintaining reserves for drought periods. The 7 retention ponds provide an estimated 10-20 million gallons of storage capacity for stormwater management, irrigation, aquatic habitat, and emergency reserve.
 
@@ -758,4 +757,4 @@ Note: The cost premium for an independent water system ($26,000-$41,000 per home
 
 ---
 
-*This document is the intellectual property of Abundancia Austin Holdings, LLC. Reproduction or distribution without written consent is prohibited.*
+*This document is the intellectual property of Abundancia Community LLC, a Delaware LLC. Reproduction or distribution without written consent is prohibited.*

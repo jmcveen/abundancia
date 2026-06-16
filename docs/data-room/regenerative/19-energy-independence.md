@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Energy Independence Plan
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -45,7 +44,7 @@
 
 ## 1. Executive Summary
 
-Abundancia Austin is designed for complete energy independence — the ability to generate, store, and manage 100% of the community's electrical needs without reliance on the Texas grid. This is not merely an environmental aspiration; it is a safety-critical infrastructure decision informed by the catastrophic failure of the ERCOT grid during Winter Storm Uri in February 2021, when 4.5 million Texans lost power for days in sub-freezing temperatures, resulting in an estimated 246 deaths and $295 billion in damages.
+Abundancia Community is designed for complete energy independence — the ability to generate, store, and manage 100% of the community's electrical needs without reliance on the Texas grid. This is not merely an environmental aspiration; it is a safety-critical infrastructure decision informed by the catastrophic failure of the ERCOT grid during Winter Storm Uri in February 2021, when 4.5 million Texans lost power for days in sub-freezing temperatures, resulting in an estimated 246 deaths and $295 billion in damages.
 
 The energy system combines community-scale solar arrays (estimated 2-3 MW total capacity), distributed battery storage (Tesla Powerwall at each home plus community-scale Tesla Megapack or equivalent), and an intelligent microgrid that can operate in island mode indefinitely. The system maintains grid connection for economic benefit (net metering, demand response revenue) while never depending on it.
 
@@ -635,4 +634,4 @@ Note: Technology cost reductions are expected to significantly reduce replacemen
 
 ---
 
-*This document is the intellectual property of Abundancia Austin Holdings, LLC. Reproduction or distribution without written consent is prohibited.*
+*This document is the intellectual property of Abundancia Community LLC, a Delaware LLC. Reproduction or distribution without written consent is prohibited.*

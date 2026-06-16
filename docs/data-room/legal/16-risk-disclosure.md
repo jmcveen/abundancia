@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Risk Disclosure Document
@@ -12,11 +11,11 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
-> *This document contains forward-looking statements within the meaning of federal securities laws. These statements are based on current expectations and assumptions and are subject to risks and uncertainties that could cause actual results to differ materially. Prospective investors should carefully review all risk factors described herein before making an investment decision. This list of risk factors is not exhaustive. Additional risks not presently known or currently deemed immaterial may also adversely affect the investment. An investment in Abundancia Austin Holdings, LLC involves a high degree of risk, including the possible loss of the entire investment.*
+> *This document contains forward-looking statements within the meaning of federal securities laws. These statements are based on current expectations and assumptions and are subject to risks and uncertainties that could cause actual results to differ materially. Prospective investors should carefully review all risk factors described herein before making an investment decision. This list of risk factors is not exhaustive. Additional risks not presently known or currently deemed immaterial may also adversely affect the investment. An investment in Abundancia Community LLC, a Delaware LLC involves a high degree of risk, including the possible loss of the entire investment.*
 
 ---
 
@@ -38,7 +37,7 @@
 
 ### 1.1 Illiquidity of Investment
 
-**Description:** Membership interests in Abundancia Austin Holdings, LLC (the "Company") are illiquid securities that are not registered under the Securities Act of 1933 or any state securities laws. There is no public market for the interests, and none is expected to develop. Investors may not be able to sell, transfer, or otherwise dispose of their interests and should expect to hold their investment for the full duration of the project (estimated 5-10 years).
+**Description:** Membership interests in Abundancia Community LLC, a Delaware LLC (the "Company") are illiquid securities that are not registered under the Securities Act of 1933 or any state securities laws. There is no public market for the interests, and none is expected to develop. Investors may not be able to sell, transfer, or otherwise dispose of their interests and should expect to hold their investment for the full duration of the project (estimated 5-10 years).
 
 **Likelihood:** Certain
 **Potential Impact:** High - Investors must have the financial capacity to bear the risk of an illiquid, long-term investment.
@@ -104,7 +103,7 @@
 
 **Likelihood:** Moderate
 **Potential Impact:** High - Reduced buyer purchasing power, slower absorption, higher development costs.
-**Mitigation:** Abundancia Austin's target price point is positioned in the affordable to mid-market segment, which is less sensitive to rate increases than luxury markets. MUD bond financing (tax-exempt) provides a lower-cost infrastructure financing alternative. The project's phased approach allows capital deployment adjustments in response to rate environments. The financial model stress-tests returns under elevated rate scenarios.
+**Mitigation:** Abundancia Community's target price point is positioned in the affordable to mid-market segment, which is less sensitive to rate increases than luxury markets. MUD bond financing (tax-exempt) provides a lower-cost infrastructure financing alternative. The project's phased approach allows capital deployment adjustments in response to rate environments. The financial model stress-tests returns under elevated rate scenarios.
 
 ---
 
@@ -120,7 +119,7 @@
 
 ### 2.5 Competition
 
-**Description:** The Bastrop County and eastern Austin corridor is experiencing significant development activity. Multiple master-planned communities are under development or planned, creating competition for homebuyers and lot purchasers. Aggressive pricing or incentives by competitors could pressure Abundancia Austin's pricing and absorption.
+**Description:** The Bastrop County and eastern Austin corridor is experiencing significant development activity. Multiple master-planned communities are under development or planned, creating competition for homebuyers and lot purchasers. Aggressive pricing or incentives by competitors could pressure Abundancia Community's pricing and absorption.
 
 **Likelihood:** High
 **Potential Impact:** Moderate - Price pressure and slower absorption in early phases.
@@ -380,13 +379,13 @@ Engagement of USFWS-approved biological consultants. Staff training on ESA compl
 
 **Likelihood:** Low to Moderate
 **Potential Impact:** Moderate - Reduced property values, homeowner dissatisfaction, reputational harm.
-**Mitigation:** Professional property management through Abundancia Austin Manager, LLC (affiliated entity) or a qualified third-party manager. Comprehensive community management plan. Clear community standards and enforcement procedures. Adequate operations and maintenance budget funded through HOA assessments and MUD O&M taxes.
+**Mitigation:** Professional property management through the Manager (affiliated entity) or a qualified third-party manager. Comprehensive community management plan. Clear community standards and enforcement procedures. Adequate operations and maintenance budget funded through HOA assessments and MUD O&M taxes.
 
 ---
 
 ### 7.2 Community Governance / HOA
 
-**Description:** The Abundancia Austin community will be governed by a homeowners association (HOA) with covenants, conditions, and restrictions (CC&Rs). HOA governance transitions from developer control to homeowner control over time. Disagreements among homeowners, inadequate HOA funding, or dysfunctional governance could adversely affect the community.
+**Description:** The Abundancia Community will be governed by a homeowners association (HOA) with covenants, conditions, and restrictions (CC&Rs). HOA governance transitions from developer control to homeowner control over time. Disagreements among homeowners, inadequate HOA funding, or dysfunctional governance could adversely affect the community.
 
 **Likelihood:** Moderate
 **Potential Impact:** Moderate - Community conflicts, deferred maintenance, property value impacts.
@@ -537,7 +536,7 @@ The following matrix summarizes all risk factors by category, likelihood, and po
 
 **Overall Project Risk Profile:** Moderate-High
 
-The Abundancia Austin development presents a risk profile consistent with ground-up real estate development in a high-growth market. The project's primary risk differentiators relative to conventional developments are:
+The Abundancia Community development presents a risk profile consistent with ground-up real estate development in a high-growth market. The project's primary risk differentiators relative to conventional developments are:
 
 **Elevated Risks:**
 - Hempcrete supply chain and market adoption (novel construction material in U.S. market)
@@ -558,6 +557,6 @@ The Abundancia Austin development presents a risk profile consistent with ground
 
 *The risk factors described herein are not exhaustive. Additional risks and uncertainties not presently known to the Company or currently deemed immaterial could materially and adversely affect the Company's business, financial condition, or results. Past performance of the General Partner or its affiliates is not indicative of future results.*
 
-*Prospective investors should consult their own legal, tax, and financial advisors before making an investment decision. An investment in Abundancia Austin Holdings, LLC is suitable only for accredited investors who can bear the risk of loss of their entire investment.*
+*Prospective investors should consult their own legal, tax, and financial advisors before making an investment decision. An investment in Abundancia Community LLC, a Delaware LLC is suitable only for accredited investors who can bear the risk of loss of their entire investment.*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC, a Delaware LLC. All rights reserved.*

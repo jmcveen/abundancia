@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Valuation Report
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -41,13 +40,13 @@
 
 ### 1.1 Purpose of Valuation
 
-This report presents a comprehensive valuation analysis of Abundancia Austin, a 376-acre regenerative master-planned community in Cedar Creek, Bastrop County, Texas. The valuation is conducted in connection with a $12.5M capital raise under Regulation D, Rule 506(c), and is intended to provide prospective investors with a transparent, multi-methodology assessment of project value at current stage.
+This report presents a comprehensive valuation analysis of Abundancia Community, a 376-acre regenerative master-planned community in Cedar Creek, Bastrop County, Texas. The valuation is conducted in connection with a $12.5M capital raise under Regulation D, Rule 506(c), and is intended to provide prospective investors with a transparent, multi-methodology assessment of project value at current stage.
 
 ### 1.2 Subject Property Summary
 
 | Attribute | Detail |
 |-----------|--------|
-| **Property** | Abundancia Austin |
+| **Property** | Abundancia Community |
 | **Location** | Cedar Creek, Bastrop County, TX |
 | **Total Acreage** | 376 acres |
 | **Distance to Austin CBD** | ~30 minutes (SH 71 corridor) |
@@ -209,7 +208,7 @@ The comparable transaction method benchmarks Abundancia's land position against 
 
 ### 5.1 Methodology
 
-The replacement cost method calculates the total cost to replicate the Abundancia Austin project at current market rates, including land acquisition, infrastructure development, vertical construction, soft costs, and developer overhead. This method establishes a floor value by answering: "What would it cost a new entrant to build this from scratch?"
+The replacement cost method calculates the total cost to replicate the Abundancia Community project at current market rates, including land acquisition, infrastructure development, vertical construction, soft costs, and developer overhead. This method establishes a floor value by answering: "What would it cost a new entrant to build this from scratch?"
 
 ### 5.2 Land Cost Buildup
 
@@ -287,7 +286,7 @@ The replacement cost method calculates the total cost to replicate the Abundanci
 
 ### 6.1 Methodology
 
-The income capitalization approach values the income-producing components of Abundancia Austin by capitalizing stabilized Net Operating Income (NOI) at market-appropriate capitalization rates. This method is most applicable to the rental apartments, commercial space, retreat center, and any retained income-generating assets.
+The income capitalization approach values the income-producing components of Abundancia Community by capitalizing stabilized Net Operating Income (NOI) at market-appropriate capitalization rates. This method is most applicable to the rental apartments, commercial space, retreat center, and any retained income-generating assets.
 
 ### 6.2 Stabilized Income Components
 
@@ -610,12 +609,12 @@ The concluded value range of **$100M to $110M** reflects a judgment-weighted syn
 
 ## Confidentiality Notice
 
-This Valuation Report and all information contained herein is strictly confidential and proprietary to Abundancia Austin Holdings, LLC. This document has been prepared solely for the use of authorized prospective investors and their professional advisors in connection with the evaluation of a potential investment in Abundancia Austin Holdings, LLC.
+This Valuation Report and all information contained herein is strictly confidential and proprietary to Abundancia Community LLC, a Delaware LLC. This document has been prepared solely for the use of authorized prospective investors and their professional advisors in connection with the evaluation of a potential investment in Abundancia Community LLC, a Delaware LLC.
 
 By accepting this document, the recipient agrees to:
 
 1. Maintain the confidentiality of all information contained herein
-2. Not reproduce, distribute, or disclose this document or its contents to any third party without the prior written consent of Abundancia Austin Holdings, LLC
+2. Not reproduce, distribute, or disclose this document or its contents to any third party without the prior written consent of Abundancia Community LLC, a Delaware LLC
 3. Return or destroy all copies of this document upon request
 4. Use the information solely for the purpose of evaluating the proposed investment
 
@@ -625,6 +624,6 @@ The valuation methodologies, assumptions, and conclusions herein do not represen
 
 ---
 
-*Abundancia Austin Holdings, LLC*
+*Abundancia Community LLC, a Delaware LLC*
 *Cedar Creek, Texas*
 *nicholas@lightbrands.ai*

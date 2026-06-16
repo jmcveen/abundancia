@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Escrow Agreement
@@ -12,7 +11,7 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 2.0
-**Prepared by:** Abundancia Austin LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
@@ -55,7 +54,7 @@ This Escrow Agreement (the "Agreement") is entered into as of [________], 2026 (
 
 | Party | Role | Details |
 |-------|------|---------|
-| **Abundancia Austin LLC** | Issuer / Company | A Texas limited liability company, with its principal place of business in Bastrop County, Texas |
+| **Abundancia Community LLC, a Delaware LLC** | Issuer / Company | A Delaware limited liability company, with its principal place of business in Bastrop County, Texas |
 | **Light Brands Consulting LLC** | Managing Member | Managing Member of the Company, acting through its authorized representative Nicholas Lawless |
 | **[Escrow Agent Name]** | Escrow Agent | A [national banking association / state-chartered bank / trust company] with its principal office located at [Address] |
 
@@ -63,7 +62,7 @@ This Escrow Agreement (the "Agreement") is entered into as of [________], 2026 (
 
 The following individuals are designated as authorized representatives for purposes of this Agreement:
 
-**For the Company (Abundancia Austin LLC):**
+**For the Company (Abundancia Community LLC, a Delaware LLC):**
 
 | Name | Title | Authority |
 |------|-------|-----------|
@@ -87,7 +86,7 @@ Each party represents that it has full legal capacity and corporate or organizat
 
 ### 2.1 The Offering
 
-**WHEREAS**, Abundancia Austin LLC (the "Company") is a Texas limited liability company formed for the purpose of developing, constructing, and operating a regenerative luxury community on approximately 120 acres of land located in Bastrop County, Texas (the "Project");
+**WHEREAS**, Abundancia Community LLC, a Delaware LLC (the "Company") is a Delaware limited liability company formed for the purpose of developing, constructing, and operating a regenerative luxury community on approximately 120 acres of land located in Bastrop County, Texas (the "Project");
 
 **WHEREAS**, Light Brands Consulting LLC serves as the Managing Member of the Company, with Nicholas Lawless serving as Manager;
 
@@ -114,7 +113,7 @@ The purpose of this escrow arrangement is to:
 
 | Parameter | Detail |
 |-----------|--------|
-| Issuer | Abundancia Austin LLC |
+| Issuer | Abundancia Community LLC, a Delaware LLC |
 | Managing Member | Light Brands Consulting LLC |
 | Manager | Nicholas Lawless |
 | Securities Offered | Membership Interest Units |
@@ -144,7 +143,7 @@ For purposes of this Agreement, the following terms shall have the meanings set 
 
 **"Closing Date"** means the date on which the Closing occurs.
 
-**"Company"** means Abundancia Austin LLC, a Texas limited liability company.
+**"Company"** means Abundancia Community LLC, a Delaware LLC, a Delaware limited liability company.
 
 **"Deposit Instructions"** means the wire transfer instructions and deposit procedures set forth in Section 5 and Exhibit A attached hereto.
 
@@ -170,7 +169,7 @@ For purposes of this Agreement, the following terms shall have the meanings set 
 
 **"Offering Period"** means the period during which the Company is authorized to accept subscriptions, commencing on [Start Date] and ending on [End Date], subject to extension as provided herein.
 
-**"Operating Agreement"** means the Amended and Restated Operating Agreement of Abundancia Austin LLC.
+**"Operating Agreement"** means the Amended and Restated Operating Agreement of Abundancia Community LLC, a Delaware LLC.
 
 **"Private Placement Memorandum"** or **"PPM"** means the Confidential Private Placement Memorandum of the Company relating to the Offering.
 
@@ -193,7 +192,7 @@ Within five (5) Business Days of the Effective Date, the Escrow Agent shall esta
 | Requirement | Specification |
 |-------------|---------------|
 | Account Type | Segregated, interest-bearing demand deposit account |
-| Account Title | "Abundancia Austin LLC -- Regulation D Offering Escrow Account" |
+| Account Title | "Abundancia Community LLC, a Delaware LLC -- Regulation D Offering Escrow Account" |
 | Tax ID | The Company's Employer Identification Number (EIN): [________] |
 | FDIC Insurance | Maintained at an FDIC-insured institution; aggregate balances in excess of FDIC limits to be managed in accordance with Section 4.3 |
 | Segregation | Funds shall not be commingled with the Escrow Agent's own funds or with funds held in escrow for other parties |
@@ -243,7 +242,7 @@ Subscription payments shall be accepted in the following forms:
 | Domestic Wire Transfer | Same-day to next Business Day | Must reference Investor name and subscription number |
 | International Wire Transfer | 2-3 Business Days | Must reference Investor name; subject to enhanced AML review |
 | ACH Transfer | 2-3 Business Days | Pre-authorized only; must reference Investor name |
-| Certified Check / Cashier's Check | Subject to clearing | Payable to "Abundancia Austin LLC Escrow Account c/o [Escrow Agent Name]" |
+| Certified Check / Cashier's Check | Subject to clearing | Payable to "Abundancia Community LLC, a Delaware LLC Escrow Account c/o [Escrow Agent Name]" |
 
 The following payment methods are **not accepted**:
 
@@ -262,7 +261,7 @@ Wire transfer instructions for the Escrow Account are set forth in **Exhibit A**
 - Escrow Agent bank name and address
 - ABA routing number
 - Account number (Escrow Account)
-- Account name: "Abundancia Austin LLC -- Regulation D Offering Escrow Account"
+- Account name: "Abundancia Community LLC, a Delaware LLC -- Regulation D Offering Escrow Account"
 - Reference: Subscriber name and subscription number
 - SWIFT code (for international wires)
 
@@ -663,7 +662,7 @@ Any costs associated with the preparation and filing of tax reports (including I
 
 The Company represents and warrants to the Escrow Agent as follows:
 
-1. **Organization and Good Standing.** The Company is a limited liability company duly organized, validly existing, and in good standing under the laws of the State of Texas
+1. **Organization and Good Standing.** The Company is a limited liability company duly organized, validly existing, and in good standing under the laws of the State of Delaware
 
 2. **Authority.** The Company has full power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery of this Agreement has been duly authorized by all necessary action of the Managing Member
 
@@ -819,7 +818,7 @@ All notices, instructions, certificates, and other communications under this Agr
 
 **To the Company:**
 
-Abundancia Austin LLC
+Abundancia Community LLC, a Delaware LLC
 c/o Light Brands Consulting LLC
 Attn: Nicholas Lawless, Manager
 [Address]
@@ -952,7 +951,7 @@ Date: ________________________________
 
 ## Confidentiality Notice
 
-This document is confidential and proprietary to Abundancia Austin LLC. It has been prepared solely for use by verified accredited investors and their professional advisors in evaluating a potential investment in the Company. This document may not be reproduced, distributed, or disclosed to any third party without the prior written consent of the Company. The information contained herein is subject to change without notice and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful.
+This document is confidential and proprietary to Abundancia Community LLC, a Delaware LLC. It has been prepared solely for use by verified accredited investors and their professional advisors in evaluating a potential investment in the Company. This document may not be reproduced, distributed, or disclosed to any third party without the prior written consent of the Company. The information contained herein is subject to change without notice and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful.
 
 Recipients should consult their own legal, tax, and financial advisors regarding the suitability and legal implications of any investment.
 
@@ -960,6 +959,6 @@ By accepting this document, the recipient agrees to be bound by the confidential
 
 ---
 
-*Document 26 of the Abundancia Austin Investor Data Room*
+*Document 26 of the Abundancia Community Investor Data Room*
 *Prepared March 2026*
 *Version 2.0*

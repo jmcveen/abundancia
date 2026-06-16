@@ -1,5 +1,4 @@
-# ABUNDANCIA AUSTIN
-
+# ABUNDANCIA COMMUNITY
 ---
 
 ## Executive Summary
@@ -12,11 +11,11 @@
 **Date:** March 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Prepared by:** Abundancia Community LLC, a Delaware LLC
 
 ---
 
-> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. Distribution, reproduction, or disclosure to unauthorized parties is strictly prohibited. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before making any investment decision.*
+> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Community LLC, a Delaware LLC. Distribution, reproduction, or disclosure to unauthorized parties is strictly prohibited. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before making any investment decision.*
 
 ---
 
@@ -40,26 +39,26 @@
 
 ### 1.1 Introduction
 
-Abundancia Austin is a 376-acre regenerative master-planned community located in Cedar Creek, Bastrop County, Texas — approximately 30 minutes southeast of downtown Austin along the State Highway 71 corridor. The project represents the convergence of three powerful secular trends: the Austin metropolitan area's sustained population and economic growth, the accelerating consumer demand for sustainable and wellness-oriented living, and the proven economics of regenerative land development.
+Abundancia Community is a 376-acre regenerative master-planned community located in Cedar Creek, Bastrop County, Texas — approximately 30 minutes southeast of downtown Austin along the State Highway 71 corridor. The project represents the convergence of three powerful secular trends: the Austin metropolitan area's sustained population and economic growth, the accelerating consumer demand for sustainable and wellness-oriented living, and the proven economics of regenerative land development.
 
 ### 1.2 Mission Statement
 
-Abundancia Austin exists to demonstrate that profitable real estate development and ecological regeneration are not competing objectives but complementary forces. By integrating regenerative agriculture, carbon-negative building materials, renewable energy systems, and community-centered design, Abundancia creates outsized financial returns while restoring the land, sequestering carbon, and building resilient communities.
+Abundancia Community exists to demonstrate that profitable real estate development and ecological regeneration are not competing objectives but complementary forces. By integrating regenerative agriculture, carbon-negative building materials, renewable energy systems, and community-centered design, Abundancia creates outsized financial returns while restoring the land, sequestering carbon, and building resilient communities.
 
 ### 1.3 Corporate Structure
 
-Abundancia Austin Holdings, LLC is organized as a Texas Series Limited Liability Company, providing structural flexibility to isolate development phases, manage risk across asset classes, and optimize tax treatment for investors. The entity is manager-managed with a General Partner/Limited Partner structure designed to align incentives between management and capital partners.
+Abundancia Community LLC, a Delaware LLC is organized as a Delaware Limited Liability Company, providing structural flexibility to isolate development phases, manage risk across asset classes, and optimize tax treatment for investors. The entity is manager-managed with a General Partner/Limited Partner structure designed to align incentives between management and capital partners.
 
 | Entity Detail | Description |
 |---|---|
-| **Legal Entity** | Abundancia Austin Holdings, LLC |
-| **Jurisdiction** | State of Texas |
-| **Entity Type** | Texas Series LLC |
+| **Legal Entity** | Abundancia Community LLC, a Delaware LLC |
+| **Jurisdiction** | State of Delaware |
+| **Entity Type** | Delaware LLC |
 | **Management** | Manager-Managed (GP/LP Structure) |
 | **Tax Treatment** | Partnership (Pass-Through) |
-| **Registered Agent** | Texas Registered Agents, LLC |
-| **Formation Date** | 2025 |
-| **Principal Office** | Austin, Texas |
+| **Registered Agent** | Delaware Registered Agent Service LLC |
+| **Formation Date** | January 19, 2022 |
+| **Principal Office** | 8 The Green, Suite D, Dover, Delaware 19901 |
 
 ### 1.4 The Opportunity in Brief
 
@@ -67,7 +66,7 @@ The Austin-Round Rock-Georgetown Metropolitan Statistical Area (MSA) continues t
 
 Bastrop County — Austin's southeastern growth corridor — offers a unique regulatory environment with no county-level zoning restrictions, streamlined 6-to-12-month permitting timelines, agricultural tax exemptions, and the ability to form Municipal Utility Districts (MUDs) to finance infrastructure through tax-exempt bonds. These structural advantages translate directly into lower development costs, faster time-to-revenue, and superior risk-adjusted returns compared to projects in Travis, Williamson, or Hays counties.
 
-Abundancia Austin captures this opportunity through a diversified development program spanning single-family homes, tiny homes, geodesic dome residences, multifamily apartments, finished lots, rental units, commercial space, and a retreat center — generating five distinct revenue streams across a 10-year development horizon.
+Abundancia Community captures this opportunity through a diversified development program spanning single-family homes, tiny homes, geodesic dome residences, multifamily apartments, finished lots, rental units, commercial space, and a retreat center — generating five distinct revenue streams across a 10-year development horizon.
 
 ---
 
@@ -77,7 +76,7 @@ Abundancia Austin captures this opportunity through a diversified development pr
 
 **Profitable development and ecological regeneration are not opposing forces — they are mutually reinforcing when executed with intentional design, appropriate materials, and community-centered governance.**
 
-Abundancia Austin is structured to deliver institutional-grade financial returns while simultaneously:
+Abundancia Community is structured to deliver institutional-grade financial returns while simultaneously:
 
 - Sequestering more carbon than it emits through hempcrete construction and regenerative land management
 - Restoring 376 acres of Texas Hill Country through native habitat corridors, food forests, and regenerative agriculture
@@ -140,7 +139,7 @@ The current market presents a compelling entry point:
 
 ### 3.1 Location Overview
 
-The Abundancia Austin property comprises 376 contiguous acres in Cedar Creek, Bastrop County, Texas, situated along the State Highway 71 corridor — the primary arterial connecting Austin to Bastrop and points east.
+The Abundancia Community property comprises 376 contiguous acres in Cedar Creek, Bastrop County, Texas, situated along the State Highway 71 corridor — the primary arterial connecting Austin to Bastrop and points east.
 
 | Property Detail | Description |
 |---|---|
@@ -182,24 +181,23 @@ The 376-acre site presents a diverse topography well-suited to the planned devel
 
 The 376 acres are allocated across the following program areas:
 
-| Land Use Category | Approximate Acreage | Percentage |
+| Land Use Category | Acreage | Percentage |
 |---|---|---|
-| **Single-Family Residential** | 80 acres | 21% |
-| **Tiny Home Village** | 15 acres | 4% |
-| **Dome Community** | 18 acres | 5% |
-| **Multifamily Housing** | 40 acres | 11% |
-| **Finished Lots (For Sale)** | 60 acres | 16% |
-| **Rental Community** | 20 acres | 5% |
-| **Commercial / Village Center** | 10 acres | 3% |
-| **Retreat & Event Center** | 15 acres | 4% |
-| **Regenerative Agriculture** | 50 acres | 13% |
-| **Conservation / Open Space** | 40 acres | 11% |
-| **Infrastructure / Roads** | 28 acres | 7% |
+| **Preserved Land** | 184.5 acres | 49.1% |
+| **Regenerative Agriculture** | 42 acres | 11.2% |
+| **Permaculture Gardens & Barns** | 8.5 acres | 2.3% |
+| **SFR Residential** | 61 acres | 16.2% |
+| **Residential — Tiny Homes & Domes** | 16 acres | 4.3% |
+| **STRs — Tiny Homes, Domes** | 25 acres | 6.6% |
+| **STRs — Unique Regenerative Stays** | 8 acres | 2.1% |
+| **Commercial** | 9 acres | 2.4% |
+| **Event & Healing Center** | 12 acres | 3.2% |
+| **Roads** | 10 acres | 2.7% |
 | **Total** | **376 acres** | **100%** |
 
 ### 3.5 Infrastructure Strategy
 
-Abundancia Austin will employ a phased infrastructure strategy leveraging Municipal Utility District (MUD) bond financing where applicable:
+Abundancia Community will employ a phased infrastructure strategy leveraging Municipal Utility District (MUD) bond financing where applicable:
 
 - **Water**: Community well system supplemented by rainwater harvesting; potential MUD water system in later phases
 - **Wastewater**: Advanced community treatment systems (constructed wetlands/packaged treatment plants) designed for nutrient recovery and irrigation reuse
@@ -273,7 +271,7 @@ Abundancia Austin will employ a phased infrastructure strategy leveraging Munici
 
 | Name | Title | Background |
 |---|---|---|
-| **Nicholas Courchesne** | Founder & Chief Executive Officer | Visionary entrepreneur and regenerative development strategist. Deep expertise in sustainable community design, regenerative agriculture, and mission-driven real estate development. Led the acquisition strategy and master plan vision for Abundancia Austin. Extensive network in the Austin development, sustainability, and investment communities. |
+| **Nicholas Courchesne** | Founder & Chief Executive Officer | Visionary entrepreneur and regenerative development strategist. Deep expertise in sustainable community design, regenerative agriculture, and mission-driven real estate development. Led the acquisition strategy and master plan vision for Abundancia Community. Extensive network in the Austin development, sustainability, and investment communities. |
 | **Jason Sparks** | Co-Founder & Chief Operating Officer | Operations leader with cross-functional expertise in development execution, construction management, and community operations. Responsible for day-to-day project management, vendor relationships, contractor oversight, and operational infrastructure. Ensures development milestones are met on budget and on schedule. |
 | **Dan Lawless** | Technical Lead | Technology strategist overseeing Abundancia's digital infrastructure, smart community systems, investor portal, and data analytics. Architects the technology stack enabling community management, energy monitoring, and operational intelligence. Background in enterprise software development and systems integration. |
 | **Dr. Sarah Mitchell** | Director of Regenerative Systems | Ph.D. in Ecological Design. Oversees the regenerative agriculture program, carbon sequestration strategy, habitat restoration, and environmental compliance. Designs and manages the food forest, permaculture zones, and conservation corridors that differentiate Abundancia from conventional developments. |
@@ -303,7 +301,7 @@ The company has assembled an advisory board comprising experts in regenerative a
 
 ### 6.1 Unit Mix
 
-The Abundancia Austin development program encompasses 680 residential units across six distinct product types, designed to serve a range of buyer demographics and price points.
+The Abundancia Community development program encompasses 680 residential units across six distinct product types, designed to serve a range of buyer demographics and price points.
 
 | Product Type | Units | Avg. Price/Unit | Total Revenue | Avg. Sq. Ft. | Description |
 |---|---|---|---|---|---|
@@ -317,7 +315,7 @@ The Abundancia Austin development program encompasses 680 residential units acro
 
 ### 6.2 Product Design Philosophy
 
-Every structure at Abundancia Austin is designed around five core principles:
+Every structure at Abundancia Community is designed around five core principles:
 
 1. **Carbon-Negative Construction**: Hempcrete walls, mass timber framing, and natural finishes ensure each building sequesters more carbon than it emits during construction and throughout its lifespan
 2. **Passive Performance**: Orientation, thermal mass, natural ventilation, and R-30+ hempcrete insulation minimize active energy requirements
@@ -370,7 +368,7 @@ Development is structured in five phases over a 10-year horizon, with each phase
 
 ### 7.1 Five Revenue Streams
 
-Abundancia Austin generates revenue through five distinct and complementary streams, providing natural diversification across market cycles, buyer segments, and asset classes.
+Abundancia Community generates revenue through five distinct and complementary streams, providing natural diversification across market cycles, buyer segments, and asset classes.
 
 #### Stream 1: Residential Sales — $362,000,000 (83.2% of total)
 
@@ -516,7 +514,7 @@ The $12.5M initial raise is designed to achieve the following milestones before 
 
 ### 9.1 Summary of Principal Risks
 
-Investing in Abundancia Austin Holdings, LLC involves significant risks. Prospective investors should carefully consider the following risk factors, among others, before making an investment decision. This summary is not exhaustive; a complete discussion of risk factors is contained in the Private Placement Memorandum (Document 03).
+Investing in Abundancia Community LLC, a Delaware LLC involves significant risks. Prospective investors should carefully consider the following risk factors, among others, before making an investment decision. This summary is not exhaustive; a complete discussion of risk factors is contained in the Private Placement Memorandum (Document 03).
 
 **Market Risk**
 Real estate markets are cyclical. A downturn in the Austin residential market, an increase in interest rates affecting buyer affordability, or a reduction in population growth could adversely impact sales velocity, pricing, and project returns.
@@ -561,7 +559,7 @@ The project's success depends in part on the continued involvement of key manage
 
 ### 10.1 Investment Opportunity
 
-Abundancia Austin Holdings, LLC is raising **$12,500,000** in equity capital through a **Regulation D, Rule 506(c)** private placement offering.
+Abundancia Community LLC, a Delaware LLC is raising **$12,500,000** in equity capital through a **Regulation D, Rule 506(c)** private placement offering.
 
 | Term | Detail |
 |---|---|
@@ -606,7 +604,7 @@ Abundancia Austin Holdings, LLC is raising **$12,500,000** in equity capital thr
 | **Name** | Nicholas Courchesne |
 | **Title** | Founder & Chief Executive Officer |
 | **Email** | nicholas@lightbrands.ai |
-| **Entity** | Abundancia Austin Holdings, LLC |
+| **Entity** | Abundancia Community LLC, a Delaware LLC |
 | **Location** | Austin, Texas |
 
 ### 11.2 Investor Relations
@@ -614,11 +612,11 @@ Abundancia Austin Holdings, LLC is raising **$12,500,000** in equity capital thr
 For questions regarding the offering, subscription process, or to schedule a meeting with the management team, please contact:
 
 **Email:** nicholas@lightbrands.ai
-**Subject Line:** Abundancia Austin — Investor Inquiry
+**Subject Line:** Abundancia Community — Investor Inquiry
 
 ### 11.3 Data Room Access
 
-This document is part of the Abundancia Austin investor data room. The complete data room contains:
+This document is part of the Abundancia Community investor data room. The complete data room contains:
 
 | Document | Title |
 |---|---|
@@ -632,4 +630,4 @@ This document is part of the Abundancia Austin investor data room. The complete 
 
 *This Executive Summary is provided for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities. Any such offer may only be made pursuant to the Private Placement Memorandum and related offering documents. Past performance is not indicative of future results. Prospective investors should consult their own legal, tax, and financial advisors before making any investment decision.*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC, a Delaware LLC. All rights reserved.*
