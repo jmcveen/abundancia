@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,10 +9,10 @@
 ---
 
 **Document 10** | Data Room - Property Documents
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
@@ -44,35 +44,45 @@
 
 | Parameter | Detail |
 |-----------|--------|
-| **Address** | Cedar Creek, TX 78612 |
-| **County** | Bastrop County, Texas |
+| **Address** | 176 Cedar Creek Circle, Cedar Creek, TX (unincorporated Bastrop County) |
+| **County** | Bastrop County, Texas — Lost Pines ecoregion |
 | **Corridor** | State Highway 71 (SH 71) |
 | **Total Acreage** | 376 acres |
-| **Distance to Downtown Austin** | ~30 minutes via SH 71 / SH 130 |
-| **Distance to Austin-Bergstrom International Airport** | ~25 minutes |
-| **Distance to Bastrop Town Center** | ~15 minutes |
+| **Distance to Downtown Austin** | 30-40 minutes |
+| **Distance to Austin-Bergstrom International Airport** | 15-20 minutes |
+| **Distance to City of Bastrop** | 10-15 minutes |
+| **Site Features** | 7 existing water-retention ponds (more to be created), 2 dry creek beds, existing barn (to be renovated as first event space) |
 | **USDA Hardiness Zone** | 8b |
 | **Growing Season** | 250+ days annually |
-| **Zoning** | Unzoned (Bastrop County — no county-level zoning) |
-| **Permitting Timeline** | 6-12 months (vs. 18-24 months in Austin ETJ) |
+| **Zoning** | Unzoned (Bastrop County — no county-level zoning; mixed use by right) |
+| **Permitting Timeline** | 12-16 months (estimated) |
 
 ### 1.2 Regional Context
 
 The property sits within the SH 71 corridor, one of Central Texas's most active growth vectors. This corridor connects Austin's urban core to Bastrop County, benefiting from:
 
 - **SH 130 toll road interchange** providing direct north-south connectivity to I-35 and the broader Austin MSA
-- **Tesla Gigafactory** (15 miles northwest) and the associated Samsung semiconductor campus driving employment growth
-- **Austin-Bergstrom International Airport expansion** increasing regional accessibility
+- **Tesla Gigafactory** (~16,500 employees, plus a 5.2M SF Terafab filing) and **Samsung's $37B Taylor campus** driving employment growth, alongside Bastrop-area anchors: SpaceX Starlink (1.1M SF, 1,000+ jobs, plus an 11M SF Gigasat filing), X HQ, The Boring Company, and the $1.4B Cedar Creek data center (FM 535)
+- **Austin-Bergstrom International Airport expansion** (21.7M passengers in 2025; ~$4-5B expansion) increasing regional accessibility
 - **Bastrop County's pro-development regulatory environment** with streamlined permitting and no county-level zoning restrictions
 
-### 1.3 Parcel Configuration
+### 1.3 Parcel Configuration & Land Use Plan
 
-| Parcel ID | Acreage | Current Use | Proposed Use |
-|-----------|---------|-------------|--------------|
-| Primary Tract | 248 acres | Agricultural / Undeveloped | Residential, Commercial, Retreat Center |
-| Conservation Tract | 94 acres | Native Habitat | Permanent Conservation Easement |
-| Agricultural Tract | 34 acres | Hay / Grazing | Food Forests, Regenerative Agriculture |
-| **Total** | **376 acres** | | |
+Legal parcel/tract configuration: [TO CONFIRM — pending title survey]. The authoritative land use plan for the 376 acres is:
+
+| Land Use Category | Acreage |
+|-------------------|---------|
+| SFR Residential | 61 |
+| Commercial | 9 |
+| Regenerative Agriculture | 42 |
+| Roads | 10 |
+| STRs — Tiny Homes / Domes | 25 |
+| STRs — Unique Regenerative Stays | 8 |
+| Residential Tiny Homes & Domes | 16 |
+| Event & Healing Center | 12 |
+| Permaculture Gardens & Barns | 8.5 |
+| Preserved Land | 184.5 |
+| **Total** | **376 acres** |
 
 ---
 
@@ -101,7 +111,7 @@ The property sits within the SH 71 corridor, one of Central Texas's most active 
 
 ### 2.3 Drainage Patterns
 
-The property drains generally southeast toward tributaries of the Colorado River. Three primary drainage channels cross the site, with seasonal flow patterns typical of the Bastrop County hydrological regime. Existing retention ponds intercept and manage stormwater across the property's natural drainage basins.
+The property drains generally southeast toward tributaries of the Colorado River. Two dry creek beds cross the site, with seasonal flow patterns typical of the Bastrop County hydrological regime. Seven existing water-retention ponds (with more to be created) intercept and manage stormwater across the property's natural drainage basins. Drainage patterns will be verified by the full watershed analysis commissioned from Symbiosis TX immediately upon entering due diligence.
 
 ---
 
@@ -152,6 +162,8 @@ Preliminary soil sampling across 24 test points revealed no detectable levels of
 | Retention Pond 6 | Surface impoundment | Seasonal | ~0.4 acre-ft | Seasonal overflow |
 | Retention Pond 7 | Surface impoundment | Seasonal | ~0.3 acre-ft | Seasonal overflow |
 
+*The property includes 7 existing water-retention ponds, with additional ponds to be created during development. Individual well yields, water quality parameters, and pond capacities above are preliminary estimates [TO CONFIRM] — to be verified by the full watershed analysis by Symbiosis TX, commissioned immediately upon entering due diligence (hydrology and water feasibility are the first predevelopment spend).*
+
 ### 4.2 Groundwater Assessment
 
 | Parameter | Well #1 | Well #2 |
@@ -172,19 +184,24 @@ Preliminary soil sampling across 24 test points revealed no detectable levels of
 Bastrop County falls within the Lost Pines Groundwater Conservation District (LPGCD). Current water rights and permits:
 
 - Existing agricultural exempt wells (domestic and livestock use)
-- Community water system will require LPGCD production permit
-- Estimated allocation: 1.0 acre-foot per acre annually (sufficient for planned density)
+- Utility water service: **Aqua Water Supply Corporation** (regional water utility serving the area)
+- Additional well production will require LPGCD production permits; allocation estimates preliminary [TO CONFIRM]
 - Rainwater harvesting systems planned for all structures (Texas Property Code Section 202.007 protects rainwater collection rights)
 
 ### 4.4 Planned Water Infrastructure
 
+Abundancia's water strategy is a **layered supply combined with demand reduction**:
+
 | System | Description | Capacity Target |
 |--------|-------------|----------------|
-| Community Water System | TCEQ-permitted public water supply | 200,000 GPD |
-| Rainwater Harvesting | Per-structure collection + cisterns | 50,000 GPD (supplemental) |
-| Greywater Recycling | Landscape irrigation reuse | 30,000 GPD |
-| Retention Pond Network | Enhanced stormwater management | 12+ acre-ft total storage |
-| Treated Effluent Reuse | Food forest and landscape irrigation | 40,000 GPD |
+| Utility Service | Aqua Water Supply Corporation | Regional utility supply |
+| Wells & Storage | 6 wells + 13 storage tanks + filtration | Sizing in engineering [TO CONFIRM] |
+| Ponds | 7 existing water-retention ponds, more to be created | Stormwater + irrigation |
+| Rainwater Harvesting | Capture on every building — ~524,000 SF roofs × 35.5"/yr × 0.623 gal/SF-in @ 80-90% efficiency | ~9-11M gallons/year at build-out |
+| Atmospheric Water Generation | 11 atmospheric water generators | Drinking water |
+| Demand Reduction | Low-flow fixtures + greywater recycling | Demand below typical development |
+
+**Verification:** a full watershed analysis by Symbiosis TX will be commissioned immediately upon entering due diligence; hydrology and water feasibility are the first predevelopment spend.
 
 ---
 
@@ -245,7 +262,7 @@ The Houston toad is a federally endangered species (ESA listing: 1970) whose pri
 | **Breeding Season** | January - June (peak Feb-Mar) |
 | **Habitat Requirements** | Sandy soils, ephemeral ponds, pine/oak woodland |
 | **Regulatory Framework** | Lost Pines Habitat Conservation Plan (LPHCP) |
-| **Compliance Strategy** | Full LPHCP participation, 70-75% conservation |
+| **Compliance Strategy** | LPHCP compliance via conservation subdivision pathway; 184.5 acres (49%) permanently preserved |
 
 ### 6.2 Species Inventory
 
@@ -275,6 +292,8 @@ The property serves as a wildlife corridor connecting larger tracts of Lost Pine
 ## 7. Flood Zone Analysis
 
 ### 7.1 FEMA Flood Zone Determination
+
+FEMA floodplain administration is handled via Bastrop County. Zone acreages below are preliminary estimates pending formal floodplain determination [TO CONFIRM].
 
 | Zone | Acreage | Percentage | Description | Development Restriction |
 |------|---------|------------|-------------|------------------------|
@@ -309,7 +328,7 @@ The property serves as a wildlife corridor connecting larger tracts of Lost Pine
 | Utility | Current Status | Provider | Adequacy |
 |---------|---------------|----------|----------|
 | **Electric** | Active — single-phase service | Bluebonnet Electric Co-op | Inadequate for build-out |
-| **Water** | 2 private wells | Private | Adequate for current use only |
+| **Water** | 2 private wells [TO CONFIRM]; Aqua Water Supply Corporation serves the area | Private / Aqua WSC | Adequate for current use only |
 | **Sewer** | Septic (limited) | Private | Inadequate for build-out |
 | **Natural Gas** | Not available | N/A | Not planned (all-electric design) |
 | **Telecommunications** | Limited rural broadband | Local ISP | Inadequate |
@@ -320,8 +339,8 @@ The property serves as a wildlife corridor connecting larger tracts of Lost Pine
 | Utility | Planned Upgrade | Estimated Cost | Funding Mechanism |
 |---------|----------------|---------------|-------------------|
 | **Electric** | Three-phase service + 2 MW solar array + battery storage | $4.2M | MUD bonds + solar PPA |
-| **Water** | TCEQ community water system (additional wells, treatment, distribution) | $3.8M | MUD bonds |
-| **Sewer** | Decentralized wastewater treatment (MBR technology) | $3.2M | MUD bonds |
+| **Water** | Aqua WSC service + 6 wells, 13 storage tanks, filtration | $3.8M (est.) [TO CONFIRM] | MUD bonds |
+| **Wastewater** | TCEQ-permitted OSSF — biodigester/bionest systems per structure | $3.2M (est.) [TO CONFIRM] | MUD bonds |
 | **Fiber Internet** | Gigabit fiber-to-the-home network | $1.4M | MUD bonds + ISP partnership |
 | **Solar Array** | 2 MW ground-mount + 4 MWh battery storage | $5.6M | Solar PPA + ITC credits |
 | **Roads** | Internal road network (6.2 miles) | $4.8M | MUD bonds |
@@ -329,7 +348,7 @@ The property serves as a wildlife corridor connecting larger tracts of Lost Pine
 
 ### 8.3 Municipal Utility District (MUD) Financing
 
-Bastrop County supports MUD formation for infrastructure financing. MUD bonds allow infrastructure costs to be funded through property tax assessments on developed lots rather than upfront capital, significantly reducing initial equity requirements.
+Bastrop County supports MUD formation for infrastructure financing. **MUD formation engineering is underway (Fred Haas, PE — Sustainable Land Strategies).** MUD bonds allow infrastructure costs to be funded through property tax assessments on developed lots rather than upfront capital, significantly reducing initial equity requirements.
 
 | MUD Parameter | Estimate |
 |--------------|----------|
@@ -479,8 +498,8 @@ The property falls within ASCE 7 Seismic Design Category A (very low seismic ris
 | Environmental contamination | Very Low | Phase I ESA clear; no further action | Negligible |
 | Flood hazard | Low | 95%+ outside floodplain; retention system | Negligible |
 | Soil / geotechnical | Low | Pier & beam foundations; standard earthwork | Low |
-| Water supply | Low-Moderate | Dual aquifer access + rainwater + MUD system | Low |
-| Houston toad (ESA) | Moderate | LPHCP compliance; 70-75% conservation | Low |
+| Water supply | Low-Moderate | Layered supply: Aqua WSC + wells/storage + ponds + rainwater + AWG; Symbiosis TX watershed analysis first | Low |
+| Houston toad (ESA) | Moderate | LPHCP compliance via conservation subdivision pathway; 184.5 acres preserved | Low |
 | Wildfire | Moderate | Defensible space design; fire-resistant materials | Low-Moderate |
 | Utility access | Low | MUD formation for infrastructure financing | Low |
 | Title / easements | Very Low | Clean title; manageable easements | Negligible |
@@ -489,8 +508,8 @@ The property falls within ASCE 7 Seismic Design Category A (very low seismic ris
 
 ### 13.2 Key Site Advantages
 
-1. **Regulatory efficiency**: Bastrop County's no-zoning environment and 6-12 month permitting timeline provides 50-75% faster entitlement compared to Austin ETJ
-2. **Water security**: Dual aquifer access, 7 retention ponds, and planned rainwater harvesting create redundant water supply
+1. **Regulatory efficiency**: Bastrop County's no-zoning environment (mixed use by right) supports an estimated 12-16 month permitting timeline — materially faster than comparable entitlement inside Austin's ETJ
+2. **Water security**: Layered supply — Aqua Water Supply Corporation service, 7 existing ponds (more to be created), 6 planned wells + 13 storage tanks + filtration, rainwater capture on every building (~9-11M gal/yr at build-out), and 11 atmospheric water generators — combined with low-flow fixtures and greywater recycling that hold demand below typical development; verified by the Symbiosis TX watershed analysis commissioned upon entering due diligence
 3. **Clean environmental baseline**: No RECs, no contamination history, agricultural heritage
 4. **Topographic diversity**: Mix of flat buildable land, rolling woodland, and natural water features creates premium site character
 5. **Fire recovery maturity**: 15 years post-2011 fire, the ecosystem has substantially recovered, reducing fire risk from peak levels
@@ -500,4 +519,4 @@ The property falls within ASCE 7 Seismic Design Category A (very low seismic ris
 
 *End of Document 10 — Site Assessment & Due Diligence Report*
 
-*Abundancia Austin Holdings, LLC — Confidential*
+*Abundancia Community LLC — Confidential*

@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,14 +9,14 @@
 ---
 
 **Document 04** | Data Room - Investment
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
-> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. This Subscription Agreement, together with the Private Placement Memorandum and Operating Agreement, constitutes the complete offering materials for this investment. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before executing this Agreement.*
+> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Community LLC. This Subscription Agreement, together with the Private Placement Memorandum and Operating Agreement, constitutes the complete offering materials for this investment. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before executing this Agreement.*
 
 ---
 
@@ -41,15 +41,15 @@
 
 ## SUBSCRIPTION AGREEMENT
 
-## ABUNDANCIA AUSTIN HOLDINGS, LLC
+## ABUNDANCIA COMMUNITY LLC
 
-### CLASS A LIMITED PARTNERSHIP INTERESTS
+### CLASS A UNITS
 
 ---
 
 THIS SUBSCRIPTION AGREEMENT (this "Agreement") is entered into as of the date of execution set forth on the signature page hereof (the "Effective Date"), by and between:
 
-**ABUNDANCIA AUSTIN HOLDINGS, LLC**, a Texas Series Limited Liability Company (the "Company"), acting through its General Partner, Abundancia Austin GP, LLC (the "Manager"),
+**ABUNDANCIA COMMUNITY LLC**, a Delaware limited liability company, manager-managed (the "Company"), acting through its Manager, New Earth Development [TO CONFIRM exact legal name of Manager entity] (the "Manager"),
 
 and
 
@@ -59,11 +59,11 @@ and
 
 ### RECITALS
 
-WHEREAS, the Company is offering up to Two Hundred Fifty (250) Units of Class A Limited Partnership Interests (the "Units") at a price of Fifty Thousand Dollars ($50,000) per Unit, for a maximum aggregate offering amount of Twelve Million Five Hundred Thousand Dollars ($12,500,000), pursuant to Regulation D, Rule 506(c) under the Securities Act of 1933, as amended (the "Securities Act");
+WHEREAS, the Company is offering Class A Units (the "Units") at a price of Fifty Thousand Dollars ($50,000) per Unit [TO CONFIRM], for a maximum aggregate offering amount of approximately Five Million One Hundred Thousand Dollars ($5,100,000) of Class A LP equity — part of the Company's $12,673,266 Year-1 capitalization (together with $100,000 of GP equity and $8,871,286 of construction debt) — pursuant to Regulation D, Rule 506(c) under the Securities Act of 1933, as amended (the "Securities Act"), with all offering terms subject to final documentation and review by securities counsel;
 
-WHEREAS, the Subscriber desires to subscribe for the number of Units set forth on the signature page hereof and to become a Limited Partner of the Company, subject to the terms and conditions set forth herein and in the Operating Agreement of the Company dated March 2026 (the "Operating Agreement");
+WHEREAS, the Subscriber desires to subscribe for the number of Units set forth on the signature page hereof and to become a Limited Partner (a Class A Member) of the Company, subject to the terms and conditions set forth herein and in the Operating Agreement of the Company dated July 2026 (the "Operating Agreement");
 
-WHEREAS, the Company has furnished the Subscriber with a Private Placement Memorandum dated March 2026 (the "Memorandum"), the Operating Agreement, the Executive Summary, and the Investor Presentation (collectively, the "Offering Documents"), and the Subscriber has had a full and fair opportunity to review such documents and to ask questions of the Manager concerning the terms and conditions of this investment;
+WHEREAS, the Company has furnished the Subscriber with a Private Placement Memorandum dated July 2026 (the "Memorandum"), the Operating Agreement, the Executive Summary, and the Investor Presentation (collectively, the "Offering Documents"), and the Subscriber has had a full and fair opportunity to review such documents and to ask questions of the Manager concerning the terms and conditions of this investment;
 
 NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
 
@@ -73,15 +73,15 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements set fort
 
 ### 1.1 Subscription
 
-The Subscriber hereby irrevocably subscribes for and agrees to purchase the number of Units set forth on the signature page hereof (the "Subscribed Units") at a purchase price of Fifty Thousand Dollars ($50,000.00) per Unit (the "Purchase Price"), for an aggregate subscription amount as set forth on the signature page hereof (the "Subscription Amount").
+The Subscriber hereby irrevocably subscribes for and agrees to purchase the number of Units set forth on the signature page hereof (the "Subscribed Units") at a purchase price of Fifty Thousand Dollars ($50,000.00) per Unit [TO CONFIRM] (the "Purchase Price"), for an aggregate subscription amount as set forth on the signature page hereof (the "Subscription Amount").
 
 ### 1.2 The Offering
 
-The Company is offering up to $12,500,000 in Class A Limited Partnership Interests (the "Offering") pursuant to Section 4(a)(2) of the Securities Act and Rule 506(c) of Regulation D promulgated thereunder. The Offering is limited exclusively to persons who are "accredited investors" as defined in Rule 501(a) of Regulation D. General solicitation and general advertising are permitted under Rule 506(c), provided that the Company takes reasonable steps to verify each investor's accredited investor status.
+The Company is offering up to approximately $5,100,000 in Class A Units (the "Offering") pursuant to Section 4(a)(2) of the Securities Act and Rule 506(c) of Regulation D promulgated thereunder, subject to final documentation and review by securities counsel. The Offering is limited exclusively to persons who are "accredited investors" as defined in Rule 501(a) of Regulation D. General solicitation and general advertising are permitted under Rule 506(c), provided that the Company takes reasonable steps to verify each investor's accredited investor status.
 
 ### 1.3 Minimum Investment
 
-The minimum subscription amount is Fifty Thousand Dollars ($50,000) per Subscriber (one Unit). The Manager may, in its sole discretion, accept subscriptions for lesser amounts or fractional Units from certain investors.
+The minimum subscription amount is Fifty Thousand Dollars ($50,000) per Subscriber (one Unit) [TO CONFIRM]. The Manager may, in its sole discretion, accept subscriptions for lesser amounts or fractional Units from certain investors.
 
 ### 1.4 Acceptance and Rejection
 
@@ -103,11 +103,11 @@ This subscription, once submitted, is irrevocable by the Subscriber except as re
 
 ### 1.7 Minimum Offering Amount
 
-(a) The Company has established a minimum offering amount of Five Million Dollars ($5,000,000) (the "Minimum Offering Amount"). No investor funds will be deployed for any purpose (including land acquisition) until the Minimum Offering Amount has been achieved.
+(a) The Company has established a minimum offering amount of $[TO CONFIRM] (the "Minimum Offering Amount"). No investor funds will be deployed for any purpose (including land acquisition) until the Minimum Offering Amount has been achieved.
 
 (b) All subscription funds will be held in an interest-free escrow account at a federally insured depository institution until the Minimum Offering Amount is reached.
 
-(c) If the Minimum Offering Amount is not achieved by September 30, 2026 (or such later date as the Manager may determine in its sole discretion, but in no event later than December 31, 2026), all escrowed funds shall be returned to Subscribers, without interest, and this Agreement shall be void and of no further force or effect.
+(c) If the Minimum Offering Amount is not achieved by [TO CONFIRM offering deadline] (or such later date as the Manager may determine in its sole discretion, but in no event later than [TO CONFIRM outside date]), all escrowed funds shall be returned to Subscribers, without interest, and this Agreement shall be void and of no further force or effect.
 
 ### 1.8 Rolling Closings
 
@@ -167,13 +167,13 @@ The Subscriber acknowledges, understands, and agrees that:
 
 (a) The financial projections, pro forma statements, and forward-looking statements contained in the Offering Documents are estimates and assumptions that the Company believes to be reasonable but that may not prove to be correct. Actual results may differ materially from those projected.
 
-(b) There is no guarantee that the Company will achieve the target internal rate of return of 37.1%, the target equity multiple of 4.42x, or any positive return whatsoever.
+(b) There is no guarantee that the Company will achieve the projected LP internal rate of return of 33.5% (10-year) or 31.6% (5-year), the projected LP equity multiple of 3.58x (10-year) or 3.06x (5-year), or any positive return whatsoever. These figures are projections only.
 
 (c) The Subscriber may lose part or all of the Subscription Amount. An investment in the Units involves a high degree of risk, including the potential for total loss of invested capital.
 
 (d) Past performance of the Manager, its principals, or any affiliated entities or investments is not indicative of future results and should not be relied upon as a basis for the Subscriber's investment decision.
 
-(e) The preferred return of 8% is not a guarantee of payment and is subject to the availability of distributable cash flow.
+(e) The preferred return of 10% (cumulative; subject to final documentation and review by securities counsel) is not a guarantee of payment and is subject to the availability of distributable cash flow.
 
 ### 2.9 Investment Purpose
 
@@ -283,7 +283,7 @@ The Subscriber represents and warrants that:
 
 (b) The Subscriber has prior experience investing in one or more of the following: (i) private placements of securities; (ii) real estate development projects; (iii) limited partnerships or limited liability companies; (iv) illiquid, long-term investments; or (v) other investments of a comparable nature and risk profile; or, alternatively, the Subscriber has consulted with professional advisors who have provided guidance regarding the risks, merits, and suitability of this investment;
 
-(c) The Subscriber understands the nature and structure of the Company, including the Texas Series LLC structure, the GP/LP relationship, the distribution waterfall, the fee structure, and the limited rights of Limited Partners;
+(c) The Subscriber understands the nature and structure of the Company, including the Delaware manager-managed LLC structure, the Class A (LP) / Class B (GP-Manager) unit structure, the distribution waterfall, the fee structure, and the limited rights of Limited Partners;
 
 (d) The Subscriber understands the terms, risks, and potential rewards of an investment in the Units as described in the Offering Documents; and
 
@@ -301,7 +301,7 @@ The Subscriber represents and warrants that:
 
 (d) The Subscriber's investment in the Units does not exceed ten percent (10%) of the Subscriber's net worth (excluding the value of the Subscriber's primary residence), or the Subscriber has determined, in consultation with the Subscriber's professional advisors, that a higher allocation is appropriate and prudent for the Subscriber's individual financial situation and investment objectives; and
 
-(e) The Subscriber understands that distributions from the Company, if any, may be irregular, may not commence for 18-24 months following the initial closing, and may not be sufficient to cover the Subscriber's tax obligations arising from allocations of Company income.
+(e) The Subscriber understands that distributions from the Company, if any, may be irregular, may not commence until after first project revenue (projected 2028) [TO CONFIRM], and may not be sufficient to cover the Subscriber's tax obligations arising from allocations of Company income.
 
 ### 4.3 Professional Advisor Consultation
 
@@ -319,7 +319,7 @@ The Subscriber acknowledges that an investment in the Units involves a high degr
 
 Without limiting the generality of Section 5.1, the Subscriber specifically acknowledges, understands, and accepts the following risks:
 
-**(a) Illiquidity and No Public Market.** There is no public market for the Units, and none is expected to develop. The Units are subject to significant transfer restrictions under this Agreement, the Operating Agreement, and applicable securities laws. The Subscriber may not be able to sell, transfer, or otherwise dispose of the Units for an indefinite period and should be prepared to hold the investment for the full anticipated 7-10 year project term, or longer. Forced or distressed sale of the Units would likely result in a significant discount to the Units' intrinsic value.
+**(a) Illiquidity and No Public Market.** There is no public market for the Units, and none is expected to develop. The Units are subject to significant transfer restrictions under this Agreement, the Operating Agreement, and applicable securities laws. The Subscriber may not be able to sell, transfer, or otherwise dispose of the Units for an indefinite period and should be prepared to hold the investment for the full project term (5-year and 10-year hold scenarios are presented; construction completion is projected in 2031 with stabilized operations from 2032), or longer. Forced or distressed sale of the Units would likely result in a significant discount to the Units' intrinsic value.
 
 **(b) Loss of Entire Investment.** The Subscriber may lose the entire Subscription Amount. The Company is a development-stage entity with no operating history, no current revenue, and no assets (other than cash). There is no guarantee of returns, distributions, or return of capital.
 
@@ -361,7 +361,7 @@ Subscription funds shall be wired to:
 |---|---|
 | **Receiving Bank** | [To be provided upon execution] |
 | **ABA/Routing Number** | [To be provided upon execution] |
-| **Account Name** | Abundancia Austin Holdings, LLC — Investor Escrow Account |
+| **Account Name** | Abundancia Community LLC — Investor Escrow Account |
 | **Account Number** | [To be provided upon execution] |
 | **SWIFT Code (international)** | [To be provided if applicable] |
 | **Reference/Memo** | [Subscriber Name] — Class A Subscription |
@@ -372,7 +372,7 @@ Subscription funds shall be wired to:
 
 (a) All subscription funds shall be deposited into an escrow account maintained at a federally insured depository institution (the "Escrow Agent") selected by the Manager.
 
-(b) Funds shall be held in escrow and shall not be deployed for any purpose until: (i) the Minimum Offering Amount of $5,000,000 has been achieved; (ii) the Subscriber's subscription has been accepted by the Manager; and (iii) the Operating Agreement has been executed by all parties.
+(b) Funds shall be held in escrow and shall not be deployed for any purpose until: (i) the Minimum Offering Amount of $[TO CONFIRM] has been achieved; (ii) the Subscriber's subscription has been accepted by the Manager; and (iii) the Operating Agreement has been executed by all parties.
 
 (c) No interest shall accrue or be payable on escrowed funds. If the subscription is rejected or the Minimum Offering Amount is not achieved within the offering period, the Subscription Amount shall be returned to the Subscriber, without interest, within five (5) business days.
 
@@ -386,7 +386,7 @@ Subscription funds shall be wired to:
 
 ### 6.5 No Obligation to Fund Beyond Subscription Amount
 
-Except as provided in Section 6.4, the Subscriber shall have no obligation to contribute capital to the Company in excess of the Subscription Amount. The Subscriber's liability as a Limited Partner is limited to the Subscriber's capital contribution plus any share of undistributed profits, as provided under the Texas Business Organizations Code.
+Except as provided in Section 6.4, the Subscriber shall have no obligation to contribute capital to the Company in excess of the Subscription Amount. The Subscriber's liability as a Limited Partner is limited to the Subscriber's capital contribution plus any share of undistributed profits, as provided under the Delaware Limited Liability Company Act (6 Del. C. § 18-101 et seq.).
 
 ---
 
@@ -398,20 +398,19 @@ Subject to the terms of the Operating Agreement, the Subscriber shall be entitle
 
 ### 7.2 Distribution Waterfall Summary
 
-Distributions shall be made in the following order of priority:
+Distributions shall be made in the following order of priority (subject to final documentation and review by securities counsel; a 10% distribution reserve is withheld from positive cash flows for working capital):
 
 | Tier | Description | LP Share | GP Share | Threshold |
 |---|---|---|---|---|
-| **1** | Return of Capital | 100% | 0% | Until 1.0x return of contributed capital |
-| **2** | Preferred Return | 100% | 0% | Until 8% cumulative annual return achieved |
-| **3** | GP Catch-Up | 80% | 20% | Until GP receives 20% of Tier 2-3 distributions |
-| **4** | Performance Tier I | 70% | 30% | After LP achieves 15% IRR |
-| **5** | Performance Tier II | 60% | 40% | After LP achieves 25% IRR |
-| **6** | Performance Tier III | 50% | 50% | After LP achieves 35% IRR |
+| **1** | Return of Capital | 100% | 0% | Until 1.0x return of contributed capital [TO CONFIRM ordering] |
+| **2** | Preferred Return | 100% | 0% | Until 10% cumulative annual return achieved |
+| **3** | Above Preferred Return | 90% | 10% | Above the preferred return |
+| **4** | Performance Tier I | 80% | 20% | After LP achieves 12% IRR |
+| **5** | Performance Tier II | 60% | 40% | After LP achieves 15% IRR |
 
 ### 7.3 Preferred Return
 
-The preferred return shall accrue at a rate of eight percent (8%) per annum on the Subscriber's unreturned capital contributions, compounding annually from the date of each capital contribution. The preferred return is cumulative; any unpaid preferred return carries forward and must be fully satisfied before the General Partner participates in any distributions above Tier 2.
+The preferred return shall accrue at a rate of ten percent (10%) per annum on the Subscriber's unreturned capital contributions. The preferred return is cumulative; any unpaid preferred return carries forward and must be fully satisfied before the General Partner participates in any distributions above Tier 2. Preferred return mechanics (including any compounding) are subject to final documentation and review by securities counsel.
 
 ### 7.4 Distribution Timing and Discretion
 
@@ -419,7 +418,7 @@ The preferred return shall accrue at a rate of eight percent (8%) per annum on t
 
 (b) The timing and amount of all distributions are in the sole discretion of the Manager. THERE CAN BE NO ASSURANCE THAT DISTRIBUTIONS WILL BE MADE ON ANY PARTICULAR SCHEDULE OR AT ALL.
 
-(c) The Manager anticipates that the first distributions will commence approximately 18-24 months after the initial closing (estimated Q1 2028), subject to project performance and available cash flow.
+(c) The Manager anticipates that the first distributions will commence following first project revenue (projected 2028) [TO CONFIRM], subject to project performance and available cash flow.
 
 ### 7.5 Tax Distributions
 
@@ -497,7 +496,7 @@ Notwithstanding anything to the contrary in this Agreement, no Transfer shall be
 
 All Units shall bear a restrictive legend substantially in the following form:
 
-> THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "ACT"), OR UNDER THE SECURITIES LAWS OF ANY STATE. THESE SECURITIES ARE SUBJECT TO RESTRICTIONS ON TRANSFERABILITY AND RESALE AND MAY NOT BE TRANSFERRED OR RESOLD EXCEPT AS PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS, PURSUANT TO REGISTRATION OR EXEMPTION THEREFROM. THE SECURITIES ARE ALSO SUBJECT TO THE TERMS AND CONDITIONS OF THE OPERATING AGREEMENT OF ABUNDANCIA AUSTIN HOLDINGS, LLC, DATED AS OF MARCH 2026, AS AMENDED, AND A SUBSCRIPTION AGREEMENT. COPIES OF SUCH AGREEMENTS MAY BE OBTAINED FROM THE COMPANY. THE HOLDER OF THESE SECURITIES, BY ACCEPTANCE HEREOF, AGREES TO BE BOUND BY ALL SUCH RESTRICTIONS.
+> THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "ACT"), OR UNDER THE SECURITIES LAWS OF ANY STATE. THESE SECURITIES ARE SUBJECT TO RESTRICTIONS ON TRANSFERABILITY AND RESALE AND MAY NOT BE TRANSFERRED OR RESOLD EXCEPT AS PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS, PURSUANT TO REGISTRATION OR EXEMPTION THEREFROM. THE SECURITIES ARE ALSO SUBJECT TO THE TERMS AND CONDITIONS OF THE OPERATING AGREEMENT OF ABUNDANCIA COMMUNITY LLC, DATED AS OF JULY 2026, AS AMENDED, AND A SUBSCRIPTION AGREEMENT. COPIES OF SUCH AGREEMENTS MAY BE OBTAINED FROM THE COMPANY. THE HOLDER OF THESE SECURITIES, BY ACCEPTANCE HEREOF, AGREES TO BE BOUND BY ALL SUCH RESTRICTIONS.
 
 ---
 
@@ -587,7 +586,7 @@ The Subscriber acknowledges that a breach of this Section 10 may cause irreparab
 
 ### 11.1 Governing Law
 
-This Agreement shall be governed by and construed in accordance with the internal laws of the State of Texas, without giving effect to any choice of law or conflict of law provisions, rules, or principles (whether of the State of Texas or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of Texas.
+This Agreement shall be governed by and construed in accordance with the internal laws of the State of Texas, without giving effect to any choice of law or conflict of law provisions, rules, or principles (whether of the State of Texas or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of Texas; provided, that the internal affairs of the Company (a Delaware limited liability company) shall be governed by the Delaware Limited Liability Company Act. [TO CONFIRM — governing-law and venue elections for a Delaware LLC to be confirmed by securities counsel.]
 
 ### 11.2 Exclusive Jurisdiction and Venue
 
@@ -741,7 +740,7 @@ All representations, warranties, covenants, agreements, indemnification obligati
 | Field | Information |
 |---|---|
 | **Number of Units Subscribed** | ______________________________________________ |
-| **Price Per Unit** | $50,000.00 |
+| **Price Per Unit** | $50,000.00 [TO CONFIRM] |
 | **Total Subscription Amount** | $_____________________________________________ |
 
 ### 13.5 Distribution Payment Instructions
@@ -818,28 +817,28 @@ BY SIGNING BELOW, THE SUBSCRIBER REPRESENTS, WARRANTS, AND CERTIFIES THAT:
 
 The Manager, on behalf of the Company, hereby accepts the subscription of the Subscriber identified above for the number of Units and Subscription Amount set forth herein, subject to the terms and conditions of this Agreement, the Operating Agreement, and the Private Placement Memorandum.
 
-**ABUNDANCIA AUSTIN HOLDINGS, LLC**
-By: Abundancia Austin GP, LLC, its General Partner and Manager
+**ABUNDANCIA COMMUNITY LLC**
+By: New Earth Development, its Manager [TO CONFIRM exact legal name of Manager entity]
 
 | | |
 |---|---|
 | **Signature** | ______________________________________________ |
-| **Name** | Nicholas Courchesne |
-| **Title** | Managing Member |
+| **Name** | Kelly Krezek |
+| **Title** | Chief Executive Officer |
 | **Date** | ______________________________________________ |
 | **Units Accepted** | ______________________________________________ |
 | **Admission Date** | ______________________________________________ |
 
 ---
 
-**ABUNDANCIA AUSTIN HOLDINGS, LLC**
-By: Abundancia Austin GP, LLC, its General Partner and Manager
+**ABUNDANCIA COMMUNITY LLC**
+By: New Earth Development, its Manager [TO CONFIRM exact legal name of Manager entity]
 
 | | |
 |---|---|
 | **Signature** | ______________________________________________ |
-| **Name** | Jason Sparks |
-| **Title** | Managing Member |
+| **Name** | [TO CONFIRM — additional authorized signatory, if any] |
+| **Title** | ______________________________________________ |
 | **Date** | ______________________________________________ |
 
 ---
@@ -859,6 +858,6 @@ By: Abundancia Austin GP, LLC, its General Partner and Manager
 
 ---
 
-*This Subscription Agreement is provided as part of the Abundancia Austin investor data room. Securities offered hereby have not been registered under the Securities Act of 1933 or any state securities laws and may not be resold unless registered or exempt from registration. This document does not constitute an offer to sell or a solicitation of an offer to buy securities in any jurisdiction where such offer or solicitation would be unlawful.*
+*This Subscription Agreement is provided as part of the Abundancia investor data room. Securities offered hereby have not been registered under the Securities Act of 1933 or any state securities laws and may not be resold unless registered or exempt from registration. This document does not constitute an offer to sell or a solicitation of an offer to buy securities in any jurisdiction where such offer or solicitation would be unlawful.*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC. All rights reserved.*

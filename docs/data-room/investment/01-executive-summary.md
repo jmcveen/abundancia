@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,14 +9,14 @@
 ---
 
 **Document 01** | Data Room - Investment
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
-> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. Distribution, reproduction, or disclosure to unauthorized parties is strictly prohibited. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before making any investment decision.*
+> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Community LLC. Distribution, reproduction, or disclosure to unauthorized parties is strictly prohibited. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before making any investment decision.*
 
 ---
 
@@ -40,34 +40,34 @@
 
 ### 1.1 Introduction
 
-Abundancia Austin is a 376-acre regenerative master-planned community located in Cedar Creek, Bastrop County, Texas — approximately 30 minutes southeast of downtown Austin along the State Highway 71 corridor. The project represents the convergence of three powerful secular trends: the Austin metropolitan area's sustained population and economic growth, the accelerating consumer demand for sustainable and wellness-oriented living, and the proven economics of regenerative land development.
+Abundancia is a 376-acre regenerative master-planned community located at 176 Cedar Creek Circle in Cedar Creek, unincorporated Bastrop County, Texas — in the Lost Pines ecoregion along the State Highway 71 corridor, approximately 30–40 minutes from downtown Austin and 15–20 minutes from Austin-Bergstrom International Airport. The project represents the convergence of three powerful secular trends: the Austin metropolitan area's sustained population and economic growth, the accelerating consumer demand for sustainable and wellness-oriented living, and the proven economics of regenerative land development.
 
 ### 1.2 Mission Statement
 
-Abundancia Austin exists to demonstrate that profitable real estate development and ecological regeneration are not competing objectives but complementary forces. By integrating regenerative agriculture, carbon-negative building materials, renewable energy systems, and community-centered design, Abundancia creates outsized financial returns while restoring the land, sequestering carbon, and building resilient communities.
+Abundancia exists to demonstrate that profitable real estate development and ecological regeneration are not competing objectives but complementary forces. By integrating regenerative agriculture, carbon-negative building materials, renewable energy systems, and community-centered design, Abundancia creates outsized financial returns while restoring the land, sequestering carbon, and building resilient communities.
 
 ### 1.3 Corporate Structure
 
-Abundancia Austin Holdings, LLC is organized as a Texas Series Limited Liability Company, providing structural flexibility to isolate development phases, manage risk across asset classes, and optimize tax treatment for investors. The entity is manager-managed with a General Partner/Limited Partner structure designed to align incentives between management and capital partners.
+Abundancia Community LLC is organized as a Delaware limited liability company, manager-managed, with two classes of membership units: Class A Units for investor members (LPs) and Class B Units for the Manager (GP). The Manager is New Earth Development (Kelly Krezek, CEO). LP voting rights are limited to major matters, and the structure is designed to align incentives between management and capital partners.
 
 | Entity Detail | Description |
 |---|---|
-| **Legal Entity** | Abundancia Austin Holdings, LLC |
-| **Jurisdiction** | State of Texas |
-| **Entity Type** | Texas Series LLC |
-| **Management** | Manager-Managed (GP/LP Structure) |
+| **Legal Entity** | Abundancia Community LLC |
+| **Jurisdiction** | State of Delaware |
+| **Entity Type** | Delaware Limited Liability Company |
+| **Management** | Manager-Managed (GP is Manager; Class A / Class B Unit structure) |
 | **Tax Treatment** | Partnership (Pass-Through) |
-| **Registered Agent** | Texas Registered Agents, LLC |
-| **Formation Date** | 2025 |
+| **Registered Agent** | Delaware Registered Agent Service LLC |
+| **Formation Date** | January 2022 (Delaware initial filing 1/31/2022) |
 | **Principal Office** | Austin, Texas |
 
 ### 1.4 The Opportunity in Brief
 
-The Austin-Round Rock-Georgetown Metropolitan Statistical Area (MSA) continues to be one of the fastest-growing major metros in the United States, adding 50,000 to 60,000 new residents annually. This growth has created persistent housing demand across all price points, while simultaneously driving a premium for communities that offer authentic lifestyle differentiation beyond conventional suburban development.
+The Austin metropolitan area continues to be one of the fastest-growing major metros in the United States, with a population of approximately 2.55 million (25th-largest US metro, Census vintage 2024) and projected growth of approximately 1.7% per year through 2060 (Texas Demographic Center / Opportunity Austin). This growth has created persistent housing demand across all price points, while simultaneously driving a premium for communities that offer authentic lifestyle differentiation beyond conventional suburban development.
 
-Bastrop County — Austin's southeastern growth corridor — offers a unique regulatory environment with no county-level zoning restrictions, streamlined 6-to-12-month permitting timelines, agricultural tax exemptions, and the ability to form Municipal Utility Districts (MUDs) to finance infrastructure through tax-exempt bonds. These structural advantages translate directly into lower development costs, faster time-to-revenue, and superior risk-adjusted returns compared to projects in Travis, Williamson, or Hays counties.
+Bastrop County — Austin's southeastern growth corridor — offers a unique regulatory environment with no county-level zoning restrictions, an estimated 12-to-16-month permitting timeline, agricultural tax exemptions, and the ability to form Municipal Utility Districts (MUDs) to finance infrastructure through tax-exempt bonds. These structural advantages translate directly into lower development costs, faster time-to-revenue, and superior risk-adjusted returns compared to projects in Travis, Williamson, or Hays counties.
 
-Abundancia Austin captures this opportunity through a diversified development program spanning single-family homes, tiny homes, geodesic dome residences, multifamily apartments, finished lots, rental units, commercial space, and a retreat center — generating five distinct revenue streams across a 10-year development horizon.
+Abundancia captures this opportunity through a diversified development program spanning single-family homes, condominiums, tiny homes and dome residences, estate lots, rental residences and nature stays, commercial space, and an event & healing center — generating four distinct revenue streams (residential sales, lot sales, rental & hospitality income including retreat/event operations, and commercial revenue) across a 10-year development horizon.
 
 ---
 
@@ -77,17 +77,17 @@ Abundancia Austin captures this opportunity through a diversified development pr
 
 **Profitable development and ecological regeneration are not opposing forces — they are mutually reinforcing when executed with intentional design, appropriate materials, and community-centered governance.**
 
-Abundancia Austin is structured to deliver institutional-grade financial returns while simultaneously:
+Abundancia is structured to deliver institutional-grade financial returns while simultaneously:
 
 - Sequestering more carbon than it emits through hempcrete construction and regenerative land management
-- Restoring 376 acres of Texas Hill Country through native habitat corridors, food forests, and regenerative agriculture
+- Restoring 376 acres in the Lost Pines ecoregion of Central Texas through native habitat corridors, food forests, and regenerative agriculture
 - Creating a replicable model for regenerative community development scalable across the Sun Belt
 
 ### 2.2 Thesis Pillars
 
 **Pillar 1: Structural Demand Tailwinds**
 
-The Austin MSA has added over 500,000 residents in the past decade. Major employers including Tesla, Samsung, Apple, Google, Meta, Oracle, and Amazon have established or expanded significant operations in the region. The metro's median household income exceeds $86,000, and the population skews younger and more affluent than national averages. Housing supply has consistently lagged demand, particularly in the attainable luxury and sustainable living segments.
+The Austin metro has added over 500,000 residents in the past decade and now totals approximately 2.55 million people (Census vintage 2024). Austin ranked #1 in job growth among the top 50 US metros in 2025 (+27,200 jobs; BLS/TWC), with unemployment at 3.7%. Major employers including Tesla, Samsung, Apple, Google, Meta, Oracle, and Amazon have established or expanded significant operations in the region. The metro's median household income exceeds $86,000, and the population skews younger and more affluent than national averages. Housing supply has consistently lagged demand, particularly in the attainable luxury and sustainable living segments.
 
 **Pillar 2: Regulatory Arbitrage**
 
@@ -95,10 +95,10 @@ Bastrop County's regulatory environment represents a material competitive advant
 
 | Factor | Bastrop County | Travis County (Austin) |
 |---|---|---|
-| **Zoning** | None (county-level) | Extensive municipal zoning |
-| **Permitting Timeline** | 6-12 months | 18-36+ months |
+| **Zoning** | None (county-level) — mixed use by right | Extensive municipal zoning |
+| **Permitting Timeline** | 12-16 months (estimated) | 18-36+ months |
 | **Agricultural Exemption** | Available (significant tax savings) | Limited availability |
-| **MUD Formation** | Permitted (infrastructure financing) | Restricted |
+| **MUD Formation** | Permitted (infrastructure financing); district engineering underway | Restricted |
 | **Development Fees** | Minimal | Substantial impact fees |
 | **Regulatory Complexity** | Low | High |
 
@@ -108,31 +108,33 @@ Hempcrete — a bio-composite material made from hemp hurd, lime binder, and wat
 
 | Hempcrete Performance Metric | Value |
 |---|---|
-| **Carbon Sequestration** | ~165 kg CO2/m³ of wall |
-| **Insulation Value** | R-30+ (varies by wall thickness) |
+| **Carbon Sequestration** | Sequesters carbon via hemp growth and lime carbonation (quantification [TO CONFIRM]) |
+| **Insulation Value** | R-30+ wall assemblies |
 | **Fire Rating** | 2+ hours (exceeds code requirements) |
-| **Lifespan** | 500+ years (lime continues to petrify) |
-| **Pest Resistance** | Naturally resistant (silica content) |
-| **Moisture Management** | Hygroscopic (breathes, prevents mold) |
-| **Acoustic Performance** | Superior sound dampening |
+| **Energy Performance** | 50-70% HVAC/energy reduction vs. code baseline |
+| **Pest Resistance** | Naturally pest-resistant |
+| **Moisture Management** | Vapor-open, mold-resistant (breathes, prevents mold) |
+| **Indoor Air Quality** | Non-toxic materials |
 
 **Pillar 4: Diversified Revenue Architecture**
 
-Unlike conventional single-asset developments, Abundancia generates revenue across five distinct streams — residential sales, rental income, lot sales, commercial operations, and retreat/event revenue — providing natural diversification and reducing dependence on any single market cycle or buyer segment.
+Unlike conventional single-asset developments, Abundancia generates revenue across four distinct streams — residential sales, lot sales, rental & hospitality income (including retreat and event operations), and commercial operations — providing natural diversification and reducing dependence on any single market cycle or buyer segment.
 
 **Pillar 5: Premium Positioning**
 
-The convergence of wellness, sustainability, and community represents a $978 billion global market (wellness tourism alone). Research indicates 73% of millennials are willing to pay a premium for sustainable products and experiences. Abundancia captures this premium through authentic regenerative design, not greenwashing.
+The convergence of wellness, sustainability, and community represents an enormous and growing market: wellness real estate reached $548 billion globally in 2024 and is projected to reach $1.1 trillion by 2029 (Global Wellness Institute), with wellness-branded communities commanding 10-25% price premiums. Global wellness tourism was $894 billion and is projected to reach $1.38 trillion. Research indicates 73% of millennials are willing to pay a premium for sustainable products and experiences. Abundancia captures this premium through authentic regenerative design, not greenwashing.
 
 ### 2.3 Why Now
 
 The current market presents a compelling entry point:
 
 1. **Land basis advantage**: Rural Bastrop County land trades at a significant discount to comparable acreage in Travis or Williamson counties, despite proximity to Austin's growth vector
-2. **Construction cost normalization**: Post-pandemic supply chain disruptions have largely resolved, and hempcrete material costs are declining as domestic hemp processing capacity scales
+2. **Construction cost normalization**: Post-pandemic supply chain disruptions have largely resolved, and hempcrete material availability is improving as the market grows at an estimated ~15% annual CAGR (GMI)
 3. **Regulatory window**: Bastrop County's development-friendly environment may face increasing regulation as the area urbanizes — early movers capture maximum flexibility
 4. **Carbon credit markets**: Voluntary and compliance carbon markets are maturing, creating potential for incremental revenue from verified carbon sequestration
 5. **Interest rate environment**: Anticipated monetary easing through 2026-2027 supports residential demand and construction financing availability
+
+*Suggested addition (July 2026 review):* **Demonstrated traction** — Abundancia has built a 10,000-person interest list and attracted 100+ investors, buyers, and collaborators with zero paid marketing.
 
 ---
 
@@ -140,17 +142,17 @@ The current market presents a compelling entry point:
 
 ### 3.1 Location Overview
 
-The Abundancia Austin property comprises 376 contiguous acres in Cedar Creek, Bastrop County, Texas, situated along the State Highway 71 corridor — the primary arterial connecting Austin to Bastrop and points east.
+The Abundancia property comprises 376 contiguous acres at 176 Cedar Creek Circle in Cedar Creek, unincorporated Bastrop County, Texas — in the Lost Pines ecoregion along the State Highway 71 corridor, the primary arterial connecting Austin to Bastrop and points east.
 
 | Property Detail | Description |
 |---|---|
 | **Total Acreage** | 376 acres |
-| **Location** | Cedar Creek, Bastrop County, TX |
-| **Primary Access** | State Highway 71 |
-| **Distance to Downtown Austin** | ~30 minutes (28 miles) |
-| **Distance to Austin-Bergstrom International Airport** | ~25 minutes (22 miles) |
-| **Distance to Tesla Gigafactory** | ~20 minutes (16 miles) |
-| **Distance to Downtown Bastrop** | ~15 minutes (12 miles) |
+| **Location** | 176 Cedar Creek Circle, Cedar Creek, TX (unincorporated Bastrop County) — Lost Pines ecoregion |
+| **Primary Access** | State Highway 71 corridor |
+| **Distance to Downtown Austin** | 30-40 minutes |
+| **Distance to Austin-Bergstrom International Airport** | 15-20 minutes |
+| **Distance to Tesla Gigafactory** | ~20 minutes (estimated) |
+| **Distance to City of Bastrop** | 10-15 minutes |
 | **County** | Bastrop County |
 | **School District** | Bastrop ISD |
 
@@ -158,10 +160,12 @@ The Abundancia Austin property comprises 376 contiguous acres in Cedar Creek, Ba
 
 Cedar Creek occupies a strategic position along Austin's southeastern growth corridor. The SH 71 corridor has seen accelerating commercial and residential development driven by:
 
-- **Tesla Gigafactory Texas**: Located at the intersection of SH 130 and SH 71, employing 20,000+ workers
-- **Austin-Bergstrom International Airport**: Major expansion underway, driving commercial development along the SH 71/SH 130 interchange
-- **Samsung Taylor Facility**: $17 billion semiconductor fabrication plant 40 minutes north, with workforce demand radiating through the region
-- **Bastrop County Growth**: Population growth rate exceeding 4% annually, among the fastest in Texas
+- **Tesla Gigafactory Texas**: Located at the intersection of SH 130 and SH 71, with approximately 16,500 employees and a 5.2 million SF "Terafab" expansion filing
+- **Austin-Bergstrom International Airport**: 21.7 million passengers in 2025, with an approximately $4-5 billion expansion underway, driving commercial development along the SH 71/SH 130 interchange
+- **Samsung Taylor Facility**: $37 billion semiconductor fabrication plant to the north, with workforce demand radiating through the region
+- **Bastrop County Growth**: Population approximately 122,500, growing ~2.5% annually (+64% since 2010), projected to reach ~200,000 by 2060
+
+*Suggested addition (July 2026 review):* **Bastrop-based anchors** — SpaceX Starlink's 1.1 million SF Bastrop facility (1,000+ jobs) with an 11 million SF "Gigasat" expansion filing; X (Twitter) headquarters in Bastrop; The Boring Company; and a $1.4 billion data center under development at Cedar Creek (FM 535).
 
 ### 3.3 Property Characteristics
 
@@ -170,41 +174,42 @@ The 376-acre site presents a diverse topography well-suited to the planned devel
 | Feature | Description |
 |---|---|
 | **Terrain** | Gently rolling to moderate slopes, characteristic of the Colorado River watershed transition zone |
-| **Vegetation** | Mixed post oak savannah, native grasslands, and riparian corridors |
-| **Water** | Seasonal creeks, potential for pond/lake features, access to groundwater |
+| **Vegetation** | Lost Pines ecoregion — pine/oak woodland, native grasslands, and riparian corridors |
+| **Water** | 7 existing water-retention ponds (with more to be created), 2 dry creek beds; Aqua Water Supply Corporation service area; groundwater wells planned |
 | **Soils** | Sandy loam over clay subsoils — suitable for construction and agriculture |
-| **Flood Zone** | Predominantly Zone X (minimal flood risk) |
-| **Utilities** | Electric (Bluebonnet Electric Co-op), water (well + potential MUD), septic/community systems |
-| **Road Frontage** | SH 71 frontage providing high visibility and direct access |
-| **Existing Improvements** | Minimal — clean development canvas |
+| **Flood Zone** | FEMA floodplain administered through Bastrop County; site-specific flood determination [TO CONFIRM] |
+| **Utilities** | Electric (Bluebonnet Electric Co-op), water (Aqua Water Supply Corporation + wells), wastewater (TCEQ-permitted OSSF — biodigester/bionest systems per structure) |
+| **Road Access** | SH 71 corridor location with convenient regional access |
+| **Existing Improvements** | Existing barn — to be renovated as the community's first event space |
 
 ### 3.4 Land Use Plan
 
-The 376 acres are allocated across the following program areas:
+The 376 acres are allocated across the following program areas (authoritative land use plan):
 
 | Land Use Category | Approximate Acreage | Percentage |
 |---|---|---|
-| **Single-Family Residential** | 80 acres | 21% |
-| **Tiny Home Village** | 15 acres | 4% |
-| **Dome Community** | 18 acres | 5% |
-| **Multifamily Housing** | 40 acres | 11% |
-| **Finished Lots (For Sale)** | 60 acres | 16% |
-| **Rental Community** | 20 acres | 5% |
-| **Commercial / Village Center** | 10 acres | 3% |
-| **Retreat & Event Center** | 15 acres | 4% |
-| **Regenerative Agriculture** | 50 acres | 13% |
-| **Conservation / Open Space** | 40 acres | 11% |
-| **Infrastructure / Roads** | 28 acres | 7% |
+| **Single-Family Residential** | 61 acres | 16.2% |
+| **Commercial** | 9 acres | 2.4% |
+| **Regenerative Agriculture** | 42 acres | 11.2% |
+| **Roads** | 10 acres | 2.7% |
+| **Short-Term Rentals — Tiny Homes / Domes** | 25 acres | 6.6% |
+| **Short-Term Rentals — Unique Regenerative Stays** | 8 acres | 2.1% |
+| **Residential Tiny Homes & Domes** | 16 acres | 4.3% |
+| **Event & Healing Center** | 12 acres | 3.2% |
+| **Permaculture Gardens & Barns** | 8.5 acres | 2.3% |
+| **Preserved Land** | 184.5 acres | 49.1% |
 | **Total** | **376 acres** | **100%** |
+
+Total building footprint is approximately 16.1 acres of structures (4.28% of the site), with approximately 746,000 SF of vertical construction and approximately 878,000 SF of total developed area including roads.
 
 ### 3.5 Infrastructure Strategy
 
-Abundancia Austin will employ a phased infrastructure strategy leveraging Municipal Utility District (MUD) bond financing where applicable:
+Abundancia will employ a phased infrastructure strategy leveraging Municipal Utility District (MUD) bond financing where applicable (MUD formation engineering is underway, led by Fred Haas, PE):
 
-- **Water**: Community well system supplemented by rainwater harvesting; potential MUD water system in later phases
-- **Wastewater**: Advanced community treatment systems (constructed wetlands/packaged treatment plants) designed for nutrient recovery and irrigation reuse
+- **Water**: Layered supply strategy — Aqua Water Supply Corporation service; 7 existing water-retention ponds (with more to be created); 6 wells with 13 storage tanks and filtration; rainwater capture on every building (estimated 9-11 million gallons/year at build-out); and 11 atmospheric water generators for drinking water. Demand is reduced below typical development levels via low-flow fixtures and greywater recycling. A full watershed analysis by Symbiosis TX will be commissioned immediately upon entering due diligence — hydrology and water feasibility are the first predevelopment spend.
+- **Wastewater**: TCEQ-permitted on-site sewage facilities (biodigester/bionest systems per structure) designed for nutrient recovery and irrigation reuse
 - **Electric**: Grid connection via Bluebonnet Electric Co-op supplemented by community solar arrays and individual home solar systems
-- **Roads**: Private road network connecting to SH 71 via dedicated entrance(s); internal roads designed for low-speed, multi-modal use
+- **Roads**: Private road network connecting to the SH 71 corridor via dedicated entrance(s); internal roads designed for low-speed, multi-modal use
 - **Communications**: Fiber-to-the-home throughout the development
 - **Stormwater**: Bioswale and retention pond system integrated into landscape design, supporting habitat and aesthetic value
 
@@ -216,54 +221,68 @@ Abundancia Austin will employ a phased infrastructure strategy leveraging Munici
 
 | Metric | Value |
 |---|---|
-| **Total Capital Raise** | $12,500,000 |
+| **Total Year-1 Capitalization** | $12,673,266 |
+| **Composition** | ~$5.1M LP equity + $100K GP equity + $8,871,286 construction debt (~9%) |
 | **Offering Type** | Regulation D, Rule 506(c) |
 | **Investor Qualification** | Accredited Investors Only |
-| **Minimum Investment** | $50,000 |
-| **Target Close** | Q2 2026 |
+| **Minimum Investment** | $50,000 [TO CONFIRM] |
+| **Target Close** | 2026 (capital close during predevelopment) |
+
+*Offering terms subject to final documentation and review by securities counsel.*
 
 ### 4.2 Return Projections
 
-| Metric | Conservative | Base Case | Aggressive |
-|---|---|---|---|
-| **Internal Rate of Return (IRR)** | 24.8% | 37.1% | 48.6% |
-| **Equity Multiple (EMx)** | 2.94x | 4.42x | 6.18x |
-| **10-Year Total Revenue** | $326M | $435M | $567M |
-| **Cash-on-Cash (Stabilized)** | 14.2% | 19.8% | 26.3% |
-| **Payback Period** | 4.2 years | 3.1 years | 2.4 years |
+LP return projections from the financial model (Simple Pro Forma — published figures):
 
-### 4.3 Revenue Summary (Base Case — 10-Year Horizon)
+| Metric | 5-Year Hold | 10-Year Hold |
+|---|---|---|
+| **LP Internal Rate of Return (IRR)** | 31.6% | 33.5% |
+| **LP Equity Multiple (EMx)** | 3.06x | 3.58x |
+| **LP Return on Investment (ROI)** | 206% | 258% |
+| **$100,000 Investment — Cumulative Distributions** | ~$266,000 by Year 5 | ~$346,000 by Year 10 |
+
+**Downside scenario:** Even if the project never proceeds past Phase 1, the model still projects positive LP returns — a key risk-mitigation feature of the phasing strategy.
+
+*Projections are subject to final documentation. Detailed waterfall schedule available upon request; figures being finalized.*
+
+### 4.3 Revenue Summary (10-Year Horizon)
 
 | Revenue Stream | 10-Year Revenue | % of Total |
 |---|---|---|
-| **Residential Sales** | $362,000,000 | 83.2% |
-| **Rental Income** | $43,600,000 | 10.0% |
-| **Lot Sales** | $15,400,000 | 3.5% |
-| **Commercial Revenue** | $7,800,000 | 1.8% |
-| **Retreat & Events** | $6,300,000 | 1.5% |
-| **Total** | **$435,100,000** | **100.0%** |
+| **Residential Sales** | $326,558,934 | 81.5% |
+| **Rental & Hospitality Income** | $44,031,597 | 11.0% |
+| **Lot Sales** | $22,872,273 | 5.7% |
+| **Commercial Revenue** | $7,102,227 | 1.8% |
+| **Total** | **$400,565,031** | **100.0%** |
+
+*Note: Retreat center revenue (the 6BR event house and unique regenerative stays) is classified within Rental & Hospitality Income per the financial model.*
 
 ### 4.4 Key Financial Metrics
 
 | Metric | Value |
 |---|---|
-| **Gross Development Value (GDV)** | $435,100,000 |
-| **Total Development Cost (Est.)** | $267,000,000 |
-| **Gross Margin** | 38.6% |
-| **Net Operating Margin (Stabilized)** | 28.4% |
-| **Preferred Return** | 8% cumulative, compounded annually |
-| **Distribution Waterfall** | 4-tier (80/20 → 70/30 → 60/40 → 50/50) |
-| **GP Promote** | Above 8% preferred, per waterfall schedule |
+| **Total Projected Revenue (10-Year)** | $400,565,031 |
+| **Total Project Cost (incl. financing)** | $268,747,911 |
+| **Total Expenses (10-Year, incl. 10% contingency)** | $314,290,171 |
+| **EBITDA (10-Year)** | $86,274,860 (22% margin) |
+| **First Revenue** | 2028 |
+| **Cumulative Break-Even** | Year 3 (2029) |
+| **Preferred Return** | 10% LP preferred return, cumulative |
+| **Distribution Waterfall** | 90/10 LP/GP above preferred; 80/20 above 12% LP IRR; 60/40 above 15% LP IRR |
+| **Distribution Reserve** | 10% of positive cash flows withheld for working capital |
+| **Developer Fee** | 4% of total project capital (~$500K) at close |
+
+*Waterfall structure and fees are subject to final documentation and review by securities counsel.*
 
 ### 4.5 Development Timeline
 
 | Phase | Timeline | Description | Estimated Revenue |
 |---|---|---|---|
-| **Phase 1: Foundation** | Months 1-18 | Land acquisition, master planning, entitlements, infrastructure | — |
-| **Phase 2: Pioneer** | Months 12-36 | First 40 single-family homes, tiny home village (30 units), dome community (30 units) | $47,500,000 |
-| **Phase 3: Growth** | Months 24-60 | 60 additional single-family, 130 multifamily units, 100 lots, 30 rental units | $147,200,000 |
-| **Phase 4: Maturation** | Months 48-84 | 130 multifamily units, 100 lots, 30 rental units, commercial center | $152,400,000 |
-| **Phase 5: Completion** | Months 72-120 | Final residential, retreat center, stabilization | $88,000,000 |
+| **Predevelopment** | 2026 | Due diligence, watershed/hydrology analysis (Symbiosis TX), land closing, entitlements, MUD formation, capital close | — |
+| **Groundbreaking** | 2027 (Year 1) | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture systems | — |
+| **First Revenue** | 2028 | Hospitality opens; model home; tiny homes deliver; lot and SFR sales launch | First revenue year |
+| **Build-Out** | 2029-2030 | 2029: 30 homes, 150 condos, 25 rental condos, school. 2030: 40 homes, 50 condos, village center, Sacred Temple Complex | Cumulative break-even in 2029 |
+| **Completion & Stabilization** | 2031-2032+ | 2031: 30 estate homes, 150 condos, 25 rental condos; construction complete. 2032+: stabilized operations | ~$7-8M/yr recurring (2032+) |
 
 ---
 
@@ -273,17 +292,21 @@ Abundancia Austin will employ a phased infrastructure strategy leveraging Munici
 
 | Name | Title | Background |
 |---|---|---|
-| **Nicholas Courchesne** | Founder & Chief Executive Officer | Visionary entrepreneur and regenerative development strategist. Deep expertise in sustainable community design, regenerative agriculture, and mission-driven real estate development. Led the acquisition strategy and master plan vision for Abundancia Austin. Extensive network in the Austin development, sustainability, and investment communities. |
-| **Jason Sparks** | Co-Founder & Chief Operating Officer | Operations leader with cross-functional expertise in development execution, construction management, and community operations. Responsible for day-to-day project management, vendor relationships, contractor oversight, and operational infrastructure. Ensures development milestones are met on budget and on schedule. |
-| **Dan Lawless** | Technical Lead | Technology strategist overseeing Abundancia's digital infrastructure, smart community systems, investor portal, and data analytics. Architects the technology stack enabling community management, energy monitoring, and operational intelligence. Background in enterprise software development and systems integration. |
-| **Dr. Sarah Mitchell** | Director of Regenerative Systems | Ph.D. in Ecological Design. Oversees the regenerative agriculture program, carbon sequestration strategy, habitat restoration, and environmental compliance. Designs and manages the food forest, permaculture zones, and conservation corridors that differentiate Abundancia from conventional developments. |
-| **Marcus Rivera** | Director of Construction | Licensed general contractor with 15+ years of experience in residential and mixed-use construction in Central Texas. Specializes in alternative building materials including hempcrete, rammed earth, and mass timber. Manages all construction operations, subcontractor coordination, and quality assurance. |
-| **Jennifer Walsh** | Director of Sales & Marketing | Real estate marketing professional with deep Austin market expertise. Leads the go-to-market strategy, buyer acquisition, brand development, and community engagement programs. Experience marketing lifestyle and sustainability-focused residential communities in the Texas Hill Country region. |
-| **David Chen** | Chief Financial Officer | CPA with extensive experience in real estate fund accounting, partnership tax reporting, and development finance. Oversees financial modeling, investor reporting, capital calls, distributions, and compliance with securities regulations. Previously managed fund administration for $200M+ in real estate assets. |
+| **Kelly Krezek** | Chief Executive Officer, New Earth Development (Manager) | 12 years in regenerative development across 10 regenerative projects; consults for firms with $100B+ in assets under management. Leads vision, master planning, and capital formation for Abundancia. |
+| **Jared Gossett** | Lead Builder | Austin's #1 luxury builder by volume — 170+ homes delivered, two-time Builder of the Year, founder of Legacy Living™. Leads residential construction strategy and delivery. |
+| **Fred Haas, PE** | Civil Engineering & Infrastructure | 40+ years of civil engineering experience; principal of Sustainable Land Strategies. Leads infrastructure design and MUD formation engineering. |
+| **Lancelot Stukaloff** | Capital Markets | Capital markets professional with $750M+ in financing arranged. Leads debt and equity capital structuring. |
+| **Joe McVeen** | Marketing & AI Systems | Founder of Viral Purpose Media with a 400M+ audience network. Leads marketing, brand, and AI-driven systems. |
+| **Angele Miller** | Hospitality — Retreats & Glamping | Co-founder of Creekside RNR Glamping. Leads Phase 1 retreat and glamping operations. |
+| **Gloria Merrick** | Tiny Homes | Tiny home specialist with 16+ builds. Leads the tiny home program. |
+| **Amanda Williams** | Wellness Programs | Wellness program lead; eXp top-1% agent in short-term and mid-term rentals. |
+| **Chelsae Zirna** | Retreats | Leads retreat programming and experience design. |
+
+New Earth Development track record: $755M+ raised, 200+ transactions, 70+ eco-communities analyzed, 21 sustainable projects, with a Living Building Challenge orientation.
 
 ### 5.2 Advisory Board
 
-The company has assembled an advisory board comprising experts in regenerative agriculture, sustainable construction, real estate law, community development, and Central Texas municipal governance. Advisory board members provide strategic guidance and industry connections but do not hold management authority or fiduciary obligations to investors.
+The company has assembled an advisory board comprising experts in regenerative agriculture, sustainable and biophilic construction, real estate, community development, and regenerative systems, including: Eduardo Esparza (RECODE / Blue Dot), Jeff Hall (Paragon), Jodie & Can (Inphinity biophilic design), Adelle York (Plural Office, Passive House), Gayle Borst, Rohan Guyot-Sutherland (regenerative systems), Angie Gonzales (permaculture), Adam Russell (Symbiosis TX), Nico Scegiel (Santé / Marché Market ATX), Eric Amyot, Kacee Jackson (360 Company), Mary Mandel (Olympus), Tony Cho (Metro 1 / Future of Cities), and Jean-Marc La Flamme (Geoship). Advisory board members provide strategic guidance and industry connections but do not hold management authority or fiduciary obligations to investors.
 
 ### 5.3 Key Service Providers
 
@@ -291,9 +314,9 @@ The company has assembled an advisory board comprising experts in regenerative a
 |---|---|---|
 | **Securities Counsel** | [To be named] | Engaged |
 | **Real Estate Counsel** | [To be named] | Engaged |
-| **Civil Engineering** | [To be named] | RFP Stage |
+| **Civil Engineering** | Fred Haas, PE — Sustainable Land Strategies | Engaged |
 | **Architecture** | [To be named] | RFP Stage |
-| **Environmental Consulting** | [To be named] | Engaged |
+| **Environmental / Watershed Consulting** | Symbiosis TX (full watershed analysis to be commissioned immediately upon entering due diligence) | Identified |
 | **Accounting / Tax** | [To be named] | Engaged |
 | **Title / Escrow** | [To be named] | Identified |
 
@@ -303,212 +326,187 @@ The company has assembled an advisory board comprising experts in regenerative a
 
 ### 6.1 Unit Mix
 
-The Abundancia Austin development program encompasses 680 residential units across six distinct product types, designed to serve a range of buyer demographics and price points.
+The Abundancia development program encompasses 651 structures plus 100 estate lots, including 510 for-sale residences across three product families, designed to serve a range of buyer demographics and price points.
 
-| Product Type | Units | Avg. Price/Unit | Total Revenue | Avg. Sq. Ft. | Description |
+| Product Type | Units | Pricing (from model) | Total Revenue | Sq. Ft. Range | Description |
 |---|---|---|---|---|---|
-| **Single-Family Homes** | 100 | $625,000 | $62,500,000 | 1,800-2,400 | Hempcrete construction, solar-ready, regenerative landscaping, community-integrated design |
-| **Tiny Homes** | 30 | $200,000 | $6,000,000 | 400-600 | Minimalist living, hempcrete/timber hybrid, shared amenity access, ideal for remote workers and minimalists |
-| **Geodesic Domes** | 30 | $225,000 | $6,750,000 | 500-800 | Iconic dome architecture, hempcrete-insulated, energy-efficient design, strong visual identity for the community |
-| **Multifamily Units** | 260 | $408,000 | $106,080,000 | 800-1,200 | Apartment and townhome configurations, hempcrete construction, shared amenities, walkable village design |
-| **Finished Lots** | 200 | $350,000 | $70,000,000 | N/A (0.25-0.5 acre) | Fully improved lots with utilities, roads, and design guidelines — sold to custom builders or individual buyers |
-| **Rental Units** | 60 | N/A (rental) | N/A (see rental income) | 600-1,000 | Retained rental portfolio generating recurring income; mix of apartments and cottage rentals |
-| **Total** | **680** | — | **$251,330,000** | — | *Note: Total above reflects for-sale revenue only; rental, commercial, and retreat revenue shown separately* |
+| **Single-Family Homes** | 100 | From ~$450/SF (entry); ~$566/SF blended realized | — | 1,000-5,000 SF (1BR-7BR: 10×1BR, 20×2BR, 20×3BR, 20×4BR, 20×5BR, 5×6BR, 5×7BR) | Hempcrete construction, solar-ready, regenerative landscaping, community-integrated design |
+| **Condominiums** | 350 | ~$400/SF blended | — | 600-1,250 SF (50×1BR 600SF, 150×2BR 850SF, 150×3BR 1,250SF) | Hempcrete construction, shared amenities, walkable village design |
+| **Tiny Homes & Domes (for sale)** | 60 | ~$416/SF (~$104K-$166K) | — | 232-416 SF (16 studio, 18×1BR, 20×2BR, 6 early-discount) | Minimalist living, non-toxic materials, shared amenity access, ideal for remote workers and minimalists |
+| **Estate Lots** | 100 | ~$229K average | $22,872,273 (2028-2029) | ~1/3-1 acre (20×~1/3-acre, 50×half-acre, 30×one-acre; ~61.66 acres total) | Improved estate lots with utilities, roads, and design guidelines |
+| **Rental Portfolio** | 126 | N/A (rental — see rental income) | N/A (see rental income) | Varies | 1×6BR event house (6,000 SF), 75 rental condos (25×1BR/25×2BR/25×3BR), 50 nature stays (glamping tents, domes, camping) |
+| **Total** | **651 structures + 100 lots** | — | **$349,431,207 for-sale** (residences $326,558,934 + lots $22,872,273) | — | *Note: Totals above reflect for-sale revenue only; rental & hospitality and commercial revenue shown separately* |
+
+Commercial program: 12 spaces totaling 30,000 SF — Wellness/Longevity Center & Spa (5,000 SF), Convention Center + TV Studio (5,000 SF), Zero-Waste Grocery (3,000 SF), restaurants, elixir/juice/tea bar, café, yoga & meditation studio, retail, gym, coworking, and makerspace. Community amenities include a 5,000 SF Community Center (Year 1), school (Year 3), Sacred Temple Complex (Year 4), 8 parks & recreation areas, and an amphitheater with farmers market (Year 4).
 
 ### 6.2 Product Design Philosophy
 
-Every structure at Abundancia Austin is designed around five core principles:
+Every structure at Abundancia is designed around five core principles:
 
-1. **Carbon-Negative Construction**: Hempcrete walls, mass timber framing, and natural finishes ensure each building sequesters more carbon than it emits during construction and throughout its lifespan
-2. **Passive Performance**: Orientation, thermal mass, natural ventilation, and R-30+ hempcrete insulation minimize active energy requirements
+1. **Carbon-Negative Construction**: Hempcrete walls, mass timber framing, and natural, non-toxic finishes ensure each building sequesters more carbon than it emits during construction and throughout its lifespan
+2. **Passive Performance**: Orientation, thermal mass, natural ventilation, and R-30+ hempcrete wall assemblies deliver a 50-70% HVAC/energy reduction versus code baseline
 3. **Biophilic Design**: Living walls, natural materials, abundant daylight, and visual connections to landscape support occupant health and well-being
 4. **Community Integration**: Every unit is oriented toward shared spaces — food forests, walking paths, community gardens, and gathering areas — fostering social connection
 5. **Adaptability**: Flexible floor plans, universal design principles, and modular systems allow homes to evolve with occupant needs over decades
 
 ### 6.3 Phasing Strategy
 
-Development is structured in five phases over a 10-year horizon, with each phase designed to be self-funding from the preceding phase's revenue:
+Development is structured in phases over a 10-year horizon (Year 1 = 2027), with each phase designed to build on the preceding phase's revenue:
 
-**Phase 1 — Foundation (Months 1-18)**
-- Land acquisition and closing
-- Master plan development and engineering
-- Entitlement and permitting
+**Predevelopment (2026)**
+- Due diligence, including full watershed analysis by Symbiosis TX (hydrology and water feasibility are the first predevelopment spend)
+- Land closing
+- Entitlements and permitting
+- MUD formation engineering
+- Capital close
+
+**Groundbreaking (2027 — Year 1)**
 - Core infrastructure (roads, utilities, water systems)
-- Model home construction (3-5 units across product types)
-- Sales and marketing launch
+- Nature stays
+- Community Center
+- Wellness Center
+- Parks and permaculture systems
 
-**Phase 2 — Pioneer (Months 12-36)**
-- 40 single-family homes
-- 30 tiny homes (complete village)
-- 30 geodesic domes (complete community)
-- Community garden and food forest establishment
-- Village center groundbreaking
+**First Revenue (2028)**
+- Hospitality operations open
+- Model home construction
+- Tiny homes deliver
+- Estate lot and SFR sales launch
 
-**Phase 3 — Growth (Months 24-60)**
-- 60 additional single-family homes
-- 130 multifamily units (Phase A)
-- 100 finished lots
-- 30 rental units
-- Commercial space Phase A
+**Build-Out (2029-2030)**
+- 2029: 30 homes, 150 condos, 25 rental condos, school
+- 2030: 40 homes, 50 condos, village center, Sacred Temple Complex
 
-**Phase 4 — Maturation (Months 48-84)**
-- 130 multifamily units (Phase B)
-- 100 finished lots
-- 30 rental units
-- Commercial space Phase B
-- Retreat center construction
-
-**Phase 5 — Completion (Months 72-120)**
-- Final residential units
-- Retreat center opening and programming
-- Community stabilization
+**Completion & Stabilization (2031-2032+)**
+- 2031: 30 estate homes, 150 condos, 25 rental condos; construction complete
+- 2032+: stabilized operations (~$7-8M/yr recurring revenue)
 - Asset optimization and hold/disposition analysis
 
 ---
 
 ## 7. Revenue Model
 
-### 7.1 Five Revenue Streams
+### 7.1 Four Revenue Streams
 
-Abundancia Austin generates revenue through five distinct and complementary streams, providing natural diversification across market cycles, buyer segments, and asset classes.
+Abundancia generates revenue through four distinct and complementary streams, providing natural diversification across market cycles, buyer segments, and asset classes.
 
-#### Stream 1: Residential Sales — $362,000,000 (83.2% of total)
+#### Stream 1: Residential Sales — $326,558,934 (81.5% of total)
 
-Residential sales comprise the primary revenue driver, encompassing single-family homes, tiny homes, geodesic domes, multifamily units, and for-sale condominiums. Revenue is recognized at closing as units are sold to end buyers.
+Residential sales comprise the primary revenue driver, encompassing single-family homes, condominiums, and tiny homes & domes. Revenue is recognized at closing as units are sold to end buyers.
 
-| Product | Units | Avg. Price | Gross Revenue | Est. Gross Margin |
-|---|---|---|---|---|
-| Single-Family | 100 | $625,000 | $62,500,000 | 35-40% |
-| Tiny Homes | 30 | $200,000 | $6,000,000 | 40-45% |
-| Geodesic Domes | 30 | $225,000 | $6,750,000 | 38-42% |
-| Multifamily (For Sale) | 260 | $408,000 | $106,080,000 | 32-38% |
-| Lot Premium in Residential | — | — | $180,670,000 | 45-55% |
-| **Total Residential** | — | — | **$362,000,000** | **36-42%** |
+| Product | Units | Pricing (from model) | Sq. Ft. Range |
+|---|---|---|---|
+| Single-Family Homes | 100 | From ~$450/SF; ~$566/SF blended realized | 1,000-5,000 SF |
+| Condominiums | 350 | ~$400/SF blended | 600-1,250 SF |
+| Tiny Homes & Domes | 60 | ~$416/SF (~$104K-$166K) | 232-416 SF |
+| **Total Residential** | **510** | — | **$326,558,934 total revenue** |
 
-#### Stream 2: Rental Income — $43,600,000 (10.0% of total)
+#### Stream 2: Rental & Hospitality Income — $44,031,597 (11.0% of total)
 
-A portfolio of 60 purpose-built rental units is retained as a permanent income-producing asset, generating recurring cash flow for investor distributions and long-term portfolio value.
+A portfolio of 126 rental units is retained as a permanent income-producing asset, generating recurring cash flow for investor distributions and long-term portfolio value.
 
 | Metric | Value |
 |---|---|
-| **Total Rental Units** | 60 |
-| **Average Monthly Rent** | $1,850 |
-| **Annual Gross Rental Revenue (Stabilized)** | $1,332,000 |
-| **Occupancy Assumption** | 94% |
-| **Effective Gross Income** | $1,252,080 |
-| **Operating Expenses (35%)** | $438,228 |
-| **Net Operating Income** | $813,852 |
-| **10-Year Cumulative Revenue** | $43,600,000 |
-| **Cap Rate (Stabilized)** | 6.2% |
+| **Total Rental Units** | 126 |
+| **Event House** | 1×6BR (6,000 SF) |
+| **Rental Condominiums** | 75 (25×1BR, 25×2BR, 25×3BR) |
+| **Nature Stays** | 50 — 20 glamping tents ($150/night), 15 domes ($275/night), 5 high-end domes ($375/night), 10 camping sites |
+| **10-Year Cumulative Revenue** | $44,031,597 |
 
-*Note: Rental revenue includes annual rent escalations of 3-4% and accounts for lease-up periods in early phases.*
+*Note: Retreat center revenue (6BR event house + unique regenerative stays) is classified within this stream per the financial model; the renovated barn serves as the community's first event space. Detailed sub-stream splits available in the financial model [TO CONFIRM].*
 
-#### Stream 3: Lot Sales — $15,400,000 (3.5% of total)
+#### Stream 3: Lot Sales — $22,872,273 (5.7% of total)
 
-Finished lots — fully improved with utilities, road access, and design guidelines — are sold to custom home builders and individual buyers seeking to build within the Abundancia community framework.
+Improved estate lots — with utilities, road access, and design guidelines — are sold to buyers seeking to build within the Abundancia community framework.
 
 | Metric | Value |
 |---|---|
-| **Total Lots** | 200 |
-| **Average Lot Price** | $77,000 |
-| **10-Year Lot Sale Revenue** | $15,400,000 |
-| **Gross Margin** | 55-65% |
+| **Total Lots** | 100 (20×~1/3-acre, 50×half-acre, 30×one-acre; ~61.66 acres total) |
+| **Average Lot Revenue** | ~$229,000 |
+| **Lot Sale Revenue** | $22,872,273 (sold 2028-2029) |
 
-*Note: Lot prices reflect early-phase pricing; later phases command significant premium as community matures. Average lot sale price to individual buyers is $350,000 inclusive of improvements and community infrastructure allocation.*
+#### Stream 4: Commercial Revenue — $7,102,227 (1.8% of total)
 
-#### Stream 4: Commercial Revenue — $7,800,000 (1.8% of total)
-
-The village center includes commercial, retail, and co-working space leased to local businesses, food service operators, wellness practitioners, and community service providers.
+The village center includes 12 commercial spaces totaling 30,000 SF leased to local businesses, food service operators, wellness practitioners, and community service providers.
 
 | Metric | Value |
 |---|---|
-| **Commercial Sq. Ft.** | ~25,000 |
-| **Average Lease Rate** | $28/sq. ft. NNN |
-| **Annual Gross Commercial Revenue (Stabilized)** | $700,000 |
-| **Occupancy Assumption** | 88% |
-| **10-Year Cumulative Revenue** | $7,800,000 |
-
-#### Stream 5: Retreat & Events — $6,300,000 (1.5% of total)
-
-A purpose-built retreat center accommodating corporate retreats, wellness programs, workshops, weddings, and community events generates high-margin revenue and serves as a brand amplification engine.
-
-| Metric | Value |
-|---|---|
-| **Retreat Capacity** | 40-60 guests |
-| **Event Spaces** | 3 (indoor pavilion, outdoor amphitheater, workshop studio) |
-| **Average Event Revenue** | $8,500 |
-| **Annual Events (Stabilized)** | 85-100 |
-| **Annual Retreat/Event Revenue** | $765,000 |
-| **10-Year Cumulative Revenue** | $6,300,000 |
+| **Commercial Spaces** | 12 |
+| **Commercial Sq. Ft.** | 30,000 |
+| **Anchor** | Wellness/Longevity Center & Spa (5,000 SF; revenue begins 2028) |
+| **Other Spaces** | Convention Center + TV Studio, Zero-Waste Grocery, restaurants, elixir/juice/tea bar, café, yoga & meditation, retail, gym, coworking, makerspace |
+| **10-Year Cumulative Revenue** | $7,102,227 |
 
 ### 7.2 Revenue Ramp
 
-| Year | Residential Sales | Rental Income | Lot Sales | Commercial | Retreat/Events | Total |
-|---|---|---|---|---|---|---|
-| 1 | $0 | $0 | $0 | $0 | $0 | $0 |
-| 2 | $18,750,000 | $420,000 | $770,000 | $0 | $0 | $19,940,000 |
-| 3 | $38,200,000 | $1,260,000 | $1,540,000 | $140,000 | $0 | $41,140,000 |
-| 4 | $52,100,000 | $2,520,000 | $2,310,000 | $420,000 | $315,000 | $57,665,000 |
-| 5 | $56,800,000 | $3,780,000 | $2,310,000 | $560,000 | $630,000 | $64,080,000 |
-| 6 | $52,400,000 | $4,620,000 | $2,310,000 | $700,000 | $765,000 | $60,795,000 |
-| 7 | $48,200,000 | $5,460,000 | $2,310,000 | $780,000 | $765,000 | $57,515,000 |
-| 8 | $40,100,000 | $6,300,000 | $1,540,000 | $850,000 | $765,000 | $49,555,000 |
-| 9 | $32,200,000 | $8,820,000 | $1,155,000 | $1,350,000 | $1,530,000 | $45,055,000 |
-| 10 | $23,250,000 | $10,420,000 | $1,155,000 | $3,000,000 | $1,530,000 | $39,355,000 |
-| **Total** | **$362,000,000** | **$43,600,000** | **$15,400,000** | **$7,800,000** | **$6,300,000** | **$435,100,000** |
+Year-by-year revenue detail is maintained in the financial model and is available to investors upon request. Key milestones:
+
+| Milestone | Timing |
+|---|---|
+| **First Revenue** | 2028 (hospitality opens; tiny homes deliver; lot and SFR sales launch) |
+| **Cumulative Break-Even** | Year 3 (2029) |
+| **Construction Complete** | 2031 |
+| **Stabilized Recurring Revenue** | ~$7-8M/yr from 2032+ |
+| **10-Year Total Revenue** | **$400,565,031** |
 
 ---
 
 ## 8. Use of Funds
 
-### 8.1 Capital Allocation
+### 8.1 Capital Structure
 
-The $12,500,000 capital raise is allocated across the following categories, designed to fund the project through Phase 1 (Foundation) and into early Phase 2 (Pioneer), at which point project-generated revenue and construction financing sustain subsequent development.
+The Year-1 capitalization of $12,673,266 funds the project through predevelopment, land closing, and Year-1 (2027) construction, at which point project-generated revenue and phased construction financing sustain subsequent development.
 
-| Category | Amount | % of Total | Description |
-|---|---|---|---|
-| **Land Acquisition** | $4,000,000 | 32.0% | Purchase of 376-acre property including closing costs, title insurance, surveys, and environmental assessments |
-| **Hard Costs (Construction)** | $1,750,000 | 14.0% | Model homes, initial infrastructure construction, hempcrete production setup, and early-phase vertical construction |
-| **Site Work & Civil Engineering** | $1,750,000 | 14.0% | Grading, road construction, utility installation, drainage systems, water well drilling, and wastewater treatment infrastructure |
-| **Master Planning & Design** | $1,375,000 | 11.0% | Architectural design, master plan development, engineering studies, environmental assessments, permitting fees, and regulatory compliance |
-| **Staffing & Operations** | $750,000 | 6.0% | Core team compensation, insurance, legal, accounting, and operational overhead for 18-month pre-revenue period |
-| **Marketing & Sales** | $625,000 | 5.0% | Brand development, sales center, model home furnishing, digital marketing, broker relationships, and community engagement programs |
-| **Contingency & Reserves** | $2,250,000 | 18.0% | Working capital reserve, cost overrun contingency, interest reserves, and unforeseen expense buffer |
-| **Total** | **$12,500,000** | **100.0%** | |
+**Sources (Year-1 Capitalization):**
+
+| Source | Amount | Description |
+|---|---|---|
+| **LP Equity (Class A Units)** | ~$5,100,000 | Accredited investor capital |
+| **GP Equity (Class B / Manager)** | $100,000 | Manager equity contribution (total GP co-investment of $500,000 within the debt + GP layer) |
+| **Construction Debt** | $8,871,286 | ~9% rate; ~$1.35M/yr debt service |
+| **Total Year-1 Capitalization** | **$12,673,266** | Total Year-1 sources of ~$14.07M vs. Year-1 uses of ~$12.87M provide coverage |
+
+**Uses (Year 1):**
+
+| Category | Amount | Description |
+|---|---|---|
+| **Land Acquisition (Year-1 portion)** | ~$2,170,000 | 20% down payment plus ~5% closing costs on modeled $6.5M purchase price, with 8% land loan (scenario — subject to final terms) |
+| **Hard Construction Costs (2027)** | ~$6,650,000 | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture |
+| **Soft Costs, Operations, Marketing & Financing Carry** | ~$4,050,000 | Balance of Year-1 uses [TO CONFIRM detailed breakdown against financial model] |
+| **Total Year-1 Uses** | **~$12,870,000** | |
 
 ### 8.2 Capital Allocation Visualization
 
 ```
-Land Acquisition        ████████████████████████████████  32%
-Hard Costs              ██████████████                    14%
-Site Work               ██████████████                    14%
-Master Planning         ███████████                       11%
-Contingency             ██████████████████                18%
-Staffing                ██████                             6%
-Marketing               █████                              5%
+Hard Construction (2027)   ████████████████████████████████  ~52%
+Soft/Ops/Marketing/Carry   ███████████████████               ~31%
+Land (Yr-1 portion)        ███████████                       ~17%
 ```
 
 ### 8.3 Subsequent Capital Sources
 
-Beyond the initial $12.5M equity raise, project development is funded through:
+Beyond the Year-1 capitalization, project development is funded through phased construction financing and reinvested project revenue. Hard construction costs by year (from the financial model):
 
-| Source | Estimated Amount | Timing |
-|---|---|---|
-| **Construction Financing** | $80-120M (phased draws) | Phase 2-5 |
-| **MUD Bond Proceeds** | $15-25M | Phase 2-3 |
-| **Project Revenue (Reinvestment)** | $40-60M | Phase 2-5 |
-| **Potential Additional Equity** | $10-20M (if warranted) | Phase 3+ |
+| Year | Hard Construction Costs |
+|---|---|
+| **2027** | ~$6.65M |
+| **2028** | ~$10.01M |
+| **2029** | ~$56.85M |
+| **2030** | ~$53.39M |
+| **2031** | ~$118.73M |
+
+Funding sources for subsequent phases include phased construction financing, reinvested project revenue, and potential MUD bond proceeds (district engineering underway; bond capacity [TO CONFIRM]).
 
 ### 8.4 Capital Efficiency
 
-The $12.5M initial raise is designed to achieve the following milestones before additional capital is required:
+The $12,673,266 Year-1 capitalization is designed to achieve the following milestones before additional capital is required:
 
 1. **Land under control** — 376 acres acquired and entitled
-2. **Master plan complete** — Full engineering, architectural, and environmental plans approved
-3. **Infrastructure initiated** — Core roads, utilities, and water systems under construction
-4. **Model homes complete** — 3-5 model units across product types open for sales
-5. **Pre-sales achieved** — Minimum 20 pre-sales or reservations supporting construction financing qualification
-6. **Revenue initiated** — First closings generating project cash flow
+2. **Water verified** — Full watershed analysis by Symbiosis TX completed as the first predevelopment spend
+3. **Master plan complete** — Full engineering, architectural, and environmental plans approved; MUD formation advanced
+4. **Infrastructure initiated** — Core roads, utilities, and water systems under construction (2027 groundbreaking)
+5. **First hospitality and residential product delivered** — Nature stays, Community Center, Wellness Center, model home, and tiny homes
+6. **Revenue initiated** — First revenue in 2028 from hospitality, tiny home deliveries, and lot/SFR sales launch
 
 ---
 
@@ -516,7 +514,7 @@ The $12.5M initial raise is designed to achieve the following milestones before 
 
 ### 9.1 Summary of Principal Risks
 
-Investing in Abundancia Austin Holdings, LLC involves significant risks. Prospective investors should carefully consider the following risk factors, among others, before making an investment decision. This summary is not exhaustive; a complete discussion of risk factors is contained in the Private Placement Memorandum (Document 03).
+Investing in Abundancia Community LLC involves significant risks. Prospective investors should carefully consider the following risk factors, among others, before making an investment decision. This summary is not exhaustive; a complete discussion of risk factors is contained in the Private Placement Memorandum (Document 03).
 
 **Market Risk**
 Real estate markets are cyclical. A downturn in the Austin residential market, an increase in interest rates affecting buyer affordability, or a reduction in population growth could adversely impact sales velocity, pricing, and project returns.
@@ -525,7 +523,7 @@ Real estate markets are cyclical. A downturn in the Austin residential market, a
 Construction projects are subject to cost overruns, material price volatility, labor shortages, weather delays, and contractor performance issues. Hempcrete construction, while proven internationally, has a smaller domestic contractor base, which may impact scheduling and costs.
 
 **Regulatory Risk**
-Changes in Bastrop County regulations, building codes, environmental requirements, or tax policy could increase development costs or restrict the planned development program. While current regulatory conditions are favorable, future policy changes cannot be predicted.
+Changes in Bastrop County regulations, building codes, environmental requirements, or tax policy could increase development costs or restrict the planned development program. While current regulatory conditions are favorable, future policy changes cannot be predicted. Environmental permitting considerations include TCEQ on-site sewage facility permits, FEMA floodplain administration through the county, and the Houston toad / Lost Pines Habitat Conservation Plan (addressed via a conservation subdivision pathway).
 
 **Environmental Risk**
 The property may be subject to environmental conditions requiring remediation. Climate events (drought, wildfire, flooding) could impact the property or construction timeline. Wildfire risk is elevated in Bastrop County, as demonstrated by the 2011 Bastrop Complex Fire.
@@ -534,7 +532,7 @@ The property may be subject to environmental conditions requiring remediation. C
 Investments in private real estate are illiquid. There is no public market for the membership interests, and investors should be prepared to hold their investment for the full 10-year project term. Early redemption is not guaranteed and may result in reduced returns.
 
 **Capital Risk**
-The project may require additional capital beyond the initial $12.5M raise. There is no guarantee that additional financing — whether equity, debt, or bond proceeds — will be available on favorable terms or at all.
+The project may require additional capital beyond the Year-1 capitalization of $12,673,266. There is no guarantee that additional financing — whether equity, debt, or bond proceeds — will be available on favorable terms or at all.
 
 **Concentration Risk**
 The investment is concentrated in a single property in a single geographic market. Investors have no diversification across properties, markets, or asset classes within this investment.
@@ -546,12 +544,12 @@ The project's success depends in part on the continued involvement of key manage
 
 | Risk | Mitigation |
 |---|---|
-| **Market** | Diversified product mix across price points; phased development allowing pace adjustment; Bastrop County growth fundamentals |
-| **Construction** | 18% contingency reserve; phased construction reducing exposure; experienced contractor relationships |
-| **Regulatory** | Legal counsel engaged; master plan designed within current regulations; relationships with county officials |
-| **Environmental** | Phase I environmental assessment; wildfire mitigation plan; regenerative land management reducing fire fuel load |
-| **Liquidity** | Phased distributions beginning in Year 2; clear exit timeline; potential secondary market for membership interests |
-| **Capital** | Conservative underwriting; multiple financing sources identified; self-funding phasing strategy |
+| **Market** | Diversified product mix across price points; phased development allowing pace adjustment; Bastrop County growth fundamentals; Phase-1-only downside scenario still models positive LP returns |
+| **Construction** | 10% contingency reserve (~$28.6M in the 10-year model); phased construction reducing exposure; experienced builder leadership (Jared Gossett, 170+ homes) |
+| **Regulatory** | Legal counsel engaged; master plan designed within current regulations; 40+ year civil engineering leadership (Fred Haas, PE); conservation subdivision pathway for habitat compliance |
+| **Environmental** | Full watershed analysis by Symbiosis TX as first predevelopment spend; Phase I environmental assessment; wildfire mitigation plan; regenerative land management reducing fire fuel load |
+| **Liquidity** | 10% distribution reserve for working capital; distributions per waterfall as cash flows permit; 5-year and 10-year hold scenarios both presented |
+| **Capital** | Conservative underwriting; multiple financing sources identified; phased strategy; Year-1 sources (~$14.07M) exceed Year-1 uses (~$12.87M) |
 | **Concentration** | Austin MSA structural demand drivers; multiple revenue streams; product diversification |
 | **Key Person** | Operating agreement provisions; advisory board depth; documented processes and systems |
 
@@ -561,30 +559,35 @@ The project's success depends in part on the continued involvement of key manage
 
 ### 10.1 Investment Opportunity
 
-Abundancia Austin Holdings, LLC is raising **$12,500,000** in equity capital through a **Regulation D, Rule 506(c)** private placement offering.
+Abundancia Community LLC is capitalizing Year 1 of the project with **$12,673,266** — approximately $5.1M in LP equity (Class A Units) and $100K in GP equity, alongside $8,871,286 in construction debt — through a **Regulation D, Rule 506(c)** private placement offering.
 
 | Term | Detail |
 |---|---|
-| **Total Raise** | $12,500,000 |
-| **Minimum Investment** | $50,000 |
+| **Total Year-1 Capitalization** | $12,673,266 (~$5.1M LP + $100K GP + $8,871,286 construction debt) |
+| **LP Equity Raise** | ~$5,100,000 |
+| **Minimum Investment** | $50,000 [TO CONFIRM] |
 | **Investor Type** | Accredited Investors Only (verified) |
-| **Security** | Class A Limited Partnership Interests |
-| **Preferred Return** | 8% cumulative, compounded annually |
-| **Distribution Waterfall** | 4-tier promote structure (see PPM for details) |
-| **Target Hold Period** | 7-10 years |
-| **Target IRR** | 37.1% (base case) |
-| **Target Equity Multiple** | 4.42x (base case) |
-| **Management Fee** | 1.5% of committed capital annually |
-| **Disposition Fee** | 1.0% of gross sale proceeds |
+| **Security** | Class A Units (membership interests in Abundancia Community LLC) |
+| **Preferred Return** | 10% LP preferred return, cumulative |
+| **Distribution Waterfall** | Above preferred: 90/10 LP/GP; above 12% LP IRR: 80/20; above 15% LP IRR: 60/40 |
+| **Distribution Reserve** | 10% of positive cash flows withheld for working capital |
+| **Developer Fee** | 4% of total project capital (~$500K) at close |
+| **GP Co-Investment** | $500,000 |
+| **Hold Scenarios** | 5-year and 10-year hold scenarios both presented |
+| **Target LP IRR** | 33.5% (10-year); 31.6% (5-year) |
+| **Target LP Equity Multiple** | 3.58x (10-year); 3.06x (5-year) |
+
+*All offering terms are subject to final documentation and review by securities counsel. Detailed waterfall schedule available upon request; figures being finalized.*
 
 ### 10.2 Investor Benefits
 
-- **Preferred Return**: 8% cumulative preferred return before any GP promote
-- **Tax Efficiency**: Pass-through K-1 tax reporting; depreciation benefits; potential Opportunity Zone qualification
-- **Diversified Exposure**: Five revenue streams across residential, rental, commercial, lots, and retreat/events
+- **Preferred Return**: 10% cumulative LP preferred return before any GP promote
+- **Downside Protection**: The model projects positive LP returns even if the project never proceeds past Phase 1
+- **Tax Efficiency**: Pass-through K-1 tax reporting; depreciation benefits
+- **Diversified Exposure**: Four revenue streams across residential sales, lots, rental & hospitality (including retreat/events), and commercial
 - **Tangible Asset**: Investment secured by 376 acres of Central Texas real estate with intrinsic land value
-- **Impact Alignment**: Verified carbon-negative development with measurable environmental and social impact metrics
-- **Transparency**: Quarterly investor reporting, annual audited financials, and 24/7 investor portal access
+- **Impact Alignment**: Carbon-sequestering, non-toxic development with measurable environmental and social impact metrics
+- **Transparency**: Quarterly investor reporting, annual financial reporting [TO CONFIRM audit scope], and investor portal access
 
 ### 10.3 Next Steps
 
@@ -593,7 +596,7 @@ Abundancia Austin Holdings, LLC is raising **$12,500,000** in equity capital thr
 3. Conduct personal due diligence with your legal and financial advisors
 4. Complete the Subscription Agreement (Document 04)
 5. Wire funds per subscription instructions
-6. Receive executed partnership documents and investor portal access
+6. Receive executed company documents and investor portal access
 
 ---
 
@@ -603,22 +606,22 @@ Abundancia Austin Holdings, LLC is raising **$12,500,000** in equity capital thr
 
 | | |
 |---|---|
-| **Name** | Nicholas Courchesne |
-| **Title** | Founder & Chief Executive Officer |
-| **Email** | nicholas@lightbrands.ai |
-| **Entity** | Abundancia Austin Holdings, LLC |
+| **Name** | Kelly Krezek |
+| **Title** | Chief Executive Officer, New Earth Development (Manager) |
+| **Email** | kelly@newearthdevelopment.org |
+| **Entity** | Abundancia Community LLC |
 | **Location** | Austin, Texas |
 
 ### 11.2 Investor Relations
 
 For questions regarding the offering, subscription process, or to schedule a meeting with the management team, please contact:
 
-**Email:** nicholas@lightbrands.ai
-**Subject Line:** Abundancia Austin — Investor Inquiry
+**Email:** kelly@newearthdevelopment.org
+**Subject Line:** Abundancia — Investor Inquiry
 
 ### 11.3 Data Room Access
 
-This document is part of the Abundancia Austin investor data room. The complete data room contains:
+This document is part of the Abundancia investor data room. The complete data room contains:
 
 | Document | Title |
 |---|---|
@@ -632,4 +635,4 @@ This document is part of the Abundancia Austin investor data room. The complete 
 
 *This Executive Summary is provided for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities. Any such offer may only be made pursuant to the Private Placement Memorandum and related offering documents. Past performance is not indicative of future results. Prospective investors should consult their own legal, tax, and financial advisors before making any investment decision.*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC. All rights reserved.*

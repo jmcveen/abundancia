@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,14 +9,14 @@
 ---
 
 **Document 06** | Data Room - Financial Model
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
-> *This document contains forward-looking statements based on current assumptions, market data, and management projections. Actual results may differ materially from those projected. All financial figures are estimates and should be evaluated in conjunction with the complete data room materials, including the Sensitivity Analysis (Document 08) and Risk Factors disclosure.*
+> *This document contains forward-looking statements based on current assumptions, market data, and management projections. Actual results may differ materially from those projected. All financial figures are estimates and should be evaluated in conjunction with the complete data room materials, including the Sensitivity Analysis (Document 08) and Risk Factors disclosure. All offering terms are subject to final documentation and review by securities counsel.*
 
 ---
 
@@ -24,7 +24,7 @@
 
 - [1. Executive Financial Summary](#1-executive-financial-summary)
 - [2. Core Assumptions](#2-core-assumptions)
-- [3. Revenue Projections by Scenario](#3-revenue-projections-by-scenario)
+- [3. Revenue Projections](#3-revenue-projections)
 - [4. Revenue Stream Breakdown](#4-revenue-stream-breakdown)
 - [5. Operating Expense Model](#5-operating-expense-model)
 - [6. EBITDA Analysis](#6-ebitda-analysis)
@@ -38,17 +38,28 @@
 
 ## 1. Executive Financial Summary
 
-Abundancia Austin's 10-year financial model projects total revenue of **$435M** (base case) from a diversified mix of residential sales, rental operations, lot sales, commercial leasing, and retreat programming. The project targets a **37.1% IRR** and **4.42x equity multiple** on a **$12.5M** capital raise, with robust returns across all three modeled scenarios.
+Abundancia's 10-year financial model (Year 1 = 2027) projects total revenue of **$400,565,031** from a diversified mix of residential sales, estate lot sales, rental/hospitality operations, and commercial leasing. Total 10-year expenses are **$314,290,171**, producing 10-year EBITDA of **$86,274,860** (~22% margin). The project is capitalized in Year 1 with **$12,673,266** — approximately $5.1M of Class A LP equity, $100K GP equity, and $8,871,286 of construction debt.
 
-| Metric | Conservative | Base | Optimistic |
-|--------|-------------|------|-----------|
-| **IRR** | 24.0% | 37.1% | 45.0% |
-| **Equity Multiple** | 3.0x | 4.42x | 5.5x |
-| **10-Year Revenue** | $350.0M | $435.0M | $520.0M |
-| **10-Year EBITDA** | $70.0M | $104.0M | $140.0M |
-| **EBITDA Margin** | 20.0% | 23.9% | 26.9% |
-| **Total Distributions** | $37.5M | $55.3M | $68.8M |
-| **Capital Returned By** | Year 4 | Year 3 | Year 2 |
+| Metric | 5-Year Hold | 10-Year Hold |
+|--------|-------------|--------------|
+| **LP IRR** | 31.6% | 33.5% |
+| **LP Equity Multiple** | 3.06x | 3.58x |
+| **LP ROI** | 206% | 258% |
+| **$100,000 investment grows to** | ~$266,000 (cumulative by Year 5) | ~$346,000 (cumulative by Year 10) |
+
+**Additional headline figures (base case, financial model, July 2026):**
+
+| Metric | Value |
+|--------|-------|
+| 10-Year Revenue | $400,565,031 |
+| 10-Year Expenses | $314,290,171 |
+| 10-Year EBITDA | $86,274,860 (~22% margin) |
+| Year-1 Capitalization | $12,673,266 |
+| First Revenue | 2028 |
+| Cumulative Break-Even | Year 3 (2029) |
+| Stabilized Recurring Revenue (2032+) | ~$7–8M/year |
+
+*Downside protection: a Phase-1-only scenario (project never proceeds past Phase 1) still returns positive LP returns per the model. Conservative and optimistic scenario cases are being re-run on the July 2026 model — see Document 08; scenario-specific IRR/EMx figures are [TO CONFIRM].*
 
 ---
 
@@ -58,296 +69,228 @@ Abundancia Austin's 10-year financial model projects total revenue of **$435M** 
 
 | Assumption | Value | Source / Rationale |
 |-----------|-------|-------------------|
-| Annual home price appreciation | 4.0% | Austin MSA 10-year trailing average |
-| Construction cost inflation | 3.5% | RS Means historical + forward estimate |
-| General inflation rate | 2.8% | Federal Reserve target band |
-| Mortgage rate (30yr fixed) | 6.25% | MBA forecast, Q1 2026 |
-| Population growth (Austin MSA) | 2.8% annualized | U.S. Census Bureau |
-| Employment growth (Austin MSA) | 3.2% annualized | Bureau of Labor Statistics |
-| Rental rate growth | 3.5% annually | CoStar Austin submarket data |
-| Discount rate (WACC) | 10.0% | Risk-adjusted for development |
+| Austin metro population | 2.55M (25th-largest US metro) | U.S. Census (vintage 2024) |
+| Population growth (Austin metro) | +1.7%/yr projected through 2060 | Texas Demographic Center / Opportunity Austin |
+| Job growth | #1 among top-50 metros 2025 (+27,200 jobs) | BLS / TWC |
+| Unemployment (Austin) | 3.7% | TWC |
+| Austin median home price | $452,000; 6.0 months inventory | Unlock MLS (July 2026) |
+| Bastrop County median | $340,977 ($187/SF) | Redfin (May 2026) |
+| Bastrop County population | ~122,500 (+2.5%/yr; +64% since 2010); ~200K by 2060 | Census / TDC |
+| Mortgage rate (30-yr fixed) | ~6.25% (estimated) [TO CONFIRM] | Market estimate |
+| Construction cost inflation | ~3.5% (estimated) [TO CONFIRM] | RS Means historical + forward estimate |
+| Discount rate | [TO CONFIRM] | Under review with model refresh |
 
 ### 2.2 Development Assumptions
 
 | Parameter | Value |
 |-----------|-------|
-| Total development acreage | 200+ acres |
-| Development phases | 4 major phases over 10 years |
-| Entitlement timeline | 12-18 months (Phase 1) |
-| Vertical construction start | Month 14 |
-| Average construction cycle | 8-12 months per unit type |
-| Infrastructure lead time | 6-9 months per phase |
-| Permit approval cycle | 60-90 days |
+| Total site | 376 acres, 176 Cedar Creek Circle, Cedar Creek, TX (unincorporated Bastrop County) |
+| Building footprint | ~16.1 acres of structures (4.28%); ~746,000 SF vertical construction; ~878,000 SF total developed incl. roads |
+| Predevelopment | 2026 (due diligence, watershed/hydrology, land closing, entitlements, MUD, capital close) |
+| Groundbreaking | 2027 (infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture) |
+| First revenue | 2028 (hospitality opens; model home; tiny homes deliver; lots + SFR sales launch) |
+| Construction complete | 2031 |
+| Stabilized operations | 2032+ (~$7–8M/yr recurring) |
+| Permitting estimate | 12–16 months (no county zoning; mixed use by right) |
 
-### 2.3 Absorption Rate Assumptions
+### 2.3 Absorption / Delivery Schedule (per model timeline)
 
-| Unit Type | Units | Annual Absorption (Base) | Sellout Period |
-|-----------|-------|-------------------------|---------------|
-| Single-Family Homes | 100 | 12-15 units/year | Years 2-10 |
-| Tiny Homes | 30 | 5-8 units/year | Years 2-7 |
-| Dome Homes | 30 | 5-8 units/year | Years 2-7 |
-| Multifamily Condos | 260 | 30-40 units/year | Years 2-10 |
-| Lots | 200 | 25-35 lots/year | Years 1-8 |
-| Rental Units | 60 | Stabilized by Year 3 | Ongoing operations |
+| Year | Deliveries & Sales Activity |
+|------|-----------------------------|
+| 2027 (Y1) | Infrastructure, nature stays, Community Center, Wellness Center construction — pre-revenue |
+| 2028 (Y2) | Hospitality opens; model home; tiny homes deliver; estate lot and SFR sales launch (lot sales 2028–2029) |
+| 2029 (Y3) | 30 homes, 150 condos, 25 rental condos, school |
+| 2030 (Y4) | 40 homes, 50 condos, village, temple |
+| 2031 (Y5) | 30 estate homes, 150 condos, 25 rental condos; construction complete |
+| 2032+ (Y6–Y10) | Stabilized operations (~$7–8M/yr recurring) |
 
-### 2.4 Pricing Assumptions
+### 2.4 Pricing Assumptions (per unit type — from model)
 
-| Unit Type | Base Price | Price/SF | Annual Escalation |
-|-----------|-----------|----------|------------------|
-| Single-Family Homes (1,900 SF) | $625,000 | $329/SF | 4.0% |
-| Tiny Homes (600 SF) | $200,000 | $333/SF | 3.5% |
-| Dome Homes (600 SF) | $225,000 | $375/SF | 3.5% |
-| Multifamily Condos (1,100 SF) | $408,000 | $371/SF | 4.0% |
-| Lots (varies) | $350,000 | N/A | 5.0% |
-| Rental Units (800 SF) | $233/night | N/A | 3.5% |
+Homes are positioned "from approximately $450/SF" (entry anchor). Blended realized pricing by type per the model:
+
+| Unit Type | Count | Blended Realized Pricing |
+|-----------|-------|--------------------------|
+| Single-Family Homes | 100 (10×1BR 1,000SF; 20×2BR 1,500SF; 20×3BR 2,000SF; 20×4BR 2,500SF; 20×5BR 3,500SF; 5×6BR 4,500SF; 5×7BR 5,000SF) | ~$566/SF |
+| Condominiums | 350 (50×1BR 600SF; 150×2BR 850SF; 150×3BR 1,250SF) | ~$400/SF |
+| Tiny Homes | 60 (16 studio 232SF; 18×1BR 272SF; 20×2BR 416SF; 6 early-discount 416SF) | ~$416/SF (~$104K–$166K) |
+| Estate Lots | 100 (20×~1/3-acre; 50×half-acre; 30×one-acre; ~61.66 acres total) | ~$229K average per lot |
+| Nature Stays (rental) | 50 (20 glamping tents; 15 domes; 5 high-end domes; 10 camping) | $150/nt (glamping); $275/nt (domes); $375/nt (high-end domes) |
+
+*Market context: Bastrop County median $187/SF (Redfin 5/2026); Austin $1M+ homes average $423/SF (Texas Realtors 2025); Barton Creek ~$553–802/SF; West Lake Hills ~$756/SF.*
 
 ---
 
-## 3. Revenue Projections by Scenario
+## 3. Revenue Projections
 
 ### 3.1 Base Case Revenue by Year
 
-| Year | Residential Sales | Rental Income | Lot Sales | Commercial | Retreat | **Total Revenue** |
-|------|------------------|--------------|-----------|-----------|---------|------------------|
-| Y1 | $1.2M | $0.2M | $1.1M | $0.0M | $0.5M | **$3.0M** |
-| Y2 | $11.5M | $1.8M | $3.2M | $0.5M | $1.0M | **$18.0M** |
-| Y3 | $27.0M | $4.2M | $4.0M | $1.2M | $1.6M | **$38.0M** |
-| Y4 | $37.5M | $5.0M | $3.8M | $1.8M | $1.9M | **$50.0M** |
-| Y5 | $41.0M | $5.5M | $2.8M | $2.5M | $3.2M | **$55.0M** |
-| Y6 | $42.0M | $5.8M | $1.5M | $3.0M | $3.7M | **$56.0M** |
-| Y7 | $42.5M | $6.0M | $0.8M | $3.5M | $4.2M | **$57.0M** |
-| Y8 | $40.0M | $5.8M | $0.5M | $4.0M | $4.7M | **$55.0M** |
-| Y9 | $37.0M | $5.5M | $0.3M | $4.5M | $4.7M | **$52.0M** |
-| Y10 | $36.3M | $4.8M | $0.2M | $5.0M | $4.7M | **$51.0M** |
-| **Total** | **$316.0M** | **$44.6M** | **$18.2M** | **$26.0M** | **$30.2M** | **$435.0M** |
+The financial model produces the annual revenue schedule below. Year-by-year line-item detail is maintained in the financial model (available in the data room); annual figures other than the anchors below are [TO CONFIRM] pending publication of the model's annual summary tab.
 
-### 3.2 Conservative Case Revenue by Year
+| Year | Milestones | Revenue Notes |
+|------|-----------|---------------|
+| 2027 (Y1) | Groundbreaking; construction only | $0 (pre-revenue) |
+| 2028 (Y2) | First revenue: hospitality, tiny homes, lots + SFR launch | First revenue year; lot revenue concentrated 2028–2029 ($22,872,273 total) |
+| 2029 (Y3) | 30 homes, 150 condos, 25 rental condos | Cumulative break-even achieved |
+| 2030 (Y4) | 40 homes, 50 condos | [TO CONFIRM] |
+| 2031 (Y5) | 30 estate homes, 150 condos, 25 rental condos; construction complete | Peak delivery years 2029–2031 |
+| 2032–2036 (Y6–Y10) | Stabilized operations | ~$7–8M/yr recurring |
+| **10-Year Total** | | **$400,565,031** |
 
-| Year | Residential Sales | Rental Income | Lot Sales | Commercial | Retreat | **Total Revenue** |
-|------|------------------|--------------|-----------|-----------|---------|------------------|
-| Y1 | $0.8M | $0.1M | $0.8M | $0.0M | $0.3M | **$2.0M** |
-| Y2 | $8.0M | $1.2M | $2.2M | $0.3M | $0.3M | **$12.0M** |
-| Y3 | $20.0M | $3.2M | $3.0M | $0.8M | $1.0M | **$28.0M** |
-| Y4 | $28.0M | $4.0M | $3.0M | $1.2M | $0.8M | **$37.0M** |
-| Y5 | $32.0M | $4.5M | $2.5M | $1.8M | $1.2M | **$42.0M** |
-| Y6 | $33.0M | $4.8M | $1.5M | $2.2M | $1.5M | **$43.0M** |
-| Y7 | $34.0M | $5.0M | $0.8M | $2.5M | $1.7M | **$44.0M** |
-| Y8 | $33.0M | $4.8M | $0.5M | $2.8M | $1.9M | **$43.0M** |
-| Y9 | $32.5M | $4.5M | $0.3M | $3.0M | $1.7M | **$42.0M** |
-| Y10 | $31.5M | $4.2M | $0.2M | $3.2M | $1.9M | **$41.0M** |
-| **Total** | **$252.8M** | **$36.3M** | **$14.8M** | **$17.8M** | **$11.3M** | **$350.0M** (1) |
+### 3.2 Scenario Cases
 
-*(1) Totals may differ from the sum of line items due to rounding at the annual level.*
-
-### 3.3 Optimistic Case Revenue by Year
-
-| Year | Residential Sales | Rental Income | Lot Sales | Commercial | Retreat | **Total Revenue** |
-|------|------------------|--------------|-----------|-----------|---------|------------------|
-| Y1 | $1.8M | $0.3M | $1.5M | $0.0M | $0.4M | **$4.0M** |
-| Y2 | $15.5M | $2.5M | $4.0M | $0.5M | $1.5M | **$24.0M** |
-| Y3 | $34.0M | $5.5M | $5.0M | $1.5M | $2.0M | **$48.0M** |
-| Y4 | $46.0M | $6.5M | $4.5M | $2.5M | $2.5M | **$62.0M** |
-| Y5 | $50.0M | $7.0M | $3.5M | $3.5M | $4.0M | **$68.0M** |
-| Y6 | $50.5M | $7.2M | $2.0M | $4.0M | $4.3M | **$68.0M** |
-| Y7 | $50.0M | $7.5M | $1.0M | $4.5M | $5.0M | **$68.0M** |
-| Y8 | $47.0M | $7.0M | $0.5M | $5.0M | $5.5M | **$65.0M** |
-| Y9 | $44.0M | $6.5M | $0.3M | $5.5M | $5.7M | **$62.0M** |
-| Y10 | $42.0M | $6.0M | $0.2M | $6.0M | $6.8M | **$61.0M** |
-| **Total** | **$380.8M** | **$56.0M** | **$22.5M** | **$33.0M** | **$37.7M** | **$530.0M** (1) |
-
-*(1) Optimistic total rounds to $520M at the portfolio level after accounting for timing adjustments and inter-segment eliminations.*
+Conservative and optimistic scenario revenue schedules are being rebased on the July 2026 model and are presented in Document 08 (Sensitivity Analysis) as percentage swings on the base case. Scenario-specific annual tables are [TO CONFIRM].
 
 ---
 
 ## 4. Revenue Stream Breakdown
 
-### 4.1 Lifetime Revenue Contribution (Base Case)
+### 4.1 Lifetime Revenue Contribution (Base Case, 10-Year)
 
-| Revenue Stream | 10-Year Total | % of Total | Peak Year | Peak Amount |
-|---------------|--------------|-----------|-----------|-------------|
-| Residential Sales | $362.0M | 83.2% | Y7 | $42.5M |
-| Rental Income | $43.6M | 10.0% | Y7 | $6.0M |
-| Lot Sales | $15.4M | 3.5% | Y3 | $4.0M |
-| Commercial Leasing | $7.8M | 1.8% | Y10 | $5.0M |
-| Retreat Programming | $6.3M | 1.4% | Y8-10 | $4.7M |
-| **Grand Total** | **$435.0M** | **100.0%** | **Y7** | **$57.0M** |
+| Revenue Stream | 10-Year Total | % of Total |
+|---------------|--------------|-----------|
+| Residential Sales (homes, condos, tiny homes) | $326,558,934 | 81.5% |
+| Rentals (rental condos, event house, nature stays, residential rentals) | $44,031,597 | 11.0% |
+| Estate Lot Sales | $22,872,273 | 5.7% |
+| Commercial | $7,102,227 | 1.8% |
+| **Grand Total** | **$400,565,031** | **100.0%** |
+
+*Revenue classification note: Retreat Center revenue comprises the 6BR event house and unique regenerative stays only; residential rentals (tiny homes/domes) and rental condos are tracked separately within the Rentals stream. Commercial is tracked separately. Streams are never blended.*
 
 ### 4.2 Residential Sales by Unit Type (Base Case, 10-Year)
 
-| Unit Type | Units | Avg. Price (Blended) | Total Revenue | % of Residential |
-|-----------|-------|---------------------|---------------|-----------------|
-| Single-Family Homes | 100 | $687,500 (1) | $68.8M | 19.0% |
-| Tiny Homes | 30 | $218,000 (1) | $6.5M | 1.8% |
-| Dome Homes | 30 | $245,000 (1) | $7.4M | 2.0% |
-| Multifamily Condos | 260 | $449,000 (1) | $116.7M | 32.2% |
-| Lots | 200 | $385,000 (1) | $77.0M | 21.3% |
-| Builder/Developer Sales | - | - | $85.6M | 23.6% |
-| **Total Residential** | **620+** | - | **$362.0M** | **100.0%** |
+| Unit Type | Units | Pricing (per type — see §2.4) |
+|-----------|-------|-------------------------------|
+| Single-Family Homes | 100 | ~$566/SF blended realized |
+| Condominiums | 350 | ~$400/SF blended realized |
+| Tiny Homes | 60 | ~$416/SF (~$104K–$166K) |
+| **Total For-Sale Residences** | **510** | Total residential sales revenue $326,558,934 |
 
-*(1) Blended average price reflects annual 3.5-5.0% escalation over the sellout period.*
+*Per-type revenue splits within the $326.6M residential total are maintained in the model and are [TO CONFIRM] for publication.*
 
 ### 4.3 Rental Revenue Detail (Base Case)
 
-| Metric | Y1 | Y3 | Y5 | Y7 | Y10 |
-|--------|-----|-----|-----|-----|------|
-| Units Online | 10 | 45 | 58 | 60 | 60 |
-| Avg. Nightly Rate | $233 | $249 | $267 | $286 | $318 |
-| Occupancy Rate | 45% | 72% | 75% | 78% | 75% |
-| RevPAR | $105 | $179 | $200 | $223 | $239 |
-| Gross Rental Revenue | $0.4M | $2.9M | $4.2M | $4.9M | $5.2M |
-| Less: Management Fee (15%) | ($0.1M) | ($0.4M) | ($0.6M) | ($0.7M) | ($0.8M) |
-| Less: Operating Expenses | ($0.1M) | ($0.8M) | ($1.2M) | ($1.3M) | ($1.4M) |
-| **Net Rental Income** | **$0.2M** | **$1.7M** | **$2.4M** | **$2.9M** | **$3.0M** |
+| Component | Units | Detail |
+|-----------|-------|--------|
+| 6BR Event House | 1 | 6,000 SF (Retreat Center revenue) |
+| Rental Condos | 75 | 25×1BR / 25×2BR / 25×3BR |
+| Nature Stays | 50 | 20 glamping tents ($150/nt); 15 domes ($275/nt); 5 high-end domes ($375/nt); 10 camping |
+| **Total Rental Units** | **126** | **10-year rental revenue $44,031,597** |
+
+### 4.4 Commercial Revenue
+
+12 commercial spaces / 30,000 SF (Wellness/Longevity Center & Spa 5,000 SF — revenue opens 2028; Convention Center + TV Studio 5,000; Zero-Waste Grocery 3,000; Restaurants 2,000; Elixir/Juice/Tea Bar 2,000; Café 2,000; Yoga & Meditation 2,000; 2× Retail 1,500; Gym 2,000; Coworking 2,000; Makerspace 2,000). 10-year commercial revenue: **$7,102,227**.
 
 ---
 
 ## 5. Operating Expense Model
 
-### 5.1 Total Operating Expenses by Year (Base Case)
+### 5.1 Total 10-Year Expenses (Base Case)
 
-| Expense Category | Y1 | Y2 | Y3 | Y4 | Y5 | Y6 | Y7 | Y8 | Y9 | Y10 | **Total** |
-|-----------------|-----|------|------|------|------|------|------|------|------|------|----------|
-| Construction & Hard Costs | $1.2M | $9.8M | $19.5M | $25.0M | $26.5M | $26.0M | $25.0M | $23.5M | $22.0M | $21.0M | **$199.5M** |
-| Land & Site Development | $2.0M | $3.5M | $3.0M | $2.5M | $2.0M | $1.5M | $1.0M | $0.5M | $0.3M | $0.2M | **$16.5M** |
-| Labor & Staffing | $0.5M | $1.2M | $2.5M | $3.2M | $3.5M | $3.6M | $3.7M | $3.7M | $3.6M | $3.5M | **$29.0M** |
-| Marketing & Sales | $0.4M | $1.0M | $2.0M | $2.5M | $2.8M | $2.8M | $2.7M | $2.5M | $2.3M | $2.0M | **$21.0M** |
-| General & Administrative | $0.3M | $0.5M | $0.8M | $1.0M | $1.2M | $1.2M | $1.3M | $1.3M | $1.3M | $1.3M | **$10.2M** |
-| Property Tax & Insurance | $0.1M | $0.4M | $0.8M | $1.2M | $1.5M | $1.7M | $1.8M | $1.9M | $2.0M | $2.1M | **$13.5M** |
-| Maintenance & Reserves | $0.0M | $0.1M | $0.3M | $0.5M | $0.8M | $1.0M | $1.2M | $1.3M | $1.4M | $1.5M | **$8.1M** |
-| Financing Costs | $0.2M | $0.8M | $1.5M | $2.0M | $2.2M | $2.2M | $2.0M | $1.8M | $1.5M | $1.2M | **$15.4M** |
-| Contingency & Reserves | $0.1M | $0.5M | $1.0M | $1.3M | $1.5M | $1.5M | $1.5M | $1.4M | $1.3M | $1.2M | **$11.3M** |
-| **Total Expenses** | **$4.8M** | **$17.8M** | **$31.4M** | **$39.2M** | **$42.0M** | **$41.5M** | **$40.2M** | **$37.9M** | **$35.7M** | **$34.0M** | **$324.5M** |
+| Expense Category | 10-Year Total |
+|-----------------|---------------|
+| Hard Costs (structures ~$237.8M + site work $8,340,194) | $246,131,681 |
+| Soft Costs | $10,926,775 |
+| Land (acquisition + carry on land — modeled scenario, terms TBD) | $7,040,217 |
+| Financing Carry | $4,649,237 |
+| **Total Project Cost incl. Financing** | **$268,747,911** |
+| Operations | $18.9M |
+| Marketing | $2.72M |
+| Contingency (10%) | $28.6M |
+| **Total 10-Year Expenses** | **$314,290,171** |
 
-### 5.2 Expense Breakdown as % of Revenue (Base Case)
+### 5.2 Construction Hard Costs by Year
 
-| Category | Y1 | Y3 | Y5 | Y7 | Y10 | 10-Yr Avg |
-|----------|-----|-----|-----|-----|------|----------|
-| Construction & Hard Costs | 40.0% | 51.3% | 48.2% | 43.9% | 41.2% | 45.9% |
-| Land & Site Development | 66.7% | 7.9% | 3.6% | 1.8% | 0.4% | 3.8% |
-| Labor & Staffing | 16.7% | 6.6% | 6.4% | 6.5% | 6.9% | 6.7% |
-| Marketing & Sales | 13.3% | 5.3% | 5.1% | 4.7% | 3.9% | 4.8% |
-| G&A | 10.0% | 2.1% | 2.2% | 2.3% | 2.5% | 2.3% |
-| Property Tax & Insurance | 3.3% | 2.1% | 2.7% | 3.2% | 4.1% | 3.1% |
-| Maintenance & Reserves | 0.0% | 0.8% | 1.5% | 2.1% | 2.9% | 1.9% |
-| Financing Costs | 6.7% | 3.9% | 4.0% | 3.5% | 2.4% | 3.5% |
-| Contingency | 3.3% | 2.6% | 2.7% | 2.6% | 2.4% | 2.6% |
-| **Total OpEx % of Revenue** | **160.0%** | **82.6%** | **76.4%** | **70.5%** | **66.7%** | **74.6%** |
+| Year | Hard Costs |
+|------|-----------|
+| 2027 | ~$6.65M |
+| 2028 | ~$10.01M |
+| 2029 | ~$56.85M |
+| 2030 | ~$53.39M |
+| 2031 | ~$118.73M |
+| **Total (2027–2031)** | **$246,131,681** (incl. site work) |
 
-### 5.3 Construction Cost Detail
+### 5.3 Land Acquisition (Modeled Scenario — subject to final terms)
 
-| Component | Cost/SF | Annual Inflation | Notes |
-|-----------|---------|-----------------|-------|
-| Foundation & Sitework | $18-25/SF | 3.5% | Varies by unit type and terrain |
-| Framing & Structure | $35-55/SF | 3.5% | Conventional for SF/MF; specialized for domes |
-| MEP (Mechanical/Electrical/Plumbing) | $28-38/SF | 3.0% | Includes smart home infrastructure |
-| Interior Finishes | $40-65/SF | 3.5% | Mid-to-high specification |
-| Exterior & Landscaping | $12-18/SF | 3.0% | Native landscaping program |
-| Sustainability Systems | $15-22/SF | 2.5% | Solar, water reclamation, insulation |
-| Soft Costs (permits, arch, eng) | $18-25/SF | 3.0% | 12-15% of hard costs |
-| **Total All-In** | **$166-248/SF** | **3.2% avg** | **Weighted by unit mix** |
+| Element | Value |
+|---------|-------|
+| Purchase price | $6.5M |
+| Down payment | 20% |
+| Closing costs | ~5% |
+| Land loan rate | 8% |
+| Year-1 land outlay | $2.17M |
+| Annual land debt service | ~$541K/yr |
+| Total 10-year land cost | $7,040,217 |
 
 ---
 
 ## 6. EBITDA Analysis
 
-### 6.1 EBITDA by Year (All Scenarios)
+### 6.1 EBITDA Summary (Base Case)
 
-| Year | Conservative |  | Base |  | Optimistic |  |
-|------|-------------|---|------|---|-----------|---|
-|  | **EBITDA** | **Margin** | **EBITDA** | **Margin** | **EBITDA** | **Margin** |
-| Y1 | ($2.5M) | (125.0%) | ($1.8M) | (60.0%) | ($1.0M) | (25.0%) |
-| Y2 | $0.5M | 4.2% | $0.2M | 1.1% | $2.5M | 10.4% |
-| Y3 | $3.5M | 12.5% | $6.6M | 17.4% | $12.0M | 25.0% |
-| Y4 | $6.0M | 16.2% | $10.8M | 21.6% | $17.0M | 27.4% |
-| Y5 | $8.5M | 20.2% | $13.0M | 23.6% | $20.0M | 29.4% |
-| Y6 | $9.5M | 22.1% | $14.5M | 25.9% | $21.0M | 30.9% |
-| Y7 | $10.5M | 23.9% | $16.8M | 29.5% | $22.5M | 33.1% |
-| Y8 | $10.5M | 24.4% | $17.1M | 31.1% | $22.0M | 33.8% |
-| Y9 | $10.5M | 25.0% | $16.3M | 31.3% | $21.0M | 33.9% |
-| Y10 | $10.5M | 25.6% | $17.0M | 33.3% | $21.0M | 34.4% |
-| **Total** | **$67.5M** (1) | **19.3%** | **$110.5M** (1) | **25.4%** | **$158.0M** (1) | **30.4%** |
+| Metric | Value |
+|--------|-------|
+| 10-Year Revenue | $400,565,031 |
+| 10-Year Expenses | $314,290,171 |
+| **10-Year EBITDA** | **$86,274,860** |
+| EBITDA Margin | ~22% |
+| First revenue | 2028 |
+| Cumulative break-even | Year 3 (2029) |
 
-*(1) 10-year cumulative EBITDA includes working capital adjustments that reconcile to the headline figures of $70M (Conservative), $104M (Base), and $140M (Optimistic) after non-recurring items.*
-
-### 6.2 EBITDA Margin Trajectory (Base Case)
-
-```
-Year:    Y1     Y2     Y3     Y4     Y5     Y6     Y7     Y8     Y9     Y10
-Margin: -60.0%  1.1%  17.4%  21.6%  23.6%  25.9%  29.5%  31.1%  31.3%  33.3%
-        ----    ----   ====   ====   =====  =====  =====  =====  =====  =====
-                       Stabilization ------>  Mature Operations  ------>
-```
+Annual EBITDA follows the construction and delivery timeline: negative in 2027 (pre-revenue construction), turning positive as deliveries scale 2028–2031, with cumulative break-even in 2029 and stabilized recurring EBITDA from 2032. Year-by-year EBITDA detail is maintained in the financial model [TO CONFIRM for publication].
 
 **Key observations:**
-- Negative EBITDA in Year 1 reflects front-loaded land acquisition, entitlement, and infrastructure costs against minimal revenue
-- Breakeven achieved in Year 2 as first residential closings occur
-- Margins expand steadily from Year 3 as construction scales and fixed costs are absorbed
-- Mature-phase margins (Years 7-10) of 29-33% reflect the shift toward higher-margin commercial, retreat, and rental streams
-- The declining revenue in Years 8-10 is offset by lower construction costs as the for-sale inventory is largely sold out
+- Negative Year-1 (2027) results reflect front-loaded infrastructure and hospitality construction against zero revenue
+- First revenue arrives in 2028 (hospitality, tiny homes, lots, SFR launch)
+- Cumulative break-even is achieved in Year 3 (2029)
+- 2032+ stabilized operations generate ~$7–8M/yr of recurring revenue from rentals, hospitality, and commercial
 
 ---
 
 ## 7. Cash Flow Analysis
 
-### 7.1 Free Cash Flow by Year (Base Case)
+### 7.1 Year-1 Sources & Uses
 
-| Year | Revenue | OpEx | EBITDA | CapEx | Debt Service | **Free Cash Flow** | **Cumulative FCF** |
-|------|---------|------|--------|-------|-------------|-------------------|-------------------|
-| Y1 | $3.0M | $4.8M | ($1.8M) | ($4.0M) | ($0.3M) | **($6.1M)** | **($6.1M)** |
-| Y2 | $18.0M | $17.8M | $0.2M | ($5.5M) | ($1.2M) | **($6.5M)** | **($12.6M)** |
-| Y3 | $38.0M | $31.4M | $6.6M | ($4.0M) | ($2.0M) | **$0.6M** | **($12.0M)** |
-| Y4 | $50.0M | $39.2M | $10.8M | ($3.0M) | ($2.5M) | **$5.3M** | **($6.7M)** |
-| Y5 | $55.0M | $42.0M | $13.0M | ($2.5M) | ($2.5M) | **$8.0M** | **$1.3M** |
-| Y6 | $56.0M | $41.5M | $14.5M | ($2.0M) | ($2.0M) | **$10.5M** | **$11.8M** |
-| Y7 | $57.0M | $40.2M | $16.8M | ($1.5M) | ($1.5M) | **$13.8M** | **$25.6M** |
-| Y8 | $55.0M | $37.9M | $17.1M | ($1.0M) | ($1.0M) | **$15.1M** | **$40.7M** |
-| Y9 | $52.0M | $35.7M | $16.3M | ($0.5M) | ($0.5M) | **$15.3M** | **$56.0M** |
-| Y10 | $51.0M | $34.0M | $17.0M | ($0.3M) | ($0.3M) | **$16.4M** | **$72.4M** |
+| Item | Amount |
+|------|--------|
+| Class A LP Equity | ~$5.1M |
+| GP Equity | $100K |
+| Construction Debt (~9%) | $8,871,286 |
+| **Year-1 Capitalization** | **$12,673,266** |
+| Total Year-1 Sources | $14.07M |
+| Total Year-1 Uses | $12.87M |
+| Annual construction debt service | ~$1.35M/yr |
 
-### 7.2 Cash Flow Waterfall Summary
+### 7.2 Cash Flow Phasing
 
-| Phase | Period | Cumulative FCF | Status |
-|-------|--------|---------------|--------|
-| Investment Phase | Years 1-2 | ($12.6M) | Capital deployment |
-| Recovery Phase | Years 3-4 | ($6.7M) | Revenue ramp; approaching breakeven |
-| Return Phase | Years 5-7 | $25.6M | Positive FCF; LP capital returned |
-| Harvest Phase | Years 8-10 | $72.4M | Mature operations; maximum distributions |
+| Phase | Period | Status |
+|-------|--------|--------|
+| Investment Phase | 2027 | Capital deployment; pre-revenue construction |
+| Ramp Phase | 2028–2029 | First revenue; cumulative break-even in 2029 |
+| Peak Delivery Phase | 2029–2031 | Majority of for-sale closings; construction complete 2031 |
+| Stabilized Phase | 2032+ | ~$7–8M/yr recurring revenue |
 
-### 7.3 Capital Calls & Deployment Schedule
-
-| Quarter | Capital Called | Cumulative Called | % of Total | Primary Use |
-|---------|--------------|------------------|-----------|-------------|
-| Q1 Y1 | $5.0M | $5.0M | 40% | Land acquisition, master planning |
-| Q3 Y1 | $3.5M | $8.5M | 68% | Site work, Phase 1 infrastructure |
-| Q1 Y2 | $2.5M | $11.0M | 88% | Hard costs, vertical construction |
-| Q3 Y2 | $1.5M | $12.5M | 100% | Marketing launch, staffing |
+*Year-by-year free cash flow and distribution schedules are maintained in the financial model; the detailed waterfall schedule is available upon request (figures being finalized).*
 
 ---
 
 ## 8. Cumulative Returns
 
-### 8.1 Cumulative Revenue & Returns by Year (Base Case)
+### 8.1 LP Return Profile (Base Case, per model Simple Pro Forma)
 
-| Year | Annual Revenue | Cumulative Revenue | Cumulative EBITDA | Cumulative LP Distributions |
-|------|---------------|-------------------|------------------|---------------------------|
-| Y1 | $3.0M | $3.0M | ($1.8M) | $0.0M |
-| Y2 | $18.0M | $21.0M | ($1.6M) | $0.0M |
-| Y3 | $38.0M | $59.0M | $5.0M | $2.5M |
-| Y4 | $50.0M | $109.0M | $15.8M | $8.0M |
-| Y5 | $55.0M | $164.0M | $28.8M | $16.5M |
-| Y6 | $56.0M | $220.0M | $43.3M | $25.0M |
-| Y7 | $57.0M | $277.0M | $60.1M | $34.0M |
-| Y8 | $55.0M | $332.0M | $77.2M | $42.0M |
-| Y9 | $52.0M | $384.0M | $93.5M | $48.5M |
-| Y10 | $51.0M | $435.0M | $110.5M | $55.3M |
+| Metric | 5-Year Hold | 10-Year Hold |
+|--------|-------------|--------------|
+| LP IRR | 31.6% | 33.5% |
+| LP Equity Multiple | 3.06x | 3.58x |
+| LP ROI | 206% | 258% |
 
-### 8.2 Return on Invested Capital
+### 8.2 Illustrative $100,000 Investment
 
-| Metric | Year 3 | Year 5 | Year 7 | Year 10 |
-|--------|--------|--------|--------|---------|
-| Cumulative ROIC | 40% | 230% | 481% | 884% |
-| Cash-on-Cash Return | 20% | 64% | 68% | 131% |
-| Equity Multiple (to date) | 0.6x | 1.3x | 2.7x | 4.42x |
+| Milestone | Cumulative Value |
+|-----------|------------------|
+| By Year 5 (2031) | ~$266,000 |
+| By Year 10 (2036) | ~$346,000 |
+
+*Distributions are subject to the waterfall described in Document 09 (10% LP preferred return, tiered promote, 10% distribution reserve) and to final documentation.*
 
 ---
 
@@ -355,35 +298,28 @@ Margin: -60.0%  1.1%  17.4%  21.6%  23.6%  25.9%  29.5%  31.1%  31.3%  33.3%
 
 ### 9.1 Development KPIs
 
-| KPI | Target | Y3 Actual (Proj.) | Y5 Actual (Proj.) | Y10 Actual (Proj.) |
-|-----|--------|-------------------|-------------------|---------------------|
-| Units Delivered (cumulative) | 680 total | 145 | 340 | 680 |
-| Lot Sales (cumulative) | 200 total | 70 | 145 | 200 |
-| Construction Cost/SF (avg) | < $200/SF | $178/SF | $185/SF | $198/SF |
-| Sales Velocity (units/month) | > 3.0 | 3.2 | 3.8 | 2.1 (wind-down) |
-| Days on Market (avg) | < 90 | 72 | 58 | 85 |
-| Cancellation Rate | < 8% | 5.2% | 4.8% | 6.0% |
+| KPI | Value |
+|-----|-------|
+| Total structures | 651 |
+| Estate lots | 100 (~61.66 acres) |
+| For-sale residences | 510 (100 SFR / 350 condos / 60 tiny homes) |
+| Rental units | 126 |
+| Commercial spaces | 12 (30,000 SF) |
+| Vertical construction | ~746,000 SF |
+| Construction window | 2027–2031 |
 
 ### 9.2 Financial KPIs
 
-| KPI | Target | Y3 | Y5 | Y7 | Y10 |
-|-----|--------|-----|-----|-----|------|
-| Gross Margin | > 35% | 32.5% | 38.2% | 42.5% | 45.0% |
-| EBITDA Margin | > 20% | 17.4% | 23.6% | 29.5% | 33.3% |
-| Debt-to-Equity Ratio | < 2.0x | 1.8x | 1.5x | 0.8x | 0.3x |
-| Interest Coverage Ratio | > 2.5x | 3.3x | 5.2x | 11.2x | 56.7x |
-| Current Ratio | > 1.5x | 1.8x | 2.5x | 3.2x | 5.0x |
-| Return on Equity | > 15% | 18.5% | 36.8% | 47.8% | 48.2% |
+| KPI | Value |
+|-----|-------|
+| 10-Year Revenue | $400,565,031 |
+| 10-Year EBITDA | $86,274,860 (~22% margin) |
+| Cumulative break-even | Year 3 (2029) |
+| Stabilized recurring revenue | ~$7–8M/yr (2032+) |
+| LP IRR (10-yr / 5-yr) | 33.5% / 31.6% |
+| LP EMx (10-yr / 5-yr) | 3.58x / 3.06x |
 
-### 9.3 Rental Portfolio KPIs
-
-| KPI | Target | Y3 | Y5 | Y7 | Y10 |
-|-----|--------|-----|-----|-----|------|
-| Occupancy Rate | > 72% | 72% | 75% | 78% | 75% |
-| ADR (Avg Daily Rate) | > $233 | $249 | $267 | $286 | $318 |
-| RevPAR | > $168 | $179 | $200 | $223 | $239 |
-| NOI per Unit | > $18K | $19.2K | $22.5K | $26.8K | $28.5K |
-| Cap Rate (implied) | 6-8% | 6.2% | 6.8% | 7.2% | 7.5% |
+*Operational KPI targets (days on market, cancellation rates, occupancy trajectories) are being finalized with the July 2026 model refresh and are [TO CONFIRM].*
 
 ---
 
@@ -391,65 +327,45 @@ Margin: -60.0%  1.1%  17.4%  21.6%  23.6%  25.9%  29.5%  31.1%  31.3%  33.3%
 
 ### 10.1 Project-Level Break-Even
 
-| Break-Even Metric | Value | Timeline |
-|-------------------|-------|----------|
-| Revenue break-even (annual OpEx coverage) | $31.4M annual revenue | Year 3 |
-| Cash flow break-even (cumulative FCF > $0) | $164M cumulative revenue | Year 5 |
-| Capital return break-even (LP capital returned) | $12.5M in distributions | Year 4 |
-| Profit break-even (cumulative EBITDA > invested capital) | $12.5M cumulative EBITDA | Year 4 |
+| Break-Even Metric | Value / Timeline |
+|-------------------|------------------|
+| First revenue | 2028 (Year 2) |
+| Cumulative break-even | Year 3 (2029) |
+| Phase-1-only downside | Positive LP returns even if the project never proceeds past Phase 1 (per model) |
 
 ### 10.2 Per-Unit Break-Even by Type
 
-| Unit Type | Avg. Selling Price | All-In Cost | Break-Even Price | Margin of Safety |
-|-----------|-------------------|-------------|-----------------|-----------------|
-| Single-Family Homes | $625,000 | $420,000 | $420,000 | 32.8% |
-| Tiny Homes | $200,000 | $145,000 | $145,000 | 27.5% |
-| Dome Homes | $225,000 | $160,000 | $160,000 | 28.9% |
-| Multifamily Condos | $408,000 | $285,000 | $285,000 | 30.1% |
-| Lots | $350,000 | $125,000 | $125,000 | 64.3% |
-| Rental Units | $233/night | $155/night | $155/night | 33.5% |
-
-### 10.3 Absorption Break-Even Sensitivity
-
-| Scenario | Required Annual Absorption | Required Occupancy | Years to Break-Even |
-|----------|--------------------------|-------------------|-------------------|
-| Full pricing, base absorption | 55 units + 30 lots | 75% | 5.0 |
-| 10% price reduction | 62 units + 35 lots | 78% | 5.8 |
-| 20% price reduction | 72 units + 40 lots | 82% | 6.9 |
-| 50% slower absorption | 28 units + 15 lots | 75% | 8.5 |
-| Combined (10% price cut + 25% slower) | 47 units + 23 lots | 78% | 7.2 |
+Per-unit cost and break-even pricing by type are maintained in the financial model and are [TO CONFIRM] for publication. Directionally, estate lots carry the highest margin of safety (infrastructure-only basis on ~61.66 acres against ~$229K average lot pricing), followed by for-sale residences priced from ~$450/SF against the project cost base.
 
 ---
 
 ## 11. Use of Funds
 
-### 11.1 Initial Capital Deployment ($12.5M)
+### 11.1 Year-1 Capitalization ($12,673,266)
 
-| Category | Amount | % of Total | Timing |
-|----------|--------|-----------|--------|
-| Land Acquisition | $4,000,000 | 32.0% | Q1 Y1 |
-| Hard Costs (Phase 1) | $1,750,000 | 14.0% | Q2-Q4 Y1 |
-| Site Work & Infrastructure | $1,750,000 | 14.0% | Q1-Q3 Y1 |
-| Master Planning & Entitlements | $1,375,000 | 11.0% | Q1-Q2 Y1 |
-| Staffing & Operations | $750,000 | 6.0% | Q1 Y1 - Q2 Y2 |
-| Marketing & Pre-Sales | $625,000 | 5.0% | Q3 Y1 - Q4 Y2 |
-| Contingency & Reserves | $2,250,000 | 18.0% | As needed |
-| **Total** | **$12,500,000** | **100.0%** | |
+| Source | Amount | Notes |
+|--------|--------|-------|
+| Class A LP Equity | ~$5.1M | Preferred equity (10% cumulative preferred return, subject to final documentation) |
+| GP (Class B / Manager) Equity | $100K | GP co-invest of $500K sits within the debt + GP layer |
+| Construction Debt | $8,871,286 | ~9% rate; ~$1.35M/yr service |
+| **Year-1 Capitalization** | **$12,673,266** | Year-1 sources $14.07M vs. Year-1 uses $12.87M |
 
-### 11.2 Follow-On Capital (Construction Financing)
+### 11.2 Year-1 Uses ($12.87M)
 
-The $12.5M equity raise represents seed capital for land acquisition, master planning, and Phase 1 vertical construction. Subsequent phases are funded through:
+| Category | Amount | Notes |
+|----------|--------|-------|
+| Land (down payment + closing + Year-1 carry) | $2.17M | Modeled scenario: $6.5M price, 20% down, ~5% closing, 8% land loan — subject to final terms |
+| Construction hard costs (2027) | ~$6.65M | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture |
+| Soft costs, operations, marketing, reserves | Balance | Per model [TO CONFIRM detailed split] |
+| **Total Year-1 Uses** | **$12.87M** | |
 
-| Source | Estimated Amount | Terms | Timing |
-|--------|-----------------|-------|--------|
-| Construction Loans (Phase 2-4) | $45-65M | 65-70% LTC, SOFR+350-450bps | Years 2-8 |
-| Mezzanine Debt | $8-12M | 12-14% coupon | Years 2-5 |
-| Revenue Reinvestment | $40-55M | Internal cash flow | Years 3-10 |
-| Lot Pre-Sales | $15-20M | Deposits + closings | Years 1-8 |
+### 11.3 Follow-On Capital
+
+Subsequent construction phases (2028–2031 hard costs of ~$239M) are funded through construction financing, revenue reinvestment from lot and residential closings, and pre-sales. Detailed follow-on financing terms are [TO CONFIRM] and subject to final documentation.
 
 ---
 
-*This financial model is prepared for qualified investors and should be reviewed in conjunction with all data room documents. Past performance of comparable developments does not guarantee future results. See Document 08 (Sensitivity Analysis) for detailed stress testing and Document 09 (Cap Table) for distribution waterfall mechanics.*
+*This financial model is prepared for qualified investors and should be reviewed in conjunction with all data room documents. Past performance of comparable developments does not guarantee future results. See Document 08 (Sensitivity Analysis) for stress testing and Document 09 (Cap Table) for distribution waterfall mechanics.*
 
 ---
 

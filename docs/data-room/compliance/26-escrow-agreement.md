@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,10 +9,10 @@
 ---
 
 **Document 26** | Data Room - Compliance
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 2.0
-**Prepared by:** Abundancia Austin LLC
+**Prepared by:** Abundancia Community LLC
 
 ---
 
@@ -55,19 +55,19 @@ This Escrow Agreement (the "Agreement") is entered into as of [________], 2026 (
 
 | Party | Role | Details |
 |-------|------|---------|
-| **Abundancia Austin LLC** | Issuer / Company | A Texas limited liability company, with its principal place of business in Bastrop County, Texas |
-| **Light Brands Consulting LLC** | Managing Member | Managing Member of the Company, acting through its authorized representative Nicholas Lawless |
+| **Abundancia Community LLC** | Issuer / Company | A Delaware limited liability company, manager-managed, with its principal place of business in Bastrop County, Texas |
+| **New Earth Development ([Manager legal entity name — TO CONFIRM])** | Manager | Manager of the Company, acting through its authorized representative Kelly Krezek |
 | **[Escrow Agent Name]** | Escrow Agent | A [national banking association / state-chartered bank / trust company] with its principal office located at [Address] |
 
 ### 1.2 Authorized Representatives
 
 The following individuals are designated as authorized representatives for purposes of this Agreement:
 
-**For the Company (Abundancia Austin LLC):**
+**For the Company (Abundancia Community LLC):**
 
 | Name | Title | Authority |
 |------|-------|-----------|
-| Nicholas Lawless | Manager | Full authority to execute instructions, approve releases, and bind the Company |
+| Kelly Krezek | Chief Executive Officer of the Manager | Full authority to execute instructions, approve releases, and bind the Company |
 | [Additional Representative] | [Title] | [Scope of authority] |
 
 **For the Escrow Agent:**
@@ -87,13 +87,13 @@ Each party represents that it has full legal capacity and corporate or organizat
 
 ### 2.1 The Offering
 
-**WHEREAS**, Abundancia Austin LLC (the "Company") is a Texas limited liability company formed for the purpose of developing, constructing, and operating a regenerative luxury community on approximately 120 acres of land located in Bastrop County, Texas (the "Project");
+**WHEREAS**, Abundancia Community LLC (the "Company") is a Delaware limited liability company, manager-managed, formed for the purpose of developing, constructing, and operating a regenerative community on approximately 376 acres of land located at 176 Cedar Creek Circle, Cedar Creek, Bastrop County, Texas (the "Project");
 
-**WHEREAS**, Light Brands Consulting LLC serves as the Managing Member of the Company, with Nicholas Lawless serving as Manager;
+**WHEREAS**, New Earth Development ([Manager legal entity name — TO CONFIRM]) serves as the Manager of the Company, with Kelly Krezek serving as Chief Executive Officer of the Manager;
 
 **WHEREAS**, the Company is conducting a private offering (the "Offering") of membership interest units (the "Units") in the Company pursuant to Regulation D, Rule 506(c) promulgated under the Securities Act of 1933, as amended (the "Securities Act");
 
-**WHEREAS**, the Offering contemplates the sale of up to two hundred fifty (250) Units at a purchase price of Fifty Thousand Dollars ($50,000.00) per Unit, for a maximum aggregate offering amount of Twelve Million Five Hundred Thousand Dollars ($12,500,000.00);
+**WHEREAS**, the Offering contemplates the sale of Units representing Class A membership interests for a maximum aggregate offering amount of approximately Five Million One Hundred Thousand Dollars ($5,100,000) [Unit count and per-Unit price TO CONFIRM], as part of a total Year-1 capitalization of $12,673,266 (approximately $5.1M Class A/LP equity, $100,000 GP capital, and $8,871,286 construction debt), with offering terms subject to final structuring and review by securities counsel;
 
 **WHEREAS**, the Offering is limited exclusively to verified accredited investors as defined in Rule 501(a) of Regulation D and verified in accordance with Rule 506(c);
 
@@ -114,17 +114,19 @@ The purpose of this escrow arrangement is to:
 
 | Parameter | Detail |
 |-----------|--------|
-| Issuer | Abundancia Austin LLC |
-| Managing Member | Light Brands Consulting LLC |
-| Manager | Nicholas Lawless |
-| Securities Offered | Membership Interest Units |
-| Maximum Units | 250 |
-| Price Per Unit | $50,000.00 |
-| Maximum Offering Amount | $12,500,000.00 |
-| Minimum Investment | $50,000.00 (1 Unit) |
+| Issuer | Abundancia Community LLC (Delaware LLC, manager-managed) |
+| Manager | New Earth Development ([Manager legal entity name — TO CONFIRM]) |
+| Manager CEO | Kelly Krezek |
+| Securities Offered | Class A Membership Interest Units |
+| Maximum Units | [TO CONFIRM] |
+| Price Per Unit | [TO CONFIRM] |
+| Maximum Offering Amount | Approximately $5,100,000 Class A/LP equity [TO CONFIRM]; total Year-1 capitalization $12,673,266 |
+| Minimum Investment | [TO CONFIRM] |
 | Regulation | Regulation D, Rule 506(c) |
 | Investor Qualification | Verified Accredited Investors Only |
 | Offering Period | [Start Date] through [End Date], unless extended |
+
+*Offering terms in this table are subject to final structuring and review by securities counsel.*
 
 ---
 
@@ -144,7 +146,7 @@ For purposes of this Agreement, the following terms shall have the meanings set 
 
 **"Closing Date"** means the date on which the Closing occurs.
 
-**"Company"** means Abundancia Austin LLC, a Texas limited liability company.
+**"Company"** means Abundancia Community LLC, a Delaware limited liability company, manager-managed.
 
 **"Deposit Instructions"** means the wire transfer instructions and deposit procedures set forth in Section 5 and Exhibit A attached hereto.
 
@@ -160,17 +162,17 @@ For purposes of this Agreement, the following terms shall have the meanings set 
 
 **"Investor"** or **"Subscriber"** means any person or entity that has executed a Subscription Agreement and deposited subscription funds into the Escrow Account.
 
-**"Managing Member"** means Light Brands Consulting LLC.
+**"Manager"** means New Earth Development ([Manager legal entity name — TO CONFIRM]).
 
 **"Material Adverse Change"** means any event, occurrence, or condition that individually or in the aggregate (a) has a material adverse effect on the business, assets, condition, or prospects of the Company or the Project, or (b) materially impairs the Company's ability to perform its obligations under the Offering Documents.
 
-**"Minimum Raise Threshold"** means the aggregate amount of Three Million Seven Hundred Fifty Thousand Dollars ($3,750,000.00), representing the subscription price for seventy-five (75) Units (30% of the Maximum Offering Amount).
+**"Minimum Raise Threshold"** means the aggregate minimum subscription amount to be specified in the final Offering Documents [TO CONFIRM], representing the minimum cleared subscriptions required before any release of Escrow Funds to the Company.
 
 **"Offering Documents"** means the Private Placement Memorandum, Subscription Agreement, Operating Agreement, and all exhibits, supplements, and amendments thereto.
 
 **"Offering Period"** means the period during which the Company is authorized to accept subscriptions, commencing on [Start Date] and ending on [End Date], subject to extension as provided herein.
 
-**"Operating Agreement"** means the Amended and Restated Operating Agreement of Abundancia Austin LLC.
+**"Operating Agreement"** means the Amended and Restated Operating Agreement of Abundancia Community LLC.
 
 **"Private Placement Memorandum"** or **"PPM"** means the Confidential Private Placement Memorandum of the Company relating to the Offering.
 
@@ -180,7 +182,7 @@ For purposes of this Agreement, the following terms shall have the meanings set 
 
 **"Termination Date"** means [Date], unless extended by mutual written agreement of the Company and the Escrow Agent.
 
-**"Unit"** means one (1) membership interest unit in the Company, offered at a price of $50,000.00 per Unit.
+**"Unit"** means one (1) Class A membership interest unit in the Company, offered at the per-Unit price specified in the final Offering Documents [TO CONFIRM].
 
 ---
 
@@ -193,14 +195,14 @@ Within five (5) Business Days of the Effective Date, the Escrow Agent shall esta
 | Requirement | Specification |
 |-------------|---------------|
 | Account Type | Segregated, interest-bearing demand deposit account |
-| Account Title | "Abundancia Austin LLC -- Regulation D Offering Escrow Account" |
+| Account Title | "Abundancia Community LLC -- Regulation D Offering Escrow Account" |
 | Tax ID | The Company's Employer Identification Number (EIN): [________] |
 | FDIC Insurance | Maintained at an FDIC-insured institution; aggregate balances in excess of FDIC limits to be managed in accordance with Section 4.3 |
 | Segregation | Funds shall not be commingled with the Escrow Agent's own funds or with funds held in escrow for other parties |
 
 ### 4.2 Account Control
 
-The Escrow Agent shall maintain sole and exclusive control over the Escrow Account at all times during the Escrow Period. Neither the Company, the Managing Member, nor any Investor shall have the right to withdraw, transfer, pledge, encumber, or otherwise exercise control over the Escrow Funds except as expressly provided in this Agreement.
+The Escrow Agent shall maintain sole and exclusive control over the Escrow Account at all times during the Escrow Period. Neither the Company, the Manager, nor any Investor shall have the right to withdraw, transfer, pledge, encumber, or otherwise exercise control over the Escrow Funds except as expressly provided in this Agreement.
 
 ### 4.3 FDIC Insurance and Excess Deposits
 
@@ -243,7 +245,7 @@ Subscription payments shall be accepted in the following forms:
 | Domestic Wire Transfer | Same-day to next Business Day | Must reference Investor name and subscription number |
 | International Wire Transfer | 2-3 Business Days | Must reference Investor name; subject to enhanced AML review |
 | ACH Transfer | 2-3 Business Days | Pre-authorized only; must reference Investor name |
-| Certified Check / Cashier's Check | Subject to clearing | Payable to "Abundancia Austin LLC Escrow Account c/o [Escrow Agent Name]" |
+| Certified Check / Cashier's Check | Subject to clearing | Payable to "Abundancia Community LLC Escrow Account c/o [Escrow Agent Name]" |
 
 The following payment methods are **not accepted**:
 
@@ -262,7 +264,7 @@ Wire transfer instructions for the Escrow Account are set forth in **Exhibit A**
 - Escrow Agent bank name and address
 - ABA routing number
 - Account number (Escrow Account)
-- Account name: "Abundancia Austin LLC -- Regulation D Offering Escrow Account"
+- Account name: "Abundancia Community LLC -- Regulation D Offering Escrow Account"
 - Reference: Subscriber name and subscription number
 - SWIFT code (for international wires)
 
@@ -323,10 +325,10 @@ The Escrow Agent shall provide the Company with an updated Escrow Ledger on a we
 
 ### 5.7 Subscription Overages and Partial Subscriptions
 
-In the event that a deposit amount does not correspond to an exact number of Units at $50,000.00 per Unit:
+In the event that a deposit amount does not correspond to an exact number of Units at the per-Unit price [TO CONFIRM]:
 
-1. **Overage amounts** less than $50,000.00 shall be held in escrow and returned to the Investor at the time of Closing or release, unless the Investor provides supplemental funds to complete an additional Unit subscription
-2. **Partial Unit subscriptions** are not permitted; all subscriptions must be in whole Units ($50,000.00 increments)
+1. **Overage amounts** less than one full Unit shall be held in escrow and returned to the Investor at the time of Closing or release, unless the Investor provides supplemental funds to complete an additional Unit subscription
+2. **Partial Unit subscriptions** are not permitted; all subscriptions must be in whole Units (per-Unit increments [TO CONFIRM])
 3. The Company shall notify the Investor of any discrepancy within five (5) Business Days and provide instructions for resolution
 
 ---
@@ -366,7 +368,7 @@ The Company acknowledges that (a) the Escrow Agent shall not be liable for any l
 
 Escrow Funds shall not be released to the Company unless and until **all** of the following conditions (the "Release Conditions") have been satisfied or waived in writing by the Company:
 
-1. **Minimum Raise Threshold Met.** Aggregate cleared subscriptions in the Escrow Account equal or exceed the Minimum Raise Threshold of $3,750,000.00 (75 Units)
+1. **Minimum Raise Threshold Met.** Aggregate cleared subscriptions in the Escrow Account equal or exceed the Minimum Raise Threshold [TO CONFIRM]
 
 2. **Subscription Documentation Complete.** The Company has confirmed in writing to the Escrow Agent that all Subscription Agreements and Investor verification documentation for Units to be closed have been received, reviewed, and accepted
 
@@ -380,7 +382,7 @@ Escrow Funds shall not be released to the Company unless and until **all** of th
 
 7. **No Material Adverse Change.** No Material Adverse Change has occurred with respect to the Company or the Project since the commencement of the Offering
 
-8. **Company Certification.** The Company has delivered to the Escrow Agent a written certificate, signed by Nicholas Lawless as Manager, certifying that all Release Conditions have been satisfied (the "Release Certificate"), substantially in the form of **Exhibit B**
+8. **Company Certification.** The Company has delivered to the Escrow Agent a written certificate, signed by an authorized officer of the Manager, certifying that all Release Conditions have been satisfied (the "Release Certificate"), substantially in the form of **Exhibit B**
 
 ### 7.2 Additional Closing Conditions
 
@@ -404,7 +406,7 @@ The Company may request partial releases of Escrow Funds in connection with inte
 2. All Release Conditions applicable to the Units being closed have been satisfied
 3. The Company delivers a partial Release Certificate identifying the specific Investors and amounts to be released
 4. The Escrow Agent receives not less than five (5) Business Days' prior written notice of the requested partial release
-5. Each partial release corresponds to a minimum of ten (10) Units ($500,000.00)
+5. Each partial release corresponds to a minimum number of Units to be specified in the final Offering Documents [TO CONFIRM]
 
 ### 7.4 Release Mechanics
 
@@ -422,7 +424,7 @@ The Company anticipates the following closing schedule, subject to the satisfact
 
 | Closing | Trigger | Estimated Timing |
 |---------|---------|-----------------|
-| Initial Closing | Minimum Raise Threshold met ($3,750,000) | Upon satisfaction of all Release Conditions |
+| Initial Closing | Minimum Raise Threshold met [TO CONFIRM] | Upon satisfaction of all Release Conditions |
 | Subsequent Closings | Rolling basis as additional subscriptions are accepted | Monthly or as subscriptions accumulate |
 | Final Closing | Maximum Offering Amount reached or Offering Period expires | On or before the Termination Date |
 
@@ -432,7 +434,7 @@ The Company anticipates the following closing schedule, subject to the satisfact
 
 ### 8.1 Threshold Amount
 
-The Minimum Raise Threshold for this Offering is **Three Million Seven Hundred Fifty Thousand Dollars ($3,750,000.00)**, representing the subscription price for seventy-five (75) Units, or thirty percent (30%) of the Maximum Offering Amount.
+The Minimum Raise Threshold for this Offering is **[TO CONFIRM — to be established in the final Offering Documents]**, representing the minimum cleared subscriptions required before any release of Escrow Funds.
 
 ### 8.2 Rationale
 
@@ -440,12 +442,14 @@ The Minimum Raise Threshold has been established to ensure that sufficient capit
 
 | Purpose | Estimated Allocation |
 |---------|---------------------|
-| Land acquisition and initial site development | $1,500,000 |
-| Architectural and engineering design | $750,000 |
-| Permitting, legal, and regulatory compliance | $500,000 |
-| Project management and working capital | $500,000 |
-| Contingency reserve | $500,000 |
-| **Total Minimum Raise** | **$3,750,000** |
+| Land acquisition and initial site development | [TO CONFIRM] |
+| Architectural and engineering design | [TO CONFIRM] |
+| Permitting, legal, and regulatory compliance | [TO CONFIRM] |
+| Project management and working capital | [TO CONFIRM] |
+| Contingency reserve | [TO CONFIRM] |
+| **Total Minimum Raise** | **[TO CONFIRM]** |
+
+*Use-of-proceeds allocations will be finalized in the Offering Documents consistent with the Company's financial model (Year-1 uses of approximately $12.87M against sources of approximately $14.07M, including construction debt).*
 
 ### 8.3 Threshold Deadline
 
@@ -473,7 +477,7 @@ The Escrow Agent shall provide the Company with a threshold status report on a w
 | Aggregate Cleared Deposits | Total cleared funds in the Escrow Account |
 | Number of Accepted Subscriptions | Count of Investors with cleared deposits |
 | Units Subscribed | Total Units corresponding to cleared deposits |
-| Percentage of Threshold | Cleared deposits as a percentage of $3,750,000 |
+| Percentage of Threshold | Cleared deposits as a percentage of the Minimum Raise Threshold |
 | Remaining to Threshold | Dollar amount needed to reach the Minimum Raise Threshold |
 | Days Remaining | Business days until the Threshold Deadline |
 
@@ -663,9 +667,9 @@ Any costs associated with the preparation and filing of tax reports (including I
 
 The Company represents and warrants to the Escrow Agent as follows:
 
-1. **Organization and Good Standing.** The Company is a limited liability company duly organized, validly existing, and in good standing under the laws of the State of Texas
+1. **Organization and Good Standing.** The Company is a limited liability company duly organized, validly existing, and in good standing under the laws of the State of Delaware, and is (or will be) duly qualified as a foreign entity to transact business in the State of Texas
 
-2. **Authority.** The Company has full power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery of this Agreement has been duly authorized by all necessary action of the Managing Member
+2. **Authority.** The Company has full power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution and delivery of this Agreement has been duly authorized by all necessary action of the Manager
 
 3. **No Conflict.** The execution and performance of this Agreement does not violate any law, regulation, order, or agreement to which the Company is a party or by which it is bound
 
@@ -717,7 +721,7 @@ The Company shall indemnify, defend, and hold harmless the Escrow Agent and its 
 
 ### 14.2 Escrow Agent's Indemnification of Company
 
-The Escrow Agent shall indemnify, defend, and hold harmless the Company, the Managing Member, and their respective members, managers, officers, and employees from and against any claims, losses, liabilities, damages, costs, and expenses (including reasonable attorneys' fees) arising out of the Escrow Agent's gross negligence, willful misconduct, or breach of the express terms of this Agreement.
+The Escrow Agent shall indemnify, defend, and hold harmless the Company, the Manager, and their respective members, managers, officers, and employees from and against any claims, losses, liabilities, damages, costs, and expenses (including reasonable attorneys' fees) arising out of the Escrow Agent's gross negligence, willful misconduct, or breach of the express terms of this Agreement.
 
 ### 14.3 Indemnification Procedures
 
@@ -819,12 +823,12 @@ All notices, instructions, certificates, and other communications under this Agr
 
 **To the Company:**
 
-Abundancia Austin LLC
-c/o Light Brands Consulting LLC
-Attn: Nicholas Lawless, Manager
+Abundancia Community LLC
+c/o New Earth Development ([Manager legal entity name — TO CONFIRM])
+Attn: Kelly Krezek, Chief Executive Officer of the Manager
 [Address]
 [City, State ZIP]
-Email: [________]
+Email: kelly@newearthdevelopment.org
 
 **To the Escrow Agent:**
 
@@ -932,11 +936,11 @@ The following exhibits are attached hereto and incorporated by reference:
 
 **ABUNDANCIA AUSTIN LLC**
 
-By: Light Brands Consulting LLC, its Managing Member
+By: New Earth Development ([Manager legal entity name — TO CONFIRM]), its Manager
 
 By: ________________________________
-Name: Nicholas Lawless
-Title: Manager
+Name: Kelly Krezek
+Title: Chief Executive Officer of the Manager
 Date: ________________________________
 
 ---
@@ -952,7 +956,7 @@ Date: ________________________________
 
 ## Confidentiality Notice
 
-This document is confidential and proprietary to Abundancia Austin LLC. It has been prepared solely for use by verified accredited investors and their professional advisors in evaluating a potential investment in the Company. This document may not be reproduced, distributed, or disclosed to any third party without the prior written consent of the Company. The information contained herein is subject to change without notice and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful.
+This document is confidential and proprietary to Abundancia Community LLC. It has been prepared solely for use by verified accredited investors and their professional advisors in evaluating a potential investment in the Company. This document may not be reproduced, distributed, or disclosed to any third party without the prior written consent of the Company. The information contained herein is subject to change without notice and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful.
 
 Recipients should consult their own legal, tax, and financial advisors regarding the suitability and legal implications of any investment.
 
@@ -960,6 +964,6 @@ By accepting this document, the recipient agrees to be bound by the confidential
 
 ---
 
-*Document 26 of the Abundancia Austin Investor Data Room*
-*Prepared March 2026*
+*Document 26 of the Abundancia Investor Data Room*
+*Prepared July 2026*
 *Version 2.0*

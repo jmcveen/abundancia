@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,10 +9,10 @@
 ---
 
 **Document 25** | Data Room - Compliance
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
@@ -45,7 +45,7 @@
 
 ### 1.1 Applicable Laws and Regulations
 
-Abundancia Austin Holdings, LLC (the "Company") has adopted these Anti-Money Laundering and Know Your Customer Procedures in recognition of the regulatory environment governing private securities offerings and real estate transactions. While the Company is not a financial institution subject to the full requirements of the Bank Secrecy Act ("BSA"), the Company has voluntarily implemented these procedures as a matter of best practice and investor protection.
+Abundancia Community LLC, a Delaware limited liability company, manager-managed (the "Company"), has adopted these Anti-Money Laundering and Know Your Customer Procedures in recognition of the regulatory environment governing private securities offerings and real estate transactions. While the Company is not a financial institution subject to the full requirements of the Bank Secrecy Act ("BSA"), the Company has voluntarily implemented these procedures as a matter of best practice and investor protection.
 
 The following laws, regulations, and guidance inform these procedures:
 
@@ -58,7 +58,7 @@ The following laws, regulations, and guidance inform these procedures:
 | FinCEN Geographic Targeting Orders | 31 C.F.R. § 1010.370 | Real estate transaction reporting (select markets) |
 | FinCEN Beneficial Ownership Reporting | 31 C.F.R. § 1010.380 (Corporate Transparency Act) | Entity beneficial ownership disclosure |
 | SEC Regulation D | 17 C.F.R. §§ 230.501-506 | Investor verification requirements |
-| Texas Securities Act | Tex. Rev. Civ. Stat. Ann. art. 581 | State securities law compliance |
+| Texas Securities Act | Tex. Gov't Code Ch. 4001-4008 | State securities law compliance (project state) |
 
 ### 1.2 FinCEN Geographic Targeting Orders (GTOs)
 
@@ -66,7 +66,7 @@ The Company acknowledges that FinCEN has issued Geographic Targeting Orders requ
 
 ### 1.3 Corporate Transparency Act (CTA)
 
-The Company and Abundancia Austin GP, LLC will comply with the Corporate Transparency Act's beneficial ownership reporting requirements as applicable, including timely filing of Beneficial Ownership Information Reports with FinCEN.
+The Company and its Manager will comply with the Corporate Transparency Act's beneficial ownership reporting requirements as applicable, including timely filing of Beneficial Ownership Information Reports with FinCEN.
 
 ---
 
@@ -74,7 +74,7 @@ The Company and Abundancia Austin GP, LLC will comply with the Corporate Transpa
 
 ### 2.1 Policy Declaration
 
-It is the policy of Abundancia Austin Holdings, LLC and Abundancia Austin GP, LLC to:
+It is the policy of Abundancia Community LLC and its Manager (New Earth Development leadership; Kelly Krezek, Chief Executive Officer) to:
 
 - Conduct appropriate due diligence on all prospective investors prior to acceptance of subscription funds
 - Prohibit the acceptance of investments from any individual or entity that appears on the OFAC Specially Designated Nationals and Blocked Persons List or any other applicable sanctions list
@@ -220,7 +220,7 @@ Prior to the acceptance of any subscription, the Company will collect and verify
 
 ### 5.1 Requirement Under Rule 506(c)
 
-As the offering is conducted under Rule 506(c) of Regulation D, which permits general solicitation, the Company is required to take **reasonable steps to verify** that each purchaser is an accredited investor as defined in Rule 501(a) of Regulation D. Self-certification alone is not sufficient under 506(c).
+As the offering is conducted under Rule 506(c) of Regulation D, which permits general solicitation, the Company is required to take **reasonable steps to verify** that each purchaser is an accredited investor as defined in Rule 501(a) of Regulation D. Self-certification alone is not sufficient under 506(c). *The offering exemption structure is subject to final structuring and review by securities counsel.*
 
 ### 5.2 Verification Methods
 
@@ -490,8 +490,8 @@ The Company has designated the following individual as AML/KYC Compliance Office
 
 | Role | Name | Title |
 |---|---|---|
-| AML/KYC Compliance Officer | Nicholas Courchesne | Chief Executive Officer |
-| Backup Compliance Officer | Jason Sparks | Chief Operating Officer |
+| AML/KYC Compliance Officer | Kelly Krezek | Chief Executive Officer, New Earth Development (Manager) |
+| Backup Compliance Officer | [TO CONFIRM] | [TO CONFIRM] |
 
 ### 11.2 Compliance Officer Responsibilities
 
@@ -598,13 +598,14 @@ In addition to the annual review, this policy shall be updated upon:
 
 | Version | Date | Description | Approved By |
 |---|---|---|---|
-| 1.0 | March 2026 | Initial adoption | Nicholas Courchesne, CEO |
+| 1.0 | March 2026 | Initial draft (superseded — contained incorrect entity and officer information) | [Superseded] |
+| 2.0 | July 2026 | Corrected entity (Abundancia Community LLC, Delaware), Manager, officer designations, and offering references | Kelly Krezek, CEO (Manager) [pending formal adoption — TO CONFIRM] |
 
 ---
 
 ## Confidentiality Notice
 
-This document is confidential and proprietary to Abundancia Austin Holdings, LLC. It is provided solely for the purpose of evaluating a potential investment in membership interests of the Company.
+This document is confidential and proprietary to Abundancia Community LLC. It is provided solely for the purpose of evaluating a potential investment in membership interests of the Company.
 
 This document may not be reproduced, distributed, or disclosed to any person other than the intended recipient and their professional advisors (legal, tax, and financial) who have agreed to maintain confidentiality. Any unauthorized reproduction or distribution of this document, in whole or in part, is strictly prohibited.
 
@@ -618,6 +619,6 @@ By accepting this document, the recipient agrees to be bound by the confidential
 
 ---
 
-*Abundancia Austin Holdings, LLC*
+*Abundancia Community LLC*
 *Cedar Creek, Texas*
-*nicholas@lightbrands.ai*
+*kelly@newearthdevelopment.org*

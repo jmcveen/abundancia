@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,14 +9,14 @@
 ---
 
 **Document 05** | Data Room - Investment
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
-> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. This Operating Agreement, together with the Private Placement Memorandum and Subscription Agreement, constitutes the complete offering materials for this investment. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before executing any investment documents.*
+> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Community LLC. This Operating Agreement, together with the Private Placement Memorandum and Subscription Agreement, constitutes the complete offering materials for this investment. Prospective investors should review all offering documents and consult with their own legal, tax, and financial advisors before executing any investment documents.*
 
 ---
 
@@ -46,17 +46,17 @@
 
 ## OF
 
-## ABUNDANCIA AUSTIN HOLDINGS, LLC
+## ABUNDANCIA COMMUNITY LLC
 
-## A TEXAS SERIES LIMITED LIABILITY COMPANY
+## A DELAWARE LIMITED LIABILITY COMPANY (MANAGER-MANAGED)
 
 ---
 
-THIS OPERATING AGREEMENT (this "Agreement") of **ABUNDANCIA AUSTIN HOLDINGS, LLC**, a Texas Series Limited Liability Company (the "Company"), is entered into and effective as of the date of the last signature hereto (the "Effective Date"), by and among:
+THIS OPERATING AGREEMENT (this "Agreement") of **ABUNDANCIA COMMUNITY LLC**, a Delaware limited liability company, manager-managed (the "Company"), is entered into and effective as of the date of the last signature hereto (the "Effective Date"), by and among:
 
-**ABUNDANCIA AUSTIN GP, LLC**, a Texas limited liability company, as General Partner and Manager (the "Manager" or "General Partner" or "GP"); and
+**NEW EARTH DEVELOPMENT** [TO CONFIRM exact legal name of Manager entity], as Manager and holder of the Class B Units (the "Manager" or "General Partner" or "GP"); and
 
-**THE PERSONS AND ENTITIES** listed on **Exhibit A** attached hereto, as Limited Partners (each a "Limited Partner" and collectively, the "Limited Partners" or "LPs");
+**THE PERSONS AND ENTITIES** listed on **Exhibit A** attached hereto, as holders of Class A Units (each a "Limited Partner" and collectively, the "Limited Partners" or "LPs"; references to "Limited Partner"/"LP" and "General Partner"/"GP" herein are to Class A Members and the Class B Member/Manager of the Company, respectively — final defined terms subject to review by securities counsel);
 
 (the Manager and the Limited Partners are collectively referred to herein as the "Members").
 
@@ -64,13 +64,13 @@ THIS OPERATING AGREEMENT (this "Agreement") of **ABUNDANCIA AUSTIN HOLDINGS, LLC
 
 ### RECITALS
 
-A. The Company was formed as a Texas Series Limited Liability Company under the Texas Business Organizations Code (the "TBOC"), Title 3, Chapter 101, by the filing of a Certificate of Formation with the Secretary of State of Texas.
+A. The Company was formed as a Delaware limited liability company under the Delaware Limited Liability Company Act, 6 Del. C. § 18-101 et seq. (the "Act"), by the filing of a Certificate of Formation with the Secretary of State of the State of Delaware in January 2022 (initial filing January 31, 2022).
 
 B. The Members desire to enter into this Agreement to set forth their respective rights, obligations, and duties with respect to the Company and to govern the management, operation, and affairs of the Company.
 
-C. The Company intends to acquire, develop, and manage a 376-acre regenerative master-planned community located in Cedar Creek, Bastrop County, Texas (the "Project"), as more fully described in the Private Placement Memorandum dated March 2026 (the "Memorandum").
+C. The Company intends to acquire, develop, and manage a 376-acre regenerative master-planned community located at 176 Cedar Creek Circle, Cedar Creek, Bastrop County, Texas (the "Project"), as more fully described in the Private Placement Memorandum dated July 2026 (the "Memorandum").
 
-D. The Company is raising up to Twelve Million Five Hundred Thousand Dollars ($12,500,000) in equity capital through a Regulation D, Rule 506(c) offering of Class A Limited Partnership Interests to accredited investors.
+D. The Company is raising approximately Five Million One Hundred Thousand Dollars ($5,100,000) of Class A LP equity capital through a Regulation D, Rule 506(c) offering of Class A Units to accredited investors, as part of a $12,673,266 Year-1 capitalization (together with $100,000 of GP equity and $8,871,286 of construction debt), subject to final documentation and review by securities counsel.
 
 NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Members agree as follows:
 
@@ -80,29 +80,19 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements set fort
 
 ### Section 1.1 — Formation
 
-The Company has been organized as a Texas Series Limited Liability Company pursuant to the provisions of the TBOC by the filing of a Certificate of Formation with the Texas Secretary of State. The rights and obligations of the Members shall be as provided in the TBOC, except as otherwise expressly provided herein. To the extent that the provisions of this Agreement are inconsistent with the non-mandatory provisions of the TBOC, this Agreement shall control.
+The Company has been organized as a Delaware limited liability company, manager-managed, pursuant to the provisions of the Act by the filing of a Certificate of Formation with the Delaware Secretary of State in January 2022. The rights and obligations of the Members shall be as provided in the Act, except as otherwise expressly provided herein. To the extent that the provisions of this Agreement are inconsistent with the non-mandatory provisions of the Act, this Agreement shall control.
 
 ### Section 1.2 — Name
 
-The name of the Company is "Abundancia Austin Holdings, LLC." The Company's business shall be conducted under such name or under such other names as the Manager may from time to time designate, subject to compliance with applicable law.
+The name of the Company is "Abundancia Community LLC." The Company's business shall be conducted under such name or under such other names as the Manager may from time to time designate, subject to compliance with applicable law.
 
-### Section 1.3 — Series LLC Structure
+### Section 1.3 — Single-Entity Structure
 
-(a) The Company is organized as a Series LLC under the TBOC, Section 101.601 et seq. The Manager is authorized to establish one or more separate series (each a "Series") within the Company, each of which may have separate assets, liabilities, members, and purposes.
+(a) The Company is a single Delaware manager-managed limited liability company. The Company has no series and no subsidiaries. All Project assets and operations are held at the Company level.
 
-(b) The following Series are hereby established:
+(b) The membership interests of the Company are divided into two classes: Class A Units, issued to LP investors, and Class B Units, held by the GP/Manager, as further described in Article III.
 
-| Series | Purpose | Assets |
-|---|---|---|
-| **Series A — Land Holdings** | Hold title to the 376-acre property and undeveloped land | Real property, mineral rights, easements |
-| **Series B — Residential Development** | Develop, construct, and sell residential units and lots | Construction contracts, inventory, receivables |
-| **Series C — Rental Portfolio** | Own and operate retained rental units | Rental properties, leases, operating accounts |
-| **Series D — Commercial Operations** | Own and operate commercial spaces in the village center | Commercial leases, tenant improvements, operating accounts |
-| **Series E — Retreat & Events** | Own and operate the retreat center and event programming | Retreat center property, event contracts, operating accounts |
-
-(c) The debts, liabilities, obligations, and expenses incurred, contracted for, or otherwise existing with respect to a particular Series shall be enforceable only against the assets of such Series, and not against the assets of the Company generally or any other Series, to the fullest extent permitted by the TBOC.
-
-(d) The Manager has sole authority to create additional Series, allocate assets and liabilities among Series, and dissolve or merge Series, in each case without the consent of the Limited Partners.
+(c) Any future formation of subsidiaries or special-purpose entities (if determined by the Manager to be advantageous for financing, liability management, or regulatory purposes) shall be disclosed to the Members and shall be subject to final documentation and review by securities counsel.
 
 ### Section 1.4 — Principal Office
 
@@ -110,7 +100,7 @@ The principal office of the Company shall be located in Austin, Texas, or at suc
 
 ### Section 1.5 — Registered Agent and Office
 
-The registered agent and registered office of the Company in the State of Texas shall be as set forth in the Certificate of Formation, or as subsequently changed by the Manager in accordance with the TBOC.
+The registered agent of the Company in the State of Delaware is Delaware Registered Agent Service LLC, with the registered office as set forth in the Certificate of Formation, or as subsequently changed by the Manager in accordance with the Act.
 
 ### Section 1.6 — Term
 
@@ -156,7 +146,7 @@ The Company is organized for the following purposes:
 
 ### Section 2.2 — Powers
 
-The Company shall have and may exercise all powers and privileges granted to limited liability companies under the TBOC and any other applicable laws, together with any powers incidental thereto, so far as such powers and privileges are necessary or convenient for the conduct of the Company's business.
+The Company shall have and may exercise all powers and privileges granted to limited liability companies under the Act and any other applicable laws, together with any powers incidental thereto, so far as such powers and privileges are necessary or convenient for the conduct of the Company's business.
 
 ### Section 2.3 — Limitations
 
@@ -174,9 +164,9 @@ The Members of the Company as of the Effective Date are set forth on **Exhibit A
 
 The membership interests in the Company are classified as follows:
 
-**(a) General Partner Interest.** The General Partner (Abundancia Austin GP, LLC) holds a General Partner Interest entitling it to: (i) manage the Company in accordance with Article VI; (ii) receive compensation as set forth in Section 6.8; and (iii) participate in distributions in accordance with Article VIII (the "Carried Interest" or "Promote").
+**(a) Class B Units (General Partner / Manager Interest).** The General Partner (New Earth Development [TO CONFIRM exact legal name of Manager entity]) holds the Class B Units, entitling it to: (i) manage the Company in accordance with Article VI; (ii) receive compensation as set forth in Section 6.8; and (iii) participate in distributions in accordance with Article VIII (the "Carried Interest" or "Promote").
 
-**(b) Class A Limited Partnership Interests ("Units").** Class A Units are issued to investors pursuant to the Subscription Agreement and entitle the holder to: (i) distributions in accordance with Article VIII; (ii) allocations of income, gain, loss, deduction, and credit in accordance with Article IX; (iii) information rights as set forth in Article XII; (iv) voting rights as set forth in Section 7.2; and (v) such other rights as set forth herein.
+**(b) Class A Units ("Units").** Class A Units are issued to LP investors pursuant to the Subscription Agreement and entitle the holder to: (i) distributions in accordance with Article VIII; (ii) allocations of income, gain, loss, deduction, and credit in accordance with Article IX; (iii) information rights as set forth in Article XII; (iv) voting rights as set forth in Section 7.2; and (v) such other rights as set forth herein.
 
 ### Section 3.3 — Percentage Interests
 
@@ -192,11 +182,11 @@ Membership interests in the Company shall not be represented by certificates. Th
 
 (b) The admission of additional Limited Partners shall not require the consent of existing Limited Partners.
 
-(c) The Manager may admit additional Limited Partners through rolling closings until the maximum offering amount of $12,500,000 has been reached or the offering period has expired.
+(c) The Manager may admit additional Limited Partners through rolling closings until the maximum Class A offering amount of approximately $5,100,000 [TO CONFIRM] has been reached or the offering period has expired.
 
 ### Section 3.6 — No Authority of Limited Partners
 
-Except as expressly provided in this Agreement, no Limited Partner shall have any right, power, or authority to act for or bind the Company, to participate in the management or control of the Company's business, or to transact any business on behalf of the Company. The exercise by a Limited Partner of any right or power granted to Limited Partners under this Agreement or the TBOC shall not be deemed participation in the management or control of the Company's business.
+Except as expressly provided in this Agreement, no Limited Partner shall have any right, power, or authority to act for or bind the Company, to participate in the management or control of the Company's business, or to transact any business on behalf of the Company. The exercise by a Limited Partner of any right or power granted to Limited Partners under this Agreement or the Act shall not be deemed participation in the management or control of the Company's business.
 
 ---
 
@@ -206,7 +196,7 @@ Except as expressly provided in this Agreement, no Limited Partner shall have an
 
 (a) **General Partner.** The General Partner shall contribute to the Company the amount set forth on Exhibit A as its initial Capital Contribution.
 
-(b) **Limited Partners.** Each Limited Partner shall contribute to the Company the Subscription Amount set forth in such Limited Partner's Subscription Agreement as its initial Capital Contribution. The minimum Capital Contribution for each Limited Partner is $50,000 (one Unit).
+(b) **Limited Partners.** Each Limited Partner shall contribute to the Company the Subscription Amount set forth in such Limited Partner's Subscription Agreement as its initial Capital Contribution. The minimum Capital Contribution for each Limited Partner is $50,000 (one Unit) [TO CONFIRM].
 
 ### Section 4.2 — Capital Call Authority
 
@@ -234,11 +224,11 @@ If a Limited Partner (a "Defaulting Member") fails to fund its pro rata share of
 
 (a) Except as expressly provided in Article VIII (Distributions) and Article XIII (Dissolution), no Member shall have the right to withdraw, reduce, or receive a return of its Capital Contribution, or to receive interest on its Capital Contribution.
 
-(b) No Member shall be obligated to restore any deficit in its Capital Account upon dissolution or otherwise, except as may be required by the TBOC or this Agreement.
+(b) No Member shall be obligated to restore any deficit in its Capital Account upon dissolution or otherwise, except as may be required by the Act or this Agreement.
 
 ### Section 4.5 — No Additional Obligation
 
-Except as provided in Section 4.2 (Capital Calls), no Member shall be required to contribute capital to the Company in excess of its initial Capital Contribution. A Limited Partner's liability is limited to the amount of its Capital Contribution and any obligation to fund capital calls, as set forth in this Agreement and the TBOC.
+Except as provided in Section 4.2 (Capital Calls), no Member shall be required to contribute capital to the Company in excess of its initial Capital Contribution. A Limited Partner's liability is limited to the amount of its Capital Contribution and any obligation to fund capital calls, as set forth in this Agreement and the Act.
 
 ---
 
@@ -274,7 +264,7 @@ The provisions of this Article V are intended to comply with Treasury Regulation
 
 ### Section 6.1 — Manager-Managed Company
 
-The Company is a "manager-managed" limited liability company. The business and affairs of the Company shall be managed exclusively by the Manager (Abundancia Austin GP, LLC). Except as expressly provided in this Agreement, no Member other than the Manager shall have any right, power, or authority to manage, conduct, or control the business of the Company.
+The Company is a "manager-managed" limited liability company. The business and affairs of the Company shall be managed exclusively by the Manager (New Earth Development [TO CONFIRM exact legal name of Manager entity]). Except as expressly provided in this Agreement, no Member other than the Manager shall have any right, power, or authority to manage, conduct, or control the business of the Company.
 
 ### Section 6.2 — Powers of the Manager
 
@@ -346,10 +336,8 @@ The Manager may appoint officers of the Company, including a Chief Executive Off
 
 | Officer | Title |
 |---|---|
-| Nicholas Courchesne | Chief Executive Officer |
-| Jason Sparks | Chief Operating Officer |
-| Dan Lawless | Technical Lead |
-| David Chen | Chief Financial Officer |
+| Kelly Krezek | Chief Executive Officer |
+| [TO CONFIRM] | Other officers, if any, to be designated by the Manager |
 
 ### Section 6.6 — Standard of Care
 
@@ -361,22 +349,22 @@ The Manager and its principals shall devote such time and attention to the Compa
 
 ### Section 6.8 — Compensation of the Manager
 
-The Manager and its affiliates shall receive the following compensation in connection with the management and operation of the Company:
+The Manager and its affiliates shall receive the following compensation in connection with the management and operation of the Company (all fees subject to final documentation and review by securities counsel):
 
 | Fee | Amount | Timing | Calculation Basis |
 |---|---|---|---|
-| **Management Fee** | 1.5% per annum | Quarterly in arrears | Committed capital ($12,500,000) |
-| **Acquisition Fee** | 1.0% | At property closing | Property acquisition cost |
-| **Construction Management Fee** | 3.0% | Monthly during construction | Hard construction costs |
-| **Disposition Fee** | 1.0% | At closing of each sale | Gross sale proceeds |
-| **Refinancing Fee** | 0.5% | At closing of refinancing | Refinancing proceeds |
-| **Carried Interest / Promote** | Per Article VIII waterfall | As distributions are made | Profits above preferred return |
+| **Developer Fee** | 4% (approximately $500,000) | At close | Total project capital |
+| **Carried Interest / Promote** | Per Article VIII waterfall | As distributions are made | Profits above the 10% LP preferred return |
+| **Management Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
+| **Acquisition Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
+| **Construction Management Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
+| **Disposition Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
+| **Refinancing Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
 
-**Management Fee Detail:**
-- Annual management fee: $12,500,000 x 1.5% = $187,500 per annum
-- Quarterly management fee payment: $46,875
-- The management fee commences upon the first closing of the offering and continues until dissolution of the Company
-- The management fee is payable from Company funds prior to any distributions to Members
+**Developer Fee Detail:**
+- Developer fee: 4% of total project capital, approximately $500,000, payable at close
+- The General Partner has committed a $100,000 GP equity contribution and an additional $500,000 GP co-investment within the $8,871,286 debt + GP capital layer
+- All fee and co-investment arrangements are subject to final documentation and review by securities counsel
 
 **Expense Reimbursement:**
 In addition to the foregoing fees, the Company shall reimburse the Manager and its affiliates for all reasonable, documented, out-of-pocket expenses incurred in connection with the Company's business, including travel, legal, accounting, insurance, marketing, and administrative expenses.
@@ -417,7 +405,7 @@ In addition to the foregoing fees, the Company shall reimburse the Manager and i
 
 ### Section 7.1 — Limited Liability
 
-(a) No Limited Partner shall be personally liable for any debts, obligations, or liabilities of the Company solely by reason of being a Limited Partner. The liability of each Limited Partner shall be limited to the amount of its Capital Contribution, its share of undistributed Company profits (if any), and its obligation to fund capital calls (if any), to the fullest extent permitted by the TBOC and applicable law.
+(a) No Limited Partner shall be personally liable for any debts, obligations, or liabilities of the Company solely by reason of being a Limited Partner. The liability of each Limited Partner shall be limited to the amount of its Capital Contribution, its share of undistributed Company profits (if any), and its obligation to fund capital calls (if any), to the fullest extent permitted by the Act and applicable law.
 
 (b) The Manager shall not be personally liable for the debts, obligations, or liabilities of the Company solely by reason of being the Manager, except to the extent that the Manager has personally guaranteed such debts, obligations, or liabilities, or to the extent that liability arises from the Manager's fraud, willful misconduct, or gross negligence.
 
@@ -485,46 +473,43 @@ Each Member shall maintain the confidentiality of all non-public information reg
 
 ### Section 8.2 — Distribution Waterfall
 
-Available Cash from operations and capital events (sales, refinancings, dissolution proceeds) shall be distributed to the Members in the following order of priority:
+Available Cash from operations and capital events (sales, refinancings, dissolution proceeds) shall be distributed to the Members in the following order of priority. A distribution reserve equal to ten percent (10%) of positive cash flows shall be withheld for working capital prior to distributions. All waterfall terms are subject to final documentation and review by securities counsel.
 
-**Tier 1 — Return of Capital**
+**Tier 1 — Return of Capital [TO CONFIRM ordering relative to Preferred Return]**
 
 First, one hundred percent (100%) to the Limited Partners, pro rata in accordance with their respective Percentage Interests, until each Limited Partner has received cumulative distributions equal to the aggregate of its Capital Contributions (the "Return of Capital").
 
 **Tier 2 — Preferred Return**
 
-Second, one hundred percent (100%) to the Limited Partners, pro rata in accordance with their respective Percentage Interests, until each Limited Partner has received cumulative distributions (in excess of the Return of Capital) equal to a cumulative annual return of eight percent (8%) on its unreturned Capital Contributions, compounded annually from the date of each Capital Contribution through the date of each distribution (the "Preferred Return").
+Second, one hundred percent (100%) to the Limited Partners, pro rata in accordance with their respective Percentage Interests, until each Limited Partner has received cumulative distributions (in excess of the Return of Capital) equal to a cumulative annual return of ten percent (10%) on its unreturned Capital Contributions (the "Preferred Return"). [Compounding mechanics TO CONFIRM — subject to final documentation.]
 
 For purposes of this Section, "unreturned Capital Contributions" means, at any point in time, the excess (if any) of a Limited Partner's aggregate Capital Contributions over the aggregate distributions previously received by such Limited Partner under Tier 1.
 
-The Preferred Return is cumulative. Any accrued but unpaid Preferred Return from any period shall carry forward and compound annually until fully paid.
+The Preferred Return is cumulative. Any accrued but unpaid Preferred Return from any period shall carry forward until fully paid.
 
-**Tier 3 — GP Catch-Up**
+**Tier 3 — Above Preferred Return (90/10)**
 
-Third, eighty percent (80%) to the Limited Partners (pro rata) and twenty percent (20%) to the General Partner, until the General Partner has received cumulative distributions under this Tier 3 equal to twenty percent (20%) of the aggregate amount distributed under Tiers 2 and 3 combined.
+Third, above the Preferred Return, ninety percent (90%) to the Limited Partners (pro rata) and ten percent (10%) to the General Partner.
 
-**Tier 4 — Performance Split I (Above 15% IRR)**
+**Tier 4 — Performance Split I (Above 12% LP IRR)**
 
-Fourth, after the Limited Partners have achieved an internal rate of return of fifteen percent (15%) on their Capital Contributions (calculated on a blended, whole-fund basis using the XIRR methodology), seventy percent (70%) to the Limited Partners (pro rata) and thirty percent (30%) to the General Partner.
+Fourth, after the Limited Partners have achieved an internal rate of return of twelve percent (12%) on their Capital Contributions (calculated on a blended, whole-fund basis using the XIRR methodology), eighty percent (80%) to the Limited Partners (pro rata) and twenty percent (20%) to the General Partner.
 
-**Tier 5 — Performance Split II (Above 25% IRR)**
+**Tier 5 — Performance Split II (Above 15% LP IRR)**
 
-Fifth, after the Limited Partners have achieved an internal rate of return of twenty-five percent (25%) on their Capital Contributions, sixty percent (60%) to the Limited Partners (pro rata) and forty percent (40%) to the General Partner.
-
-**Tier 6 — Performance Split III (Above 35% IRR)**
-
-Sixth, after the Limited Partners have achieved an internal rate of return of thirty-five percent (35%) on their Capital Contributions, fifty percent (50%) to the Limited Partners (pro rata) and fifty percent (50%) to the General Partner.
+Fifth, after the Limited Partners have achieved an internal rate of return of fifteen percent (15%) on their Capital Contributions, sixty percent (60%) to the Limited Partners (pro rata) and forty percent (40%) to the General Partner.
 
 ### Section 8.3 — Waterfall Summary
 
 | Tier | Threshold | LP Share | GP Share |
 |---|---|---|---|
-| 1 | Return of Capital (1.0x) | 100% | 0% |
-| 2 | Preferred Return (8% cumulative, compounding) | 100% | 0% |
-| 3 | GP Catch-Up | 80% | 20% |
-| 4 | Above 15% LP IRR | 70% | 30% |
-| 5 | Above 25% LP IRR | 60% | 40% |
-| 6 | Above 35% LP IRR | 50% | 50% |
+| 1 | Return of Capital (1.0x) [TO CONFIRM ordering] | 100% | 0% |
+| 2 | Preferred Return (10% cumulative) | 100% | 0% |
+| 3 | Above Preferred Return | 90% | 10% |
+| 4 | Above 12% LP IRR | 80% | 20% |
+| 5 | Above 15% LP IRR | 60% | 40% |
+
+*A 10% distribution reserve is withheld from positive cash flows for working capital. All waterfall terms are subject to final documentation and review by securities counsel; the detailed waterfall schedule is available upon request and figures are being finalized.*
 
 ### Section 8.4 — Timing of Distributions
 
@@ -534,7 +519,7 @@ Sixth, after the Limited Partners have achieved an internal rate of return of th
 
 (c) Notwithstanding the foregoing, the timing and amount of all distributions are in the sole discretion of the Manager, subject to the maintenance of adequate reserves for operations, debt service, capital expenditures, contingencies, and compliance with any loan covenants or other contractual obligations. THERE IS NO OBLIGATION TO MAKE DISTRIBUTIONS ON ANY PARTICULAR SCHEDULE OR AT ALL.
 
-(d) The Manager anticipates that the first quarterly distributions will commence approximately eighteen to twenty-four (18-24) months after the initial closing of the offering (estimated Q1 2028), subject to the Project generating sufficient Available Cash.
+(d) The Manager anticipates that the first quarterly distributions will commence following first Project revenue (projected 2028) [TO CONFIRM], subject to the Project generating sufficient Available Cash.
 
 ### Section 8.5 — Tax Distributions
 
@@ -560,7 +545,7 @@ The Manager may, in its sole discretion, make distributions in kind (i.e., distr
 
 (c) **Payment.** The Clawback Amount shall be paid by the General Partner within ninety (90) days of the Final Waterfall Calculation.
 
-(d) **Limitation.** The General Partner's Clawback obligation shall not exceed the cumulative Carried Interest (Tiers 3, 4, 5, and 6 GP distributions) received by the General Partner, net of income taxes actually paid by the General Partner on such Carried Interest (computed at the maximum applicable tax rate).
+(d) **Limitation.** The General Partner's Clawback obligation shall not exceed the cumulative Carried Interest (Tier 3, 4, and 5 GP distributions) received by the General Partner, net of income taxes actually paid by the General Partner on such Carried Interest (computed at the maximum applicable tax rate).
 
 (e) **Security.** The General Partner agrees to maintain adequate reserves or provide such other security as the Manager and the Advisory Committee (if any) may agree to ensure the General Partner's ability to satisfy the Clawback obligation.
 
@@ -702,7 +687,7 @@ Each Member agrees to cooperate fully with the Company, the Manager, and the Par
 
 ### Section 11.7 — State and Local Taxes
 
-(a) The Company intends to be treated as a partnership for Texas franchise tax purposes and shall file any required Texas franchise tax returns.
+(a) The Company shall pay the annual Delaware limited liability company tax and, to the extent the Company is doing business in Texas, shall file any required Texas franchise tax returns. [TO CONFIRM state tax filing footprint with tax counsel.]
 
 (b) Each Member shall be solely responsible for the payment of any income, franchise, or other taxes imposed on such Member by such Member's state (or country) of residence or domicile as a result of the Member's interest in the Company.
 
@@ -772,13 +757,13 @@ The Company shall be dissolved upon the first to occur of the following events:
 
 (b) The sale, exchange, or other disposition of all or substantially all of the Company's assets and the distribution of all net proceeds to the Members in accordance with Article VIII;
 
-(c) The entry of a decree of judicial dissolution under Section 101.487 of the TBOC;
+(c) The entry of a decree of judicial dissolution under 6 Del. C. § 18-802;
 
 (d) The occurrence of any event that makes it unlawful for the Company to continue its business, unless the illegality is cured within ninety (90) days;
 
 (e) The death, withdrawal, resignation, expulsion, bankruptcy, insolvency, or dissolution of the Manager, unless a successor Manager is appointed by Limited Partners holding a Supermajority Interest within ninety (90) days of such event; or
 
-(f) Any other event specified by the TBOC as causing dissolution of a limited liability company, to the extent not superseded by the provisions of this Agreement.
+(f) Any other event specified by the Act as causing dissolution of a limited liability company, to the extent not superseded by the provisions of this Agreement.
 
 ### Section 13.2 — No Dissolution by Withdrawal of Limited Partner
 
@@ -796,7 +781,7 @@ The Company shall not be dissolved by the withdrawal, death, bankruptcy, insolve
 
    (iii) Liquidating remaining assets, including real property, at commercially reasonable prices (the Manager may distribute assets in kind if it determines that in-kind distribution is more advantageous to the Members than a forced sale);
 
-   (iv) Paying or adequately providing for all debts, liabilities, obligations, and expenses of the Company (in order of priority required by the TBOC and applicable law);
+   (iv) Paying or adequately providing for all debts, liabilities, obligations, and expenses of the Company (in order of priority required by the Act and applicable law);
 
    (v) Establishing such reserves as the Manager deems reasonably necessary for contingent, conditional, or unliquidated liabilities or obligations of the Company (such reserves may be held for a period the Manager deems appropriate and shall be distributed to the Members upon release); and
 
@@ -814,9 +799,9 @@ After payment (or adequate provision for payment) of all Company debts, liabilit
 
    (ii) Limited Partners receive their accrued Preferred Return (Tier 2);
 
-   (iii) The GP Catch-Up is satisfied (Tier 3);
+   (iii) Amounts above the Preferred Return are split 90/10 LP/GP (Tier 3);
 
-   (iv) Any remaining amounts are distributed in accordance with the applicable Performance Split tiers (Tiers 4, 5, and 6); and
+   (iv) Any remaining amounts are distributed in accordance with the applicable Performance Split tiers (Tiers 4 and 5); and
 
    (v) The Clawback obligation (Section 8.8) is applied to ensure whole-fund fairness.
 
@@ -834,9 +819,9 @@ Within one hundred twenty (120) days following the final distribution, the Manag
 
 (e) Any Clawback amounts due and paid (or payable).
 
-### Section 13.6 — Certificate of Termination
+### Section 13.6 — Certificate of Cancellation
 
-Upon completion of winding up and distribution of all remaining assets, the Manager shall file a Certificate of Termination with the Texas Secretary of State in accordance with the TBOC, and the Company shall thereupon be terminated.
+Upon completion of winding up and distribution of all remaining assets, the Manager shall file a Certificate of Cancellation with the Delaware Secretary of State in accordance with the Act, and the Company shall thereupon be terminated.
 
 ### Section 13.7 — Survival of Certain Provisions
 
@@ -888,7 +873,7 @@ The Manager may amend this Agreement without the consent of any Limited Partner 
 
 (g) Ensuring that the Company is not treated as a publicly traded partnership under Section 7704 of the Code; or
 
-(h) Ensuring that the Company qualifies and continues to qualify as a limited liability company under the TBOC.
+(h) Ensuring that the Company qualifies and continues to qualify as a limited liability company under the Act.
 
 ### Section 14.4 — Notice of Amendments
 
@@ -900,7 +885,7 @@ The Manager shall provide written notice to all Members of any amendment to this
 
 ### Section 15.1 — Indemnification of Manager and Related Parties
 
-(a) The Company shall, to the fullest extent permitted by the TBOC and applicable law, indemnify and hold harmless the Manager, its members, managers, officers, employees, agents, and affiliates (each, a "Manager Indemnified Party") from and against any and all losses, claims, damages, liabilities, judgments, fines, penalties, costs, and expenses (including reasonable attorneys' fees, court costs, costs of investigation, and amounts paid in settlement) (collectively, "Losses") arising out of, resulting from, or related to any act or omission of such Manager Indemnified Party performed or omitted in connection with the Company's business or affairs, or in such Manager Indemnified Party's capacity as manager, officer, employee, agent, or affiliate of the Company, to the extent that:
+(a) The Company shall, to the fullest extent permitted by the Act and applicable law, indemnify and hold harmless the Manager, its members, managers, officers, employees, agents, and affiliates (each, a "Manager Indemnified Party") from and against any and all losses, claims, damages, liabilities, judgments, fines, penalties, costs, and expenses (including reasonable attorneys' fees, court costs, costs of investigation, and amounts paid in settlement) (collectively, "Losses") arising out of, resulting from, or related to any act or omission of such Manager Indemnified Party performed or omitted in connection with the Company's business or affairs, or in such Manager Indemnified Party's capacity as manager, officer, employee, agent, or affiliate of the Company, to the extent that:
 
    (i) Such act or omission was performed or omitted in good faith;
 
@@ -941,7 +926,7 @@ The Manager may obtain and maintain, at the Company's expense, such insurance po
 
 ### Section 15.5 — Exculpation
 
-To the fullest extent permitted by the TBOC and applicable law, no Member shall be liable, responsible, or accountable in damages or otherwise to the Company or to any other Member for any act performed, or failure to act, within the scope of the authority conferred on such Member by this Agreement, provided that such act or omission was performed or omitted in good faith and without fraud, willful misconduct, or gross negligence.
+To the fullest extent permitted by the Act and applicable law, no Member shall be liable, responsible, or accountable in damages or otherwise to the Company or to any other Member for any act performed, or failure to act, within the scope of the authority conferred on such Member by this Agreement, provided that such act or omission was performed or omitted in good faith and without fraud, willful misconduct, or gross negligence.
 
 ---
 
@@ -953,11 +938,11 @@ This Agreement, together with the Subscription Agreements, the Private Placement
 
 ### Section 16.2 — Governing Law
 
-This Agreement shall be governed by and construed in accordance with the internal laws of the State of Texas (including the TBOC), without giving effect to any choice of law or conflict of law provisions that would cause the application of the laws of any other jurisdiction.
+This Agreement shall be governed by and construed in accordance with the internal laws of the State of Delaware (including the Act), without giving effect to any choice of law or conflict of law provisions that would cause the application of the laws of any other jurisdiction.
 
 ### Section 16.3 — Jurisdiction and Venue
 
-Any action or proceeding arising out of or relating to this Agreement shall be subject to the exclusive jurisdiction of the state and federal courts located in Travis County, Texas. Each Member hereby irrevocably consents to the personal jurisdiction of such courts and waives any objection to the laying of venue of any such action or proceeding in any such court.
+Any action or proceeding arising out of or relating to this Agreement shall be subject to the exclusive jurisdiction of the state and federal courts located in Travis County, Texas. [TO CONFIRM — venue election for a Delaware LLC (including any Delaware Court of Chancery forum provision) to be confirmed by securities counsel.] Each Member hereby irrevocably consents to the personal jurisdiction of such courts and waives any objection to the laying of venue of any such action or proceeding in any such court.
 
 ### Section 16.4 — Waiver of Jury Trial
 
@@ -1035,26 +1020,26 @@ IN WITNESS WHEREOF, the undersigned have executed this Operating Agreement as of
 
 ---
 
-### GENERAL PARTNER:
+### GENERAL PARTNER / MANAGER:
 
-**ABUNDANCIA AUSTIN GP, LLC**
+**NEW EARTH DEVELOPMENT** [TO CONFIRM exact legal name of Manager entity]
 
 | | |
 |---|---|
 | **Signature** | ______________________________________________ |
-| **Name** | Nicholas Courchesne |
-| **Title** | Managing Member |
+| **Name** | Kelly Krezek |
+| **Title** | Chief Executive Officer |
 | **Date** | ______________________________________________ |
 
 ---
 
-**ABUNDANCIA AUSTIN GP, LLC**
+**NEW EARTH DEVELOPMENT** [TO CONFIRM exact legal name of Manager entity]
 
 | | |
 |---|---|
 | **Signature** | ______________________________________________ |
-| **Name** | Jason Sparks |
-| **Title** | Managing Member |
+| **Name** | [TO CONFIRM — additional authorized signatory, if any] |
+| **Title** | ______________________________________________ |
 | **Date** | ______________________________________________ |
 
 ---
@@ -1067,7 +1052,7 @@ Each Limited Partner shall execute a counterpart signature page to this Operatin
 
 **LIMITED PARTNER COUNTERPART SIGNATURE PAGE**
 
-By signing below, the undersigned acknowledges that it has read, understands, and agrees to be bound by the terms and conditions of this Operating Agreement of Abundancia Austin Holdings, LLC, dated as of March 2026.
+By signing below, the undersigned acknowledges that it has read, understands, and agrees to be bound by the terms and conditions of this Operating Agreement of Abundancia Community LLC, dated as of July 2026.
 
 | | |
 |---|---|
@@ -1086,7 +1071,7 @@ By signing below, the undersigned acknowledges that it has read, understands, an
 
 | Member | Type | Capital Contribution | Units | Percentage Interest | Admission Date |
 |---|---|---|---|---|---|
-| Abundancia Austin GP, LLC | General Partner | $[________] | GP Interest | Carried Interest (per Art. VIII) | [________] |
+| New Earth Development [TO CONFIRM exact legal name] | General Partner / Manager | $100,000 (plus $500,000 co-invest within debt + GP layer) | Class B Units | Carried Interest (per Art. VIII) | [________] |
 | [Investor 1] | Class A Limited Partner | $[________] | [________] | [________]% | [________] |
 | [Investor 2] | Class A Limited Partner | $[________] | [________] | [________]% | [________] |
 | [Investor 3] | Class A Limited Partner | $[________] | [________] | [________]% | [________] |
@@ -1099,15 +1084,15 @@ By signing below, the undersigned acknowledges that it has read, understands, an
 
 ## EXHIBIT B — FORM OF CAPITAL CALL NOTICE
 
-**ABUNDANCIA AUSTIN HOLDINGS, LLC**
+**ABUNDANCIA COMMUNITY LLC**
 
 **NOTICE OF CAPITAL CALL**
 
 **Date:** [________]
 
-**To:** All Limited Partners of Abundancia Austin Holdings, LLC
+**To:** All Limited Partners of Abundancia Community LLC
 
-Pursuant to Section 4.2 of the Operating Agreement of Abundancia Austin Holdings, LLC (the "Company"), dated March 2026, the Manager hereby calls for Additional Capital Contributions from the Limited Partners as follows:
+Pursuant to Section 4.2 of the Operating Agreement of Abundancia Community LLC (the "Company"), dated July 2026, the Manager hereby calls for Additional Capital Contributions from the Limited Partners as follows:
 
 | Detail | Information |
 |---|---|
@@ -1120,15 +1105,15 @@ Pursuant to Section 4.2 of the Operating Agreement of Abundancia Austin Holdings
 
 **Consequences of Default:** Failure to fund your pro rata share by the due date specified above may result in one or more of the remedies described in Section 4.3 of the Operating Agreement, including dilution of your Percentage Interest, imposition of default interest at 18% per annum, forfeiture of accrued preferred return, and/or forced sale of your Units.
 
-**Questions:** Please contact the Manager at nicholas@lightbrands.ai or [phone number] with any questions regarding this capital call.
+**Questions:** Please contact the Manager at kelly@newearthdevelopment.org or [phone number] with any questions regarding this capital call.
 
 Sincerely,
 
-**Abundancia Austin GP, LLC**
-Manager of Abundancia Austin Holdings, LLC
+**New Earth Development** [TO CONFIRM exact legal name]
+Manager of Abundancia Community LLC
 
 By: __________________________________________
-Nicholas Courchesne, Managing Member
+Kelly Krezek, Chief Executive Officer
 
 Date: __________________________________________
 
@@ -1136,7 +1121,7 @@ Date: __________________________________________
 
 ## EXHIBIT C — FORM OF DISTRIBUTION NOTICE
 
-**ABUNDANCIA AUSTIN HOLDINGS, LLC**
+**ABUNDANCIA COMMUNITY LLC**
 
 **NOTICE OF DISTRIBUTION**
 
@@ -1154,8 +1139,8 @@ Pursuant to Article VIII of the Operating Agreement, the Manager hereby provides
 | **Your Percentage Interest** | [________]% |
 | **Your Distribution — Tier 1 (Return of Capital)** | $[________] |
 | **Your Distribution — Tier 2 (Preferred Return)** | $[________] |
-| **Your Distribution — Tier 3 (GP Catch-Up, LP portion)** | $[________] |
-| **Your Distribution — Tier 4/5/6 (Performance Split)** | $[________] |
+| **Your Distribution — Tier 3 (Above Preferred Return, LP portion)** | $[________] |
+| **Your Distribution — Tier 4/5 (Performance Split)** | $[________] |
 | **Less: Tax Distribution Advance (if applicable)** | ($[________]) |
 | **Net Distribution This Period** | **$[________]** |
 | | |
@@ -1168,11 +1153,11 @@ Pursuant to Article VIII of the Operating Agreement, the Manager hereby provides
 
 Sincerely,
 
-**Abundancia Austin GP, LLC**
-Manager of Abundancia Austin Holdings, LLC
+**New Earth Development** [TO CONFIRM exact legal name]
+Manager of Abundancia Community LLC
 
 ---
 
-*This Operating Agreement is provided as part of the Abundancia Austin investor data room. Securities offered hereby have not been registered under the Securities Act of 1933 or any state securities laws and may not be resold unless registered or exempt from registration. This document does not constitute an offer to sell or a solicitation of an offer to buy securities in any jurisdiction where such offer or solicitation would be unlawful. Prospective investors should consult their own legal, tax, and financial advisors before making any investment decision.*
+*This Operating Agreement is provided as part of the Abundancia investor data room. Securities offered hereby have not been registered under the Securities Act of 1933 or any state securities laws and may not be resold unless registered or exempt from registration. This document does not constitute an offer to sell or a solicitation of an offer to buy securities in any jurisdiction where such offer or solicitation would be unlawful. Prospective investors should consult their own legal, tax, and financial advisors before making any investment decision.*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC. All rights reserved.*

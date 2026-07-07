@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,14 +9,14 @@
 ---
 
 **Document 16** | Data Room - Legal & Compliance
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
-> *This document contains forward-looking statements within the meaning of federal securities laws. These statements are based on current expectations and assumptions and are subject to risks and uncertainties that could cause actual results to differ materially. Prospective investors should carefully review all risk factors described herein before making an investment decision. This list of risk factors is not exhaustive. Additional risks not presently known or currently deemed immaterial may also adversely affect the investment. An investment in Abundancia Austin Holdings, LLC involves a high degree of risk, including the possible loss of the entire investment.*
+> *This document contains forward-looking statements within the meaning of federal securities laws. These statements are based on current expectations and assumptions and are subject to risks and uncertainties that could cause actual results to differ materially. Prospective investors should carefully review all risk factors described herein before making an investment decision. This list of risk factors is not exhaustive. Additional risks not presently known or currently deemed immaterial may also adversely affect the investment. An investment in Abundancia Community LLC involves a high degree of risk, including the possible loss of the entire investment.*
 
 ---
 
@@ -38,7 +38,7 @@
 
 ### 1.1 Illiquidity of Investment
 
-**Description:** Membership interests in Abundancia Austin Holdings, LLC (the "Company") are illiquid securities that are not registered under the Securities Act of 1933 or any state securities laws. There is no public market for the interests, and none is expected to develop. Investors may not be able to sell, transfer, or otherwise dispose of their interests and should expect to hold their investment for the full duration of the project (estimated 5-10 years).
+**Description:** Membership interests in Abundancia Community LLC (the "Company") are illiquid securities that are not registered under the Securities Act of 1933 or any state securities laws. There is no public market for the interests, and none is expected to develop. Investors may not be able to sell, transfer, or otherwise dispose of their interests and should expect to hold their investment for the full duration of the project (estimated 5-10 years).
 
 **Likelihood:** Certain
 **Potential Impact:** High - Investors must have the financial capacity to bear the risk of an illiquid, long-term investment.
@@ -52,7 +52,7 @@
 
 **Likelihood:** Possible
 **Potential Impact:** Severe - Total loss of invested capital.
-**Mitigation:** Diversified revenue model (residential sales, commercial leases, lot sales, amenity operations). Conservative financial projections with adequate contingency reserves. Experienced development team. Series LLC structure isolates risk by phase.
+**Mitigation:** Diversified revenue model (residential sales, commercial leases, lot sales, amenity operations). Conservative financial projections with adequate contingency reserves. Experienced development team. Phased development plan preserves Phase-1 severability: the modeled Phase-1-only downside scenario still returns positive LP returns if the project never proceeds past Phase 1 (subject to final documentation).
 
 ---
 
@@ -84,7 +84,9 @@
 
 **Likelihood:** Moderate
 **Potential Impact:** High - Reduced sales velocity, lower sale prices, extended project timeline, and diminished returns.
-**Mitigation:** Bastrop County's relative affordability compared to Travis and Williamson Counties positions the project favorably during market softening. Phased development allows pace adjustment in response to market conditions. Hempcrete construction offers a differentiated product that may be less susceptible to commodity market dynamics. Conservative absorption assumptions in the financial model.
+Abundancia's homes are positioned "from approximately $450/SF" — a premium of roughly 2.2x the Bastrop County median of $187/SF (Redfin, May 2026) — which increases the project's sensitivity to softening in the premium segment.
+
+**Mitigation:** Bastrop County's relative affordability compared to Travis and Williamson Counties positions the project favorably during market softening. Wellness real estate ($548B in 2024, projected to reach $1.1T by 2029 per the Global Wellness Institute) commands 10-25% price premiums, and Austin's $1M+ segment recorded approximately $4.6B across 2,700+ sales in 2025, supporting premium positioning. Phased development allows pace adjustment in response to market conditions. Hempcrete construction offers a differentiated product that may be less susceptible to commodity market dynamics. Conservative absorption assumptions in the financial model.
 
 ---
 
@@ -94,7 +96,7 @@
 
 **Likelihood:** Low to Moderate
 **Potential Impact:** High - Reduced demand for lots and homes in Bastrop County.
-**Mitigation:** Austin's economic base is diversified across technology, government, education, healthcare, and defense. Multiple major employers (Tesla, Samsung, Apple, Oracle, Amazon, Meta, the U.S. Army) have made substantial capital investments in the region. Population growth is driven by domestic migration from higher-cost states, a trend with strong structural underpinning. Bastrop County specifically benefits from SH 130 corridor development and east-side expansion dynamics.
+**Mitigation:** Austin's economic base is diversified across technology, government, education, and healthcare. Austin metro population is 2.55M (25th-largest U.S. metro, Census v2024), projected to grow approximately 1.7%/yr through 2060, and Austin ranked #1 in job growth among the top-50 metros in 2025 (+27,200 jobs; BLS/TWC), with unemployment at 3.7%. Major employers have made substantial capital investments in the region and in Bastrop County specifically: Tesla (approximately 16,500 Giga Texas employees plus a filed 5.2M SF "Terafab" expansion), Samsung ($37B Taylor investment), SpaceX Starlink Bastrop (1.1M SF facility, 1,000+ jobs, plus an 11M SF "Gigasat" filing), X headquarters and The Boring Company in Bastrop, and a $1.4B data center at Cedar Creek (FM 535). Population growth is driven by domestic migration from higher-cost states. Bastrop County (~122,500 residents; +2.5%/yr; +64% since 2010) benefits directly from SH-71 corridor development and east-side expansion dynamics.
 
 ---
 
@@ -104,7 +106,7 @@
 
 **Likelihood:** Moderate
 **Potential Impact:** High - Reduced buyer purchasing power, slower absorption, higher development costs.
-**Mitigation:** Abundancia Austin's target price point is positioned in the affordable to mid-market segment, which is less sensitive to rate increases than luxury markets. MUD bond financing (tax-exempt) provides a lower-cost infrastructure financing alternative. The project's phased approach allows capital deployment adjustments in response to rate environments. The financial model stress-tests returns under elevated rate scenarios.
+**Mitigation:** Abundancia's product range spans multiple price points — tiny homes (approximately $104K-$166K), condos (approximately $400/SF), and single-family and estate homes (blended approximately $566/SF) — providing absorption options across rate environments; the premium wellness positioning also reduces reliance on marginal financed buyers. MUD bond financing (tax-exempt) provides a lower-cost infrastructure financing alternative. The project's phased approach allows capital deployment adjustments in response to rate environments. The financial model stress-tests returns under elevated rate scenarios.
 
 ---
 
@@ -114,13 +116,13 @@
 
 **Likelihood:** Low to Moderate
 **Potential Impact:** Severe - Extended project timeline, reduced returns, potential need for additional capital.
-**Mitigation:** Conservative leverage strategy (minimizing project-level debt). Adequate cash reserves for carrying costs during a slowdown. Series LLC structure allows selective pause of individual phases without jeopardizing the entire project. Land value provides baseline collateral.
+**Mitigation:** Measured leverage strategy (Year-1 construction debt of $8,871,286 at approximately 9%, within a $12,673,266 Year-1 capitalization). Adequate cash reserves for carrying costs during a slowdown. The phased development plan allows selective pause of individual phases without jeopardizing the entire project; the modeled Phase-1-only scenario still returns positive LP returns. Land value provides baseline collateral.
 
 ---
 
 ### 2.5 Competition
 
-**Description:** The Bastrop County and eastern Austin corridor is experiencing significant development activity. Multiple master-planned communities are under development or planned, creating competition for homebuyers and lot purchasers. Aggressive pricing or incentives by competitors could pressure Abundancia Austin's pricing and absorption.
+**Description:** The Bastrop County and eastern Austin corridor is experiencing significant development activity. Multiple master-planned communities are under development or planned, creating competition for homebuyers and lot purchasers. Aggressive pricing or incentives by competitors could pressure Abundancia's pricing and absorption.
 
 **Likelihood:** High
 **Potential Impact:** Moderate - Price pressure and slower absorption in early phases.
@@ -136,7 +138,7 @@
 
 **Likelihood:** Moderate to High
 **Potential Impact:** High - Reduced margins, additional capital requirements, delayed timelines.
-**Mitigation:** Competitive bidding for all major contracts. Fixed-price contracts where feasible. 10-15% contingency built into all construction budgets. Experienced construction management team with cost control protocols. Value engineering during design phase. Regular budget-to-actual reporting with variance analysis.
+**Mitigation:** Competitive bidding for all major contracts. Fixed-price contracts where feasible. A 10% contingency (approximately $28.6M across the 10-year financial model) is built into construction budgets. Experienced construction management team with cost control protocols. Value engineering during design phase. Regular budget-to-actual reporting with variance analysis.
 
 ---
 
@@ -186,7 +188,7 @@
 
 **Likelihood:** Low to Moderate
 **Potential Impact:** Moderate to High - Remediation costs, legal expenses, reputational damage.
-**Mitigation:** Rigorous quality control and inspection protocols during construction. Third-party testing and certification of hempcrete components. Builder's risk and construction defect insurance coverage. Compliance with all applicable building codes (IRC/IBC). Engagement of hempcrete construction consultants with international track records. Series LLC structure isolates construction defect liability by phase.
+**Mitigation:** Rigorous quality control and inspection protocols during construction. Third-party testing and certification of hempcrete components. Builder's risk and construction defect insurance coverage. Compliance with all applicable building codes (IRC/IBC). Engagement of hempcrete construction consultants with international track records. Phased delivery limits concentrated defect exposure.
 
 ---
 
@@ -208,7 +210,7 @@
 
 **Likelihood:** Moderate (episodic but significant historical precedent)
 **Potential Impact:** Severe - Property destruction, insurance claims, construction delays, reputational damage, potential loss of life.
-**Mitigation:** Firewise community design standards (defensible space, fire-resistant landscaping, ember-resistant venting). Hempcrete construction is inherently fire-resistant (4+ hour fire rating, non-combustible). Community-wide fuel management plan. Dedicated water supply for firefighting. Coordination with Bastrop County Emergency Services District. Comprehensive wildfire insurance coverage. Community education and evacuation planning. Compliance with Texas Wildland-Urban Interface Code requirements.
+**Mitigation:** Firewise community design standards (defensible space, fire-resistant landscaping, ember-resistant venting). Hempcrete construction is inherently fire-resistant (2+ hour fire-resistance rating). Community-wide fuel management plan. Dedicated water supply for firefighting. Coordination with Bastrop County Emergency Services District. Comprehensive wildfire insurance coverage. Community education and evacuation planning. Compliance with Texas Wildland-Urban Interface Code requirements.
 
 ---
 
@@ -218,7 +220,7 @@
 
 **Likelihood:** High (Central Texas experiences drought cycles regularly)
 **Potential Impact:** Moderate to High - Water supply constraints, increased costs, landscape damage, wildfire risk.
-**Mitigation:** Water-efficient community design (native and adaptive landscaping, drip irrigation, rainwater harvesting). Redundant water supply sources. Water conservation covenants and community guidelines. Drought-tolerant plant palettes. Gray water recycling systems. Community water storage and management infrastructure.
+**Mitigation:** Layered water supply strategy: Aqua Water Supply Corporation service; 7 existing water-retention ponds (with more to be created); 6 wells with 13 storage tanks and filtration; rainwater capture on every building (approximately 9-11 million gallons per year at build-out); and 11 atmospheric water generators for drinking water. Demand side: low-flow fixtures and greywater recycling reduce demand below typical development levels. A full watershed analysis by Symbiosis TX will be commissioned immediately upon entering due diligence — hydrology and water feasibility are the first predevelopment expenditures. Water-efficient community design (native and adaptive landscaping, drip irrigation), water conservation covenants and community guidelines, and drought-tolerant plant palettes.
 
 ---
 
@@ -256,11 +258,11 @@
 
 ### 5.1 Capital Availability
 
-**Description:** The project requires a total capital raise of $12.5 million. There is no guarantee that the full amount will be raised within the anticipated timeline. Insufficient capital could delay development, require unfavorable financing terms, or force modification of the development plan.
+**Description:** The project requires a Year-1 capitalization of $12,673,266 — approximately $5.1 million of Class A (LP) equity, $100,000 of GP capital, and $8,871,286 of construction debt. There is no guarantee that the full amount will be raised within the anticipated timeline. Insufficient capital could delay development, require unfavorable financing terms, or force modification of the development plan.
 
 **Likelihood:** Moderate
 **Potential Impact:** High - Delayed development, modified scope, reduced returns.
-**Mitigation:** Phased capital deployment aligned with phased development. Series LLC structure allows individual series to proceed independently. Relationship-based fundraising with targeted accredited investor network. Flexible development plan that can be scaled to match available capital. Bridge financing available for short-term capital gaps.
+**Mitigation:** Phased capital deployment aligned with phased development. Relationship-based fundraising with a targeted accredited investor network and demonstrated traction (a 10,000-person interest list and 100+ investors/buyers/collaborators built with zero paid marketing). Flexible development plan that can be scaled to match available capital. Bridge financing available for short-term capital gaps.
 
 ---
 
@@ -270,7 +272,7 @@
 
 **Likelihood:** Moderate
 **Potential Impact:** High - Suspension of distributions, capital calls, forced asset sales.
-**Mitigation:** Conservative cash flow projections with adequate operating reserves. Minimum 12-month operating reserve maintained at all times. Phased capital calls aligned with development milestones. MUD bond reimbursement provides significant capital recycling. Quarterly cash flow reporting to LPs.
+**Mitigation:** Conservative cash flow projections with adequate operating reserves, including a 10% distribution reserve withheld from positive cash flows for working capital (subject to final documentation) and a 10% construction contingency in the financial model. Phased capital calls aligned with development milestones. MUD bond reimbursement provides significant capital recycling. Quarterly cash flow reporting to LPs.
 
 ---
 
@@ -280,7 +282,7 @@
 
 **Likelihood:** Not applicable (inherent structural risk)
 **Potential Impact:** High - Total portfolio exposure to a single asset.
-**Mitigation:** Series LLC structure provides internal diversification across development phases. Multiple revenue streams (lot sales, home sales, commercial, amenities). Investors are advised to treat this investment as one component of a diversified portfolio. Conservative underwriting and stress testing across multiple adverse scenarios.
+**Mitigation:** Phased development with Phase-1 severability — the modeled Phase-1-only downside scenario still returns positive LP returns (subject to final documentation). Multiple revenue streams (residential sales, lot sales, rentals/hospitality, commercial). Investors are advised to treat this investment as one component of a diversified portfolio. Conservative underwriting and stress testing across multiple adverse scenarios.
 
 ---
 
@@ -290,7 +292,7 @@
 
 **Likelihood:** Low to Moderate
 **Potential Impact:** Severe - Foreclosure, loss of investor capital.
-**Mitigation:** Conservative leverage policy. Maximum loan-to-value ratio of 65% on any series. Debt service coverage requirements maintained at all times. No recourse debt against investor capital beyond the applicable series. MUD bond debt is not project-level leverage (it is district-level tax-supported debt borne by future property owners, not investors).
+**Mitigation:** Measured leverage: the Year-1 plan includes $8,871,286 of construction debt at approximately 9% (approximately $1.35M/yr debt service) within a $12,673,266 Year-1 capitalization. Leverage limits per the Operating Agreement [TO CONFIRM]. Debt service coverage requirements maintained at all times. Recourse provisions per final loan documents [TO CONFIRM]. MUD bond debt is not project-level leverage (it is district-level tax-supported debt borne by future property owners, not investors).
 
 ---
 
@@ -328,11 +330,11 @@
 
 ### 6.2 State Regulatory Risk
 
-**Description:** Changes to Texas state law, including the Texas Water Code (affecting MUDs), Texas Property Tax Code, Texas Business Organizations Code (affecting Series LLCs), or Texas environmental regulations could affect the project's legal structure, tax treatment, or regulatory compliance requirements.
+**Description:** Changes to Texas state law, including the Texas Water Code (affecting MUDs), Texas Property Tax Code, or Texas environmental regulations — or to the Delaware Limited Liability Company Act (the Company's law of organization) — could affect the project's legal structure, tax treatment, or regulatory compliance requirements.
 
 **Likelihood:** Low
 **Potential Impact:** Moderate to High - Structural changes requiring reorganization or additional compliance.
-**Mitigation:** Texas has a historically stable and development-friendly regulatory environment. Strong legislative support for MUDs and real estate development. Engagement of experienced state regulatory counsel. Series LLC structure has been established in Texas law since 2009 with growing adoption.
+**Mitigation:** Texas has a historically stable and development-friendly regulatory environment. Strong legislative support for MUDs and real estate development. Engagement of experienced state regulatory counsel. The Company is a single Delaware manager-managed LLC — a well-settled structure under the Delaware Limited Liability Company Act.
 
 ---
 
@@ -368,7 +370,7 @@ Engagement of USFWS-approved biological consultants. Staff training on ESA compl
 
 **Likelihood:** Moderate
 **Potential Impact:** Moderate - Permitting delays, additional testing and certification costs, potential design modifications.
-**Mitigation:** Engagement of code consultants with hempcrete experience. Pre-application meetings with Bastrop County building officials. Third-party testing and certification of hempcrete assemblies per ASTM standards. Reference to international building codes and standards (European, Canadian, Australian) where hempcrete is established. Advocacy for ICC Evaluation Service reports (ESR) for hempcrete assemblies. Appendix U (Cob Construction) of the 2024 IRC provides a precedent for alternative natural building materials.
+**Mitigation:** Engagement of code consultants with hempcrete experience. Pre-application meetings with Bastrop County building officials. Third-party testing and certification of hempcrete assemblies per ASTM standards. Reference to international building codes and standards (European, Canadian, Australian) where hempcrete is established. Advocacy for ICC Evaluation Service reports (ESR) for hempcrete assemblies. Appendix U (Cob Construction) of the 2024 IRC provides a precedent for alternative natural building materials. The City of Austin adopted hemp-lime (hempcrete) construction in July 2025, and Bastrop County operates under an IRC-based framework, materially improving the local permitting pathway.
 
 ---
 
@@ -380,13 +382,13 @@ Engagement of USFWS-approved biological consultants. Staff training on ESA compl
 
 **Likelihood:** Low to Moderate
 **Potential Impact:** Moderate - Reduced property values, homeowner dissatisfaction, reputational harm.
-**Mitigation:** Professional property management through Abundancia Austin Manager, LLC (affiliated entity) or a qualified third-party manager. Comprehensive community management plan. Clear community standards and enforcement procedures. Adequate operations and maintenance budget funded through HOA assessments and MUD O&M taxes.
+**Mitigation:** Professional property management through a qualified manager engaged by the Manager (New Earth Development leadership) or a qualified third-party management firm. Comprehensive community management plan. Clear community standards and enforcement procedures. Adequate operations and maintenance budget funded through HOA assessments and MUD O&M taxes.
 
 ---
 
 ### 7.2 Community Governance / HOA
 
-**Description:** The Abundancia Austin community will be governed by a homeowners association (HOA) with covenants, conditions, and restrictions (CC&Rs). HOA governance transitions from developer control to homeowner control over time. Disagreements among homeowners, inadequate HOA funding, or dysfunctional governance could adversely affect the community.
+**Description:** The Abundancia community will be governed by a homeowners association (HOA) with covenants, conditions, and restrictions (CC&Rs). HOA governance transitions from developer control to homeowner control over time. Disagreements among homeowners, inadequate HOA funding, or dysfunctional governance could adversely affect the community.
 
 **Likelihood:** Moderate
 **Potential Impact:** Moderate - Community conflicts, deferred maintenance, property value impacts.
@@ -442,7 +444,7 @@ Engagement of USFWS-approved biological consultants. Staff training on ESA compl
 
 **Likelihood:** Low to Moderate
 **Potential Impact:** Moderate - Water supply disruption, regulatory non-compliance, increased costs.
-**Mitigation:** Conventional water supply (MUD-provided) as primary source, with alternative water systems as supplemental. Systems designed and installed by qualified professionals. Regular maintenance schedules. Compliance with TCEQ regulations for alternative water systems. Adequate reserves for system maintenance and replacement.
+**Mitigation:** Layered water supply: Aqua Water Supply Corporation service, complemented by on-site systems (7 existing ponds with more to be created; 6 wells with 13 storage tanks and filtration; rainwater capture on every building; 11 atmospheric water generators), with MUD-financed infrastructure supporting distribution. Systems designed and installed by qualified professionals. Regular maintenance schedules. Compliance with TCEQ regulations for alternative water systems. Adequate reserves for system maintenance and replacement.
 
 ---
 
@@ -537,7 +539,7 @@ The following matrix summarizes all risk factors by category, likelihood, and po
 
 **Overall Project Risk Profile:** Moderate-High
 
-The Abundancia Austin development presents a risk profile consistent with ground-up real estate development in a high-growth market. The project's primary risk differentiators relative to conventional developments are:
+The Abundancia development presents a risk profile consistent with ground-up real estate development in a high-growth market. The project's primary risk differentiators relative to conventional developments are:
 
 **Elevated Risks:**
 - Hempcrete supply chain and market adoption (novel construction material in U.S. market)
@@ -546,7 +548,7 @@ The Abundancia Austin development presents a risk profile consistent with ground
 
 **Reduced Risks:**
 - Zoning and entitlement (build by right in unincorporated Bastrop County)
-- Fire resistance (hempcrete's inherent 4+ hour fire rating)
+- Fire resistance (hempcrete's inherent 2+ hour fire-resistance rating)
 - MUD financing availability (well-established in Texas)
 - Market differentiation (limited direct competition for sustainable/hempcrete community)
 
@@ -554,10 +556,10 @@ The Abundancia Austin development presents a risk profile consistent with ground
 
 ---
 
-*IMPORTANT: This risk disclosure document is provided for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy securities. Any such offer may only be made pursuant to the Confidential Private Placement Memorandum and related subscription documents. Securities are offered exclusively to accredited investors under Regulation D, Rule 506(c).*
+*IMPORTANT: This risk disclosure document is provided for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy securities. Any such offer may only be made pursuant to the Confidential Private Placement Memorandum and related subscription documents. Securities are expected to be offered exclusively to accredited investors under Regulation D, Rule 506(c), subject to final structuring and review by securities counsel.*
 
 *The risk factors described herein are not exhaustive. Additional risks and uncertainties not presently known to the Company or currently deemed immaterial could materially and adversely affect the Company's business, financial condition, or results. Past performance of the General Partner or its affiliates is not indicative of future results.*
 
-*Prospective investors should consult their own legal, tax, and financial advisors before making an investment decision. An investment in Abundancia Austin Holdings, LLC is suitable only for accredited investors who can bear the risk of loss of their entire investment.*
+*Prospective investors should consult their own legal, tax, and financial advisors before making an investment decision. An investment in Abundancia Community LLC is suitable only for accredited investors who can bear the risk of loss of their entire investment.*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC. All rights reserved.*

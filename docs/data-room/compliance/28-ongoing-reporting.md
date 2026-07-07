@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,10 +9,10 @@
 ---
 
 **Document 28** | Data Room - Compliance
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
@@ -46,19 +46,19 @@
 
 ### 1.1 Purpose
 
-This Ongoing Reporting Framework establishes the comprehensive reporting obligations, communication protocols, and disclosure commitments of Abundancia Austin LLC (the "Company") to its membership interest unit holders (the "Investors" or "Members"). This framework is designed to ensure transparency, regulatory compliance, and timely dissemination of material information throughout the life of the investment.
+This Ongoing Reporting Framework establishes the comprehensive reporting obligations, communication protocols, and disclosure commitments of Abundancia Community LLC (the "Company") to its membership interest unit holders (the "Investors" or "Members"). This framework is designed to ensure transparency, regulatory compliance, and timely dissemination of material information throughout the life of the investment.
 
 ### 1.2 Offering Context
 
 | Parameter | Detail |
 |-----------|--------|
-| Issuer | Abundancia Austin LLC (Texas LLC) |
-| Managing Member | Light Brands Consulting LLC |
-| Manager | Nicholas Lawless |
-| Securities | Membership Interest Units (250 Units at $50,000 each) |
-| Total Raise | $12,500,000.00 |
-| Regulation | Regulation D, Rule 506(c) |
-| Project | Regenerative luxury community, 120 acres, Bastrop County, Texas |
+| Issuer | Abundancia Community LLC (Delaware LLC, manager-managed) |
+| Manager | New Earth Development ([Manager legal entity name — TO CONFIRM]) |
+| Manager CEO | Kelly Krezek |
+| Securities | Class A Membership Interest Units [Unit count and per-Unit price TO CONFIRM] |
+| Total Raise | Approximately $5,100,000 Class A/LP equity [TO CONFIRM]; total Year-1 capitalization $12,673,266 (≈$5.1M LP equity + $100K GP + $8,871,286 construction debt) |
+| Regulation | Regulation D, Rule 506(c) (subject to final structuring and securities counsel review) |
+| Project | Regenerative community, 376 acres, Cedar Creek, Bastrop County, Texas |
 
 ### 1.3 Reporting Commitments
 
@@ -77,7 +77,7 @@ The Company commits to the following reporting standards:
 
 This reporting framework is established pursuant to and consistent with:
 
-1. The Amended and Restated Operating Agreement of Abundancia Austin LLC (the "Operating Agreement")
+1. The Amended and Restated Operating Agreement of Abundancia Community LLC (the "Operating Agreement")
 2. The Confidential Private Placement Memorandum (the "PPM")
 3. Regulation D, Rule 506(c) under the Securities Act of 1933
 4. Internal Revenue Code and Treasury Regulations governing partnership tax reporting
@@ -91,7 +91,7 @@ The following individual is designated as the Company's primary reporting office
 
 | Role | Name | Contact |
 |------|------|---------|
-| Manager / Reporting Officer | Nicholas Lawless | [Email] |
+| Manager / Reporting Officer | Kelly Krezek (Chief Executive Officer, New Earth Development — Manager) | kelly@newearthdevelopment.org |
 | Tax Reporting (Third Party) | [CPA Firm Name] | [Contact] |
 | Financial Reporting (Third Party) | [Accounting Firm Name] | [Contact] |
 
@@ -153,6 +153,8 @@ Each Quarterly Report shall contain the following sections:
 | Equity Multiple | Projected total return multiple on invested capital |
 | Net Asset Value (NAV) | Estimated NAV per Unit based on current project valuation |
 | Distribution History | Cumulative distributions per Unit to date |
+
+*Suggested addition (July 2026 review): baseline published projections against which actuals will be compared — 10-year LP IRR 33.5%, equity multiple 3.58x, ROI 258%; 5-year LP IRR 31.6%, equity multiple 3.06x, ROI 206% (per the Company's financial model Simple Pro Forma; subject to final documentation).*
 
 **Section E: Risk and Compliance**
 
@@ -232,7 +234,7 @@ The Company shall engage an independent certified public accounting firm (the "I
 1. Be licensed in the State of Texas
 2. Maintain professional liability insurance
 3. Have experience with real estate development entities and partnership tax reporting
-4. Be independent of the Company, the Managing Member, and the Manager
+4. Be independent of the Company and the Manager
 
 ### 3.7 Annual Manager's Letter
 
@@ -376,10 +378,10 @@ A "Material Event" is any event, occurrence, or development that a reasonable in
 
 | Event | Description |
 |-------|-------------|
-| Change in Managing Member | Replacement, removal, or change in Light Brands Consulting LLC as Managing Member |
-| Change in Manager | Replacement or removal of Nicholas Lawless as Manager |
+| Change in Manager | Replacement, removal, or change in New Earth Development ([Manager legal entity name — TO CONFIRM]) (New Earth Development) as Manager |
+| Change in key personnel of the Manager | Replacement or removal of Kelly Krezek as Chief Executive Officer of the Manager |
 | Amendment to Operating Agreement | Any proposed amendment to the Operating Agreement |
-| Related party transaction | Any transaction between the Company and the Manager, Managing Member, or their affiliates exceeding $50,000 |
+| Related party transaction | Any transaction between the Company and the Manager or its affiliates exceeding $50,000 |
 | Transfer of interest | Any transfer, assignment, or encumbrance of a Member's interest exceeding 10% of total Units |
 | Dissolution or winding up | Determination to dissolve, wind up, or liquidate the Company |
 
@@ -584,7 +586,8 @@ The Company is subject to various federal, state, and local filing requirements.
 |--------|-----------|----------|-----------|
 | Texas Franchise Tax Return (Form 05-102) | Texas Comptroller | May 15 | Annually |
 | Texas Annual Public Information Report | Texas Comptroller | May 15 | Annually |
-| Texas Registered Agent Annual Statement | Texas Secretary of State | As required | Annually |
+| Delaware annual LLC tax and registered agent maintenance (Delaware Registered Agent Service LLC) | Delaware Secretary of State | [TO CONFIRM] | Annually |
+| Texas foreign entity registration maintenance | Texas Secretary of State | As required | As required |
 | State partnership returns (non-Texas states) | Respective state agencies | Varies by state | Annually (as required) |
 | State notice filing renewals (Blue Sky) | State securities regulators | Anniversary of initial filing | Annually |
 
@@ -794,16 +797,16 @@ During active construction, the Company shall distribute a monthly construction 
 
 | Category | Budget Amount | Purpose |
 |----------|-------------|---------|
-| Land Acquisition | $[________] | Purchase of 120 acres, Bastrop County |
+| Land Acquisition | $[________] | Acquisition of the 376-acre property, Cedar Creek, Bastrop County (modeled scenario: $6.5M price, 20% down, ~5% closing, 8% land loan — subject to final terms) |
 | Site Development | $[________] | Grading, utilities, roads, infrastructure |
 | Architecture and Engineering | $[________] | Design, engineering, permitting |
 | Construction (Hard Costs) | $[________] | Building construction, materials, labor |
 | Landscaping and Regenerative Systems | $[________] | Permaculture, food forests, water systems |
 | Furniture, Fixtures, and Equipment | $[________] | Interior furnishings and common area equipment |
 | Soft Costs | $[________] | Legal, accounting, insurance, marketing |
-| Contingency | $[________] | Contingency reserve (typically 5-10%) |
+| Contingency | $[________] | Contingency reserve (10% per the financial model) |
 | Working Capital Reserve | $[________] | Pre-opening and initial operating reserve |
-| **Total Project Budget** | **$12,500,000** | |
+| **Total Project Budget** | **$12,673,266 (Year-1 capitalization)** | Total 10-year project cost including financing: $268,747,911 |
 
 ### 11.4 Variance Reporting Thresholds
 
@@ -862,7 +865,7 @@ The Company shall maintain a risk register identifying and assessing key project
 
 ### 13.1 Overview
 
-As a regenerative luxury community, the Abundancia Austin project is committed to environmental stewardship and sustainability. The Company shall report on environmental performance as part of its ongoing investor communications.
+As a regenerative community, the Abundancia project is committed to environmental stewardship and sustainability. The Company shall report on environmental performance as part of its ongoing investor communications.
 
 ### 13.2 Environmental Metrics
 
@@ -918,9 +921,9 @@ Each Annual Report shall include:
 | Disclosure | Content |
 |------------|---------|
 | Management Structure | Current organizational chart; identification of key personnel |
-| Managing Member Activities | Summary of material decisions made by the Managing Member during the year |
-| Related-Party Transactions | Detailed disclosure of all transactions between the Company and the Manager, Managing Member, or their affiliates, including terms, amounts, and rationale |
-| Compensation | Summary of all management fees, development fees, and other compensation paid to the Manager, Managing Member, or affiliates |
+| Manager Activities | Summary of material decisions made by the Manager during the year |
+| Related-Party Transactions | Detailed disclosure of all transactions between the Company and the Manager or its affiliates, including terms, amounts, and rationale |
+| Compensation | Summary of all management fees, development fees, and other compensation paid to the Manager, Manager, or affiliates |
 | Conflicts of Interest | Disclosure of any actual or potential conflicts of interest and how they were managed |
 | Operating Agreement Compliance | Confirmation of compliance with material provisions of the Operating Agreement |
 | Member Voting Record | Summary of any matters submitted to Member vote and the results |
@@ -1006,7 +1009,7 @@ Members are encouraged to provide feedback on the Company's reporting practices.
 
 ## Confidentiality Notice
 
-This document is confidential and proprietary to Abundancia Austin LLC. It has been prepared solely for use by verified accredited investors and their professional advisors in evaluating a potential investment in the Company. This document may not be reproduced, distributed, or disclosed to any third party without the prior written consent of the Company. The information contained herein is subject to change without notice and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful.
+This document is confidential and proprietary to Abundancia Community LLC. It has been prepared solely for use by verified accredited investors and their professional advisors in evaluating a potential investment in the Company. This document may not be reproduced, distributed, or disclosed to any third party without the prior written consent of the Company. The information contained herein is subject to change without notice and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful.
 
 Recipients should consult their own legal, tax, and financial advisors regarding the suitability and legal implications of any investment.
 
@@ -1014,6 +1017,6 @@ By accepting this document, the recipient agrees to be bound by the confidential
 
 ---
 
-*Document 28 of the Abundancia Austin Investor Data Room*
-*Prepared March 2026*
-*Version 1.0*
+*Document 28 of the Abundancia Investor Data Room*
+*Prepared July 2026*
+*Version 2.0*
