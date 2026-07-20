@@ -394,6 +394,33 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* ═══ VIDEO — Vision film ═══ */}
+      <section className="bg-white py-20 md:py-28">
+        <div className="section-container">
+          <FadeIn>
+            <div className="mb-10 md:mb-14 text-center max-w-3xl mx-auto">
+              <span className="eyebrow mb-6 block">Watch</span>
+              <h2 className="font-display text-3xl md:text-4xl text-neutral-900">
+                A Vision for Regenerative Living
+              </h2>
+            </div>
+            <div className="max-w-4xl mx-auto">
+              <div className="relative w-full aspect-video overflow-hidden rounded-2xl shadow-xl bg-black">
+                <iframe
+                  className="absolute inset-0 h-full w-full"
+                  src="https://www.youtube-nocookie.com/embed/TVUPu_EjBI0"
+                  title="Abundancia — A Vision for Regenerative Living"
+                  loading="lazy"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  referrerPolicy="strict-origin-when-cross-origin"
+                  allowFullScreen
+                />
+              </div>
+            </div>
+          </FadeIn>
+        </div>
+      </section>
+
       {/* ═══ IMAGINE A COMMUNITY WHERE... — Editorial grid ═══ */}
       <section className="py-28 md:py-40 bg-[#fafaf8]">
         <div className="section-container">
