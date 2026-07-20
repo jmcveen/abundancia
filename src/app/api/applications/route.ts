@@ -11,7 +11,7 @@ import { isValidEmail } from '@/lib/utils'
 //
 // On every submission:
 //  1. Appends a row to the matching Google Sheet (Drive > Abundancia > Marketing > Forms)
-//  2. Sends internal notification to kelly@ and info@ with all details
+//  2. Sends internal notification to kelly@newearthdevelopment.org with all details
 //  3. Sends a warm receipt email to the applicant
 // ═══════════════════════════════════════════════════════════════════════════
 
@@ -200,7 +200,7 @@ async function sendInternalNotification(app: Application) {
     }).join('')
 
   await postmark({
-    To: 'kelly@newearthdevelopment.org, info@newearthdevelopment.org',
+    To: 'kelly@newearthdevelopment.org',
     Subject: `🌿 New ${typeLabel[app.type]} Application: ${app.firstName} ${app.lastName}`,
     HtmlBody: `
       <div style="font-family:system-ui,sans-serif;max-width:600px;margin:0 auto;padding:24px">
