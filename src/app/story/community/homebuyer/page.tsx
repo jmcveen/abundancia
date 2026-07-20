@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import { FadeIn } from '@/components/animation'
+import { isValidEmail } from '@/lib/utils'
 import { CheckCircle2, Home } from 'lucide-react'
 
 const inputCls = 'w-full px-4 py-3 border border-neutral-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent text-sm text-neutral-800'
@@ -99,6 +100,12 @@ export default function ResidentApplyPage() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setError(null)
+
+    if (!isValidEmail(email)) {
+      setError('Please enter a valid email address.')
+      return
+    }
+
     setIsSubmitting(true)
     try {
       const res = await fetch('/api/applications', {

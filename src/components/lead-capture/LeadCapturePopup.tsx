@@ -5,6 +5,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import Link from 'next/link'
 import { X, Leaf, Sprout, Home, TrendingUp, Handshake, ArrowRight } from 'lucide-react'
 import { useLeadPopup } from '@/hooks/useLeadPopup'
+import { isValidEmail } from '@/lib/utils'
 
 // ═══════════════════════════════════════════════════════════════════════════
 // Interest Options
@@ -96,6 +97,12 @@ export function LeadCapturePopup() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setError(null)
+
+    if (!isValidEmail(email)) {
+      setError('Please enter a valid email address.')
+      return
+    }
+
     setIsSubmitting(true)
 
     try {
