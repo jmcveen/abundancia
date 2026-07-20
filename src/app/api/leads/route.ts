@@ -1,14 +1,64 @@
 import { NextResponse } from 'next/server'
+import { isValidEmail } from '@/lib/utils'
 
 // ═══════════════════════════════════════════════════════════════════════════
-// Lead Capture API — Interim Solution
+// Lead Capture API
 //
-// Stores leads in-memory (survives within a single serverless instance)
-// AND sends an email notification via Postmark for every lead.
-// The email is the real safety net — no lead is ever lost.
-//
-// TODO: Replace in-memory store with Supabase when project is set up.
+// On every pop-up submission:
+//   1. Appends a row to the "Abundancia — Pop-Up Leads" Google Sheet
+//      (Drive > Marketing - Abundancia > Forms)
+//   2. Sends an internal notification to kelly@ + info@
+//   3. Sends the applicant their application links
+//   4. Keeps an in-memory copy as a safety net within the instance
 // ═══════════════════════════════════════════════════════════════════════════
+
+const LEADS_SHEET_ID = process.env.LEADS_SHEET_ID || '1uEpihMIbkIW84rz2ZKeGJBuW5XLprGCoxu2b_4SevRw'
+
+// ─── Google auth + Sheets append ─────────────────────────────────────────────
+let _accessToken = ''
+let _tokenExpiry = 0
+async function getAccessToken(): Promise<string> {
+  if (_accessToken && Date.now() < _tokenExpiry - 30_000) return _accessToken
+  const res = await fetch('https://oauth2.googleapis.com/token', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: new URLSearchParams({
+      client_id:     process.env.GOOGLE_CLIENT_ID     || '',
+      client_secret: process.env.GOOGLE_CLIENT_SECRET || '',
+      refresh_token: process.env.GOOGLE_REFRESH_TOKEN || '',
+      grant_type:    'refresh_token',
+    }),
+  })
+  const json = await res.json()
+  _accessToken = json.access_token
+  _tokenExpiry = Date.now() + (json.expires_in || 3600) * 1000
+  return _accessToken
+}
+
+async function appendLeadToSheet(lead: Lead) {
+  if (!LEADS_SHEET_ID) { console.warn('No LEADS_SHEET_ID configured'); return }
+  const token = await getAccessToken()
+  const ts = new Date(lead.capturedAt).toLocaleString('en-US', { timeZone: 'America/Chicago' })
+  const row = [
+    lead.firstName,
+    lead.email,
+    (lead.interests || []).join(', '),
+    lead.source,
+    `${ts} CT`,
+    lead.id,
+    'New',
+    '',
+  ]
+  const res = await fetch(
+    `https://sheets.googleapis.com/v4/spreadsheets/${LEADS_SHEET_ID}/values/Sheet1!A1:append?valueInputOption=USER_ENTERED&insertDataOption=INSERT_ROWS`,
+    {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ values: [row] }),
+    }
+  )
+  if (!res.ok) console.error('Leads sheet append error:', await res.text())
+}
 
 interface Lead {
   id: string
@@ -36,7 +86,7 @@ export async function POST(request: Request) {
       )
     }
 
-    if (!email || typeof email !== 'string' || !email.includes('@')) {
+    if (!isValidEmail(email)) {
       return NextResponse.json(
         { error: 'A valid email address is required' },
         { status: 400 },
@@ -53,8 +103,15 @@ export async function POST(request: Request) {
       createdAt: new Date().toISOString(),
     }
 
-    // Store in-memory (interim)
+    // Store in-memory (safety net within the instance)
     leads.push(lead)
+
+    // Append to the Pop-Up Leads sheet (best-effort — never block the response)
+    try {
+      await appendLeadToSheet(lead)
+    } catch (sheetErr) {
+      console.error('Lead sheet append failed:', sheetErr)
+    }
 
     // Send emails (best-effort — never block the response)
     try {

@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import { FadeIn } from '@/components/animation'
+import { isValidEmail } from '@/lib/utils'
 import { INVESTMENT_DISCLAIMER } from '@/lib/data/financials'
 import { CheckCircle2, TrendingUp } from 'lucide-react'
 
@@ -94,6 +95,12 @@ export default function InvestorApplyPage() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
     setError(null)
+
+    if (!isValidEmail(email)) {
+      setError('Please enter a valid email address.')
+      return
+    }
+
     setIsSubmitting(true)
     try {
       const res = await fetch('/api/applications', {
