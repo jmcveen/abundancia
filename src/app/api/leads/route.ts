@@ -7,7 +7,7 @@ import { isValidEmail } from '@/lib/utils'
 // On every pop-up submission:
 //   1. Appends a row to the "Abundancia — Pop-Up Leads" Google Sheet
 //      (Drive > Marketing - Abundancia > Forms)
-//   2. Sends an internal notification to kelly@ + info@
+//   2. Sends an internal notification to kelly@newearthdevelopment.org
 //   3. Sends the applicant their application links
 //   4. Keeps an in-memory copy as a safety net within the instance
 // ═══════════════════════════════════════════════════════════════════════════
@@ -260,7 +260,7 @@ async function sendLeadNotification(lead: Lead) {
     },
     body: JSON.stringify({
       From: process.env.POSTMARK_FROM_EMAIL || 'leads@abundancia.life',
-      To: process.env.LEADS_NOTIFICATION_EMAIL || 'kelly@newearthdevelopment.org, info@newearthdevelopment.org',
+      To: 'kelly@newearthdevelopment.org',
       Subject: `🌿 New Abundancia Lead: ${lead.firstName}`,
       HtmlBody: `
         <div style="font-family: 'Source Sans 3', system-ui, sans-serif; max-width: 500px; margin: 0 auto; padding: 24px;">
