@@ -71,7 +71,7 @@ The following is a summary of the material terms of the offering. This summary i
 | **Phase 1 Total Capitalization** | $13,354,032 (approximately $5,154,032 Class A LP equity + $500,000 GP co-investment equity + $7,700,000 Phase 1 construction debt) |
 | **Phase 1 Debt** | $7,700,000 at 8.5%, 10-year fully amortizing; annual debt service $1,173,539 |
 | **Total Offering Amount (Class A LP Equity)** | Approximately $5,154,032 |
-| **Minimum Offering Amount** | [TO CONFIRM] |
+| **Minimum Offering Amount** | $50,000 (one Unit) [subject to review by securities counsel] |
 | **Unit Price** | $50,000 per Unit |
 | **Minimum Investment** | $50,000 (1 Unit) |
 | **Maximum Number of Units** | Approximately 103 Units at $50,000 per Unit |
@@ -151,7 +151,7 @@ The offering will commence in July 2026 and continue until the earlier of: (i) t
 
 ### 2.4 Minimum Offering Amount
 
-The Company has established a minimum offering amount of $[TO CONFIRM]. No investor funds will be deployed, and no land acquisition will proceed, until the minimum offering amount has been achieved. Investor funds will be held in an escrow account maintained by an independent escrow agent until the minimum offering amount is reached.
+The Company has established a minimum offering amount of $50,000 (one Unit) [subject to review by securities counsel]. No investor funds will be deployed until the minimum offering amount has been achieved. Investor funds will be held in an escrow account maintained by an independent escrow agent until the minimum offering amount is reached.
 
 If the minimum offering amount is not achieved by the end of the offering period, all escrowed funds will be returned to investors, without interest, and the offering will be terminated.
 

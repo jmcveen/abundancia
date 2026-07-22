@@ -199,7 +199,7 @@ Abundancia's full-project 10-year financial model (Year 1 = 2027) projects total
 | Cumulative Break-Even | Year 3 (2029) |
 | Stabilized Recurring Revenue (2032+) | ~$7–8M/year |
 
-*Full-project (all phases) waterfall modeling on the same equity stack indicates 10-yr LP IRR 73.8% / 9.94x EMx (5-yr interim 74.5% / 8.51x). These figures assume all phases proceed and are presented solely as upside/backstop context — they are not the offering. The investor's economics are the Phase-1 figures in Part A (32.1% IRR / 2.88x, 10-yr).*
+*If Phases 2–3 proceed, the additional revenue streams provide the sponsor with substantial additional capacity to support and exceed the targeted Phase-1 investor return. Full-project return modeling is available upon request. The investor's economics are the Phase-1 figures in Part A (32.1% IRR / 2.88x, 10-yr).*
 
 ---
 
@@ -426,7 +426,7 @@ Annual full-project EBITDA follows the construction and delivery timeline: negat
 
 ### 8.2 Full-Project Waterfall (Context Only — Not the Offering)
 
-Full-project (all phases) waterfall modeling on the same equity stack indicates 10-yr LP IRR 73.8% / 9.94x EMx (5-yr interim 74.5% / 8.51x). These figures assume all phases proceed and are presented solely as upside/backstop context.
+If Phases 2–3 proceed, the additional revenue streams provide the sponsor with substantial additional capacity to support and exceed the targeted Phase-1 investor return. Full-project return modeling is available upon request.
 
 *Distributions are subject to the waterfall described in Document 09 (10% cumulative LP preferred return, GP promote tiers of 10%/20%/30%/40% at 12%/15%/18% LP IRR hurdles with GP catch-up, 20% distribution reserve released Year 10) and to final documentation.*
 

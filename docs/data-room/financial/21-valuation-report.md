@@ -346,7 +346,7 @@ Enterprise-value sensitivities to pricing, absorption, construction costs, and d
 |----------|-----------|
 | **Base — Phase-1 offering (10-yr hold)** | 32.1% IRR / 2.88x |
 | **Base — Phase-1 offering (5-yr, interim; loan not repaid at Yr 5)** | 25.7% IRR / 1.79x |
-| **Phases 2–3 proceed (context — upside/backstop, not the offering)** | Full-project (all phases) waterfall modeling indicates 73.8% IRR / 9.94x (10-yr) — presented solely as upside/backstop context |
+| **Phases 2–3 proceed (context — upside/backstop, not the offering)** | Additional revenue streams provide substantial additional capacity to support and exceed the targeted Phase-1 return; full-project return modeling available upon request |
 | **Conservative / Optimistic** | [TO CONFIRM — being rebased on the Phase-1 model; see Document 08] |
 
 *The base case is the Phase-1-only case — the offering does not rely on later phases.*

@@ -339,7 +339,7 @@ The company has assembled an advisory board comprising experts in regenerative a
 | Role | Firm | Status |
 |---|---|---|
 | **Securities Counsel** | To be named [TO CONFIRM] | Pending |
-| **Real Estate Counsel** | Desiree Gutierrez (firm name [TO CONFIRM]) | Engaged |
+| **Real Estate Counsel** | Desiree Gutierrez — Good Days Austin Realty Group | Engaged |
 | **Civil Engineering** | Fred Haas, PE — Sustainable Land Strategies | Engaged |
 | **Architecture** | Inphinity Design | Identified |
 | **Environmental / Watershed Consulting** | Symbiosis TX (full watershed analysis to be commissioned immediately upon entering due diligence) | Identified |

@@ -168,7 +168,7 @@ For purposes of this Agreement, the following terms shall have the meanings set 
 
 **"Material Adverse Change"** means any event, occurrence, or condition that individually or in the aggregate (a) has a material adverse effect on the business, assets, condition, or prospects of the Company or the Project, or (b) materially impairs the Company's ability to perform its obligations under the Offering Documents.
 
-**"Minimum Raise Threshold"** means the aggregate minimum subscription amount to be specified in the final Offering Documents [TO CONFIRM], representing the minimum cleared subscriptions required before any release of Escrow Funds to the Company.
+**"Minimum Raise Threshold"** means Fifty Thousand Dollars ($50,000.00), the subscription price of one (1) Unit [subject to review by securities counsel], representing the minimum cleared subscriptions required before any release of Escrow Funds to the Company.
 
 **"Offering Documents"** means the Private Placement Memorandum, Subscription Agreement, Operating Agreement, and all exhibits, supplements, and amendments thereto.
 
@@ -370,7 +370,7 @@ The Company acknowledges that (a) the Escrow Agent shall not be liable for any l
 
 Escrow Funds shall not be released to the Company unless and until **all** of the following conditions (the "Release Conditions") have been satisfied or waived in writing by the Company:
 
-1. **Minimum Raise Threshold Met.** Aggregate cleared subscriptions in the Escrow Account equal or exceed the Minimum Raise Threshold [TO CONFIRM]
+1. **Minimum Raise Threshold Met.** Aggregate cleared subscriptions in the Escrow Account equal or exceed the Minimum Raise Threshold of $50,000 (one Unit)
 
 2. **Subscription Documentation Complete.** The Company has confirmed in writing to the Escrow Agent that all Subscription Agreements and Investor verification documentation for Units to be closed have been received, reviewed, and accepted
 
@@ -426,7 +426,7 @@ The Company anticipates the following closing schedule, subject to the satisfact
 
 | Closing | Trigger | Estimated Timing |
 |---------|---------|-----------------|
-| Initial Closing | Minimum Raise Threshold met [TO CONFIRM] | Upon satisfaction of all Release Conditions |
+| Initial Closing | Minimum Raise Threshold met ($50,000) | Upon satisfaction of all Release Conditions |
 | Subsequent Closings | Rolling basis as additional subscriptions are accepted | Monthly or as subscriptions accumulate |
 | Final Closing | Maximum Offering Amount reached or Offering Period expires | On or before the Termination Date |
 
@@ -436,7 +436,7 @@ The Company anticipates the following closing schedule, subject to the satisfact
 
 ### 8.1 Threshold Amount
 
-The Minimum Raise Threshold for this Offering is **[TO CONFIRM — to be established in the final Offering Documents]**, representing the minimum cleared subscriptions required before any release of Escrow Funds.
+The Minimum Raise Threshold for this Offering is **$50,000 (one Unit)** [subject to review by securities counsel], representing the minimum cleared subscriptions required before any release of Escrow Funds.
 
 ### 8.2 Rationale
 
