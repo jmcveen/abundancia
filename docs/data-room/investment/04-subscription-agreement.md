@@ -59,7 +59,7 @@ and
 
 ### RECITALS
 
-WHEREAS, the Company is offering Class A Units (the "Units") at a price of Fifty Thousand Dollars ($50,000) per Unit [TO CONFIRM], for a maximum aggregate offering amount of approximately Five Million One Hundred Thousand Dollars ($5,100,000) of Class A LP equity — part of the Company's $12,673,266 Year-1 capitalization (together with $100,000 of GP equity and $8,871,286 of construction debt) — pursuant to Regulation D, Rule 506(c) under the Securities Act of 1933, as amended (the "Securities Act"), with all offering terms subject to final documentation and review by securities counsel;
+WHEREAS, the Company is offering Class A Units (the "Units") at a price of Fifty Thousand Dollars ($50,000) per Unit, for a maximum aggregate offering amount of approximately Five Million One Hundred Fifty-Four Thousand Thirty-Two Dollars ($5,154,032) of Class A LP equity (approximately 103 Units) — part of the Company's $13,354,032 Phase 1 total capitalization (together with a $500,000 GP co-investment invested pari passu with the Class A LP equity and $7,700,000 of Phase 1 construction debt at 8.5%, 10-year fully amortizing) — pursuant to Regulation D, Rule 506(c) under the Securities Act of 1933, as amended (the "Securities Act"), with all offering terms subject to final documentation and review by securities counsel;
 
 WHEREAS, the Subscriber desires to subscribe for the number of Units set forth on the signature page hereof and to become a Limited Partner (a Class A Member) of the Company, subject to the terms and conditions set forth herein and in the Operating Agreement of the Company dated July 2026 (the "Operating Agreement");
 
@@ -73,15 +73,15 @@ NOW, THEREFORE, in consideration of the mutual covenants and agreements set fort
 
 ### 1.1 Subscription
 
-The Subscriber hereby irrevocably subscribes for and agrees to purchase the number of Units set forth on the signature page hereof (the "Subscribed Units") at a purchase price of Fifty Thousand Dollars ($50,000.00) per Unit [TO CONFIRM] (the "Purchase Price"), for an aggregate subscription amount as set forth on the signature page hereof (the "Subscription Amount").
+The Subscriber hereby irrevocably subscribes for and agrees to purchase the number of Units set forth on the signature page hereof (the "Subscribed Units") at a purchase price of Fifty Thousand Dollars ($50,000.00) per Unit (the "Purchase Price"), for an aggregate subscription amount as set forth on the signature page hereof (the "Subscription Amount").
 
 ### 1.2 The Offering
 
-The Company is offering up to approximately $5,100,000 in Class A Units (the "Offering") pursuant to Section 4(a)(2) of the Securities Act and Rule 506(c) of Regulation D promulgated thereunder, subject to final documentation and review by securities counsel. The Offering is limited exclusively to persons who are "accredited investors" as defined in Rule 501(a) of Regulation D. General solicitation and general advertising are permitted under Rule 506(c), provided that the Company takes reasonable steps to verify each investor's accredited investor status.
+The Company is offering up to approximately $5,154,032 in Class A Units (the "Offering") — the Class A LP equity component of the Company's $13,354,032 Phase 1 total capitalization — pursuant to Section 4(a)(2) of the Securities Act and Rule 506(c) of Regulation D promulgated thereunder, subject to final documentation and review by securities counsel. The Offering funds Phase 1 of the Abundancia master plan; later phases are presented in the Offering Documents as master-plan context and potential future upside. The Offering is limited exclusively to persons who are "accredited investors" as defined in Rule 501(a) of Regulation D. General solicitation and general advertising are permitted under Rule 506(c), provided that the Company takes reasonable steps to verify each investor's accredited investor status.
 
 ### 1.3 Minimum Investment
 
-The minimum subscription amount is Fifty Thousand Dollars ($50,000) per Subscriber (one Unit) [TO CONFIRM]. The Manager may, in its sole discretion, accept subscriptions for lesser amounts or fractional Units from certain investors.
+The minimum subscription amount is Fifty Thousand Dollars ($50,000) per Subscriber (one Unit). The Manager may, in its sole discretion, accept subscriptions for lesser amounts or fractional Units from certain investors.
 
 ### 1.4 Acceptance and Rejection
 
@@ -167,7 +167,7 @@ The Subscriber acknowledges, understands, and agrees that:
 
 (a) The financial projections, pro forma statements, and forward-looking statements contained in the Offering Documents are estimates and assumptions that the Company believes to be reasonable but that may not prove to be correct. Actual results may differ materially from those projected.
 
-(b) There is no guarantee that the Company will achieve the projected LP internal rate of return of 33.5% (10-year) or 31.6% (5-year), the projected LP equity multiple of 3.58x (10-year) or 3.06x (5-year), or any positive return whatsoever. These figures are projections only.
+(b) There is no guarantee that the Company will achieve the projected Phase 1 LP internal rate of return of 32.1% (10-year) or 25.7% (5-year interim), the projected LP equity multiple of 2.88x (10-year) or 1.79x (5-year interim), or any positive return whatsoever. These figures are projections only. The 5-year figures are an interim snapshot, not a separate hold scenario: the construction loan is not repaid at year 5.
 
 (c) The Subscriber may lose part or all of the Subscription Amount. An investment in the Units involves a high degree of risk, including the potential for total loss of invested capital.
 
@@ -319,7 +319,7 @@ The Subscriber acknowledges that an investment in the Units involves a high degr
 
 Without limiting the generality of Section 5.1, the Subscriber specifically acknowledges, understands, and accepts the following risks:
 
-**(a) Illiquidity and No Public Market.** There is no public market for the Units, and none is expected to develop. The Units are subject to significant transfer restrictions under this Agreement, the Operating Agreement, and applicable securities laws. The Subscriber may not be able to sell, transfer, or otherwise dispose of the Units for an indefinite period and should be prepared to hold the investment for the full project term (5-year and 10-year hold scenarios are presented; construction completion is projected in 2031 with stabilized operations from 2032), or longer. Forced or distressed sale of the Units would likely result in a significant discount to the Units' intrinsic value.
+**(a) Illiquidity and No Public Market.** There is no public market for the Units, and none is expected to develop. The Units are subject to significant transfer restrictions under this Agreement, the Operating Agreement, and applicable securities laws. The Subscriber may not be able to sell, transfer, or otherwise dispose of the Units for an indefinite period and should be prepared to hold the investment for the full 10-year hold period (a 5-year interim snapshot is presented, but the construction loan is not repaid at year 5; full-project master-plan construction completion is projected in 2031 with stabilized operations from 2032), or longer. Forced or distressed sale of the Units would likely result in a significant discount to the Units' intrinsic value.
 
 **(b) Loss of Entire Investment.** The Subscriber may lose the entire Subscription Amount. The Company is a development-stage entity with no operating history, no current revenue, and no assets (other than cash). There is no guarantee of returns, distributions, or return of capital.
 
@@ -398,19 +398,21 @@ Subject to the terms of the Operating Agreement, the Subscriber shall be entitle
 
 ### 7.2 Distribution Waterfall Summary
 
-Distributions shall be made in the following order of priority (subject to final documentation and review by securities counsel; a 10% distribution reserve is withheld from positive cash flows for working capital):
+Distributions shall be made in the following order of priority (subject to final documentation and review by securities counsel; a 20% distribution reserve is withheld annually from positive cash flows as a safety buffer and released in Year 10):
 
-| Tier | Description | LP Share | GP Share | Threshold |
+| Step | Description | LP Share | GP Share | Threshold |
 |---|---|---|---|---|
-| **1** | Return of Capital | 100% | 0% | Until 1.0x return of contributed capital [TO CONFIRM ordering] |
-| **2** | Preferred Return | 100% | 0% | Until 10% cumulative annual return achieved |
-| **3** | Above Preferred Return | 90% | 10% | Above the preferred return |
-| **4** | Performance Tier I | 80% | 20% | After LP achieves 12% IRR |
-| **5** | Performance Tier II | 60% | 40% | After LP achieves 15% IRR |
+| **1** | Distribution Reserve | — | — | 20% of positive cash flows withheld annually; released Year 10 |
+| **2** | Preferred Return + Return of Capital | 100% to equity class (LP + GP $500,000 pari passu co-investment, pro rata) | — | Until 10% cumulative preferred return and return of capital [Compounding mechanics and return-of-capital ordering TO CONFIRM] |
+| **3** | GP Catch-Up | — | 100% until catch-up satisfied | Until GP promote equals its applicable share of Step 2 profit distributions |
+| **4a** | Residual — below 12% LP IRR | 90% | 10% promote | Below a 12% LP IRR |
+| **4b** | Residual — 12–15% LP IRR band | 80% | 20% promote | In the 12–15% LP IRR band |
+| **4c** | Residual — 15–18% LP IRR band | 70% | 30% promote | In the 15–18% LP IRR band |
+| **4d** | Residual — above 18% LP IRR | 60% | 40% promote (uncapped) | Above an 18% LP IRR |
 
 ### 7.3 Preferred Return
 
-The preferred return shall accrue at a rate of ten percent (10%) per annum on the Subscriber's unreturned capital contributions. The preferred return is cumulative; any unpaid preferred return carries forward and must be fully satisfied before the General Partner participates in any distributions above Tier 2. Preferred return mechanics (including any compounding) are subject to final documentation and review by securities counsel.
+The preferred return shall accrue at a rate of ten percent (10%) per annum on the Subscriber's unreturned capital contributions. The preferred return is cumulative; any unpaid preferred return carries forward and, together with return of capital, must be fully satisfied before the General Partner participates in any catch-up or promote distributions. The General Partner's $500,000 co-investment participates in the equity class pari passu with the Class A LP equity. Preferred return mechanics (including any compounding) are subject to final documentation and review by securities counsel.
 
 ### 7.4 Distribution Timing and Discretion
 
@@ -740,7 +742,7 @@ All representations, warranties, covenants, agreements, indemnification obligati
 | Field | Information |
 |---|---|
 | **Number of Units Subscribed** | ______________________________________________ |
-| **Price Per Unit** | $50,000.00 [TO CONFIRM] |
+| **Price Per Unit** | $50,000.00 |
 | **Total Subscription Amount** | $_____________________________________________ |
 
 ### 13.5 Distribution Payment Instructions

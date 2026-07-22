@@ -18,6 +18,8 @@
 
 > *This document contains forward-looking statements based on current expectations and assumptions. Actual results may differ materially from those projected. Development plans, unit counts, timelines, and cost estimates are subject to change based on market conditions, regulatory approvals, and capital availability. Investors should conduct independent due diligence before making investment decisions.*
 
+> **Investment Offering Scope — Phase 1 only.** This Master Development Plan presents Abundancia's complete multi-phase build-out as long-range context. **The current investment offering funds Phase 1 — Foundation & Community Activation (Years 1–2, 2027–2028; Sections 5–6) — only.** Phase 2 (Section 7) and Phase 3 (Section 8) are subsequent development programs: they represent future upside revenue streams and give the sponsor additional revenue capacity as a backstop supporting the targeted Phase-1 investor return — investors do not need Phases 2–3 to proceed in order to earn the projected Phase-1 return. Full-project figures in this document are labeled "Full Project (all phases)" context and are not the investor's Phase-1 economics.
+
 ---
 
 ## Table of Contents
@@ -26,10 +28,10 @@
 2. [Land Use Allocation](#2-land-use-allocation)
 3. [Residential Program](#3-residential-program)
 4. [Commercial & Retreat Program](#4-commercial--retreat-program)
-5. [Phase 1: Foundation (2027)](#5-phase-1-foundation-2027)
-6. [Phase 2: First Revenue (2028)](#6-phase-2-first-revenue-2028)
-7. [Phase 3: Maturation (2029)](#7-phase-3-maturation-2029)
-8. [Phase 4: Completion (2030-2031)](#8-phase-4-completion-2030-2031)
+5. [Phase 1 — Year 1: Foundation (2027)](#5-phase-1--year-1-foundation-2027)
+6. [Phase 1 — Year 2: Community Activation & First Revenue (2028)](#6-phase-1--year-2-community-activation--first-revenue-2028)
+7. [Phase 2: Maturation (2029)](#7-phase-2-maturation-2029)
+8. [Phase 3: Completion (2030-2031)](#8-phase-3-completion-2030-2031)
 9. [Infrastructure Plan](#9-infrastructure-plan)
 10. [Density Analysis](#10-density-analysis)
 11. [Parking & Transportation](#11-parking--transportation)
@@ -182,54 +184,61 @@ See Section 13 for detailed retreat center design. *Revenue classification note:
 
 ---
 
-## 5. Phase 1: Foundation (2027)
+## 5. Phase 1 — Year 1: Foundation (2027)
+
+**Phase 1 — Foundation & Community Activation (Years 1–2) is the scope funded by the current investment offering.**
 
 **Timeline:** Year 1 — 2027 (groundbreaking; follows 2026 predevelopment: due diligence, watershed/hydrology, land closing, entitlements, MUD formation, capital close)
 **Hard Costs (model):** ~$6.65M
-**Focus:** Infrastructure backbone, nature stays, community core, parks, permaculture
+**Focus:** Infrastructure backbone, nature stays, community core, natural pool, parks, wellness, permaculture
 
-### 5.1 Phase 1 Scope
+### 5.1 Phase 1 — Year 1 Scope
 
 | Component | Units / Scope |
 |-----------|--------------|
-| Site infrastructure (roads, water, wastewater OSSF, power, fiber) | Backbone systems |
-| Nature stays | Glamping tents, domes, camping sites |
-| Community Center | 5,000 SF |
-| Wellness / Longevity Center & Spa | 5,000 SF (shell; revenue opens 2028) |
-| Parks & recreation | Initial parks and trail network |
-| Permaculture & regenerative agriculture | Initial planting and establishment |
-| Barn renovation | Existing barn renovated as first event space |
+| Site infrastructure (roads, water, wastewater OSSF, power, fiber) | Backbone systems (completed in Year 2) |
+| Nature stays | 50 short-term nature stays: 20 glamping tents, 15 domes, 5 high-end domes, 10 camping spaces |
+| Community Center | 5,000 SF — lounge, co-working, gym, yoga, meditation, community kitchen, library |
+| Natural Pool + Parks & Recreation | Spring-fed natural pool; initial parks and trail network |
+| Regenerative Center | Event space + 6 retreat rooms + renovated existing barn (first event space) |
+| Health & Wellness / Longevity Center & Spa | 5,000 SF — sauna, hot tub, cold plunge, massage, bio-optimization, health center (revenue operations begin 2028) |
+| Permaculture Mandala Garden | Initial permaculture planting and establishment |
 
 *Line-item construction budgets are maintained in Document 29 (Construction Budget) and the financial model; 2027 hard costs total ~$6.65M.*
 
 ---
 
-## 6. Phase 2: First Revenue (2028)
+## 6. Phase 1 — Year 2: Community Activation & First Revenue (2028)
 
-**Timeline:** Year 2 — 2028 (first revenue year)
+**Timeline:** Year 2 — 2028 (first revenue year; completes Phase 1 — the scope funded by the current investment offering)
 **Hard Costs (model):** ~$10.01M
-**Focus:** Hospitality opens; model home; tiny homes deliver; lot and SFR sales launch
+**Focus:** Hospitality opens; model home; tiny-home and residential-lot sales; infrastructure backbone completed
 
-### 6.1 Phase 2 Scope
+### 6.1 Phase 1 — Year 2 Scope
 
 | Component | Units / Scope |
 |-----------|--------------|
-| Hospitality operations open | Nature stays + event house revenue begins |
-| Model home | SFR model home complete |
-| Tiny homes | Tiny home deliveries begin |
-| Estate lot sales | Lot sales launch (lot revenue $22,872,273 across 2028-2029) |
-| SFR sales | Single-family sales launch |
+| Hospitality operations open | Nature stays + 6BR Rental/Event House revenue begins |
+| Model Home | Model home complete |
+| Tiny home sales | 60 tiny homes sold (16 studio / 18 one-BR / 20 two-BR / 6 early-discount) |
+| Residential lot sales | 80 residential lot sales (100 lots prepared) |
+| 6BR Rental/Event House | 6-bedroom rental and event house delivered |
 | Wellness / Longevity Center & Spa | Revenue operations begin |
+| Infrastructure backbone | Completed |
+
+*Phase 1 sells tiny homes and residential lots only — no single-family homes or condominiums are sold in Phase 1. The full residential program (single-family homes, condominiums, estate homes) is delivered in the subsequent phases below, which are outside the current offering's scope.*
 
 ---
 
-## 7. Phase 3: Maturation (2029)
+## 7. Phase 2: Maturation (2029)
+
+**Offering note:** Phase 2 is a subsequent development program beyond the current Phase-1 offering — presented as future upside and sponsor backstop capacity.
 
 **Timeline:** Year 3 — 2029 (cumulative break-even year in model)
 **Hard Costs (model):** ~$56.85M
 **Focus:** Residential scale-up, school
 
-### 7.1 Phase 3 Scope
+### 7.1 Phase 2 Scope
 
 | Component | Units / Scope |
 |-----------|--------------|
@@ -240,13 +249,15 @@ See Section 13 for detailed retreat center design. *Revenue classification note:
 
 ---
 
-## 8. Phase 4: Completion (2030-2031)
+## 8. Phase 3: Completion (2030-2031)
+
+**Offering note:** Phase 3 is a subsequent development program beyond the current Phase-1 offering — presented as future upside and sponsor backstop capacity.
 
 **Timeline:** Years 4-5 — 2030-2031 (construction complete 2031)
 **Hard Costs (model):** 2030 ~$53.39M; 2031 ~$118.73M
 **Focus:** Village completion, temple, estate homes, final residential deliveries
 
-### 8.1 Phase 4 Scope
+### 8.1 Phase 3 Scope
 
 | Component | Units / Scope |
 |-----------|--------------|
@@ -258,7 +269,7 @@ See Section 13 for detailed retreat center design. *Revenue classification note:
 | 2031: Condominiums | 150 condos |
 | 2031: Rental condos | 25 units |
 
-### 8.2 Full Build-Out Summary
+### 8.2 Full Build-Out Summary — Full Project (all phases; context only, not the investor's Phase-1 economics)
 
 | Metric | Total |
 |--------|-------|
@@ -350,7 +361,7 @@ Abundancia's water strategy is a layered supply combined with demand reduction:
 | **Abundancia** | **376** | **651 structures + 100 estate lots; 49% preserved** | **Conservation community** |
 | Whisper Valley (Manor, TX) | 2,062 | ~7,500 planned zero-energy homes | Master-planned suburban |
 | Serenbe (GA) | 1,200 | 750+ residents; ~70% greenspace | Wellness agrihood |
-| The Sanctuary | [TO CONFIRM] | [TO CONFIRM] | Comparable community |
+| The Sanctuary (sanctuary.co) | 104 | 116 lots (1.6-acre average); 15 home plans (520 SF casita to 10-BR flagship) | Off-grid wellness community (Texas Hill Country) |
 
 ---
 

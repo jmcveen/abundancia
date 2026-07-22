@@ -56,7 +56,7 @@ This Ongoing Reporting Framework establishes the comprehensive reporting obligat
 | Manager | New Earth Development ([Manager legal entity name — TO CONFIRM]) |
 | Manager CEO | Kelly Krezek |
 | Securities | Class A Membership Interest Units [Unit count and per-Unit price TO CONFIRM] |
-| Total Raise | Approximately $5,100,000 Class A/LP equity [TO CONFIRM]; total Year-1 capitalization $12,673,266 (≈$5.1M LP equity + $100K GP + $8,871,286 construction debt) |
+| Total Raise | Approximately $5,154,032 Class A/LP equity (Phase 1) [TO CONFIRM]; total Phase-1 capitalization $13,354,032 (≈$5,154,032 LP equity + $500,000 GP co-investment + $7,700,000 construction debt at 8.5%) |
 | Regulation | Regulation D, Rule 506(c) (subject to final structuring and securities counsel review) |
 | Project | Regenerative community, 376 acres, Cedar Creek, Bastrop County, Texas |
 
@@ -92,8 +92,8 @@ The following individual is designated as the Company's primary reporting office
 | Role | Name | Contact |
 |------|------|---------|
 | Manager / Reporting Officer | Kelly Krezek (Chief Executive Officer, New Earth Development — Manager) | kelly@newearthdevelopment.org |
-| Tax Reporting (Third Party) | [CPA Firm Name] | [Contact] |
-| Financial Reporting (Third Party) | [Accounting Firm Name] | [Contact] |
+| Tax Reporting (Third Party) | Andrew Escher (accounting/tax — working designation; formal engagement [TO CONFIRM]) | [Contact] |
+| Financial Reporting (Third Party) | Andrew Escher (accounting/tax — working designation; formal engagement [TO CONFIRM]) | [Contact] |
 
 ---
 
@@ -154,7 +154,7 @@ Each Quarterly Report shall contain the following sections:
 | Net Asset Value (NAV) | Estimated NAV per Unit based on current project valuation |
 | Distribution History | Cumulative distributions per Unit to date |
 
-*Suggested addition (July 2026 review): baseline published projections against which actuals will be compared — 10-year LP IRR 33.5%, equity multiple 3.58x, ROI 258%; 5-year LP IRR 31.6%, equity multiple 3.06x, ROI 206% (per the Company's financial model Simple Pro Forma; subject to final documentation).*
+*Suggested addition (July 2026 review): baseline published projections against which actuals will be compared — Phase 1: 10-year LP IRR 32.1%, equity multiple 2.88x; 5-year LP IRR 25.7%, equity multiple 1.79x (5-year figures are an interim snapshot — the construction loan is not repaid at Year 5) (per the Company's Phase-1 equity waterfall; subject to final documentation).*
 
 **Section E: Risk and Compliance**
 
@@ -378,7 +378,7 @@ A "Material Event" is any event, occurrence, or development that a reasonable in
 
 | Event | Description |
 |-------|-------------|
-| Change in Manager | Replacement, removal, or change in New Earth Development ([Manager legal entity name — TO CONFIRM]) (New Earth Development) as Manager |
+| Change in Manager | Replacement, removal, or change in New Earth Development ([Manager legal entity name — TO CONFIRM]) as Manager |
 | Change in key personnel of the Manager | Replacement or removal of Kelly Krezek as Chief Executive Officer of the Manager |
 | Amendment to Operating Agreement | Any proposed amendment to the Operating Agreement |
 | Related party transaction | Any transaction between the Company and the Manager or its affiliates exceeding $50,000 |
@@ -806,7 +806,7 @@ During active construction, the Company shall distribute a monthly construction 
 | Soft Costs | $[________] | Legal, accounting, insurance, marketing |
 | Contingency | $[________] | Contingency reserve (10% per the financial model) |
 | Working Capital Reserve | $[________] | Pre-opening and initial operating reserve |
-| **Total Project Budget** | **$12,673,266 (Year-1 capitalization)** | Total 10-year project cost including financing: $268,747,911 |
+| **Total Project Budget** | **$13,354,032 (Phase-1 capitalization)** | Full Project (all phases) context: total 10-year project cost including financing $268,747,911 |
 
 ### 11.4 Variance Reporting Thresholds
 

@@ -792,7 +792,7 @@ Modeled sale revenue: residential sales $326,558,934 + lot sales $22,872,273 = $
 |-------------|---------------|----------------|
 | **Serenbe (GA)** | Public records, marketing materials, site visit, ULI case study | Pricing, absorption, conservation model (1,200 acres; 750+ residents; homes from ~$375K) |
 | **Whisper Valley (Manor, TX)** | MLS data, marketing materials, builder consultations | Pricing ($300K-750K), absorption, geothermal/zero-energy features (~7,500 planned homes) |
-| **The Sanctuary** | Direct research | Concept validation [TO CONFIRM — profile details pending verification] |
+| **The Sanctuary** | Direct research (sanctuary.co) | Factual profile verified: Texas Hill Country ~25 min west of Austin near Dripping Springs; 104 acres, 116 lots (1.6-acre average); off-grid (rainwater harvesting + UV purification, greywater reuse); non-toxic materials, low-EMF design; 15 home plans (520 SF casita to 10-BR flagship); wellness amenities (meditation dome, devotion center, biohacking gym, bathhouse, edible garden, bee farm). Pricing and sales data being compiled |
 
 ### 12.3 Methodology Notes
 

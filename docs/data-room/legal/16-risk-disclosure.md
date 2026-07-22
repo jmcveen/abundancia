@@ -52,7 +52,7 @@
 
 **Likelihood:** Possible
 **Potential Impact:** Severe - Total loss of invested capital.
-**Mitigation:** Diversified revenue model (residential sales, commercial leases, lot sales, amenity operations). Conservative financial projections with adequate contingency reserves. Experienced development team. Phased development plan preserves Phase-1 severability: the modeled Phase-1-only downside scenario still returns positive LP returns if the project never proceeds past Phase 1 (subject to final documentation).
+**Mitigation:** Diversified revenue model (tiny home sales, lot sales, rentals/hospitality, commercial and amenity operations). Conservative financial projections with adequate contingency reserves. Experienced development team. The offering finances Phase 1 of the development program, and projected LP returns are based on Phase-1 operations alone — Phases 2-3 are not required for the projected returns (subject to final documentation).
 
 ---
 
@@ -73,6 +73,16 @@
 **Likelihood:** Moderate
 **Potential Impact:** Moderate
 **Mitigation:** Full disclosure of affiliated transactions in the Operating Agreement and quarterly reports. Arm's-length pricing for all affiliated transactions. LP consent required for affiliated transactions exceeding $500,000 annually. Advisory Committee oversight.
+
+---
+
+### 1.5 Future Phase Execution Risk
+
+**Description:** Investors in this offering invest in **Phase 1** of the Abundancia development program. The full multi-phase master plan (Phases 2-3) is presented in the data room as context and as a source of potential future upside, but future phases are not funded by this offering, may require additional capital, and may be modified, delayed, or never executed. While the Company's projected LP returns are based on Phase-1 operations alone and do not depend on Phases 2-3, the upside potential associated with later phases — and any sponsor revenue capacity from later phases that could support LP returns if Phase 1 underperforms — depends on future-phase execution, financing, and market conditions that cannot be assured. In addition, any interim (Year-5) return figures presented in the data room are interim snapshots only: the construction loan is not repaid at Year 5, and interim figures do not represent a realized or realizable exit value.
+
+**Likelihood:** Moderate
+**Potential Impact:** Moderate - Loss of anticipated upside from later phases; reliance on Phase-1 economics alone.
+**Mitigation:** Projected returns are underwritten on Phase-1 operations without reliance on Phases 2-3 (subject to final documentation). Master-plan entitlement and infrastructure work is designed to preserve optionality for later phases. Full-project figures, where shown, are labeled as Full Project (all phases) context and are not the investor's economics.
 
 ---
 
@@ -116,7 +126,7 @@ Abundancia's homes are positioned "from approximately $450/SF" — a premium of 
 
 **Likelihood:** Low to Moderate
 **Potential Impact:** Severe - Extended project timeline, reduced returns, potential need for additional capital.
-**Mitigation:** Measured leverage strategy (Year-1 construction debt of $8,871,286 at approximately 9%, within a $12,673,266 Year-1 capitalization). Adequate cash reserves for carrying costs during a slowdown. The phased development plan allows selective pause of individual phases without jeopardizing the entire project; the modeled Phase-1-only scenario still returns positive LP returns. Land value provides baseline collateral.
+**Mitigation:** Measured leverage strategy (Phase-1 construction debt of $7,700,000 at 8.5%, within a $13,354,032 Phase-1 capitalization). Adequate cash reserves for carrying costs during a slowdown. The phased development plan allows selective pause of later phases without jeopardizing the Phase-1 investment; projected LP returns are based on Phase-1 operations alone. Land value provides baseline collateral.
 
 ---
 
@@ -258,7 +268,7 @@ Abundancia's homes are positioned "from approximately $450/SF" — a premium of 
 
 ### 5.1 Capital Availability
 
-**Description:** The project requires a Year-1 capitalization of $12,673,266 — approximately $5.1 million of Class A (LP) equity, $100,000 of GP capital, and $8,871,286 of construction debt. There is no guarantee that the full amount will be raised within the anticipated timeline. Insufficient capital could delay development, require unfavorable financing terms, or force modification of the development plan.
+**Description:** Phase 1 of the project requires a total capitalization of $13,354,032 — approximately $5,154,032 of Class A (LP) equity, $500,000 of GP co-investment, and $7,700,000 of construction debt. There is no guarantee that the full amount will be raised within the anticipated timeline. Insufficient capital could delay development, require unfavorable financing terms, or force modification of the development plan.
 
 **Likelihood:** Moderate
 **Potential Impact:** High - Delayed development, modified scope, reduced returns.
@@ -272,7 +282,7 @@ Abundancia's homes are positioned "from approximately $450/SF" — a premium of 
 
 **Likelihood:** Moderate
 **Potential Impact:** High - Suspension of distributions, capital calls, forced asset sales.
-**Mitigation:** Conservative cash flow projections with adequate operating reserves, including a 10% distribution reserve withheld from positive cash flows for working capital (subject to final documentation) and a 10% construction contingency in the financial model. Phased capital calls aligned with development milestones. MUD bond reimbursement provides significant capital recycling. Quarterly cash flow reporting to LPs.
+**Mitigation:** Conservative cash flow projections with adequate operating reserves, including a 20% distribution reserve withheld annually from positive cash flows as a safety buffer (released in Year 10; subject to final documentation) and a 10% construction contingency in the financial model. Phased capital calls aligned with development milestones. MUD bond reimbursement provides significant capital recycling. Quarterly cash flow reporting to LPs.
 
 ---
 
@@ -282,7 +292,7 @@ Abundancia's homes are positioned "from approximately $450/SF" — a premium of 
 
 **Likelihood:** Not applicable (inherent structural risk)
 **Potential Impact:** High - Total portfolio exposure to a single asset.
-**Mitigation:** Phased development with Phase-1 severability — the modeled Phase-1-only downside scenario still returns positive LP returns (subject to final documentation). Multiple revenue streams (residential sales, lot sales, rentals/hospitality, commercial). Investors are advised to treat this investment as one component of a diversified portfolio. Conservative underwriting and stress testing across multiple adverse scenarios.
+**Mitigation:** The offering finances Phase 1, and projected LP returns are based on Phase-1 operations alone — Phases 2-3 are not required for the projected returns (subject to final documentation). Multiple Phase-1 revenue streams (tiny home sales, lot sales, rentals/hospitality, commercial and amenities). Investors are advised to treat this investment as one component of a diversified portfolio. Conservative underwriting and stress testing across multiple adverse scenarios.
 
 ---
 
@@ -292,7 +302,7 @@ Abundancia's homes are positioned "from approximately $450/SF" — a premium of 
 
 **Likelihood:** Low to Moderate
 **Potential Impact:** Severe - Foreclosure, loss of investor capital.
-**Mitigation:** Measured leverage: the Year-1 plan includes $8,871,286 of construction debt at approximately 9% (approximately $1.35M/yr debt service) within a $12,673,266 Year-1 capitalization. Leverage limits per the Operating Agreement [TO CONFIRM]. Debt service coverage requirements maintained at all times. Recourse provisions per final loan documents [TO CONFIRM]. MUD bond debt is not project-level leverage (it is district-level tax-supported debt borne by future property owners, not investors).
+**Mitigation:** Measured leverage: the Phase-1 plan includes $7,700,000 of construction debt at 8.5% (10-year fully amortizing; annual debt service approximately $1,173,539) within a $13,354,032 Phase-1 capitalization. Leverage limits per the Operating Agreement [TO CONFIRM]. Debt service coverage requirements maintained at all times. Recourse provisions per final loan documents [TO CONFIRM]. MUD bond debt is not project-level leverage (it is district-level tax-supported debt borne by future property owners, not investors).
 
 ---
 

@@ -59,6 +59,8 @@ This Escrow Agreement (the "Agreement") is entered into as of [________], 2026 (
 | **New Earth Development ([Manager legal entity name — TO CONFIRM])** | Manager | Manager of the Company, acting through its authorized representative Kelly Krezek |
 | **[Escrow Agent Name]** | Escrow Agent | A [national banking association / state-chartered bank / trust company] with its principal office located at [Address] |
 
+*Note (July 2026): the Company's working title/escrow relationship is with **Stewart Title of Austin, LLC** — **Cindy Gilley**, Escrow Officer, License #1877196 (Steck & Mopac office); Escrow Assistant **Cate Chism**, License #1877645. Formal designation of the escrow agent for this Offering remains [TO CONFIRM] and will be completed in the final escrow documentation.*
+
 ### 1.2 Authorized Representatives
 
 The following individuals are designated as authorized representatives for purposes of this Agreement:
@@ -93,7 +95,7 @@ Each party represents that it has full legal capacity and corporate or organizat
 
 **WHEREAS**, the Company is conducting a private offering (the "Offering") of membership interest units (the "Units") in the Company pursuant to Regulation D, Rule 506(c) promulgated under the Securities Act of 1933, as amended (the "Securities Act");
 
-**WHEREAS**, the Offering contemplates the sale of Units representing Class A membership interests for a maximum aggregate offering amount of approximately Five Million One Hundred Thousand Dollars ($5,100,000) [Unit count and per-Unit price TO CONFIRM], as part of a total Year-1 capitalization of $12,673,266 (approximately $5.1M Class A/LP equity, $100,000 GP capital, and $8,871,286 construction debt), with offering terms subject to final structuring and review by securities counsel;
+**WHEREAS**, the Offering contemplates the sale of Units representing Class A membership interests for a maximum aggregate offering amount of approximately Five Million One Hundred Fifty-Four Thousand Thirty-Two Dollars ($5,154,032) [TO CONFIRM — Unit count and per-Unit price to be confirmed], relating to Phase 1 of the development program, as part of a total Phase-1 capitalization of $13,354,032 (approximately $5,154,032 Class A/LP equity, $500,000 GP co-investment, and $7,700,000 construction debt), with offering terms subject to final structuring and review by securities counsel;
 
 **WHEREAS**, the Offering is limited exclusively to verified accredited investors as defined in Rule 501(a) of Regulation D and verified in accordance with Rule 506(c);
 
@@ -118,10 +120,10 @@ The purpose of this escrow arrangement is to:
 | Manager | New Earth Development ([Manager legal entity name — TO CONFIRM]) |
 | Manager CEO | Kelly Krezek |
 | Securities Offered | Class A Membership Interest Units |
-| Maximum Units | [TO CONFIRM] |
-| Price Per Unit | [TO CONFIRM] |
-| Maximum Offering Amount | Approximately $5,100,000 Class A/LP equity [TO CONFIRM]; total Year-1 capitalization $12,673,266 |
-| Minimum Investment | [TO CONFIRM] |
+| Maximum Units | Approximately 103 [TO CONFIRM] |
+| Price Per Unit | $50,000 [TO CONFIRM] |
+| Maximum Offering Amount | Approximately $5,154,032 Class A/LP equity [TO CONFIRM]; total Phase-1 capitalization $13,354,032 |
+| Minimum Investment | $50,000 (one Unit) [TO CONFIRM] |
 | Regulation | Regulation D, Rule 506(c) |
 | Investor Qualification | Verified Accredited Investors Only |
 | Offering Period | [Start Date] through [End Date], unless extended |
@@ -449,7 +451,7 @@ The Minimum Raise Threshold has been established to ensure that sufficient capit
 | Contingency reserve | [TO CONFIRM] |
 | **Total Minimum Raise** | **[TO CONFIRM]** |
 
-*Use-of-proceeds allocations will be finalized in the Offering Documents consistent with the Company's financial model (Year-1 uses of approximately $12.87M against sources of approximately $14.07M, including construction debt).*
+*Use-of-proceeds allocations will be finalized in the Offering Documents consistent with the Company's Phase-1 financial model (total Phase-1 capitalization of $13,354,032, comprising approximately $5,154,032 LP equity, $500,000 GP co-investment, and $7,700,000 construction debt).*
 
 ### 8.3 Threshold Deadline
 
@@ -934,7 +936,7 @@ The following exhibits are attached hereto and incorporated by reference:
 
 ---
 
-**ABUNDANCIA AUSTIN LLC**
+**ABUNDANCIA COMMUNITY LLC**
 
 By: New Earth Development ([Manager legal entity name — TO CONFIRM]), its Manager
 

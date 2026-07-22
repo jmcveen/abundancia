@@ -63,7 +63,7 @@ export default function RootLayout({
       <body className="min-h-screen flex flex-col">
         <Providers>
           <Header />
-          <main className="flex-1 pt-24">
+          <main className="flex-1 pt-24 print:pt-0">
             {children}
           </main>
           <Footer />

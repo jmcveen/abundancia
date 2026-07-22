@@ -49,7 +49,7 @@ The rule applies to all offerings conducted under both Rule 506(b) and Rule 506(
 
 ### 1.3 Applicability to This Offering
 
-The Company is conducting an offering of Class A membership interests of approximately **$5,100,000** [TO CONFIRM], as part of a total Year-1 capitalization of $12,673,266 (approximately $5.1M Class A/LP equity, $100,000 GP capital, and $8,871,286 construction debt), under Rule 506(c) of Regulation D. *The offering structure and exemption are subject to final structuring and review by securities counsel.* The offering is limited exclusively to accredited investors as defined in Rule 501(a) of Regulation D, with general solicitation permitted under 506(c) subject to reasonable steps to verify accredited investor status.
+The Company is conducting an offering of Class A membership interests of approximately **$5,154,032** [TO CONFIRM], relating to Phase 1 of the development program, as part of a total Phase-1 capitalization of $13,354,032 (approximately $5,154,032 Class A/LP equity, $500,000 GP co-investment, and $7,700,000 construction debt at 8.5%), under Rule 506(c) of Regulation D. *The offering structure and exemption are subject to final structuring and review by securities counsel.* The offering is limited exclusively to accredited investors as defined in Rule 501(a) of Regulation D, with general solicitation permitted under 506(c) subject to reasonable steps to verify accredited investor status.
 
 As a condition to reliance on Rule 506(c), the Company has conducted a thorough investigation to determine whether any covered person associated with this offering is subject to any disqualifying event described in Rule 506(d)(1).
 

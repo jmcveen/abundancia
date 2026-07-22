@@ -59,6 +59,8 @@
 
 The following is a summary of the material terms of the offering. This summary is qualified in its entirety by the more detailed information appearing elsewhere in this Memorandum and in the Operating Agreement (Document 05).
 
+**The investment offered hereby is Phase 1 of the Abundancia master plan.** Investors in this offering are purchasing Class A Units whose economics are driven by the Phase 1 development program described in Section 3.3. The full multi-phase master plan is presented elsewhere in this Memorandum as context; Phases 2 and 3 represent potential future upside and additional sponsor revenue capacity, and investors do not need Phases 2–3 to proceed in order to earn the projected Phase 1 returns.
+
 | Term | Detail |
 |---|---|
 | **Issuer** | Abundancia Community LLC |
@@ -66,22 +68,25 @@ The following is a summary of the material terms of the offering. This summary i
 | **Structure** | Manager-Managed LLC — Class A Units (investor / "LP") and Class B Units (Manager / "GP") |
 | **Securities Offered** | Class A Units ("Units") |
 | **Exemption** | Regulation D, Rule 506(c) under the Securities Act (subject to final documentation and review by securities counsel) |
-| **Year-1 Total Capitalization** | $12,673,266 (approximately $5.1M Class A LP equity + $100,000 GP equity + $8,871,286 construction debt at ~9%) |
-| **Total Offering Amount (Class A LP Equity)** | Approximately $5,100,000 |
+| **Phase 1 Total Capitalization** | $13,354,032 (approximately $5,154,032 Class A LP equity + $500,000 GP co-investment equity + $7,700,000 Phase 1 construction debt) |
+| **Phase 1 Debt** | $7,700,000 at 8.5%, 10-year fully amortizing; annual debt service $1,173,539 |
+| **Total Offering Amount (Class A LP Equity)** | Approximately $5,154,032 |
 | **Minimum Offering Amount** | [TO CONFIRM] |
-| **Unit Price** | $50,000 per Unit [TO CONFIRM] |
-| **Minimum Investment** | $50,000 (1 Unit) [TO CONFIRM] |
-| **Maximum Number of Units** | [TO CONFIRM] (approximately 102 Units at $50,000 per Unit) |
+| **Unit Price** | $50,000 per Unit |
+| **Minimum Investment** | $50,000 (1 Unit) |
+| **Maximum Number of Units** | Approximately 103 Units at $50,000 per Unit |
 | **Investor Qualification** | Accredited Investors Only (verified per Rule 506(c)) |
 | **Manager (GP)** | New Earth Development (Kelly Krezek, Chief Executive Officer) [TO CONFIRM exact legal name of Manager entity] |
 | **GP Participation** | Class B Units; promote per distribution waterfall (Section 8) — subject to final documentation and review by securities counsel |
-| **GP Co-Investment** | $100,000 GP equity; additional $500,000 GP co-invest within the $8,871,286 debt + GP layer |
-| **Preferred Return** | 10% to Class A (LP), cumulative — subject to final documentation and review by securities counsel |
-| **Developer Fee** | 4% of total project capital (approximately $500,000) at close — subject to final documentation and review by securities counsel |
-| **Hold Period** | 5-year and 10-year hold scenarios presented |
-| **Projected LP IRR (projection — not guaranteed)** | 33.5% (10-year) / 31.6% (5-year) |
-| **Projected LP Equity Multiple (projection — not guaranteed)** | 3.58x (10-year) / 3.06x (5-year) |
-| **Distributions** | Quarterly, beginning when cash flow permits (first project revenue projected 2028) |
+| **GP Co-Investment** | $500,000 of equity invested pari passu with the Class A LP equity (total equity $5,654,032; LP 91.16% / GP 8.84%) |
+| **Preferred Return** | 10% cumulative preferred return to the equity class — subject to final documentation and review by securities counsel |
+| **Distribution Reserve** | 20% of positive cash flows withheld annually as a safety buffer; released in Year 10 |
+| **Developer Fee** | 4% of Phase 1 total capitalization ($534,161), paid from operating cash flow; does not reduce LP capital basis — subject to final documentation and review by securities counsel |
+| **Hold Period** | 10 years (a 5-year interim snapshot is also presented; the construction loan is not repaid at year 5) |
+| **Projected LP IRR (projection — not guaranteed)** | 32.1% (10-year) / 25.7% (5-year interim; loan not repaid at year 5) |
+| **Projected LP Equity Multiple (projection — not guaranteed)** | 2.88x (10-year) / 1.79x (5-year interim; loan not repaid at year 5) |
+| **Projected Total LP Distributions (projection — not guaranteed)** | $14,834,476 (10-year) / $9,217,829 (5-year interim) |
+| **Distributions** | Quarterly, beginning when cash flow permits (first project revenue projected in Year 2 of operations, 2028) |
 | **K-1 Reporting** | Annual Schedule K-1 provided to each investor |
 | **Offering Period** | Commencing July 2026 [TO CONFIRM closing dates] |
 | **Closing** | Rolling closings at Manager's discretion [TO CONFIRM minimum first close] |
@@ -98,10 +103,10 @@ The following is a summary of the material terms of the offering. This summary i
 | **Land Closing** | 2026 (predevelopment: due diligence, watershed/hydrology, entitlements, MUD) |
 | **Entitlements / Permitting** | 2026-2027 (estimated 12-16 month permitting) |
 | **Groundbreaking (infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture)** | 2027 |
-| **First Revenue (hospitality opens; model home; tiny homes deliver; lot and SFR sales launch)** | 2028 |
+| **First Revenue (hospitality opens; model home; tiny homes deliver; lot sales launch)** | 2028 (Year 2 of operations) |
 | **First Distributions** | [TO CONFIRM] (estimated following first revenue in 2028) |
-| **Construction Completion** | 2031 |
-| **Stabilized Operations (~$7-8M/yr recurring)** | 2032+ |
+| **Construction Completion (Full Project master plan)** | 2031 |
+| **Stabilized Operations (~$7-8M/yr recurring — Full Project master plan)** | 2032+ |
 
 ### 1.3 Entity Structure
 
@@ -124,7 +129,7 @@ Abundancia Community LLC is a single Delaware manager-managed limited liability 
 
 ### 2.1 Securities Offered
 
-The Company is offering Class A Units (the "Units") at a purchase price of $50,000 per Unit [TO CONFIRM], for a maximum aggregate offering amount of approximately $5,100,000 — the Class A LP equity component of the Company's $12,673,266 Year-1 capitalization (which also includes $100,000 of GP equity and $8,871,286 of construction debt at approximately 9%). All offering terms are subject to final documentation and review by securities counsel. Each Unit represents a proportional Class A membership interest in the Company, entitling the holder to:
+The Company is offering Class A Units (the "Units") at a purchase price of $50,000 per Unit, for a maximum aggregate offering amount of approximately $5,154,032 (approximately 103 Units) — the Class A LP equity component of the Company's $13,354,032 Phase 1 total capitalization (which also includes a $500,000 GP co-investment invested pari passu with the Class A LP equity and $7,700,000 of Phase 1 construction debt at 8.5%, 10-year fully amortizing). All offering terms are subject to final documentation and review by securities counsel. Each Unit represents a proportional Class A membership interest in the Company, entitling the holder to:
 
 (a) Distributions of available cash flow, subject to the waterfall described in Section 8;
 
@@ -138,7 +143,7 @@ The Company is offering Class A Units (the "Units") at a purchase price of $50,0
 
 ### 2.2 Minimum Investment
 
-The minimum investment is $50,000 (1 Unit) [TO CONFIRM]. The Manager, in its sole discretion, may accept subscriptions for fractional amounts or waive the minimum investment requirement for certain investors.
+The minimum investment is $50,000 (1 Unit). The Manager, in its sole discretion, may accept subscriptions for fractional amounts or waive the minimum investment requirement for certain investors.
 
 ### 2.3 Offering Period
 
@@ -188,9 +193,32 @@ The Company's primary business objectives are:
 
 (g) **Establish** a replicable model for regenerative community development that may be deployed in additional markets.
 
-### 3.3 Development Program
+*The business objectives above describe the full multi-phase master plan. The investment offered by this Memorandum is Phase 1 only, as described in Section 3.3; the later phases are presented as master-plan context and potential future upside.*
 
-The Company intends to develop the following program (651 structures plus 100 estate lots; construction 2027-2031) over a 10-year period:
+### 3.3 Phase 1 — The Investment Offered
+
+The offering described in this Memorandum funds Phase 1 of the master plan ("Foundation & Community Activation," Years 1–2 of construction), with a 10-year operating hold. The Phase 1 program comprises:
+
+- **Year 1:** Community Center (5,000 SF: lounge, co-working, gym, yoga, meditation, community kitchen, library); spring-fed Natural Pool with Parks & Recreation; 50 short-term nature stays (20 glamping tents, 15 domes, 5 high-end domes, 10 camping spaces); Regenerative Center (event space, 6 retreat rooms, and the renovated barn); Health & Wellness / Longevity Center & Spa (sauna, hot tub, cold plunge, massage, bio-optimization, health center); and the Permaculture Mandala Garden.
+- **Year 2:** Model Home; 60 tiny-home sales (16 studio, 18 one-bedroom, 20 two-bedroom, 6 early-discount); 80 residential lot sales; 6BR Rental/Event House; completion of the infrastructure backbone.
+
+**Phase 1 Projected Operating Results (10-year hold; projections — not guaranteed):**
+
+| Phase 1 Revenue Category | 10-Year Projected Revenue |
+|---|---|
+| Rentals & Hospitality | $32,549,450 |
+| Tiny Home Sales (60 tiny homes, Year 2) | $8,856,322 |
+| Lot Sales (80 residential lots, Years 2–3) | $10,817,449 |
+| Commercial & Amenities | $7,409,222 |
+| **Total Phase 1 10-Year Projected Revenue** | **$59,632,442** |
+
+Projected Phase 1 EBITDA totals $21,540,503 over the 10-year hold. Year 1 EBITDA is projected at approximately negative $11.8 million (the construction year, funded by the Year-0 capitalization); EBITDA turns positive in Year 2 (projected $7,509,938) with first revenue in Year 2 of operations, and the cumulative position is projected to reach break-even in Year 3. No houses or condominiums are sold in Phase 1; Phase 1 for-sale products are tiny homes and residential lots.
+
+Phase 1 hard construction costs are approximately $16.7 million across Years 1–2 (approximately $6.65M in Year 1 and $10.01M in Year 2, of which infrastructure is $1,759,523 and $4,191,808 respectively).
+
+### 3.4 Development Program — Full Project (All Phases) Master-Plan Context
+
+*The following describes the complete multi-phase master plan within which the Phase 1 investment sits. It is provided as context and is not the basis of the investor economics offered hereby; later phases represent potential future upside and additional sponsor revenue capacity.* The full master plan comprises the following program (651 structures plus 100 estate lots; construction 2027-2031) over a 10-year period:
 
 | Product Type | Units | Pricing Basis (model, blended realized) | Projected Revenue | Timing |
 |---|---|---|---|---|
@@ -202,9 +230,9 @@ The Company intends to develop the following program (651 structures plus 100 es
 | Rentals (126: 6BR event house, 75 rental condos, 50 nature stays) | 126 | Nature stays $150-$375/night | $44,031,597 (10-yr) | 2028+ |
 | Commercial (12 spaces / 30,000 SF) | 12 | — | $7,102,227 (10-yr) | 2028+ |
 
-**Total 10-Year Projected Revenue: $400,565,031** (projection — not guaranteed)
+**Total Full Project (All Phases) 10-Year Projected Revenue: $400,565,031** (projection — not guaranteed; master-plan context — not the basis of the Phase 1 investor economics offered hereby)
 
-### 3.4 Competitive Position
+### 3.5 Competitive Position
 
 The Company believes it occupies a unique competitive position in the Austin market as:
 
@@ -213,7 +241,7 @@ The Company believes it occupies a unique competitive position in the Austin mar
 - Non-toxic, carbon-sequestering hempcrete construction (hemp growth plus lime carbonation) at community scale
 - One of the few Austin-area developments offering multiple distinct residential product types across a single community
 
-### 3.5 Stage of Development
+### 3.6 Stage of Development
 
 As of the date of this Memorandum, the Company is in the predevelopment stage (due diligence, watershed/hydrology analysis, entitlements, MUD formation, and capital close targeted for 2026). The property has been identified and preliminary due diligence has been conducted, but no binding purchase agreement has been executed. Land acquisition terms remain a modeled scenario, subject to final terms. Land acquisition is contingent upon achievement of the minimum offering amount [TO CONFIRM].
 
@@ -314,27 +342,27 @@ The acquisition is subject to satisfactory completion of due diligence, includin
 
 ## 5. Use of Proceeds
 
-### 5.1 Allocation of Offering Proceeds
+### 5.1 Allocation of Offering Proceeds — Phase 1
 
-The Company's Year-1 capitalization and anticipated Year-1 uses are as follows (subject to final documentation and review by securities counsel):
+The offering proceeds fund Phase 1 of the master plan. The Company's Phase 1 capitalization and anticipated uses are as follows (subject to final documentation and review by securities counsel):
 
-**Year-1 Sources of Capital**
+**Phase 1 Sources of Capital**
 
 | Source | Amount | Description |
 |---|---|---|
-| **Class A LP Equity (this offering)** | ~$5,100,000 | Class A Units offered to accredited investors |
-| **GP Equity (Class B)** | $100,000 | Manager/GP contribution (additional $500,000 GP co-invest within the debt + GP layer) |
-| **Construction Debt** | $8,871,286 | Approximately 9% interest; approximately $1.35M/yr debt service |
-| **Total Year-1 Capitalization** | **$12,673,266** | Total sources of ~$14.07M versus Year-1 uses of ~$12.87M |
+| **Class A LP Equity (this offering)** | ~$5,154,032 | Class A Units offered to accredited investors |
+| **GP Co-Investment Equity** | $500,000 | Manager/GP equity invested pari passu with the Class A LP equity |
+| **Phase 1 Construction Debt** | $7,700,000 | 8.5% interest, 10-year fully amortizing; annual debt service $1,173,539 |
+| **Total Phase 1 Capitalization** | **$13,354,032** | Phase 1 Years 1–2 construction is funded by this capitalization together with Year 2 project revenue |
 
-**Year-1 Uses (Year 1 = 2027)**
+**Phase 1 Uses (construction Years 1–2)**
 
 | Category | Amount | Description |
 |---|---|---|
 | **Land Acquisition (modeled scenario)** | ~$2,170,000 | 20% down on ~$6.5M purchase price, ~5% closing costs, 8% land loan (scenario — subject to final terms) |
-| **Hard Costs (2027 construction)** | ~$6,650,000 | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture (2027 hard costs per model) |
+| **Hard Costs (Year 1 construction)** | ~$6,650,000 | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture (Year 1 hard costs per model; includes $1,759,523 infrastructure) |
+| **Hard Costs (Year 2 construction)** | ~$10,010,000 | Model home, tiny homes, lot development, 6BR Rental/Event House, infrastructure backbone completion (includes $4,191,808 infrastructure); funded by the Phase 1 capitalization together with Year 2 project revenue |
 | **Soft Costs, Operations, Marketing, Reserves & Offering Costs** | [TO CONFIRM itemization] | Design, engineering, permitting, entitlements, watershed/hydrology analysis, staffing, marketing, contingency and reserves, offering costs |
-| **Total Year-1 Uses** | **~$12,870,000** | Per financial model |
 
 ### 5.2 Adequacy of Proceeds
 
@@ -352,13 +380,13 @@ The Company believes the net proceeds of this offering, together with anticipate
 
 There can be no assurance that additional financing, if needed, will be available on terms acceptable to the Company or at all.
 
-### 5.3 Additional Financing Sources
+### 5.3 Additional Financing Sources — Full Project (All Phases) Context
 
-Beyond the initial equity raise, the Company anticipates utilizing the following financing sources (total project cost including financing is projected at $268,747,911; hard construction costs by year: 2027 ~$6.65M; 2028 ~$10.01M; 2029 ~$56.85M; 2030 ~$53.39M; 2031 ~$118.73M):
+*The following describes financing for the full multi-phase master plan. The Phase 1 offering is capitalized as described in Section 5.1; later-phase financing would fund Phases 2–3, which are presented as master-plan context and potential future upside and are not required for the projected Phase 1 investor returns.* Beyond the Phase 1 capitalization, the full master plan anticipates the following financing sources (Full Project total cost including financing is projected at $268,747,911; hard construction costs by year: 2027 ~$6.65M; 2028 ~$10.01M; 2029 ~$56.85M; 2030 ~$53.39M; 2031 ~$118.73M):
 
 | Source | Estimated Amount | Timing | Terms |
 |---|---|---|---|
-| **Construction Financing** | $8,871,286 in Year 1; later-phase amounts [TO CONFIRM] | 2027-2031 (phased) | Year-1 debt at approximately 9% interest (~$1.35M/yr service); later-phase terms to be determined |
+| **Construction Financing** | $7,700,000 Phase 1 debt; later-phase amounts [TO CONFIRM] | 2027-2031 (phased) | Phase 1 debt at 8.5% interest, 10-year fully amortizing (annual service $1,173,539); later-phase terms to be determined |
 | **MUD Bond Proceeds** | [TO CONFIRM] | Following MUD formation (engineering underway — Fred Haas, PE) | Tax-exempt bonds; repaid through ad valorem taxes; estimated/preliminary |
 | **Project Revenue (Reinvested)** | Per financial model (first revenue 2028; cumulative break-even in Year 3, 2029) | 2028-2031 | Net cash flow from sales, rental, and operations reinvested into subsequent phases |
 | **Potential Additional Equity** | [TO CONFIRM] | If warranted | Terms to be determined; may involve new class of units |
@@ -444,7 +472,7 @@ Ms. Zirna leads retreat programming and operations.
 
 Investors should be aware of the following potential conflicts of interest:
 
-(a) The General Partner has committed a $100,000 GP equity contribution and an additional $500,000 GP co-investment within the $8,871,286 debt + GP capital layer (subject to final documentation and review by securities counsel).
+(a) The General Partner has committed a $500,000 GP co-investment, invested pari passu with the Class A LP equity (subject to final documentation and review by securities counsel).
 
 (b) The General Partner and its affiliates will receive compensation as described in Section 7, which creates an incentive to deploy capital and proceed with development regardless of whether doing so is in the best interest of investors.
 
@@ -462,8 +490,8 @@ The General Partner and its affiliates will receive the following compensation i
 
 | Fee | Amount | Timing | Description |
 |---|---|---|---|
-| **Developer Fee** | 4% of total project capital (approximately $500,000) | At close | Compensation for development sponsorship and project execution |
-| **Carried Interest / Promote** | Per waterfall (Section 8) | As distributions are made | General Partner's share of profits above the 10% LP preferred return |
+| **Developer Fee** | 4% of Phase 1 total capitalization ($534,161) | Paid from operating cash flow (first year cash flow allows); does not reduce LP capital basis | Compensation for development sponsorship and project execution |
+| **Carried Interest / Promote** | Per waterfall (Section 8) | As distributions are made | General Partner's tiered promote on profits above the 10% cumulative preferred return and return of capital |
 | **Management Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
 | **Acquisition Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
 | **Construction Management Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
@@ -484,7 +512,7 @@ In addition to the fees described above, the Company will reimburse the General 
 ### 7.3 Fee Calculation Examples
 
 **Developer Fee Example**
-- Developer fee: 4% of total project capital, approximately $500,000, payable at close (subject to final documentation and review by securities counsel)
+- Developer fee: 4% of the $13,354,032 Phase 1 total capitalization = $534,161, paid from operating cash flow in the first year cash flow allows; the fee does not reduce LP capital basis (subject to final documentation and review by securities counsel)
 
 **Other Fees**
 - [TO CONFIRM] — Any additional fee arrangements will be specified in final documentation and reviewed by securities counsel before this Memorandum is finalized.
@@ -495,39 +523,37 @@ In addition to the fees described above, the Company will reimburse the General 
 
 ### 8.1 Distribution Priority
 
-Available cash flow from operations and capital events (sales, refinancing, dissolution) shall be distributed in the following order of priority. A distribution reserve equal to 10% of positive cash flows will be withheld for working capital prior to distributions. All waterfall terms are subject to final documentation and review by securities counsel.
+Available cash flow from operations and capital events (sales, refinancing, dissolution) shall be distributed in the following order of priority. A distribution reserve equal to 20% of positive cash flows will be withheld annually as a safety buffer and released in Year 10. All waterfall terms are subject to final documentation and review by securities counsel.
 
-**Tier 1 — Return of Capital (100% to LPs) [TO CONFIRM ordering relative to Preferred Return]**
+**Step 1 — Distribution Reserve**
 
-First, 100% to the Limited Partners until each Limited Partner has received cumulative distributions equal to its aggregate Capital Contributions.
+First, 20% of positive cash flows is withheld annually as a distribution reserve (safety buffer); the reserve is released to the waterfall in Year 10.
 
-**Tier 2 — Preferred Return (100% to LPs)**
+**Step 2 — Preferred Return and Return of Capital (100% to the Equity Class)**
 
-Second, 100% to the Limited Partners until each Limited Partner has received a cumulative annual return equal to 10% of its unreturned Capital Contribution (the "Preferred Return").
+Second, 100% to the equity class — the Limited Partners and the General Partner's $500,000 pari passu co-investment, pro rata — until the equity class has received a 10% cumulative preferred return and a full return of its Capital Contributions. Return of capital is applied to the LP class first (preferred return and capital are satisfied before any GP promote). [Preferred return compounding mechanics and return-of-capital ordering TO CONFIRM — subject to final documentation.]
 
-**Tier 3 — Above Preferred Return (90% LP / 10% GP)**
+**Step 3 — GP Catch-Up**
 
-Third, above the Preferred Return, 90% to the Limited Partners and 10% to the General Partner.
+Third, a General Partner catch-up: distributions to the General Partner until the General Partner's cumulative promote distributions equal its applicable promote share of the profit distributions made under Step 2 (catch-up mechanics subject to final documentation and review by securities counsel).
 
-**Tier 4 — Above 12% LP IRR (80% LP / 20% GP)**
+**Step 4 — Residual Split (Tiered GP Promote)**
 
-Fourth, after the Limited Partners have achieved a 12% internal rate of return on their Capital Contributions, 80% to the Limited Partners and 20% to the General Partner.
-
-**Tier 5 — Above 15% LP IRR (60% LP / 40% GP)**
-
-Fifth, after the Limited Partners have achieved a 15% internal rate of return on their Capital Contributions, 60% to the Limited Partners and 40% to the General Partner.
+Fourth, all remaining amounts are split between the Limited Partners (pro rata) and the General Partner according to a tiered GP promote based on the LP internal rate of return achieved: a 10% GP promote below a 12% LP IRR; a 20% GP promote in the 12–15% LP IRR band; a 30% GP promote in the 15–18% LP IRR band; and a 40% GP promote above an 18% LP IRR (uncapped).
 
 ### 8.2 Waterfall Summary Table
 
-| Tier | Threshold | LP Share | GP Share | Description |
+| Step | Threshold | LP Share | GP Share | Description |
 |---|---|---|---|---|
-| 1 | Until 1.0x return of capital | 100% | 0% | Return of invested capital [TO CONFIRM ordering] |
-| 2 | Until 10% preferred return (cumulative) | 100% | 0% | Cumulative preferred return |
-| 3 | Above preferred return | 90% | 10% | Base promote tier |
-| 4 | Above 12% LP IRR | 80% | 20% | Performance tier |
-| 5 | Above 15% LP IRR | 60% | 40% | Enhanced performance tier |
+| 1 | All positive cash flows | — | — | 20% distribution reserve withheld annually; released Year 10 |
+| 2 | Until 10% cumulative preferred return + return of capital | 100% to equity class (LP + GP co-invest pro rata) | — | Preferred return and return of capital |
+| 3 | GP catch-up | — | 100% until catch-up satisfied | GP catch-up to its applicable promote share |
+| 4a | Residual, below 12% LP IRR | 90% | 10% promote | Base promote tier |
+| 4b | Residual, 12–15% LP IRR band | 80% | 20% promote | Performance tier |
+| 4c | Residual, 15–18% LP IRR band | 70% | 30% promote | Performance tier |
+| 4d | Residual, above 18% LP IRR | 60% | 40% promote (uncapped) | Enhanced performance tier |
 
-*A 10% distribution reserve is withheld from positive cash flows for working capital. Waterfall terms are subject to final documentation and review by securities counsel; the detailed waterfall schedule is available upon request and figures are being finalized.*
+*A 20% distribution reserve is withheld annually from positive cash flows as a safety buffer and released in Year 10. Waterfall terms are subject to final documentation and review by securities counsel; the detailed waterfall schedule is available upon request.*
 
 ### 8.3 Distribution Timing
 
@@ -537,17 +563,17 @@ The Manager intends to make distributions quarterly, subject to available cash f
 
 In the event that, upon final dissolution and liquidation of the Company, the General Partner has received cumulative distributions in excess of the amounts it would have been entitled to under the waterfall based on the Company's total performance, the General Partner shall return such excess to the Limited Partners (the "Clawback Obligation"). This ensures that the waterfall operates on a whole-fund basis, not a deal-by-deal basis.
 
-### 8.5 Projected LP Returns (Illustrative — $100,000 Investment)
+### 8.5 Projected LP Returns (Illustrative — $100,000 Investment; Phase 1)
 
-| Component | 5-Year Hold | 10-Year Hold |
+| Component | 5-Year Interim Snapshot | 10-Year Hold |
 |---|---|---|
 | **Capital Contributed** | $100,000 | $100,000 |
-| **Projected Cumulative LP Distributions** | ~$266,000 | ~$346,000 |
-| **Projected LP Equity Multiple** | 3.06x | 3.58x |
-| **Projected LP IRR** | 31.6% | 33.5% |
-| **Projected LP ROI** | 206% | 258% |
+| **Projected Cumulative LP Distributions** | $178,847 | $287,823 |
+| **Projected LP Net Profit** | $78,847 | $187,823 |
+| **Projected LP Equity Multiple** | 1.79x | 2.88x |
+| **Projected LP IRR** | 25.7% | 32.1% |
 
-*Projections only — not guaranteed. Actual distributions depend on project performance and may differ materially. Figures are from the Company's financial model (Simple Pro Forma). The detailed tier-by-tier waterfall schedule is available upon request; figures are being finalized. A Phase-1-only downside scenario is also modeled, under which the Project does not proceed past Phase 1 and the model still returns positive LP returns (risk mitigation). All terms subject to final documentation and review by securities counsel.*
+*Projections only — not guaranteed. Actual distributions depend on project performance and may differ materially. Figures are from the Company's Phase 1 financial model and equity waterfall; aggregate projected LP distributions are $14,834,476 over the 10-year hold and $9,217,829 through Year 5. The 5-year column is an interim snapshot, not a separate hold scenario: the construction loan is not repaid at year 5 (projected debt outstanding of $4,624,498 at Year 5). The detailed tier-by-tier waterfall schedule is available upon request. These returns are projected from Phase 1 alone; Phases 2–3 of the master plan represent potential additional upside and give the sponsor additional revenue capacity to support the targeted LP return, but are not required for the projected Phase 1 returns. All terms subject to final documentation and review by securities counsel.*
 
 ---
 
@@ -567,11 +593,11 @@ The following is a summary of certain risks associated with an investment in the
 
 **Competition.** The Austin MSA is an active market for residential development. New master-planned communities, conventional subdivisions, and infill projects compete for the same buyer pool. There can be no assurance that the Company's differentiated positioning will sustain pricing premiums throughout the development period.
 
-**Pricing Risk.** The financial projections assume specific pricing for each product type. Actual achievable prices may be lower than projected due to market conditions, competition, or other factors. A 10% reduction in achievable prices would reduce projected revenue by approximately $40 million.
+**Pricing Risk.** The financial projections assume specific pricing for each product type. Actual achievable prices may be lower than projected due to market conditions, competition, or other factors. A 10% reduction in achievable prices would reduce projected Phase 1 revenue by approximately $6 million (and full-project master-plan revenue by approximately $40 million).
 
 ### 9.3 Construction Risks
 
-**Cost Overruns.** Construction costs may exceed projections due to material price increases, labor shortages, design changes, unforeseen site conditions, or contractor performance issues. While the financial model includes a 10% contingency (approximately $28.6 million over the project) and a 10% distribution reserve for working capital, cost overruns exceeding these reserves would require additional capital.
+**Cost Overruns.** Construction costs may exceed projections due to material price increases, labor shortages, design changes, unforeseen site conditions, or contractor performance issues. While the financial model includes a 10% contingency (approximately $28.6 million over the full multi-phase project) and a 20% distribution reserve withheld annually from positive cash flows as a safety buffer, cost overruns exceeding these reserves would require additional capital.
 
 **Hempcrete Construction Risk.** While hempcrete is a proven building material internationally, the domestic hempcrete construction industry is less mature than conventional construction. The Company may face challenges sourcing qualified hempcrete contractors, obtaining consistent material supply, and achieving projected construction timelines.
 
@@ -603,7 +629,7 @@ The following is a summary of certain risks associated with an investment in the
 
 ### 9.6 Liquidity Risk
 
-**No Public Market.** There is no public market for the Units, and none is expected to develop. The Units are subject to significant transfer restrictions under the Operating Agreement and applicable securities laws. Investors should be prepared to hold their investment for the full project term (5-year and 10-year hold scenarios are presented; construction completion is projected in 2031 with stabilized operations from 2032).
+**No Public Market.** There is no public market for the Units, and none is expected to develop. The Units are subject to significant transfer restrictions under the Operating Agreement and applicable securities laws. Investors should be prepared to hold their investment for the full 10-year hold period (a 5-year interim snapshot is presented, but the construction loan is not repaid at year 5; full-project master-plan construction completion is projected in 2031 with stabilized operations from 2032).
 
 **Limited Redemption.** The Company is not obligated to redeem or repurchase Units from investors. While the Manager may, in its discretion, facilitate transfers between investors, there can be no assurance that any secondary market or transfer opportunity will be available.
 
@@ -675,7 +701,7 @@ In addition to meeting the accredited investor standard, prospective investors s
 
 - Their overall financial situation and the percentage of portfolio allocated to illiquid investments
 - Their ability to bear the economic risk of a total loss of the investment
-- Their investment time horizon (5-10+ years; construction completion projected 2031)
+- Their investment time horizon (10-year hold; full-project master-plan construction completion projected 2031)
 - Their need for current income (distributions are not guaranteed)
 - Their understanding of real estate development risks
 - Their tax situation and the ability to utilize pass-through losses and deductions

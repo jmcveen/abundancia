@@ -128,8 +128,8 @@ The Company utilizes a GP/LP-style structure implemented through two unit classe
 | **Manager** | New Earth Development leadership (Kelly Krezek, Chief Executive Officer); Manager legal entity name [TO CONFIRM] |
 | **Units Held** | Class B Units (GP/Manager) |
 | **Role** | Manager of the Company (manager-managed LLC) |
-| **GP Capital** | $100,000 GP capital contribution; $500,000 GP co-investment within the $8,871,286 debt + GP layer of the Year-1 capitalization (subject to final documentation) |
-| **Developer Fee** | 4% of total project capital (approximately $500,000) at close (subject to final documentation) |
+| **GP Capital** | $500,000 GP co-investment, invested pari passu with Class A (LP) capital (subject to final documentation) |
+| **Developer Fee** | 4% of Phase-1 capitalization ($534,161), paid from operating cash flow (subject to final documentation) |
 | **Management Fee** | [TO CONFIRM] |
 | **Carried Interest** | Per waterfall schedule (see Section 4.4) |
 
@@ -139,32 +139,34 @@ The Manager has authority over the management and operations of the Company, sub
 
 Class A investors are passive investors who contribute capital in exchange for Class A Units. All Class A investors must qualify as "accredited investors" as defined in Rule 501(a) of Regulation D under the Securities Act of 1933, as amended (exemption structure subject to final structuring and securities counsel review).
 
-**Minimum Investment:** [TO CONFIRM]
+**Minimum Investment:** $50,000 (one Unit at $50,000; subject to confirmation in the final Offering Documents)
 
-**Year-1 Capitalization Context:** Total Year-1 capitalization is **$12,673,266**, comprising approximately **$5.1 million of Class A (LP) equity**, $100,000 of GP capital, and $8,871,286 of construction debt (~9% rate).
+**Phase 1 Capitalization Context:** This offering relates to **Phase 1** of the development program (the full multi-phase project remains the master-plan context). Total Phase-1 capitalization is **$13,354,032**, comprising approximately **$5,154,032 of Class A (LP) equity**, $500,000 of GP co-investment, and $7,700,000 of construction debt (8.5% rate, 10-year fully amortizing).
 
 **LP Economic Rights (subject to final documentation):**
 - 10% cumulative preferred return on contributed capital
 - Pro rata share of distributable cash flow per waterfall schedule
 - LP-priority waterfall before GP promote participation
-- Distributions subject to available cash flow and a 10% distribution reserve withheld from positive cash flows for working capital
+- Distributions subject to available cash flow and a 20% distribution reserve withheld annually from positive cash flows as a safety buffer (released in Year 10)
 
 ### 4.4 Distribution Waterfall
 
 Distributions of available cash flow are intended to be made in the following order of priority (structure per the Company's equity waterfall terms — **subject to final documentation**):
 
-| Tier | Distribution Level | LP Share | GP Share |
-|------|-------------------|----------|----------|
-| **Preferred** | 10% cumulative LP preferred return | 100% | 0% |
-| **Tier 1** | Above preferred return | 90% | 10% |
-| **Tier 2** | Above 12% LP IRR | 80% | 20% |
-| **Tier 3** | Above 15% LP IRR | 60% | 40% |
+| Tier | Distribution Level | LP Share | GP Promote |
+|------|-------------------|----------|------------|
+| **Preferred** | 10% cumulative LP preferred return and return of capital | 100% | 0% |
+| **Catch-Up** | GP catch-up | — | Per catch-up mechanics |
+| **Tier 1** | Below 12% LP IRR | 90% | 10% |
+| **Tier 2** | 12% to 15% LP IRR | 80% | 20% |
+| **Tier 3** | 15% to 18% LP IRR | 70% | 30% |
+| **Tier 4** | Above 18% LP IRR (uncapped) | 60% | 40% |
 
 **Waterfall Mechanics (subject to final documentation):**
 
-- **Preferred Return.** LPs receive a cumulative 10% preferred return on capital contributions. No promote distributions are made to the GP until the preferred return is satisfied.
-- **Distribution Reserve.** A 10% distribution reserve is withheld from positive cash flows for working capital.
-- **GP Catch-Up.** [TO CONFIRM]
+- **Preferred Return.** LPs receive a cumulative 10% preferred return on capital contributions. 100% of distributions go to the equity class until the preferred return is satisfied and capital is returned (LP-class first); no promote distributions are made to the GP until then.
+- **Distribution Reserve.** A 20% distribution reserve is withheld annually from positive cash flows as a safety buffer, released in Year 10.
+- **GP Catch-Up.** A GP catch-up applies after satisfaction of the preferred return and return of capital, followed by the tiered promote above.
 - **Clawback.** [TO CONFIRM]
 - A detailed waterfall schedule is available upon request; figures are being finalized.
 
@@ -252,7 +254,7 @@ Upon removal, Class A members holding a majority-in-interest shall appoint a suc
 
 - **Preferred Return.** 10% cumulative preferred return ensures LPs receive baseline economic returns before GP promote participation.
 - **Distribution Priority.** LP-priority waterfall as described in Section 4.4.
-- **Distribution Reserve.** 10% distribution reserve withheld from positive cash flows for working capital, protecting operational continuity.
+- **Distribution Reserve.** 20% distribution reserve withheld annually from positive cash flows as a safety buffer (released in Year 10), protecting operational continuity.
 - **Anti-Dilution.** New issuances of units require either pro rata preemptive rights for existing Class A members or majority Class A consent.
 - **Capital Call Limitations.** Capital calls may not exceed committed capital without Class A consent. Minimum 30 days notice for capital calls.
 

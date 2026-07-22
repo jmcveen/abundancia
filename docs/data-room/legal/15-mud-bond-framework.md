@@ -343,7 +343,7 @@ The General Partner and MUD financial advisor will actively manage the MUD tax r
 
 ### 8.1 How Reimbursement Works
 
-The developer funds infrastructure construction with Company capital (drawn from the Company's Year-1 capitalization of LP equity and construction debt). Upon completion of each infrastructure component, the MUD engineer certifies the costs, TCEQ approves the bond issuance, and the MUD sells bonds. Bond proceeds are then paid to the developer as reimbursement.
+The developer funds infrastructure construction with Company capital (drawn from the Company's Phase-1 capitalization of LP equity, GP co-investment, and construction debt). Upon completion of each infrastructure component, the MUD engineer certifies the costs, TCEQ approves the bond issuance, and the MUD sells bonds. Bond proceeds are then paid to the developer as reimbursement.
 
 ### 8.2 Reimbursement Components
 
@@ -385,7 +385,7 @@ The Reimbursement Agreement is a binding contract between the developer and the 
 
 MUD reimbursement is a significant capital event for the project and its investors:
 
-- **Capital Recycling.** Reimbursement returns infrastructure capital to the series, which can be distributed to LPs or redeployed into subsequent phases.
+- **Capital Recycling.** Reimbursement returns infrastructure capital to the Company, which can be distributed to LPs or redeployed into subsequent phases.
 - **IRR Enhancement.** By recovering 80-90% of infrastructure costs through bond proceeds (plus accrued interest), the effective equity investment in infrastructure is reduced, improving project-level IRR.
 - **Preferred Return Acceleration.** MUD reimbursements contribute to the cash available for LP preferred return and return of capital distributions.
 
@@ -441,10 +441,10 @@ Without MUD financing, the entire cost of public infrastructure (estimated at $8
 
 ### 10.2 Capital Stack Optimization
 
-| Scenario | Infrastructure Equity Required | Year-1 Capitalization | Infrastructure as % of Year-1 Capitalization |
+| Scenario | Infrastructure Equity Required | Phase-1 Capitalization | Infrastructure as % of Phase-1 Capitalization |
 |----------|-------------------------------|--------------------------------------|------------------------------|
-| **Without MUD** | $8M - $12M [TO CONFIRM] | $12,673,266 (≈$5.1M LP equity + $100K GP + $8,871,286 construction debt) | [TO CONFIRM] |
-| **With MUD** | $2M - $4M (bridge funding until reimbursement) [TO CONFIRM] | $12,673,266 (≈$5.1M LP equity + $100K GP + $8,871,286 construction debt) | [TO CONFIRM] |
+| **Without MUD** | $8M - $12M [TO CONFIRM] | $13,354,032 (≈$5,154,032 LP equity + $500,000 GP co-investment + $7,700,000 construction debt) | [TO CONFIRM] |
+| **With MUD** | $2M - $4M (bridge funding until reimbursement) [TO CONFIRM] | $13,354,032 (≈$5,154,032 LP equity + $500,000 GP co-investment + $7,700,000 construction debt) | [TO CONFIRM] |
 
 MUD financing frees a substantial portion of investor equity for land acquisition, vertical construction, amenity development, and operating reserves --- uses with higher return potential than infrastructure.
 
@@ -507,7 +507,7 @@ The following developments in the greater Austin region have successfully utiliz
 
 **Risk:** Delays in TCEQ approval or bond market conditions could extend the gap between developer expenditure and reimbursement beyond projected timelines.
 
-**Mitigation:** Adequate capital reserves in Series B to carry infrastructure costs for an extended period. Interest accrual on developer advances provides partial compensation. Conservative cash flow projections assume a 24-30 month reimbursement lag.
+**Mitigation:** Adequate capital reserves within the Company's capital plan to carry infrastructure costs for an extended period. Interest accrual on developer advances provides partial compensation. Conservative cash flow projections assume a 24-30 month reimbursement lag.
 
 ### 12.5 Tax Rate Competitiveness Risk
 

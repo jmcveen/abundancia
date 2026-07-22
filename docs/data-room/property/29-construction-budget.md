@@ -23,6 +23,7 @@
 ## Table of Contents
 
 1. [Executive Summary](#1-executive-summary)
+    - [Phase 1 Construction (Years 1–2) — The Offering Scope](#phase-1-construction-years-12--the-offering-scope)
 2. [Total Budget Overview](#2-total-budget-overview)
 3. [Land Acquisition & Closing Costs](#3-land-acquisition--closing-costs)
 4. [Site Preparation & Infrastructure](#4-site-preparation--infrastructure)
@@ -40,7 +41,9 @@
 
 ## 1. Executive Summary
 
-Abundancia is a regenerative community development on **376 acres at 176 Cedar Creek Circle, Cedar Creek, TX** (unincorporated Bastrop County), in the Lost Pines ecoregion on the SH-71 corridor — 15-20 minutes from Austin-Bergstrom International Airport and 30-40 minutes from downtown Austin. The project delivers **651 structures plus 100 estate lots** (510 for-sale residences, 126 rental units, 12 commercial spaces / 30,000 SF, and community amenities) across a 2027-2031 construction program, built primarily in hempcrete with layered regenerative water and energy infrastructure.
+Abundancia is a regenerative community development on **376 acres at 176 Cedar Creek Circle, Cedar Creek, TX** (unincorporated Bastrop County), in the Lost Pines ecoregion on the SH-71 corridor — 15-20 minutes from Austin-Bergstrom International Airport and 30-40 minutes from downtown Austin. The full master plan delivers **651 structures plus 100 estate lots** (510 for-sale residences, 126 rental units, 12 commercial spaces / 30,000 SF, and community amenities) across a 2027-2031 construction program, built primarily in hempcrete with layered regenerative water and energy infrastructure.
+
+> **THE OFFERING FUNDS PHASE 1 (YEARS 1–2) ONLY.** The Phase-1 construction scope and budget are set out in the "Phase 1 Construction (Years 1–2) — The Offering Scope" section below. The full 2027–2031 five-year construction program in the remainder of this document is the master-plan **context** for later phases, which are future upside and a sponsor backstop — not the investor's economics.
 
 ### 1.1 Budget Summary at a Glance
 
@@ -64,7 +67,8 @@ Abundancia is a regenerative community development on **376 acres at 176 Cedar C
 | Vertical Construction | ~746,000 SF (~878,000 SF total developed incl. roads) |
 | Building Footprint | ~16.1 acres of structures (4.28% of site) |
 | Construction Cost per SF | $300 standard tier / $450 estate tier |
-| Year-1 Capitalization (2027) | $12,673,266 total (~$5.1M LP equity + $100K GP + $8,871,286 construction debt at ~9%, ~$1.35M/yr service) |
+| Phase-1 Total Capitalization (the offering) | $13,354,032 ($5,154,032 LP equity + $500,000 GP co-invest + $7,700,000 debt @ 8.5%, $1,173,539/yr service) |
+| Phase-1 Hard Costs (Years 1–2) | ~$16.7M (~$6.65M Year 1 + ~$10.01M Year 2) |
 | First Revenue | 2028 |
 | Cumulative Break-Even | Year 3 (2029) |
 | Construction Timeline | 2027-2031 (5 years); stabilized 2032+ |
@@ -86,7 +90,53 @@ The hempcrete building market is growing at approximately 15%/yr CAGR (GMI). Reg
 
 ---
 
+## PHASE 1 CONSTRUCTION (YEARS 1–2) — THE OFFERING SCOPE
+
+**This is the construction program funded by the Phase-1 offering** — approximately **$16.7M of hard costs** across Years 1–2, funded by the **$13,354,032 Year-0 Phase-1 capitalization** ($5,154,032 LP equity + $500,000 GP co-invest + $7,700,000 debt @ 8.5%) **plus early operating cash flow**.
+
+### Year 1 (2027) — Foundation & Community Activation (~$6.65M hard costs)
+
+| Component | Scope | Budget |
+|-----------|-------|-------:|
+| Backbone infrastructure | Roads, water systems, OSSF wastewater, power, fiber | $1,759,523 |
+| Community Center | 5,000 SF — lounge, co-working, gym, yoga, meditation, community kitchen, library | $1,537,500 |
+| Longevity Center & Spa | 5,000 SF — sauna, hot tub, cold plunge, massage, bio-optimization, health center | $1,537,500 |
+| Nature stays — glamping tents | 20 units | $315,504 |
+| Nature stays — domes | 15 units | $924,000 |
+| Nature stays — high-end domes | 5 units | $423,500 |
+| Nature stays — camping spaces | 10 spaces | $30,000 |
+| Parks & Recreation | Initial parks program | $120,000 |
+| **Year-1 Total** | **50 short-term nature stays + community/wellness core + infrastructure** | **~$6.65M** |
+
+*Year-1 scope also includes the spring-fed Natural Pool, Regenerative Center (event space + 6 retreat rooms + renovated barn), and Permaculture Mandala Garden within the program above.*
+
+### Year 2 (2028) — Sales Products & Infrastructure Backbone (~$10.01M hard costs)
+
+| Component | Scope | Budget |
+|-----------|-------|-------:|
+| Backbone infrastructure | Infrastructure backbone completed | $4,191,808 |
+| Tiny homes | 60 tiny homes (16 studio / 18 one-BR / 20 two-BR / 6 early-discount) — SOLD in Year 2 | ~$3,884,800 |
+| Prepared residential lots | 100 lots prepared | $90,340 |
+| 6BR Rental/Event House | 6,000 SF | $1,845,000 |
+| **Year-2 Total** | **Model home, tiny-home program, lot preparation, event house** | **~$10.01M** |
+
+### Phase-1 Construction Summary
+
+| Metric | Value |
+|--------|------:|
+| **Phase-1 hard costs (Years 1–2)** | **~$16.7M** |
+| Funding | $13,354,032 Year-0 capitalization + early operating cash flow |
+| Phase-1 debt | $7,700,000 @ 8.5%, 10-yr fully amortizing ($1,173,539/yr service) |
+| Lots | **100 residential lots PREPARED; 80 SOLD during Phase 1** ($10,817,449, Years 2–3, per the Phase-1 model) |
+| Tiny homes | 60 sold Year 2 ($8,856,322) |
+
+*Later-phase construction (2029–2031, ~$229M of hard costs in the full-project master plan below) is context only — it is not funded by, and the Phase-1 offering's projected returns do not depend on, those phases proceeding.*
+
+---
+
 ## 2. Total Budget Overview
+
+> *Full project (all phases) — master-plan context. The offering funds Phase 1 only (see the Phase-1 section above).*
 
 ### 2.1 Master Budget by Category
 
@@ -169,6 +219,8 @@ Total site work budget: **$8,340,194** (within total hard costs).
 ---
 
 ## 5. Construction Program by Year (2027-2031)
+
+> *Full project (all phases) — master-plan context. Years 2027–2028 correspond to the Phase-1 offering scope (detailed in the Phase-1 section above); 2029–2031 are later phases — upside/backstop context only.*
 
 ### 5.1 2027 — Groundbreaking (~$6.65M hard costs)
 
@@ -318,7 +370,7 @@ Homes are positioned "from approximately $450/SF" with model blended realized pr
 
 ### 9.3 Reserve Context
 
-A 10% distribution reserve is also withheld from positive cash flows for working capital under the equity waterfall structure (subject to final documentation). Industry benchmark: institutional lenders typically require 5-10% contingency for ground-up development; the model's 10% contingency sits at the top of that range, with additional risk mitigation from the phased 2027-2031 delivery strategy and a modeled Phase-1-only downside scenario that still returns positive LP returns.
+A **20% distribution reserve** is also withheld annually from positive cash flows as a safety buffer under the equity waterfall structure, released in Year 10 (subject to final documentation). Industry benchmark: institutional lenders typically require 5-10% contingency for ground-up development; the model's 10% contingency sits at the top of that range, with additional risk mitigation from the phased 2027-2031 delivery strategy — and, structurally, from the fact that **the offering is underwritten on Phase 1 alone** (base case 32.1% LP IRR / 2.88x), with later phases serving as upside and a sponsor backstop.
 
 ---
 
@@ -344,7 +396,7 @@ A 10% distribution reserve is also withheld from positive cash flows for working
 
 ### 10.3 Capitalization Context
 
-Year-1 (2027) capitalization totals **$12,673,266**: approximately $5.1M LP equity + $100K GP + $8,871,286 construction debt (~9% rate, ~$1.35M/yr service). Year-1 sources of $14.07M cover Year-1 uses of $12.87M. Detailed waterfall schedule available upon request; figures being finalized and subject to final documentation and review by securities counsel.
+**The offering's capitalization is the Phase-1 stack: $13,354,032** — $5,154,032 LP equity (91.16% of equity) + $500,000 GP co-invest (8.84%, pari passu) + $7,700,000 debt @ 8.5% (10-yr fully amortizing, $1,173,539/yr service). In the full-project model (all phases — context only), the construction facility is $8,871,286 @ 8.5% ($1,352,052/yr service), Year-1 capitalization is $12,673,266, and Year-1 sources of $14.07M cover Year-1 uses of $12.87M. Detailed waterfall schedule available upon request; subject to final documentation and review by securities counsel.
 
 ---
 
@@ -416,10 +468,10 @@ STABILIZED OPS                                                                  
 
 | Metric | Value |
 |--------|------:|
-| Year-1 (2027) capitalization | $12,673,266 (~$5.1M LP + $100K GP + $8,871,286 debt) |
-| Construction debt rate | ~9% (~$1.35M/yr service) |
-| Year-1 sources vs. uses | $14.07M sources vs. $12.87M uses |
-| Later-year construction | Funded by sales revenue (first revenue 2028; cumulative break-even 2029), construction financing, and MUD-eligible infrastructure reimbursement |
+| Phase-1 (the offering) Year-0 capitalization | $13,354,032 ($5,154,032 LP + $500,000 GP co-invest + $7,700,000 debt) |
+| Phase-1 debt | $7,700,000 @ 8.5%, 10-yr fully amortizing ($1,173,539/yr service) |
+| Phase-1 construction (Years 1–2, ~$16.7M hard cost) | Funded by the $13,354,032 Year-0 capitalization + early operating cash flow |
+| Later-phase construction (2029–2031 — context) | Funded by sales revenue (first revenue 2028; cumulative break-even 2029), construction financing, and MUD-eligible infrastructure reimbursement — not by the Phase-1 offering |
 
 ---
 
@@ -454,8 +506,8 @@ STABILIZED OPS                                                                  
 | Extended permitting | Low-Medium | Medium | 12-16 mo estimate already assumed; no county zoning; early agency engagement |
 | Water feasibility findings | Low-Medium | High | Symbiosis TX watershed analysis first; layered supply (Aqua WSC, 6 wells + 13 tanks, ponds, rainwater 9-11M gal/yr, 11 AWGs) |
 | Houston toad / LPHCP constraints | Medium | Medium-High | Conservation subdivision pathway; 184.5 acres preserved; flexible site plan |
-| Market softness | Low-Medium | High | Phased delivery; Phase-1-only downside scenario still returns positive LP returns (model) |
-| Interest rate movement | Medium | Medium | ~9% construction debt assumed; MUD financing for qualifying infrastructure |
+| Market softness | Low-Medium | High | Phased delivery; the offering is underwritten on Phase 1 alone (base case 32.1% LP IRR / 2.88x), with later phases as upside/backstop |
+| Interest rate movement | Medium | Medium | 8.5% Phase-1 construction debt assumed ($7,700,000 facility); MUD financing for qualifying infrastructure |
 
 ### 13.4 Hempcrete-Specific Risk Factors
 
@@ -465,7 +517,7 @@ STABILIZED OPS                                                                  
 | Workforce training | Few hempcrete-experienced builders in Texas | Training program; partner with US Hemp Building Association; Gossett build team |
 | Code compliance | IRC alternative-materials pathway required in Bastrop County (IRC-based jurisdiction) | Austin adopted hemp-lime July 2025 (regional precedent); PE structural calculations; alternative materials provision (IRC §104.11) |
 | Moisture during construction | Hempcrete requires dry cure period | Covered pouring/curing stations; dry-season scheduling; moisture monitoring |
-| Lender familiarity | Some construction lenders unfamiliar with hempcrete | Technical documentation; experienced appraisers; Year-1 capitalization structure ($12.67M) already reflects equity + debt mix |
+| Lender familiarity | Some construction lenders unfamiliar with hempcrete | Technical documentation; experienced appraisers; Phase-1 capitalization structure ($13,354,032) already reflects equity + debt mix |
 
 ### 13.5 Market Assumptions
 

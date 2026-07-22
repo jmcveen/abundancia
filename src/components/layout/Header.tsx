@@ -150,7 +150,7 @@ export function Header() {
         initial={{ y: -100, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
-        className="fixed top-0 left-0 right-0 z-50 pt-4 md:pt-5 flex justify-center"
+        className="fixed top-0 left-0 right-0 z-50 pt-4 md:pt-5 flex justify-center print:hidden"
       >
         <nav className={`
           w-[calc(100%-2rem)] sm:w-[90vw] xl:w-[80vw] 2xl:w-[75vw]

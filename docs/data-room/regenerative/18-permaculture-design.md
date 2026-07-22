@@ -46,7 +46,7 @@
 
 ## 1. Executive Summary
 
-Abundancia's food systems are designed to achieve 80-100% food self-sufficiency (in fruits, vegetables, herbs, eggs, and honey) for the community at build-out. This is not a community garden with raised beds; it is a comprehensive, professionally designed permaculture system integrating multi-layer food forests, intensive annual production zones, animal systems, food processing infrastructure, and a community-owned seed library. The program calls for 330,000 SF of gardens; 8,250 trees (approximately half fruit- and nut-bearing); 8,250 additional supporting plants; and ponds and natural pools totaling approximately 198,516 SF — anchored by a mandala garden built in Phase 1.
+Abundancia's food systems are designed to achieve 80-100% food self-sufficiency (in fruits, vegetables, herbs, eggs, and honey) for the community at build-out. This is not a community garden with raised beds; it is a comprehensive, professionally designed permaculture system integrating multi-layer food forests, intensive annual production zones, animal systems, food processing infrastructure, and a community-owned seed library. The program calls for 330,000 SF of gardens; 8,250 trees (approximately half fruit- and nut-bearing); 8,250 additional supporting plants; and ponds and natural pools totaling approximately 198,516 SF — anchored by the Permaculture Mandala Garden, planted in Phase 1 Year 1.
 
 Central Texas's USDA Zone 8b designation provides a 250+ day growing season with the capacity for year-round food production. The site's 7 existing water-retention ponds (with more to be created), planned well and storage program (6 wells, 13 storage tanks with filtration), and per-building rainwater harvesting provide layered water security alongside Aqua Water Supply Corporation utility service. Per the authoritative land-use plan, 42 acres are dedicated to regenerative agriculture and 8.5 acres to permaculture gardens and barns, with 184.5 acres (49% of the 376-acre site) preserved as conservation land, native habitat, and managed wildlands — structures occupy only ~4.3% of the land.
 
@@ -364,7 +364,7 @@ A guild is a group of plants that work together synergistically. Abundancia's fo
 
 ### 8.2 Self-Sufficiency Analysis
 
-*Note: Population and plot counts in this section reflect an initial 150-200-household planning scenario. The current program (510 for-sale residences plus rentals at build-out) is larger; yield and self-sufficiency figures will be rescaled in the next design iteration [TO CONFIRM].*
+*Note: Population and plot counts in this section reflect an initial 150-200-household planning scenario. The current program (510 for-sale residences plus rentals at build-out) is larger; yield and self-sufficiency figures will be rescaled in the next design iteration [TO CONFIRM]. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with the food system build-out scaling across later phases.*
 
 | Metric | Value |
 |--------|-------|
@@ -674,7 +674,7 @@ The food forest zones are designed on contour with swale-and-berm earthworks tha
 | Phase | Timeline | Activities | Investment |
 |-------|----------|------------|------------|
 | Phase 0 (Pre-development) | Months 1-6 | Site analysis, soil testing, design finalization, permitting | $30,000-$50,000 |
-| Phase 1 (Foundation) | Months 6-12 | Mandala garden installation (Phase 1 anchor), swale construction, sheet mulching, cover cropping, tree planting (food forests), well/pond irrigation infrastructure | $150,000-$250,000 |
+| Phase 1 (Foundation) | Months 6-12 | Mandala garden installation (planted in Phase 1, Year 1 — the Phase 1 anchor), swale construction, sheet mulching, cover cropping, tree planting (food forests), well/pond irrigation infrastructure | $150,000-$250,000 |
 | Phase 2 (Infrastructure) | Months 12-18 | Greenhouse construction, community garden beds, tool storage, processing kitchen shell | $200,000-$300,000 |
 | Phase 3 (Production launch) | Months 18-24 | First garden season, greenhouse operational, poultry introduced, composting systems active | $80,000-$120,000 |
 | Phase 4 (Expansion) | Months 24-36 | Full community garden allocation, seed library launch, education programs begin, processing kitchen fully equipped | $60,000-$100,000 |

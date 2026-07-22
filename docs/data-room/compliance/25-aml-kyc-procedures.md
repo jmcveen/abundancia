@@ -101,9 +101,9 @@ The Company has conducted a risk assessment of its offering and investor base to
 
 | Risk Factor | Assessment | Rationale |
 |---|---|---|
-| Product Type | Medium | Private real estate securities offering; illiquid, long-term hold |
+| Product Type | Medium | Private real estate securities offering of approximately $5,154,032 (Phase 1; within a $13,354,032 Phase-1 capitalization); illiquid, long-term hold |
 | Offering Method | Medium | Rule 506(c) with general solicitation; accredited investors only |
-| Minimum Investment | Low-Medium | Minimum subscription amount limits casual participation |
+| Minimum Investment | Low-Medium | Minimum subscription amount ($50,000, subject to final Offering Documents) limits casual participation |
 | Geographic Focus | Low | Domestic U.S. project (Cedar Creek, Bastrop County, Texas) |
 | Investor Base | Low-Medium | Accredited investors; inherently higher-net-worth individuals and entities |
 | Transfer Restrictions | Low | Interests are restricted securities with limited transferability |

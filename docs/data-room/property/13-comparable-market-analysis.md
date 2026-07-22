@@ -123,16 +123,19 @@
 
 ### 3.1 Primary Comparables
 
-#### The Sanctuary
+#### The Sanctuary — Texas Hill Country (Dripping Springs area)
 
 | Parameter | Detail |
 |-----------|--------|
-| **Location** | [TO CONFIRM] |
-| **Size / Program** | [TO CONFIRM] |
-| **Pricing** | [TO CONFIRM] |
-| **Key Features** | [TO CONFIRM] |
+| **Location** | Texas Hill Country, ~25 minutes west of Austin near Dripping Springs (sanctuary.co) |
+| **Size / Program** | 104 acres; 116 lots (1.6-acre average lots) |
+| **Home Program** | 15 customizable home plans — from a 520 SF casita to a 10-bedroom flagship |
+| **Infrastructure** | Off-grid — rainwater harvesting + UV purification; greywater reuse |
+| **Building Standards** | Non-toxic materials; low-EMF design |
+| **Wellness Amenities** | Meditation dome, devotion center, biohacking gym, bathhouse, edible garden, bee farm |
+| **Pricing / Sales** | Pricing and sales data being compiled |
 
-**Relevance:** Approved comparable; profile details being compiled for the July 2026 data room revision. [TO CONFIRM]
+**Relevance:** The closest conceptual comparable in the Austin area — a wellness-positioned, off-grid, non-toxic community — validating regional demand for health-forward community product on Austin's west side, while Abundancia serves the east/southeast (SH 71) growth corridor. Pricing and sales data being compiled; no pricing or absorption comparison is made.
 
 #### Whisper Valley — Manor, TX
 
@@ -167,7 +170,7 @@
 | Development | Acres | Program | Conservation | Pricing | Positioning |
 |-------------|-------|-------|---------------|-------------|------------|
 | **Abundancia** | **376** | **651 structures + 100 estate lots (510 for-sale residences, 126 rentals, 30,000 SF commercial)** | **184.5 ac preserved (49%); ~62.5% incl. regenerative agriculture** | **From ~$450/SF (SFR blended ~$566/SF; condos ~$400/SF; tiny homes ~$104K-166K)** | **Regenerative conservation community** |
-| The Sanctuary | [TO CONFIRM] | [TO CONFIRM] | [TO CONFIRM] | [TO CONFIRM] | Comparable community |
+| The Sanctuary | 104 | 116 lots (1.6-acre avg); 15 home plans (520 SF casita to 10-BR flagship) | [TO CONFIRM] | Being compiled | Off-grid wellness community (Hill Country) |
 | Whisper Valley | 2,062 (est.) | ~7,500 planned zero-energy homes | 15-20% (est.) | $300K-750K | Eco master-planned suburban |
 | Serenbe | 1,200 | 750+ residents | ~70% (est.) | From ~$375K | Wellness agrihood |
 
@@ -243,7 +246,9 @@
 | 2029 | 30 | 150 | — | Lot sales continue (lot revenue $22,872,273 across 2028-2029) | 25 | School opens; cumulative break-even |
 | 2030 | 40 | 50 | — | — | — | Village + temple |
 | 2031 | 30 (estate homes) | 150 | — | — | 25 | Construction complete |
-| **Total** | **100** | **350** | **60** | **100** | **50 of 75 program** [TO CONFIRM remaining 25] | 2032+ stabilized (~$7-8M/yr recurring) |
+| **Total** | **100** | **350** | **60** | **100** | **50 of 75 program** [TO CONFIRM remaining 25 — full-project rental-condo scope; not part of Phase 1] | 2032+ stabilized (~$7-8M/yr recurring) |
+
+*Offering scope note: the current investment offering funds Phase 1 (Years 1–2, 2027–2028) only. Phase 1 sales are 60 tiny homes and 80 residential lots, plus hospitality operations — no single-family homes or condominiums are sold in Phase 1. The delivery schedule above is the full-project (all phases) master plan; the full residential program is delivered in subsequent phases.*
 
 ### 5.3 Absorption Rate Benchmarking
 
@@ -417,11 +422,19 @@
 
 ### 9.3 Abundancia vs. The Sanctuary
 
-| Factor | Abundancia | The Sanctuary | Advantage |
-|--------|-----------|---------------|-----------|
-| Profile | 376 acres; 651 structures + 100 lots; 49% preserved | [TO CONFIRM] | [TO CONFIRM] |
+*Qualitative concept comparison only — The Sanctuary's pricing and sales data are being compiled; no pricing, absorption, or premium comparison is made.*
 
-*The Sanctuary comparison to be completed as profile data is compiled for the data room. [TO CONFIRM]*
+| Factor | Abundancia | The Sanctuary | Notes |
+|--------|-----------|---------------|-------|
+| Scale / program | 376 acres; 651 structures + 100 lots (full project); 49% preserved | 104 acres; 116 lots (1.6-acre average) | Different scale and model |
+| Location | Cedar Creek / SH 71 (east/southeast growth corridor) | Texas Hill Country, ~25 min west of Austin near Dripping Springs | Opposite corridors of the metro |
+| Homes | Hempcrete SFR, condos, tiny homes, domes (full project) | 15 customizable home plans — 520 SF casita to 10-BR flagship | Both offer broad size range |
+| Water / energy | Layered supply (Aqua WSC + wells + rainwater + AWG) + community solar/battery | Off-grid — rainwater harvesting + UV purification; greywater reuse | Shared resilience ethos |
+| Healthy building | Non-toxic hempcrete construction | Non-toxic materials; low-EMF design | Shared non-toxic positioning |
+| Wellness amenities | Wellness/Longevity Center & Spa, Event & Healing Center, yoga, ceremony spaces | Meditation dome, devotion center, biohacking gym, bathhouse, edible garden, bee farm | Both amenity-deep; Abundancia adds hospitality/retreat operations and a commercial village |
+| Pricing / sales | Per financial model | Pricing and sales data being compiled | No comparison made |
+
+**Relevance:** The Sanctuary validates Austin-area demand for wellness-positioned, off-grid, non-toxic community living — the same buyer values Abundancia serves — while the two projects sit on opposite sides of the metro and differ in scale and model (lot-sale homestead community vs. conservation community with hospitality, agriculture, and a commercial village).
 
 ---
 

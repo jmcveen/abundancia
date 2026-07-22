@@ -348,7 +348,7 @@ Carbon is sequestered in hempcrete through two distinct pathways:
 | Equivalent: acres of forest (1 year absorption) | [TO CONFIRM] pending recalculation |
 | Equivalent: US homes powered by coal (1 year) | [TO CONFIRM] pending recalculation |
 
-*Note: Community-scale totals in prior drafts were based on an earlier 150-200-home planning scenario and are superseded by the current program (651 structures + 100 estate lots).*
+*Note: Community-scale totals in prior drafts were based on an earlier 150-200-home planning scenario and are superseded by the current program (651 structures + 100 estate lots). The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with hempcrete construction build-out scaling across later phases.*
 
 ### 7.4 Comparison: Carbon Footprint by Construction Method
 

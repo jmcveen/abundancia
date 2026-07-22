@@ -146,21 +146,23 @@ Whisper Valley is the most directly comparable eco-branded development in the Au
 
 ---
 
-### 3.2 The Sanctuary
+### 3.2 The Sanctuary — Texas Hill Country (Dripping Springs area)
 
-The Sanctuary is part of Abundancia's approved comparable set for the regenerative/wellness community category.
+The Sanctuary (sanctuary.co) is part of Abundancia's approved comparable set for the regenerative/wellness community category — a wellness-positioned, off-grid community in the Texas Hill Country approximately 25 minutes west of Austin, near Dripping Springs.
 
 | Parameter | Detail |
 |-----------|--------|
 | **Category** | Wellness/regenerative community comparable |
-| **Location** | [TO CONFIRM] |
-| **Total Acreage** | [TO CONFIRM] |
-| **Total Units Planned** | [TO CONFIRM] |
-| **Price Range** | [TO CONFIRM] |
-| **Key Features** | [TO CONFIRM — comparable profile pending verification] |
-| **Relevance** | Validates demand for wellness-positioned community product; profile to be completed upon verification |
+| **Location** | Texas Hill Country, ~25 min west of Austin near Dripping Springs |
+| **Total Acreage** | 104 acres |
+| **Total Lots** | 116 lots (1.6-acre average) |
+| **Home Program** | 15 customizable home plans — from a 520 SF casita to a 10-bedroom flagship |
+| **Infrastructure** | Off-grid — rainwater harvesting + UV purification; greywater reuse |
+| **Building Standards** | Non-toxic materials; low-EMF design |
+| **Wellness Amenities** | Meditation dome, devotion center, biohacking gym, bathhouse, edible garden, bee farm |
+| **Pricing / Sales** | Pricing and sales data being compiled |
 
-**Strategic Implication:** The Sanctuary's profile is being verified for the data room; a completed comparable assessment will be added in the next revision [TO CONFIRM].
+**Strategic Implication (qualitative only):** The Sanctuary validates Austin-area demand for health-forward, off-grid, non-toxic community living — the same buyer values Abundancia serves. The concept differences are meaningful: The Sanctuary is a 104-acre lot-sale community of individual off-grid homesteads on 1.6-acre lots in the western Hill Country, while Abundancia is a 376-acre conservation community on the east/southeast (SH 71) growth corridor that adds 49% permanently preserved land, regenerative agriculture at scale (42 acres + 8.5 acres permaculture), hospitality and retreat operations, a commercial village, and mixed housing types from tiny homes to estate lots. No pricing, absorption, or premium comparison is made — The Sanctuary's pricing and sales data are being compiled.
 
 ---
 
@@ -321,17 +323,18 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 | **Community solar** | Yes | Yes (geothermal + solar) | [TO CONFIRM] | Partial | No |
 | **Battery storage** | Yes (community + individual) | Yes (Powerwall) | [TO CONFIRM] | No | No |
 | **Geothermal** | Geothermal-ready | Yes (GeoGrid) | [TO CONFIRM] | No | No |
-| **Rainwater harvesting** | Yes (every building) | No | [TO CONFIRM] | No | No |
-| **Greywater reuse** | Yes | No | [TO CONFIRM] | No | No |
-| **Permaculture / regenerative agriculture** | 42 acres + 8.5 acres gardens | Small garden | [TO CONFIRM] | 25 acres | No |
+| **Rainwater harvesting** | Yes (every building) | No | Yes (off-grid: rainwater + UV purification) | No | No |
+| **Greywater reuse** | Yes | No | Yes | No | No |
+| **Non-toxic building standards** | Yes (hempcrete throughout) | No | Yes (non-toxic materials; low-EMF design) | Partial (sustainable finishes) | No |
+| **Permaculture / regenerative agriculture** | 42 acres + 8.5 acres gardens | Small garden | Edible garden + bee farm | 25 acres | No |
 | **Farm-to-table dining** | Yes | No | [TO CONFIRM] | Yes | No |
 | **Retreat stays** | Yes (6BR event house + unique regenerative stays) | No | [TO CONFIRM] | Yes (spa/wellness) | No |
-| **Yoga / meditation** | Yes (2,000 SF studio) | No | [TO CONFIRM] | Yes | No |
-| **Ceremony / sacred spaces** | Yes (Sacred Temple Complex) | No | [TO CONFIRM] | No | No |
+| **Yoga / meditation** | Yes (2,000 SF studio) | No | Yes (meditation dome; biohacking gym, bathhouse) | Yes | No |
+| **Ceremony / sacred spaces** | Yes (Sacred Temple Complex) | No | Yes (devotion center) | No | No |
 | **Fiber internet** | Yes (community) | Yes (Google Fiber) | [TO CONFIRM] | Yes | Varies |
 | **EV charging** | Yes (~1 per 3 structures) | Yes | [TO CONFIRM] | Yes | Varies |
 | **Trail system** | Yes, through preserved land | Yes | [TO CONFIRM] | 15+ miles | Varies |
-| **Mixed housing types** | 5+ types (SFR, condo, tiny home, dome, estate lot) | 1 (SF homes) | [TO CONFIRM] | 4+ types | 1-2 types |
+| **Mixed housing types** | 5+ types (SFR, condo, tiny home, dome, estate lot) | 1 (SF homes) | 15 customizable home plans (520 SF casita to 10-BR flagship) | 4+ types | 1-2 types |
 | **STR-friendly** | Yes | HOA restrictions | [TO CONFIRM] | Limited | Varies |
 | **MUD infrastructure financing** | Yes (formation engineering underway — Fred Haas PE) | No (municipal) | [TO CONFIRM] | No | Varies |
 | **Agricultural tax exemption** | Yes | No | [TO CONFIRM] | No | Varies |
@@ -350,7 +353,7 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 | **Location/Connectivity (15%)** | 7.5 | 8.0 | 6.5 | 7.5 |
 | **Weighted Total** | **8.80** | **5.63** | **6.69** | **3.75** |
 
-*(The Sanctuary will be scored upon completion of its comparable profile [TO CONFIRM].)*
+*(The Sanctuary is profiled factually in Section 3.2; weighted scoring will be added once its pricing and sales data are compiled — no pricing or absorption claims are made in the interim.)*
 
 **Interpretation:** Abundancia achieves the highest weighted score across all competitive dimensions, driven by its comprehensive integration of regenerative systems — the basis of its category-of-one, full-stack regenerative wellness positioning in Central Texas. Serenbe scores highest among comparables due to its mature community and conservation model. Whisper Valley scores well on energy but lower on conservation, food, and wellness. Conventional Dripping Springs developments score lowest due to their limited sustainability and community infrastructure.
 

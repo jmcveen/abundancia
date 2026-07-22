@@ -20,6 +20,10 @@
 
 ---
 
+> **THE OFFERING IS PHASE 1** (total capitalization $13,354,032 — see Sections 1.1 and 9). The valuation methodologies in Sections 3–8 assess the **full multi-phase master plan** and are presented as development-value **context**; they are not the investor's economics. Phases 2–3 are future upside and a sponsor backstop for the Phase-1 offering.
+
+---
+
 ## Table of Contents
 
 - [1. Valuation Overview](#1-valuation-overview)
@@ -41,7 +45,7 @@
 
 ### 1.1 Purpose of Valuation
 
-This report presents a valuation analysis of Abundancia, a 376-acre regenerative community in Cedar Creek, Bastrop County, Texas, developed by Abundancia Community LLC. The valuation is conducted in connection with the project's Year-1 capitalization of **$12,673,266** (~$5.1M Class A LP equity + $100K GP + $8,871,286 construction debt) and is intended to provide prospective investors with a transparent, multi-methodology assessment of project value at current stage. Offering terms are subject to final documentation and review by securities counsel.
+This report presents a valuation analysis of Abundancia, a 376-acre regenerative community in Cedar Creek, Bastrop County, Texas, developed by Abundancia Community LLC. The valuation is conducted in connection with **THE OFFERING — PHASE 1**: a Phase-1 total capitalization of **$13,354,032** ($5,154,032 Class A LP equity + $500,000 GP co-investment + $7,700,000 debt @ 8.5%), and is intended to provide prospective investors with a transparent, multi-methodology assessment of project value at current stage. The valuation methodologies below assess the full multi-phase master plan as **development-value context**; the investment offered to investors is Phase 1 only, and Phases 2–3 are presented as future upside and a sponsor backstop — never the investor's economics. Offering terms are subject to final documentation and review by securities counsel.
 
 ### 1.2 Subject Property Summary
 
@@ -52,10 +56,11 @@ This report presents a valuation analysis of Abundancia, a 376-acre regenerative
 | **Total Acreage** | 376 acres |
 | **Access** | 15–20 min to Austin-Bergstrom Intl Airport; 30–40 min to downtown Austin; 10–15 min to the city of Bastrop |
 | **Zoning** | No county-level zoning (mixed use by right; Bastrop County) |
-| **Development Program** | 651 structures + 100 estate lots: 510 for-sale residences (100 SFR / 350 condos / 60 tiny homes), 126 rental units, 12 commercial spaces (30,000 SF) |
-| **Projected 10-Year Revenue** | $400,565,031 (base case; Year 1 = 2027) |
-| **Projected 10-Year EBITDA** | $86,274,860 (~22% margin) |
-| **Year-1 Capitalization** | $12,673,266 |
+| **Development Program (full project — context)** | 651 structures + 100 estate lots: 510 for-sale residences (100 SFR / 350 condos / 60 tiny homes), 126 rental units, 12 commercial spaces (30,000 SF) |
+| **Projected 10-Year Revenue (full project, all phases — context)** | $400,565,031 (Year 1 = 2027) |
+| **Projected 10-Year EBITDA (full project, all phases — context)** | $86,274,860 (~22% margin) |
+| **Phase-1 Projected 10-Year Revenue / EBITDA (the offering)** | $59,632,442 / $21,540,503 |
+| **Phase-1 Total Capitalization (the offering)** | $13,354,032 |
 | **Entity Structure** | Abundancia Community LLC — Delaware LLC, manager-managed; Class A (LP) / Class B (GP-Manager) |
 
 ### 1.3 Valuation Date
@@ -246,7 +251,7 @@ The development profit method works from projected total revenue, subtracting al
 | **Less: Total Expenses** | ($314,290,171) |
 | **Development Profit (EBITDA)** | **$86,274,860 (~22% margin)** |
 
-The required-developer-return hurdle and resulting time-adjusted residual entity value are **[TO CONFIRM]** with the valuation refresh. At the model's figures, the project generates $86.3M of profit on a $268.7M financed cost base, with LP returns of 33.5% IRR / 3.58x (10-yr) and 31.6% / 3.06x (5-yr) per the model's Simple Pro Forma.
+The required-developer-return hurdle and resulting time-adjusted residual entity value are **[TO CONFIRM]** with the valuation refresh. At the model's figures, the full project (all phases — context) generates $86.3M of profit on a $268.7M financed cost base. The investor's economics are those of the Phase-1 offering: LP returns of 32.1% IRR / 2.88x (10-yr) and 25.7% / 1.79x (5-yr, interim — loan not repaid at Year 5) per the Phase-1 model and equity waterfall (Documents 06 and 09).
 
 ---
 
@@ -271,33 +276,33 @@ Prior indicated values and the prior concluded range were computed on superseded
 
 ## 9. Pre-Money and Post-Money Valuation
 
-### 9.1 Capital Raise Parameters (subject to final documentation and review by securities counsel)
+### 9.1 Capital Raise Parameters — The Offering: Phase 1 (subject to final documentation and review by securities counsel)
 
 | Parameter | Value |
 |-----------|-------|
-| **Year-1 Capitalization** | $12,673,266 |
-| **Class A LP Equity** | ~$5.1M |
-| **GP Equity** | $100K (plus $500K GP co-invest within the $8.87M debt + GP layer) |
-| **Construction Debt** | $8,871,286 (~9%; ~$1.35M/yr service) |
+| **Phase-1 Total Capitalization** | $13,354,032 |
+| **Class A LP Equity** | $5,154,032 (91.16% of equity) |
+| **GP Co-Investment** | $500,000 (8.84% of equity, pari passu with LP capital) |
+| **Phase-1 Debt** | $7,700,000 (8.5%, 10-yr fully amortizing; $1,173,539/yr service) |
 | **Security Type** | Class A Units of Abundancia Community LLC |
-| **Offering Exemption** | [TO CONFIRM — subject to review by securities counsel] |
-| **Minimum Investment** | [TO CONFIRM] |
+| **Offering Exemption** | Regulation D Rule 506(c), accredited investors only (subject to review by securities counsel) |
+| **Minimum Investment** | $50,000 (1 Unit @ $50,000; ~103 Units) |
 | **Preferred Return** | 10% cumulative (subject to final documentation) |
 
 ### 9.2 Pre-Money / Post-Money Valuation
 
 Pre-money component values (land position, entitlement progress, development rights/IP, team value) are being restated on the current land basis and model figures and are **[TO CONFIRM]**. Prior figures built on a $37.6M land basis have been withdrawn.
 
-### 9.3 Valuation Build to Target Returns (from model)
+### 9.3 Valuation Build to Target Returns (Phase-1 Offering, from model)
 
-| Metric | 5-Year Hold | 10-Year Hold |
-|--------|-------------|--------------|
-| **LP IRR** | 31.6% | 33.5% |
-| **LP Equity Multiple** | 3.06x | 3.58x |
-| **LP ROI** | 206% | 258% |
-| **$100K LP investment** | ~$266K cumulative | ~$346K cumulative |
+| Metric | 5-Year (Interim) | 10-Year |
+|--------|-----------------:|--------:|
+| **LP IRR** | 25.7% | **32.1%** |
+| **LP Equity Multiple** | 1.79x | **2.88x** |
+| **Total LP Distributions** | $9,217,829 | $14,834,476 |
+| **$100K LP investment — total distributions** | $178,847 (net profit $78,847) | $287,823 (net profit $187,823) |
 
-*Distributions per the waterfall in Document 09 (10% LP preferred; 90/10, 80/20, 60/40 tiers; 10% distribution reserve) — subject to final documentation.*
+*The 5-year figures are an interim snapshot — the loan is not repaid at Year 5 (debt outstanding $4,624,498). Distributions per the waterfall in Document 09 (10% cumulative LP preferred; GP promote tiers of 10%/20%/30%/40% at 12%/15%/18% LP IRR hurdles with GP catch-up; 20% distribution reserve released Year 10) — subject to final documentation.*
 
 ---
 
@@ -312,7 +317,7 @@ Pre-money component values (land position, entitlement progress, development rig
 | Residential sales revenue (510 residences) | $326,558,934 — pricing presented per type in Doc 07 (SFR ~$566/SF; condos ~$400/SF; tiny ~$416/SF); never a flat all-homes price |
 | Estate lot revenue | $22,872,273 across ~61.66 acres (avg ~$229K/lot) |
 | Vertical construction | ~746,000 SF |
-| Year-1 capitalization per acre | ~$33.7K/acre ($12,673,266 / 376 acres) |
+| Phase-1 capitalization per acre (the offering) | ~$35.5K/acre ($13,354,032 / 376 acres) |
 
 ### 10.2 Comparison to Market
 
@@ -322,8 +327,8 @@ Comparisons are limited to the approved comparable set — **The Sanctuary; Whis
 
 | Metric | Value |
 |--------|-------|
-| Year-1 capitalization | $12,673,266 against a $268.7M total financed program |
-| Entry basis | LP equity of ~$5.1M is ~1.3% of 10-year projected revenue |
+| Phase-1 capitalization (the offering) | $13,354,032 — against a $268.7M total financed program at full build-out (all phases, context) |
+| Entry basis | LP equity of $5,154,032 is ~8.6% of Phase-1 projected 10-year revenue ($59,632,442) and ~1.3% of full-project (all-phases, context) projected revenue |
 | Embedded land margin | Modeled $6.5M acquisition (376 acres) vs. corridor land pricing [TO CONFIRM] |
 | Wellness premium support | Wellness real estate $548B (2024) → $1.1T (2029), 10–25% price premiums (GWI) |
 
@@ -339,10 +344,12 @@ Enterprise-value sensitivities to pricing, absorption, construction costs, and d
 
 | Scenario | LP Outcome |
 |----------|-----------|
-| **Base (10-yr hold)** | 33.5% IRR / 3.58x / 258% ROI |
-| **Base (5-yr hold)** | 31.6% IRR / 3.06x / 206% ROI |
-| **Phase-1-only downside** | Positive LP returns even if the project never proceeds past Phase 1 |
-| **Conservative / Optimistic** | [TO CONFIRM — being rebased; see Document 08] |
+| **Base — Phase-1 offering (10-yr hold)** | 32.1% IRR / 2.88x |
+| **Base — Phase-1 offering (5-yr, interim; loan not repaid at Yr 5)** | 25.7% IRR / 1.79x |
+| **Phases 2–3 proceed (context — upside/backstop, not the offering)** | Full-project (all phases) waterfall modeling indicates 73.8% IRR / 9.94x (10-yr) — presented solely as upside/backstop context |
+| **Conservative / Optimistic** | [TO CONFIRM — being rebased on the Phase-1 model; see Document 08] |
+
+*The base case is the Phase-1-only case — the offering does not rely on later phases.*
 
 ### 11.3 Break-Even Anchors
 
@@ -364,7 +371,7 @@ Enterprise-value sensitivities to pricing, absorption, construction costs, and d
 3. **Water:** The layered water strategy (Aqua WSC service, 7+ ponds, 6 wells + 13 storage tanks, rainwater capture ~9–11M gal/yr at build-out, 11 atmospheric water generators) is verified by the Symbiosis TX watershed analysis, commissioned immediately upon entering due diligence — hydrology and water feasibility are the first predevelopment spend.
 4. **Land Closing:** The acquisition closes on terms consistent with the modeled scenario ($6.5M price, 20% down, ~5% closing, 8% land loan) — subject to final terms.
 5. **Absorption:** Deliveries and sales proceed per the model timeline (first revenue 2028; 2029–2031 peak deliveries; construction complete 2031).
-6. **Capital Availability:** The ~9% construction facility ($8,871,286 Year-1) and subsequent-phase financing are available at market rates.
+6. **Capital Availability:** The Phase-1 facility ($7,700,000 @ 8.5%, 10-yr fully amortizing) and any subsequent-phase financing (full-project context facility: $8,871,286 @ 8.5%) are available at market rates.
 7. **Cost Base:** Hard/soft/land/carry costs remain consistent with the model's $268.7M financed cost stack, with the 10% contingency ($28.6M) available for variances.
 
 ### 12.2 Limiting Conditions
@@ -375,7 +382,7 @@ Enterprise-value sensitivities to pricing, absorption, construction costs, and d
 4. Forward-looking projections are inherently uncertain. Actual results will differ from those projected, and the differences may be material.
 5. The valuation assumes competent management execution consistent with the development plan. Material changes in management, strategy, or capital structure could significantly impact values.
 6. Environmental conditions — including flood risk, soil conditions, Houston toad habitat, and water availability — may affect developable acreage; the commissioned Symbiosis TX watershed analysis addresses water verification.
-7. This report was prepared for the exclusive use of prospective investors evaluating the Year-1 capitalization of $12,673,266 and should not be used for any other purpose, including lending, regulatory compliance, or tax reporting. All offering terms are subject to final documentation and review by securities counsel.
+7. This report was prepared for the exclusive use of prospective investors evaluating the Phase-1 offering (total capitalization $13,354,032) and should not be used for any other purpose, including lending, regulatory compliance, or tax reporting. All offering terms are subject to final documentation and review by securities counsel.
 
 ---
 

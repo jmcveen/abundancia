@@ -20,9 +20,14 @@
 
 ---
 
+> **HOW TO READ THIS DOCUMENT — Section A presents the unit economics of the investment being offered: Phase 1.** The remaining sections present the full multi-phase unit program as context. Investors are buying Phase 1; Phases 2–3 are future upside and a sponsor backstop, and are never the investor's economics.
+
+---
+
 ## Table of Contents
 
-- [1. Unit Mix Summary](#1-unit-mix-summary)
+- [A. The Offering — Phase-1 Unit Economics](#a-the-offering--phase-1-unit-economics)
+- [1. Unit Mix Summary (Full Project — Context)](#1-unit-mix-summary-full-project--context)
 - [2. Single-Family Homes](#2-single-family-homes)
 - [3. Condominiums](#3-condominiums)
 - [4. Tiny Homes](#4-tiny-homes)
@@ -36,11 +41,33 @@
 
 ---
 
-## 1. Unit Mix Summary
+## A. The Offering — Phase-1 Unit Economics
+
+**The investment offered is Phase 1 only.** Phase 1 sells **tiny homes and residential lots** — no houses or condominiums are sold in Phase 1 — and operates a rental/hospitality and commercial program over the 10-year hold. Per the Phase-1 financial model, 10-year Phase-1 revenue is **$59,632,442**:
+
+| Phase-1 Product | Program | Revenue |
+|-----------------|---------|--------:|
+| **Tiny Home Sales** | 60 tiny homes SOLD in Year 2 — mix: 16 studio / 18 one-BR / 20 two-BR / 6 early-discount | $8,856,322 (Year 2) |
+| **Residential Lot Sales** | 80 residential lots sold Years 2–3 (100 lots are prepared during Phase 1; 80 are sold within the Phase-1 model) | $10,817,449 (Year 2 $5,299,483 + Year 3 $5,517,966) |
+| **Rentals & Hospitality** | 50 short-term nature stays (20 glamping tents, 15 domes, 5 high-end domes, 10 camping), 6BR Rental/Event House, Longevity Center & Spa and related hospitality | $32,549,450 (10-year) |
+| **Commercial & Amenities** | Community Center-anchored commercial and amenity operations | $7,409,222 (10-year) |
+| **Total Phase-1 Revenue (10-yr)** | | **$59,632,442** |
+
+**Phase-1 tiny-home pricing:** ~$416/SF (~$104K–$166K per home) per the model's per-type schedule. **Phase-1 lot sales:** $10,817,449 across 80 residential lots (implied average ~$135K). Never presented as "houses" or "condos" — those products belong to later phases (context below).
+
+The Phase-1 unit program supports the offering economics presented in Documents 06 and 09: 10-year Phase-1 EBITDA $21,540,503 and LP returns of 32.1% IRR / 2.88x (10-yr; 25.7% / 1.79x 5-yr interim) on the $13,354,032 Phase-1 capitalization.
+
+---
+
+# FULL PROJECT (ALL PHASES) — CONTEXT
+
+> **The sections below describe the full multi-phase unit program. They are context only — NOT the investor's economics. The offering is Phase 1 (Section A).**
+
+## 1. Unit Mix Summary (Full Project — Context)
 
 ### 1.1 Development Program Overview (from model Main Inputs)
 
-The program comprises **651 structures + 100 estate lots**, including **510 for-sale residences**, **126 rental units**, and **12 commercial spaces**.
+The full-project program comprises **651 structures + 100 estate lots**, including **510 for-sale residences**, **126 rental units**, and **12 commercial spaces**.
 
 | Unit Type | Count | Mix Detail | 10-Year Revenue Stream |
 |-----------|-------|-----------|------------------------|
@@ -123,6 +150,7 @@ Per-unit condo cost stack is maintained in the financial model [TO CONFIRM]. An 
 
 ### 4.2 Strategic Value
 
+- **The Phase-1 for-sale product:** the 60 tiny homes are sold in Year 2 of the Phase-1 offering ($8,856,322 — see Section A); no other homes are sold in Phase 1
 - **Affordability gateway:** entry point at ~$104K–$166K for buyers priced out of conventional Austin housing (Austin median $452K)
 - **Velocity driver:** first for-sale product delivered (2028), establishing comparable sales and community momentum
 - **Early-adopter program:** 6 early-discount units reward the first community members
@@ -153,6 +181,7 @@ Per-unit condo cost stack is maintained in the financial model [TO CONFIRM]. An 
 | Sales window | 2028–2029 (early, high-velocity revenue) |
 | Revenue timing advantage | Lot closings fund early phases alongside construction debt |
 | Margin profile | Highest margin-of-safety segment (infrastructure-only basis) — per-lot cost basis [TO CONFIRM] |
+| Phase-1 note | Within the Phase-1 offering, 100 residential lots are prepared and 80 are sold ($10,817,449, Years 2–3) — see Section A. The 100-estate-lot program above is the full-project (all phases) view |
 
 ---
 
@@ -170,7 +199,8 @@ Per-unit condo cost stack is maintained in the financial model [TO CONFIRM]. An 
 
 | Metric | Value |
 |--------|-------|
-| 10-Year Rentals Revenue | $44,031,597 |
+| 10-Year Rentals Revenue (full project — context) | $44,031,597 |
+| 10-Year Rentals & Hospitality Revenue (Phase-1 offering — see Section A) | $32,549,450 |
 | First hospitality revenue | 2028 (nature stays and hospitality open) |
 | Stabilized contribution | Core component of ~$7–8M/yr recurring revenue from 2032 |
 
@@ -280,7 +310,7 @@ Gross-profit-by-segment splits against the project cost stack (hard $246,131,681
 
 ## 11. Margin Sensitivity by Unit Type
 
-Per-type margin sensitivity grids (price/cost stress by unit type) are being re-run on the July 2026 model and are [TO CONFIRM]. Project-level sensitivity is presented in Document 08, including the Phase-1-only downside scenario, which returns positive LP returns even if the project never proceeds past Phase 1.
+Per-type margin sensitivity grids (price/cost stress by unit type) are being re-run on the July 2026 model and are [TO CONFIRM]. Project-level sensitivity is presented in Document 08, where the base case is the Phase-1 offering itself (32.1% LP IRR / 2.88x) — the offering does not rely on the later phases described in this context section.
 
 Directional observations pending the re-run:
 

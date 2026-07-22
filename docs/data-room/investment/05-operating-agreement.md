@@ -70,7 +70,7 @@ B. The Members desire to enter into this Agreement to set forth their respective
 
 C. The Company intends to acquire, develop, and manage a 376-acre regenerative master-planned community located at 176 Cedar Creek Circle, Cedar Creek, Bastrop County, Texas (the "Project"), as more fully described in the Private Placement Memorandum dated July 2026 (the "Memorandum").
 
-D. The Company is raising approximately Five Million One Hundred Thousand Dollars ($5,100,000) of Class A LP equity capital through a Regulation D, Rule 506(c) offering of Class A Units to accredited investors, as part of a $12,673,266 Year-1 capitalization (together with $100,000 of GP equity and $8,871,286 of construction debt), subject to final documentation and review by securities counsel.
+D. The Company is raising approximately Five Million One Hundred Fifty-Four Thousand Thirty-Two Dollars ($5,154,032) of Class A LP equity capital through a Regulation D, Rule 506(c) offering of Class A Units to accredited investors, as part of a $13,354,032 Phase 1 total capitalization (together with a $500,000 GP co-investment invested pari passu with the Class A LP equity and $7,700,000 of Phase 1 construction debt at 8.5%, 10-year fully amortizing). The offering funds Phase 1 of the Project's master plan; the Memorandum presents projected Phase 1 LP returns of a 32.1% IRR and a 2.88x equity multiple over a 10-year hold (projections only — not guaranteed). All terms are subject to final documentation and review by securities counsel.
 
 NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Members agree as follows:
 
@@ -182,7 +182,7 @@ Membership interests in the Company shall not be represented by certificates. Th
 
 (b) The admission of additional Limited Partners shall not require the consent of existing Limited Partners.
 
-(c) The Manager may admit additional Limited Partners through rolling closings until the maximum Class A offering amount of approximately $5,100,000 [TO CONFIRM] has been reached or the offering period has expired.
+(c) The Manager may admit additional Limited Partners through rolling closings until the maximum Class A offering amount of approximately $5,154,032 (approximately 103 Units) has been reached or the offering period has expired.
 
 ### Section 3.6 — No Authority of Limited Partners
 
@@ -196,7 +196,7 @@ Except as expressly provided in this Agreement, no Limited Partner shall have an
 
 (a) **General Partner.** The General Partner shall contribute to the Company the amount set forth on Exhibit A as its initial Capital Contribution.
 
-(b) **Limited Partners.** Each Limited Partner shall contribute to the Company the Subscription Amount set forth in such Limited Partner's Subscription Agreement as its initial Capital Contribution. The minimum Capital Contribution for each Limited Partner is $50,000 (one Unit) [TO CONFIRM].
+(b) **Limited Partners.** Each Limited Partner shall contribute to the Company the Subscription Amount set forth in such Limited Partner's Subscription Agreement as its initial Capital Contribution. The minimum Capital Contribution for each Limited Partner is $50,000 (one Unit at $50,000 per Unit).
 
 ### Section 4.2 — Capital Call Authority
 
@@ -353,8 +353,8 @@ The Manager and its affiliates shall receive the following compensation in conne
 
 | Fee | Amount | Timing | Calculation Basis |
 |---|---|---|---|
-| **Developer Fee** | 4% (approximately $500,000) | At close | Total project capital |
-| **Carried Interest / Promote** | Per Article VIII waterfall | As distributions are made | Profits above the 10% LP preferred return |
+| **Developer Fee** | 4% ($534,161) | Paid from operating cash flow (first year cash flow allows) | Phase 1 total capitalization ($13,354,032) |
+| **Carried Interest / Promote** | Per Article VIII waterfall | As distributions are made | Tiered promote on profits above the 10% cumulative preferred return and return of capital |
 | **Management Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
 | **Acquisition Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
 | **Construction Management Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
@@ -362,8 +362,9 @@ The Manager and its affiliates shall receive the following compensation in conne
 | **Refinancing Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
 
 **Developer Fee Detail:**
-- Developer fee: 4% of total project capital, approximately $500,000, payable at close
-- The General Partner has committed a $100,000 GP equity contribution and an additional $500,000 GP co-investment within the $8,871,286 debt + GP capital layer
+- Developer fee: 4% of the $13,354,032 Phase 1 total capitalization = $534,161, paid from operating cash flow in the first year cash flow allows
+- The Developer Fee does not reduce the Limited Partners' capital basis
+- The General Partner has committed a $500,000 GP co-investment, invested pari passu with the Class A LP equity
 - All fee and co-investment arrangements are subject to final documentation and review by securities counsel
 
 **Expense Reimbursement:**
@@ -473,43 +474,49 @@ Each Member shall maintain the confidentiality of all non-public information reg
 
 ### Section 8.2 — Distribution Waterfall
 
-Available Cash from operations and capital events (sales, refinancings, dissolution proceeds) shall be distributed to the Members in the following order of priority. A distribution reserve equal to ten percent (10%) of positive cash flows shall be withheld for working capital prior to distributions. All waterfall terms are subject to final documentation and review by securities counsel.
+Available Cash from operations and capital events (sales, refinancings, dissolution proceeds) shall be distributed to the Members in the following order of priority. A distribution reserve equal to twenty percent (20%) of positive cash flows shall be withheld annually as a safety buffer and released in Year 10. All waterfall terms are subject to final documentation and review by securities counsel.
 
-**Tier 1 — Return of Capital [TO CONFIRM ordering relative to Preferred Return]**
+**Step 1 — Distribution Reserve**
 
-First, one hundred percent (100%) to the Limited Partners, pro rata in accordance with their respective Percentage Interests, until each Limited Partner has received cumulative distributions equal to the aggregate of its Capital Contributions (the "Return of Capital").
+First, twenty percent (20%) of positive cash flows shall be withheld annually as a distribution reserve (safety buffer). The reserve shall be released and distributed through this waterfall in Year 10.
 
-**Tier 2 — Preferred Return**
+**Step 2 — Preferred Return and Return of Capital (Equity Class)**
 
-Second, one hundred percent (100%) to the Limited Partners, pro rata in accordance with their respective Percentage Interests, until each Limited Partner has received cumulative distributions (in excess of the Return of Capital) equal to a cumulative annual return of ten percent (10%) on its unreturned Capital Contributions (the "Preferred Return"). [Compounding mechanics TO CONFIRM — subject to final documentation.]
+Second, one hundred percent (100%) to the equity class — the Limited Partners and the General Partner in respect of its $500,000 co-investment (which participates pari passu with the Class A LP equity) — pro rata in accordance with their respective equity Capital Contributions, until each such Member has received cumulative distributions equal to: (i) a cumulative annual return of ten percent (10%) on its unreturned Capital Contributions (the "Preferred Return"); and (ii) the aggregate of its Capital Contributions (the "Return of Capital"). Return of capital shall be applied to the LP class first: Preferred Return and Return of Capital are satisfied before any General Partner promote. [Compounding mechanics and ordering of Preferred Return relative to Return of Capital TO CONFIRM — subject to final documentation.]
 
-For purposes of this Section, "unreturned Capital Contributions" means, at any point in time, the excess (if any) of a Limited Partner's aggregate Capital Contributions over the aggregate distributions previously received by such Limited Partner under Tier 1.
+For purposes of this Section, "unreturned Capital Contributions" means, at any point in time, the excess (if any) of a Member's aggregate equity Capital Contributions over the aggregate Return of Capital distributions previously received by such Member.
 
 The Preferred Return is cumulative. Any accrued but unpaid Preferred Return from any period shall carry forward until fully paid.
 
-**Tier 3 — Above Preferred Return (90/10)**
+**Step 3 — GP Catch-Up**
 
-Third, above the Preferred Return, ninety percent (90%) to the Limited Partners (pro rata) and ten percent (10%) to the General Partner.
+Third, distributions to the General Partner (the "GP Catch-Up") until the General Partner's cumulative promote distributions equal its applicable promote share of the profit distributions made under Step 2. GP Catch-Up mechanics are subject to final documentation and review by securities counsel.
 
-**Tier 4 — Performance Split I (Above 12% LP IRR)**
+**Step 4 — Residual Split (Tiered GP Promote)**
 
-Fourth, after the Limited Partners have achieved an internal rate of return of twelve percent (12%) on their Capital Contributions (calculated on a blended, whole-fund basis using the XIRR methodology), eighty percent (80%) to the Limited Partners (pro rata) and twenty percent (20%) to the General Partner.
+Fourth, all remaining amounts shall be distributed between the Limited Partners (pro rata) and the General Partner according to a tiered General Partner promote, based on the internal rate of return achieved by the Limited Partners on their Capital Contributions (calculated on a blended, whole-fund basis using the XIRR methodology):
 
-**Tier 5 — Performance Split II (Above 15% LP IRR)**
+   (i) below a twelve percent (12%) LP IRR, a ten percent (10%) promote to the General Partner (ninety percent (90%) to the Limited Partners);
 
-Fifth, after the Limited Partners have achieved an internal rate of return of fifteen percent (15%) on their Capital Contributions, sixty percent (60%) to the Limited Partners (pro rata) and forty percent (40%) to the General Partner.
+   (ii) in the twelve to fifteen percent (12–15%) LP IRR band, a twenty percent (20%) promote to the General Partner (eighty percent (80%) to the Limited Partners);
+
+   (iii) in the fifteen to eighteen percent (15–18%) LP IRR band, a thirty percent (30%) promote to the General Partner (seventy percent (70%) to the Limited Partners); and
+
+   (iv) above an eighteen percent (18%) LP IRR, a forty percent (40%) promote to the General Partner (sixty percent (60%) to the Limited Partners), uncapped.
 
 ### Section 8.3 — Waterfall Summary
 
-| Tier | Threshold | LP Share | GP Share |
+| Step | Threshold | LP Share | GP Share |
 |---|---|---|---|
-| 1 | Return of Capital (1.0x) [TO CONFIRM ordering] | 100% | 0% |
-| 2 | Preferred Return (10% cumulative) | 100% | 0% |
-| 3 | Above Preferred Return | 90% | 10% |
-| 4 | Above 12% LP IRR | 80% | 20% |
-| 5 | Above 15% LP IRR | 60% | 40% |
+| 1 | Distribution reserve — 20% of positive cash flows withheld annually; released Year 10 | — | — |
+| 2 | Preferred Return (10% cumulative) + Return of Capital [TO CONFIRM compounding and ordering] | 100% to equity class (LP + GP co-invest pro rata) | — |
+| 3 | GP Catch-Up (to applicable promote share of Step 2 profits) | — | 100% until satisfied |
+| 4a | Residual — below 12% LP IRR | 90% | 10% promote |
+| 4b | Residual — 12–15% LP IRR band | 80% | 20% promote |
+| 4c | Residual — 15–18% LP IRR band | 70% | 30% promote |
+| 4d | Residual — above 18% LP IRR | 60% | 40% promote (uncapped) |
 
-*A 10% distribution reserve is withheld from positive cash flows for working capital. All waterfall terms are subject to final documentation and review by securities counsel; the detailed waterfall schedule is available upon request and figures are being finalized.*
+*A 20% distribution reserve is withheld annually from positive cash flows as a safety buffer and released in Year 10. All waterfall terms are subject to final documentation and review by securities counsel; the detailed waterfall schedule is available upon request.*
 
 ### Section 8.4 — Timing of Distributions
 
@@ -545,7 +552,7 @@ The Manager may, in its sole discretion, make distributions in kind (i.e., distr
 
 (c) **Payment.** The Clawback Amount shall be paid by the General Partner within ninety (90) days of the Final Waterfall Calculation.
 
-(d) **Limitation.** The General Partner's Clawback obligation shall not exceed the cumulative Carried Interest (Tier 3, 4, and 5 GP distributions) received by the General Partner, net of income taxes actually paid by the General Partner on such Carried Interest (computed at the maximum applicable tax rate).
+(d) **Limitation.** The General Partner's Clawback obligation shall not exceed the cumulative Carried Interest (GP Catch-Up and Step 4 promote distributions) received by the General Partner, net of income taxes actually paid by the General Partner on such Carried Interest (computed at the maximum applicable tax rate). The General Partner's distributions in respect of its pari passu co-investment are not subject to Clawback.
 
 (e) **Security.** The General Partner agrees to maintain adequate reserves or provide such other security as the Manager and the Advisory Committee (if any) may agree to ensure the General Partner's ability to satisfy the Clawback obligation.
 
@@ -795,15 +802,13 @@ After payment (or adequate provision for payment) of all Company debts, liabilit
 
 (b) For the avoidance of doubt, liquidating distributions shall follow the waterfall priorities established in Section 8.2, such that:
 
-   (i) Limited Partners receive their unreturned Capital Contributions (Tier 1);
+   (i) The equity class (Limited Partners and the General Partner's pari passu co-investment) receives its accrued Preferred Return and unreturned Capital Contributions (Step 2), with return of capital applied to the LP class first;
 
-   (ii) Limited Partners receive their accrued Preferred Return (Tier 2);
+   (ii) The General Partner receives its GP Catch-Up (Step 3);
 
-   (iii) Amounts above the Preferred Return are split 90/10 LP/GP (Tier 3);
+   (iii) Any remaining amounts are distributed in accordance with the applicable tiered GP promote (Step 4: 10% / 20% / 30% / 40% promote at the 12% / 15% / 18% LP IRR hurdles); and
 
-   (iv) Any remaining amounts are distributed in accordance with the applicable Performance Split tiers (Tiers 4 and 5); and
-
-   (v) The Clawback obligation (Section 8.8) is applied to ensure whole-fund fairness.
+   (iv) The Clawback obligation (Section 8.8) is applied to ensure whole-fund fairness.
 
 ### Section 13.5 — Final Accounting and Report
 
@@ -1071,7 +1076,7 @@ By signing below, the undersigned acknowledges that it has read, understands, an
 
 | Member | Type | Capital Contribution | Units | Percentage Interest | Admission Date |
 |---|---|---|---|---|---|
-| New Earth Development [TO CONFIRM exact legal name] | General Partner / Manager | $100,000 (plus $500,000 co-invest within debt + GP layer) | Class B Units | Carried Interest (per Art. VIII) | [________] |
+| New Earth Development [TO CONFIRM exact legal name] | General Partner / Manager | $500,000 (co-investment, pari passu with Class A LP equity) | Class B Units | Carried Interest (per Art. VIII) + pari passu co-investment | [________] |
 | [Investor 1] | Class A Limited Partner | $[________] | [________] | [________]% | [________] |
 | [Investor 2] | Class A Limited Partner | $[________] | [________] | [________]% | [________] |
 | [Investor 3] | Class A Limited Partner | $[________] | [________] | [________]% | [________] |
@@ -1137,10 +1142,10 @@ Pursuant to Article VIII of the Operating Agreement, the Manager hereby provides
 |---|---|
 | **Total Available Cash for Distribution** | $[________] |
 | **Your Percentage Interest** | [________]% |
-| **Your Distribution — Tier 1 (Return of Capital)** | $[________] |
-| **Your Distribution — Tier 2 (Preferred Return)** | $[________] |
-| **Your Distribution — Tier 3 (Above Preferred Return, LP portion)** | $[________] |
-| **Your Distribution — Tier 4/5 (Performance Split)** | $[________] |
+| **Your Distribution — Step 2 (Preferred Return)** | $[________] |
+| **Your Distribution — Step 2 (Return of Capital)** | $[________] |
+| **Your Distribution — Step 4 (Residual Split, LP portion)** | $[________] |
+| **Reserve Withheld (20% — released Year 10)** | $[________] |
 | **Less: Tax Distribution Advance (if applicable)** | ($[________]) |
 | **Net Distribution This Period** | **$[________]** |
 | | |
