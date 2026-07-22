@@ -45,7 +45,7 @@
 
 ### 1.1 Conservation-Forward Development
 
-Abundancia is designed around a foundational principle: **the land comes first**. Unlike conventional developments that maximize buildable area and relegate green space to residual parcels, Abundancia permanently preserves **184.5 acres (49%)** of the 376-acre property, with approximately **235 acres (62.5%)** dedicated to preserved land, regenerative agriculture, and permaculture gardens combined. Building footprints occupy only ~16.1 acres of structures (4.28% of the site), with ~746,000 SF of vertical construction and ~878,000 SF total developed area including roads.
+Abundancia is designed around a foundational principle: **the land comes first**. Unlike conventional developments that maximize buildable area and relegate green space to residual parcels, Abundancia permanently preserves **184.5 acres (49%)** of the 376-acre property, with approximately **235 acres (62.5%)** dedicated to preserved land, regenerative agriculture, and permaculture gardens combined. Building footprints occupy only ~16.1 acres of structures (4.28% of the site), with ~581,974 SF of building gross floor area (~4% footprint of the 376 acres) plus roads and site development.
 
 This approach is not merely aesthetic. It is structurally integrated into every layer of the project:
 
@@ -116,16 +116,18 @@ The 2011 Bastrop Complex Fire burned 34,000 acres and destroyed 1,673 homes in t
 
 ### 3.1 Unit Mix Summary
 
-**Total program: 651 structures plus 100 estate lots, including 510 for-sale residences and 126 rental units.**
+**Total program: ~501 structures plus estate lots [count TO CONFIRM], including 360 for-sale residences and 126 rental units.**
 
 | Housing Type | Units | Size / Mix | Pricing Basis (Model) | Revenue Classification |
 |-------------|-------|------------|----------------------|------------------------|
 | Single-Family Homes | 100 | 10×1BR (1,000 SF); 20×2BR (1,500 SF); 20×3BR (2,000 SF); 20×4BR (2,500 SF); 20×5BR (3,500 SF); 5×6BR (4,500 SF); 5×7BR (5,000 SF) | From approximately $450/SF; blended realized ~$566/SF | Residential sales |
-| Condominiums | 350 | 50×1BR (600 SF); 150×2BR (850 SF); 150×3BR (1,250 SF) | Blended ~$400/SF | Residential sales |
+| Condominiums | 200 for sale | 1BR (600 SF); 2BR (850 SF); 3BR (1,250 SF) | Blended ~$400/SF | Residential sales |
 | Tiny Homes | 60 | 16 studio (232 SF); 18×1BR (272 SF); 20×2BR (416 SF); 6 early-discount (416 SF) | Blended ~$416/SF (~$104K-$166K) | Residential sales |
-| Estate Lots | 100 | 20×~1/3-acre; 50×half-acre; 30×one-acre (~61.66 acres total) | Avg. lot revenue ~$229K | Lot sales — $22,872,273 (2028-2029) |
+| Estate Lots | [count TO CONFIRM] | ~1/3-acre, half-acre, one-acre mix | Avg. lot revenue per model | Lot sales — $22,872,273 (2028-2029) |
 | Rental Units | 126 | 1×6BR event house (6,000 SF); 75 rental condos (25×1BR / 25×2BR / 25×3BR); 50 nature stays (20 glamping tents, 15 domes, 5 high-end domes, 10 camping) | Nature stays $150-375/night | Rental revenue |
-| **Total** | **651 structures + 100 lots** | | | Residential sales $326,558,934 (10-yr model) |
+| **Total** | **~501 structures + estate lots [count TO CONFIRM]** | | | Residential sales $249,152,934 (10-yr model) |
+
+*Condominiums total 275 across the full project — 200 for sale plus 75 rental condos (shown under Rental Units).*
 
 *Note: Pricing is presented per housing type from the financial model — homes are positioned "from approximately $450/SF," with blended realized pricing varying by product. No single flat price applies across all homes.*
 
@@ -221,7 +223,7 @@ See Section 13 for detailed retreat center design. *Revenue classification note:
 | Hospitality operations open | Nature stays + 6BR Rental/Event House revenue begins |
 | Model Home | Model home complete |
 | Tiny home sales | 60 tiny homes sold (16 studio / 18 one-BR / 20 two-BR / 6 early-discount) |
-| Residential lot sales | 80 residential lot sales (100 lots prepared) |
+| Residential lot sales | 80 residential lot sales |
 | 6BR Rental/Event House | 6-bedroom rental and event house delivered |
 | Wellness / Longevity Center & Spa | Revenue operations begin |
 | Infrastructure backbone | Completed |
@@ -243,7 +245,7 @@ See Section 13 for detailed retreat center design. *Revenue classification note:
 | Component | Units / Scope |
 |-----------|--------------|
 | Single-family homes | 30 homes |
-| Condominiums | 150 condos |
+| Condominiums | 80 for-sale condos |
 | Rental condos | 25 units |
 | School | 5,000 SF |
 
@@ -262,24 +264,26 @@ See Section 13 for detailed retreat center design. *Revenue classification note:
 | Component | Units / Scope |
 |-----------|--------------|
 | 2030: Single-family homes | 40 homes |
-| 2030: Condominiums | 50 condos |
+| 2030: Condominiums | 60 for-sale condos |
+| 2030: Rental condos | 25 units |
 | 2030: Village completion | Remaining village center commercial |
 | 2030: Sacred Temple Complex | 5,000 SF; amphitheater + farmers market |
 | 2031: Estate homes | 30 estate homes |
-| 2031: Condominiums | 150 condos |
+| 2031: Condominiums | 60 for-sale condos |
 | 2031: Rental condos | 25 units |
 
 ### 8.2 Full Build-Out Summary — Full Project (all phases; context only, not the investor's Phase-1 economics)
 
 | Metric | Total |
 |--------|-------|
-| Total structures | 651 (plus 100 estate lots) |
-| For-sale residences | 510 (100 SFR + 350 condos + 60 tiny homes) |
+| Total structures | ~501 (plus estate lots [count TO CONFIRM]) |
+| For-sale residences | 360 (100 SFR + 200 condos + 60 tiny homes) |
 | Rental units | 126 (event house + 75 rental condos + 50 nature stays) |
+| Condominiums (total) | 275 (200 for sale + 75 rental) |
 | Total commercial SF | 30,000 (12 spaces) + community amenities |
-| Total vertical construction | ~746,000 SF (~878,000 SF developed incl. roads) |
-| Total project cost (incl. financing) | $268,747,911 (hard $246,131,681 · soft $10,926,775 · land $7,040,217 · carry $4,649,237) |
-| Total revenue (10-yr model) | $400,565,031 |
+| Total building floor area | ~581,974 SF GFA (~4% footprint of the 376 acres) plus roads and site development |
+| Total project expenses (10-yr model) | $251,605,403 (hard ~$201.65M · soft $8,812,308 · 10% contingency $22,873,218 · land/carry [TO CONFIRM]) |
+| Total revenue (10-yr model) | $323,376,486 |
 | Construction timeline | 2027-2031; stabilized operations 2032+ (~$7-8M/yr recurring) |
 
 ---
@@ -347,8 +351,8 @@ Abundancia's water strategy is a layered supply combined with demand reduction:
 
 | Metric | Value | Comparison |
 |--------|-------|------------|
-| Total structures | 651 (plus 100 estate lots) | |
-| Overall density | ~1.7 structures/acre across 376 acres | Very low — conservation community |
+| Total structures | ~501 (plus estate lots [count TO CONFIRM]) | |
+| Overall density | ~1.3 structures/acre across 376 acres | Very low — conservation community |
 | Building footprint | ~16.1 acres of structures (4.28% of site) | |
 | Preserved land | 184.5 acres (49.1%) | |
 
@@ -358,7 +362,7 @@ Abundancia's water strategy is a layered supply combined with demand reduction:
 
 | Development | Total Acres | Program | Type |
 |-------------|-------------|---------|------|
-| **Abundancia** | **376** | **651 structures + 100 estate lots; 49% preserved** | **Conservation community** |
+| **Abundancia** | **376** | **~501 structures + estate lots; 49% preserved** | **Conservation community** |
 | Whisper Valley (Manor, TX) | 2,062 | ~7,500 planned zero-energy homes | Master-planned suburban |
 | Serenbe (GA) | 1,200 | 750+ residents; ~70% greenspace | Wellness agrihood |
 | The Sanctuary (sanctuary.co) | 104 | 116 lots (1.6-acre average); 15 home plans (520 SF casita to 10-BR flagship) | Off-grid wellness community (Texas Hill Country) |
@@ -457,7 +461,7 @@ The Abundancia Event & Healing Center (12 acres) operates as both a revenue-gene
 
 ### 13.3 Revenue Model
 
-Retreat Center revenue (event house + unique regenerative stays) is modeled within total rental revenue of **$44,031,597 over the 10-year model**, with hospitality operations opening in 2028. Stabilized recurring community revenue (2032+) is approximately $7-8M/yr across all recurring streams. Stand-alone retreat-center annual revenue targets: [TO CONFIRM from financial model detail].
+Retreat Center revenue (event house + unique regenerative stays) is modeled within total rental revenue of **$44,249,052 over the 10-year model**, with hospitality operations opening in 2028. Stabilized recurring community revenue (2032+) is approximately $7-8M/yr across all recurring streams. Stand-alone retreat-center annual revenue targets: [TO CONFIRM from financial model detail].
 
 ### 13.4 Design Standards
 

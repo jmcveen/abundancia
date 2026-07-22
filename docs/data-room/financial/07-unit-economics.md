@@ -67,17 +67,17 @@ The Phase-1 unit program supports the offering economics presented in Documents 
 
 ### 1.1 Development Program Overview (from model Main Inputs)
 
-The full-project program comprises **651 structures + 100 estate lots**, including **510 for-sale residences**, **126 rental units**, and **12 commercial spaces**.
+The full-project program comprises **~501 structures**, including **360 for-sale residences**, **126 rental units**, and **12 commercial spaces**, plus an estate lot program.
 
 | Unit Type | Count | Mix Detail | 10-Year Revenue Stream |
 |-----------|-------|-----------|------------------------|
-| Single-Family Homes | 100 | 10×1BR 1,000SF; 20×2BR 1,500SF; 20×3BR 2,000SF; 20×4BR 2,500SF; 20×5BR 3,500SF; 5×6BR 4,500SF; 5×7BR 5,000SF | Included in Residential Sales $326,558,934 |
-| Condominiums | 350 | 50×1BR 600SF; 150×2BR 850SF; 150×3BR 1,250SF | Included in Residential Sales $326,558,934 |
-| Tiny Homes (for sale) | 60 | 16 studio 232SF; 18×1BR 272SF; 20×2BR 416SF; 6 early-discount 416SF | Included in Residential Sales $326,558,934 |
-| Estate Lots | 100 | 20×~1/3-acre; 50×half-acre; 30×one-acre (~61.66 acres) | Lot Sales $22,872,273 (2028–2029) |
-| Rental Units | 126 | 1×6BR event house (6,000SF); 75 rental condos (25×1BR/25×2BR/25×3BR); 50 nature stays | Rentals $44,031,597 |
+| Single-Family Homes | 100 | 1–7BR tiers (~$140,125,000) | Included in Residential Sales $249,152,934 |
+| Condominiums (for sale) | 200 | 50×1BR 600SF ($240K); 100×2BR 850SF ($340K); 50×3BR 1,250SF ($500K) — $71,000,000 | Included in Residential Sales $249,152,934 |
+| Tiny Homes (for sale) | 60 | 16 studio 232SF; 18×1BR 272SF; 20×2BR 416SF; 6 early-discount 416SF | Included in Residential Sales $249,152,934 |
+| Estate Lots | Estate lot program (~61.66 acres; total lot count [TO CONFIRM]) | 20×~1/3-acre; 50×half-acre; 30×one-acre (representative mix) | Lot Sales $22,872,273 (2028–2029) |
+| Rental Units | 126 | 1×6BR event house (6,000SF); 75 rental condos (25×1BR/25×2BR/25×3BR); 50 nature stays | Rentals $44,249,052 |
 | Commercial | 12 spaces / 30,000 SF | Wellness Center & Spa, Convention Center + TV Studio, grocery, restaurants, café, yoga, retail, gym, coworking, makerspace | Commercial $7,102,227 |
-| **Total 10-Year Revenue** | | | **$400,565,031** |
+| **Total 10-Year Revenue** | | | **$323,376,486** |
 
 ### 1.2 Per-Type Pricing Summary (from model)
 
@@ -91,7 +91,7 @@ Homes are positioned "from approximately $450/SF" (entry anchor). Blended realiz
 | Estate Lots | ~$229K average per lot |
 | Nature Stays (nightly) | $150 glamping / $275 domes / $375 high-end domes |
 
-*Per-unit cost stacks and gross margins by type are maintained in the financial model; published per-unit cost figures are [TO CONFIRM] pending the July 2026 model summary. The project-level cost base is: hard costs $246,131,681, soft costs $10,926,775, land $7,040,217, financing carry $4,649,237 (Document 06, §5).*
+*Per-unit cost stacks and gross margins by type are maintained in the financial model; published per-unit cost figures are [TO CONFIRM] pending the July 2026 model summary. The project-level cost base is: hard costs ~$201,653,793, soft costs $8,812,308, land $7,040,217, 10% contingency $22,873,218 (Document 06, §5); total expenses $251,605,403.*
 
 ---
 
@@ -124,15 +124,15 @@ SFR pricing at ~$566/SF blended realized sits between the Austin $1M+ average ($
 
 | Attribute | Detail |
 |-----------|--------|
-| **Unit Count** | 350 (for sale) |
-| **Mix** | 50×1BR (600 SF); 150×2BR (850 SF); 150×3BR (1,250 SF) |
+| **Unit Count** | 200 (for sale) |
+| **Mix** | 50×1BR (600 SF, $240K); 100×2BR (850 SF, $340K); 50×3BR (1,250 SF, $500K) — $71,000,000 total |
 | **Pricing** | ~$400/SF blended realized per model |
-| **Delivery** | 150 condos 2029; 50 condos 2030; 150 condos 2031 |
+| **Delivery** | 2029–2031 (per-year delivery split [TO CONFIRM]) |
 | **Target Buyer** | Young professionals, downsizers, wellness-community residents, investors |
 
 ### 3.2 Cost & Margin
 
-Per-unit condo cost stack is maintained in the financial model [TO CONFIRM]. An additional 75 condos are retained as rentals (see Section 6) and are never blended with for-sale condo revenue.
+Per-unit condo cost stack is maintained in the financial model [TO CONFIRM]. An additional 75 condos are retained as rentals (see Section 6) and are never blended with for-sale condo revenue — 275 condos total (200 sold + 75 rented).
 
 ---
 
@@ -166,8 +166,8 @@ Per-unit condo cost stack is maintained in the financial model [TO CONFIRM]. An 
 
 | Attribute | Detail |
 |-----------|--------|
-| **Lot Count** | 100 |
-| **Mix** | 20×~1/3-acre; 50×half-acre; 30×one-acre |
+| **Lot Count** | Estate lot program (total lot count [TO CONFIRM]) |
+| **Mix** | Representative mix: ~1/3-acre, half-acre, and one-acre lots |
 | **Total Acreage** | ~61.66 acres |
 | **Average Lot Revenue** | ~$229K |
 | **Total Lot Revenue** | $22,872,273 (sold 2028–2029) |
@@ -181,7 +181,7 @@ Per-unit condo cost stack is maintained in the financial model [TO CONFIRM]. An 
 | Sales window | 2028–2029 (early, high-velocity revenue) |
 | Revenue timing advantage | Lot closings fund early phases alongside construction debt |
 | Margin profile | Highest margin-of-safety segment (infrastructure-only basis) — per-lot cost basis [TO CONFIRM] |
-| Phase-1 note | Within the Phase-1 offering, 100 residential lots are prepared and 80 are sold ($10,817,449, Years 2–3) — see Section A. The 100-estate-lot program above is the full-project (all phases) view |
+| Phase-1 note | Within the Phase-1 offering, 100 residential lots are prepared and 80 are sold ($10,817,449, Years 2–3) — see Section A. The estate lot program above is the full-project (all phases) view (total full-project lot count [TO CONFIRM]) |
 
 ---
 
@@ -199,7 +199,7 @@ Per-unit condo cost stack is maintained in the financial model [TO CONFIRM]. An 
 
 | Metric | Value |
 |--------|-------|
-| 10-Year Rentals Revenue (full project — context) | $44,031,597 |
+| 10-Year Rentals Revenue (full project — context) | $44,249,052 |
 | 10-Year Rentals & Hospitality Revenue (Phase-1 offering — see Section A) | $32,549,450 |
 | First hospitality revenue | 2028 (nature stays and hospitality open) |
 | Stabilized contribution | Core component of ~$7–8M/yr recurring revenue from 2032 |
@@ -249,15 +249,15 @@ Community amenities (non-revenue): Community Center 5,000 SF (Y1); School 5,000 
 
 | Segment | 10-Year Revenue | % of Total |
 |---------|----------------|-----------|
-| Residential Sales (510 units) | $326,558,934 | 81.5% |
-| Rentals (126 units) | $44,031,597 | 11.0% |
-| Estate Lots (100 lots) | $22,872,273 | 5.7% |
-| Commercial (12 spaces) | $7,102,227 | 1.8% |
-| **Total** | **$400,565,031** | **100.0%** |
+| Residential Sales (360 units) | $249,152,934 | 77.0% |
+| Rentals (126 units) | $44,249,052 | 13.7% |
+| Estate Lots | $22,872,273 | 7.1% |
+| Commercial (12 spaces) | $7,102,227 | 2.2% |
+| **Total** | **$323,376,486** | **100.0%** |
 
 ### 8.2 Gross Profit Contribution
 
-Gross-profit-by-segment splits against the project cost stack (hard $246,131,681 / soft $10,926,775 / land $7,040,217 / carry $4,649,237) are maintained in the financial model and are [TO CONFIRM] for publication. Project-level 10-year EBITDA is **$86,274,860** (~22% margin).
+Gross-profit-by-segment splits against the project cost stack (hard ~$201,653,793 / soft $8,812,308 / land $7,040,217 / 10% contingency $22,873,218) are maintained in the financial model and are [TO CONFIRM] for publication. Project-level 10-year EBITDA is **$71,771,083** (~22% margin).
 
 ---
 
@@ -268,10 +268,10 @@ Gross-profit-by-segment splits against the project cost stack (hard $246,131,681
 | Year | Deliveries & Sales |
 |------|--------------------|
 | 2027 | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture (pre-revenue) |
-| 2028 | Hospitality opens; model home; tiny homes deliver; estate lot + SFR sales launch |
-| 2029 | 30 homes; 150 condos; 25 rental condos; school |
-| 2030 | 40 homes; 50 condos; village; temple |
-| 2031 | 30 estate homes; 150 condos; 25 rental condos; construction complete |
+| 2028 | Hospitality opens; model home; tiny homes deliver; estate lot + SFR/condo sales launch |
+| 2029 | Homes, condos, rental condos, school (per-year delivery split [TO CONFIRM]) |
+| 2030 | Homes, condos, village, temple (per-year delivery split [TO CONFIRM]) |
+| 2031 | Estate homes, condos, rental condos; construction complete (per-year delivery split [TO CONFIRM]) |
 | 2032+ | Stabilized operations (~$7–8M/yr recurring) |
 
 ### 9.2 Demand Support
@@ -316,7 +316,7 @@ Directional observations pending the re-run:
 
 - **Estate lots** carry the widest margin of safety (infrastructure-only cost basis vs. ~$229K average pricing) and close early (2028–2029)
 - **Hempcrete construction** reduces operating cost exposure for buyers (50–70% HVAC/energy reduction vs. code baseline), supporting price resilience
-- **Diversified streams** (residential 81.5%, rentals 11.0%, lots 5.7%, commercial 1.8%) plus a 10% project contingency ($28.6M) buffer segment-level stress
+- **Diversified streams** (residential 77.0%, rentals 13.7%, lots 7.1%, commercial 2.2%) plus a 10% project contingency ($22,873,218) buffer segment-level stress
 
 ---
 

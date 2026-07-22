@@ -202,7 +202,7 @@ The 376 acres are allocated across the following program areas (authoritative la
 | **Preserved Land** | 184.5 acres | 49.1% |
 | **Total** | **376 acres** | **100%** |
 
-Total building footprint is approximately 16.1 acres of structures (4.28% of the site), with approximately 746,000 SF of vertical construction and approximately 878,000 SF of total developed area including roads.
+Total building footprint is approximately 14-16 acres of structures (~4% of the site), with approximately 581,974 SF of vertical construction (GFA).
 
 ### 3.5 Infrastructure Strategy
 
@@ -267,11 +267,11 @@ LP return projections from the Phase-1 equity waterfall model:
 
 | Revenue Stream | 10-Year Revenue | % of Total |
 |---|---|---|
-| **Residential Sales** | $326,558,934 | 81.5% |
-| **Rental & Hospitality Income** | $44,031,597 | 11.0% |
-| **Lot Sales** | $22,872,273 | 5.7% |
-| **Commercial Revenue** | $7,102,227 | 1.8% |
-| **Total (Full Project)** | **$400,565,031** | **100.0%** |
+| **Residential Sales** | $249,152,934 | 77.0% |
+| **Rental & Hospitality Income** | $44,249,052 | 13.7% |
+| **Lot Sales** | $22,872,273 | 7.1% |
+| **Commercial Revenue** | $7,102,227 | 2.2% |
+| **Total (Full Project)** | **$323,376,486** | **100.0%** |
 
 ### 4.4 Key Financial Metrics
 
@@ -291,10 +291,9 @@ LP return projections from the Phase-1 equity waterfall model:
 
 | Metric | Value |
 |---|---|
-| **Total Projected Revenue (10-Year)** | $400,565,031 |
-| **Total Project Cost (incl. financing)** | $268,747,911 |
-| **Total Expenses (10-Year, incl. 10% contingency)** | $314,290,171 |
-| **EBITDA (10-Year)** | $86,274,860 (22% margin) |
+| **Total Projected Revenue (10-Year)** | $323,376,486 |
+| **Total Expenses (10-Year, incl. 10% contingency $22,873,218)** | $251,605,403 |
+| **EBITDA (10-Year)** | $71,771,083 (~22% margin) |
 | **First Revenue** | 2028 |
 | **Cumulative Break-Even** | Year 3 (2029) |
 
@@ -307,8 +306,8 @@ LP return projections from the Phase-1 equity waterfall model:
 | **Predevelopment** | 2026 | Due diligence, watershed/hydrology analysis (Symbiosis TX), land closing, entitlements, MUD formation, capital close | — |
 | **Groundbreaking — Phase 1** | 2027 (Year 1) | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture systems | — |
 | **First Revenue — Phase 1** | 2028 (Year 2) | Hospitality opens; model home; tiny homes deliver; lot sales | First major revenue year |
-| **Build-Out — Phases 2–3 (future phases, not part of this offering)** | 2029-2030 | 2029: 30 homes, 150 condos, 25 rental condos, school. 2030: 40 homes, 50 condos, village center, Sacred Temple Complex | Cumulative break-even in 2029 (full-project model) |
-| **Completion & Stabilization — Phases 2–3** | 2031-2032+ | 2031: 30 estate homes, 150 condos, 25 rental condos; construction complete. 2032+: stabilized operations | ~$7-8M/yr recurring (2032+, full-project model) |
+| **Build-Out — Phases 2–3 (future phases, not part of this offering)** | 2029-2030 | 2029: 30 homes, 80 condos, 25 rental condos, school. 2030: 40 homes, 60 condos, village center, Sacred Temple Complex | Cumulative break-even in 2029 (full-project model) |
+| **Completion & Stabilization — Phases 2–3** | 2031-2032+ | 2031: 30 estate homes, 60 condos, 25 rental condos; construction complete. 2032+: stabilized operations | ~$7-8M/yr recurring (2032+, full-project model) |
 
 ---
 
@@ -352,16 +351,16 @@ The company has assembled an advisory board comprising experts in regenerative a
 
 ### 6.1 Unit Mix — Full Project (All Phases, Context)
 
-The full Abundancia development program encompasses 651 structures plus 100 estate lots, including 510 for-sale residences across three product families, designed to serve a range of buyer demographics and price points. The figures below describe the complete master plan across all phases; the scope funded by this offering is Phase 1 only (see Section 6.3).
+The full Abundancia development program encompasses approximately 501 structures, including 360 for-sale residences across three product families, designed to serve a range of buyer demographics and price points. The figures below describe the complete master plan across all phases; the scope funded by this offering is Phase 1 only (see Section 6.3).
 
 | Product Type | Units | Pricing (from model) | Total Revenue | Sq. Ft. Range | Description |
 |---|---|---|---|---|---|
 | **Single-Family Homes** | 100 | From ~$450/SF (entry); ~$566/SF blended realized | — | 1,000-5,000 SF (1BR-7BR: 10×1BR, 20×2BR, 20×3BR, 20×4BR, 20×5BR, 5×6BR, 5×7BR) | Hempcrete construction, solar-ready, regenerative landscaping, community-integrated design |
-| **Condominiums** | 350 | ~$400/SF blended | — | 600-1,250 SF (50×1BR 600SF, 150×2BR 850SF, 150×3BR 1,250SF) | Hempcrete construction, shared amenities, walkable village design |
+| **Condominiums (for sale)** | 200 | ~$400/SF blended | — | 600-1,250 SF | Hempcrete construction, shared amenities, walkable village design (275 condos total incl. 75 rental condos) |
 | **Tiny Homes & Domes (for sale)** | 60 | ~$416/SF (~$104K-$166K) | $8,856,322 (all 60 sold in Phase 1, Year 2) | 232-416 SF (16 studio, 18×1BR, 20×2BR, 6 early-discount) | Minimalist living, non-toxic materials, shared amenity access, ideal for remote workers and minimalists |
-| **Estate Lots** | 100 | ~$229K average | $22,872,273 (2028-2029; Phase 1 sells 80 residential lots for $10,817,449) | ~1/3-1 acre (20×~1/3-acre, 50×half-acre, 30×one-acre; ~61.66 acres total) | Improved estate lots with utilities, roads, and design guidelines |
+| **Estate Lots** | Estate lots | ~$229K average | $22,872,273 (2028-2029; Phase 1 sells 80 residential lots for $10,817,449) | ~1/3-1 acre | Improved estate lots with utilities, roads, and design guidelines |
 | **Rental Portfolio** | 126 | N/A (rental — see rental income) | N/A (see rental income) | Varies | 1×6BR event house (6,000 SF), 75 rental condos (25×1BR/25×2BR/25×3BR), 50 nature stays (glamping tents, domes, camping) |
-| **Total** | **651 structures + 100 lots** | — | **$349,431,207 for-sale** (residences $326,558,934 + lots $22,872,273) | — | *Note: Totals above reflect for-sale revenue only; rental & hospitality and commercial revenue shown separately* |
+| **Total** | **~501 structures** | — | **$272,025,207 for-sale** (residences $249,152,934 + lots $22,872,273) | — | *Note: Totals above reflect for-sale revenue only; rental & hospitality and commercial revenue shown separately* |
 
 Commercial program: 12 spaces totaling 30,000 SF — Wellness/Longevity Center & Spa (5,000 SF), Convention Center + TV Studio (5,000 SF), Zero-Waste Grocery (3,000 SF), restaurants, elixir/juice/tea bar, café, yoga & meditation studio, retail, gym, coworking, and makerspace. Community amenities include a 5,000 SF Community Center (Year 1), school (Year 3), Sacred Temple Complex (Year 4), 8 parks & recreation areas, and an amphitheater with farmers market (Year 4).
 
@@ -402,11 +401,11 @@ Development is structured in phases over a 10-year horizon (Year 1 = 2027), with
 - Residential lot sales (80 lots, 2028-2029)
 
 **Build-Out (2029-2030 · Phases 2–3 — future phases, not part of this offering)**
-- 2029: 30 homes, 150 condos, 25 rental condos, school
-- 2030: 40 homes, 50 condos, village center, Sacred Temple Complex
+- 2029: 30 homes, 80 condos, 25 rental condos, school
+- 2030: 40 homes, 60 condos, village center, Sacred Temple Complex
 
 **Completion & Stabilization (2031-2032+ · Phases 2–3)**
-- 2031: 30 estate homes, 150 condos, 25 rental condos; construction complete
+- 2031: 30 estate homes, 60 condos, 25 rental condos; construction complete
 - 2032+: stabilized operations (~$7-8M/yr recurring revenue)
 - Asset optimization and hold/disposition analysis
 
@@ -432,18 +431,18 @@ Phase 1 — the scope funded by this offering — generates a projected **$59,63
 
 The full master plan generates revenue through the same four streams at larger scale, providing natural diversification across market cycles, buyer segments, and asset classes. The figures below are full-project context and are not the investor's economics.
 
-#### Stream 1: Residential Sales — $326,558,934 (81.5% of total)
+#### Stream 1: Residential Sales — $249,152,934 (77.0% of total)
 
 Residential sales comprise the primary revenue driver, encompassing single-family homes, condominiums, and tiny homes & domes. Revenue is recognized at closing as units are sold to end buyers.
 
 | Product | Units | Pricing (from model) | Sq. Ft. Range |
 |---|---|---|---|
 | Single-Family Homes | 100 | From ~$450/SF; ~$566/SF blended realized | 1,000-5,000 SF |
-| Condominiums | 350 | ~$400/SF blended | 600-1,250 SF |
+| Condominiums (for sale) | 200 | ~$400/SF blended | 600-1,250 SF |
 | Tiny Homes & Domes | 60 | ~$416/SF (~$104K-$166K) | 232-416 SF |
-| **Total Residential** | **510** | — | **$326,558,934 total revenue** |
+| **Total Residential** | **360** | — | **$249,152,934 total revenue** |
 
-#### Stream 2: Rental & Hospitality Income — $44,031,597 (11.0% of total)
+#### Stream 2: Rental & Hospitality Income — $44,249,052 (13.7% of total)
 
 A portfolio of 126 rental units is retained as a permanent income-producing asset, generating recurring cash flow for investor distributions and long-term portfolio value.
 
@@ -453,21 +452,21 @@ A portfolio of 126 rental units is retained as a permanent income-producing asse
 | **Event House** | 1×6BR (6,000 SF) |
 | **Rental Condominiums** | 75 (25×1BR, 25×2BR, 25×3BR) |
 | **Nature Stays** | 50 — 20 glamping tents ($150/night), 15 domes ($275/night), 5 high-end domes ($375/night), 10 camping sites |
-| **10-Year Cumulative Revenue** | $44,031,597 |
+| **10-Year Cumulative Revenue** | $44,249,052 |
 
 *Note: Retreat center revenue (6BR event house + unique regenerative stays) is classified within this stream per the financial model; the renovated barn serves as the community's first event space. Detailed sub-stream splits available in the financial model [TO CONFIRM].*
 
-#### Stream 3: Lot Sales — $22,872,273 (5.7% of total)
+#### Stream 3: Lot Sales — $22,872,273 (7.1% of total)
 
 Improved estate lots — with utilities, road access, and design guidelines — are sold to buyers seeking to build within the Abundancia community framework.
 
 | Metric | Value |
 |---|---|
-| **Total Lots** | 100 (20×~1/3-acre, 50×half-acre, 30×one-acre; ~61.66 acres total) |
+| **Product** | Estate lots (~1/3-acre to one-acre) |
 | **Average Lot Revenue** | ~$229,000 |
 | **Lot Sale Revenue** | $22,872,273 (sold 2028-2029) |
 
-#### Stream 4: Commercial Revenue — $7,102,227 (1.8% of total)
+#### Stream 4: Commercial Revenue — $7,102,227 (2.2% of total)
 
 The village center includes 12 commercial spaces totaling 30,000 SF leased to local businesses, food service operators, wellness practitioners, and community service providers.
 
@@ -490,7 +489,7 @@ Year-by-year revenue detail is maintained in the financial model and is availabl
 | **Construction Complete** | 2031 (full project) |
 | **Stabilized Recurring Revenue** | ~$7-8M/yr from 2032+ (full-project model) |
 | **10-Year Total Revenue — Phase 1 (The Offering)** | **$59,632,442** |
-| **10-Year Total Revenue — Full Project (All Phases, context)** | $400,565,031 |
+| **10-Year Total Revenue — Full Project (All Phases, context)** | $323,376,486 |
 
 ---
 
@@ -598,7 +597,7 @@ The project's success depends in part on the continued involvement of key manage
 | Risk | Mitigation |
 |---|---|
 | **Market** | Diversified product mix across price points; phased development allowing pace adjustment; Bastrop County growth fundamentals; the offering is underwritten on Phase 1 alone, with Phases 2–3 as future upside and backstop capacity |
-| **Construction** | 10% contingency reserve (~$28.6M in the 10-year full-project model); phased construction reducing exposure; experienced builder leadership (Jared Gossett, 170+ homes) |
+| **Construction** | 10% contingency reserve (~$22.9M in the 10-year full-project model); phased construction reducing exposure; experienced builder leadership (Jared Gossett, 170+ homes) |
 | **Regulatory** | Legal counsel engaged; master plan designed within current regulations; 40+ year civil engineering leadership (Fred Haas, PE); conservation subdivision pathway for habitat compliance |
 | **Environmental** | Full watershed analysis by Symbiosis TX as first predevelopment spend; Phase I environmental assessment; wildfire mitigation plan; regenerative land management reducing fire fuel load |
 | **Liquidity** | 20% distribution reserve held annually as a safety buffer (released Year 10); distributions per waterfall as cash flows permit; 5-year interim and 10-year figures both presented |

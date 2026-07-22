@@ -56,9 +56,9 @@ This report presents a valuation analysis of Abundancia, a 376-acre regenerative
 | **Total Acreage** | 376 acres |
 | **Access** | 15–20 min to Austin-Bergstrom Intl Airport; 30–40 min to downtown Austin; 10–15 min to the city of Bastrop |
 | **Zoning** | No county-level zoning (mixed use by right; Bastrop County) |
-| **Development Program (full project — context)** | 651 structures + 100 estate lots: 510 for-sale residences (100 SFR / 350 condos / 60 tiny homes), 126 rental units, 12 commercial spaces (30,000 SF) |
-| **Projected 10-Year Revenue (full project, all phases — context)** | $400,565,031 (Year 1 = 2027) |
-| **Projected 10-Year EBITDA (full project, all phases — context)** | $86,274,860 (~22% margin) |
+| **Development Program (full project — context)** | ~501 structures plus an estate lot program: 360 for-sale residences (100 SFR / 200 condos / 60 tiny homes), 126 rental units, 12 commercial spaces (30,000 SF) |
+| **Projected 10-Year Revenue (full project, all phases — context)** | $323,376,486 (Year 1 = 2027) |
+| **Projected 10-Year EBITDA (full project, all phases — context)** | $71,771,083 (~22% margin) |
 | **Phase-1 Projected 10-Year Revenue / EBITDA (the offering)** | $59,632,442 / $21,540,503 |
 | **Phase-1 Total Capitalization (the offering)** | $13,354,032 |
 | **Entity Structure** | Abundancia Community LLC — Delaware LLC, manager-managed; Class A (LP) / Class B (GP-Manager) |
@@ -102,9 +102,9 @@ Five valuation methodologies are applied to triangulate a defensible value range
 | **Projection Period** | 10 years (2027–2036) | Per financial model |
 | **Discount Rate (WACC)** | [TO CONFIRM] | Not specified in the July 2026 model pack; to be set with valuation refresh |
 | **Terminal Cap Rate** | [TO CONFIRM] | Applied to stabilized recurring income (~$7–8M/yr revenue from 2032) |
-| **Revenue Base** | $400,565,031 (10-yr) | Residential $326.6M / Rentals $44.0M / Lots $22.9M / Commercial $7.1M |
-| **Expense Base** | $314,290,171 (10-yr) | Incl. ops $18.9M, marketing $2.72M, 10% contingency $28.6M |
-| **EBITDA Base** | $86,274,860 (~22%) | Per model |
+| **Revenue Base** | $323,376,486 (10-yr) | Residential $249.2M / Rentals $44.2M / Lots $22.9M / Commercial $7.1M |
+| **Expense Base** | $251,605,403 (10-yr) | Incl. hard ~$201.65M, soft $8.81M, 10% contingency $22,873,218 |
+| **EBITDA Base** | $71,771,083 (~22%) | Per model |
 | **Absorption** | Per model timeline | First revenue 2028; deliveries 2028–2031; construction complete 2031 |
 
 ### 3.2 Projected Cash Flow Summary (Base Case)
@@ -115,10 +115,10 @@ Year-by-year DCF cash flows are anchored to the model timeline:
 |------|-----------|---------------------|
 | 2027 | Groundbreaking; pre-revenue | Negative (Year-1 uses $12.87M against $14.07M sources) |
 | 2028 | First revenue (hospitality, tiny homes, lots, SFR launch) | Ramp; lot revenue 2028–2029 totals $22,872,273 |
-| 2029 | 30 homes, 150 condos, 25 rental condos | Cumulative break-even achieved |
-| 2030–2031 | Peak deliveries; construction complete 2031 | Peak hard-cost years (2029–2031: ~$56.85M / $53.39M / $118.73M) against peak closings |
+| 2029 | Homes, condos, rental condos, school | Cumulative break-even achieved |
+| 2030–2031 | Peak deliveries; construction complete 2031 | Peak hard-cost years (2029–2031 per-year split [TO CONFIRM]) against peak closings |
 | 2032–2036 | Stabilized operations | ~$7–8M/yr recurring revenue |
-| **10-Year Totals** | | **Revenue $400,565,031; EBITDA $86,274,860** |
+| **10-Year Totals** | | **Revenue $323,376,486; EBITDA $71,771,083** |
 
 *Annual free-cash-flow line items are maintained in the financial model [TO CONFIRM for publication].*
 
@@ -128,7 +128,7 @@ Terminal value is derived from stabilized recurring income (2032+ recurring reve
 
 ### 3.4 DCF Valuation Summary
 
-DCF enterprise and equity value conclusions are **[TO CONFIRM]** — being recomputed on the rebased model (revenue $400.6M / EBITDA $86.3M) once the discount rate and terminal assumptions above are confirmed. Prior published DCF values were computed on superseded model figures and have been withdrawn.
+DCF enterprise and equity value conclusions are **[TO CONFIRM]** — being recomputed on the rebased model (revenue $323.4M / EBITDA $71.8M) once the discount rate and terminal assumptions above are confirmed. Prior published DCF values were computed on superseded model figures and have been withdrawn.
 
 ---
 
@@ -165,26 +165,26 @@ The replacement cost method calculates the total cost to replicate the Abundanci
 
 | Category | Amount | Notes |
 |----------|--------|-------|
-| **Hard Costs** | $246,131,681 | Structures ~$237.8M + site work $8,340,194 |
-| **Soft Costs** | $10,926,775 | |
+| **Hard Costs** | ~$201,653,793 | Residential build ~$149.0M + Rentals ~$24.3M + Commercial ~$14.2M + Site Work ~$7.1M |
+| **Soft Costs** | $8,812,308 | |
 | **Land** | $7,040,217 | Modeled scenario: $6.5M price, 20% down, ~5% closing, 8% land loan — subject to final terms |
-| **Financing Carry** | $4,649,237 | |
-| **Total Project Cost incl. Financing** | **$268,747,911** | |
+| **Contingency (10%)** | $22,873,218 | |
+| **Total 10-Year Expenses** | **$251,605,403** | Incl. financing carry, operations & marketing [TO CONFIRM detailed split] |
 
 ### 5.3 Construction Hard Costs by Year
 
 | Year | Hard Costs |
 |------|-----------|
-| 2027 | ~$6.65M |
-| 2028 | ~$10.01M |
-| 2029 | ~$56.85M |
-| 2030 | ~$53.39M |
-| 2031 | ~$118.73M |
+| 2027 | ~$6.65M (Phase-1) |
+| 2028 | ~$10.01M (Phase-1) |
+| 2029 | [TO CONFIRM — later-phase per-year split] |
+| 2030 | [TO CONFIRM — later-phase per-year split] |
+| 2031 | [TO CONFIRM — later-phase per-year split] |
 
 ### 5.4 Replacement Cost Observations
 
-- The build comprises ~746,000 SF of vertical construction (~878,000 SF total developed incl. roads) across 651 structures on a ~16.1-acre building footprint (4.28% of the 376 acres)
-- A new entrant replicating the project would face the full $268.7M cost stack **plus** current-market land pricing well above the modeled $6.5M basis, **plus** the 2026 predevelopment work already underway (watershed/hydrology, entitlements, MUD engineering)
+- The build comprises ~581,974 SF of building GFA across ~501 structures on a ~14–16-acre building footprint (~4% of the 376 acres)
+- A new entrant replicating the project would face the full ~$251.6M cost stack **plus** current-market land pricing well above the modeled $6.5M basis, **plus** the 2026 predevelopment work already underway (watershed/hydrology, entitlements, MUD engineering)
 - A developer's-profit margin applied to replacement cost, and any stage-of-completion adjustment for the current-stage value, are **[TO CONFIRM]** with the valuation refresh
 
 ---
@@ -199,7 +199,7 @@ The income capitalization approach values the income-producing components (renta
 
 | Component | Detail |
 |-----------|--------|
-| Rental portfolio (126 units) | 1×6BR event house; 75 rental condos; 50 nature stays ($150/$275/$375 per night tiers + camping) — 10-yr rentals revenue $44,031,597 |
+| Rental portfolio (126 units) | 1×6BR event house; 75 rental condos; 50 nature stays ($150/$275/$375 per night tiers + camping) — 10-yr rentals revenue $44,249,052 |
 | Commercial (12 spaces / 30,000 SF) | 10-yr commercial revenue $7,102,227 |
 | Stabilized recurring revenue (2032+) | ~$7–8M/yr |
 | Stabilized NOI | [TO CONFIRM] |
@@ -224,34 +224,32 @@ The development profit method works from projected total revenue, subtracting al
 
 | Revenue Stream | 10-Year Revenue |
 |---------------|-----------------|
-| Residential Sales (510 units: 100 SFR ~$566/SF; 350 condos ~$400/SF; 60 tiny homes ~$416/SF) | $326,558,934 |
-| Rentals (126 units) | $44,031,597 |
-| Estate Lots (100 lots, ~61.66 acres, ~$229K avg; sold 2028–2029) | $22,872,273 |
+| Residential Sales (360 units: 100 SFR ~$566/SF; 200 condos ~$400/SF; 60 tiny homes ~$416/SF) | $249,152,934 |
+| Rentals (126 units) | $44,249,052 |
+| Estate Lots (~61.66 acres, ~$229K avg; sold 2028–2029; total lot count [TO CONFIRM]) | $22,872,273 |
 | Commercial (12 spaces / 30,000 SF) | $7,102,227 |
-| **Gross Development Value** | **$400,565,031** |
+| **Gross Development Value** | **$323,376,486** |
 
 ### 7.3 Total Development Costs (per July 2026 model)
 
 | Cost Category | Amount |
 |--------------|--------|
-| Hard Costs | $246,131,681 |
-| Soft Costs | $10,926,775 |
+| Hard Costs | ~$201,653,793 |
+| Soft Costs | $8,812,308 |
 | Land | $7,040,217 |
-| Financing Carry | $4,649,237 |
-| Operations | $18.9M |
-| Marketing | $2.72M |
-| Contingency (10%) | $28.6M |
-| **Total 10-Year Expenses** | **$314,290,171** |
+| Contingency (10%) | $22,873,218 |
+| Financing carry, operations & marketing | Balance [TO CONFIRM detailed split] |
+| **Total 10-Year Expenses** | **$251,605,403** |
 
 ### 7.4 Development Profit
 
 | Component | Amount |
 |-----------|--------|
-| **Gross Development Value** | $400,565,031 |
-| **Less: Total Expenses** | ($314,290,171) |
-| **Development Profit (EBITDA)** | **$86,274,860 (~22% margin)** |
+| **Gross Development Value** | $323,376,486 |
+| **Less: Total Expenses** | ($251,605,403) |
+| **Development Profit (EBITDA)** | **$71,771,083 (~22% margin)** |
 
-The required-developer-return hurdle and resulting time-adjusted residual entity value are **[TO CONFIRM]** with the valuation refresh. At the model's figures, the full project (all phases — context) generates $86.3M of profit on a $268.7M financed cost base. The investor's economics are those of the Phase-1 offering: LP returns of 32.1% IRR / 2.88x (10-yr) and 25.7% / 1.79x (5-yr, interim — loan not repaid at Year 5) per the Phase-1 model and equity waterfall (Documents 06 and 09).
+The required-developer-return hurdle and resulting time-adjusted residual entity value are **[TO CONFIRM]** with the valuation refresh. At the model's figures, the full project (all phases — context) generates $71.8M of profit on a ~$251.6M cost base. The investor's economics are those of the Phase-1 offering: LP returns of 32.1% IRR / 2.88x (10-yr) and 25.7% / 1.79x (5-yr, interim — loan not repaid at Year 5) per the Phase-1 model and equity waterfall (Documents 06 and 09).
 
 ---
 
@@ -263,9 +261,9 @@ The required-developer-return hurdle and resulting time-adjusted residual entity
 |-----------------|----------------|--------|
 | **DCF Analysis** | [TO CONFIRM] | 35% |
 | **Comparable Transactions** | [TO CONFIRM] | 20% |
-| **Replacement Cost** | Cost basis $268,747,911 at full buildout; current-stage value [TO CONFIRM] | 15% |
+| **Replacement Cost** | Cost basis ~$251,605,403 at full buildout; current-stage value [TO CONFIRM] | 15% |
 | **Income Capitalization** | [TO CONFIRM] | 15% |
-| **Development Profit** | $86,274,860 profit over the 10-year program; residual value [TO CONFIRM] | 15% |
+| **Development Profit** | $71,771,083 profit over the 10-year program; residual value [TO CONFIRM] | 15% |
 | **Weighted Conclusion** | **[TO CONFIRM]** | 100% |
 
 ### 8.2 Reconciliation Discussion
@@ -312,11 +310,11 @@ Pre-money component values (land position, entitlement progress, development rig
 
 | Metric | Value |
 |--------|-------|
-| Total structures + lots | 651 + 100 |
-| For-sale residences | 510 |
-| Residential sales revenue (510 residences) | $326,558,934 — pricing presented per type in Doc 07 (SFR ~$566/SF; condos ~$400/SF; tiny ~$416/SF); never a flat all-homes price |
-| Estate lot revenue | $22,872,273 across ~61.66 acres (avg ~$229K/lot) |
-| Vertical construction | ~746,000 SF |
+| Total structures | ~501 (plus an estate lot program) |
+| For-sale residences | 360 |
+| Residential sales revenue (360 residences) | $249,152,934 — pricing presented per type in Doc 07 (SFR ~$566/SF; condos ~$400/SF; tiny ~$416/SF); never a flat all-homes price |
+| Estate lot revenue | $22,872,273 across ~61.66 acres (avg ~$229K/lot; total lot count [TO CONFIRM]) |
+| Building GFA | ~581,974 SF |
 | Phase-1 capitalization per acre (the offering) | ~$35.5K/acre ($13,354,032 / 376 acres) |
 
 ### 10.2 Comparison to Market
@@ -327,8 +325,8 @@ Comparisons are limited to the approved comparable set — **The Sanctuary; Whis
 
 | Metric | Value |
 |--------|-------|
-| Phase-1 capitalization (the offering) | $13,354,032 — against a $268.7M total financed program at full build-out (all phases, context) |
-| Entry basis | LP equity of $5,154,032 is ~8.6% of Phase-1 projected 10-year revenue ($59,632,442) and ~1.3% of full-project (all-phases, context) projected revenue |
+| Phase-1 capitalization (the offering) | $13,354,032 — against a ~$251.6M total financed program at full build-out (all phases, context) |
+| Entry basis | LP equity of $5,154,032 is ~8.6% of Phase-1 projected 10-year revenue ($59,632,442) and ~1.6% of full-project (all-phases, context) projected revenue ($323,376,486) |
 | Embedded land margin | Modeled $6.5M acquisition (376 acres) vs. corridor land pricing [TO CONFIRM] |
 | Wellness premium support | Wellness real estate $548B (2024) → $1.1T (2029), 10–25% price premiums (GWI) |
 
@@ -371,8 +369,8 @@ Enterprise-value sensitivities to pricing, absorption, construction costs, and d
 3. **Water:** The layered water strategy (Aqua WSC service, 7+ ponds, 6 wells + 13 storage tanks, rainwater capture ~9–11M gal/yr at build-out, 11 atmospheric water generators) is verified by the Symbiosis TX watershed analysis, commissioned immediately upon entering due diligence — hydrology and water feasibility are the first predevelopment spend.
 4. **Land Closing:** The acquisition closes on terms consistent with the modeled scenario ($6.5M price, 20% down, ~5% closing, 8% land loan) — subject to final terms.
 5. **Absorption:** Deliveries and sales proceed per the model timeline (first revenue 2028; 2029–2031 peak deliveries; construction complete 2031).
-6. **Capital Availability:** The Phase-1 facility ($7,700,000 @ 8.5%, 10-yr fully amortizing) and any subsequent-phase financing (full-project context facility: $8,871,286 @ 8.5%) are available at market rates.
-7. **Cost Base:** Hard/soft/land/carry costs remain consistent with the model's $268.7M financed cost stack, with the 10% contingency ($28.6M) available for variances.
+6. **Capital Availability:** The Phase-1 facility ($7,700,000 @ 8.5%, 10-yr fully amortizing) and any subsequent-phase financing (full-project context facility: $8,709,278 @ 8.5%) are available at market rates.
+7. **Cost Base:** Hard/soft/land/carry costs remain consistent with the model's ~$251.6M expense stack, with the 10% contingency ($22,873,218) available for variances.
 
 ### 12.2 Limiting Conditions
 

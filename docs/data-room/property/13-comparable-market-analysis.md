@@ -169,7 +169,7 @@
 
 | Development | Acres | Program | Conservation | Pricing | Positioning |
 |-------------|-------|-------|---------------|-------------|------------|
-| **Abundancia** | **376** | **651 structures + 100 estate lots (510 for-sale residences, 126 rentals, 30,000 SF commercial)** | **184.5 ac preserved (49%); ~62.5% incl. regenerative agriculture** | **From ~$450/SF (SFR blended ~$566/SF; condos ~$400/SF; tiny homes ~$104K-166K)** | **Regenerative conservation community** |
+| **Abundancia** | **376** | **~501 structures + estate lots [count TO CONFIRM] (360 for-sale residences, 126 rentals, 30,000 SF commercial)** | **184.5 ac preserved (49%); ~62.5% incl. regenerative agriculture** | **From ~$450/SF (SFR blended ~$566/SF; condos ~$400/SF; tiny homes ~$104K-166K)** | **Regenerative conservation community** |
 | The Sanctuary | 104 | 116 lots (1.6-acre avg); 15 home plans (520 SF casita to 10-BR flagship) | [TO CONFIRM] | Being compiled | Off-grid wellness community (Hill Country) |
 | Whisper Valley | 2,062 (est.) | ~7,500 planned zero-energy homes | 15-20% (est.) | $300K-750K | Eco master-planned suburban |
 | Serenbe | 1,200 | 750+ residents | ~70% (est.) | From ~$375K | Wellness agrihood |
@@ -216,14 +216,14 @@
 |-----------|--------|-------|-------|
 | Austin median | Austin | $452,000 median (all product) | Unlock MLS, 7/2026 |
 | Bastrop County median | Bastrop County | $187/SF | Redfin, 5/2026 |
-| **Abundancia Condos (model)** | **Cedar Creek** | **350 units: 50×1BR (600 SF), 150×2BR (850 SF), 150×3BR (1,250 SF) — blended ~$400/SF** | **Conservation community** |
+| **Abundancia Condos (model)** | **Cedar Creek** | **200 for-sale units (1BR 600 SF / 2BR 850 SF / 3BR 1,250 SF) — blended ~$400/SF; 275 condos total incl. 75 rental** | **Conservation community** |
 
 ### 4.4 Estate Lots
 
 | Benchmark | Market | Basis | Notes |
 |-----------|--------|-------|-------|
 | Bastrop County improved lots | Various subdivisions | $55K-95K (est.) [TO CONFIRM] | Roads, utilities |
-| **Abundancia Estate Lots (model)** | **Cedar Creek** | **100 lots (20×~1/3-acre, 50×half-acre, 30×one-acre; ~61.66 acres): avg lot revenue ~$229K; total lot revenue $22,872,273 (2028-2029)** | **Full infrastructure + conservation setting** |
+| **Abundancia Estate Lots (model)** | **Cedar Creek** | **Estate lots [count TO CONFIRM] (~1/3-acre, half-acre, one-acre mix): total lot revenue $22,872,273 (2028-2029)** | **Full infrastructure + conservation setting** |
 
 ---
 
@@ -243,10 +243,10 @@
 |-------|------|----------|-----------|----------|------|--------|
 | 2027 | — | — | — | — | — | Groundbreaking; infrastructure, nature stays, community core |
 | 2028 | Model home; sales launch | — | 60 deliver | Lot sales launch | — | First revenue year |
-| 2029 | 30 | 150 | — | Lot sales continue (lot revenue $22,872,273 across 2028-2029) | 25 | School opens; cumulative break-even |
-| 2030 | 40 | 50 | — | — | — | Village + temple |
-| 2031 | 30 (estate homes) | 150 | — | — | 25 | Construction complete |
-| **Total** | **100** | **350** | **60** | **100** | **50 of 75 program** [TO CONFIRM remaining 25 — full-project rental-condo scope; not part of Phase 1] | 2032+ stabilized (~$7-8M/yr recurring) |
+| 2029 | 30 | 80 | — | Lot sales continue (lot revenue $22,872,273 across 2028-2029) | 25 | School opens; cumulative break-even |
+| 2030 | 40 | 60 | — | — | 25 | Village + temple |
+| 2031 | 30 (estate homes) | 60 | — | — | 25 | Construction complete |
+| **Total** | **100** | **200 for sale** | **60** | **estate lots [count TO CONFIRM]** | **75 rental condos** | 2032+ stabilized (~$7-8M/yr recurring) |
 
 *Offering scope note: the current investment offering funds Phase 1 (Years 1–2, 2027–2028) only. Phase 1 sales are 60 tiny homes and 80 residential lots, plus hospitality operations — no single-family homes or condominiums are sold in Phase 1. The delivery schedule above is the full-project (all phases) master plan; the full residential program is delivered in subsequent phases.*
 
@@ -256,7 +256,7 @@
 |--------|-------------------|---------------|
 | **First revenue** | 2028 | Hospitality opens; tiny homes deliver; lots + SFR launch |
 | **Cumulative break-even** | Year 3 (2029) | Financial model |
-| **Sell-through window** | 2028-2031 (residential deliveries) | 510 for-sale residences + 100 lots |
+| **Sell-through window** | 2028-2031 (residential deliveries) | 360 for-sale residences + estate lots [count TO CONFIRM] |
 | **Pre-sale support** | 10,000-person interest list; 100+ investors/buyers/collaborators | Zero paid marketing to date |
 
 ### 5.4 Absorption Sensitivity Analysis
@@ -265,7 +265,7 @@
 
 | Scenario | Description | Impact |
 |----------|-----------|------------------|
-| **Base Case** | Deliveries per 2027-2031 schedule | Total revenue $400,565,031 (10-yr model); break-even 2029 |
+| **Base Case** | Deliveries per 2027-2031 schedule | Total revenue $323,376,486 (10-yr model); break-even 2029 |
 | **Slower absorption** | Deliveries extend beyond 2031 | Delayed cash flow, increased carry; phasing flexibility mitigates |
 | **Phase-1-only downside** | Project never proceeds past Phase 1 | Model still returns positive LP returns (risk mitigation scenario) |
 
@@ -403,7 +403,7 @@
 | Energy | Community solar + battery + hempcrete efficiency | Per-home geothermal + solar | Comparable |
 | Housing variety | SFR, condos, tiny homes, estate lots, rentals, nature stays | Primarily SF/TH | Abundancia |
 | Environmental story | Houston toad conservation subdivision, ESA | "Zero-energy capable" | Abundancia |
-| Scale | 376 acres / 651 structures + 100 lots | 2,062 acres / ~7,500 homes | Different markets |
+| Scale | 376 acres / ~501 structures + estate lots | 2,062 acres / ~7,500 homes | Different markets |
 | **Overall** | | | **Abundancia (premium regenerative niche); Whisper Valley proves east-Austin sustainability demand** |
 
 ### 9.2 Abundancia vs. Serenbe (National Benchmark)
@@ -426,7 +426,7 @@
 
 | Factor | Abundancia | The Sanctuary | Notes |
 |--------|-----------|---------------|-------|
-| Scale / program | 376 acres; 651 structures + 100 lots (full project); 49% preserved | 104 acres; 116 lots (1.6-acre average) | Different scale and model |
+| Scale / program | 376 acres; ~501 structures + estate lots (full project); 49% preserved | 104 acres; 116 lots (1.6-acre average) | Different scale and model |
 | Location | Cedar Creek / SH 71 (east/southeast growth corridor) | Texas Hill Country, ~25 min west of Austin near Dripping Springs | Opposite corridors of the metro |
 | Homes | Hempcrete SFR, condos, tiny homes, domes (full project) | 15 customizable home plans — 520 SF casita to 10-BR flagship | Both offer broad size range |
 | Water / energy | Layered supply (Aqua WSC + wells + rainwater + AWG) + community solar/battery | Off-grid — rainwater harvesting + UV purification; greywater reuse | Shared resilience ethos |
@@ -448,7 +448,7 @@
 | **Austin market correction** | Low-Moderate | Moderate — delayed absorption | Phased 2027-2031 development; pause capability; STR/rental income hedge |
 | **Recession** (national) | Low-Moderate | High — slows all segments | 126 rental units provide downside cash flow; Phase-1-only scenario still returns positive LP returns (model) |
 | **Competition** (new eco-community nearby) | Low | Moderate — market share dilution | First-mover advantage; 10,000-person interest list; brand differentiation |
-| **Construction cost escalation** | Moderate | Moderate — margin compression | 10% contingency ($28.6M) held in model; phased procurement; MUD financing |
+| **Construction cost escalation** | Moderate | Moderate — margin compression | 10% contingency ($22.9M) held in model; phased procurement; MUD financing |
 | **Environmental regulation tightening** | Low | Moderate — additional compliance costs | Conservation subdivision pathway; 184.5 acres preserved |
 | **Water scarcity / drought** | Moderate | Moderate — limits growth | Layered supply (Aqua WSC, 6 wells + 13 tanks, ponds, rainwater ~9-11M gal/yr, 11 AWGs); Symbiosis TX watershed analysis first |
 | **Wildfire event** | Low | High — physical + reputational | Hempcrete 2+ hour fire resistance; defensible space; insurance |
@@ -461,7 +461,7 @@
 
 | Scenario | Description | Base Reference |
 |----------|------------------|-----------|
-| Base case | Total revenue $400,565,031 (10-yr); first revenue 2028; cumulative break-even Year 3 (2029); EBITDA $86,274,860 (22% margin) | Financial model |
+| Base case | Total revenue $323,376,486 (10-yr); first revenue 2028; cumulative break-even Year 3 (2029); EBITDA $71,771,083 (22% margin) | Financial model |
 | Moderate recession | Delayed absorption; extended sell-through | Phasing flexibility |
 | Severe recession | Materially delayed absorption | Phase-1-only downside scenario still returns positive LP returns |
 | Rate shock | Reduced buyer purchasing power | Diverse price points; rental income |
@@ -469,7 +469,7 @@
 ### 10.3 Downside Protection
 
 1. **Phased development**: 2027-2031 construction is phased; the Phase-1-only downside scenario in the model still returns positive LP returns
-2. **Diverse revenue streams**: Residential sales ($326.6M), lot sales ($22.9M), rentals ($44.0M), commercial ($7.1M) across the 10-year model
+2. **Diverse revenue streams**: Residential sales ($249.2M), lot sales ($22.9M), rentals ($44.2M), commercial ($7.1M) across the 10-year model
 3. **MUD financing**: Formation engineering underway (Fred Haas, PE); qualifying infrastructure funded through assessments, not equity
 4. **Land as collateral**: Entitlement and infrastructure installation create a value floor above raw-land basis
 5. **Conservation tax benefits**: Conservation easement deductions available (valuation pending appraisal [TO CONFIRM])

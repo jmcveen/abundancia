@@ -185,16 +185,16 @@ Phases 2–3 (the balance of the 376-acre master plan presented in Part B) serve
 
 ## 1. Executive Financial Summary (Full Project)
 
-Abundancia's full-project 10-year financial model (Year 1 = 2027) projects total revenue of **$400,565,031** from a diversified mix of residential sales, estate lot sales, rental/hospitality operations, and commercial leasing. Total 10-year expenses are **$314,290,171**, producing 10-year EBITDA of **$86,274,860** (~22% margin). The full-project model reflects a Year-1 capitalization of **$12,673,266**; the full-project capital stack comprises LP equity of $5,154,032, GP co-investment of $500,000, and construction debt of $8,871,286 @ 8.5% (total capitalization $14,525,318).
+Abundancia's full-project 10-year financial model (Year 1 = 2027) projects total revenue of **$323,376,486** from a diversified mix of residential sales, estate lot sales, rental/hospitality operations, and commercial leasing. Total 10-year expenses are **$251,605,403**, producing 10-year EBITDA of **$71,771,083** (~22% margin). The full-project model reflects a Year-1 investment requirement of **$12,441,826**; the full-project capital stack comprises LP equity of $5,059,909, GP co-investment of $500,000, and construction debt of $8,709,278 @ 8.5% (total capitalization $14,269,187).
 
 **Full-project headline figures (context only — not the offering):**
 
 | Metric | Value |
 |--------|-------|
-| 10-Year Revenue | $400,565,031 |
-| 10-Year Expenses | $314,290,171 |
-| 10-Year EBITDA | $86,274,860 (~22% margin) |
-| Year-1 Capitalization (full-project model) | $12,673,266 |
+| 10-Year Revenue | $323,376,486 |
+| 10-Year Expenses | $251,605,403 |
+| 10-Year EBITDA | $71,771,083 (~22% margin) |
+| Year-1 Investment Required (full-project model) | $12,441,826 |
 | First Revenue | 2028 |
 | Cumulative Break-Even | Year 3 (2029) |
 | Stabilized Recurring Revenue (2032+) | ~$7–8M/year |
@@ -225,7 +225,7 @@ Abundancia's full-project 10-year financial model (Year 1 = 2027) projects total
 | Parameter | Value |
 |-----------|-------|
 | Total site | 376 acres, 176 Cedar Creek Circle, Cedar Creek, TX (unincorporated Bastrop County) |
-| Building footprint | ~16.1 acres of structures (4.28%); ~746,000 SF vertical construction; ~878,000 SF total developed incl. roads |
+| Building footprint | ~14–16 acres of structures (~4% of the 376 acres); ~581,974 SF of building GFA |
 | Predevelopment | 2026 (due diligence, watershed/hydrology, land closing, entitlements, MUD, capital close) |
 | Groundbreaking | 2027 (infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture) |
 | First revenue | 2028 (hospitality opens; model home; tiny homes deliver; lots + SFR sales launch) |
@@ -238,10 +238,10 @@ Abundancia's full-project 10-year financial model (Year 1 = 2027) projects total
 | Year | Deliveries & Sales Activity |
 |------|-----------------------------|
 | 2027 (Y1) | Infrastructure, nature stays, Community Center, Wellness Center construction — pre-revenue |
-| 2028 (Y2) | Hospitality opens; model home; tiny homes deliver; estate lot and SFR sales launch (lot sales 2028–2029) |
-| 2029 (Y3) | 30 homes, 150 condos, 25 rental condos, school |
-| 2030 (Y4) | 40 homes, 50 condos, village, temple |
-| 2031 (Y5) | 30 estate homes, 150 condos, 25 rental condos; construction complete |
+| 2028 (Y2) | Hospitality opens; model home; tiny homes deliver; estate lot and SFR/condo sales launch (lot sales 2028–2029) |
+| 2029 (Y3) | Homes, condos, rental condos, school (per-year delivery split [TO CONFIRM]) |
+| 2030 (Y4) | Peak for-sale deliveries; village, temple (per-year delivery split [TO CONFIRM]) |
+| 2031 (Y5) | Estate homes, condos, rental condos; construction complete (per-year delivery split [TO CONFIRM]) |
 | 2032+ (Y6–Y10) | Stabilized operations (~$7–8M/yr recurring) |
 
 ### 2.4 Pricing Assumptions (per unit type — from model)
@@ -250,10 +250,10 @@ Homes are positioned "from approximately $450/SF" (entry anchor). Blended realiz
 
 | Unit Type | Count | Blended Realized Pricing |
 |-----------|-------|--------------------------|
-| Single-Family Homes | 100 (10×1BR 1,000SF; 20×2BR 1,500SF; 20×3BR 2,000SF; 20×4BR 2,500SF; 20×5BR 3,500SF; 5×6BR 4,500SF; 5×7BR 5,000SF) | ~$566/SF |
-| Condominiums | 350 (50×1BR 600SF; 150×2BR 850SF; 150×3BR 1,250SF) | ~$400/SF |
+| Single-Family Homes | 100 (1–7BR tiers; ~$140,125,000 total) | ~$566/SF |
+| Condominiums (for sale) | 200 (50×1BR 600SF $240K; 100×2BR 850SF $340K; 50×3BR 1,250SF $500K; $71,000,000 total) | ~$400/SF |
 | Tiny Homes | 60 (16 studio 232SF; 18×1BR 272SF; 20×2BR 416SF; 6 early-discount 416SF) | ~$416/SF (~$104K–$166K) |
-| Estate Lots | 100 (20×~1/3-acre; 50×half-acre; 30×one-acre; ~61.66 acres total) | ~$229K average per lot |
+| Estate Lots | Estate lot program (~61.66 acres; total lot count [TO CONFIRM]); lot revenue $22,872,273 | ~$229K average per lot |
 | Nature Stays (rental) | 50 (20 glamping tents; 15 domes; 5 high-end domes; 10 camping) | $150/nt (glamping); $275/nt (domes); $375/nt (high-end domes) |
 
 *Market context: Bastrop County median $187/SF (Redfin 5/2026); Austin $1M+ homes average $423/SF (Texas Realtors 2025); Barton Creek ~$553–802/SF; West Lake Hills ~$756/SF.*
@@ -264,17 +264,21 @@ Homes are positioned "from approximately $450/SF" (entry anchor). Blended realiz
 
 ### 3.1 Full-Project Revenue by Year (Context)
 
-The full-project financial model produces the annual revenue schedule below. Year-by-year line-item detail is maintained in the financial model (available in the data room); annual figures other than the anchors below are [TO CONFIRM] pending publication of the model's annual summary tab. (For the Phase-1 year-by-year revenue schedule — the offering — see Part A, Section A2.)
+The full-project financial model produces the annual revenue schedule below (Year 1 = 2027). (For the Phase-1 year-by-year revenue schedule — the offering — see Part A, Section A2.)
 
-| Year | Milestones | Revenue Notes |
-|------|-----------|---------------|
-| 2027 (Y1) | Groundbreaking; construction only | $0 (pre-revenue) |
-| 2028 (Y2) | First revenue: hospitality, tiny homes, lots + SFR launch | First revenue year; lot revenue concentrated 2028–2029 ($22,872,273 total) |
-| 2029 (Y3) | 30 homes, 150 condos, 25 rental condos | Cumulative break-even achieved |
-| 2030 (Y4) | 40 homes, 50 condos | [TO CONFIRM] |
-| 2031 (Y5) | 30 estate homes, 150 condos, 25 rental condos; construction complete | Peak delivery years 2029–2031 |
-| 2032–2036 (Y6–Y10) | Stabilized operations | ~$7–8M/yr recurring |
-| **10-Year Total** | | **$400,565,031** |
+| Year | Full-Project Revenue | Milestones |
+|------|---------------------:|------------|
+| 2027 (Y1) | $0 | Groundbreaking; construction only (pre-revenue) |
+| 2028 (Y2) | $22,003,762 | First revenue: hospitality, tiny homes, lots + SFR/condo launch; lot revenue concentrated 2028–2029 ($22,872,273 total) |
+| 2029 (Y3) | $32,501,618 | Cumulative break-even achieved |
+| 2030 (Y4) | $143,591,442 | Peak for-sale delivery year |
+| 2031 (Y5) | $89,135,343 | Construction complete |
+| 2032 (Y6) | $6,751,015 | Stabilized operations |
+| 2033 (Y7) | $6,989,939 | Stabilized operations |
+| 2034 (Y8) | $7,228,864 | Stabilized operations |
+| 2035 (Y9) | $7,467,789 | Stabilized operations |
+| 2036 (Y10) | $7,706,714 | Stabilized operations |
+| **10-Year Total** | **$323,376,486** | |
 
 ### 3.2 Scenario Cases
 
@@ -288,11 +292,11 @@ Conservative and optimistic scenario revenue schedules are being rebased on the 
 
 | Revenue Stream | 10-Year Total | % of Total |
 |---------------|--------------|-----------|
-| Residential Sales (homes, condos, tiny homes) | $326,558,934 | 81.5% |
-| Rentals (rental condos, event house, nature stays, residential rentals) | $44,031,597 | 11.0% |
-| Estate Lot Sales | $22,872,273 | 5.7% |
-| Commercial | $7,102,227 | 1.8% |
-| **Grand Total** | **$400,565,031** | **100.0%** |
+| Residential Sales (homes, condos, tiny homes) | $249,152,934 | 77.0% |
+| Rentals (rental condos, event house, nature stays, residential rentals) | $44,249,052 | 13.7% |
+| Estate Lot Sales | $22,872,273 | 7.1% |
+| Commercial | $7,102,227 | 2.2% |
+| **Grand Total** | **$323,376,486** | **100.0%** |
 
 *Revenue classification note: Retreat Center revenue comprises the 6BR event house and unique regenerative stays only; residential rentals (tiny homes/domes) and rental condos are tracked separately within the Rentals stream. Commercial is tracked separately. Streams are never blended.*
 
@@ -300,12 +304,12 @@ Conservative and optimistic scenario revenue schedules are being rebased on the 
 
 | Unit Type | Units | Pricing (per type — see §2.4) |
 |-----------|-------|-------------------------------|
-| Single-Family Homes | 100 | ~$566/SF blended realized |
-| Condominiums | 350 | ~$400/SF blended realized |
+| Single-Family Homes | 100 | ~$566/SF blended realized (~$140,125,000) |
+| Condominiums (for sale) | 200 | ~$400/SF blended realized ($71,000,000) |
 | Tiny Homes | 60 | ~$416/SF (~$104K–$166K) |
-| **Total For-Sale Residences** | **510** | Total residential sales revenue $326,558,934 |
+| **Total For-Sale Residences** | **360** | Total residential sales revenue $249,152,934 |
 
-*Per-type revenue splits within the $326.6M residential total are maintained in the model and are [TO CONFIRM] for publication. Only the 60 tiny homes are sold within Phase 1 (the offering); SFR and condo sales occur in later phases.*
+*Per-type revenue splits within the $249.2M residential total are maintained in the model. Only the 60 tiny homes are sold within Phase 1 (the offering); SFR and condo sales occur in later phases. An additional 75 condos are retained as rentals (275 condos total: 200 sold + 75 rented).*
 
 ### 4.3 Rental Revenue Detail (Full Project — Context)
 
@@ -314,7 +318,7 @@ Conservative and optimistic scenario revenue schedules are being rebased on the 
 | 6BR Event House | 1 | 6,000 SF (Retreat Center revenue) |
 | Rental Condos | 75 | 25×1BR / 25×2BR / 25×3BR |
 | Nature Stays | 50 | 20 glamping tents ($150/nt); 15 domes ($275/nt); 5 high-end domes ($375/nt); 10 camping |
-| **Total Rental Units** | **126** | **10-year rental revenue $44,031,597** |
+| **Total Rental Units** | **126** | **10-year rental revenue $44,249,052** |
 
 ### 4.4 Commercial Revenue (Full Project — Context)
 
@@ -328,28 +332,25 @@ Conservative and optimistic scenario revenue schedules are being rebased on the 
 
 | Expense Category | 10-Year Total |
 |-----------------|---------------|
-| Hard Costs (structures ~$237.8M + site work $8,340,194) | $246,131,681 |
-| Soft Costs | $10,926,775 |
+| Hard Costs (Residential build ~$149.0M + Rentals ~$24.3M + Commercial ~$14.2M + Site Work ~$7.1M) | ~$201,653,793 |
+| Soft Costs | $8,812,308 |
 | Land (acquisition + carry on land — modeled scenario, terms TBD) | $7,040,217 |
-| Financing Carry | $4,649,237 |
-| **Total Project Cost incl. Financing** | **$268,747,911** |
-| Operations | $18.9M |
-| Marketing | $2.72M |
-| Contingency (10%) | $28.6M |
-| **Total 10-Year Expenses** | **$314,290,171** |
+| Contingency (10%) | $22,873,218 |
+| Financing carry, operations & marketing | Balance [TO CONFIRM detailed split] |
+| **Total 10-Year Expenses** | **$251,605,403** |
 
 ### 5.2 Construction Hard Costs by Year (Full Project — Context)
 
 | Year | Hard Costs |
 |------|-----------|
-| 2027 | ~$6.65M |
-| 2028 | ~$10.01M |
-| 2029 | ~$56.85M |
-| 2030 | ~$53.39M |
-| 2031 | ~$118.73M |
-| **Total (2027–2031)** | **$246,131,681** (incl. site work) |
+| 2027 | ~$6.65M (Phase-1) |
+| 2028 | ~$10.01M (Phase-1) |
+| 2029 | [TO CONFIRM — later-phase per-year split] |
+| 2030 | [TO CONFIRM — later-phase per-year split] |
+| 2031 | [TO CONFIRM — later-phase per-year split] |
+| **Total (2027–2031)** | **~$201,653,793** (incl. site work) |
 
-*The 2027–2028 hard costs (~$16.7M) correspond to Phase-1 construction — the scope funded by the Phase-1 offering (see Document 29).*
+*The 2027–2028 hard costs (~$16.7M) correspond to Phase-1 construction — the scope funded by the Phase-1 offering (see Document 29). The reconciled full-project per-year construction split for 2029–2031 is being finalized with the July 2026 model refresh [TO CONFIRM].*
 
 ### 5.3 Land Acquisition (Modeled Scenario — subject to final terms)
 
@@ -371,14 +372,28 @@ Conservative and optimistic scenario revenue schedules are being rebased on the 
 
 | Metric | Value |
 |--------|-------|
-| 10-Year Revenue | $400,565,031 |
-| 10-Year Expenses | $314,290,171 |
-| **10-Year EBITDA** | **$86,274,860** |
+| 10-Year Revenue | $323,376,486 |
+| 10-Year Expenses | $251,605,403 |
+| **10-Year EBITDA** | **$71,771,083** |
 | EBITDA Margin | ~22% |
 | First revenue | 2028 |
 | Cumulative break-even | Year 3 (2029) |
 
-Annual full-project EBITDA follows the construction and delivery timeline: negative in 2027 (pre-revenue construction), turning positive as deliveries scale 2028–2031, with cumulative break-even in 2029 and stabilized recurring EBITDA from 2032. Year-by-year full-project EBITDA detail is maintained in the financial model [TO CONFIRM for publication]. (For the Phase-1 year-by-year EBITDA schedule — the offering — see Part A, Section A4.)
+Annual full-project EBITDA follows the construction and delivery timeline (Year 1 = 2027): negative in 2027 (pre-revenue construction), turning positive as deliveries scale 2028–2031, with cumulative break-even in 2029 and stabilized recurring EBITDA from 2032. (For the Phase-1 year-by-year EBITDA schedule — the offering — see Part A, Section A4.)
+
+| Year | Full-Project EBITDA |
+|------|--------------------:|
+| 2027 (Y1) | ($12,441,826) |
+| 2028 (Y2) | $9,487,149 |
+| 2029 (Y3) | $14,084,536 |
+| 2030 (Y4) | $21,446,548 |
+| 2031 (Y5) | $16,843,998 |
+| 2032 (Y6) | $4,036,444 |
+| 2033 (Y7) | $4,253,290 |
+| 2034 (Y8) | $4,470,136 |
+| 2035 (Y9) | $4,686,982 |
+| 2036 (Y10) | $4,903,828 |
+| **10-Year Total** | **$71,771,083** |
 
 **Key observations:**
 - Negative Year-1 (2027) results reflect front-loaded infrastructure and hospitality construction against zero revenue
@@ -394,14 +409,12 @@ Annual full-project EBITDA follows the construction and delivery timeline: negat
 
 | Item | Amount |
 |------|--------|
-| LP Equity | $5,154,032 |
+| LP Equity | $5,059,909 |
 | GP Co-Investment | $500,000 |
-| Construction Debt (8.5%) | $8,871,286 |
-| **Full-Project Total Capitalization** | **$14,525,318** |
-| Year-1 capitalization per full-project model | $12,673,266 |
-| Total Year-1 Sources | $14.07M |
-| Total Year-1 Uses | $12.87M |
-| Annual construction debt service (full-project facility) | $1,352,052/yr |
+| Construction Debt (8.5%) | $8,709,278 |
+| **Full-Project Total Capitalization** | **$14,269,187** |
+| Year-1 investment required per full-project model | $12,441,826 |
+| Annual construction debt service (full-project facility) | $1,327,361/yr |
 
 *Context only. The offering's capitalization is the Phase-1 stack: $13,354,032 total — LP $5,154,032 + GP $500,000 + $7,700,000 debt @ 8.5% (Part A, Section A5).*
 
@@ -438,12 +451,12 @@ If Phases 2–3 proceed, the additional revenue streams provide the sponsor with
 
 | KPI | Value |
 |-----|-------|
-| Total structures | 651 |
-| Estate lots | 100 (~61.66 acres) |
-| For-sale residences | 510 (100 SFR / 350 condos / 60 tiny homes) |
+| Total structures | ~501 |
+| Estate lots | Estate lot program (~61.66 acres; total lot count [TO CONFIRM]) |
+| For-sale residences | 360 (100 SFR / 200 condos / 60 tiny homes) |
 | Rental units | 126 |
 | Commercial spaces | 12 (30,000 SF) |
-| Vertical construction | ~746,000 SF |
+| Building GFA | ~581,974 SF |
 | Construction window | 2027–2031 |
 
 ### 9.2 Financial KPIs
@@ -454,8 +467,8 @@ If Phases 2–3 proceed, the additional revenue streams provide the sponsor with
 | **Phase-1 (the offering) 10-Year EBITDA** | **$21,540,503** |
 | **Phase-1 LP IRR (10-yr / 5-yr interim)** | **32.1% / 25.7%** |
 | **Phase-1 LP EMx (10-yr / 5-yr interim)** | **2.88x / 1.79x** |
-| 10-Year Revenue (full project — context) | $400,565,031 |
-| 10-Year EBITDA (full project — context) | $86,274,860 (~22% margin) |
+| 10-Year Revenue (full project — context) | $323,376,486 |
+| 10-Year EBITDA (full project — context) | $71,771,083 (~22% margin) |
 | Cumulative break-even | Year 3 (2029) |
 | Stabilized recurring revenue (full project — context) | ~$7–8M/yr (2032+) |
 
@@ -493,18 +506,18 @@ Per-unit cost and break-even pricing by type are maintained in the financial mod
 | Phase-1 Debt | $7,700,000 | 8.5%, 10-yr fully amortizing; $1,173,539/yr service |
 | **Phase-1 Total Capitalization** | **$13,354,032** | Funds Phase-1 construction (~$16.7M hard cost over Years 1–2) together with early operating cash flow |
 
-### 11.2 Year-1 Uses (Full-Project Model — Context; ~$12.87M)
+### 11.2 Year-1 Uses (Full-Project Model — Context; ~$12.44M)
 
 | Category | Amount | Notes |
 |----------|--------|-------|
 | Land (down payment + closing + Year-1 carry) | $2.17M | Modeled scenario: $6.5M price, 20% down, ~5% closing, 8% land loan — subject to final terms |
 | Construction hard costs (2027) | ~$6.65M | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture |
 | Soft costs, operations, marketing, reserves | Balance | Per model [TO CONFIRM detailed split] |
-| **Total Year-1 Uses** | **$12.87M** | |
+| **Total Year-1 Investment Required** | **$12,441,826** | |
 
 ### 11.3 Follow-On Capital (Later Phases — Context)
 
-Subsequent construction phases beyond Phase 1 (2029–2031 hard costs of ~$229M) are funded through construction financing, revenue reinvestment from lot and residential closings, and pre-sales. Detailed follow-on financing terms are [TO CONFIRM] and subject to final documentation. **Phase-1 investors' projected returns do not depend on these later phases proceeding.**
+Subsequent construction phases beyond Phase 1 (2029–2031 hard costs of ~$185M) are funded through construction financing, revenue reinvestment from lot and residential closings, and pre-sales. Detailed follow-on financing terms are [TO CONFIRM] and subject to final documentation. **Phase-1 investors' projected returns do not depend on these later phases proceeding.**
 
 ---
 

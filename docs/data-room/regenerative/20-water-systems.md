@@ -195,7 +195,7 @@ The well program comprises 6 wells supported by 13 storage tanks and filtration.
 
 ### 5.2 Community Water Budget (200 Households)
 
-*Note: Demand figures reflect a 200-household planning scenario; final demand will be engineered for the full program (651 structures + 100 estate lots) as part of the Symbiosis TX watershed analysis and hydrology/water feasibility work — the first predevelopment spend [TO CONFIRM]. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with water-system build-out scaling across later phases.*
+*Note: Demand figures reflect a 200-household planning scenario; final demand will be engineered for the full program (~501 structures + estate lots) as part of the Symbiosis TX watershed analysis and hydrology/water feasibility work — the first predevelopment spend [TO CONFIRM]. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with water-system build-out scaling across later phases.*
 
 | Category | Annual Gallons | Notes |
 |----------|---------------|-------|

@@ -364,7 +364,7 @@ A guild is a group of plants that work together synergistically. Abundancia's fo
 
 ### 8.2 Self-Sufficiency Analysis
 
-*Note: Population and plot counts in this section reflect an initial 150-200-household planning scenario. The current program (510 for-sale residences plus rentals at build-out) is larger; yield and self-sufficiency figures will be rescaled in the next design iteration [TO CONFIRM]. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with the food system build-out scaling across later phases.*
+*Note: Population and plot counts in this section reflect an initial 150-200-household planning scenario. The current program (360 for-sale residences plus rentals at build-out) is larger; yield and self-sufficiency figures will be rescaled in the next design iteration [TO CONFIRM]. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with the food system build-out scaling across later phases.*
 
 | Metric | Value |
 |--------|-------|

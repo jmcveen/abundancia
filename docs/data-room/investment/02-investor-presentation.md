@@ -139,14 +139,14 @@ Abundancia serves a diverse market through five distinct product families across
 **Single-Family Homes (100 units — from ~$450/SF; ~$566/SF blended realized)**
 Premium hempcrete homes ranging from 1,000 to 5,000 sq. ft. (1BR through 7BR configurations). Designed for families, remote workers, and buyers seeking a primary residence in a regenerative community. Features include passive solar design, food garden integration, and community-oriented architecture.
 
-**Condominiums (350 units — ~$400/SF blended)**
-Walkable village configurations of 600-1,250 sq. ft. (50×1BR at 600 SF, 150×2BR at 850 SF, 150×3BR at 1,250 SF) with shared amenities, gardens, and gathering spaces. Targets young professionals, couples, and downsizers seeking attainable entry into the community.
+**Condominiums (200 for-sale units — ~$400/SF blended)**
+Walkable village configurations of 600-1,250 sq. ft. with shared amenities, gardens, and gathering spaces (275 condos total across the master plan, including 75 rental condos). Targets young professionals, couples, and downsizers seeking attainable entry into the community.
 
 **Tiny Homes & Domes (60 for-sale units — ~$416/SF; ~$104K-$166K)**
 Compact, high-design 232-416 sq. ft. residences (16 studio, 18×1BR, 20×2BR, plus 6 early-discount units) for minimalists, remote workers, retirees, and individuals prioritizing lifestyle over square footage. Non-toxic construction with access to all community amenities.
 
-**Estate Lots (100 lots — ~$229K average)**
-Improved 1/3-acre to one-acre estate lots (20×~1/3-acre, 50×half-acre, 30×one-acre) with utilities, road access, and design guidelines. Sold to buyers who want to build their own home within the Abundancia framework. High margin, low capital intensity.
+**Estate Lots (~$229K average)**
+Improved 1/3-acre to one-acre estate lots with utilities, road access, and design guidelines. Sold to buyers who want to build their own home within the Abundancia framework. High margin, low capital intensity.
 
 **Rental Portfolio (126 units)**
 Retained rental portfolio generating recurring income: a 6BR event house (6,000 SF), 75 rental condos (25×1BR, 25×2BR, 25×3BR), and 50 nature stays — 20 glamping tents ($150/night), 15 domes ($275/night), 5 high-end domes ($375/night), and 10 camping sites — providing housing flexibility and hospitality revenue.
@@ -232,7 +232,7 @@ Bastrop County's regulatory environment represents a material competitive advant
 | **Permitting Timeline** | 12-16 months (estimated) | 18-36+ months | Materially faster to revenue |
 | **Agricultural Exemption** | Available | Limited | Significant property tax reduction during development |
 | **MUD Bond Authority** | Permitted; district engineering underway (Fred Haas, PE) | Restricted | Enables infrastructure financing via tax-exempt bonds |
-| **Impact Fees** | Minimal | $15,000-25,000/unit | Substantial savings across 651 structures [TO CONFIRM estimate] |
+| **Impact Fees** | Minimal | $15,000-25,000/unit | Substantial savings across ~501 structures [TO CONFIRM estimate] |
 | **Design Review** | Minimal/none | Extensive | Reduced soft costs and design iteration time |
 | **Tree Ordinance** | Flexible | Strict (Heritage Tree protection) | Reduced clearing costs and mitigation requirements |
 | **Utility Connection** | Co-op / Aqua WSC (streamlined) | Austin Energy (complex) | Faster utility provisioning |
@@ -546,26 +546,26 @@ Phase-1 revenue over the 10-year hold is projected at **$59,632,442**, with Phas
 
 At full build-out across all phases, Abundancia generates revenue through four distinct and complementary streams. The figures below are full-project context and are not the investor's economics:
 
-#### Stream 1: Residential Sales — $326,558,934 (81.5%)
+#### Stream 1: Residential Sales — $249,152,934 (77.0%)
 
 The primary revenue driver, encompassing all for-sale residential products across the 10-year development horizon.
 
 | Product | Units | Pricing (from model) | Sq. Ft. Range |
 |---|---|---|---|
 | Single-Family Homes | 100 | From ~$450/SF; ~$566/SF blended realized | 1,000-5,000 SF (1BR-7BR) |
-| Condominiums | 350 | ~$400/SF blended | 600-1,250 SF (1-3BR) |
+| Condominiums (for sale) | 200 | ~$400/SF blended | 600-1,250 SF (1-3BR) |
 | Tiny Homes & Domes | 60 | ~$416/SF (~$104K-$166K) | 232-416 SF |
-| **Total Residential** | **510** | — | **$326,558,934 total revenue** |
+| **Total Residential** | **360** | — | **$249,152,934 total revenue** |
 
-#### Stream 2: Rental & Hospitality Income — $44,031,597 (11.0%)
+#### Stream 2: Rental & Hospitality Income — $44,249,052 (13.7%)
 
 126 retained rental units generating recurring cash flow: 1×6BR event house (6,000 SF), 75 rental condos (25×1BR, 25×2BR, 25×3BR), and 50 nature stays — 20 glamping tents ($150/night), 15 domes ($275/night), 5 high-end domes ($375/night), 10 camping sites. Retreat center revenue (the 6BR event house plus unique regenerative stays) is classified within this stream per the financial model.
 
-#### Stream 3: Lot Sales — $22,872,273 (5.7%)
+#### Stream 3: Lot Sales — $22,872,273 (7.1%)
 
-100 improved estate lots (20×~1/3-acre, 50×half-acre, 30×one-acre; ~61.66 acres total) sold to buyers in 2028-2029. Average lot revenue: ~$229,000.
+Improved estate lots (~1/3-acre to one-acre) sold to buyers in 2028-2029. Average lot revenue: ~$229,000.
 
-#### Stream 4: Commercial Revenue — $7,102,227 (1.8%)
+#### Stream 4: Commercial Revenue — $7,102,227 (2.2%)
 
 12 commercial spaces totaling 30,000 sq. ft., anchored by the Wellness/Longevity Center & Spa (5,000 SF; revenue begins 2028) plus a convention center + TV studio, zero-waste grocery, restaurants, elixir/juice/tea bar, café, yoga & meditation studio, retail, gym, coworking, and makerspace.
 
@@ -580,7 +580,7 @@ The primary revenue driver, encompassing all for-sale residential products acros
 | **Rental & Hospitality** | 60-65% NOI margin | Stabilized operations, low maintenance (hempcrete) |
 | **Commercial** | 70-75% NOI margin | NNN lease structure, minimal landlord responsibility |
 
-*Margin figures are preliminary internal estimates [TO CONFIRM against the v2.0 financial model]. Overall 10-year full-project model EBITDA is $86,274,860 — a 22% margin on $400,565,031 of revenue (context). Phase-1 EBITDA — the offering — is $21,540,503 on $59,632,442 of Phase-1 revenue (~36% margin).*
+*Margin figures are preliminary internal estimates [TO CONFIRM against the v2.0 financial model]. Overall 10-year full-project model EBITDA is $71,771,083 — a ~22% margin on $323,376,486 of revenue (context). Phase-1 EBITDA — the offering — is $21,540,503 on $59,632,442 of Phase-1 revenue (~36% margin).*
 
 ### 8.4 Capital Recycling
 
@@ -629,10 +629,10 @@ LP return projections for the Phase-1 offering, from the Phase-1 equity waterfal
 
 | Metric | Value |
 |---|---|
-| **Total Revenue** | $400,565,031 (Residential $326,558,934 · Rentals & Hospitality $44,031,597 · Lots $22,872,273 · Commercial $7,102,227) |
-| **Total Expenses** | $314,290,171 (incl. operations ~$18.9M, marketing ~$2.72M, 10% contingency ~$28.6M) |
-| **EBITDA** | $86,274,860 (22% margin) |
-| **Total Project Cost (incl. financing)** | $268,747,911 (Hard $246,131,681 · Soft $10,926,775 · Land $7,040,217 · Carry $4,649,237) |
+| **Total Revenue** | $323,376,486 (Residential $249,152,934 · Rentals & Hospitality $44,249,052 · Lots $22,872,273 · Commercial $7,102,227) |
+| **Total Expenses** | $251,605,403 (incl. 10% contingency $22,873,218) |
+| **EBITDA** | $71,771,083 (~22% margin) |
+| **Hard Costs (10-yr)** | ~$201,653,793 (soft costs $8,812,308) |
 | **First Revenue** | 2028 |
 | **Cumulative Break-Even** | Year 3 (2029) |
 | **Stabilized Recurring Revenue** | ~$7-8M/yr from 2032+ |
@@ -832,18 +832,16 @@ Strategic advisors provide domain expertise across regenerative and biophilic de
 
 | Assumption | Value |
 |---|---|
-| Land acquisition (scenario — subject to final terms) | $6.5M purchase price; 20% down; ~5% closing; 8% land loan (~$541K/yr; ~$2.17M Year-1 outlay; $7,040,217 total 10-yr land cost) |
+| Land acquisition (scenario — subject to final terms) | $6.5M purchase price; 20% down; ~5% closing; 8% land loan (~$541K/yr; ~$2.17M Year-1 outlay) |
 | Phase 1 construction debt (the offering) | $7,700,000 at 8.5%, 10-year fully amortizing ($1,173,539/yr debt service) |
-| Hard costs (10-yr) | $246,131,681 (structures ~$237.8M + site work $8,340,194) |
-| Soft costs (10-yr) | $10,926,775 |
-| Financing carry (10-yr) | $4,649,237 |
-| Total project cost (incl. financing) | $268,747,911 |
-| Contingency | 10% (~$28.6M, included in total expenses) |
-| Hard construction by year | 2027 ~$6.65M; 2028 ~$10.01M; 2029 ~$56.85M; 2030 ~$53.39M; 2031 ~$118.73M |
+| Hard costs (10-yr, full project) | ~$201,653,793 |
+| Soft costs (10-yr, full project) | $8,812,308 |
+| Total expenses (10-yr, full project, incl. contingency) | $251,605,403 |
+| Contingency | 10% ($22,873,218, included in total expenses) |
 | SFR pricing | From ~$450/SF entry; ~$566/SF blended realized |
 | Condo pricing | ~$400/SF blended |
 | Tiny home pricing | ~$416/SF (~$104K-$166K) |
-| Average estate lot revenue | ~$229K (100 lots; $22,872,273 total, 2028-2029) |
+| Average estate lot revenue | ~$229K (estate lots; $22,872,273 total, 2028-2029) |
 | Nature stay rates | Glamping tents $150/nt; domes $275/nt; high-end domes $375/nt |
 | Developer fee (Phase 1 — the offering) | 4% of Phase-1 capitalization ($534,161), paid from operating cash flow |
 | Operating, occupancy & escalation assumptions | [TO CONFIRM] per financial model |

@@ -218,19 +218,19 @@ Phase 1 hard construction costs are approximately $16.7 million across Years 1�
 
 ### 3.4 Development Program — Full Project (All Phases) Master-Plan Context
 
-*The following describes the complete multi-phase master plan within which the Phase 1 investment sits. It is provided as context and is not the basis of the investor economics offered hereby; later phases represent potential future upside and additional sponsor revenue capacity.* The full master plan comprises the following program (651 structures plus 100 estate lots; construction 2027-2031) over a 10-year period:
+*The following describes the complete multi-phase master plan within which the Phase 1 investment sits. It is provided as context and is not the basis of the investor economics offered hereby; later phases represent potential future upside and additional sponsor revenue capacity.* The full master plan comprises the following program (approximately 501 structures plus estate lots; construction 2027-2031) over a 10-year period:
 
 | Product Type | Units | Pricing Basis (model, blended realized) | Projected Revenue | Timing |
 |---|---|---|---|---|
 | Single-Family Homes (for sale) | 100 | ~$566/SF blended (positioned "from approximately $450/SF"); 1BR-7BR, 1,000-5,000 SF | Included in residential sales subtotal | 2028-2031 |
-| Condominiums (for sale) | 350 | ~$400/SF (1BR 600 SF; 2BR 850 SF; 3BR 1,250 SF) | Included in residential sales subtotal | 2029-2031 |
+| Condominiums (for sale) | 200 | ~$400/SF (1BR 600 SF; 2BR 850 SF; 3BR 1,250 SF) | Included in residential sales subtotal | 2029-2031 |
 | Tiny Homes (for sale) | 60 | ~$416/SF (~$104K-$166K) | Included in residential sales subtotal | 2028+ |
-| **Residential Sales Subtotal (510 for-sale residences)** | 510 | — | $326,558,934 | 2028-2031 |
-| Estate Lots | 100 | ~$229K average lot revenue (~61.66 acres total) | $22,872,273 | 2028-2029 |
-| Rentals (126: 6BR event house, 75 rental condos, 50 nature stays) | 126 | Nature stays $150-$375/night | $44,031,597 (10-yr) | 2028+ |
+| **Residential Sales Subtotal (360 for-sale residences)** | 360 | — | $249,152,934 | 2028-2031 |
+| Estate Lots | Estate lots | ~$229K average lot revenue | $22,872,273 | 2028-2029 |
+| Rentals (126: 6BR event house, 75 rental condos, 50 nature stays) | 126 | Nature stays $150-$375/night | $44,249,052 (10-yr) | 2028+ |
 | Commercial (12 spaces / 30,000 SF) | 12 | — | $7,102,227 (10-yr) | 2028+ |
 
-**Total Full Project (All Phases) 10-Year Projected Revenue: $400,565,031** (projection — not guaranteed; master-plan context — not the basis of the Phase 1 investor economics offered hereby)
+**Total Full Project (All Phases) 10-Year Projected Revenue: $323,376,486** (projection — not guaranteed; master-plan context — not the basis of the Phase 1 investor economics offered hereby)
 
 ### 3.5 Competitive Position
 
@@ -382,7 +382,7 @@ There can be no assurance that additional financing, if needed, will be availabl
 
 ### 5.3 Additional Financing Sources — Full Project (All Phases) Context
 
-*The following describes financing for the full multi-phase master plan. The Phase 1 offering is capitalized as described in Section 5.1; later-phase financing would fund Phases 2–3, which are presented as master-plan context and potential future upside and are not required for the projected Phase 1 investor returns.* Beyond the Phase 1 capitalization, the full master plan anticipates the following financing sources (Full Project total cost including financing is projected at $268,747,911; hard construction costs by year: 2027 ~$6.65M; 2028 ~$10.01M; 2029 ~$56.85M; 2030 ~$53.39M; 2031 ~$118.73M):
+*The following describes financing for the full multi-phase master plan. The Phase 1 offering is capitalized as described in Section 5.1; later-phase financing would fund Phases 2–3, which are presented as master-plan context and potential future upside and are not required for the projected Phase 1 investor returns.* Beyond the Phase 1 capitalization, the full master plan anticipates the following financing sources (Full Project total expenses over the 10-year period are projected at $251,605,403, including hard costs of approximately $201,653,793 and a 10% contingency of $22,873,218; Phase 1 hard construction costs are ~$6.65M in 2027 and ~$10.01M in 2028):
 
 | Source | Estimated Amount | Timing | Terms |
 |---|---|---|---|
@@ -593,11 +593,11 @@ The following is a summary of certain risks associated with an investment in the
 
 **Competition.** The Austin MSA is an active market for residential development. New master-planned communities, conventional subdivisions, and infill projects compete for the same buyer pool. There can be no assurance that the Company's differentiated positioning will sustain pricing premiums throughout the development period.
 
-**Pricing Risk.** The financial projections assume specific pricing for each product type. Actual achievable prices may be lower than projected due to market conditions, competition, or other factors. A 10% reduction in achievable prices would reduce projected Phase 1 revenue by approximately $6 million (and full-project master-plan revenue by approximately $40 million).
+**Pricing Risk.** The financial projections assume specific pricing for each product type. Actual achievable prices may be lower than projected due to market conditions, competition, or other factors. A 10% reduction in achievable prices would reduce projected Phase 1 revenue by approximately $6 million (and full-project master-plan revenue by approximately $32 million).
 
 ### 9.3 Construction Risks
 
-**Cost Overruns.** Construction costs may exceed projections due to material price increases, labor shortages, design changes, unforeseen site conditions, or contractor performance issues. While the financial model includes a 10% contingency (approximately $28.6 million over the full multi-phase project) and a 20% distribution reserve withheld annually from positive cash flows as a safety buffer, cost overruns exceeding these reserves would require additional capital.
+**Cost Overruns.** Construction costs may exceed projections due to material price increases, labor shortages, design changes, unforeseen site conditions, or contractor performance issues. While the financial model includes a 10% contingency (approximately $22.9 million over the full multi-phase project) and a 20% distribution reserve withheld annually from positive cash flows as a safety buffer, cost overruns exceeding these reserves would require additional capital.
 
 **Hempcrete Construction Risk.** While hempcrete is a proven building material internationally, the domestic hempcrete construction industry is less mature than conventional construction. The Company may face challenges sourcing qualified hempcrete contractors, obtaining consistent material supply, and achieving projected construction timelines.
 
