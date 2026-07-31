@@ -1,15 +1,11 @@
 'use client'
 
-import { AuthGate } from '@/components/auth/AuthGate'
 import { VaultGate } from '@/components/auth/VaultGate'
 import type { ReactNode } from 'react'
 
 export default function DataRoomLayout({ children }: { children: ReactNode }) {
-  return (
-    <AuthGate>
-      <VaultGate>
-        {children}
-      </VaultGate>
-    </AuthGate>
-  )
+  // Single unlock code for the investor data room (VaultGate = 7777).
+  // The prior AuthGate layer (password / admin PIN) was removed so investors
+  // enter one code, not two.
+  return <VaultGate>{children}</VaultGate>
 }
