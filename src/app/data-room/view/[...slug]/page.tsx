@@ -1,3 +1,4 @@
+import type { Metadata } from 'next'
 import { readFile } from 'node:fs/promises'
 import { join } from 'node:path'
 import { notFound } from 'next/navigation'
@@ -56,6 +57,34 @@ export function generateStaticParams() {
   return Object.keys(DOCUMENT_MAP).map(key => ({
     slug: key.split('/'),
   }))
+}
+
+// Clean per-document names — used for the browser tab and the print/save filename.
+const TITLE_OVERRIDES: Record<string, string> = {
+  'legal/mud-bond-framework': 'MUD Bond Framework',
+  'compliance/aml-kyc-procedures': 'AML-KYC Procedures',
+}
+
+function docTitle(slugPath: string): string {
+  if (TITLE_OVERRIDES[slugPath]) return TITLE_OVERRIDES[slugPath]
+  const last = slugPath.split('/').pop() || ''
+  return last
+    .split('-')
+    .map(w => (w ? w.charAt(0).toUpperCase() + w.slice(1) : w))
+    .join(' ')
+}
+
+// Setting an absolute title makes the print-to-PDF filename per-document
+// (e.g. "Abundancia - Executive Summary") instead of the site-wide default.
+export async function generateMetadata({
+  params,
+}: {
+  params: { slug: string[] }
+}): Promise<Metadata> {
+  const slugPath = params.slug.join('/')
+  const doc = DOCUMENT_MAP[slugPath]
+  const name = doc ? `Abundancia - ${docTitle(slugPath)}` : 'Abundancia Data Room'
+  return { title: { absolute: name } }
 }
 
 export default async function DocumentViewerPage({
