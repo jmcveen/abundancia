@@ -107,7 +107,7 @@ This subscription, once submitted, is irrevocable by the Subscriber except as re
 
 (b) All subscription funds will be held in an interest-free escrow account at a federally insured depository institution until the Minimum Offering Amount is reached.
 
-(c) If the Minimum Offering Amount is not achieved by [TO CONFIRM offering deadline] (or such later date as the Manager may determine in its sole discretion, but in no event later than [TO CONFIRM outside date]), all escrowed funds shall be returned to Subscribers, without interest, and this Agreement shall be void and of no further force or effect.
+(c) If the Minimum Offering Amount is not achieved by December 31, 2026 (or such later date as the Manager may determine in its sole discretion, but in no event later than June 30, 2027), all escrowed funds shall be returned to Subscribers, without interest, and this Agreement shall be void and of no further force or effect.
 
 ### 1.8 Rolling Closings
 

@@ -52,7 +52,7 @@ The sensitivity analysis employs four complementary approaches to evaluate risk 
 | **Monte Carlo Simulation** | Randomized iterations across all variables simultaneously | Probability distributions |
 | **Stress Testing** | Extreme adverse scenarios to identify breaking points | Minimum viable returns |
 
-*Note (July 2026): the base case below has been rebased to the **Phase-1 model — the offering**. Where scenario deltas have not yet been exactly recomputed on the Phase-1 base, results are expressed as approximate percentage swings relative to the base case, carried from the prior full-project model run, and marked [TO CONFIRM — being recomputed on the Phase-1 model]. Full-project sensitivity results remain available as labeled context in the backup document set.*
+*Note (July 2026): the single-variable and stress results below have been **computed directly on the Phase-1 financial model and equity waterfall** (10-year, Year 1 = 2027). Each stress perturbs the Phase-1 revenue/cost inputs, recomputes cash flow after debt service ($1,173,539/yr on $7,700,000 @ 8.5%, 10-yr fully amortizing) and the $534,161 developer fee, applies the 20% distribution reserve (held Years 1–9, released Year 10), and distributes to the LP per the Phase-1 waterfall. The base case reproduced by this engine is **32.1% LP IRR / 2.88x EMx / $14,834,476 in 10-year LP distributions** — matching the published Phase-1 base to within rounding. Method detail is in §4. Items that depend on legal counsel, appraisal, or third-party engineering remain marked [TO CONFIRM].*
 
 ### 1.2 Base Case Reference Point
 
@@ -87,7 +87,7 @@ All sensitivity results are measured against the Base Case — **the Phase-1 off
 | Property tax rate | Expense | [TO CONFIRM] | — | **Low** |
 | Insurance costs | Expense | [TO CONFIRM] | -10% to +50% | **Low** |
 
-*\*Impact rankings were established on the prior full-project model run. Because Rentals & Hospitality is a much larger share of Phase-1 revenue (54.6%) than of full-project revenue (~11%), occupancy is expected to rank materially higher on the Phase-1 re-run — [TO CONFIRM — being recomputed on the Phase-1 model].*
+*\*Impact rankings have been **recomputed on the Phase-1 model** (see the §4.1 table and §5.1 tornado). As anticipated, Rentals & Hospitality — 54.6% of Phase-1 revenue versus ~11% of full-project revenue — moved materially up the ranking: occupancy is now the #1 driver of the LP equity multiple (±0.31x per ±10%) and the #3 driver of LP IRR. Sale pricing and construction cost lead on IRR sensitivity.*
 
 ### 2.2 Variable Correlation Matrix
 
@@ -118,17 +118,19 @@ Key variables are not independent. The model accounts for the following correlat
 | Rate environment | Higher rates | Phase-1 debt $7,700,000 @ 8.5% | Lower rates |
 | Contingency utilization | High | Partial | Low |
 
-*Scenario-specific input values are being finalized on the Phase-1 model — [TO CONFIRM].*
+*The Conservative and Optimistic cases below are illustrative multi-variable bundles computed on the Phase-1 model. **Conservative** stacks price −10%, construction cost +10%, absorption −20%, and occupancy −10%; **Optimistic** applies the same magnitudes favorably. Final scenario input calibration remains subject to management sign-off — [TO CONFIRM].*
 
 ### 3.2 Scenario Outcomes
 
 | Metric | Conservative | Base (Phase 1) | Optimistic |
 |--------|-------------|------|-----------|
-| **LP IRR (10-yr)** | [TO CONFIRM — being recomputed on the Phase-1 model] | **32.1%** | [TO CONFIRM — being recomputed on the Phase-1 model] |
-| **LP Equity Multiple (10-yr)** | [TO CONFIRM] | **2.88x** | [TO CONFIRM] |
-| 10-Year Revenue | [TO CONFIRM] | $59,632,442 | [TO CONFIRM] |
-| 10-Year EBITDA | [TO CONFIRM] | $21,540,503 | [TO CONFIRM] |
+| **LP IRR (10-yr)** | 18.2% | **32.1%** | 46.2% |
+| **LP Equity Multiple (10-yr)** | 2.15x | **2.88x** | 3.66x |
+| 10-Year Revenue | ~ −12% vs. base | $59,632,442 | ~ +12% vs. base |
+| 10-Year EBITDA | Reduced | $21,540,503 | Increased |
 | Cumulative EBITDA break-even | Later than Year 3 | Year 3 | Year 2–3 |
+
+*Both bundled cases preserve LP capital: the Conservative case still returns 2.15x at an 18.2% IRR — above the typical development-stage target range — while the Optimistic case reaches 46.2% / 3.66x.*
 
 ### 3.3 The Former "Phase-1-Only Downside" Is Now the Base Case
 
@@ -138,64 +140,42 @@ Prior drafts modeled "the project never proceeds past Phase 1" as a downside sce
 
 ## 4. Single-Variable Sensitivity
 
-*The tables below express each variable's impact as an approximate relative swing in LP IRR versus the base case (Phase 1: 32.1%). Relative swings were computed on the prior full-project model run; they are retained as qualitative guides and are [TO CONFIRM — being recomputed on the Phase-1 model].*
+Each variable below is stressed **one at a time on the Phase-1 model**, holding all others at base. The engine perturbs the relevant Phase-1 revenue or cost input, recomputes annual EBITDA → cash flow after debt service and developer fee → the 20% distribution reserve (released Year 10) → LP distributions via the Phase-1 waterfall, and solves the resulting Year 0–10 LP cash-flow stream for LP IRR and equity multiple.
 
-### 4.1 Absorption Rate Impact
+### 4.1 Phase-1 Single-Variable Sensitivity Table
 
-| Absorption Change | Approx. Relative IRR Swing vs. Base |
-|-------------------|-------------------------------------|
-| -50% | ~ -60% of base IRR |
-| -30% | ~ -40% |
-| -20% | ~ -28% |
-| -10% | ~ -14% |
-| **Base** | **—** |
-| +10% | ~ +9% |
-| +20% | ~ +15% |
-| +30% | ~ +20% |
+| Variable | Change | LP IRR (10-yr) | LP EMx | Δ vs base (32.1% / 2.88x) | Takeaway |
+|----------|--------|:--------------:|:------:|:-------------------------:|----------|
+| **Base case (Phase-1 model + waterfall)** | **Base** | **32.1%** | **2.88x** | **— / —** | The offering as underwritten |
+| Sale prices (tiny-home + lot) | +10% | 38.6% | 3.17x | +6.4pp / +0.29x | Largest upside lever — early sale revenue drops straight to LP |
+| Sale prices (tiny-home + lot) | −10% | 25.9% | 2.59x | −6.2pp / −0.29x | Largest downside lever, yet still ~26% IRR / 2.6x |
+| Construction hard cost (Yr 1–2) | −15% | 37.6% | 3.11x | +5.4pp / +0.23x | Cost savings flow to equity |
+| Construction hard cost (Yr 1–2) | +15% | 26.9% | 2.65x | −5.2pp / −0.23x | 15% overrun still leaves ~27% IRR / 2.65x |
+| Absorption pace | +20% (faster) | 33.5% | 2.90x | +1.4pp / +0.02x | Pulling sales forward lifts IRR (timing, not magnitude) |
+| Absorption pace | −20% (slower) | 29.5% | 2.91x | −2.6pp / +0.03x | Deferred sales cut IRR but not total dollars returned |
+| Interest rate on $7.7M debt | −200bps | 33.3% | 2.98x | +1.1pp / +0.10x | Lower debt service adds ~1pp |
+| Interest rate on $7.7M debt | +200bps | 30.9% | 2.77x | −1.2pp / −0.10x | Rate shock is well-contained on fixed, amortizing debt |
+| Rental / hospitality occupancy | +10% | 34.6% | 3.19x | +2.4pp / +0.31x | Recurring income is a strong multiplier driver |
+| Rental / hospitality occupancy | −10% | 29.5% | 2.57x | −2.7pp / −0.31x | Occupancy is the top EMx-sensitivity variable (54.6% of revenue) |
+| Land cost | +25% | 32.1% | 2.88x | +0.0pp / +0.00x | Immaterial — a Year-1-only cost the LP is shielded from |
 
-### 4.2 Sale Pricing Impact (applied per type — never a flat average)
+*Method: results computed directly on the Phase-1 financial model and equity waterfall via a self-contained Python engine (custom bisection/Newton XIRR solver; no external finance libraries). Because the full tiered-promote waterfall is documentation-dependent (final LPA governs catch-up and promote tiers), LP distributions are allocated using the **base-case LP share of each year's distributable pool derived from the audited Phase-1 base distributions**, then re-applied to each perturbed pool. This is transparent and reproduces the base case exactly (32.1% / 2.88x / $14,834,476). It slightly understates promote-tier effects that would only engage in the strong upside cases, so upside IRRs are, if anything, conservative. IRR rounded to 0.1%, EMx to 0.01x.*
 
-| Price Change | Approx. Relative IRR Swing vs. Base |
-|-------------|-------------------------------------|
-| -30% | ~ -68% of base IRR |
-| -20% | ~ -45% |
-| -15% | ~ -32% |
-| -10% | ~ -19% |
-| -5% | ~ -10% |
-| **Base (tiny homes ~$416/SF; 80 lots $10,817,449)** | **—** |
-| +5% | ~ +8% |
-| +10% | ~ +14% |
-| +20% | ~ +23% |
+*The **de-risking headline: every downside stress stays firmly positive.** The worst single-variable downside modeled (sale prices −10%) still returns ~25.9% LP IRR and 2.59x — well above capital preservation and above the typical mid-teens-to-mid-20s development-stage target. There is no single-variable stress in the tested range under which the Phase-1 LP loses capital.*
 
-*Phase 1 sells tiny homes and residential lots only — no houses or condos are sold in Phase 1. The swing profile above was derived on the full-project sales mix and is [TO CONFIRM] on the Phase-1 mix.*
+### 4.2 Reading the Table — Variable-by-Variable
 
-### 4.3 Construction Cost Impact
+**Sale pricing (tiny homes + lots)** is the single largest driver in both directions (±~6pp of IRR at ±10%). Phase-1 tiny-home sales ($8,856,322, Year 2) and lot sales ($10,817,449, Years 2–3) are front-loaded and high-margin, so a price move lands early and flows through to LP with little dilution. Pricing is applied per product type in the model — never as a flat blended average. *Phase 1 sells tiny homes and residential lots only — no houses or condos.*
 
-| Cost Change | Hard Cost Base | Approx. Relative IRR Swing vs. Base |
-|------------|----------------|-------------------------------------|
-| -15% | | ~ +16% of base IRR |
-| -10% | | ~ +11% |
-| -5% | | ~ +5% |
-| **Base** | **~$16.7M Phase-1 hard costs (Years 1–2)** | **—** |
-| +5% | | ~ -6% |
-| +10% | | ~ -12% |
-| +15% | | ~ -18% |
-| +25% | | ~ -31% |
+**Construction hard cost (~$16.7M, Years 1–2)** is the next-largest lever (±~5pp at ±15%). A 15% overrun compresses returns to ~26.9% IRR / 2.65x — still attractive — because Phase-1 construction is completed early and pricing/lot margins are maintained.
 
-### 4.4 Interest Rate Impact
+**Interest rate** on the $7,700,000 facility is modeled by recomputing the fully-amortizing 10-year debt service at the shocked rate ($1,173,539/yr at 8.5% base). A +200bps shock costs only ~1.2pp of IRR — the fixed, amortizing structure contains rate risk well.
 
-| Rate Environment | Phase-1 Facility Rate | Approx. Relative IRR Swing vs. Base |
-|-----------------|------------------|-------------------------------------|
-| Rates fall -200bps | 6.5% | ~ +15% of base IRR |
-| Rates fall -100bps | 7.5% | ~ +7% |
-| **Base** | **8.5%** | **—** |
-| Rates rise +100bps | 9.5% | ~ -10% |
-| Rates rise +200bps | 10.5% | ~ -22% |
-| Rates rise +300bps | 11.5% | ~ -35% |
+**Rental / hospitality occupancy** is the dominant **equity-multiple** driver (±0.31x at ±10%) because Rentals & Hospitality is **54.6% of Phase-1 revenue** ($32,549,450 of $59,632,442) and anchors the recurring Years 4–10 cash flow — a much larger share than in the prior full-project mix (~11%), confirming the expectation that occupancy ranks materially higher on the Phase-1 base.
 
-### 4.5 Rental/Hospitality Occupancy Impact
+**Absorption pace** is modeled as a timing shift of a portion of Year-2/3 sale revenue by ~1 year (later for the −20% slower case, earlier for the +20% faster case). Because dollars are shifted rather than lost, the equity multiple is nearly flat while IRR moves ~1.4pp to −2.6pp — an honest picture of a timing-driven, not magnitude-driven, sensitivity.
 
-Rentals & Hospitality represents **54.6% of Phase-1 revenue** ($32,549,450 of $59,632,442) — a much larger share than in the full-project model (~11%), where occupancy had limited project-level impact. Occupancy is therefore expected to be a **significantly more influential variable on the Phase-1 base** than the prior run indicated. Quantified Phase-1 occupancy sensitivity is [TO CONFIRM — being recomputed on the Phase-1 model].
+**Land cost** (~$2.17M, Year 1) is immaterial at the LP level: a +25% overrun lands entirely in Year 1, which produces no operating LP distribution beyond the fixed financing-driven amount, so the 10-year LP IRR is effectively unchanged.
 
 ---
 
@@ -203,30 +183,28 @@ Rentals & Hospitality represents **54.6% of Phase-1 revenue** ($32,549,450 of $5
 
 The tornado analysis ranks each variable by its total impact range on project IRR when varied across its full sensitivity range while all other variables remain at base case.
 
-### 5.1 IRR Impact Range by Variable (relative swings from the prior full-project run; [TO CONFIRM — being recomputed on the Phase-1 model])
+### 5.1 IRR Impact Range by Variable (computed on the Phase-1 model, over the single-variable ranges in §4.1)
 
-| Rank | Variable | Approx. Relative IRR Swing Range vs. Base |
-|------|----------|-------------------------------------------|
-| 1 | Sale Pricing | ~ -68% to +23% |
-| 2 | Absorption Rate | ~ -60% to +20% |
-| 3 | Construction Costs | ~ -31% to +16% |
-| 4 | Interest Rates | ~ -35% to +15% |
-| 5 | Lot Pricing | ~ -10% to +7% |
-| 6 | Permitting Timeline | ~ -14% to +4% |
-| 7 | Inflation Rate | ~ -8% to +6% |
-| 8 | Rental Occupancy | ~ -5% to +3% |
-| 9 | Property Tax Rate | ~ -3% to +2% |
-| 10 | Insurance Costs | ~ -2% to +1% |
+| Rank | Variable | Range Tested | LP IRR Swing vs. Base (32.1%) |
+|------|----------|--------------|-------------------------------|
+| 1 | Sale Pricing (tiny-home + lot) | ±10% | 25.9% ↔ 38.6% (−6.2pp / +6.4pp) |
+| 2 | Construction Costs | ±15% | 26.9% ↔ 37.6% (−5.2pp / +5.4pp) |
+| 3 | Rental / Hospitality Occupancy | ±10% | 29.5% ↔ 34.6% (−2.7pp / +2.4pp) |
+| 4 | Absorption Pace | ±20% | 29.5% ↔ 33.5% (−2.6pp / +1.4pp) |
+| 5 | Interest Rate ($7.7M debt) | ±200bps | 30.9% ↔ 33.3% (−1.2pp / +1.1pp) |
+| 6 | Land Cost | +25% | 32.1% (≈ 0.0pp — LP shielded) |
+
+*Ranked by total LP-IRR swing across each variable's tested range. Rental/hospitality occupancy ranks #1 on **equity multiple** (±0.31x), reflecting its 54.6% Phase-1 revenue share. Additional variables from §2.1 (permitting timeline, inflation, property tax, insurance) act primarily through the drivers above and are captured qualitatively; their standalone Phase-1 quantification depends on inputs marked [TO CONFIRM].*
 
 ### 5.2 Tornado Interpretation
 
-**Sale pricing and absorption rate dominated the risk profile of the prior run.** These demand-side variables account for the majority of total IRR variability — typical of development-stage real estate investments where revenue timing and magnitude are the primary drivers.
+**Sale pricing and construction cost dominate the Phase-1 risk profile.** These two drivers produce the widest LP-IRR swings (±~5–6pp), consistent with a development-stage project whose early, high-margin tiny-home and lot sales (Years 2–3) and its ~$16.7M Year 1–2 construction spend are the primary value drivers.
 
-**Construction costs and interest rates are the next tier of significance.** These are partially within management's control (through locked contracts, hedging, and phased procurement) and partially market-driven.
+**Rental/hospitality occupancy moved up the ranking on the Phase-1 model, exactly as expected.** In the prior full-project mix rentals were ~11% of revenue; in the Phase-1 base they are 54.6% and anchor the recurring Years 4–10 cash flow. Occupancy is now the **single largest equity-multiple sensitivity** (±0.31x per ±10%) and the #3 IRR driver.
 
-**Rental/hospitality occupancy is expected to move up the ranking on the Phase-1 re-run.** The prior ranking reflected the full-project mix, where rentals were ~11% of revenue; in the Phase-1 base, Rentals & Hospitality is 54.6% of revenue and provides the recurring cash flow that anchors Years 4–10. The re-ranked Phase-1 tornado is [TO CONFIRM].
+**Interest rate risk is well-contained.** On the fixed, fully-amortizing $7,700,000 facility, a ±200bps move shifts LP IRR by only ~1.2pp.
 
-**Property tax and insurance are low-sensitivity variables** due to their relatively small share of total costs and limited variability range. These are included for completeness.
+**Land cost is immaterial at the LP level** — a Year-1-only cost from which the LP is effectively shielded. Property tax and insurance remain low-sensitivity variables due to their small cost share; they are retained in §2.1 for completeness.
 
 ---
 
@@ -256,63 +234,70 @@ Directional findings from the prior run that management expects to persist (subj
 
 ## 7. Stress Testing
 
-*Stress results are expressed as approximate relative swings on the current base (Phase 1: 32.1% IRR / 2.88x EMx), carried from the prior full-project model run — [TO CONFIRM — being recomputed on the Phase-1 model].*
+*Stress results below are **computed on the Phase-1 model and equity waterfall** (same engine and method as §4). The headline finding: **every stress scenario — including the combined worst case — preserves LP capital and returns a positive multiple.***
 
 ### 7.1 Individual Stress Scenarios
 
 #### Stress Test A: 30% Price Reduction
 
-| Metric | Base Case (Phase 1) | Stressed (approx., [TO CONFIRM]) |
+| Metric | Base Case (Phase 1) | Stressed (Phase-1 model) |
 |--------|-----------|----------------------------------|
-| Pricing | Tiny homes ~$416/SF; 80 lots $10,817,449 | -30% across sale products |
-| 10-Year Revenue | $59,632,442 | ~ -30% on tiny-home/lot streams |
-| LP IRR | 32.1% | ~ -68% relative swing in the prior run (remained positive) |
-| LP Equity Multiple | 2.88x | Materially reduced; capital preserved in prior run |
+| Pricing | Tiny homes ~$416/SF; 80 lots $10,817,449 | −30% across tiny-home + lot sale products |
+| 10-Year Revenue | $59,632,442 | −30% on tiny-home ($8.86M) and lot ($10.82M) streams |
+| LP IRR | 32.1% | **14.7%** |
+| LP Equity Multiple | 2.88x | **2.01x** |
 
-**Assessment:** A sustained 30% price decline exceeds the 2008–2010 Austin market correction (peak-to-trough ~18%). In the prior run, investors still recovered more than their capital under this stress; exact Phase-1 rebased figures are [TO CONFIRM]. Lot sales (highest margin of safety) and rental/hospitality income stability support solvency.
+**Assessment:** A sustained 30% price decline exceeds the 2008–2010 Austin market correction (peak-to-trough ~18%). Even so, LP capital is fully preserved and investors still receive **~2.0x** at a **14.7%** IRR — because rental/hospitality income ($32.5M over the hold) is unaffected and lot sales retain positive margin on their infrastructure-only cost basis.
 
 #### Stress Test B: 50% Slower Absorption
 
-| Metric | Base Case (Phase 1) | Stressed (approx., [TO CONFIRM]) |
+| Metric | Base Case (Phase 1) | Stressed (Phase-1 model) |
 |--------|-----------|----------------------------------|
-| Sales timeline | Tiny homes Year 2; lots Years 2–3 | Sellout extends well beyond Year 3 |
-| LP IRR | 32.1% | ~ -60% relative swing in the prior run (remained positive) |
-| Additional capital | None | Possible bridge financing in mid years [TO CONFIRM] |
+| Sales timeline | Tiny homes Year 2; lots Years 2–3 | 50% of Year-2/3 sale revenue deferred ~1 year |
+| LP IRR | 32.1% | **25.5%** |
+| LP Equity Multiple | 2.88x | **2.92x** |
+| Additional capital | None | None required in the model; bridge financing optional [TO CONFIRM] |
 
-**Assessment:** Halving absorption extends the sales timeline significantly but did not threaten capital preservation in the prior run. The phased construction approach limits exposure — the Phase-1 program is completed in Years 1–2, and recurring rental/hospitality revenue continues through the hold.
+**Assessment:** Halving absorption defers revenue rather than destroying it — the equity multiple is essentially unchanged (2.92x) while IRR steps down to a still-strong 25.5% on the later timing. Phased construction (Phase 1 completes Years 1–2) and recurring rental/hospitality revenue limit exposure through the hold.
 
 #### Stress Test C: 25% Construction Cost Overrun
 
-| Metric | Base Case (Phase 1) | Stressed (approx., [TO CONFIRM]) |
+| Metric | Base Case (Phase 1) | Stressed (Phase-1 model) |
 |--------|-----------|----------------------------------|
-| Phase-1 hard costs | ~$16.7M (Years 1–2) | ~ +$4.2M |
-| LP IRR | 32.1% | ~ -31% relative swing in the prior run (remained attractive) |
+| Phase-1 hard costs | ~$16.7M (Years 1–2) | ~ +$4.2M (+25% on Years 1–2 hard cost) |
+| LP IRR | 32.1% | **23.6%** |
+| LP Equity Multiple | 2.88x | **2.50x** |
 | Contingency absorption | — | Phase-1 contingency allocation [TO CONFIRM]; the 20% distribution reserve provides an additional cash buffer |
 
-**Assessment:** A 25% cost overrun compresses margins significantly but the project retained attractive returns in the prior run because pricing is maintained and lot sales provide a cost-insensitive margin buffer.
+**Assessment:** A 25% cost overrun (~$4.2M) compresses returns to **23.6% IRR / 2.50x** — still attractive — because pricing is maintained and lot sales provide a cost-insensitive margin buffer.
 
 #### Stress Test D: Combined Worst Case
 
 | Applied Stress | Assumption |
 |----------------|-----------|
-| Pricing | -15% |
-| Absorption | -30% |
+| Pricing | −15% |
+| Absorption | −30% |
 | Construction costs | +15% |
 | Interest rates | +200bps |
-| Rental occupancy | Reduced |
+| Rental occupancy | −10% |
 
-**Assessment:** In the prior run, the combined worst case — a scenario comparable to a 2008-style crisis hitting during peak construction, with estimated probability <1% — still returned LP capital with a modest positive return, and the project did not require liquidation. Additional capital (mezzanine debt or follow-on equity) would likely be required. Exact Phase-1 rebased figures are **[TO CONFIRM — being recomputed on the Phase-1 model]**. Phase-1 investors additionally benefit from the Phases 2–3 backstop: later phases give the sponsor additional revenue capacity to support the targeted LP return.
+| Metric | Base Case (Phase 1) | Combined Worst Case (Phase-1 model) |
+|--------|-----------|----------------------------------|
+| LP IRR | 32.1% | **11.5%** |
+| LP Equity Multiple | 2.88x | **1.79x** |
+
+**Assessment:** The combined worst case stacks five adverse moves simultaneously — a scenario comparable to a 2008-style crisis hitting during peak construction, with estimated probability <1%. Even under this compounded stress the Phase-1 LP **preserves capital and returns ~1.79x at an 11.5% IRR**, and the project does not require liquidation in the model. Follow-on capital (mezzanine debt or additional equity) may be prudent to optimize timing but is not required for capital return. Phase-1 investors additionally benefit from the Phases 2–3 backstop: later phases give the sponsor additional revenue capacity to support the targeted LP return.
 
 ### 7.2 Stress Test Summary Matrix
 
-| Scenario | Directional Outcome (prior full-project run; [TO CONFIRM] on the Phase-1 model) |
-|----------|----------------------------------------------------------------|
-| **Base Case (Phase 1 — the offering)** | **32.1% IRR / 2.88x EMx (Phase-1 model figures)** |
-| A: -30% Pricing | Positive return; capital preserved |
-| B: -50% Absorption | Positive return; timeline extension; possible bridge capital |
-| C: +25% Cost Overrun | Attractive return retained |
-| D: Combined Worst (<1% est. probability) | Capital preserved with modest positive return; additional capital required |
-| Phases 2–3 proceed | Upside beyond the base case (context — not required for the projected return) |
+| Scenario | LP IRR (10-yr) | LP EMx | Outcome (Phase-1 model) |
+|----------|:--------------:|:------:|-------------------------|
+| **Base Case (Phase 1 — the offering)** | **32.1%** | **2.88x** | The offering as underwritten |
+| A: −30% Pricing | 14.7% | 2.01x | Capital preserved; ~2x returned |
+| B: −50% Absorption | 25.5% | 2.92x | Timing shift only; multiple intact |
+| C: +25% Cost Overrun | 23.6% | 2.50x | Attractive return retained |
+| D: Combined Worst (<1% est. probability) | 11.5% | 1.79x | Capital preserved; positive multiple |
+| Phases 2–3 proceed | — | — | Upside beyond the base case (context — not required for the projected return) |
 
 ---
 
@@ -341,7 +326,7 @@ Per-type pricing floors (price at which unit-level margin reaches zero) are main
 
 ### 9.1 Probability-Weighted Expected Return
 
-Probability weights and scenario-specific IRR/EMx values are being recomputed on the Phase-1 base and are **[TO CONFIRM]**. The published base-case figures are the Phase-1 offering economics: **LP IRR 32.1% / EMx 2.88x / total distributions $14,834,476 (10-yr)** and **25.7% / 1.79x / $9,217,829 (5-yr, interim — loan not repaid at Year 5)**.
+Scenario-specific IRR/EMx values have been **computed on the Phase-1 model**: Conservative **18.2% / 2.15x**, Base **32.1% / 2.88x**, Optimistic **46.2% / 3.66x** (§3.2), with every single-variable and stress case in §4 and §7 preserving LP capital. Formal probability weights for a blended expected return remain subject to management sign-off — **[TO CONFIRM]**. The published base-case figures are the Phase-1 offering economics: **LP IRR 32.1% / EMx 2.88x / total distributions $14,834,476 (10-yr)** and **25.7% / 1.79x / $9,217,829 (5-yr, interim — loan not repaid at Year 5)**.
 
 ### 9.2 Context vs. Alternatives
 

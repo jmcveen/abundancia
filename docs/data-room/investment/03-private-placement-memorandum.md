@@ -147,7 +147,7 @@ The minimum investment is $50,000 (1 Unit). The Manager, in its sole discretion,
 
 ### 2.3 Offering Period
 
-The offering will commence in July 2026 and continue until the earlier of: (i) the sale of all offered Units; (ii) [TO CONFIRM offering termination date]; or (iii) such later date as the Manager may determine in its sole discretion. The Manager reserves the right to terminate the offering at any time and for any reason.
+The offering will commence in July 2026 and continue until the earlier of: (i) the sale of all offered Units; (ii) December 31, 2026; or (iii) such later date as the Manager may determine in its sole discretion. The Manager reserves the right to terminate the offering at any time and for any reason.
 
 ### 2.4 Minimum Offering Amount
 
