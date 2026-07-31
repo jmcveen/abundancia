@@ -76,18 +76,18 @@ export default async function DocumentViewerPage({
   }
 
   return (
-    <div className="min-h-screen bg-canvas print:bg-white relative pt-0 print:pt-0">
-      {/* Sticky bar below main nav */}
-      <div className="sticky top-24 z-30 bg-canvas/90 backdrop-blur-xl border-b border-neutral-200 shadow-sm print:hidden">
-        <div className="w-full sm:w-[70vw] mx-auto flex items-center justify-between py-3 px-4 sm:px-6">
+    <div className="min-h-screen bg-canvas print:bg-white relative -mt-24 print:mt-0 pt-0 print:pt-0">
+      {/* Single compact top bar (global nav is hidden on this route) */}
+      <div className="sticky top-0 z-40 bg-white/95 backdrop-blur-xl border-b border-neutral-200 shadow-sm print:hidden">
+        <div className="w-full sm:w-[70vw] mx-auto flex items-center justify-between py-2.5 sm:py-3 px-4 sm:px-6">
           <Link
             href="/data-room"
-            className="group inline-flex items-center gap-2 text-neutral-600 hover:text-primary-800 transition-colors font-accent text-sm uppercase tracking-wide"
+            className="group inline-flex items-center gap-1.5 text-neutral-600 hover:text-primary-800 transition-colors font-accent text-[13px] sm:text-sm uppercase tracking-wide"
           >
             <ArrowLeft className="w-4 h-4 group-hover:-translate-x-1 transition-transform" />
             Data Room
           </Link>
-          <div className="flex items-center gap-4">
+          <div className="flex items-center gap-3 sm:gap-4">
             <span className="hidden sm:block font-accent text-xs uppercase tracking-widest text-neutral-500">
               {doc.category}
             </span>
@@ -97,7 +97,7 @@ export default async function DocumentViewerPage({
       </div>
 
       {/* Document content */}
-      <article className="w-full sm:w-[70vw] mx-auto px-4 sm:px-6 pt-8 sm:pt-10 pb-12 sm:pb-16 print:py-0 print:w-full print:px-0">
+      <article className="w-full sm:w-[70vw] mx-auto px-4 sm:px-6 pt-5 sm:pt-10 pb-12 sm:pb-16 print:py-0 print:w-full print:px-0">
         <div className="max-w-4xl mx-auto print:max-w-none">
           <div className="bg-white rounded-xl shadow-lg border border-neutral-100 overflow-hidden print:shadow-none print:border-0 print:rounded-none">
             <div className="px-6 sm:px-10 lg:px-12 py-8 sm:py-10 lg:py-12 print:px-0 print:py-0">

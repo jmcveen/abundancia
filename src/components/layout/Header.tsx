@@ -144,6 +144,10 @@ export function Header() {
     }, 150)
   }
 
+  // On the data-room document view, hide the global floating nav — the doc has its
+  // own compact "Data Room / Print" bar, so the mobile header stays tight and clean.
+  if (pathname?.startsWith('/data-room/view')) return null
+
   return (
     <>
       <motion.header
