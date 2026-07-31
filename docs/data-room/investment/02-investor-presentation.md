@@ -486,39 +486,7 @@ The 376-acre property offers a compelling canvas for regenerative community deve
 
 The master plan organizes 376 acres into distinct but connected neighborhoods — with 184.5 acres (49%) preserved — each with its own character and product type, linked by a network of walking trails, greenways, and shared amenity spaces:
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    STATE HIGHWAY 71 CORRIDOR                 │
-│                    (Entry / Access)                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐  │
-│   │  Commercial   │   │   Village    │   │ Condominiums  │  │
-│   │   Center      │   │   Green      │   │  Phase A      │  │
-│   └──────────────┘   └──────────────┘   └──────────────┘  │
-│                                                             │
-│   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐  │
-│   │ Single-Family │   │  Food Forest │   │  Single-Family│  │
-│   │  (West)       │   │  & Gardens   │   │  (East)       │  │
-│   └──────────────┘   └──────────────┘   └──────────────┘  │
-│                                                             │
-│   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐  │
-│   │  Tiny Home   │   │ Preserved    │   │  Domes &      │  │
-│   │  Village     │   │  Corridor    │   │  Nature Stays │  │
-│   └──────────────┘   └──────────────┘   └──────────────┘  │
-│                                                             │
-│   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐  │
-│   │  Estate      │   │ Regenerative │   │  Event &      │  │
-│   │  Lots        │   │  Agriculture │   │  Healing Ctr  │  │
-│   └──────────────┘   └──────────────┘   └──────────────┘  │
-│                                                             │
-│   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐  │
-│   │  Rental      │   │ Condominiums │   │  Preserved    │  │
-│   │  Residences  │   │  Phase B     │   │  Land & Trails│  │
-│   └──────────────┘   └──────────────┘   └──────────────┘  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+![Abundancia Concept Master Plan — aerial site plan with numbered legend and Year 1–5 development timeline](/data-room/concept-master-plan.png)
 
 *Conceptual diagram — see the land use plan for authoritative acreages: SFR Residential 61 ac, Commercial 9 ac, Regenerative Agriculture 42 ac, Roads 10 ac, STRs Tiny Homes/Domes 25 ac, STRs Unique Regenerative Stays 8 ac, Residential Tiny Homes & Domes 16 ac, Event & Healing Center 12 ac, Permaculture Gardens & Barns 8.5 ac, Preserved Land 184.5 ac (total 376 ac).*
 

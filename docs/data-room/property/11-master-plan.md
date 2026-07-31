@@ -41,6 +41,12 @@
 
 ---
 
+## Concept Master Plan
+
+![Abundancia Concept Master Plan — aerial site plan with numbered legend and Year 1–5 development timeline](/data-room/concept-master-plan.png)
+
+*Concept master plan over the 376-acre property. Numbered legend keys the community's neighborhoods and amenities; the timeline shows the Year 1–5 development sequence. See Section 2.1 for authoritative land-use acreages.*
+
 ## 1. Design Philosophy
 
 ### 1.1 Conservation-Forward Development
