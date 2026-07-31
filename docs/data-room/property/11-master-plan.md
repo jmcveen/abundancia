@@ -122,16 +122,16 @@ The 2011 Bastrop Complex Fire burned 34,000 acres and destroyed 1,673 homes in t
 
 ### 3.1 Unit Mix Summary
 
-**Total program: ~501 structures plus estate lots [count TO CONFIRM], including 360 for-sale residences and 126 rental units.**
+**Total program: ~501 structures plus 100 estate lots, including 360 for-sale residences and 126 rental units.**
 
 | Housing Type | Units | Size / Mix | Pricing Basis (Model) | Revenue Classification |
 |-------------|-------|------------|----------------------|------------------------|
 | Single-Family Homes | 100 | 10×1BR (1,000 SF); 20×2BR (1,500 SF); 20×3BR (2,000 SF); 20×4BR (2,500 SF); 20×5BR (3,500 SF); 5×6BR (4,500 SF); 5×7BR (5,000 SF) | From approximately $450/SF; blended realized ~$566/SF | Residential sales |
 | Condominiums | 200 for sale | 1BR (600 SF); 2BR (850 SF); 3BR (1,250 SF) | Blended ~$400/SF | Residential sales |
 | Tiny Homes | 60 | 16 studio (232 SF); 18×1BR (272 SF); 20×2BR (416 SF); 6 early-discount (416 SF) | Blended ~$416/SF (~$104K-$166K) | Residential sales |
-| Estate Lots | [count TO CONFIRM] | ~1/3-acre, half-acre, one-acre mix | Avg. lot revenue per model | Lot sales — $22,872,273 (2028-2029) |
+| Estate Lots | 100 | ~1/3-acre, half-acre, one-acre mix | Avg. lot revenue per model | Lot sales — $22,872,273 (2028-2029) |
 | Rental Units | 126 | 1×6BR event house (6,000 SF); 75 rental condos (25×1BR / 25×2BR / 25×3BR); 50 nature stays (20 glamping tents, 15 domes, 5 high-end domes, 10 camping) | Nature stays $150-375/night | Rental revenue |
-| **Total** | **~501 structures + estate lots [count TO CONFIRM]** | | | Residential sales $249,152,934 (10-yr model) |
+| **Total** | **~501 structures + 100 estate lots** | | | Residential sales $249,152,934 (10-yr model) |
 
 *Condominiums total 275 across the full project — 200 for sale plus 75 rental condos (shown under Rental Units).*
 
@@ -282,7 +282,7 @@ See Section 13 for detailed retreat center design. *Revenue classification note:
 
 | Metric | Total |
 |--------|-------|
-| Total structures | ~501 (plus estate lots [count TO CONFIRM]) |
+| Total structures | ~501 (plus 100 estate lots) |
 | For-sale residences | 360 (100 SFR + 200 condos + 60 tiny homes) |
 | Rental units | 126 (event house + 75 rental condos + 50 nature stays) |
 | Condominiums (total) | 275 (200 for sale + 75 rental) |
@@ -357,7 +357,7 @@ Abundancia's water strategy is a layered supply combined with demand reduction:
 
 | Metric | Value | Comparison |
 |--------|-------|------------|
-| Total structures | ~501 (plus estate lots [count TO CONFIRM]) | |
+| Total structures | ~501 (plus 100 estate lots) | |
 | Overall density | ~1.3 structures/acre across 376 acres | Very low — conservation community |
 | Building footprint | ~16.1 acres of structures (4.28% of site) | |
 | Preserved land | 184.5 acres (49.1%) | |

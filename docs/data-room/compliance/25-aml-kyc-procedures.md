@@ -74,7 +74,7 @@ The Company and its Manager will comply with the Corporate Transparency Act's be
 
 ### 2.1 Policy Declaration
 
-It is the policy of Abundancia Community LLC and its Manager (New Earth Development leadership; Kelly Krezek, Chief Executive Officer) to:
+It is the policy of Abundancia Community LLC and its Manager (New Earth Development LLC, a Texas limited liability company; Kelly Krezek, Chief Executive Officer) to:
 
 - Conduct appropriate due diligence on all prospective investors prior to acceptance of subscription funds
 - Prohibit the acceptance of investments from any individual or entity that appears on the OFAC Specially Designated Nationals and Blocked Persons List or any other applicable sanctions list
@@ -490,8 +490,8 @@ The Company has designated the following individual as AML/KYC Compliance Office
 
 | Role | Name | Title |
 |---|---|---|
-| AML/KYC Compliance Officer | Kelly Krezek | Chief Executive Officer, New Earth Development (Manager) |
-| Backup Compliance Officer | [TO CONFIRM] | [TO CONFIRM] |
+| AML/KYC Compliance Officer | Kelly Krezek | Chief Executive Officer |
+| Backup Compliance Officer | Joe McVeen | Chief Marketing Officer |
 
 ### 11.2 Compliance Officer Responsibilities
 
@@ -599,7 +599,7 @@ In addition to the annual review, this policy shall be updated upon:
 | Version | Date | Description | Approved By |
 |---|---|---|---|
 | 1.0 | March 2026 | Initial draft (superseded — contained incorrect entity and officer information) | [Superseded] |
-| 2.0 | July 2026 | Corrected entity (Abundancia Community LLC, Delaware), Manager, officer designations, and offering references | Kelly Krezek, CEO (Manager) [pending formal adoption — TO CONFIRM] |
+| 2.0 | July 2026 | Corrected entity (Abundancia Community LLC, Delaware), Manager, officer designations, and offering references | Kelly Krezek, Chief Executive Officer (adopted) |
 
 ---
 

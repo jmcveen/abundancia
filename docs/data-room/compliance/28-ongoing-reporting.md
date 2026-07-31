@@ -55,8 +55,8 @@ This Ongoing Reporting Framework establishes the comprehensive reporting obligat
 | Issuer | Abundancia Community LLC (Delaware LLC, manager-managed) |
 | Manager | New Earth Development LLC |
 | Manager CEO | Kelly Krezek |
-| Securities | Class A Membership Interest Units [Unit count and per-Unit price TO CONFIRM] |
-| Total Raise | Approximately $5,154,032 Class A/LP equity (Phase 1) [TO CONFIRM]; total Phase-1 capitalization $13,354,032 (≈$5,154,032 LP equity + $500,000 GP co-investment + $7,700,000 construction debt at 8.5%) |
+| Securities | Class A Membership Interest Units (approximately 103 Units at $50,000 per Unit) |
+| Total Raise | Approximately $5,154,032 Class A/LP equity (Phase 1); total Phase-1 capitalization $13,354,032 (≈$5,154,032 LP equity + $500,000 GP co-investment + $7,700,000 construction debt at 8.5%) |
 | Regulation | Regulation D, Rule 506(c) (subject to final structuring and securities counsel review) |
 | Project | Regenerative community, 376 acres, Cedar Creek, Bastrop County, Texas |
 
@@ -890,8 +890,8 @@ The Company shall report on the status of any sustainability certifications purs
 
 | Certification | Status | Reporting |
 |---------------|--------|-----------|
+| Living Building Challenge | Pursuing — certification targeted for at least one building, with LBC standards applied community-wide across all homes/buildings | Annual Report |
 | LEED (Leadership in Energy and Environmental Design) | [Pursuing / Obtained / N/A] | Annual Report |
-| Living Building Challenge | [Pursuing / Obtained / N/A] | Annual Report |
 | WELL Building Standard | [Pursuing / Obtained / N/A] | Annual Report |
 | National Green Building Standard (NGBS) | [Pursuing / Obtained / N/A] | Annual Report |
 | Regenerative Community Certification | [Pursuing / Obtained / N/A] | Annual Report |
@@ -943,13 +943,14 @@ Each Quarterly Report shall include a schedule of management fees and other comp
 
 | Fee Type | Basis | Amount Paid (Quarter) | Amount Paid (YTD) |
 |----------|-------|----------------------|-------------------|
-| Asset Management Fee | [% of AUM / flat fee] | $[________] | $[________] |
-| Development Management Fee | [% of development costs] | $[________] | $[________] |
-| Property Management Fee | [% of gross revenue] | $[________] | $[________] |
-| Acquisition Fee | [% of acquisition price] | $[________] | $[________] |
-| Disposition Fee | [% of sale price] | $[________] | $[________] |
-| Other Compensation | [Description] | $[________] | $[________] |
-| **Total** | | **$[________]** | **$[________]** |
+| Developer Fee | 4% of Phase-1 capitalization ($534,161), paid from operating cash flow | $[reported per period] | $[reported YTD] |
+| Asset Management Fee | None (not charged) | $0 | $0 |
+| Development Management Fee | None (not charged) | $0 | $0 |
+| Property Management Fee | None (not charged) | $0 | $0 |
+| Acquisition Fee | None (not charged) | $0 | $0 |
+| Disposition Fee | None (not charged) | $0 | $0 |
+| Other Compensation | None (not charged) | $0 | $0 |
+| **Total** | | **$[reported per period]** | **$[reported YTD]** |
 
 ---
 

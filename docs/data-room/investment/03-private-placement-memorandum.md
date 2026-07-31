@@ -76,7 +76,9 @@ The following is a summary of the material terms of the offering. This summary i
 | **Minimum Investment** | $50,000 (1 Unit) |
 | **Maximum Number of Units** | Approximately 103 Units at $50,000 per Unit |
 | **Investor Qualification** | Accredited Investors Only (verified per Rule 506(c)) |
-| **Manager (GP)** | New Earth Development LLC (Kelly Krezek, Chief Executive Officer) |
+| **Manager (GP)** | New Earth Development LLC — Texas LLC (EIN 81-3237744; Texas file number 0805933058; 5900 Balcones Dr, Ste 100, Austin, TX 78731-4298); Kelly Krezek, Chief Executive Officer |
+| **Issuer** | Abundancia Community LLC — Delaware LLC (Delaware file number 6553843; EIN 87-4732687); registered office 8 The Green, Suite D, Dover, DE 19901; registered agent Delaware Registered Agent Service LLC |
+| **Beneficial Ownership (Issuer)** | Joe McVeen 50% / Kelly Krezek 50% |
 | **GP Participation** | Class B Units; promote per distribution waterfall (Section 8) — subject to final documentation and review by securities counsel |
 | **GP Co-Investment** | $500,000 of equity invested pari passu with the Class A LP equity (total equity $5,654,032; LP 91.16% / GP 8.84%) |
 | **Preferred Return** | 10% cumulative preferred return to the equity class — subject to final documentation and review by securities counsel |
@@ -88,8 +90,8 @@ The following is a summary of the material terms of the offering. This summary i
 | **Projected Total LP Distributions (projection — not guaranteed)** | $14,834,476 (10-year) / $9,217,829 (5-year interim) |
 | **Distributions** | Quarterly, beginning when cash flow permits (first project revenue projected in Year 2 of operations, 2028) |
 | **K-1 Reporting** | Annual Schedule K-1 provided to each investor |
-| **Offering Period** | Commencing July 2026 [TO CONFIRM closing dates] |
-| **Closing** | Rolling closings at Manager's discretion [TO CONFIRM minimum first close] |
+| **Offering Period** | Commencing July 2026; closing December 31, 2026 (outside date June 30, 2027) |
+| **Closing** | Rolling closings at Manager's discretion; final close December 31, 2026 (outside date June 30, 2027). Escrow release upon achievement of the $50,000 (one Unit) minimum offering amount |
 
 *All offering terms, waterfall terms, and fees are subject to final documentation and review by securities counsel.*
 
@@ -98,8 +100,8 @@ The following is a summary of the material terms of the offering. This summary i
 | Milestone | Target Date |
 |---|---|
 | **Offering Commencement** | July 2026 |
-| **First Close (Minimum)** | [TO CONFIRM] |
-| **Final Close / Capital Close** | 2026 [TO CONFIRM] |
+| **First Close (Minimum)** | Upon achievement of the $50,000 (one Unit) minimum offering / escrow release |
+| **Final Close / Capital Close** | December 31, 2026 (outside date June 30, 2027) |
 | **Land Closing** | 2026 (predevelopment: due diligence, watershed/hydrology, entitlements, MUD) |
 | **Entitlements / Permitting** | 2026-2027 (estimated 12-16 month permitting) |
 | **Groundbreaking (infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture)** | 2027 |
@@ -112,9 +114,10 @@ The following is a summary of the material terms of the offering. This summary i
 
 ```
 Abundancia Community LLC
-(Delaware Limited Liability Company — Manager-Managed; formed January 2022)
+(Delaware Limited Liability Company — Manager-Managed; formed January 2022;
+ DE file 6553843; EIN 87-4732687; beneficial owners Joe McVeen 50% / Kelly Krezek 50%)
 │
-├── Manager / GP — New Earth Development (Kelly Krezek, CEO)
+├── Manager / GP — New Earth Development LLC (Texas; Kelly Krezek, CEO)
 │   └── Class B Units (Manager); promote per waterfall — subject to final documentation
 │
 └── Class A Members ("Limited Partners" / LP investors)
@@ -218,7 +221,7 @@ Phase 1 hard construction costs are approximately $16.7 million across Years 1�
 
 ### 3.4 Development Program — Full Project (All Phases) Master-Plan Context
 
-*The following describes the complete multi-phase master plan within which the Phase 1 investment sits. It is provided as context and is not the basis of the investor economics offered hereby; later phases represent potential future upside and additional sponsor revenue capacity.* The full master plan comprises the following program (approximately 501 structures plus estate lots; construction 2027-2031) over a 10-year period:
+*The following describes the complete multi-phase master plan within which the Phase 1 investment sits. It is provided as context and is not the basis of the investor economics offered hereby; later phases represent potential future upside and additional sponsor revenue capacity.* The full master plan comprises the following program (approximately 501 structures plus 100 estate lots; construction 2027-2031) over a 10-year period:
 
 | Product Type | Units | Pricing Basis (model, blended realized) | Projected Revenue | Timing |
 |---|---|---|---|---|
@@ -226,7 +229,7 @@ Phase 1 hard construction costs are approximately $16.7 million across Years 1�
 | Condominiums (for sale) | 200 | ~$400/SF (1BR 600 SF; 2BR 850 SF; 3BR 1,250 SF) | Included in residential sales subtotal | 2029-2031 |
 | Tiny Homes (for sale) | 60 | ~$416/SF (~$104K-$166K) | Included in residential sales subtotal | 2028+ |
 | **Residential Sales Subtotal (360 for-sale residences)** | 360 | — | $249,152,934 | 2028-2031 |
-| Estate Lots | Estate lots | ~$229K average lot revenue | $22,872,273 | 2028-2029 |
+| Estate Lots | 100 (full project) | ~$229K average lot revenue | $22,872,273 | 2028-2029 |
 | Rentals (126: 6BR event house, 75 rental condos, 50 nature stays) | 126 | Nature stays $150-$375/night | $44,249,052 (10-yr) | 2028+ |
 | Commercial (12 spaces / 30,000 SF) | 12 | — | $7,102,227 (10-yr) | 2028+ |
 
@@ -243,7 +246,7 @@ The Company believes it occupies a unique competitive position in the Austin mar
 
 ### 3.6 Stage of Development
 
-As of the date of this Memorandum, the Company is in the predevelopment stage (due diligence, watershed/hydrology analysis, entitlements, MUD formation, and capital close targeted for 2026). The property has been identified and preliminary due diligence has been conducted, but no binding purchase agreement has been executed. Land acquisition terms remain a modeled scenario, subject to final terms. Land acquisition is contingent upon achievement of the minimum offering amount [TO CONFIRM].
+As of the date of this Memorandum, the Company is in the predevelopment stage (due diligence, watershed/hydrology analysis, entitlements, MUD formation, and capital close targeted for 2026). The property has been identified and is under a letter of intent, with a $65,000 earnest money deposit posted; definitive purchase terms remain subject to a final purchase agreement [TO CONFIRM]. No binding purchase agreement has yet been executed, and land acquisition terms otherwise remain a modeled scenario, subject to final terms. Land acquisition is contingent upon achievement of the minimum offering amount.
 
 The Company has not yet generated any revenue. All financial projections contained in this Memorandum are forward-looking estimates based on assumptions that may not prove to be correct.
 
@@ -326,7 +329,7 @@ Additionally, the following environmental assessments and permits will be obtain
 
 ### 4.7 Acquisition Terms
 
-Under the modeled scenario (terms TBD; scenario — subject to final terms), the Company intends to acquire the property for approximately $6,500,000 (approximately $17,287 per acre), with 20% down, approximately 5% closing costs, and an 8% land loan — approximately $2.17 million of Year-1 land cost, approximately $541,000 per year of land loan service, and approximately $7.04 million of total land cost over 10 years. Acquisition-related costs include:
+The property is currently under a letter of intent, with a $65,000 earnest money deposit posted; definitive purchase terms remain subject to a final purchase agreement [TO CONFIRM]. Under the modeled scenario (terms TBD; scenario — subject to final terms), the Company intends to acquire the property for approximately $6,500,000 (approximately $17,287 per acre), with 20% down, approximately 5% closing costs, and an 8% land loan — approximately $2.17 million of Year-1 land cost, approximately $541,000 per year of land loan service, and approximately $7.04 million of total land cost over 10 years. Acquisition-related costs include:
 
 - Purchase price
 - Closing costs and transfer fees
@@ -359,7 +362,7 @@ The offering proceeds fund Phase 1 of the master plan. The Company's Phase 1 cap
 
 | Category | Amount | Description |
 |---|---|---|
-| **Land Acquisition (modeled scenario)** | ~$2,170,000 | 20% down on ~$6.5M purchase price, ~5% closing costs, 8% land loan (scenario — subject to final terms) |
+| **Land Acquisition (under LOI; modeled scenario)** | ~$2,170,000 | Land under letter of intent; $65,000 earnest money deposit; definitive terms subject to a final purchase agreement. Modeled: 20% down on ~$6.5M purchase price, ~5% closing costs, 8% land loan (scenario — subject to final terms) |
 | **Hard Costs (Year 1 construction)** | ~$6,650,000 | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture (Year 1 hard costs per model; includes $1,759,523 infrastructure) |
 | **Hard Costs (Year 2 construction)** | ~$10,010,000 | Model home, tiny homes, lot development, 6BR Rental/Event House, infrastructure backbone completion (includes $4,191,808 infrastructure); funded by the Phase 1 capitalization together with Year 2 project revenue |
 | **Soft Costs** | ~$1,531,751 | Due diligence ($142,320), master planning & consultants ($507,505), legal/permits, design & engineering (per Phase 1 model) |
@@ -436,13 +439,13 @@ Mr. Haas is a civil engineer with 40+ years of experience (Sustainable Land Stra
 
 **Lance Stukaloff — Chief Investment Officer**
 
-Mr. Stukaloff, Chief Investment Officer, leads capital markets; the New Earth Development team has collectively raised $855M for previous real estate projects.
+Mr. Stukaloff, Chief Investment Officer, leads capital markets; the New Earth Development team has collectively raised $855M for previous real estate projects. Mr. Stukaloff holds no ownership interest in the Company.
 
 *Role: Capital formation, debt and equity structuring, investor relations*
 
-**Joe McVeen — Marketing & AI Systems**
+**Joe McVeen — Chief Marketing Officer**
 
-Mr. McVeen leads marketing and AI systems (Viral Purpose Media, 400M+ network reach).
+Mr. McVeen serves as Chief Marketing Officer, leading marketing and AI systems (Viral Purpose Media, 400M+ network reach). He is a 50% beneficial owner of the Company.
 
 *Role: Marketing strategy, digital systems, brand and audience development*
 
@@ -496,11 +499,13 @@ The General Partner and its affiliates will receive the following compensation i
 |---|---|---|---|
 | **Developer Fee** | 4% of Phase 1 total capitalization ($534,161) | Paid from operating cash flow (first year cash flow allows); does not reduce LP capital basis | Compensation for development sponsorship and project execution |
 | **Carried Interest / Promote** | Per waterfall (Section 8) | As distributions are made | General Partner's tiered promote on profits above the 10% cumulative preferred return and return of capital |
-| **Management Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
-| **Acquisition Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
-| **Construction Management Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
-| **Disposition Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
-| **Refinancing Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
+| **Management Fee** | None | — | Not charged; the developer fee is the only sponsor fee |
+| **Acquisition Fee** | None | — | Not charged |
+| **Construction Management Fee** | None | — | Not charged |
+| **Asset Management Fee** | None | — | Not charged |
+| **Disposition Fee** | None | — | Not charged |
+| **Refinancing Fee** | None | — | Not charged |
+| **Property Management Fee** | None | — | Not charged |
 
 ### 7.2 Reimbursement of Expenses
 
@@ -519,7 +524,7 @@ In addition to the fees described above, the Company will reimburse the General 
 - Developer fee: 4% of the $13,354,032 Phase 1 total capitalization = $534,161, paid from operating cash flow in the first year cash flow allows; the fee does not reduce LP capital basis (subject to final documentation and review by securities counsel)
 
 **Other Fees**
-- [TO CONFIRM] — Any additional fee arrangements will be specified in final documentation and reviewed by securities counsel before this Memorandum is finalized.
+- None. The General Partner charges no management, acquisition, construction management, asset management, disposition, refinancing, or property management fee. The 4% developer fee is the only sponsor fee, which preserves the projected LP economics.
 
 ---
 
@@ -791,7 +796,7 @@ The Manager will review and either accept or reject the subscription within 10 b
 
 All subscription funds will be deposited into an escrow account at [Escrow Agent Name], a federally insured depository institution. Funds will be held in escrow until:
 
-(a) The minimum offering amount ($[TO CONFIRM]) has been achieved;
+(a) The minimum offering amount ($50,000, one Unit) has been achieved;
 (b) The investor's subscription has been accepted by the Manager; and
 (c) The Operating Agreement has been fully executed.
 

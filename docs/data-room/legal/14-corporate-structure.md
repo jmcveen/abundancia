@@ -52,10 +52,12 @@ Abundancia Community LLC ("the Company") is a Delaware limited liability company
 | **Jurisdiction** | State of Delaware |
 | **Entity Type** | Limited Liability Company (manager-managed) |
 | **Formation Date** | January 2022 (initial Delaware filing January 31, 2022) |
-| **DE File Number** | [TO CONFIRM] |
+| **DE File Number** | 6553843 |
+| **EIN** | 87-4732687 |
 | **Registered Agent** | Delaware Registered Agent Service LLC |
-| **Principal Office** | [TO CONFIRM] |
-| **Manager** | New Earth Development leadership (Kelly Krezek, Chief Executive Officer) |
+| **Registered Office** | 8 The Green, Suite D, Dover, DE 19901 |
+| **Principal Office** | 8 The Green, Suite D, Dover, DE 19901 |
+| **Manager** | New Earth Development LLC (Texas), 5900 Balcones Dr, Ste 100, Austin, TX 78731-4298 — Kelly Krezek, Chief Executive Officer |
 | **Tax Classification** | Partnership (IRS Form 1065) |
 | **Fiscal Year** | Calendar Year (January 1 - December 31) |
 
@@ -125,12 +127,18 @@ The Company utilizes a GP/LP-style structure implemented through two unit classe
 
 | Field | Detail |
 |-------|--------|
-| **Manager** | New Earth Development LLC (Kelly Krezek, Chief Executive Officer) |
+| **Manager** | New Earth Development LLC (Texas), 5900 Balcones Dr, Ste 100, Austin, TX 78731-4298 (Kelly Krezek, Chief Executive Officer) |
 | **Units Held** | Class B Units (GP/Manager) |
 | **Role** | Manager of the Company (manager-managed LLC) |
 | **GP Capital** | $500,000 GP co-investment, invested pari passu with Class A (LP) capital (subject to final documentation) |
-| **Developer Fee** | 4% of Phase-1 capitalization ($534,161), paid from operating cash flow (subject to final documentation) |
-| **Management Fee** | [TO CONFIRM] |
+| **Developer Fee** | 4% of Phase-1 capitalization ($534,161), paid from operating cash flow (subject to final documentation) — the only sponsor fee charged |
+| **Management Fee** | None |
+| **Acquisition Fee** | None |
+| **Construction Management Fee** | None |
+| **Asset Management Fee** | None |
+| **Disposition Fee** | None |
+| **Refinancing Fee** | None |
+| **Property Management Fee** | None |
 | **Carried Interest** | Per waterfall schedule (see Section 4.4) |
 
 The Manager has authority over the management and operations of the Company, subject to the Major Decision requirements set forth in Section 6.
@@ -184,8 +192,8 @@ Distributions of available cash flow are intended to be made in the following or
           |                                       |
     CLASS A UNITS                           CLASS B UNITS
   (LP Investors -                          (GP / Manager)
-   accredited investors;              New Earth Development
-   passive; voting limited            leadership - Kelly Krezek,
+   accredited investors;              New Earth Development LLC
+   passive; voting limited            (Texas) - Kelly Krezek,
    to major matters)                  Chief Executive Officer
                               |
                               |
@@ -287,7 +295,7 @@ The following are affiliates of the Manager and may provide services to the Comp
 
 | Affiliated Entity | Relationship | Services Provided |
 |-------------------|-------------|-------------------|
-| New Earth Development LLC | Manager / Sponsor | Development management, sponsorship, and management services |
+| New Earth Development LLC (Texas; 5900 Balcones Dr, Ste 100, Austin, TX 78731-4298) | Manager / Sponsor | Development management, sponsorship, and management services |
 | [Additional Affiliates — TO CONFIRM] | [Relationship] | [Services] |
 
 *The Company has no subsidiary entities and no affiliated "Holdings," "GP," "Manager," or "Development" LLCs as depicted in prior drafts of this document.*
@@ -315,7 +323,7 @@ The Company shall maintain the following insurance coverage at all times during 
 | Flood Insurance | As required by lender / FEMA zone | NFIP or private equivalent |
 | Wildfire Coverage | Per policy terms (Bastrop County specific) | Specialized carrier |
 
-The Manager shall review insurance coverage annually and adjust limits as appropriate for the stage of development. Certificates of insurance shall be made available to any Class A member upon written request.
+All policies are to be bound at closing (post-close). The Manager shall review insurance coverage annually and adjust limits as appropriate for the stage of development. Certificates of insurance shall be made available to any Class A member upon written request.
 
 ---
 
@@ -402,7 +410,7 @@ The Manager shall make the following tax elections on behalf of the Company:
 
 ### 12.1 Management Structure
 
-The Company is manager-managed. The Manager is New Earth Development leadership (Kelly Krezek, Chief Executive Officer); the Manager holds the Class B Units. Day-to-day operations are conducted by the management team engaged by the Manager.
+The Company is manager-managed. The Manager is New Earth Development LLC, a Texas limited liability company (principal office 5900 Balcones Dr, Ste 100, Austin, TX 78731-4298; Kelly Krezek, Chief Executive Officer); the Manager holds the Class B Units. Day-to-day operations are conducted by the management team engaged by the Manager.
 
 ### 12.2 Meetings
 

@@ -169,7 +169,7 @@
 
 | Development | Acres | Program | Conservation | Pricing | Positioning |
 |-------------|-------|-------|---------------|-------------|------------|
-| **Abundancia** | **376** | **~501 structures + estate lots [count TO CONFIRM] (360 for-sale residences, 126 rentals, 30,000 SF commercial)** | **184.5 ac preserved (49%); ~62.5% incl. regenerative agriculture** | **From ~$450/SF (SFR blended ~$566/SF; condos ~$400/SF; tiny homes ~$104K-166K)** | **Regenerative conservation community** |
+| **Abundancia** | **376** | **~501 structures + 100 estate lots (360 for-sale residences, 126 rentals, 30,000 SF commercial)** | **184.5 ac preserved (49%); ~62.5% incl. regenerative agriculture** | **From ~$450/SF (SFR blended ~$566/SF; condos ~$400/SF; tiny homes ~$104K-166K)** | **Regenerative conservation community** |
 | The Sanctuary | 104 | 116 lots (1.6-acre avg); 15 home plans (520 SF casita to 10-BR flagship) | [TO CONFIRM] | Being compiled | Off-grid wellness community (Hill Country) |
 | Whisper Valley | 2,062 (est.) | ~7,500 planned zero-energy homes | 15-20% (est.) | $300K-750K | Eco master-planned suburban |
 | Serenbe | 1,200 | 750+ residents | ~70% (est.) | From ~$375K | Wellness agrihood |
@@ -223,7 +223,7 @@
 | Benchmark | Market | Basis | Notes |
 |-----------|--------|-------|-------|
 | Bastrop County improved lots | Various subdivisions | $55K-95K (est.) [TO CONFIRM] | Roads, utilities |
-| **Abundancia Estate Lots (model)** | **Cedar Creek** | **Estate lots [count TO CONFIRM] (~1/3-acre, half-acre, one-acre mix): total lot revenue $22,872,273 (2028-2029)** | **Full infrastructure + conservation setting** |
+| **Abundancia Estate Lots (model)** | **Cedar Creek** | **100 estate lots (~1/3-acre, half-acre, one-acre mix): total lot revenue $22,872,273 (2028-2029)** | **Full infrastructure + conservation setting** |
 
 ---
 
@@ -246,7 +246,7 @@
 | 2029 | 30 | 80 | — | Lot sales continue (lot revenue $22,872,273 across 2028-2029) | 25 | School opens; cumulative break-even |
 | 2030 | 40 | 60 | — | — | 25 | Village + temple |
 | 2031 | 30 (estate homes) | 60 | — | — | 25 | Construction complete |
-| **Total** | **100** | **200 for sale** | **60** | **estate lots [count TO CONFIRM]** | **75 rental condos** | 2032+ stabilized (~$7-8M/yr recurring) |
+| **Total** | **100** | **200 for sale** | **60** | **100 estate lots** | **75 rental condos** | 2032+ stabilized (~$7-8M/yr recurring) |
 
 *Offering scope note: the current investment offering funds Phase 1 (Years 1–2, 2027–2028) only. Phase 1 sales are 60 tiny homes and 80 residential lots, plus hospitality operations — no single-family homes or condominiums are sold in Phase 1. The delivery schedule above is the full-project (all phases) master plan; the full residential program is delivered in subsequent phases.*
 
@@ -256,7 +256,7 @@
 |--------|-------------------|---------------|
 | **First revenue** | 2028 | Hospitality opens; tiny homes deliver; lots + SFR launch |
 | **Cumulative break-even** | Year 3 (2029) | Financial model |
-| **Sell-through window** | 2028-2031 (residential deliveries) | 360 for-sale residences + estate lots [count TO CONFIRM] |
+| **Sell-through window** | 2028-2031 (residential deliveries) | 360 for-sale residences + 100 estate lots |
 | **Pre-sale support** | 10,000-person interest list; 100+ investors/buyers/collaborators | Zero paid marketing to date |
 
 ### 5.4 Absorption Sensitivity Analysis

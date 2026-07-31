@@ -138,7 +138,7 @@ Whisper Valley is the most directly comparable eco-branded development in the Au
 | **Food systems** | Small community garden | 42 acres regenerative agriculture + 8.5 acres permaculture gardens + dining | Abundancia |
 | **Wellness / community** | HOA-managed; limited programming | Wellness/longevity center & spa, retreat stays, ceremony spaces | Abundancia |
 | **Price accessibility** | $300K-750K (broad range) | Tiny homes from ~$104K to estate homes (homes from ~$450/SF) | Abundancia |
-| **Scale / absorption** | ~7,500 units; 400/yr | ~501 structures + estate lots [count TO CONFIRM] (360 for-sale residences) | Whisper Valley (volume) |
+| **Scale / absorption** | ~7,500 units; 400/yr | ~501 structures + 100 estate lots (360 for-sale residences) | Whisper Valley (volume) |
 | **Location** | East Austin; closer to urban core | SH-71 corridor; 30-40 min downtown; 15-20 min ABIA | Whisper Valley |
 | **Brand maturity** | Established (2017 launch) | Pre-launch (10,000-person interest list, zero paid marketing) | Whisper Valley |
 
@@ -387,7 +387,7 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 
 | Community | Price Range | Lot Size | Infrastructure | Conservation Context |
 |-----------|-----------|---------|---------------|---------------------|
-| **Abundancia (estate lots)** | Lot revenue per model | ~1/3-acre, half-acre, one-acre mix (estate lots [count TO CONFIRM]) | Full (solar, fiber, water) | 49% community conservation |
+| **Abundancia (estate lots)** | Lot revenue per model | ~1/3-acre, half-acre, one-acre mix (100 estate lots, full project) | Full (solar, fiber, water) | 49% community conservation |
 | Bastrop County (improved) | $55K-95K | 0.15-0.30 acre | Roads, utilities | None |
 | Whisper Valley | $80K-120K | 0.10-0.15 acre | Full | 15-20% community greenspace |
 | Dripping Springs | $125K-350K | 0.25-1.0 acre | Varies | Varies (10-25%) |

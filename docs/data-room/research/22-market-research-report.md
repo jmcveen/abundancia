@@ -488,7 +488,7 @@ Carbon credits and sequestration verification create a potential incremental rev
 | **Voluntary carbon market size (2025)** | $4.2B | Growing 20-30% annually |
 | **Nature-based carbon credit price** | $15-45/ton | Rising with quality standards |
 | **Hempcrete carbon sequestration** | ~165 kg CO2/m3 (estimated) | Verifiable, auditable |
-| **Estimated sequestration (full build)** | [TO CONFIRM — being recalculated for full ~501-structure program] | From hempcrete construction alone |
+| **Estimated sequestration (full build)** | ~10,000-19,000 tons CO2 (preliminary estimate, assuming hempcrete construction, pending final material specification) | From hempcrete construction alone (~20-40 tons CO2/home × ~486 residences) |
 | **Regenerative agriculture credits** | $20-60/ton | Emerging; soil carbon verification improving |
 | **Potential annual carbon revenue** | $50K-200K | Incremental; marketing value exceeds financial |
 
@@ -624,7 +624,7 @@ Abundancia employs a differentiated pricing strategy that positions each product
 | **Single-Family Hempcrete Home** | From ~$450/SF (entry anchor); blended realized ~$566/SF | $320K-480K ($187/SF county median — Redfin 5/2026) | Austin $1M+ homes avg $423/SF (Texas Realtors 2025); Barton Creek ~$553-802/SF; West Lake Hills ~$756/SF |
 | **Condominium** | Blended ~$400/SF | $180K-320K ($250-280/SF) | 200 for-sale condos in program (1BR 600SF / 2BR 850SF / 3BR 1,250SF); 275 condos total incl. 75 rental |
 | **Tiny Home** | ~$104K-$166K (~$416/SF) | $85K-175K ($250-350/SF) | 60 tiny homes (studio 232SF to 2BR 416SF) |
-| **Estate Lot** | Lot revenue per model | $55K-95K ($250-450K/acre) | Estate lots [count TO CONFIRM]; lot revenue $22.87M modeled 2028-2029 |
+| **Estate Lot** | Lot revenue per model | $55K-95K ($250-450K/acre) | 100 estate lots (full project); lot revenue $22.87M modeled 2028-2029 |
 | **Nature Stays (nightly)** | Glamping tents $150/nt; domes $275/nt; high-end domes $375/nt | — | 50 nature stays in rental program |
 
 ### 9.3 Premium Justification Framework
@@ -683,7 +683,7 @@ Absorption rate projections are derived from three analytical approaches:
 | Scale-up | 2029 | 30 | — | 80 | Lot sales complete | 25 | School delivered |
 | Village | 2030 | 40 | — | 60 | — | 25 | Village + temple delivered |
 | Completion | 2031 | 30 (estate homes) | — | 60 | — | 25 | Construction complete |
-| **Total** | | **100** | **60** | **200 for sale** | **estate lots [count TO CONFIRM]** | **75 rental condos** | **360 for-sale residences + estate lots** |
+| **Total** | | **100** | **60** | **200 for sale** | **100 estate lots** | **75 rental condos** | **360 for-sale residences + 100 estate lots** |
 
 Modeled sale revenue: residential sales $249,152,934 + lot sales $22,872,273 = $272.0M (of $323.4M total 10-year revenue including rentals and commercial). First revenue 2028; cumulative break-even in 2029.
 

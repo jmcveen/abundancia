@@ -103,7 +103,7 @@ This subscription, once submitted, is irrevocable by the Subscriber except as re
 
 ### 1.7 Minimum Offering Amount
 
-(a) The Company has established a minimum offering amount of $[TO CONFIRM] (the "Minimum Offering Amount"). No investor funds will be deployed for any purpose (including land acquisition) until the Minimum Offering Amount has been achieved.
+(a) The Company has established a minimum offering amount of $50,000 (one Unit) (the "Minimum Offering Amount"). No investor funds will be deployed for any purpose (including land acquisition) until the Minimum Offering Amount has been achieved.
 
 (b) All subscription funds will be held in an interest-free escrow account at a federally insured depository institution until the Minimum Offering Amount is reached.
 
@@ -339,7 +339,7 @@ Without limiting the generality of Section 5.1, the Subscriber specifically ackn
 
 **(j) Tax Risk.** The tax consequences of the investment are complex and may vary significantly based on each investor's individual circumstances. Federal and state tax laws are subject to change, and such changes could adversely affect the tax benefits described in the Offering Documents. The Subscriber may owe taxes on allocations of Company income even in years when no cash distributions are received. The Subscriber has been advised to consult with the Subscriber's own tax advisor.
 
-**(k) Conflict of Interest.** The General Partner and its principals receive compensation (management fees, acquisition fees, construction management fees, disposition fees, and carried interest) that creates potential conflicts of interest between the Manager and the Limited Partners. The Manager's incentive to deploy capital and proceed with development may not always align with the interests of the Limited Partners.
+**(k) Conflict of Interest.** The General Partner and its principals receive compensation (the 4% developer fee and carried interest / promote — no management, acquisition, construction management, asset management, disposition, refinancing, or property management fees are charged) that creates potential conflicts of interest between the Manager and the Limited Partners. The Manager's incentive to deploy capital and proceed with development may not always align with the interests of the Limited Partners.
 
 ### 5.3 Written Acknowledgment of Risks
 
@@ -372,7 +372,7 @@ Subscription funds shall be wired to:
 
 (a) All subscription funds shall be deposited into an escrow account maintained at a federally insured depository institution (the "Escrow Agent") selected by the Manager.
 
-(b) Funds shall be held in escrow and shall not be deployed for any purpose until: (i) the Minimum Offering Amount of $[TO CONFIRM] has been achieved; (ii) the Subscriber's subscription has been accepted by the Manager; and (iii) the Operating Agreement has been executed by all parties.
+(b) Funds shall be held in escrow and shall not be deployed for any purpose until: (i) the Minimum Offering Amount of $50,000 (one Unit) has been achieved; (ii) the Subscriber's subscription has been accepted by the Manager; and (iii) the Operating Agreement has been executed by all parties.
 
 (c) No interest shall accrue or be payable on escrowed funds. If the subscription is rejected or the Minimum Offering Amount is not achieved within the offering period, the Subscription Amount shall be returned to the Subscriber, without interest, within five (5) business days.
 
@@ -820,7 +820,7 @@ BY SIGNING BELOW, THE SUBSCRIBER REPRESENTS, WARRANTS, AND CERTIFIES THAT:
 The Manager, on behalf of the Company, hereby accepts the subscription of the Subscriber identified above for the number of Units and Subscription Amount set forth herein, subject to the terms and conditions of this Agreement, the Operating Agreement, and the Private Placement Memorandum.
 
 **ABUNDANCIA COMMUNITY LLC**
-By: New Earth Development, its Manager [TO CONFIRM exact legal name of Manager entity]
+By: New Earth Development LLC, its Manager
 
 | | |
 |---|---|
@@ -834,7 +834,7 @@ By: New Earth Development, its Manager [TO CONFIRM exact legal name of Manager e
 ---
 
 **ABUNDANCIA COMMUNITY LLC**
-By: New Earth Development, its Manager [TO CONFIRM exact legal name of Manager entity]
+By: New Earth Development LLC, its Manager
 
 | | |
 |---|---|

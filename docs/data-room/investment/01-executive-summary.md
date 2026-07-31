@@ -48,7 +48,7 @@ Abundancia exists to demonstrate that profitable real estate development and eco
 
 ### 1.3 Corporate Structure
 
-Abundancia Community LLC is organized as a Delaware limited liability company, manager-managed, with two classes of membership units: Class A Units for investor members (LPs) and Class B Units for the Manager (GP). The Manager is New Earth Development (Kelly Krezek, CEO). LP voting rights are limited to major matters, and the structure is designed to align incentives between management and capital partners.
+Abundancia Community LLC is organized as a Delaware limited liability company, manager-managed, with two classes of membership units: Class A Units for investor members (LPs) and Class B Units for the Manager (GP). The Manager is New Earth Development LLC (Kelly Krezek, CEO). LP voting rights are limited to major matters, and the structure is designed to align incentives between management and capital partners.
 
 | Entity Detail | Description |
 |---|---|
@@ -57,8 +57,12 @@ Abundancia Community LLC is organized as a Delaware limited liability company, m
 | **Entity Type** | Delaware Limited Liability Company |
 | **Management** | Manager-Managed (GP is Manager; Class A / Class B Unit structure) |
 | **Tax Treatment** | Partnership (Pass-Through) |
-| **Registered Agent** | Delaware Registered Agent Service LLC |
+| **Delaware File Number** | 6553843 |
+| **EIN** | 87-4732687 |
+| **Registered Agent** | Delaware Registered Agent Service LLC (8 The Green, Suite D, Dover, DE 19901) |
 | **Formation Date** | January 2022 (Delaware initial filing 1/31/2022) |
+| **Manager / GP** | New Earth Development LLC (Texas; 5900 Balcones Dr, Ste 100, Austin, TX 78731-4298; EIN 81-3237744) |
+| **Beneficial Ownership** | Joe McVeen 50% / Kelly Krezek 50% |
 | **Principal Office** | Austin, Texas |
 
 ### 1.4 The Opportunity in Brief
@@ -110,7 +114,7 @@ Hempcrete — a bio-composite material made from hemp hurd, lime binder, and wat
 
 | Hempcrete Performance Metric | Value |
 |---|---|
-| **Carbon Sequestration** | Sequesters carbon via hemp growth and lime carbonation (quantification [TO CONFIRM]) |
+| **Carbon Sequestration** | Sequesters carbon via hemp growth and lime carbonation; estimated ~10,000–19,000 tons CO₂ at full build-out (~20–40 tons/home across ~486 residences; estimate, pending final material specification) |
 | **Insulation Value** | R-30+ wall assemblies |
 | **Fire Rating** | 2+ hours (exceeds code requirements) |
 | **Energy Performance** | 50-70% HVAC/energy reduction vs. code baseline |
@@ -317,11 +321,11 @@ LP return projections from the Phase-1 equity waterfall model:
 
 | Name | Title | Background |
 |---|---|---|
-| **Kelly Krezek** | Chief Executive Officer, New Earth Development (Manager) | 12 years in regenerative development across 10 regenerative projects; consults for firms with $100B+ in assets under management. Leads vision, master planning, and capital formation for Abundancia. |
+| **Kelly Krezek** | Chief Executive Officer | 12 years in regenerative development across 10 regenerative projects; consults for firms with $100B+ in assets under management. Leads vision, master planning, and capital formation for Abundancia. |
+| **Joe McVeen** | Chief Marketing Officer | Founder of Viral Purpose Media with a 400M+ audience network. Leads marketing, brand, and AI-driven systems. |
 | **Jared Gossett** | Lead Builder | Austin's #1 luxury builder by volume — 170+ homes delivered, two-time Builder of the Year, founder of Legacy Living™. Leads residential construction strategy and delivery. |
 | **Fred Haas, PE** | Civil Engineering & Infrastructure | 40+ years of civil engineering experience; principal of Sustainable Land Strategies. Leads infrastructure design and MUD formation engineering. |
-| **Lance Stukaloff** | Chief Investment Officer | Leads debt and equity capital structuring. The New Earth Development team has collectively raised $855M for previous real estate projects. |
-| **Joe McVeen** | Marketing & AI Systems | Founder of Viral Purpose Media with a 400M+ audience network. Leads marketing, brand, and AI-driven systems. |
+| **Lance Stukaloff** | Chief Investment Officer | Leads debt and equity capital structuring (no ownership interest in the Company). The New Earth Development team has collectively raised $855M for previous real estate projects. |
 | **Angele Miller** | Hospitality — Retreats & Glamping | Co-founder of Creekside RNR Glamping. Leads Phase 1 retreat and glamping operations. |
 | **Gloria Merrick** | Tiny Homes | Tiny home specialist with 16+ builds. Leads the tiny home program. |
 | **Amanda Williams** | Wellness Programs | Wellness program lead; eXp top-1% agent in short-term and mid-term rentals. |
@@ -337,7 +341,7 @@ The company has assembled an advisory board comprising experts in regenerative a
 
 | Role | Firm | Status |
 |---|---|---|
-| **Securities Counsel** | To be named [TO CONFIRM] | Pending |
+| **Securities Counsel** | To be engaged / retained | Pending |
 | **Real Estate Counsel** | Desiree Gutierrez — Good Days Austin Realty Group | Engaged |
 | **Civil Engineering** | Fred Haas, PE — Sustainable Land Strategies | Engaged |
 | **Architecture** | Inphinity Design | Identified |
@@ -358,7 +362,7 @@ The full Abundancia development program encompasses approximately 501 structures
 | **Single-Family Homes** | 100 | From ~$450/SF (entry); ~$566/SF blended realized | — | 1,000-5,000 SF (1BR-7BR: 10×1BR, 20×2BR, 20×3BR, 20×4BR, 20×5BR, 5×6BR, 5×7BR) | Hempcrete construction, solar-ready, regenerative landscaping, community-integrated design |
 | **Condominiums (for sale)** | 200 | ~$400/SF blended | — | 600-1,250 SF | Hempcrete construction, shared amenities, walkable village design (275 condos total incl. 75 rental condos) |
 | **Tiny Homes & Domes (for sale)** | 60 | ~$416/SF (~$104K-$166K) | $8,856,322 (all 60 sold in Phase 1, Year 2) | 232-416 SF (16 studio, 18×1BR, 20×2BR, 6 early-discount) | Minimalist living, non-toxic materials, shared amenity access, ideal for remote workers and minimalists |
-| **Estate Lots** | Estate lots | ~$229K average | $22,872,273 (2028-2029; Phase 1 sells 80 residential lots for $10,817,449) | ~1/3-1 acre | Improved estate lots with utilities, roads, and design guidelines |
+| **Estate Lots** | 100 (full project) | ~$229K average | $22,872,273 (2028-2029; Phase 1 sells 80 residential lots for $10,817,449) | ~1/3-1 acre | Improved estate lots with utilities, roads, and design guidelines |
 | **Rental Portfolio** | 126 | N/A (rental — see rental income) | N/A (see rental income) | Varies | 1×6BR event house (6,000 SF), 75 rental condos (25×1BR/25×2BR/25×3BR), 50 nature stays (glamping tents, domes, camping) |
 | **Total** | **~501 structures** | — | **$272,025,207 for-sale** (residences $249,152,934 + lots $22,872,273) | — | *Note: Totals above reflect for-sale revenue only; rental & hospitality and commercial revenue shown separately* |
 

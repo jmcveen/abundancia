@@ -337,7 +337,8 @@ The Manager may appoint officers of the Company, including a Chief Executive Off
 | Officer | Title |
 |---|---|
 | Kelly Krezek | Chief Executive Officer |
-| [TO CONFIRM] | Other officers, if any, to be designated by the Manager |
+| Joe McVeen | Chief Marketing Officer |
+| Lance Stukaloff | Chief Investment Officer |
 
 ### Section 6.6 — Standard of Care
 
@@ -355,11 +356,12 @@ The Manager and its affiliates shall receive the following compensation in conne
 |---|---|---|---|
 | **Developer Fee** | 4% ($534,161) | Paid from operating cash flow (first year cash flow allows) | Phase 1 total capitalization ($13,354,032) |
 | **Carried Interest / Promote** | Per Article VIII waterfall | As distributions are made | Tiered promote on profits above the 10% cumulative preferred return and return of capital |
-| **Management Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
-| **Acquisition Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
-| **Construction Management Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
-| **Disposition Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
-| **Refinancing Fee** | [TO CONFIRM — not reflected in current financial model] | [TO CONFIRM] | Subject to final documentation |
+| **Management Fee** | None (not charged) | N/A | Not charged — preserves projected LP economics |
+| **Acquisition Fee** | None (not charged) | N/A | Not charged — preserves projected LP economics |
+| **Construction Management Fee** | None (not charged) | N/A | Not charged — preserves projected LP economics |
+| **Disposition Fee** | None (not charged) | N/A | Not charged — preserves projected LP economics |
+| **Refinancing Fee** | None (not charged) | N/A | Not charged — preserves projected LP economics |
+| **Asset Management Fee** | None (not charged) | N/A | Not charged — preserves projected LP economics |
 
 **Developer Fee Detail:**
 - Developer fee: 4% of the $13,354,032 Phase 1 total capitalization = $534,161, paid from operating cash flow in the first year cash flow allows

@@ -49,7 +49,7 @@ The rule applies to all offerings conducted under both Rule 506(b) and Rule 506(
 
 ### 1.3 Applicability to This Offering
 
-The Company is conducting an offering of Class A membership interests of approximately **$5,154,032** [TO CONFIRM], relating to Phase 1 of the development program, as part of a total Phase-1 capitalization of $13,354,032 (approximately $5,154,032 Class A/LP equity, $500,000 GP co-investment, and $7,700,000 construction debt at 8.5%), under Rule 506(c) of Regulation D. *The offering structure and exemption are subject to final structuring and review by securities counsel.* The offering is limited exclusively to accredited investors as defined in Rule 501(a) of Regulation D, with general solicitation permitted under 506(c) subject to reasonable steps to verify accredited investor status.
+The Company is conducting an offering of Class A membership interests of approximately **$5,154,032** (approximately 103 Units at $50,000 per Unit), relating to Phase 1 of the development program, as part of a total Phase-1 capitalization of $13,354,032 (approximately $5,154,032 Class A/LP equity, $500,000 GP co-investment, and $7,700,000 construction debt at 8.5%), under Rule 506(c) of Regulation D. *The offering structure and exemption are subject to final structuring and review by securities counsel.* The offering is limited exclusively to accredited investors as defined in Rule 501(a) of Regulation D, with general solicitation permitted under 506(c) subject to reasonable steps to verify accredited investor status.
 
 As a condition to reliance on Rule 506(c), the Company has conducted a thorough investigation to determine whether any covered person associated with this offering is subject to any disqualifying event described in Rule 506(d)(1).
 
@@ -87,10 +87,10 @@ Under Rule 506(d), "covered persons" include the following categories of persons
 
 **(b) Directors and Executive Officers**
 - Any director, executive officer, or other officer participating in the offering of the issuer
-- For purposes of this offering, this includes the Chief Executive Officer of the Manager (Kelly Krezek) and any other officers of the Company or its Manager participating in the offering [full officer list TO CONFIRM]
+- For purposes of this offering, this includes Kelly Krezek (Chief Executive Officer) and Joe McVeen (Chief Marketing Officer) of the Company / its Manager participating in the offering
 
 **(c) General Partners and Managing Members**
-- The Manager of the Company — New Earth Development leadership entity (New Earth Development LLC) — in its capacity as Manager and holder of the Class B (GP/Manager) Units
+- The Manager of the Company — New Earth Development LLC, a Texas limited liability company — in its capacity as Manager and holder of the Class B (GP/Manager) Units
 - Any general partner or managing member of any general partner or managing member of the issuer
 
 **(d) Twenty Percent Beneficial Owners**
@@ -190,15 +190,15 @@ The following table identifies each covered person associated with this offering
 
 | Covered Person | Role | Relationship to Offering | Disqualification Categories Reviewed | Certification Status |
 |---|---|---|---|---|
-| Abundancia Community LLC | Issuer | Issuer of the Interests | (i) through (viii) | **[TO CONFIRM — re-verification in process]** |
-| Manager — New Earth Development leadership entity (New Earth Development LLC) | GP / Manager (Class B) | Manager of the Company | (i) through (viii) | **[TO CONFIRM — re-verification in process]** |
+| Abundancia Community LLC (Delaware; DE File No. 6553843; EIN 87-4732687) | Issuer | Issuer of the Interests | (i) through (viii) | **Verification pending — to be performed prior to closing** |
+| New Earth Development LLC (Texas; TX File No. 0805933058; EIN 81-3237744) | GP / Manager (Class B) | Manager of the Company | (i) through (viii) | **Verification pending — to be performed prior to closing** |
 
 ### 4.2 Individual Covered Persons
 
 | Covered Person | Title | Relationship to Offering | Disqualification Categories Reviewed | Certification Status |
 |---|---|---|---|---|
-| Kelly Krezek | Chief Executive Officer, New Earth Development (Manager) | Executive Officer, Promoter | (i) through (viii) | **[TO CONFIRM — verification to be completed]** |
-| [Additional officers participating in the offering — TO CONFIRM] | [Title] | [Relationship] | (i) through (viii) | **[TO CONFIRM]** |
+| Kelly Krezek | Chief Executive Officer | Executive Officer, Promoter | (i) through (viii) | **Verification pending — to be performed prior to closing** |
+| Joe McVeen | Chief Marketing Officer | Executive Officer, Promoter | (i) through (viii) | **Verification pending — to be performed prior to closing** |
 
 *Note (July 2026 review): a prior version of this memorandum listed individuals unaffiliated with the Company's current structure. The covered-person roster above reflects the corrected structure; disqualification verification must be performed (or re-performed) for each listed person before any closing.*
 
@@ -212,13 +212,14 @@ The following table identifies each covered person associated with this offering
 
 | Covered Person | Ownership Percentage | Relationship to Offering | Disqualification Categories Reviewed | Certification Status |
 |---|---|---|---|---|
-| [20%+ beneficial owners — TO CONFIRM from capitalization records] | [TO CONFIRM] | Beneficial Owner | (i) through (viii) | **[TO CONFIRM]** |
+| Joe McVeen | 50% | Beneficial Owner | (i) through (viii) | **Verification pending — to be performed prior to closing** |
+| Kelly Krezek | 50% | Beneficial Owner | (i) through (viii) | **Verification pending — to be performed prior to closing** |
 
 ### 4.5 Certification Summary
 
-**Total Covered Persons Identified:** [TO CONFIRM — pending confirmation of officer roster and 20%+ beneficial owners]
-**Total Disqualifying Events Found:** None identified to date; verification for the corrected covered-person roster is pending
-**Overall Certification Status:** **PENDING RE-VERIFICATION — prior searches (February-March 2026) were conducted for a superseded covered-person list and must be re-performed for the current covered persons before any sale of Interests**
+**Total Covered Persons Identified:** Four (4) — Abundancia Community LLC (Issuer); New Earth Development LLC (GP / Manager); Kelly Krezek (Chief Executive Officer; 50% beneficial owner); and Joe McVeen (Chief Marketing Officer; 50% beneficial owner). No placement agent or compensated solicitor has been engaged.
+**Total Disqualifying Events Found:** None identified to date; formal verification for the covered-person roster remains to be performed
+**Overall Certification Status:** **PENDING VERIFICATION — the disqualification searches described in Section 5 must be performed for the covered persons identified above and this memorandum updated with the results before any sale of Interests. This is a closing condition (see Section 7).**
 
 ---
 

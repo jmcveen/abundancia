@@ -337,7 +337,7 @@ Each hempcrete wall sequesters carbon through two mechanisms:
 1. **Biogenic carbon**: Hemp absorbs CO2 during growth
 2. **Carbonation**: Lime binder continues to absorb CO2 as it cures and mineralizes over decades
 
-Quantified sequestration per home and across the community is being finalized with third-party verification — per-home and community-wide tonnage figures [TO CONFIRM]. Any carbon credit revenue would be incremental to the financial model and is not included in the published return projections.
+Quantified sequestration per home and across the community is being finalized with third-party verification. On a preliminary basis (~20–40 tons CO₂ per residence across the ~486-residence full-project program of ~360 for-sale plus ~126 rental homes), full build-out is estimated to sequester on the order of ~10,000–19,000 tons CO₂ (estimate, pending final material specification). Any carbon credit revenue would be incremental to the financial model and is not included in the published return projections.
 
 ### 5.4 Fire Performance: Critical for Bastrop County
 
@@ -712,11 +712,11 @@ Abundancia's four-stream revenue model creates portfolio-level resilience that s
 
 | Name | Role | Key Qualification |
 |---|---|---|
-| **Kelly Krezek** | CEO, New Earth Development (Manager) | 12 years in regenerative development; 10 regenerative projects; consults for firms with $100B+ AUM; leads vision and capital formation |
+| **Kelly Krezek** | Chief Executive Officer | 12 years in regenerative development; 10 regenerative projects; consults for firms with $100B+ AUM; leads vision and capital formation |
+| **Joe McVeen** | Chief Marketing Officer | Viral Purpose Media — 400M+ audience network; leads marketing, brand, and AI-driven systems |
 | **Jared Gossett** | Lead Builder | Austin's #1 luxury builder by volume; 170+ homes; 2× Builder of the Year; founder of Legacy Living™ |
 | **Fred Haas, PE** | Civil Engineering & Infrastructure | 40+ years civil engineering; Sustainable Land Strategies; leads infrastructure and MUD formation engineering |
-| **Lance Stukaloff** | Chief Investment Officer | Debt & equity capital structuring; team has collectively raised $855M |
-| **Joe McVeen** | Marketing & AI Systems | Viral Purpose Media — 400M+ audience network |
+| **Lance Stukaloff** | Chief Investment Officer | Debt & equity capital structuring (no ownership interest in the Company); team has collectively raised $855M |
 | **Angele Miller** | Hospitality — Retreats & Glamping | Co-founder, Creekside RNR Glamping; leads Phase 1 retreat/glamping |
 | **Gloria Merrick** | Tiny Homes | 16+ tiny home builds |
 | **Amanda Williams** | Wellness Programs | eXp top-1% agent in STR/MTR |

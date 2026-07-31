@@ -166,18 +166,22 @@ The hempcrete building market is growing at approximately 15%/yr CAGR (GMI). Reg
 
 ## 3. Land Acquisition & Closing Costs
 
-### 3.1 Acquisition Summary (Modeled Scenario — Subject to Final Terms)
+### 3.1 Acquisition Summary (Under Letter of Intent — Subject to Final Terms)
+
+The property is currently **under a letter of intent (LOI)**, with a **$65,000 earnest money deposit** placed. Definitive purchase terms are subject to a final purchase agreement.
 
 | Line Item | Detail | Amount |
 |-----------|--------|-------:|
-| Land purchase price | 376 acres at 176 Cedar Creek Circle, Cedar Creek, TX | $6,500,000 |
+| Land status | Under letter of intent; definitive terms pending final purchase agreement | LOI |
+| Earnest money deposit | Placed under LOI | $65,000 |
+| Land purchase price (modeled) | 376 acres at 176 Cedar Creek Circle, Cedar Creek, TX | $6,500,000 |
 | Down payment | 20% | $1,300,000 |
 | Closing costs | ~5% | ~$325,000 |
 | Land loan | 8% interest on financed balance | ~$541K/yr debt service |
 | Year-1 land outlay | Down payment + closing + first-year service | ~$2.17M |
 | **Total land cost (10-yr, incl. financing)** | | **$7,040,217** |
 
-*These land terms are a modeled scenario; final purchase terms are to be determined and this line is subject to final documentation.*
+*The property is under a letter of intent with a $65,000 earnest money deposit; the modeled purchase price and financing terms above are a scenario, and definitive purchase terms are subject to a final purchase agreement.*
 
 ### 3.2 Due Diligence Studies (2026 Predevelopment)
 
@@ -193,7 +197,7 @@ The hempcrete building market is growing at approximately 15%/yr CAGR (GMI). Reg
 
 ### 3.3 Land Valuation Context
 
-Bastrop County large-tract raw land in the SH 71 corridor has recently traded in the ~$22,000-32,000/acre range (2025 estimates, preliminary). The modeled acquisition at $6.5M for 376 acres (~$17,300/acre) reflects the property's scale and current condition; pricing is a scenario subject to final terms. [TO CONFIRM final contract terms]
+Bastrop County large-tract raw land in the SH 71 corridor has recently traded in the ~$22,000-32,000/acre range (2025 estimates, preliminary). The modeled acquisition at $6.5M for 376 acres (~$17,300/acre) reflects the property's scale and current condition. The property is under a letter of intent with a $65,000 earnest money deposit; pricing is a modeled scenario and definitive purchase terms are subject to a final purchase agreement.
 
 ---
 
@@ -239,7 +243,7 @@ Total site work budget: **~$7,072,088** (within total hard costs).
 | Hospitality opens | Nature stays + event house operations begin |
 | Model home | SFR model home |
 | Tiny homes | Tiny home deliveries (60-unit program: 232-416 SF) |
-| Lot sales launch | Estate lot program — lot revenue $22,872,273 (2028-2029; total lot count [TO CONFIRM]) |
+| Lot sales launch | Estate lot program — lot revenue $22,872,273 (2028-2029; 100 estate lots full project, 80 in Phase 1) |
 | SFR sales launch | Single-family sales program begins |
 
 ### 5.3 2029 — Scale-Up (hard costs [TO CONFIRM])

@@ -95,7 +95,7 @@ Each party represents that it has full legal capacity and corporate or organizat
 
 **WHEREAS**, the Company is conducting a private offering (the "Offering") of membership interest units (the "Units") in the Company pursuant to Regulation D, Rule 506(c) promulgated under the Securities Act of 1933, as amended (the "Securities Act");
 
-**WHEREAS**, the Offering contemplates the sale of Units representing Class A membership interests for a maximum aggregate offering amount of approximately Five Million One Hundred Fifty-Four Thousand Thirty-Two Dollars ($5,154,032) [TO CONFIRM — Unit count and per-Unit price to be confirmed], relating to Phase 1 of the development program, as part of a total Phase-1 capitalization of $13,354,032 (approximately $5,154,032 Class A/LP equity, $500,000 GP co-investment, and $7,700,000 construction debt), with offering terms subject to final structuring and review by securities counsel;
+**WHEREAS**, the Offering contemplates the sale of Units representing Class A membership interests for a maximum aggregate offering amount of approximately Five Million One Hundred Fifty-Four Thousand Thirty-Two Dollars ($5,154,032) (approximately 103 Units at $50,000 per Unit), relating to Phase 1 of the development program, as part of a total Phase-1 capitalization of $13,354,032 (approximately $5,154,032 Class A/LP equity, $500,000 GP co-investment, and $7,700,000 construction debt), with offering terms subject to final structuring and review by securities counsel;
 
 **WHEREAS**, the Offering is limited exclusively to verified accredited investors as defined in Rule 501(a) of Regulation D and verified in accordance with Rule 506(c);
 
@@ -120,13 +120,13 @@ The purpose of this escrow arrangement is to:
 | Manager | New Earth Development LLC |
 | Manager CEO | Kelly Krezek |
 | Securities Offered | Class A Membership Interest Units |
-| Maximum Units | Approximately 103 [TO CONFIRM] |
-| Price Per Unit | $50,000 [TO CONFIRM] |
-| Maximum Offering Amount | Approximately $5,154,032 Class A/LP equity [TO CONFIRM]; total Phase-1 capitalization $13,354,032 |
-| Minimum Investment | $50,000 (one Unit) [TO CONFIRM] |
+| Maximum Units | Approximately 103 |
+| Price Per Unit | $50,000 |
+| Maximum Offering Amount | Approximately $5,154,032 Class A/LP equity; total Phase-1 capitalization $13,354,032 |
+| Minimum Investment | $50,000 (one Unit) |
 | Regulation | Regulation D, Rule 506(c) |
 | Investor Qualification | Verified Accredited Investors Only |
-| Offering Period | [Start Date] through [End Date], unless extended |
+| Offering Period | July 2026 through December 31, 2026 (outside date June 30, 2027), unless extended |
 
 *Offering terms in this table are subject to final structuring and review by securities counsel.*
 
@@ -172,7 +172,7 @@ For purposes of this Agreement, the following terms shall have the meanings set 
 
 **"Offering Documents"** means the Private Placement Memorandum, Subscription Agreement, Operating Agreement, and all exhibits, supplements, and amendments thereto.
 
-**"Offering Period"** means the period during which the Company is authorized to accept subscriptions, commencing on [Start Date] and ending on [End Date], subject to extension as provided herein.
+**"Offering Period"** means the period during which the Company is authorized to accept subscriptions, commencing in July 2026 and ending on December 31, 2026 (outside date June 30, 2027), subject to extension as provided herein.
 
 **"Operating Agreement"** means the Amended and Restated Operating Agreement of Abundancia Community LLC.
 
@@ -184,7 +184,7 @@ For purposes of this Agreement, the following terms shall have the meanings set 
 
 **"Termination Date"** means [Date], unless extended by mutual written agreement of the Company and the Escrow Agent.
 
-**"Unit"** means one (1) Class A membership interest unit in the Company, offered at the per-Unit price specified in the final Offering Documents [TO CONFIRM].
+**"Unit"** means one (1) Class A membership interest unit in the Company, offered at $50,000 per Unit (as set forth in the Offering Documents).
 
 ---
 
@@ -198,7 +198,7 @@ Within five (5) Business Days of the Effective Date, the Escrow Agent shall esta
 |-------------|---------------|
 | Account Type | Segregated, interest-bearing demand deposit account |
 | Account Title | "Abundancia Community LLC -- Regulation D Offering Escrow Account" |
-| Tax ID | The Company's Employer Identification Number (EIN): [________] |
+| Tax ID | The Company's Employer Identification Number (EIN): 87-4732687 |
 | FDIC Insurance | Maintained at an FDIC-insured institution; aggregate balances in excess of FDIC limits to be managed in accordance with Section 4.3 |
 | Segregation | Funds shall not be commingled with the Escrow Agent's own funds or with funds held in escrow for other parties |
 
@@ -327,10 +327,10 @@ The Escrow Agent shall provide the Company with an updated Escrow Ledger on a we
 
 ### 5.7 Subscription Overages and Partial Subscriptions
 
-In the event that a deposit amount does not correspond to an exact number of Units at the per-Unit price [TO CONFIRM]:
+In the event that a deposit amount does not correspond to an exact number of Units at the $50,000 per-Unit price:
 
 1. **Overage amounts** less than one full Unit shall be held in escrow and returned to the Investor at the time of Closing or release, unless the Investor provides supplemental funds to complete an additional Unit subscription
-2. **Partial Unit subscriptions** are not permitted; all subscriptions must be in whole Units (per-Unit increments [TO CONFIRM])
+2. **Partial Unit subscriptions** are not permitted; all subscriptions must be in whole Units ($50,000 per-Unit increments)
 3. The Company shall notify the Investor of any discrepancy within five (5) Business Days and provide instructions for resolution
 
 ---
@@ -826,11 +826,15 @@ All notices, instructions, certificates, and other communications under this Agr
 **To the Company:**
 
 Abundancia Community LLC
-c/o New Earth Development LLC
 Attn: Kelly Krezek, Chief Executive Officer of the Manager
-[Address]
-[City, State ZIP]
+8 The Green, Suite D
+Dover, DE 19901
 Email: kelly@newearthdevelopment.org
+
+with a copy to the Manager:
+New Earth Development LLC
+5900 Balcones Dr, Ste 100
+Austin, TX 78731-4298
 
 **To the Escrow Agent:**
 

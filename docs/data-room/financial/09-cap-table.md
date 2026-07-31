@@ -50,11 +50,14 @@
 | **Entity Name** | Abundancia Community LLC |
 | **Entity Type** | Delaware limited liability company, manager-managed |
 | **Formation State** | Delaware |
+| **Delaware File Number** | 6553843 |
+| **EIN** | 87-4732687 |
 | **Formation Date** | January 2022 (initial Delaware filing January 31, 2022) |
-| **Manager / Sponsor** | New Earth Development (Kelly Krezek, CEO) |
+| **Manager / Sponsor** | New Earth Development LLC (Texas; Kelly Krezek, CEO) — EIN 81-3237744; Texas file number 0805933058; 5900 Balcones Dr, Ste 100, Austin, TX 78731-4298 |
+| **Beneficial Ownership** | Joe McVeen 50% / Kelly Krezek 50% |
 | **Tax Treatment** | Partnership (pass-through); no entity-level tax |
 | **Fiscal Year** | Calendar year (January 1 – December 31) |
-| **Registered Agent** | Delaware Registered Agent Service LLC |
+| **Registered Agent** | Delaware Registered Agent Service LLC (8 The Green, Suite D, Dover, DE 19901) |
 
 ### 1.2 Structure Overview
 
@@ -63,7 +66,7 @@ Abundancia Community LLC is a single manager-managed Delaware LLC with two class
 | Class | Holder | Role |
 |-------|--------|------|
 | **Class A Units** | LP investors | Investor capital; preferred economics; voting limited to major matters |
-| **Class B Units** | GP / Manager | Management authority; promote economics; GP is the Manager |
+| **Class B Units** | New Earth Development LLC (GP / Manager) | Management authority; promote economics; GP is the Manager. Beneficial ownership of the Company: Joe McVeen 50% / Kelly Krezek 50% |
 
 ### 1.3 Organizational Chart
 
@@ -75,8 +78,10 @@ Abundancia Community LLC is a single manager-managed Delaware LLC with two class
         |                                   |
   Class A Units                       Class B Units
   (LP Investors)                      (GP / Manager)
-  Preferred economics                 New Earth Development
+  Preferred economics                 New Earth Development LLC
   Limited voting                      (Kelly Krezek, CEO)
+                                      Beneficial owners:
+                                      Joe McVeen 50% / Kelly Krezek 50%
 ```
 
 ---
@@ -96,13 +101,13 @@ Abundancia Community LLC is a single manager-managed Delaware LLC with two class
 
 ### 2.2 Use of Proceeds (Phase 1)
 
-The Phase-1 capitalization funds the Phase-1 construction program — approximately $16.7M of hard costs over Years 1–2 (infrastructure, Community Center, Longevity Center & Spa, 50 nature stays, 60 tiny homes, 100 prepared residential lots, 6BR Rental/Event House — see Document 29) — together with early operating cash flow. Year-1 EBITDA of ($11,824,822) is the construction-year deployment funded by the Year-0 capitalization.
+The Phase-1 capitalization funds the Phase-1 construction program — approximately $16.7M of hard costs over Years 1–2 (infrastructure, Community Center, Longevity Center & Spa, 50 nature stays, 60 tiny homes, 80 prepared residential lots, 6BR Rental/Event House — see Document 29) — together with early operating cash flow. Year-1 EBITDA of ($11,824,822) is the construction-year deployment funded by the Year-0 capitalization.
 
 | Category | Amount | Notes |
 |----------|--------|-------|
-| Land (down payment, closing, Year-1 carry) | $2.17M | Modeled scenario: $6.5M price, 20% down, ~5% closing, 8% land loan — subject to final terms (full-project model context) |
+| Land (down payment, closing, Year-1 carry) | $2.17M | Land under letter of intent; $65,000 earnest money deposit; definitive purchase terms subject to a final purchase agreement [TO CONFIRM]. Modeled scenario: ~$6.5M price, 20% down, ~5% closing, 8% land loan — subject to final terms |
 | Year-1 construction hard costs | ~$6.65M | Infrastructure, nature stays, Community Center, Longevity Center & Spa, parks, permaculture |
-| Year-2 construction hard costs | ~$10.01M | Infrastructure backbone, 60 tiny homes, 100 prepared lots, 6BR Rental/Event House — funded with early operating cash flow |
+| Year-2 construction hard costs | ~$10.01M | Infrastructure backbone, 60 tiny homes, 80 prepared lots, 6BR Rental/Event House — funded with early operating cash flow |
 | Soft costs, operations, marketing, reserves | Balance | Detailed Phase-1 split per model [TO CONFIRM] |
 
 ---
@@ -136,7 +141,7 @@ GP economic participation increases as LP returns exceed waterfall thresholds (s
 | **Preferred Return** | 10.0% cumulative |
 | **Priority** | Senior to all GP promote distributions; return of capital LP-class first (pref + capital before promote) |
 | **Distribution Reserve** | 20% of positive cash flows withheld annually as a safety buffer; released Year 10 |
-| **Unit Price / Minimum Investment** | $50,000 per Unit; minimum $50,000 (~103 Units) — [TO CONFIRM in final legal documentation] |
+| **Unit Price / Minimum Investment** | $50,000 per Unit; minimum $50,000 (one Unit); ~103 Units maximum |
 | **Transferability** | Restricted; Manager consent required [TO CONFIRM detailed terms] |
 | **Tax Treatment** | K-1 income/loss; depreciation pass-through |
 | **Investor Eligibility** | Accredited investors — Regulation D Rule 506(c) (subject to review by securities counsel) |
@@ -167,7 +172,7 @@ Class A capital is deployed alongside the GP co-investment and the $7,700,000 Ph
 |-----------|---------------|--------|
 | **Developer Fee** | 4% of Phase-1 capitalization = $534,161 | Paid from operating cash flow (first year cash allows); does NOT reduce LP basis |
 | **Promote / Carried Interest** | Per waterfall (Section 6) | Per distribution event |
-| **Other fees (asset management, property management, disposition)** | [TO CONFIRM] | [TO CONFIRM] |
+| **Other fees (management, acquisition, construction management, asset management, property management, disposition, refinancing)** | None | The developer fee is the only sponsor fee charged |
 
 ### 5.2 GP Co-Investment
 
@@ -249,7 +254,7 @@ Published Phase-1 LP return figures:
 | Developer fee | 4% of Phase-1 capitalization = $534,161, paid from operating cash flow (first year cash allows); does not reduce LP basis |
 | Promote | 10% / 20% / 30% / 40% GP promote tiers at 12% / 15% / 18% LP IRR hurdles above the 10% LP preferred, with GP catch-up (Section 6) |
 | Modeled GP totals (10-yr) | Co-invest distributions $1,439,114 + promote $6,351,390 = $7,790,504 (promote = 37.4% of profits) |
-| Other fees | [TO CONFIRM] |
+| Other fees | None (management, acquisition, construction management, asset management, property management, disposition, and refinancing fees are not charged) |
 
 ---
 
@@ -311,7 +316,8 @@ Exit valuation analyses are presented in Document 21 (Valuation Report). The off
 | **20% Distribution Reserve** | Withheld annually from positive cash flows as a safety buffer; released Year 10 |
 | **GP Co-Investment** | $500,000 GP co-invest, pari passu with LP capital |
 | **Phase-1 Underwriting** | The offering is underwritten on Phase 1 alone; Phases 2–3 are upside and a sponsor backstop |
-| **Other protections (clawback, self-dealing, leverage caps, insurance)** | [TO CONFIRM] — to be set out in the Operating Agreement |
+| **Other protections (clawback, self-dealing, leverage caps)** | [TO CONFIRM] — to be set out in the Operating Agreement |
+| **Insurance** | All policies to be bound at closing (post-close) |
 
 ---
 

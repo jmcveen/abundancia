@@ -61,9 +61,9 @@ This Blue Sky Memorandum has been prepared for Abundancia Community LLC (the "Co
 | Manager | New Earth Development LLC |
 | Manager CEO | Kelly Krezek |
 | Securities Offered | Class A Membership Interest Units |
-| Maximum Units | [TO CONFIRM] |
-| Price Per Unit | [TO CONFIRM] |
-| Maximum Offering Amount | Approximately $5,154,032 Class A/LP equity (Phase 1) [TO CONFIRM]; total Phase-1 capitalization $13,354,032 |
+| Maximum Units | Approximately 103 |
+| Price Per Unit | $50,000 |
+| Maximum Offering Amount | Approximately $5,154,032 Class A/LP equity (Phase 1); total Phase-1 capitalization $13,354,032 |
 | Exemption | Regulation D, Rule 506(c) (subject to final structuring and securities counsel review) |
 | Investor Requirement | Verified Accredited Investors Only |
 | General Solicitation | Permitted (subject to verification requirements) |
@@ -79,7 +79,7 @@ This Blue Sky Memorandum has been prepared for Abundancia Community LLC (the "Co
 
 4. **Form D Filing.** A Form D must be filed with the SEC no later than 15 calendar days after the first sale of securities. Amendments must be filed for material changes and annually if the offering is continuing.
 
-5. **Estimated Compliance Budget.** Total first-year blue sky compliance costs are estimated at $20,950 to $24,450 for all-states filing, with annual ongoing costs of approximately $17,950 to $19,450 (based on the corrected offering amount [TO CONFIRM]).
+5. **Estimated Compliance Budget.** Total first-year blue sky compliance costs are estimated at $20,950 to $24,450 for all-states filing, with annual ongoing costs of approximately $17,950 to $19,450 (based on the approximately $5,154,032 Phase-1 offering amount).
 
 ---
 
@@ -233,9 +233,9 @@ Form D requires disclosure of the following information:
 | Item 8 | Duration of offering |
 | Item 9 | Type(s) of securities offered (membership interests / limited liability company units) |
 | Item 10 | Business combination transaction (N/A) |
-| Item 11 | Minimum investment accepted ($50,000 [TO CONFIRM]) |
+| Item 11 | Minimum investment accepted ($50,000, one Unit) |
 | Item 12 | Sales compensation (broker-dealers, finders fees, if any) |
-| Item 13 | Offering and sales amounts (approximately $5,154,032 Class A/LP equity total [TO CONFIRM]; amount sold; amount remaining) |
+| Item 13 | Offering and sales amounts (approximately $5,154,032 Class A/LP equity total; amount sold; amount remaining) |
 | Item 14 | Investors (number who have already invested, number who are accredited) |
 | Item 15 | Sales commissions and finders' fees |
 | Item 16 | Use of proceeds |
@@ -372,7 +372,7 @@ California filing fees are based on the aggregate offering amount:
 | $25,000,001 - $50,000,000 | $5,000 |
 | Over $50,000,000 | $6,500 |
 
-**Applicable Fee for the Offering:** $2,500.00 (based on an approximately $5,154,032 maximum offering amount [TO CONFIRM] — originally estimated at ~$5.1M, which falls in the same $5,000,001 - $10,000,000 bracket; fee bracket to be re-confirmed against the final offering amount at filing)
+**Applicable Fee for the Offering:** $2,500.00 (based on the approximately $5,154,032 maximum offering amount, which falls in the $5,000,001 - $10,000,000 bracket; fee bracket to be re-confirmed against the final offering amount at filing)
 
 ### 7.4 California-Specific Considerations
 
@@ -419,7 +419,7 @@ New York filing fees are based on the aggregate offering amount:
 | $5,000,001 - $25,000,000 | $2,400 |
 | Over $25,000,000 | $3,600 |
 
-**Applicable Fee for the Offering:** $2,400.00 (based on an approximately $5,154,032 maximum offering amount [TO CONFIRM]; $5,000,001 - $25,000,000 bracket, unchanged from the ~$5.1M estimate)
+**Applicable Fee for the Offering:** $2,400.00 (based on the approximately $5,154,032 maximum offering amount; $5,000,001 - $25,000,000 bracket)
 
 ### 8.4 New York-Specific Considerations
 
@@ -961,7 +961,7 @@ Based on the analysis in this memorandum, we recommend the following:
 | **Total First-Year Compliance Budget** | **$20,950 - $24,450** |
 | **Annual Ongoing Budget** | **$17,950 - $19,450** |
 
-*Fee estimates were prepared at an approximately $5.1M maximum offering amount and remain approximately correct at the updated approximately $5,154,032 offering amount (Phase 1), which falls in the same graduated fee brackets [TO CONFIRM]; graduated state fees must be re-confirmed against the final offering amount at the time of filing.*
+*Fee estimates are based on the approximately $5,154,032 offering amount (Phase 1), which falls in the applicable graduated fee brackets; graduated state fees must be re-confirmed against the final offering amount at the time of filing.*
 
 ---
 
