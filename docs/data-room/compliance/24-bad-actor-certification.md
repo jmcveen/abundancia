@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,10 +9,10 @@
 ---
 
 **Document 24** | Data Room - Compliance
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
@@ -39,7 +39,7 @@
 
 ### 1.1 Overview
 
-This Bad Actor Certification and Disqualification Verification memorandum has been prepared in connection with the offering of membership interests ("Interests") in Abundancia Austin Holdings, LLC, a Texas Series Limited Liability Company (the "Company"), pursuant to Rule 506(c) of Regulation D under the Securities Act of 1933, as amended (the "Securities Act").
+This Bad Actor Certification and Disqualification Verification memorandum has been prepared in connection with the offering of membership interests ("Interests") in Abundancia Community LLC, a Delaware limited liability company, manager-managed (the "Company"), pursuant to Rule 506(c) of Regulation D under the Securities Act of 1933, as amended (the "Securities Act").
 
 ### 1.2 Rule 506(d) Requirements
 
@@ -49,7 +49,7 @@ The rule applies to all offerings conducted under both Rule 506(b) and Rule 506(
 
 ### 1.3 Applicability to This Offering
 
-The Company is conducting a capital raise of up to **$12,500,000** in membership interests under Rule 506(c) of Regulation D. The offering is limited exclusively to accredited investors as defined in Rule 501(a) of Regulation D, with general solicitation permitted under 506(c) subject to reasonable steps to verify accredited investor status.
+The Company is conducting an offering of Class A membership interests of approximately **$5,154,032** (approximately 103 Units at $50,000 per Unit), relating to Phase 1 of the development program, as part of a total Phase-1 capitalization of $13,354,032 (approximately $5,154,032 Class A/LP equity, $500,000 GP co-investment, and $7,700,000 construction debt at 8.5%), under Rule 506(c) of Regulation D. *The offering structure and exemption are subject to final structuring and review by securities counsel.* The offering is limited exclusively to accredited investors as defined in Rule 501(a) of Regulation D, with general solicitation permitted under 506(c) subject to reasonable steps to verify accredited investor status.
 
 As a condition to reliance on Rule 506(c), the Company has conducted a thorough investigation to determine whether any covered person associated with this offering is subject to any disqualifying event described in Rule 506(d)(1).
 
@@ -81,16 +81,16 @@ Under Rule 506(d), "covered persons" include the following categories of persons
 ### 2.2 Categories of Covered Persons
 
 **(a) The Issuer**
-- Abundancia Austin Holdings, LLC (the "Company")
+- Abundancia Community LLC (the "Company")
 - Any predecessor of the Company
 - Any affiliated issuer
 
 **(b) Directors and Executive Officers**
 - Any director, executive officer, or other officer participating in the offering of the issuer
-- For purposes of this offering, this includes the Chief Executive Officer, Chief Operating Officer, and Technical Lead of the Company and its General Partner
+- For purposes of this offering, this includes Kelly Krezek (Chief Executive Officer) and Joe McVeen (Chief Marketing Officer) of the Company / its Manager participating in the offering
 
 **(c) General Partners and Managing Members**
-- Abundancia Austin GP, LLC, in its capacity as the General Partner and Manager of the Company
+- The Manager of the Company — New Earth Development LLC, a Texas limited liability company — in its capacity as Manager and holder of the Class B (GP/Manager) Units
 - Any general partner or managing member of any general partner or managing member of the issuer
 
 **(d) Twenty Percent Beneficial Owners**
@@ -190,16 +190,17 @@ The following table identifies each covered person associated with this offering
 
 | Covered Person | Role | Relationship to Offering | Disqualification Categories Reviewed | Certification Status |
 |---|---|---|---|---|
-| Abundancia Austin Holdings, LLC | Issuer | Issuer of the Interests | (i) through (viii) | **CLEAR** |
-| Abundancia Austin GP, LLC | General Partner / Manager | General Partner managing the Company | (i) through (viii) | **CLEAR** |
+| Abundancia Community LLC (Delaware; DE File No. 6553843; EIN 87-4732687) | Issuer | Issuer of the Interests | (i) through (viii) | **Verification pending — to be performed prior to closing** |
+| New Earth Development LLC (Texas; TX File No. 0805933058; EIN 81-3237744) | GP / Manager (Class B) | Manager of the Company | (i) through (viii) | **Verification pending — to be performed prior to closing** |
 
 ### 4.2 Individual Covered Persons
 
 | Covered Person | Title | Relationship to Offering | Disqualification Categories Reviewed | Certification Status |
 |---|---|---|---|---|
-| Nicholas Courchesne | Chief Executive Officer | Executive Officer, Director, Promoter | (i) through (viii) | **CLEAR** |
-| Jason Sparks | Chief Operating Officer | Executive Officer, Director, Promoter | (i) through (viii) | **CLEAR** |
-| Dan Lawless | Technical Lead | Officer Participating in Offering | (i) through (viii) | **CLEAR** |
+| Kelly Krezek | Chief Executive Officer | Executive Officer, Promoter | (i) through (viii) | **Verification pending — to be performed prior to closing** |
+| Joe McVeen | Chief Marketing Officer | Executive Officer, Promoter | (i) through (viii) | **Verification pending — to be performed prior to closing** |
+
+*Note (July 2026 review): a prior version of this memorandum listed individuals unaffiliated with the Company's current structure. The covered-person roster above reflects the corrected structure; disqualification verification must be performed (or re-performed) for each listed person before any closing.*
 
 ### 4.3 Compensated Solicitors / Placement Agents
 
@@ -211,14 +212,14 @@ The following table identifies each covered person associated with this offering
 
 | Covered Person | Ownership Percentage | Relationship to Offering | Disqualification Categories Reviewed | Certification Status |
 |---|---|---|---|---|
-| Nicholas Courchesne | >20% (via GP) | Beneficial Owner, CEO | (i) through (viii) | **CLEAR** |
-| Jason Sparks | >20% (via GP) | Beneficial Owner, COO | (i) through (viii) | **CLEAR** |
+| Joe McVeen | 50% | Beneficial Owner | (i) through (viii) | **Verification pending — to be performed prior to closing** |
+| Kelly Krezek | 50% | Beneficial Owner | (i) through (viii) | **Verification pending — to be performed prior to closing** |
 
 ### 4.5 Certification Summary
 
-**Total Covered Persons Identified:** 5 (2 entities, 3 individuals)
-**Total Disqualifying Events Found:** 0
-**Overall Certification Status:** **ALL CLEAR — No Disqualifying Events Identified**
+**Total Covered Persons Identified:** Four (4) — Abundancia Community LLC (Issuer); New Earth Development LLC (GP / Manager); Kelly Krezek (Chief Executive Officer; 50% beneficial owner); and Joe McVeen (Chief Marketing Officer; 50% beneficial owner). No placement agent or compensated solicitor has been engaged.
+**Total Disqualifying Events Found:** None identified to date; formal verification for the covered-person roster remains to be performed
+**Overall Certification Status:** **PENDING VERIFICATION — the disqualification searches described in Section 5 must be performed for the covered persons identified above and this memorandum updated with the results before any sale of Interests. This is a closing condition (see Section 7).**
 
 ---
 
@@ -272,7 +273,7 @@ The Company has implemented a comprehensive verification protocol to confirm the
 
 ### 5.7 Verification Date
 
-All searches described in Sections 5.2 through 5.6 were conducted during **February-March 2026** and are current as of the date of this memorandum.
+Searches described in Sections 5.2 through 5.6 were conducted during **February-March 2026** for a superseded covered-person list. **These searches must be re-performed for the corrected covered persons identified in Section 4 [TO CONFIRM]**, and this memorandum will be updated with the results prior to any closing.
 
 ---
 
@@ -322,7 +323,7 @@ As a condition to each closing of the sale of Interests, the Manager of the Comp
 
 The Manager's certification shall be in substantially the following form:
 
-> *The undersigned, in his/her capacity as [title] of Abundancia Austin GP, LLC, the Manager of Abundancia Austin Holdings, LLC (the "Company"), hereby certifies that as of [date], after reasonable investigation: (a) no covered person (as defined in Rule 506(d) of Regulation D) associated with the offering of membership interests in the Company is subject to any disqualifying event described in Rule 506(d)(1)(i) through (viii); and (b) the Company has complied with the verification procedures described in the Company's Bad Actor Certification and Disqualification Verification memorandum dated March 2026.*
+> *The undersigned, in his/her capacity as [title] of the Manager of Abundancia Community LLC (the "Company"), hereby certifies that as of [date], after reasonable investigation: (a) no covered person (as defined in Rule 506(d) of Regulation D) associated with the offering of membership interests in the Company is subject to any disqualifying event described in Rule 506(d)(1)(i) through (viii); and (b) the Company has complied with the verification procedures described in the Company's Bad Actor Certification and Disqualification Verification memorandum dated July 2026.*
 
 ### 7.3 Remediation
 
@@ -339,16 +340,18 @@ In the event that a disqualifying event is discovered with respect to any covere
 
 ### 8.1 Company Certification
 
-Abundancia Austin Holdings, LLC and Abundancia Austin GP, LLC each represent and certify that:
+Abundancia Community LLC and its Manager will each represent and certify, upon completion of the re-verification described in Section 5.7, that:
 
 - A factual inquiry has been conducted into whether any disqualifying event specified in Rule 506(d)(1) applies to any covered person associated with this offering
 - The Company has exercised reasonable care in conducting such inquiry
-- As of the date hereof, no disqualifying event has been identified with respect to any covered person
+- No disqualifying event has been identified with respect to any covered person
 - The Company is not aware of any pending proceeding, investigation, or event that could reasonably be expected to result in a disqualifying event
+
+*[TO CONFIRM — certifications to be executed following re-verification for the corrected covered-person roster.]*
 
 ### 8.2 Individual Certifications
 
-Each individual covered person identified in Section 4 has provided a written certification confirming that he or she:
+Each individual covered person identified in Section 4 will provide (or re-execute) a written certification [TO CONFIRM] confirming that he or she:
 
 - Is not subject to any disqualifying event described in Rule 506(d)(1)(i) through (viii)
 - Has not been the subject of any order, judgment, decree, conviction, suspension, expulsion, bar, or other action that would constitute a disqualifying event
@@ -357,13 +360,13 @@ Each individual covered person identified in Section 4 has provided a written ce
 
 ### 8.3 Legal Counsel Review
 
-This memorandum and the underlying verification procedures have been reviewed by legal counsel to the Company to confirm compliance with Rule 506(d) of Regulation D.
+This memorandum and the underlying verification procedures are to be reviewed by securities counsel to the Company to confirm compliance with Rule 506(d) of Regulation D [TO CONFIRM — counsel review to be re-confirmed for the updated covered-person roster].
 
 ---
 
 ## Confidentiality Notice
 
-This document is confidential and proprietary to Abundancia Austin Holdings, LLC. It is provided solely for the purpose of evaluating a potential investment in membership interests of the Company.
+This document is confidential and proprietary to Abundancia Community LLC. It is provided solely for the purpose of evaluating a potential investment in membership interests of the Company.
 
 This document may not be reproduced, distributed, or disclosed to any person other than the intended recipient and their professional advisors (legal, tax, and financial) who have agreed to maintain confidentiality. Any unauthorized reproduction or distribution of this document, in whole or in part, is strictly prohibited.
 
@@ -377,6 +380,6 @@ By accepting this document, the recipient agrees to be bound by the confidential
 
 ---
 
-*Abundancia Austin Holdings, LLC*
+*Abundancia Community LLC*
 *Cedar Creek, Texas*
-*nicholas@lightbrands.ai*
+*kelly@newearthdevelopment.org*

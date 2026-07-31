@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,10 +9,10 @@
 ---
 
 **Document 19** | Data Room - Regenerative Systems
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
@@ -45,13 +45,15 @@
 
 ## 1. Executive Summary
 
-Abundancia Austin is designed for complete energy independence — the ability to generate, store, and manage 100% of the community's electrical needs without reliance on the Texas grid. This is not merely an environmental aspiration; it is a safety-critical infrastructure decision informed by the catastrophic failure of the ERCOT grid during Winter Storm Uri in February 2021, when 4.5 million Texans lost power for days in sub-freezing temperatures, resulting in an estimated 246 deaths and $295 billion in damages.
+Abundancia is designed for complete energy independence — the ability to generate, store, and manage 100% of the community's electrical needs without reliance on the Texas grid. This is not merely an environmental aspiration; it is a safety-critical infrastructure decision informed by the catastrophic failure of the ERCOT grid during Winter Storm Uri in February 2021, when 4.5 million Texans lost power for days in sub-freezing temperatures, resulting in an estimated 246 deaths and $295 billion in damages.
 
 The energy system combines community-scale solar arrays (estimated 2-3 MW total capacity), distributed battery storage (Tesla Powerwall at each home plus community-scale Tesla Megapack or equivalent), and an intelligent microgrid that can operate in island mode indefinitely. The system maintains grid connection for economic benefit (net metering, demand response revenue) while never depending on it.
 
 Each home will have a dedicated solar array (8-12 kW) and battery storage (13.5-40 kWh), integrated into a community microgrid managed by an AI-optimized energy management system. The community's collective solar and storage capacity is designed to provide 3-5 days of autonomy under worst-case conditions (extended cloud cover + high demand) and indefinite autonomy under normal conditions.
 
-At full buildout, the energy system is projected to generate $400,000-$800,000 annually in avoided electricity costs and net metering revenue, with a system-level payback period of 7-10 years before incentives and 4-6 years after federal and state incentives.
+At full buildout, the energy system is projected to generate $400,000-$800,000 annually in avoided electricity costs and net metering revenue, with a system-level payback period of 7-10 years before incentives and 4-6 years after federal and state incentives. Solar and battery systems are capitalized within the project financial model.
+
+*Note: System sizing throughout this document reflects a 200-home planning scenario. Final generation, storage, and distribution sizing will be engineered for the full program (~501 structures + estate lots) [TO CONFIRM — engineering review]. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with energy-system build-out scaling across later phases.*
 
 ---
 
@@ -68,6 +70,8 @@ At full buildout, the energy system is projected to generate $400,000-$800,000 a
 | Resilient to extreme weather | Operational in -10 to 115 degrees F | Uri + extreme heat performance |
 | Scalable architecture | Modular expansion with community growth | Phase-aligned deployment |
 | Smart load management | AI-optimized demand/supply balancing | Maximum efficiency; minimum waste |
+| Passive design first | Hempcrete envelope, thermal mass, orientation, and shading reduce loads before generation | Conservation before capacity |
+| Geothermal-ready | Site infrastructure and mechanical rough-ins accommodate future geothermal systems | Efficiency upside; future-proofing |
 
 ### 2.2 Living Building Challenge Energy Petal Requirements
 
@@ -76,7 +80,7 @@ At full buildout, the energy system is projected to generate $400,000-$800,000 a
 | 105% net-positive energy (annual) | System sized for 110-120% of projected demand |
 | On-site renewable generation | Community + per-home solar arrays |
 | No combustion on site | All-electric homes; no gas, propane, or wood burning for energy |
-| Energy conservation first | Hempcrete envelope (R-30+) reduces demand 40-60% vs conventional |
+| Energy conservation first | Hempcrete envelope (R-30+) reduces HVAC/energy demand an estimated 50-70% vs code baseline |
 
 ---
 
@@ -417,7 +421,7 @@ During a total power loss event (worst case — simultaneous grid failure and co
 
 | Component | Specification | Notes |
 |-----------|---------------|-------|
-| Charger type | Level 2 (240V, 48A) | One per home, integrated with home energy gateway |
+| Charger type | Level 2 (240V, 48A) | Integrated with home energy gateway; community-wide provisioning ratio ~1 charger per 3 structures |
 | Charging speed | 11.5 kW (48 miles range per hour) | Full charge overnight |
 | Smart charging | Solar-prioritized charging | Charges when solar surplus available; defers to off-peak |
 | V2H capability | Vehicle-to-home discharge | EV battery provides backup power during outages |
@@ -431,6 +435,7 @@ During a total power loss event (worst case — simultaneous grid failure and co
 | DC fast charging | 1-2 stations, 50-150 kW | Quick charging for visitors, delivery vehicles |
 | Solar carport | 50-100 kW solar array | Covers community charging stations; dual-purpose |
 | Smart scheduling | Queue management + solar-prioritized | Minimizes grid draw; maximizes solar consumption |
+| Provisioning ratio | ~1 charger per 3 structures community-wide | Per project plan; scales with buildout |
 | **Total EV charging capacity** | **165-480 kW** | **Supports 100%+ EV adoption** |
 
 ---
@@ -635,4 +640,4 @@ Note: Technology cost reductions are expected to significantly reduce replacemen
 
 ---
 
-*This document is the intellectual property of Abundancia Austin Holdings, LLC. Reproduction or distribution without written consent is prohibited.*
+*This document is the intellectual property of Abundancia Community LLC. Reproduction or distribution without written consent is prohibited.*

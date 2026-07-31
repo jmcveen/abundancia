@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,10 +9,10 @@
 ---
 
 **Document 18** | Data Room - Regenerative Systems
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
@@ -46,11 +46,13 @@
 
 ## 1. Executive Summary
 
-Abundancia Austin's food systems are designed to achieve 80-100% food self-sufficiency for a community of 150-200 households. This is not a community garden with raised beds; it is a comprehensive, professionally designed permaculture system integrating multi-layer food forests, intensive annual production zones, animal systems, food processing infrastructure, and a community-owned seed library.
+Abundancia's food systems are designed to achieve 80-100% food self-sufficiency (in fruits, vegetables, herbs, eggs, and honey) for the community at build-out. This is not a community garden with raised beds; it is a comprehensive, professionally designed permaculture system integrating multi-layer food forests, intensive annual production zones, animal systems, food processing infrastructure, and a community-owned seed library. The program calls for 330,000 SF of gardens; 8,250 trees (approximately half fruit- and nut-bearing); 8,250 additional supporting plants; and ponds and natural pools totaling approximately 198,516 SF — anchored by the Permaculture Mandala Garden, planted in Phase 1 Year 1.
 
-Central Texas's USDA Zone 8b designation provides a 250+ day growing season with the capacity for year-round food production. The site's 7 retention ponds, 2 existing wells, and integrated rainwater harvesting systems provide water security independent of municipal supply. Approximately 30-40 acres of the property's total acreage will be dedicated to food production, with the remaining 70-75% preserved as conservation land, native habitat, and managed wildlands.
+Central Texas's USDA Zone 8b designation provides a 250+ day growing season with the capacity for year-round food production. The site's 7 existing water-retention ponds (with more to be created), planned well and storage program (6 wells, 13 storage tanks with filtration), and per-building rainwater harvesting provide layered water security alongside Aqua Water Supply Corporation utility service. Per the authoritative land-use plan, 42 acres are dedicated to regenerative agriculture and 8.5 acres to permaculture gardens and barns, with 184.5 acres (49% of the 376-acre site) preserved as conservation land, native habitat, and managed wildlands — structures occupy only ~4.3% of the land.
 
 At maturity (years 5-7), the food system is projected to produce 200,000-400,000 lbs of food annually — fruit, nuts, vegetables, herbs, eggs, and honey — valued at $600,000-$1,200,000 at retail prices. This translates to household grocery savings of $3,000-$6,000 per year and potential surplus revenue of $50,000-$150,000 annually for the community association.
+
+Permaculture design is guided by advisor Angie Gonzales (permaculture), with ecological and watershed systems analysis by Symbiosis TX (Adam Russell); a full watershed analysis by Symbiosis TX will be commissioned immediately upon entering due diligence.
 
 ---
 
@@ -122,7 +124,7 @@ The food system directly supports four of the seven Petals of the Living Buildin
 
 ## 4. Zone Planning
 
-Permaculture zone planning arranges elements by frequency of human interaction. Abundancia adapts the traditional farm-scale zone model for a community context:
+Permaculture zone planning arranges elements by frequency of human interaction. Abundancia adapts the traditional farm-scale zone model for a community context. Zone acreages below are working design allocations and will be reconciled to the land-use plan (42 acres regenerative agriculture + 8.5 acres permaculture gardens & barns + 184.5 acres preserved):
 
 ### 4.1 Zone Map
 
@@ -133,7 +135,7 @@ Permaculture zone planning arranges elements by frequency of human interaction. 
 | Zone 2 | Community core | Orchard food forests, intensive gardens, greenhouses, poultry | 8-12 acres | 2-3x weekly |
 | Zone 3 | Community middle ring | Nut orchards, food forests, bee yards, managed grazing | 12-18 acres | Weekly |
 | Zone 4 | Outer ring | Managed woodland, wild food foraging, native fruit, wildlife habitat | 10-15 acres | Monthly |
-| Zone 5 | Conservation land | Undisturbed native habitat, Houston toad corridors, observation only | 70-100+ acres | Minimal (monitoring) |
+| Zone 5 | Conservation land | Undisturbed native habitat, Houston toad corridors, observation only | 184.5 acres (preserved land per land-use plan) | Minimal (monitoring) |
 
 ### 4.2 Zone Details
 
@@ -362,9 +364,11 @@ A guild is a group of plants that work together synergistically. Abundancia's fo
 
 ### 8.2 Self-Sufficiency Analysis
 
+*Note: Population and plot counts in this section reflect an initial 150-200-household planning scenario. The current program (360 for-sale residences plus rentals at build-out) is larger; yield and self-sufficiency figures will be rescaled in the next design iteration [TO CONFIRM]. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with the food system build-out scaling across later phases.*
+
 | Metric | Value |
 |--------|-------|
-| Community population (est.) | 400-600 people (150-200 households) |
+| Community population (est.) | 400-600 people (150-200 households — initial planning scenario) |
 | Daily caloric need (community) | 800,000-1,200,000 kcal |
 | Annual caloric need (community) | 292-438 million kcal |
 | Projected annual production | 46-92 million kcal |
@@ -562,7 +566,7 @@ The Abundancia Seed Library is a community-owned, open-access collection of loca
 | Water/energy costs | $3,000-$6,000 |
 | **Total annual operating** | **$108,000-$166,000** |
 | **Annual Value Generated** | |
-| Household food savings (200 homes x $3,000 avg) | $600,000 |
+| Household food savings (200 homes x $3,000 avg — modeling assumption) | $600,000 |
 | Surplus revenue | $65,000-$175,000 |
 | **Total annual value** | **$665,000-$775,000** |
 | **Net annual value (after operating)** | **$499,000-$667,000** |
@@ -670,7 +674,7 @@ The food forest zones are designed on contour with swale-and-berm earthworks tha
 | Phase | Timeline | Activities | Investment |
 |-------|----------|------------|------------|
 | Phase 0 (Pre-development) | Months 1-6 | Site analysis, soil testing, design finalization, permitting | $30,000-$50,000 |
-| Phase 1 (Foundation) | Months 6-12 | Swale construction, sheet mulching, cover cropping, tree planting (food forests), well/pond irrigation infrastructure | $150,000-$250,000 |
+| Phase 1 (Foundation) | Months 6-12 | Mandala garden installation (planted in Phase 1, Year 1 — the Phase 1 anchor), swale construction, sheet mulching, cover cropping, tree planting (food forests), well/pond irrigation infrastructure | $150,000-$250,000 |
 | Phase 2 (Infrastructure) | Months 12-18 | Greenhouse construction, community garden beds, tool storage, processing kitchen shell | $200,000-$300,000 |
 | Phase 3 (Production launch) | Months 18-24 | First garden season, greenhouse operational, poultry introduced, composting systems active | $80,000-$120,000 |
 | Phase 4 (Expansion) | Months 24-36 | Full community garden allocation, seed library launch, education programs begin, processing kitchen fully equipped | $60,000-$100,000 |
@@ -683,7 +687,7 @@ The food forest zones are designed on contour with swale-and-berm earthworks tha
 
 | Risk | Probability | Impact | Mitigation |
 |------|-------------|--------|------------|
-| Drought (extended) | Medium-high | High | 7 retention ponds, 2 wells, drought-tolerant species emphasis, mulch reduces water need 50-70% |
+| Drought (extended) | Medium-high | High | 7 retention ponds (more to be created), 6 wells with 13 storage tanks, drought-tolerant species emphasis, mulch reduces water need 50-70% |
 | Freeze event (hard freeze below 15 degrees F) | Low | Moderate | Cold-hardy cultivar selection; frost cloth for marginal species; greenhouse protects tender plants |
 | Pest/disease outbreak | Medium | Moderate | Polyculture diversity limits spread; integrated pest management; no monocultures |
 | Wildlife damage (deer, feral hogs) | Medium-high | Moderate | Fencing for intensive gardens; food forest design allows some wildlife integration |
@@ -710,4 +714,4 @@ The food forest zones are designed on contour with swale-and-berm earthworks tha
 
 ---
 
-*This document is the intellectual property of Abundancia Austin Holdings, LLC. Reproduction or distribution without written consent is prohibited.*
+*This document is the intellectual property of Abundancia Community LLC. Reproduction or distribution without written consent is prohibited.*

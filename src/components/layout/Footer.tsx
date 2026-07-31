@@ -32,7 +32,7 @@ const FOOTER_LINKS = [
 
 export function Footer() {
   return (
-    <footer className="bg-[#0f0f0f] text-white">
+    <footer className="bg-[#0f0f0f] text-white print:hidden">
       <div className="section-container py-20 md:py-24">
         {/* Top section */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-12 lg:gap-8">

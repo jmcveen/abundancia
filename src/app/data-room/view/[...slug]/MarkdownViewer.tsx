@@ -59,6 +59,14 @@ const components: Components = {
   em: ({ children }) => (
     <em className="text-neutral-600 italic">{children}</em>
   ),
+  img: ({ src, alt }) => (
+    <img
+      src={typeof src === 'string' ? src : ''}
+      alt={alt || ''}
+      loading="lazy"
+      className="w-full h-auto my-6 rounded-xl border border-neutral-200 shadow-sm print:shadow-none print:border-neutral-300"
+    />
+  ),
   a: ({ href, children }) => (
     <a
       href={href}

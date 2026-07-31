@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,10 +9,10 @@
 ---
 
 **Document 12** | Data Room - Property Documents
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
@@ -69,7 +69,7 @@
 | Bastrop County burn regulations | County / fire marshal | Open burning, firewise standards | Low |
 | MUD formation | TCEQ | Municipal Utility District | Moderate |
 
-**Note:** Bastrop County has no county-level zoning code. Land use is regulated primarily through subdivision standards and state/federal environmental law. This significantly streamlines the entitlement process compared to municipalities within Austin's ETJ.
+**Note:** Bastrop County has no county-level zoning code (mixed use by right). Land use is regulated primarily through subdivision standards and state/federal environmental law, with FEMA floodplain administration via the county. This significantly streamlines the entitlement process compared to municipalities within Austin's ETJ; overall permitting is estimated at 12-16 months.
 
 ---
 
@@ -157,6 +157,8 @@ The LPHCP classifies land into tiers based on Houston toad habitat quality:
 
 ### 3.3 Property Tier Classification (Estimated)
 
+*Preliminary estimates pending protocol-level habitat assessment. [TO CONFIRM]*
+
 | Tier | Estimated Acreage | Percentage | Planned Use |
 |------|-------------------|------------|-------------|
 | Tier 1 | 45 | 12.0% | Full conservation — no development |
@@ -171,15 +173,15 @@ The LPHCP classifies land into tiers based on Houston toad habitat quality:
 
 ### 4.1 Conservation-First Design
 
-Abundancia's 70-75% conservation commitment significantly exceeds LPHCP minimum requirements. This surplus conservation creates a strong compliance position and potential for mitigation banking.
+Abundancia pursues LPHCP compliance via a **conservation subdivision pathway**: 184.5 acres (49.1%) of the 376-acre property is permanently preserved, and approximately 235 acres (62.5%) is held in preservation, regenerative agriculture, and permaculture combined, with structures occupying only ~16.1 acres (4.28% of the site). This conservation-forward design creates a strong compliance position.
 
-| LPHCP Requirement | Minimum Required | Abundancia Commitment | Surplus |
+| LPHCP Requirement | Minimum Required | Abundancia Commitment | Notes |
 |-------------------|-----------------|----------------------|---------|
-| Tier 1 conservation | 100% | 100% | 0% (full compliance) |
-| Tier 2 conservation ratio | 2:1 | ~3:1 (effective) | +50% above minimum |
-| Tier 3 conservation ratio | 1:1 | ~2:1 (effective) | +100% above minimum |
-| Total land conserved | ~180 acres (est. minimum) | 268 acres (71.3%) | +88 acres surplus |
-| Breeding pond buffers | 300 ft radius | 500 ft radius (planned) | +67% buffer |
+| Tier 1 conservation | 100% | 100% | Full compliance |
+| Tier 2 conservation ratio | 2:1 | Preliminary — to be set in conservation subdivision design | [TO CONFIRM] |
+| Tier 3 conservation ratio | 1:1 | Preliminary — to be set in conservation subdivision design | [TO CONFIRM] |
+| Total land conserved | [TO CONFIRM — per habitat assessment] | 184.5 acres preserved (49.1%); ~235 acres (62.5%) incl. regenerative agriculture & permaculture | Conservation subdivision pathway |
+| Breeding pond buffers | Per LPHCP | Enhanced buffers (planned; preliminary) | [TO CONFIRM] |
 | Construction timing restrictions | Jan 15 - Jun 30 (breeding) | Full compliance | Standard |
 
 ### 4.2 Compliance Measures
@@ -219,7 +221,7 @@ Abundancia's 70-75% conservation commitment significantly exceeds LPHCP minimum 
 
 | Parameter | Detail |
 |-----------|--------|
-| **Total conservation acreage** | 268 acres (71.3% of property) |
+| **Total preserved acreage** | 184.5 acres (49.1% of property), plus 50.5 acres in regenerative agriculture and permaculture under working-lands management |
 | **Easement holder** | Qualified land trust (e.g., Texas Land Conservancy, Hill Country Conservancy) |
 | **Duration** | Perpetual |
 | **Monitoring** | Annual by easement holder + USFWS reporting |
@@ -227,25 +229,22 @@ Abundancia's 70-75% conservation commitment significantly exceeds LPHCP minimum 
 | **Prohibited uses** | Construction, clearing, grading, chemical application, motorized vehicles |
 | **Tax benefit** | Federal income tax deduction (IRC Section 170(h)) + property tax reduction |
 
-### 5.2 Conservation Easement Parcels
+### 5.2 Conservation & Working-Lands Parcels
 
-| Parcel | Acreage | Habitat Type | Priority | Easement Timing |
+Per the July 2026 land use plan; easement parcel boundaries within the preserved land to be finalized with the easement holder and habitat assessment. [TO CONFIRM]
+
+| Parcel Category | Acreage | Habitat / Use Type | Priority | Timing |
 |--------|---------|-------------|----------|-----------------|
-| Houston Toad Core Habitat | 85 | Sandy woodland + breeding ponds | Critical | Phase 1 (pre-development) |
-| Riparian Corridors | 28 | Creek buffers + wetlands | High | Phase 1 |
-| Wildlife Movement Corridors | 42 | North-south + east-west corridors | High | Phase 1 |
-| Post Oak Savannah | 40 | Mature savannah habitat | High | Phase 1-2 |
-| Sacred Lands | 14 | Ceremonial / contemplative | Moderate | Phase 1 |
-| Food Forest Commons | 25 | Agricultural conservation | Moderate | Phase 2 |
-| Pond System (non-breeding) | 20 | Water management | Moderate | Phase 1-2 |
-| Buffer Zones | 14 | Development edge buffers | Standard | Phase 2-3 |
-| **Total** | **268** | | | |
+| Preserved Land | 184.5 | Houston toad habitat, sandy woodland, breeding ponds, riparian (dry creek bed) corridors, post oak savannah, wildlife movement corridors | Critical / High | Phase 1 (pre-development) |
+| Regenerative Agriculture | 42 | Working lands — food forests, orchards, managed grazing | Moderate | Phase 1-2 |
+| Permaculture Gardens & Barns | 8.5 | Working lands — community gardens, agricultural barns | Moderate | Phase 1-2 |
+| **Total conservation & working lands** | **235** | (62.5% of the 376-acre property) | | |
 
 ### 5.3 Tax Benefits Analysis
 
 | Benefit | Estimated Value | Timeline |
 |---------|----------------|----------|
-| Federal income tax deduction (conservation easement donation) | $3.5M-5.0M | Year of recording |
+| Federal income tax deduction (conservation easement donation) | [TO CONFIRM — pending qualified appraisal] | Year of recording |
 | Property tax reduction (conserved acreage) | $35K-50K/year ongoing | Immediate upon recording |
 | Ag exemption retention (food forest parcels) | $15K-20K/year ongoing | Maintained |
 | Enhanced property values (premium setting) | 15-30% on adjacent lots | Ongoing |
@@ -341,6 +340,8 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 
 ## 8. Water Quality Management
 
+*Water strategy context: Abundancia uses a layered supply (Aqua Water Supply Corporation service; 7 existing ponds with more to be created; 6 wells + 13 storage tanks + filtration; rainwater capture on every building ≈ 9-11M gal/yr at build-out; 11 atmospheric water generators) with demand held below typical development through low-flow fixtures and greywater recycling. A full watershed analysis by Symbiosis TX will be commissioned immediately upon entering due diligence — hydrology and water feasibility are the first predevelopment spend.*
+
 ### 8.1 Water Quality Standards
 
 | Parameter | Standard | Source | Purpose |
@@ -357,8 +358,8 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 
 | BMP Category | Specific Measure | Location | Effectiveness |
 |-------------|-----------------|----------|---------------|
-| **Source control** | Zero chemical landscaping in conservation zones | 268 conservation acres | Eliminates runoff contamination |
-| **Source control** | Organic-only food forest management | 52 agricultural acres | Prevents pesticide loading |
+| **Source control** | Zero chemical landscaping in conservation zones | 184.5 preserved acres | Eliminates runoff contamination |
+| **Source control** | Organic-only food forest management | 50.5 agricultural acres (regenerative agriculture + permaculture) | Prevents pesticide loading |
 | **Source control** | Pet waste stations + composting | All residential zones | Reduces nutrient loading |
 | **Structural** | Bioswales along all roads | 7+ miles of road | 70-80% TSS removal |
 | **Structural** | Constructed wetlands at pond inflows | 3 major inflow points | 85-90% TSS, 60-70% nutrient removal |
@@ -368,14 +369,16 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 
 ### 8.3 Wastewater Effluent Standards
 
-| Parameter | Permit Limit (Type I) | Treatment Technology |
+Wastewater strategy: **TCEQ-permitted on-site sewage facilities (OSSF) — biodigester/bionest systems per structure** (30 TAC Ch. 285), administered with Bastrop County. Target effluent parameters below are preliminary design goals. [TO CONFIRM in OSSF engineering]
+
+| Parameter | Target (Preliminary) | Treatment Technology |
 |-----------|----------------------|---------------------|
-| BOD₅ | <5 mg/L | Membrane bioreactor (MBR) |
-| TSS | <5 mg/L | MBR + filtration |
+| BOD₅ | <5 mg/L | Biodigester/bionest OSSF per structure |
+| TSS | <5 mg/L | Biodigester/bionest OSSF + filtration |
 | Ammonia-N | <2 mg/L | Nitrification/denitrification |
-| E. coli | <20 CFU/100mL | UV disinfection |
-| Turbidity | <2 NTU | MBR + polishing |
-| Reuse standard | TCEQ Type I reclaimed water | Irrigation of food forests and landscape |
+| E. coli | <20 CFU/100mL | Disinfection |
+| Turbidity | <2 NTU | Polishing |
+| Reuse standard | TCEQ reclaimed water standards where applicable | Irrigation of food forests and landscape |
 
 ---
 
@@ -395,13 +398,13 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 
 | Component | Quantity | Function | Capacity |
 |-----------|---------|----------|----------|
-| Retention ponds (existing, enhanced) | 7 | Permanent storage, wildlife habitat, irrigation | 7.6 acre-ft |
+| Retention ponds (7 existing, enhanced; more to be created) | 7+ | Permanent storage, wildlife habitat, irrigation | 7.6 acre-ft (existing, est.) |
 | Constructed wetlands (new) | 3 | Water quality treatment, habitat | 2.8 acre-ft |
 | Bioswales | 14,000 linear ft | Conveyance + treatment | Variable |
 | Rain gardens | 60+ | First-flush capture at buildings | 0.5 acre-ft total |
 | Underground detention | 2 systems | Peak flow management (village core) | 1.5 acre-ft |
 | Permeable pavement | 85,000 SF | Infiltration, volume reduction | 0.8 acre-ft |
-| Rainwater cisterns | 400+ | Per-structure capture | 2.0+ acre-ft |
+| Rainwater capture | Every building | Per-structure capture (~9-11M gal/yr at build-out) | 2.0+ acre-ft storage (est.) |
 | **Total system capacity** | | | **15.2+ acre-ft** |
 
 ### 9.3 Low Impact Development (LID) Standards
@@ -454,7 +457,7 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 | Invasive species | Spreading (unmanaged) | Controlled (<5% target) | **Positive** |
 | Fire fuel load | Accumulating (no management) | Managed (prescribed fire, defensible space) | **Positive** |
 | Water quality | Unmonitored | Monitored, treated, improved | **Positive** |
-| Impervious cover | 0% | 8.2% (of total property) | Slight negative (mitigated) |
+| Building footprint | 0% | ~4.3% structures (~16.1 acres); ~878,000 SF total developed incl. roads | Slight negative (mitigated) |
 | Light/noise disturbance | Minimal | Moderate (mitigated) | Slight negative (mitigated) |
 | Wildlife connectivity | Intact but unmanaged | Intact + enhanced corridors | **Positive** |
 | Carbon sequestration | Passive | Enhanced (food forests, restoration) | **Positive** |
@@ -514,7 +517,7 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 | LPHCP enrollment + ITP coverage | Bastrop County / USFWS | 3-6 months | Pre-application | Before any clearing |
 | TCEQ MUD creation | TCEQ | 6-9 months | Planning | Phase 1 |
 | TCEQ public water system permit | TCEQ | 6-12 months | Planning | Phase 1 |
-| TCEQ domestic wastewater permit | TCEQ | 6-12 months | Planning | Phase 1 |
+| TCEQ OSSF permits (biodigester/bionest per structure) | TCEQ / Bastrop County | Per-structure with construction | Planning | Phase 1 onward |
 | LPGCD groundwater production permit | LPGCD | 3-6 months | Planning | Phase 1 |
 | TPDES construction stormwater permit | TCEQ | 30-60 days | Ready to submit | Before construction |
 | Bastrop County subdivision plat | Bastrop County | 3-6 months | Planning | Phase 1 |
@@ -525,6 +528,8 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 | TCEQ reclaimed water permit | TCEQ | 3-6 months | Planning | Phase 1-2 |
 
 ### 12.2 Regulatory Timeline
+
+Overall permitting is estimated at **12-16 months**, aligned with 2026 predevelopment (due diligence, Symbiosis TX watershed/hydrology analysis, land closing, entitlements, MUD formation, capital close) ahead of 2027 groundbreaking.
 
 | Month | Milestone | Critical Path Item |
 |-------|-----------|-------------------|
@@ -574,10 +579,10 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 
 ### 13.2 Key Compliance Advantages
 
-1. **Conservation surplus**: 71.3% conservation commitment far exceeds LPHCP minimums, providing regulatory cushion and goodwill with USFWS and Bastrop County
+1. **Conservation-forward design**: the conservation subdivision pathway preserves 184.5 acres (49.1%) permanently — with ~235 acres (62.5%) in preservation, regenerative agriculture, and permaculture — providing regulatory cushion and goodwill with USFWS and Bastrop County
 2. **Net positive environmental impact**: Active habitat restoration, invasive management, and prescribed fire improve ecological conditions beyond baseline
 3. **Early engagement**: Pre-application meetings with Bastrop County and USFWS establish collaborative relationship before any permit applications
-4. **Flexible site plan**: 200 prepared lots and phased construction allow unit placement to respond to survey findings
+4. **Flexible site plan**: 100 estate lots and phased 2027-2031 construction allow unit placement to respond to survey findings
 5. **Experienced compliance team**: Environmental counsel and certified herpetologist engaged from project inception
 6. **Financial capacity**: Environmental monitoring and management costs ($95K-141K/year) are budgeted as permanent operating expenses, not deferred
 7. **Community alignment**: Conservation-forward brand attracts residents who support environmental stewardship, reducing enforcement burden
@@ -586,4 +591,4 @@ Prescribed fire is an essential tool for maintaining the Lost Pines ecosystem, w
 
 *End of Document 12 — Environmental Compliance & Conservation Strategy*
 
-*Abundancia Austin Holdings, LLC — Confidential*
+*Abundancia Community LLC — Confidential*

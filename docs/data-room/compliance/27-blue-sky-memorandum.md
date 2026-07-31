@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,10 +9,10 @@
 ---
 
 **Document 27** | Data Room - Compliance
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
 **Version:** 2.0
-**Prepared by:** Abundancia Austin LLC
+**Prepared by:** Abundancia Community LLC
 
 ---
 
@@ -51,23 +51,23 @@
 
 ### 1.1 Purpose
 
-This Blue Sky Memorandum has been prepared for Abundancia Austin LLC (the "Company") in connection with its offering (the "Offering") of membership interest units (the "Units") pursuant to Regulation D, Rule 506(c) under the Securities Act of 1933, as amended (the "Securities Act"). The purpose of this memorandum is to summarize the federal and state securities law requirements applicable to the Offering, including registration exemptions, notice filing obligations, filing fees, timing requirements, and ongoing compliance obligations.
+This Blue Sky Memorandum has been prepared for Abundancia Community LLC (the "Company") in connection with its offering (the "Offering") of membership interest units (the "Units") pursuant to Regulation D, Rule 506(c) under the Securities Act of 1933, as amended (the "Securities Act"). The purpose of this memorandum is to summarize the federal and state securities law requirements applicable to the Offering, including registration exemptions, notice filing obligations, filing fees, timing requirements, and ongoing compliance obligations. *The offering structure and exemption are subject to final structuring and review by securities counsel.*
 
 ### 1.2 Offering Overview
 
 | Parameter | Detail |
 |-----------|--------|
-| Issuer | Abundancia Austin LLC (Texas LLC) |
-| Managing Member | Light Brands Consulting LLC |
-| Manager | Nicholas Lawless |
-| Securities Offered | Membership Interest Units |
-| Maximum Units | 250 |
-| Price Per Unit | $50,000.00 |
-| Maximum Offering Amount | $12,500,000.00 |
-| Exemption | Regulation D, Rule 506(c) |
+| Issuer | Abundancia Community LLC (Delaware LLC, manager-managed) |
+| Manager | New Earth Development LLC |
+| Manager CEO | Kelly Krezek |
+| Securities Offered | Class A Membership Interest Units |
+| Maximum Units | Approximately 103 |
+| Price Per Unit | $50,000 |
+| Maximum Offering Amount | Approximately $5,154,032 Class A/LP equity (Phase 1); total Phase-1 capitalization $13,354,032 |
+| Exemption | Regulation D, Rule 506(c) (subject to final structuring and securities counsel review) |
 | Investor Requirement | Verified Accredited Investors Only |
 | General Solicitation | Permitted (subject to verification requirements) |
-| Project | Regenerative luxury community, 120 acres, Bastrop County, Texas |
+| Project | Regenerative community, 376 acres, Cedar Creek, Bastrop County, Texas |
 
 ### 1.3 Key Findings
 
@@ -79,7 +79,7 @@ This Blue Sky Memorandum has been prepared for Abundancia Austin LLC (the "Compa
 
 4. **Form D Filing.** A Form D must be filed with the SEC no later than 15 calendar days after the first sale of securities. Amendments must be filed for material changes and annually if the offering is continuing.
 
-5. **Estimated Compliance Budget.** Total first-year blue sky compliance costs are estimated at $21,950 to $25,450 for all-states filing, with annual ongoing costs of approximately $18,950 to $20,450.
+5. **Estimated Compliance Budget.** Total first-year blue sky compliance costs are estimated at $20,950 to $24,450 for all-states filing, with annual ongoing costs of approximately $17,950 to $19,450 (based on the approximately $5,154,032 Phase-1 offering amount).
 
 ---
 
@@ -223,9 +223,9 @@ Form D requires disclosure of the following information:
 
 | Item | Description |
 |------|-------------|
-| Item 1 | Issuer identity (Abundancia Austin LLC, Texas, Bastrop County) |
+| Item 1 | Issuer identity (Abundancia Community LLC, a Delaware LLC; project in Bastrop County, Texas) |
 | Item 2 | Principal place of business and telephone |
-| Item 3 | Related persons (Nicholas Lawless, Manager; Light Brands Consulting LLC, Managing Member) |
+| Item 3 | Related persons (Kelly Krezek, Chief Executive Officer of the Manager; New Earth Development LLC, Manager) |
 | Item 4 | Industry group (Real Estate) |
 | Item 5 | Issuer size (revenue range or aggregate net asset value) |
 | Item 6 | Federal exemption claimed (Rule 506(c)) |
@@ -233,9 +233,9 @@ Form D requires disclosure of the following information:
 | Item 8 | Duration of offering |
 | Item 9 | Type(s) of securities offered (membership interests / limited liability company units) |
 | Item 10 | Business combination transaction (N/A) |
-| Item 11 | Minimum investment accepted ($50,000) |
+| Item 11 | Minimum investment accepted ($50,000, one Unit) |
 | Item 12 | Sales compensation (broker-dealers, finders fees, if any) |
-| Item 13 | Offering and sales amounts ($12,500,000 total; amount sold; amount remaining) |
+| Item 13 | Offering and sales amounts (approximately $5,154,032 Class A/LP equity total; amount sold; amount remaining) |
 | Item 14 | Investors (number who have already invested, number who are accredited) |
 | Item 15 | Sales commissions and finders' fees |
 | Item 16 | Use of proceeds |
@@ -304,7 +304,7 @@ Most states accept electronic notice filings through one or both of the followin
 
 ### 6.1 Texas Securities Act
 
-The Company is organized in Texas and the Project is located in Bastrop County, Texas. Texas securities law is governed by The Securities Act (Tex. Gov't Code Ch. 4001-4008, effective January 1, 2022, formerly Tex. Rev. Civ. Stat. Ann. art. 581) and the rules adopted by the Texas State Securities Board.
+The Company is organized in Delaware; the Project is located in Bastrop County, Texas, and the Company is (or will be) registered as a foreign entity transacting business in Texas. Texas securities law is governed by The Securities Act (Tex. Gov't Code Ch. 4001-4008, effective January 1, 2022, formerly Tex. Rev. Civ. Stat. Ann. art. 581) and the rules adopted by the Texas State Securities Board.
 
 ### 6.2 Notice Filing Requirements
 
@@ -320,7 +320,7 @@ The Company is organized in Texas and the Project is located in Bastrop County, 
 
 ### 6.3 Texas-Specific Considerations
 
-1. **Home State Jurisdiction.** As the Company's state of organization and the state where the Project is located, Texas regulators may take particular interest in the Offering. All disclosures should be accurate and complete with respect to the Project's Bastrop County location, 120 acres, permits, and regulatory compliance.
+1. **Project State Jurisdiction.** As the state where the Project is located (the Company is organized in Delaware), Texas regulators may take particular interest in the Offering. All disclosures should be accurate and complete with respect to the Project's Bastrop County location, 376 acres, permits, and regulatory compliance.
 
 2. **Texas State Securities Board Enforcement.** The Board has broad enforcement authority including cease-and-desist orders, administrative fines up to $10,000 per violation, rescission orders, and criminal referrals. While the Board cannot require registration of covered securities, it retains full authority over fraud enforcement.
 
@@ -372,7 +372,7 @@ California filing fees are based on the aggregate offering amount:
 | $25,000,001 - $50,000,000 | $5,000 |
 | Over $50,000,000 | $6,500 |
 
-**Applicable Fee for the Offering:** $3,500.00 (based on $12,500,000 maximum offering amount)
+**Applicable Fee for the Offering:** $2,500.00 (based on the approximately $5,154,032 maximum offering amount, which falls in the $5,000,001 - $10,000,000 bracket; fee bracket to be re-confirmed against the final offering amount at filing)
 
 ### 7.4 California-Specific Considerations
 
@@ -419,7 +419,7 @@ New York filing fees are based on the aggregate offering amount:
 | $5,000,001 - $25,000,000 | $2,400 |
 | Over $25,000,000 | $3,600 |
 
-**Applicable Fee for the Offering:** $2,400.00 (based on $12,500,000 maximum offering amount)
+**Applicable Fee for the Offering:** $2,400.00 (based on the approximately $5,154,032 maximum offering amount; $5,000,001 - $25,000,000 bracket)
 
 ### 8.4 New York-Specific Considerations
 
@@ -492,7 +492,7 @@ The following table summarizes notice filing requirements for all 50 states, the
 | Alaska | $600 | 15 days after first sale | Form D + U-2 |
 | Arizona | $0 | N/A | No notice filing required |
 | Arkansas | $250 | 15 days after first sale | Form D + U-2 |
-| California | $3,500* | 15 days after first sale | See Section 7 |
+| California | $2,500* | 15 days after first sale | See Section 7 |
 | Colorado | $250 | 15 days after first sale | Form D + U-2 |
 | Connecticut | $150 | At or before first sale | State form + Form D + U-2 |
 | Delaware | $250 | 15 days after first sale | Form D + U-2 |
@@ -578,10 +578,10 @@ The following table estimates total state notice filing fees based on anticipate
 |-------------|-----------|----------|-----------|
 | SEC (Form D) | $0 | Required | Federal filing, no fee |
 | Texas | $300 | Required | Home state, project location |
-| California | $3,500 | High Priority | Large accredited investor pool |
+| California | $2,500 | High Priority | Large accredited investor pool |
 | New York | $2,400 | High Priority | Large accredited investor pool; pre-sale filing |
 | Florida | $300 | High Priority | Large accredited investor pool |
-| **Subtotal -- Priority States** | **$6,500** | | |
+| **Subtotal -- Priority States** | **$5,500** | | |
 
 ### 11.2 All-States Filing Estimate
 
@@ -589,13 +589,13 @@ If the Company elects to make notice filings in all states (recommended for flex
 
 | Category | Estimated Cost |
 |----------|---------------|
-| Priority States (TX, CA, NY, FL) | $6,500 |
+| Priority States (TX, CA, NY, FL) | $5,500 |
 | Remaining States (44 states + DC + PR) | ~$10,950 |
-| **Total Estimated Filing Fees** | **~$17,450** |
+| **Total Estimated Filing Fees** | **~$16,450** |
 
 ### 11.3 Annual Renewal Fees
 
-Most states require annual renewal filings with fees if the offering continues beyond one year. Annual renewal fees are generally the same as initial filing fees. Estimated annual renewal cost for all-states filing: approximately $17,450 per year.
+Most states require annual renewal filings with fees if the offering continues beyond one year. Annual renewal fees are generally the same as initial filing fees. Estimated annual renewal cost for all-states filing: approximately $16,450 per year.
 
 ### 11.4 Third-Party Filing Service Fees
 
@@ -935,7 +935,7 @@ Based on the analysis in this memorandum, we recommend the following:
 
 1. **Engage a qualified filing service or securities counsel** to handle all Form D and state notice filings. The cost of professional filing services ($3,000-$5,000) is modest relative to the potential penalties for non-compliance.
 
-2. **File in all 50 states proactively.** For a total estimated cost of approximately $17,450, all-states filing provides maximum flexibility to accept investors from any state without the risk of missing a filing deadline. This is particularly important given that the Company will use general solicitation under Rule 506(c), which may reach investors in all states.
+2. **File in all 50 states proactively.** For a total estimated cost of approximately $16,450, all-states filing provides maximum flexibility to accept investors from any state without the risk of missing a filing deadline. This is particularly important given that the Company will use general solicitation under Rule 506(c), which may reach investors in all states.
 
 3. **Prioritize New York and Wisconsin pre-sale filings.** Given New York's pre-sale filing requirement and the Martin Act's broad enforcement provisions, the Company should file in New York before commencing any solicitation activities that may reach New York residents. Wisconsin also requires pre-sale filing.
 
@@ -954,18 +954,20 @@ Based on the analysis in this memorandum, we recommend the following:
 | Category | Estimated Cost |
 |----------|---------------|
 | SEC Form D Filing | $0 |
-| State Notice Filing Fees (all states) | $17,450 |
+| State Notice Filing Fees (all states) | ~$16,450 |
 | Third-Party Filing Service | $3,000 - $5,000 |
-| Annual Renewal (estimated) | $17,450 |
+| Annual Renewal (estimated) | ~$16,450 |
 | Annual Filing Service Renewal | $1,500 - $3,000 |
-| **Total First-Year Compliance Budget** | **$21,950 - $25,450** |
-| **Annual Ongoing Budget** | **$18,950 - $20,450** |
+| **Total First-Year Compliance Budget** | **$20,950 - $24,450** |
+| **Annual Ongoing Budget** | **$17,950 - $19,450** |
+
+*Fee estimates are based on the approximately $5,154,032 offering amount (Phase 1), which falls in the applicable graduated fee brackets; graduated state fees must be re-confirmed against the final offering amount at the time of filing.*
 
 ---
 
 ## Disclaimer
 
-This Blue Sky Memorandum has been prepared for informational purposes only and does not constitute legal advice. The information contained herein is based on federal and state securities laws, regulations, and administrative guidance as of March 2026. Securities laws are subject to change, and the requirements of individual states may be modified without notice.
+This Blue Sky Memorandum has been prepared for informational purposes only and does not constitute legal advice. The information contained herein is based on federal and state securities laws, regulations, and administrative guidance as of July 2026. Securities laws are subject to change, and the requirements of individual states may be modified without notice.
 
 The Company is strongly advised to engage qualified securities counsel to review all aspects of the Offering, including the applicability of exemptions, the preparation of offering documents, the filing of Form D and state notice filings, and ongoing compliance obligations.
 
@@ -975,7 +977,7 @@ Nothing in this memorandum should be construed as a guarantee that the Offering 
 
 ## Confidentiality Notice
 
-This document is confidential and proprietary to Abundancia Austin LLC. It has been prepared solely for use by verified accredited investors and their professional advisors in evaluating a potential investment in the Company. This document may not be reproduced, distributed, or disclosed to any third party without the prior written consent of the Company. The information contained herein is subject to change without notice and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful.
+This document is confidential and proprietary to Abundancia Community LLC. It has been prepared solely for use by verified accredited investors and their professional advisors in evaluating a potential investment in the Company. This document may not be reproduced, distributed, or disclosed to any third party without the prior written consent of the Company. The information contained herein is subject to change without notice and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful.
 
 Recipients should consult their own legal, tax, and financial advisors regarding the suitability and legal implications of any investment.
 
@@ -983,6 +985,6 @@ By accepting this document, the recipient agrees to be bound by the confidential
 
 ---
 
-*Document 27 of the Abundancia Austin Investor Data Room*
-*Prepared March 2026*
+*Document 27 of the Abundancia Investor Data Room*
+*Prepared July 2026*
 *Version 2.0*

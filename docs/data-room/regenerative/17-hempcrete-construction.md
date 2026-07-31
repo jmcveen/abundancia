@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,10 +9,10 @@
 ---
 
 **Document 17** | Data Room - Regenerative Systems
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
@@ -43,11 +43,11 @@
 
 ## 1. Executive Summary
 
-Abundancia Austin will employ hempcrete (hemp-lime bio-composite) as its primary envelope material for all residential and community structures. This decision is driven by five converging factors: superior fire resistance in a wildfire-prone region, carbon-negative lifecycle performance, exceptional thermal and acoustic properties, proven multi-century durability, and alignment with the project's Living Building Challenge certification goals.
+Abundancia will employ hempcrete (hemp-lime bio-composite) as its primary envelope material for all residential and community structures, cast as infill around conventional structural frames. This decision is driven by five converging factors: superior fire resistance in a wildfire-prone region, carbon-negative lifecycle performance, exceptional thermal and acoustic properties, proven multi-century durability, and alignment with the project's sustainability goals. Abundancia is **pursuing Living Building Challenge (LBC) certification** — pursuing certification for at least one building, with LBC standards applied across all homes and buildings.
 
-Hempcrete is not experimental. Over 10,000 hempcrete structures exist across Europe, with the oldest documented examples exceeding 600 years. France alone has permitted hempcrete construction since the 1990s, with over 5,000 completed buildings. Texas adopted hempcrete-compatible building codes, and the material's fire resistance directly addresses the catastrophic risk demonstrated by the 2011 Bastrop Complex Fire, which destroyed 1,673 homes within miles of our site.
+Hempcrete is not experimental. Over 10,000 hempcrete structures exist across Europe, with the oldest documented examples exceeding 600 years. France alone has permitted hempcrete construction since the 1990s, with over 5,000 completed buildings. The regulatory environment is favorable: the City of Austin adopted hemp-lime construction into its building code in July 2025, and Bastrop County permits hempcrete through its IRC-based alternative-materials pathway. The material's fire resistance directly addresses the catastrophic risk demonstrated by the 2011 Bastrop Complex Fire, which destroyed 1,673 homes within miles of our site. Hempcrete assemblies deliver R-30+ walls, 2+ hour fire resistance, an estimated 50-70% reduction in HVAC/energy use versus a code-baseline home, and a vapor-open, mold-resistant, pest-resistant, non-toxic envelope — in a hempcrete market growing at approximately 15% per year (Global Market Insights).
 
-Each Abundancia home will sequester an estimated 20-40 tons of CO2 within its walls, making the community's built environment a net carbon sink rather than an emissions source. At full buildout, the community's structures will have permanently removed an estimated 4,000-8,000 tons of CO2 from the atmosphere.
+Each Abundancia home is estimated (preliminary) to sequester 20-40 tons of CO2 within its walls, making the community's built environment carbon-sequestering rather than an emissions source. Applying that per-residence basis across the reconciled full-build program of ~486 residences (360 for-sale + 126 rental), community-wide sequestration at full buildout is estimated at **approximately 10,000-19,000 tons of CO2** — a preliminary estimate, assuming hempcrete construction, pending final material specification.
 
 ---
 
@@ -61,7 +61,7 @@ Hempcrete (also known as hemp-lime or hemp concrete) is a bio-composite building
 - **Lime-based binder** (hydraulic lime or a lime-pozzolan blend) — approximately 20-25% of the mix by volume
 - **Water** — approximately 10-15% of the mix by volume
 
-The resulting material is a lightweight, breathable, insulating infill that is cast around a structural frame (typically timber post-and-beam). Hempcrete is not load-bearing in the traditional sense; it provides the building envelope while the frame carries structural loads.
+The resulting material is a lightweight, breathable, insulating infill that is cast around a conventional structural frame (dimensional/engineered wood framing or timber post-and-beam, per structural design). Hempcrete is not load-bearing in the traditional sense; it provides the building envelope while the conventional structural frame carries structural loads.
 
 ### 2.2 Historical Context
 
@@ -74,8 +74,9 @@ The resulting material is a lightweight, breathable, insulating infill that is c
 | 2009 | First permitted hempcrete building in the United States (Asheville, NC) |
 | 2010s | US Hemp Building Association established; state-level codes adopted |
 | 2018 | US Farm Bill legalizes industrial hemp cultivation nationwide |
-| 2020s | Texas adopts hempcrete-compatible building codes; commercial hemp supply chain matures |
+| 2020s | US hemp building industry scales; commercial hemp supply chain matures |
 | 2024-25 | Multiple US hempcrete housing developments break ground |
+| July 2025 | City of Austin adopts hemp-lime construction into its building code; Bastrop County permits hempcrete via IRC-based alternative-materials pathway |
 
 ### 2.3 The Science of Mineralization
 
@@ -142,7 +143,7 @@ This means hempcrete walls literally become stone over time, while the hemp hurd
 | Thermal lag | 10-15 hours | Exceptional diurnal temperature regulation |
 | Effective R-value (inc. thermal mass) | R-30+ equivalent | Significant in hot Texas climate |
 
-The combination of insulation value and thermal mass is hempcrete's defining advantage in Central Texas. Daytime temperatures that exceed 100 degrees F in summer are absorbed by the thermal mass and released gradually overnight, dramatically reducing cooling loads. This "thermal flywheel" effect means hempcrete's *effective* insulation performance exceeds its steady-state R-value by 20-40% in climates with significant diurnal temperature swings.
+The combination of insulation value and thermal mass is hempcrete's defining advantage in Central Texas. Daytime temperatures that exceed 100 degrees F in summer are absorbed by the thermal mass and released gradually overnight, dramatically reducing cooling loads. This "thermal flywheel" effect means hempcrete's *effective* insulation performance exceeds its steady-state R-value by 20-40% in climates with significant diurnal temperature swings, supporting an estimated 50-70% reduction in HVAC/energy use versus a code-baseline home.
 
 ### 4.2 Acoustic Performance
 
@@ -172,7 +173,7 @@ The combination of insulation value and thermal mass is hempcrete's defining adv
 | Vapor permeability | 5-12 perms | Highly breathable — "vapor open" |
 | Equilibrium moisture content | 10-15% RH | Self-regulating humidity buffer |
 | Moisture buffering value (MBV) | 2.0+ g/m2/%RH | "Excellent" class (highest rating) |
-| Mold resistance | Naturally resistant | Alkaline pH (12+) inhibits all mold growth |
+| Mold resistance | Naturally resistant | Alkaline pH (12+) inhibits mold growth |
 | Condensation risk | Extremely low | Vapor-open assembly prevents moisture trapping |
 
 ### 4.5 Structural Properties
@@ -306,6 +307,8 @@ Hempcrete's fire performance translates directly to insurance cost advantages:
 | Estimated annual savings | Baseline | $1,200-$3,000/yr per home |
 | 30-year savings | Baseline | $36,000-$90,000 per home |
 
+*All insurance figures are preliminary estimates pending carrier quotes — [TO CONFIRM] with insurance advisors.*
+
 ---
 
 ## 7. Carbon Sequestration Analysis
@@ -338,12 +341,14 @@ Carbon is sequestered in hempcrete through two distinct pathways:
 
 | Metric | Value |
 |--------|-------|
-| Homes at full buildout | 150-200 |
-| Net CO2 sequestered per home | 20-40 tons |
-| **Total community sequestration** | **4,000-8,000 tons CO2** |
-| Equivalent: cars removed from road (1 year) | 870-1,740 vehicles |
-| Equivalent: acres of forest (1 year absorption) | 4,600-9,200 acres |
-| Equivalent: US homes powered by coal (1 year) | 680-1,360 homes |
+| Structures at full buildout | ~501 structures + 100 estate lots (360 for-sale residences + 126 rental ≈ 486 residences) |
+| Net CO2 sequestered per home (estimated, preliminary) | 20-40 tons |
+| **Total community sequestration** | **~10,000-19,000 tons CO2** (preliminary estimate, assuming hempcrete construction, pending final material specification; ~20-40 tons/home × ~486 residences) |
+| Equivalent: cars removed from road (1 year) | ~2,200-4,100 passenger vehicles (EPA ~4.6 t CO2/vehicle-yr; preliminary) |
+| Equivalent: acres of forest (1 year absorption) | ~12,000-22,600 acres (EPA ~0.84 t CO2/acre-yr; preliminary) |
+| Equivalent: US homes' annual electricity use | ~1,900-3,600 homes (EPA ~5.3 t CO2/home-yr; preliminary) |
+
+*Note: Community-scale totals in prior drafts were based on an earlier 150-200-home planning scenario and are superseded by the current program (~501 structures + 100 estate lots; ~486 residences). The community-wide figures above are a preliminary estimate assuming hempcrete construction, computed from the per-home basis (~20-40 tons CO2) applied across ~486 residences (360 for-sale + 126 rental), and are pending final material specification; equivalents use EPA Greenhouse Gas Equivalencies factors. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with hempcrete construction build-out scaling across later phases.*
 
 ### 7.4 Comparison: Carbon Footprint by Construction Method
 
@@ -422,6 +427,8 @@ Hempcrete construction costs are projected to decrease as the industry scales:
 | Scale economies | Small-batch projects | Community-scale purchasing reduces cost 10-15% |
 | **Net projected cost reduction** | **Baseline** | **25-40% reduction in wall system costs** |
 
+*Suggested addition (July 2026 review):* The hempcrete market is growing at approximately 15% per year (Global Market Insights), supporting supply-chain expansion and continued cost declines.
+
 ---
 
 ## 9. Texas Building Code Compliance
@@ -430,9 +437,10 @@ Hempcrete construction costs are projected to decrease as the industry scales:
 
 | Regulatory Body | Status | Notes |
 |----------------|--------|-------|
+| City of Austin | Hemp-lime adopted into building code (July 2025) | Regional regulatory validation for hemp-lime construction |
 | Texas Department of Licensing and Regulation (TDLR) | Hempcrete recognized | Alternative materials pathway |
 | International Residential Code (IRC) | Adopted by Texas | Hempcrete qualifies under alternative materials provisions |
-| Bastrop County Building Department | Permits issued | Case-by-case review with engineering certification |
+| Bastrop County (IRC-based permitting) | Permits issued | Case-by-case review with engineering certification |
 | ASTM International | Standards published | ASTM E2813 — Standard Practice for Building with Hempcrete |
 | US Hemp Building Association | Certification program | Professional training and material standards |
 
@@ -605,7 +613,7 @@ Hempcrete's extraordinary durability is not theoretical; it is documented across
 
 | Degradation Vector | Hempcrete Response | Conventional Wood Frame Response |
 |--------------------|--------------------|----------------------------------|
-| Moisture/rot | Lime matrix is alkaline (pH 12+); prevents all biological growth | Rot within months if moisture trapped |
+| Moisture/rot | Lime matrix is alkaline (pH 12+); inhibits biological growth | Rot within months if moisture trapped |
 | Termites/insects | Lime-encapsulated hurds are non-nutritive; alkaline environment repels | Active termite management required |
 | Rodents | Dense, mineral material — not a food source or nesting substrate | Common entry/nesting material |
 | UV degradation | Lime render surface — UV stable | Siding/paint degrades, requires replacement |
@@ -705,4 +713,4 @@ Hempcrete's extraordinary durability is not theoretical; it is documented across
 
 ---
 
-*This document is the intellectual property of Abundancia Austin Holdings, LLC. Reproduction or distribution without written consent is prohibited.*
+*This document is the intellectual property of Abundancia Community LLC. Reproduction or distribution without written consent is prohibited.*

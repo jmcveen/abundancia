@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,14 +9,14 @@
 ---
 
 **Document 22** | Data Room - Research
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
-> *This document contains forward-looking statements and market projections based on publicly available data, proprietary research, and management assumptions as of March 2026. Actual market conditions may differ materially from those projected. All demographic, economic, and housing market data are sourced from publicly available databases unless otherwise noted. Investors should conduct independent due diligence and consult qualified advisors before making investment decisions. Distribution to unauthorized parties is strictly prohibited.*
+> *This document contains forward-looking statements and market projections based on publicly available data, proprietary research, and management assumptions as of July 2026. Actual market conditions may differ materially from those projected. All demographic, economic, and housing market data are sourced from publicly available databases unless otherwise noted. Investors should conduct independent due diligence and consult qualified advisors before making investment decisions. Distribution to unauthorized parties is strictly prohibited.*
 
 ---
 
@@ -41,24 +41,26 @@
 
 ### 1.1 Research Scope
 
-This market research report provides the empirical foundation for Abundancia Austin's investment thesis. The analysis covers the Austin-Round Rock-Georgetown Metropolitan Statistical Area (MSA), with focused granularity on Bastrop County — the project's target geography — and the luxury/eco-conscious residential segment that represents the project's primary addressable market.
+This market research report provides the empirical foundation for Abundancia's investment thesis. The analysis covers the Austin-Round Rock-Georgetown Metropolitan Statistical Area (MSA), with focused granularity on Bastrop County — the project's target geography — and the luxury/eco-conscious residential segment that represents the project's primary addressable market.
 
 ### 1.2 Key Findings
 
 | Finding | Detail |
 |---------|--------|
-| **Austin MSA population growth** | 2.8% annualized CAGR; 50,000-60,000 net new residents per year through 2035 |
-| **Bastrop County growth rate** | 4.3% CAGR — among the fastest-growing counties in Texas |
+| **Austin MSA population growth** | 2.55 million residents (25th-largest US metro; U.S. Census Bureau, vintage 2024); projected +1.7%/year through 2060 (Texas Demographic Center / Opportunity Austin) |
+| **Bastrop County growth rate** | ~2.5%/year — up 64% since 2010 to ~122,500 residents; projected ~200,000 by 2060 (Texas Demographic Center) |
 | **Eco/wellness housing premium** | 15-40% above conventional construction, depending on amenity depth and conservation positioning |
 | **Target market size** | 18,000-24,000 households in the Austin MSA meet income, psychographic, and lifestyle criteria |
 | **Supply gap** | Fewer than 500 eco-branded residential units delivered annually in the Austin MSA; no conservation-community product exists in Bastrop County at this scale |
 | **Absorption confidence** | 60-90 units/year projected, representing less than 3% of Bastrop County's annual residential permits |
-| **Global wellness economy** | $6.3 trillion and growing at 8-10% annually (Global Wellness Institute, 2025) |
-| **Remote work tailwind** | 35-40% of Austin tech workers now hybrid or fully remote, decoupling home location from office proximity |
+| **Global wellness economy** | $6.3 trillion and growing at 8-10% annually (Global Wellness Institute, 2025); wellness real estate $548B in 2024, projected to $1.1T by 2029 (GWI) |
+| **Remote work tailwind** | ~25% of US paid workdays are now worked from home (Stanford SIEPR); 35-40% of Austin tech workers hybrid or fully remote, decoupling home location from office proximity |
+
+*Suggested addition (July 2026 review):* Demand traction to date: a 10,000-person interest list and 100+ investors, buyers, and collaborators — built with zero paid marketing.
 
 ### 1.3 Investment Implication
 
-The convergence of Austin's sustained population growth, Bastrop County's regulatory advantages, accelerating consumer demand for wellness-oriented living, and the structural absence of conservation-community supply creates a significant market opportunity. Abundancia Austin is positioned to capture outsized returns by delivering a differentiated product into an underserved segment with strong secular tailwinds and limited direct competition.
+The convergence of Austin's sustained population growth, Bastrop County's regulatory advantages, accelerating consumer demand for wellness-oriented living, and the structural absence of conservation-community supply creates a significant market opportunity. Abundancia is positioned to capture outsized returns by delivering a differentiated product into an underserved segment with strong secular tailwinds and limited direct competition.
 
 ---
 
@@ -70,11 +72,11 @@ The Austin-Round Rock-Georgetown MSA is one of the fastest-growing major metropo
 
 | Metric | Value | Source |
 |--------|-------|--------|
-| **MSA Population (2025 Est.)** | ~2.47 million | U.S. Census Bureau |
-| **Annual Net Migration** | 50,000-60,000 persons/year | Texas Demographic Center |
+| **MSA Population (Census vintage 2024)** | ~2.55 million — 25th-largest US metro | U.S. Census Bureau (vintage 2024) |
+| **Projected Annual Growth** | +1.7%/year through 2060 | Texas Demographic Center / Opportunity Austin |
 | **10-Year Population Growth (2015-2025)** | +38.7% | Census Bureau ACS |
-| **Projected MSA Population (2030)** | ~2.9 million | Texas State Demographer |
-| **Projected MSA Population (2035)** | ~3.3 million | Texas State Demographer |
+| **Projected MSA Population (2030)** | ~2.8 million (at +1.7%/yr) | Texas Demographic Center projection basis |
+| **Projected MSA Population (2035)** | ~3.0 million (at +1.7%/yr) | Texas Demographic Center projection basis |
 | **Median Age** | 34.8 years | Census Bureau ACS |
 | **College-Educated Adults (25+)** | 48.2% | Census Bureau ACS |
 | **Foreign-Born Population** | 17.4% | Census Bureau ACS |
@@ -87,7 +89,8 @@ Austin's economy has undergone a structural transformation from government/unive
 | Metric | Value | Trend |
 |--------|-------|-------|
 | **MSA GDP (2025)** | $185B+ | 4-6% annual growth |
-| **Unemployment Rate** | 3.2% | Below national average (3.8%) |
+| **Unemployment Rate** | 3.7% | Below/near national average |
+| **Job Growth** | #1 among top-50 US metros, 2025 (+27,200 jobs) | BLS / Texas Workforce Commission |
 | **Median Household Income** | $89,500 | +4.2% YoY |
 | **Per Capita Income** | $52,400 | +3.8% YoY |
 | **Poverty Rate** | 10.2% | Below state average (13.4%) |
@@ -97,8 +100,8 @@ Austin's economy has undergone a structural transformation from government/unive
 
 | Company | Facility Type | Estimated Austin Employees | Recent Activity |
 |---------|-------------|--------------------------|-----------------|
-| **Tesla** | Gigafactory Texas (HQ) | 20,000+ | Continued expansion; Cybertruck production |
-| **Samsung** | Semiconductor fab (Taylor, TX) | 4,500+ (growing to 8,000) | $17B fab operational; Phase 2 announced |
+| **Tesla** | Gigafactory Texas (HQ) | ~16,500 | Continued expansion; 5.2M SF "Terafab" filing |
+| **Samsung** | Semiconductor fab (Taylor, TX) | 4,500+ (growing) | $37B Taylor investment |
 | **Apple** | North Austin campus | 15,000+ | $1B campus expansion complete |
 | **Google** | Downtown + North Austin | 8,000+ | Continued hiring; Sailfish office tower |
 | **Meta** | Data center + offices | 3,500+ | Expanded AI/ML operations |
@@ -138,15 +141,15 @@ Austin's startup ecosystem reinforces the wealth creation cycle that drives luxu
 
 ## 3. Austin Housing Market Analysis
 
-### 3.1 Current Market Conditions (Q1 2026)
+### 3.1 Current Market Conditions (July 2026)
 
-| Metric | Austin MSA | Bastrop County | Travis County | National |
+| Metric | Austin | Bastrop County | Travis County | National |
 |--------|-----------|---------------|--------------|---------|
-| **Median Home Price** | $485,000 | $345,000 | $545,000 | $410,000 |
-| **Price per Square Foot** | $265/SF | $195/SF | $310/SF | $215/SF |
+| **Median Home Price** | $452,000 (Unlock MLS, 7/2026) | $340,977 (Redfin, 5/2026) | $545,000 | $410,000 |
+| **Price per Square Foot** | $265/SF | $187/SF (Redfin, 5/2026) | $310/SF | $215/SF |
 | **YoY Price Change** | +3.8% | +5.2% | +2.9% | +3.1% |
 | **Days on Market (median)** | 42 | 38 | 48 | 52 |
-| **Months of Supply** | 3.8 | 3.2 | 4.2 | 4.1 |
+| **Months of Supply** | 6.0 (Unlock MLS, 7/2026) | 3.2 | 4.2 | 4.1 |
 | **New Construction Starts (annual)** | 28,000+ | 2,800+ | 8,500+ | — |
 | **Median Lot Price (0.25 acre)** | $125,000+ | $65,000-95,000 | $175,000+ | — |
 | **Mortgage Rate (30yr fixed)** | 6.25% | 6.25% | 6.25% | 6.25% |
@@ -159,7 +162,7 @@ Austin's startup ecosystem reinforces the wealth creation cycle that drives luxu
 | **Northwest Austin** | $380,000 | $480,000 | $510,000 | 5.0% |
 | **East Austin / Del Valle** | $310,000 | $420,000 | $445,000 | 6.2% |
 | **South Austin / Buda / Kyle** | $300,000 | $395,000 | $420,000 | 5.8% |
-| **Bastrop County** | $225,000 | $310,000 | $345,000 | 7.4% |
+| **Bastrop County** | $225,000 | $310,000 | $340,977 (Redfin, 5/2026) | 7.2% |
 | **Cedar Creek / SH 71 Corridor** | $215,000 | $295,000 | $335,000 | 7.7% |
 | **Dripping Springs / SW Corridor** | $450,000 | $620,000 | $665,000 | 6.7% |
 | **Georgetown / Williamson County** | $310,000 | $410,000 | $430,000 | 5.6% |
@@ -174,7 +177,8 @@ Austin's startup ecosystem reinforces the wealth creation cycle that drives luxu
 | **Annual residential completions** | 28,000-32,000 | Appears balanced, but... |
 | **Completions meeting eco/wellness criteria** | <500 units/year | Massive undersupply in target segment |
 | **Net apartment absorption (Austin MSA, 2025)** | 92% of deliveries | Healthy demand despite supply surge |
-| **Existing home inventory** | 3.8 months (balanced is 5-6) | Below equilibrium; seller's bias |
+| **Existing home inventory** | 6.0 months (Unlock MLS, 7/2026) | At balanced levels |
+| **$1M+ luxury segment (2025)** | $4.6B across 2,700+ sales | Deep premium buyer pool (2025) |
 | **New home inventory** | 5.2 months (spec homes) | Normalizing from post-pandemic tightness |
 | **Foreclosure rate** | 0.3% | Well below national average (0.5%) |
 
@@ -184,8 +188,8 @@ Austin's affordability crisis is a primary demand driver for Bastrop County. As 
 
 | Affordability Metric | Austin (Travis Co.) | Bastrop County | Savings |
 |---------------------|--------------------|--------------:|--------:|
-| **Median Home Price** | $545,000 | $345,000 | $200,000 (37%) |
-| **Price/SF (new construction)** | $310/SF | $195/SF | $115/SF (37%) |
+| **Median Home Price** | $545,000 | $340,977 | $204,000 (37%) |
+| **Price/SF (new construction)** | $310/SF | $187/SF | $123/SF (40%) |
 | **Property Tax Rate** | ~2.1% | ~1.8% | 14% lower |
 | **Monthly PITI (median home, 20% down)** | $3,680 | $2,380 | $1,300/mo (35%) |
 | **Income Required (28% DTI)** | $157,700 | $102,000 | $55,700 lower threshold |
@@ -210,7 +214,7 @@ Austin's affordability crisis is a primary demand driver for Bastrop County. As 
 
 ### 4.1 Defining the Target Segment
 
-Abundancia Austin occupies the intersection of two high-growth market segments: **luxury lifestyle housing** ($450K+ price point with premium amenities and design) and **eco-conscious/wellness housing** (sustainability features, regenerative materials, health-oriented community design). This intersection — which we term "regenerative luxury" — is a nascent but rapidly expanding category with limited supply nationwide and virtually no supply in the Austin MSA.
+Abundancia occupies the intersection of two high-growth market segments: **luxury lifestyle housing** ($450K+ price point with premium amenities and design) and **eco-conscious/wellness housing** (sustainability features, regenerative materials, health-oriented community design). This intersection — which we term "regenerative luxury" — is a nascent but rapidly expanding category with limited supply nationwide and virtually no supply in the Austin MSA.
 
 | Segment | Market Size (Austin MSA) | Annual Growth | Supply Response | Gap |
 |---------|------------------------|--------------|----------------|-----|
@@ -225,8 +229,8 @@ The global wellness economy provides the secular tailwind that supports premium 
 
 | Category | Global Market Size (2025) | Growth Rate | Relevance |
 |----------|--------------------------|------------|-----------|
-| **Wellness real estate** | $438B | 16.1% CAGR (2020-2025) | Direct — our core product |
-| **Wellness tourism** | $978B | 12.0% CAGR | Retreat center revenue stream |
+| **Wellness real estate** | $548B (2024) → $1.1T projected by 2029 (GWI) | ~15% CAGR (2024-2029 projected) | Direct — our core product; 10-25% price premiums documented |
+| **Wellness tourism** | $894B → $1.38T projected (GWI) | ~9% CAGR (projected) | Retreat revenue stream |
 | **Healthy eating / nutrition** | $1.08T | 8.6% CAGR | Farm-to-table, food forests |
 | **Personal wellness** | $624B | 7.8% CAGR | Yoga, meditation, ceremony spaces |
 | **Mental wellness** | $178B | 9.4% CAGR | Community as mental health infrastructure |
@@ -238,12 +242,12 @@ The global wellness economy provides the secular tailwind that supports premium 
 
 ### 4.3 Wellness Real Estate Market
 
-Wellness real estate — properties intentionally designed to support the health and wellbeing of their occupants — has grown from a $148B market in 2017 to $438B in 2025, representing a 16.1% CAGR. This is the fastest-growing segment of the wellness economy and directly validates Abundancia's product positioning.
+Wellness real estate — properties intentionally designed to support the health and wellbeing of their occupants — reached $548B in 2024 and is projected to grow to $1.1T by 2029 (Global Wellness Institute). This is among the fastest-growing segments of the wellness economy and directly validates Abundancia's product positioning.
 
 | Wellness Real Estate Metric | Value |
 |----------------------------|-------|
-| **Global market size (2025)** | $438B |
-| **U.S. share** | ~42% ($184B) |
+| **Global market size (2024)** | $548B (GWI); projected $1.1T by 2029 |
+| **U.S. share** | Largest single market (GWI) |
 | **Properties built/renovated with wellness features (2025)** | ~4.2M units globally |
 | **Premium commanded** | 10-25% above comparable non-wellness properties |
 | **Buyer willingness to pay for wellness features** | 73% of millennials; 58% of Gen X; 41% of boomers |
@@ -273,13 +277,13 @@ The project benefits from alignment with institutional ESG mandates and the grow
 
 | ESG Factor | Abundancia Alignment | Investor Relevance |
 |-----------|---------------------|-------------------|
-| **Carbon sequestration (hempcrete)** | ~165 kg CO2/m3 wall; net carbon-negative construction | Measurable, auditable environmental impact |
-| **Habitat conservation** | 70-75% of 376 acres preserved; Houston toad habitat | Endangered species protection; biodiversity |
-| **Regenerative agriculture** | 50+ acres of permaculture, food forests | Soil carbon, food security, ecosystem services |
+| **Carbon sequestration (hempcrete)** | Carbon-sequestering construction (estimated ~165 kg CO2/m3 wall) | Measurable, auditable environmental impact |
+| **Habitat conservation** | 184.5 of 376 acres (49%) permanently preserved; structures on only ~4.3% of the land; Houston toad habitat (Lost Pines HCP conservation-subdivision pathway) | Endangered species protection; biodiversity |
+| **Regenerative agriculture** | 42 acres regenerative agriculture + 8.5 acres permaculture gardens & barns (land-use plan) | Soil carbon, food security, ecosystem services |
 | **Renewable energy** | Community solar + battery; off-grid capable | Energy independence, grid resilience |
 | **Water stewardship** | Rainwater harvesting, greywater reuse, advanced treatment | Water security in drought-prone region |
 | **Social equity** | Mixed-income housing; wellness access for all residents | Community inclusivity |
-| **Governance** | Series LLC structure with fiduciary transparency | Investor protection and reporting |
+| **Governance** | Delaware manager-managed LLC (Abundancia Community LLC) with fiduciary transparency — subject to final documentation and review by securities counsel | Investor protection and reporting |
 
 ---
 
@@ -328,6 +332,7 @@ The permanent shift toward remote and hybrid work has fundamentally altered hous
 
 | Remote Work Metric | Austin MSA | National | Source |
 |-------------------|-----------|---------|--------|
+| **Share of US paid workdays worked from home** | — | ~25% | Stanford SIEPR |
 | **Fully remote workers** | 18% of workforce | 14% | Bureau of Labor Statistics |
 | **Hybrid workers (2-3 days/week)** | 22% of workforce | 18% | Stanford WFH Research |
 | **Combined remote/hybrid** | 40% | 32% | Kastle Systems / BLS |
@@ -354,12 +359,12 @@ Austin has emerged as a primary destination for climate-conscious migration — 
 
 ### 6.1 County Demographics and Growth
 
-| Metric | 2020 | 2025 (Est.) | 2030 (Proj.) | CAGR |
+| Metric | 2020 | 2026 (Est.) | Long-Term (Proj.) | CAGR |
 |--------|------|-------------|-------------|------|
-| **Population** | 97,216 | 118,000 | 148,000 | 4.3% |
-| **Households** | 34,800 | 42,500 | 53,000 | 4.3% |
+| **Population** | 97,216 | ~122,500 (+64% since 2010) | ~200,000 by 2060 (Texas Demographic Center) | ~2.5%/yr |
+| **Households** | 34,800 | ~44,000 (est.) | Tracking population growth | ~2.5%/yr |
 | **Median Household Income** | $62,400 | $74,800 | $88,000+ | 3.5% |
-| **Median Home Value** | $225,000 | $345,000 | $420,000+ | 6.5% |
+| **Median Home Value** | $225,000 | $340,977 (Redfin, 5/2026) | $420,000+ (est.) | 6.4% |
 | **Employment** | 28,400 | 36,200 | 46,000+ | 5.0% |
 | **Median Age** | 37.2 | 36.1 | 35.5 (proj.) | Declining (younger in-migration) |
 | **College-Educated (25+)** | 22.4% | 28.1% | 33%+ (proj.) | Rising with Austin spillover |
@@ -371,7 +376,7 @@ The regulatory environment in Bastrop County represents a material competitive a
 | Factor | Bastrop County | Travis County (Austin) | Advantage Quantified |
 |--------|---------------|----------------------|---------------------|
 | **County-level zoning** | None | Extensive municipal zoning | Eliminates rezoning risk and timeline |
-| **Permitting timeline** | 6-12 months | 18-36+ months | 50-75% faster to revenue |
+| **Permitting timeline** | 12-16 months (est.) | 18-36+ months | Materially faster to revenue |
 | **Impact fees** | Minimal ($500-2,000/unit) | $10,000-25,000/unit | $8,000-23,000 savings per unit |
 | **Property tax rate** | ~1.8% (county + MUD) | ~2.1% (city + county) | 14% lower annual carrying cost |
 | **Agricultural exemption** | Available; maintained on conservation acreage | Limited availability | Significant tax savings on undeveloped land |
@@ -393,8 +398,12 @@ Bastrop County is receiving significant public and private infrastructure invest
 | **Bluebonnet Electric grid expansion** | Ongoing | $45M (2024-2027) | Increased grid capacity for development |
 | **Bastrop ISD bond** | Approved 2025 | $180M | New schools, facilities; attracts families |
 | **Aqua Water Supply expansion** | Planning | $35M | Municipal water extension toward Cedar Creek |
-| **ABIA airport expansion** | Under construction | $4.1B | Increased passenger capacity; 22 min from site |
-| **Tesla Gigafactory Phase 2** | Announced | $5B+ | Additional 10,000+ jobs within 20 min |
+| **ABIA airport expansion** | Under construction | ~$4-5B | 21.7M passengers (2025); increased capacity; 15-20 min from site |
+| **Tesla "Terafab" expansion filing** | Filed | 5.2M SF | Builds on ~16,500-employee Gigafactory within 20 min |
+| **SpaceX Starlink Bastrop** | Operational + expanding | 1.1M SF facility; 1,000+ jobs; 11M SF "Gigasat" filing | Major advanced-manufacturing anchor in Bastrop County |
+| **X (formerly Twitter) HQ** | Operating | — | Corporate headquarters in Bastrop County |
+| **The Boring Company** | Operating | — | Bastrop County headquarters/operations |
+| **Cedar Creek data center (FM 535)** | Announced | $1.4B | Hyperscale investment minutes from site |
 
 ### 6.4 Land Value Trends — Bastrop County
 
@@ -450,7 +459,7 @@ Bastrop County's Lost Pines region — a westward extension of East Texas pine f
 
 #### 7.2.1 The Wellness-Oriented Housing Megatrend
 
-The wellness real estate market has grown from $148B (2017) to $438B (2025) at a 16.1% CAGR. This is not a niche trend — it represents a fundamental shift in how consumers, particularly millennials and Gen X, evaluate housing decisions. Key data points:
+The wellness real estate market reached $548B in 2024 and is projected to reach $1.1T by 2029 (Global Wellness Institute). This is not a niche trend — it represents a fundamental shift in how consumers, particularly millennials and Gen X, evaluate housing decisions. Key data points:
 
 - **73%** of millennials are willing to pay a premium for sustainable products (Nielsen, 2024)
 - **83%** of homebuyers rate energy efficiency as important or very important (NAHB, 2025)
@@ -478,14 +487,16 @@ Carbon credits and sequestration verification create a potential incremental rev
 |---------------------|-------|-------|
 | **Voluntary carbon market size (2025)** | $4.2B | Growing 20-30% annually |
 | **Nature-based carbon credit price** | $15-45/ton | Rising with quality standards |
-| **Hempcrete carbon sequestration** | ~165 kg CO2/m3 | Verifiable, auditable |
-| **Estimated sequestration (full build)** | 8,000-12,000 tons CO2 | From hempcrete construction alone |
+| **Hempcrete carbon sequestration** | ~165 kg CO2/m3 (estimated) | Verifiable, auditable |
+| **Estimated sequestration (full build)** | ~10,000-19,000 tons CO2 (preliminary estimate, assuming hempcrete construction, pending final material specification) | From hempcrete construction alone (~20-40 tons CO2/home × ~486 residences) |
 | **Regenerative agriculture credits** | $20-60/ton | Emerging; soil carbon verification improving |
 | **Potential annual carbon revenue** | $50K-200K | Incremental; marketing value exceeds financial |
 
 ---
 
 ## 8. Target Buyer Personas
+
+*Note: Persona-level price points below are directional and are being restated to the financial model's per-type pricing (homes from approximately $450/SF; SFR blended ~$566/SF; condos ~$400/SF; tiny homes ~$416/SF, ~$104K-$166K; average lot ~$229K).*
 
 ### 8.1 Primary Buyer Personas
 
@@ -604,18 +615,17 @@ Carbon credits and sequestration verification create a potential incremental rev
 
 ### 9.1 Pricing Strategy Overview
 
-Abundancia Austin employs a differentiated pricing strategy that positions each product type above standard Bastrop County market pricing but below premium Austin corridor (Dripping Springs, Lake Travis) and national conservation community (Serenbe) pricing. The premium is justified by the depth of community infrastructure, conservation setting, regenerative building materials, and lifestyle amenity package.
+Abundancia employs a differentiated pricing strategy that positions each product type above standard Bastrop County market pricing but below premium Austin corridor (Dripping Springs, Lake Travis) and national conservation community (Serenbe) pricing. Homes are positioned "from approximately $450/SF" as the entry anchor. The premium is justified by the depth of community infrastructure, conservation setting, regenerative building materials, and lifestyle amenity package.
 
-### 9.2 Pricing by Product Type
+### 9.2 Pricing by Product Type (per financial model)
 
-| Product Type | Abundancia Price Range | Bastrop County Comparable | Premium Over Market | National Comparable (Serenbe/Babcock) |
-|-------------|----------------------|--------------------------|--------------------:|--------------------------------------|
-| **Single-Family Hempcrete Home** | $450K-850K ($250-305/SF) | $320K-480K ($175-195/SF) | 35-55% | $500K-2.5M ($325-425/SF) |
-| **Multifamily Unit** | $225K-425K ($320-345/SF) | $180K-320K ($250-280/SF) | 25-35% | $350K-650K ($380-440/SF) |
-| **Tiny Home** | $125K-185K ($310-365/SF) | $85K-175K ($250-350/SF) | 15-25% | Limited comparables |
-| **Geodesic Dome** | $150K-250K ($280-310/SF) | $150K-350K ($250-350/SF) | At market to slight premium | Limited comparables |
-| **Prepared Lot** | $75K-175K ($350-500K/acre) | $55K-95K ($250-450K/acre) | 30-40% | $80K-350K ($350-800K/acre) |
-| **Rental (monthly)** | $1,400-2,800 ($2.30-2.55/SF) | $1,200-1,800 ($1.45-1.65/SF) | 35-50% | $1,600-2,400 ($1.65-2.10/SF) |
+| Product Type | Abundancia Pricing (model) | Bastrop County Comparable | Context |
+|-------------|----------------------|--------------------------|--------------------------------------|
+| **Single-Family Hempcrete Home** | From ~$450/SF (entry anchor); blended realized ~$566/SF | $320K-480K ($187/SF county median — Redfin 5/2026) | Austin $1M+ homes avg $423/SF (Texas Realtors 2025); Barton Creek ~$553-802/SF; West Lake Hills ~$756/SF |
+| **Condominium** | Blended ~$400/SF | $180K-320K ($250-280/SF) | 200 for-sale condos in program (1BR 600SF / 2BR 850SF / 3BR 1,250SF); 275 condos total incl. 75 rental |
+| **Tiny Home** | ~$104K-$166K (~$416/SF) | $85K-175K ($250-350/SF) | 60 tiny homes (studio 232SF to 2BR 416SF) |
+| **Estate Lot** | Lot revenue per model | $55K-95K ($250-450K/acre) | 100 estate lots (full project); lot revenue $22.87M modeled 2028-2029 |
+| **Nature Stays (nightly)** | Glamping tents $150/nt; domes $275/nt; high-end domes $375/nt | — | 50 nature stays in rental program |
 
 ### 9.3 Premium Justification Framework
 
@@ -623,9 +633,9 @@ The Abundancia premium is decomposed into quantifiable value components:
 
 | Value Component | Estimated Premium Contribution | Basis |
 |----------------|:------------------------------:|-------|
-| **Conservation setting (70-75% preserved)** | 8-12% | Serenbe commands 25-40% with 70% greenspace; Abundancia is conservatively benchmarked |
-| **Community infrastructure (solar, fiber, water)** | 3-5% | Babcock Ranch achieves 10-15% for solar alone |
-| **Amenity package (retreat center, village, food forests)** | 3-6% | Mueller and Serenbe amenity premiums documented |
+| **Conservation setting (49% permanently preserved; ~4.3% structural footprint)** | 8-12% | Serenbe commands wellness-agrihood premiums with 70% greenspace; Abundancia is conservatively benchmarked |
+| **Community infrastructure (solar, fiber, water)** | 3-5% | Whisper Valley demonstrates east-Austin demand for zero-energy infrastructure |
+| **Amenity package (retreat operations, village, food forests)** | 3-6% | Serenbe amenity premiums documented |
 | **Hempcrete construction premium** | 2-4% | Superior performance (R-30+, fire rating, longevity); growing buyer awareness |
 | **Brand and lifestyle positioning** | 2-4% | Wellness economy buyer willingness to pay; scarcity of product |
 | **Scarcity value (limited units in conservation setting)** | 2-5% | Low density creates natural scarcity; waiting list model |
@@ -661,21 +671,21 @@ Absorption rate projections are derived from three analytical approaches:
 
 1. **Bottom-up**: Target buyer persona sizing, market penetration rates, and conversion funnel modeling
 2. **Top-down**: Bastrop County annual residential permits (2,800+), Abundancia's projected market share (2-3%)
-3. **Comparable benchmarking**: Serenbe (60-80 units/year), Whisper Valley (350-450 units/year), Cosmos Ranch (8-12 units/year)
+3. **Comparable benchmarking**: Serenbe (60-80 units/year) and Whisper Valley (350-450 units/year)
 
 ### 10.2 Projected Absorption by Phase
 
-| Phase | Year | SF Homes | Tiny/Dome | MF Units | Lots | Rental | Total Units | Revenue ($M) |
-|-------|------|:--------:|:---------:|:--------:|:----:|:------:|:-----------:|:------------:|
-| Phase 1 | Year 1 | 12 | 15 | 0 | 15 | 0 | 42 | $12.8 |
-| Phase 1 | Year 2 | 13 | 10 | 0 | 15 | 0 | 38 | $13.4 |
-| Phase 2 | Year 3 | 18 | 15 | 40 | 30 | 10 | 113 | $38.2 |
-| Phase 2 | Year 4 | 17 | 10 | 40 | 50 | 10 | 127 | $42.8 |
-| Phase 3 | Year 5 | 15 | 0 | 60 | 40 | 10 | 125 | $44.6 |
-| Phase 3 | Year 6 | 10 | 0 | 60 | 20 | 10 | 100 | $38.5 |
-| Phase 4 | Year 7 | 10 | 10 | 40 | 20 | 10 | 90 | $32.0 |
-| Phase 4 | Year 8 | 5 | 0 | 20 | 10 | 10 | 45 | $16.2 |
-| **Total** | | **100** | **60** | **260** | **200** | **60** | **680** | **$238.5** |
+| Phase | Year | SFR Homes | Tiny Homes | Condos | Estate Lots | Rental Condos | Notes |
+|-------|------|:--------:|:---------:|:--------:|:----:|:------:|:------------|
+| Predevelopment | 2026 | — | — | — | — | — | DD, watershed/hydrology, land closing, entitlements, MUD, capital close |
+| Groundbreaking | 2027 | — | — | — | — | — | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture |
+| First revenue | 2028 | Sales launch (model home) | 60 delivered | — | Lot sales launch | — | Hospitality opens; lot revenue $22.87M modeled 2028-2029 |
+| Scale-up | 2029 | 30 | — | 80 | Lot sales complete | 25 | School delivered |
+| Village | 2030 | 40 | — | 60 | — | 25 | Village + temple delivered |
+| Completion | 2031 | 30 (estate homes) | — | 60 | — | 25 | Construction complete |
+| **Total** | | **100** | **60** | **200 for sale** | **100 estate lots** | **75 rental condos** | **360 for-sale residences + 100 estate lots** |
+
+Modeled sale revenue: residential sales $249,152,934 + lot sales $22,872,273 = $272.0M (of $323.4M total 10-year revenue including rentals and commercial). First revenue 2028; cumulative break-even in 2029.
 
 ### 10.3 Absorption Scenario Analysis
 
@@ -717,7 +727,7 @@ Absorption rate projections are derived from three analytical approaches:
 | Risk Factor | Probability | Severity | Overall Risk | Mitigant |
 |------------|:-----------:|:--------:|:------------:|----------|
 | **Austin MSA economic recession** | Low-Medium | High | Medium | Diversified revenue streams; phasing flexibility; Texas economy more resilient than national |
-| **Interest rate increase (above 7.5%)** | Low | Medium | Low-Medium | Reg D 506(c) offering structure not mortgage-dependent; operational revenue offsets |
+| **Interest rate increase (above 7.5%)** | Low | Medium | Low-Medium | Private offering structure (subject to final documentation and review by securities counsel) not mortgage-dependent; operational revenue offsets |
 | **Construction cost escalation** | Medium | Medium | Medium | Hempcrete material cost declining; locked contracts; MUD bond infrastructure financing |
 | **Hempcrete regulatory/permitting delay** | Low | Medium | Low-Medium | ICC-ES evaluation report in process; Bastrop County code-friendly environment |
 | **Absorption rate below projection** | Medium | Medium | Medium | Phase gating; pre-sale requirements; demand across 6 buyer personas and 5 product types |
@@ -746,7 +756,7 @@ Absorption rate projections are derived from three analytical approaches:
 |------|:-----------:|:------:|------------|
 | **Hempcrete supply chain disruption** | Low-Medium | Medium | Multiple supplier relationships; domestic hemp processing scaling; inventory buffer |
 | **MUD bond issuance delay** | Low | Medium | Alternative infrastructure financing (private capital, phased investment); smaller initial scope |
-| **Environmental compliance (Houston toad)** | Low | High | LPHCP participation; 70-75% conservation design exceeds requirements; biologist on team |
+| **Environmental compliance (Houston toad)** | Low | High | Lost Pines HCP conservation-subdivision pathway; 184.5 acres (49%) permanently preserved with ~4.3% structural footprint; biologist on team |
 | **Community governance disputes** | Medium | Low-Medium | Clear governing documents; professional community management; conflict resolution framework |
 | **Brand / reputation risk** | Low | Medium | Authentic regenerative practices; third-party certifications; transparent reporting |
 | **Key-person risk (management)** | Medium | Medium | Deep management bench; documented systems and processes; advisory board |
@@ -780,11 +790,9 @@ Absorption rate projections are derived from three analytical approaches:
 
 | Development | Research Method | Data Confirmed |
 |-------------|---------------|----------------|
-| **Serenbe (GA)** | Public records, marketing materials, site visit, ULI case study | Pricing, absorption, conservation model |
-| **Babcock Ranch (FL)** | Public records, investor presentations, media coverage | Pricing, absorption, solar infrastructure |
-| **Whisper Valley (Austin)** | MLS data, marketing materials, builder consultations | Pricing, absorption, eco-features |
-| **Cosmos Ranch (Bastrop)** | Direct research, community outreach, county records | Pricing, scale, concept validation |
-| **Colony Park (Austin)** | City of Austin public records, development agreements | Mixed-income model, timeline |
+| **Serenbe (GA)** | Public records, marketing materials, site visit, ULI case study | Pricing, absorption, conservation model (1,200 acres; 750+ residents; homes from ~$375K) |
+| **Whisper Valley (Manor, TX)** | MLS data, marketing materials, builder consultations | Pricing ($300K-750K), absorption, geothermal/zero-energy features (~7,500 planned homes) |
+| **The Sanctuary** | Direct research (sanctuary.co) | Factual profile verified: Texas Hill Country ~25 min west of Austin near Dripping Springs; 104 acres, 116 lots (1.6-acre average); off-grid (rainwater harvesting + UV purification, greywater reuse); non-toxic materials, low-EMF design; 15 home plans (520 SF casita to 10-BR flagship); wellness amenities (meditation dome, devotion center, biohacking gym, bathhouse, edible garden, bee farm). Pricing and sales data being compiled |
 
 ### 12.3 Methodology Notes
 
@@ -802,10 +810,10 @@ Absorption rate projections are derived from three analytical approaches:
 
 ---
 
-*This Market Research Report was prepared for the exclusive use of accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. The information contained herein is believed to be reliable but is not guaranteed. Market conditions are subject to change. This document does not constitute an offer to sell or solicitation of an offer to buy securities. Investment decisions should be based on a thorough review of all offering documents, including the Private Placement Memorandum, Subscription Agreement, and Operating Agreement.*
+*This Market Research Report was prepared for the exclusive use of accredited investors evaluating a potential investment in Abundancia Community LLC. The information contained herein is believed to be reliable but is not guaranteed. Market conditions are subject to change. This document does not constitute an offer to sell or solicitation of an offer to buy securities. Investment decisions should be based on a thorough review of all offering documents, including the Private Placement Memorandum, Subscription Agreement, and Operating Agreement.*
 
 ---
 
 **Document 22** | Market Research Report
-**Abundancia Austin Holdings, LLC** | Confidential
-**March 2026** | Version 1.0
+**Abundancia Community LLC** | Confidential
+**July 2026** | Version 2.0

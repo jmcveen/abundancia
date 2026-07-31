@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,14 +9,14 @@
 ---
 
 **Document 23** | Data Room - Research
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
-> *This document contains confidential competitive intelligence and strategic analysis prepared for the exclusive use of accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. Competitive assessments are based on publicly available information, site visits, MLS data, county records, and proprietary research as of March 2026. Competitor strategies, pricing, and market positioning are subject to change. This document does not constitute an offer to sell or solicitation of an offer to buy securities. Distribution to unauthorized parties is strictly prohibited.*
+> *This document contains confidential competitive intelligence and strategic analysis prepared for the exclusive use of accredited investors evaluating a potential investment in Abundancia Community LLC. Competitive assessments are based on publicly available information, site visits, MLS data, county records, and proprietary research as of July 2026. Competitor strategies, pricing, and market positioning are subject to change. This document does not constitute an offer to sell or solicitation of an offer to buy securities. Distribution to unauthorized parties is strictly prohibited.*
 
 ---
 
@@ -42,24 +42,24 @@
 
 ### 1.1 Competitive Landscape Overview
 
-The Austin metropolitan area's residential development market is intensely competitive at the volume and production-builder level, but remarkably underserved in the eco-luxury and regenerative community segment. Abundancia Austin operates in a category with effectively zero direct competitors offering the same combination of regenerative construction (hempcrete), conservation-forward land planning (70-75% preserved), full community infrastructure (solar, fiber, water systems), and wellness programming (retreat center, food forests, ceremony spaces).
+The Austin metropolitan area's residential development market is intensely competitive at the volume and production-builder level, but remarkably underserved in the eco-luxury and regenerative community segment. Abundancia is positioned as a category-of-one, full-stack regenerative wellness community in Central Texas — no direct competitor offers the same combination of regenerative construction (hempcrete), conservation-forward land planning (184.5 of 376 acres — 49% — permanently preserved, with structures on only ~4.3% of the land), full community infrastructure (solar, fiber, water systems), and wellness programming (retreat operations, food forests, ceremony spaces).
 
 ### 1.2 Key Competitive Findings
 
 | Finding | Detail |
 |---------|--------|
-| **Direct competitors in Austin MSA** | 1 (Whisper Valley — eco-branded but fundamentally different product) |
-| **Direct competitors in Bastrop County** | 1 (Cosmos Ranch — similar ethos but 10x smaller scale) |
-| **National benchmark comparables** | 3 (Serenbe, Babcock Ranch, Agritopia — all outside Texas) |
-| **Competitive white space** | No development in the Austin MSA combines hempcrete, conservation, permaculture, and wellness community |
-| **Price positioning** | 15-30% premium over Bastrop County; 30-50% below Serenbe; 25-40% below Dripping Springs custom |
+| **Approved comparable set** | The Sanctuary; Whisper Valley (Manor, TX — eco-branded but fundamentally different product); Serenbe (GA — national benchmark) |
+| **Direct competitors in Austin MSA** | 1 (Whisper Valley — proves east-Austin sustainability demand; different product) |
+| **National benchmark comparables** | 1 (Serenbe, GA) |
+| **Competitive white space** | No development in the Austin MSA combines hempcrete, conservation, permaculture, and wellness community — a category of one |
+| **Price positioning** | Homes from approximately $450/SF (blended realized ~$566/SF SFR per model); premium to Bastrop County median ($187/SF, Redfin 5/2026); below Barton Creek (~$553-802/SF) and West Lake Hills (~$756/SF) |
 | **Primary competitive advantage** | Authenticity of regenerative model — not greenwashing; measurable carbon sequestration |
 | **Competitive vulnerability** | Execution risk; brand-building timeline; hempcrete market unfamiliarity |
 | **Moat durability** | Strong — 2-3 year development lead, regulatory relationships, proprietary construction expertise |
 
 ### 1.3 Competitive Position Statement
 
-Abundancia Austin occupies a unique position in the Austin residential market: the only conservation-community offering regenerative construction at scale in the fastest-growing corridor of one of America's fastest-growing metros. The nearest comparable product (Serenbe, outside Atlanta) validates the model at national scale but does not compete for the same buyer pool. Within the Austin MSA, Abundancia's competitive set is limited to developments that share one or two attributes but lack the integrated regenerative platform.
+Abundancia occupies a unique position in the Austin residential market: a category-of-one, full-stack regenerative wellness community — the only conservation-community offering regenerative construction at scale in the fastest-growing corridor of one of America's fastest-growing metros. The nearest comparable product (Serenbe, outside Atlanta) validates the model at national scale but does not compete for the same buyer pool. Within the Austin MSA, Abundancia's competitive set is limited to developments that share one or two attributes but lack the integrated regenerative platform.
 
 ---
 
@@ -71,10 +71,10 @@ Abundancia's competitive landscape is organized into four tiers based on degree 
 
 | Tier | Definition | Competitors | Threat Level |
 |------|-----------|-------------|:------------:|
-| **Tier 1: Direct** | Eco-branded communities in Austin MSA with sustainability positioning | Whisper Valley, Cosmos Ranch | Medium |
+| **Tier 1: Direct** | Eco-branded communities in Austin MSA with sustainability positioning | Whisper Valley, The Sanctuary | Medium |
 | **Tier 2: Adjacent** | Luxury master-planned communities in Austin MSA competing for lifestyle buyers | Dripping Springs developments, Serene Hills, Lakeway, Rough Hollow | Medium-High |
 | **Tier 3: Alternative** | Non-traditional housing (tiny home communities, cohousing, off-grid developments) | Community First! Village, various | Low-Medium |
-| **Tier 4: Aspirational** | National benchmark communities that validate the model but don't compete geographically | Serenbe (GA), Babcock Ranch (FL), Agritopia (AZ), Rancho Mission Viejo (CA) | None (benchmarks) |
+| **Tier 4: Aspirational** | National benchmark communities that validate the model but don't compete geographically | Serenbe (GA) | None (benchmark) |
 
 ### 2.2 Competitive Dimensions
 
@@ -104,9 +104,9 @@ Whisper Valley is the most directly comparable eco-branded development in the Au
 | **Developer** | Taurus Investment Holdings / EcoSmart Solution |
 | **Location** | East Austin, SH 130 / SH 45 intersection |
 | **Total Acreage** | 2,062 acres |
-| **Total Units Planned** | 7,500 homes |
+| **Total Units Planned** | ~7,500 zero-energy homes |
 | **Units Delivered (as of Q1 2026)** | ~2,000 |
-| **Price Range** | $290K-550K |
+| **Price Range** | $300K-750K |
 | **Median Price/SF** | $195-245/SF |
 | **Typical Lot Size** | 0.10-0.20 acre |
 | **Annual Absorption** | 350-450 units/year |
@@ -121,82 +121,52 @@ Whisper Valley is the most directly comparable eco-branded development in the Au
 |---------|---------------|------------------------|
 | **Zero-energy capable homes** | Geothermal + solar; designed to achieve net-zero energy | Abundancia: community solar + battery; off-grid capable |
 | **Geothermal HVAC** | GeoGrid shared geothermal system across community | Abundancia: passive cooling via hempcrete thermal mass + solar |
-| **Organic community farm** | Small community garden; limited food production | Abundancia: 50+ acres permaculture, food forests, farm-to-table restaurant |
+| **Organic community farm** | Small community garden; limited food production | Abundancia: 42 acres regenerative agriculture + 8.5 acres permaculture gardens, food forests, farm-to-table dining |
 | **Tesla Powerwall** | Battery backup for each home | Abundancia: community-scale battery + individual systems |
 | **EV charging** | Community EV charging stations | Abundancia: EV charging integrated into infrastructure |
 | **Fiber internet** | Google Fiber available | Abundancia: community fiber network |
-| **Trail system** | Hike/bike trails within development | Abundancia: extensive trail network through 250+ acres of conservation land |
+| **Trail system** | Hike/bike trails within development | Abundancia: extensive trail network through 184.5 acres of preserved land |
 
 #### Competitive Assessment
 
 | Dimension | Whisper Valley | Abundancia | Advantage |
 |-----------|:-----------:|:---------:|:---------:|
-| **Conservation** | 15-20% preserved | 70-75% preserved | Abundancia (+55%) |
-| **Building materials** | Standard frame + geothermal | Hempcrete (carbon-negative) | Abundancia |
-| **Energy** | Zero-energy capable; geothermal | Community solar + battery; off-grid | Comparable |
-| **Water** | Municipal water | Rainwater + greywater + advanced treatment | Abundancia |
-| **Food systems** | Small community garden | 50+ acres permaculture + restaurant | Abundancia |
-| **Wellness / community** | HOA-managed; limited programming | Retreat center, wellness pavilion, ceremony spaces | Abundancia |
-| **Price accessibility** | $290K-550K (broad range) | $125K-850K (broader range) | Abundancia |
-| **Scale / absorption** | 7,500 units; 400/yr | 680 units; 85/yr | Whisper Valley |
-| **Location** | East Austin; closer to urban core | SE corridor; 30 min from downtown | Whisper Valley |
-| **Brand maturity** | Established (2017 launch) | Pre-launch | Whisper Valley |
+| **Conservation** | 15-20% preserved | 49% permanently preserved (184.5 acres); ~4.3% structural footprint | Abundancia |
+| **Building materials** | Standard frame + geothermal | Hempcrete (carbon-sequestering, non-toxic) | Abundancia |
+| **Energy** | Zero-energy capable; geothermal | Community solar + battery; geothermal-ready | Comparable |
+| **Water** | Municipal water | Layered: Aqua WSC + wells + rainwater + AWG + greywater | Abundancia |
+| **Food systems** | Small community garden | 42 acres regenerative agriculture + 8.5 acres permaculture gardens + dining | Abundancia |
+| **Wellness / community** | HOA-managed; limited programming | Wellness/longevity center & spa, retreat stays, ceremony spaces | Abundancia |
+| **Price accessibility** | $300K-750K (broad range) | Tiny homes from ~$104K to estate homes (homes from ~$450/SF) | Abundancia |
+| **Scale / absorption** | ~7,500 units; 400/yr | ~501 structures + 100 estate lots (360 for-sale residences) | Whisper Valley (volume) |
+| **Location** | East Austin; closer to urban core | SH-71 corridor; 30-40 min downtown; 15-20 min ABIA | Whisper Valley |
+| **Brand maturity** | Established (2017 launch) | Pre-launch (10,000-person interest list, zero paid marketing) | Whisper Valley |
 
 **Strategic Implication:** Whisper Valley validates the eco-branded community model in the Austin market but serves a fundamentally different buyer: the production-home buyer who wants energy efficiency within a conventional suburban framework. Abundancia serves the buyer seeking deep sustainability, community, and lifestyle transformation. There is overlap in the "wellness-curious tech worker" segment, but the products are sufficiently differentiated that direct competition is limited. Whisper Valley is best understood as a market validator, not a head-to-head competitor.
 
 ---
 
-### 3.2 Cosmos Ranch — Bastrop County, TX
+### 3.2 The Sanctuary — Texas Hill Country (Dripping Springs area)
 
-Cosmos Ranch is the closest direct competitor to Abundancia in terms of philosophy and geographic proximity.
+The Sanctuary (sanctuary.co) is part of Abundancia's approved comparable set for the regenerative/wellness community category — a wellness-positioned, off-grid community in the Texas Hill Country approximately 25 minutes west of Austin, near Dripping Springs.
 
 | Parameter | Detail |
 |-----------|--------|
-| **Location** | Bastrop County, near Smithville |
-| **Total Acreage** | 135 acres |
-| **Total Units Planned** | 40-60 |
-| **Units Delivered (as of Q1 2026)** | 8-12 (early phase) |
-| **Price Range** | $200K-400K |
-| **Housing Types** | Custom homes, co-housing, tiny homes |
-| **Conservation** | 40-50% |
-| **Key Features** | Off-grid capable, food forests, shared spaces, intentional community governance |
-| **Annual Absorption** | 8-12 units/year |
-| **Distance from Abundancia** | ~18 miles southeast |
-| **Status** | Early development phase |
+| **Category** | Wellness/regenerative community comparable |
+| **Location** | Texas Hill Country, ~25 min west of Austin near Dripping Springs |
+| **Total Acreage** | 104 acres |
+| **Total Lots** | 116 lots (1.6-acre average) |
+| **Home Program** | 15 customizable home plans — from a 520 SF casita to a 10-bedroom flagship |
+| **Infrastructure** | Off-grid — rainwater harvesting + UV purification; greywater reuse |
+| **Building Standards** | Non-toxic materials; low-EMF design |
+| **Wellness Amenities** | Meditation dome, devotion center, biohacking gym, bathhouse, edible garden, bee farm |
+| **Pricing / Sales** | Pricing and sales data being compiled |
 
-#### Competitive Assessment
-
-| Dimension | Cosmos Ranch | Abundancia | Advantage |
-|-----------|:-----------:|:---------:|:---------:|
-| **Scale** | 40-60 units on 135 acres | 680 units on 376 acres | Abundancia |
-| **Infrastructure** | Limited; off-grid focus | Full community systems (solar, fiber, water, sewer) | Abundancia |
-| **Amenities** | Shared kitchen, garden | Retreat center, wellness pavilion, restaurant, village center | Abundancia |
-| **Building materials** | Varied (owner-built, some natural building) | Hempcrete (standardized, carbon-negative) | Abundancia |
-| **Conservation** | 40-50% | 70-75% | Abundancia |
-| **Price point** | $200K-400K | $125K-850K | Cosmos Ranch (lower entry) |
-| **Community ethos** | Strong intentional community culture | Designed for community with professional management | Cosmos Ranch (authenticity) |
-| **Financial sophistication** | Self-funded; limited investor structure | Reg D 506(c); institutional-grade | Abundancia |
-| **Absorption capacity** | 8-12/year | 85/year | Abundancia |
-
-**Strategic Implication:** Cosmos Ranch serves a more alternative, grassroots buyer who values DIY culture and minimal institutional structure. It validates demand for intentional eco-communities in Bastrop County but lacks the infrastructure, amenities, and financial scale to compete with Abundancia. The two developments could potentially be complementary — Cosmos Ranch serving a lower price point and more countercultural buyer, while Abundancia captures the premium wellness-lifestyle market. The primary risk is that Cosmos Ranch, if successful, could anchor expectations for lower pricing in the "Bastrop eco-community" category.
+**Strategic Implication (qualitative only):** The Sanctuary validates Austin-area demand for health-forward, off-grid, non-toxic community living — the same buyer values Abundancia serves. The concept differences are meaningful: The Sanctuary is a 104-acre lot-sale community of individual off-grid homesteads on 1.6-acre lots in the western Hill Country, while Abundancia is a 376-acre conservation community on the east/southeast (SH 71) growth corridor that adds 49% permanently preserved land, regenerative agriculture at scale (42 acres + 8.5 acres permaculture), hospitality and retreat operations, a commercial village, and mixed housing types from tiny homes to estate lots. No pricing, absorption, or premium comparison is made — The Sanctuary's pricing and sales data are being compiled.
 
 ---
 
-### 3.3 Rancho Milagro — Bastrop County, TX
-
-| Parameter | Detail |
-|-----------|--------|
-| **Location** | Bastrop County, near Elgin |
-| **Total Acreage** | 80 acres |
-| **Concept** | Small-scale ranch community; sustainable homesteads |
-| **Units Planned** | 15-20 ranchettes |
-| **Price Range** | $350K-600K (lot + basic infrastructure) |
-| **Key Features** | Large lots (2-5 acres), agricultural use, equestrian, minimal common infrastructure |
-| **Conservation** | 20-30% (riparian corridors) |
-| **Status** | Lots available; limited vertical construction |
-| **Relevance** | Validates demand for rural-premium lifestyle lots in Bastrop County; not a true community model |
-
-### 3.4 Various Austin-Area Ecovillage Proposals
+### 3.3 Various Austin-Area Ecovillage Proposals
 
 Several intentional community / ecovillage proposals have been floated in the Austin area in recent years. Most have not advanced beyond the planning stage due to insufficient capitalization, permitting challenges, or lack of development expertise.
 
@@ -229,13 +199,13 @@ The Dripping Springs corridor is Austin's established luxury-lifestyle submarket
 
 | Dimension | Dripping Springs (Typical) | Abundancia | Advantage |
 |-----------|:------------------------:|:---------:|:---------:|
-| **Price point** | $450K-1.5M | $125K-850K | Abundancia (broader access) |
-| **Price/SF** | $250-400/SF | $250-365/SF | Comparable |
-| **Conservation** | 10-25% (typical) | 70-75% | Abundancia |
-| **Sustainability** | Minimal (standard construction) | Carbon-negative hempcrete | Abundancia |
-| **Energy** | Grid-dependent | Solar + battery + off-grid capable | Abundancia |
-| **Food systems** | None | 50+ acres permaculture | Abundancia |
-| **Wellness amenities** | Pool, gym, trails | Full retreat center, ceremony, yoga | Abundancia |
+| **Price point** | $450K-1.5M | Tiny homes from ~$104K to estate homes; homes from ~$450/SF | Abundancia (broader access) |
+| **Price/SF** | $250-400/SF | From ~$450/SF (blended ~$566/SF SFR; ~$400/SF condo; ~$416/SF tiny) | Premium justified by regenerative platform |
+| **Conservation** | 10-25% (typical) | 49% permanently preserved (184.5 acres); ~4.3% structural footprint | Abundancia |
+| **Sustainability** | Minimal (standard construction) | Carbon-sequestering, non-toxic hempcrete | Abundancia |
+| **Energy** | Grid-dependent | Solar + battery; geothermal-ready | Abundancia |
+| **Food systems** | None | 42 acres regenerative agriculture + 8.5 acres permaculture gardens | Abundancia |
+| **Wellness amenities** | Pool, gym, trails | Wellness/longevity center & spa, retreat stays, ceremony, yoga | Abundancia |
 | **Schools** | Dripping Springs ISD (highly rated) | Bastrop ISD (improving) | Dripping Springs |
 | **Brand prestige** | Established Hill Country luxury brand | New; building brand | Dripping Springs |
 | **Proximity to Austin** | 25-35 min | 30-40 min | Comparable |
@@ -277,7 +247,6 @@ Several conventional subdivisions in Bastrop County compete for the same geograp
 
 | Development | Location | Lots/Units | Price Range | Builder | Differentiation from Abundancia |
 |------------|----------|-----------|-------------|---------|-------------------------------|
-| **The Colony (Bastrop)** | SH 71 corridor | 1,200 (planned) | $275K-500K | National builders | Scale; production pricing; no sustainability features |
 | **Piney Creek Bend** | Bastrop | 500+ | $250K-425K | Various | Conventional suburb; schools focus |
 | **Tahitian Village** | Bastrop | 2,000+ lots | $150K-350K | Various/custom | Large-lot; minimal infrastructure; legacy platting |
 | **Hunters Crossing** | Bastrop | 1,000+ | $225K-400K | National builders | Affordable new construction; no lifestyle positioning |
@@ -289,7 +258,7 @@ Several conventional subdivisions in Bastrop County compete for the same geograp
 
 ## 5. National Benchmark Competitors
 
-These developments do not compete geographically but serve as the most important benchmarks for validating Abundancia's model, pricing, and absorption projections.
+Serenbe (GA) — the approved national benchmark — does not compete geographically but serves as the most important benchmark for validating Abundancia's model, pricing, and absorption projections.
 
 ### 5.1 Serenbe — Chattahoochee Hills, GA
 
@@ -299,21 +268,20 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 |-----------|--------|
 | **Developer** | Serenbe Communities (Steve Nygren) |
 | **Location** | 30 miles south of Atlanta, GA |
-| **Total Acreage** | 1,000 acres (master plan); 15,000 acres greenspace context |
-| **Total Units Planned** | 1,200 homes |
-| **Units Delivered (Q1 2026)** | ~750 |
-| **Price Range** | $500K-2.5M+ |
-| **Median Price/SF** | $325-425/SF |
+| **Total Acreage** | 1,200 acres |
+| **Community** | 750+ residents |
+| **Price Range** | Homes from ~$375K to $2.5M+ |
+| **Median Price/SF** | $325-425/SF (est.) |
 | **Conservation** | 70% greenspace preserved |
 | **Annual Absorption** | 60-80 units/year |
-| **Premium over Market** | 25-40% above comparable non-community homes |
+| **Premium over Market** | Documented wellness-agrihood premiums above comparable non-community homes |
 | **Years in Operation** | 18+ years (founded 2004; first homes 2008) |
 
 #### Serenbe Feature Analysis
 
 | Feature | Detail | Abundancia Comparison |
 |---------|--------|----------------------|
-| **Conservation model** | 70% preserved; 25-acre organic farm | 70-75% preserved; 50+ acres permaculture |
+| **Conservation model** | 70% greenspace preserved; 25-acre organic farm | 49% permanently preserved (184.5 acres, ~4.3% structural footprint); 42 acres regenerative agriculture + 8.5 acres permaculture gardens |
 | **Architecture** | Biophilic design; Southern vernacular | Hempcrete; regenerative modern |
 | **Farm-to-table** | The Farmhouse restaurant; community farm | On-site restaurant; food forests; community agriculture |
 | **Wellness** | Serenbe Wellness (spa, fitness) | Full retreat center, ceremony spaces, yoga pavilion |
@@ -323,7 +291,7 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 | **Commercial** | Village with shops, restaurants, offices | Village center planned |
 | **Energy** | Grid-connected; some solar | Community solar + battery; off-grid capable |
 | **Water** | Municipal/well | Rainwater + greywater + advanced treatment |
-| **Building materials** | Conventional frame + sustainable finishes | Hempcrete (carbon-negative) |
+| **Building materials** | Conventional frame + sustainable finishes | Hempcrete (carbon-sequestering, non-toxic) |
 
 #### Key Learnings from Serenbe
 
@@ -339,69 +307,7 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 
 ---
 
-### 5.2 Babcock Ranch — Punta Gorda, FL
-
-| Parameter | Detail |
-|-----------|--------|
-| **Developer** | Kitson & Partners |
-| **Location** | Southwest Florida, Punta Gorda |
-| **Total Acreage** | 17,600 acres |
-| **Total Units Planned** | 19,500 homes |
-| **Units Delivered (Q1 2026)** | ~5,000 |
-| **Price Range** | $250K-1.2M |
-| **Key Feature** | 150 MW solar farm; first solar-powered town in America |
-| **Conservation** | 50% (purchased from state preserve) |
-| **Annual Absorption** | ~1,200 units/year |
-| **Hurricane Ian (2022)** | Survived Category 4 hurricane with minimal damage — international media coverage |
-| **Relevance** | Validates solar-powered, resilience-branded community at massive scale |
-
-#### Key Learnings from Babcock Ranch
-
-| Lesson | Detail | Application to Abundancia |
-|--------|--------|--------------------------|
-| **Resilience sells** | Hurricane Ian survival generated massive brand value; absorption accelerated post-Ian | Market hempcrete fire resistance, water independence, and off-grid capability as resilience features |
-| **Solar is a commodity feature** | Initially differentiating; now becoming standard in FL | Abundancia must go beyond solar — hempcrete, food systems, wellness are deeper differentiators |
-| **Scale attracts national builders** | D.R. Horton, Lennar, Pulte all build at Babcock | Abundancia's smaller scale requires custom/regional builder strategy |
-| **Brand marketing drives absorption** | $10M+ in earned media from Hurricane Ian story | Invest in brand story; hempcrete carbon story is uniquely compelling |
-
----
-
-### 5.3 Agritopia — Gilbert, AZ
-
-| Parameter | Detail |
-|-----------|--------|
-| **Developer** | Johnston family |
-| **Location** | Gilbert, AZ (Phoenix metro) |
-| **Total Acreage** | 160 acres |
-| **Units** | ~450 homes |
-| **Price Range** | $400K-1.5M |
-| **Key Feature** | Working farm at community center; farm-to-table restaurant (Joe's Farm Grill) |
-| **Conservation** | 25% (agricultural use) |
-| **Relevance** | Validates agri-community model; farm as amenity and profit center |
-
-#### Key Learnings from Agritopia
-
-| Lesson | Detail | Application to Abundancia |
-|--------|--------|--------------------------|
-| **Farm as brand anchor** | Joe's Farm Grill is a regional destination; drives awareness | Abundancia restaurant should be destination-quality; not just for residents |
-| **Agricultural premium** | 15-25% above Gilbert comparable housing | Validates food-system premium for Abundancia |
-| **Multi-generational appeal** | Farm attracts families, retirees, young professionals equally | Design food systems and restaurant for all demographics |
-| **Operational complexity** | Farm requires dedicated management; not passive amenity | Budget for professional agricultural management; permaculture designer |
-
----
-
-### 5.4 Rancho Mission Viejo — Orange County, CA
-
-| Parameter | Detail |
-|-----------|--------|
-| **Developer** | Rancho Mission Viejo LLC |
-| **Location** | South Orange County, CA |
-| **Total Acreage** | 23,000 acres (master plan) |
-| **Units** | 14,000 homes planned |
-| **Price Range** | $600K-3.0M+ |
-| **Conservation** | 65% open space/conservation |
-| **Key Feature** | The Ranch (working cattle ranch, organic farming, equestrian, trails) |
-| **Relevance** | Demonstrates premium conservation-community at institutional scale in premium market |
+*Note (July 2026 review): Non-approved benchmark profiles (out-of-state developments other than Serenbe) have been removed from the data room per the approved comparable set: The Sanctuary, Whisper Valley, and Serenbe.*
 
 ---
 
@@ -409,44 +315,47 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 
 ### 6.1 Comprehensive Feature Comparison
 
-| Feature | Abundancia Austin | Whisper Valley | Cosmos Ranch | Serenbe (GA) | Babcock Ranch (FL) | Dripping Springs (Avg.) |
-|---------|:-----------------:|:--------------:|:------------:|:------------:|:------------------:|:----------------------:|
-| **Conservation %** | 70-75% | 15-20% | 40-50% | 70% | 50% | 10-25% |
-| **Hempcrete construction** | Yes | No | Partial | No | No | No |
-| **Carbon-negative building** | Yes | No | No | No | No | No |
-| **Community solar** | Yes | Yes (geothermal + solar) | Partial (individual) | Partial | Yes (150 MW) | No |
-| **Battery storage** | Yes (community + individual) | Yes (Powerwall) | Individual | No | No | No |
-| **Off-grid capable** | Yes | No | Yes | No | No | No |
-| **Rainwater harvesting** | Yes (community) | No | Yes (individual) | No | No | No |
-| **Greywater reuse** | Yes | No | Partial | No | No | No |
-| **Permaculture / food forests** | 50+ acres | Small garden | Yes (small scale) | 25 acres | Minimal | No |
-| **Farm-to-table restaurant** | Yes | No | No | Yes | Yes (limited) | No |
-| **Retreat center** | Yes (35 rooms) | No | Shared spaces only | Yes (spa/wellness) | No | No |
-| **Yoga / meditation pavilion** | Yes | No | Informal | Yes | No | No |
-| **Ceremony / sacred spaces** | Yes | No | Yes | No | No | No |
-| **Fiber internet** | Yes (community) | Yes (Google Fiber) | No | Yes | Yes | Varies |
-| **EV charging** | Yes | Yes | No | Yes | Yes | Varies |
-| **Trail system** | 10+ miles | Yes | Limited | 15+ miles | Yes | Varies |
-| **Mixed housing types** | 5+ types | 1 (SF homes) | 3+ types | 4+ types | 3+ types | 1-2 types |
-| **STR-friendly** | Yes | HOA restrictions | Yes | Limited | Yes | Varies |
-| **MUD infrastructure financing** | Yes | No (municipal) | No | No | No (CDD) | Varies |
-| **Agricultural tax exemption** | Yes | No | Yes | No | No | Varies |
+| Feature | Abundancia | Whisper Valley | The Sanctuary | Serenbe (GA) | Dripping Springs (Avg.) |
+|---------|:-----------------:|:--------------:|:------------:|:------------:|:----------------------:|
+| **Conservation %** | 49% permanently preserved (~4.3% structural footprint) | 15-20% | [TO CONFIRM] | 70% | 10-25% |
+| **Hempcrete construction** | Yes | No | [TO CONFIRM] | No | No |
+| **Carbon-sequestering building** | Yes | No | [TO CONFIRM] | No | No |
+| **Community solar** | Yes | Yes (geothermal + solar) | [TO CONFIRM] | Partial | No |
+| **Battery storage** | Yes (community + individual) | Yes (Powerwall) | [TO CONFIRM] | No | No |
+| **Geothermal** | Geothermal-ready | Yes (GeoGrid) | [TO CONFIRM] | No | No |
+| **Rainwater harvesting** | Yes (every building) | No | Yes (off-grid: rainwater + UV purification) | No | No |
+| **Greywater reuse** | Yes | No | Yes | No | No |
+| **Non-toxic building standards** | Yes (hempcrete throughout) | No | Yes (non-toxic materials; low-EMF design) | Partial (sustainable finishes) | No |
+| **Permaculture / regenerative agriculture** | 42 acres + 8.5 acres gardens | Small garden | Edible garden + bee farm | 25 acres | No |
+| **Farm-to-table dining** | Yes | No | [TO CONFIRM] | Yes | No |
+| **Retreat stays** | Yes (6BR event house + unique regenerative stays) | No | [TO CONFIRM] | Yes (spa/wellness) | No |
+| **Yoga / meditation** | Yes (2,000 SF studio) | No | Yes (meditation dome; biohacking gym, bathhouse) | Yes | No |
+| **Ceremony / sacred spaces** | Yes (Sacred Temple Complex) | No | Yes (devotion center) | No | No |
+| **Fiber internet** | Yes (community) | Yes (Google Fiber) | [TO CONFIRM] | Yes | Varies |
+| **EV charging** | Yes (~1 per 3 structures) | Yes | [TO CONFIRM] | Yes | Varies |
+| **Trail system** | Yes, through preserved land | Yes | [TO CONFIRM] | 15+ miles | Varies |
+| **Mixed housing types** | 5+ types (SFR, condo, tiny home, dome, estate lot) | 1 (SF homes) | 15 customizable home plans (520 SF casita to 10-BR flagship) | 4+ types | 1-2 types |
+| **STR-friendly** | Yes | HOA restrictions | [TO CONFIRM] | Limited | Varies |
+| **MUD infrastructure financing** | Yes (formation engineering underway — Fred Haas PE) | No (municipal) | [TO CONFIRM] | No | Varies |
+| **Agricultural tax exemption** | Yes | No | [TO CONFIRM] | No | Varies |
 
 ### 6.2 Scoring Matrix (Weighted)
 
-| Dimension (Weight) | Abundancia | Whisper Valley | Cosmos Ranch | Serenbe | Babcock Ranch | Dripping Springs |
-|-------------------|:----------:|:--------------:|:------------:|:-------:|:-------------:|:----------------:|
-| **Conservation (15%)** | 9.5 | 4.0 | 7.0 | 9.0 | 7.0 | 3.5 |
-| **Building Materials (15%)** | 9.5 | 5.5 | 6.0 | 5.0 | 4.0 | 3.0 |
-| **Energy (10%)** | 9.0 | 8.5 | 6.5 | 5.0 | 8.5 | 3.0 |
-| **Water (10%)** | 9.0 | 3.0 | 7.0 | 4.0 | 3.0 | 3.0 |
-| **Food Systems (10%)** | 9.0 | 3.0 | 6.0 | 8.0 | 3.0 | 1.0 |
-| **Community/Wellness (15%)** | 9.0 | 4.0 | 7.0 | 8.5 | 4.0 | 4.0 |
-| **Financial Accessibility (10%)** | 8.5 | 7.5 | 7.0 | 5.0 | 8.0 | 4.0 |
-| **Location/Connectivity (15%)** | 7.5 | 8.0 | 6.0 | 6.5 | 5.0 | 7.5 |
-| **Weighted Total** | **8.88** | **5.63** | **6.56** | **6.69** | **5.44** | **3.75** |
+| Dimension (Weight) | Abundancia | Whisper Valley | Serenbe | Dripping Springs |
+|-------------------|:----------:|:--------------:|:-------:|:----------------:|
+| **Conservation (15%)** | 9.0 | 4.0 | 9.0 | 3.5 |
+| **Building Materials (15%)** | 9.5 | 5.5 | 5.0 | 3.0 |
+| **Energy (10%)** | 9.0 | 8.5 | 5.0 | 3.0 |
+| **Water (10%)** | 9.0 | 3.0 | 4.0 | 3.0 |
+| **Food Systems (10%)** | 9.0 | 3.0 | 8.0 | 1.0 |
+| **Community/Wellness (15%)** | 9.0 | 4.0 | 8.5 | 4.0 |
+| **Financial Accessibility (10%)** | 8.5 | 7.5 | 5.0 | 4.0 |
+| **Location/Connectivity (15%)** | 7.5 | 8.0 | 6.5 | 7.5 |
+| **Weighted Total** | **8.80** | **5.63** | **6.69** | **3.75** |
 
-**Interpretation:** Abundancia achieves the highest weighted score across all competitive dimensions, driven by its comprehensive integration of regenerative systems. Serenbe scores highest among comparables due to its mature community and conservation model. Whisper Valley scores well on energy but poorly on conservation, food, and wellness. Conventional Dripping Springs developments score lowest due to their limited sustainability and community infrastructure.
+*(The Sanctuary is profiled factually in Section 3.2; weighted scoring will be added once its pricing and sales data are compiled — no pricing or absorption claims are made in the interim.)*
+
+**Interpretation:** Abundancia achieves the highest weighted score across all competitive dimensions, driven by its comprehensive integration of regenerative systems — the basis of its category-of-one, full-stack regenerative wellness positioning in Central Texas. Serenbe scores highest among comparables due to its mature community and conservation model. Whisper Valley scores well on energy but lower on conservation, food, and wellness. Conventional Dripping Springs developments score lowest due to their limited sustainability and community infrastructure.
 
 ---
 
@@ -458,28 +367,27 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 
 | Community | Price Range | Price/SF | Lot Size | Key Features | Buyer Profile |
 |-----------|-----------|---------|---------|-------------|--------------|
-| **Abundancia** | $450K-850K | $250-305 | 0.20-0.35 acre | Hempcrete, solar, conservation | Wellness-lifestyle |
-| Whisper Valley | $290K-550K | $195-245 | 0.10-0.20 acre | Geothermal, zero-energy | Eco-curious suburban |
+| **Abundancia** | From ~$450/SF (entry anchor); blended realized ~$566/SF per model | ~$566 (blended) | 1BR 1,000 SF to 7BR 5,000 SF | Hempcrete, solar, conservation | Wellness-lifestyle |
+| Whisper Valley | $300K-750K | $195-245 | 0.10-0.20 acre | Geothermal, zero-energy | Eco-curious suburban |
 | Dripping Springs (avg.) | $450K-1.2M | $250-350 | 0.15-1.0 acre | Hill Country, conventional | Status-lifestyle |
 | Serene Hills | $600K-1.8M | $300-425 | 0.25-0.50 acre | Lake views, custom | Luxury |
-| Bastrop new construction | $320K-480K | $175-195 | 0.15-0.30 acre | Standard suburban | Value-oriented |
-| Serenbe (GA) | $500K-2.5M | $325-425 | 0.10-0.30 acre | Biophilic, conservation | Wellness-luxury |
+| Bastrop new construction | $320K-480K | $187 (county median — Redfin 5/2026) | 0.15-0.30 acre | Standard suburban | Value-oriented |
+| Serenbe (GA) | From ~$375K | $325-425 (est.) | 0.10-0.30 acre | Biophilic, conservation | Wellness-luxury |
 
 #### Alternative Housing (Tiny Homes, Domes)
 
 | Community | Price Range | Price/SF | Size Range | Key Features |
 |-----------|-----------|---------|-----------|-------------|
-| **Abundancia Tiny** | $125K-185K | $310-365 | 400-600 SF | Hempcrete, full infrastructure, community access |
-| **Abundancia Dome** | $150K-250K | $280-310 | 500-900 SF | Geodesic, turnkey, STR potential |
+| **Abundancia Tiny** | ~$104K-$166K (per model) | ~$416 | 232-416 SF | Hempcrete, full infrastructure, community access |
+| **Abundancia Dome** | [TO CONFIRM — per model] | [TO CONFIRM] | [TO CONFIRM] | Geodesic, turnkey; domes also operate as nature-stay rentals ($275-375/night) |
 | Community First! Village | $100K-150K | $375-500 | 200-400 SF | Nonprofit model; formerly homeless |
 | Austin area tiny home communities | $85K-175K | $250-350 | 300-600 SF | Limited infrastructure; varied quality |
-| Cosmos Ranch (custom) | $200K-400K | Varies | Varies | Owner-built; limited infrastructure |
 
 #### Prepared Lots
 
 | Community | Price Range | Lot Size | Infrastructure | Conservation Context |
 |-----------|-----------|---------|---------------|---------------------|
-| **Abundancia** | $75K-175K | 0.15-0.35 acre | Full (solar, fiber, water, sewer) | 70-75% community conservation |
+| **Abundancia (estate lots)** | Lot revenue per model | ~1/3-acre, half-acre, one-acre mix (100 estate lots, full project) | Full (solar, fiber, water) | 49% community conservation |
 | Bastrop County (improved) | $55K-95K | 0.15-0.30 acre | Roads, utilities | None |
 | Whisper Valley | $80K-120K | 0.10-0.15 acre | Full | 15-20% community greenspace |
 | Dripping Springs | $125K-350K | 0.25-1.0 acre | Varies | Varies (10-25%) |
@@ -491,11 +399,11 @@ The following framework positions Abundancia relative to competitors on two axes
 
 | Quadrant | Position | Communities |
 |----------|----------|-------------|
-| **High Price / High Value** | Premium justified | **Serenbe**, Rancho Mission Viejo |
-| **Moderate Price / High Value** | Value play; highest ROI potential | **Abundancia Austin** |
+| **High Price / High Value** | Premium justified | **Serenbe** |
+| **Moderate Price / High Value** | Value play; highest ROI potential | **Abundancia** |
 | **High Price / Low Value** | Overpriced; vulnerable | Serene Hills, some Dripping Springs |
 | **Low Price / Low Value** | Commodity housing | Bastrop conventional, Easton Park |
-| **Low Price / Moderate Value** | Accessible eco-branded | Whisper Valley, Cosmos Ranch |
+| **Low Price / Moderate Value** | Accessible eco-branded | Whisper Valley |
 
 **Key Insight:** Abundancia occupies the strategically optimal quadrant — high lifestyle/sustainability value at moderate (relative to comparable conservation communities) pricing. This positions Abundancia as a "value play" relative to Serenbe's pricing while offering a premium experience relative to Whisper Valley and conventional developments.
 
@@ -507,14 +415,14 @@ The following framework positions Abundancia relative to competitors on two axes
 
 | Strength | Detail | Competitive Impact |
 |----------|--------|-------------------|
-| **Only hempcrete community in Texas** | No competitor offers carbon-negative construction at community scale | Unique market position; measurable ESG differentiation |
-| **70-75% conservation** | Highest conservation ratio of any development in Austin MSA | Scarcity premium; environmental credibility; Houston toad compliance |
-| **Integrated food systems** | 50+ acres permaculture; farm-to-table restaurant; food forests | No competitor offers anything comparable within 100 miles |
-| **Full infrastructure independence** | Solar + battery + rainwater + greywater + fiber | Climate resilience story; off-grid capability; lower operating costs |
-| **Diversified product mix** | 5+ housing types across $125K-850K price range | Broader addressable market; absorption resilience across cycles |
-| **Bastrop County regulatory environment** | No zoning; 6-12 month permitting; MUD availability; ag exemption | Lower cost, faster timeline, greater flexibility than Travis County |
-| **Reg D 506(c) capital structure** | Accredited investor offering with institutional governance | Professional investor base; aligned incentives |
-| **SH 71 corridor location** | 30 min from Austin; 20 min from Tesla; 22 min from ABIA | Strong connectivity to employment and transit hubs |
+| **Only hempcrete community in Texas** | No competitor offers carbon-sequestering hempcrete construction at community scale | Unique market position; measurable ESG differentiation |
+| **49% permanent conservation; ~4.3% structural footprint** | Among the highest conservation ratios of any development in Austin MSA (184.5 of 376 acres) | Scarcity premium; environmental credibility; Houston toad / Lost Pines HCP conservation-subdivision pathway |
+| **Integrated food systems** | 42 acres regenerative agriculture + 8.5 acres permaculture gardens; farm-to-table dining; food forests | No competitor offers anything comparable within 100 miles |
+| **Layered infrastructure resilience** | Solar + battery + layered water (Aqua WSC, wells, rainwater, AWG, greywater) + fiber | Climate resilience story; lower operating costs |
+| **Diversified product mix** | 5+ housing types from ~$104K tiny homes to estate homes | Broader addressable market; absorption resilience across cycles |
+| **Bastrop County regulatory environment** | No county zoning (mixed use by right); 12-16 month permitting est.; MUD availability (formation engineering underway); ag exemption | Lower cost, faster timeline, greater flexibility than Travis County |
+| **Private capital structure** | Accredited investor offering with institutional governance (subject to final documentation and review by securities counsel) | Professional investor base; aligned incentives |
+| **SH 71 corridor location** | 30-40 min downtown Austin; ~20 min from Tesla; 15-20 min from ABIA | Strong connectivity to employment and transit hubs |
 | **Wellness programming depth** | Retreat center, ceremony spaces, yoga pavilion, wellness practitioners | Creates recurring revenue and community culture that competitors cannot easily replicate |
 | **First-mover advantage** | No comparable product in market; 2-3 year development lead time | Brand establishment window; relationship building with buyers and partners |
 
@@ -555,7 +463,7 @@ The following framework positions Abundancia relative to competitors on two axes
 | **Major developer enters eco-community space** | D.R. Horton, Lennar, or similar launches eco-branded development in Bastrop | Differentiation on depth (hempcrete, food systems, wellness) vs. greenwashing; brand loyalty |
 | **Whisper Valley expansion toward Abundancia's market** | WV launches premium tier or conservation sub-community | Maintain differentiation on conservation %, building materials, and community depth |
 | **Economic recession reduces demand** | Austin MSA slowdown impacts absorption across all segments | Phase gating; pivot to rental/STR; retreat revenue provides counter-cyclical buffer |
-| **Interest rate spike** | Rates above 7.5% significantly impact mortgage-dependent sales | Cash/equity buyer focus; Reg D structure less rate-sensitive; investor demand may increase |
+| **Interest rate spike** | Rates above 7.5% significantly impact mortgage-dependent sales | Cash/equity buyer focus; private-offering structure less rate-sensitive; investor demand may increase |
 | **Hempcrete regulatory challenge** | Building code resistance from inspectors or lenders | ICC-ES evaluation; Bastrop County relationships; education; fallback to conventional green construction |
 | **Negative media / brand event** | Construction defect, environmental incident, community dispute | Professional management; insurance; transparent communication; crisis PR plan |
 | **Water scarcity / drought** | Extended drought impacts community water systems | Multiple water sources; conservation-level usage design; storage capacity; greywater systems |
@@ -575,28 +483,28 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 
 | Aspect | Detail |
 |--------|--------|
-| **What** | Hempcrete (hemp hurd + lime binder) — the only carbon-negative building material at structural scale |
+| **What** | Hempcrete (hemp hurd + lime binder) — a carbon-sequestering, non-toxic building envelope material used as infill around conventional structural frames |
 | **Why it matters** | ~165 kg CO2 sequestered per m3 of wall; auditable, verifiable carbon impact |
 | **Competitive barrier** | Requires specialized knowledge, supply chain relationships, trained labor, and code compliance expertise |
 | **Time to replicate** | 2-3 years minimum for a competitor to develop hempcrete competency |
 | **Market position** | Only hempcrete community in Texas; one of fewer than 10 in the United States |
 | **Performance advantages** | R-30+ insulation, 2+ hour fire rating, hygroscopic moisture management, 500+ year lifespan, naturally pest-resistant |
 
-#### Differentiator 2: Conservation-First Land Planning (70-75%)
+#### Differentiator 2: Conservation-First Land Planning (49% preserved; ~4.3% structural footprint)
 
 | Aspect | Detail |
 |--------|--------|
-| **What** | 70-75% of 376 acres permanently conserved; development concentrated on 25-30% |
-| **Why it matters** | Creates scarcity, premium pricing, ecological credibility, and Houston toad compliance |
+| **What** | 184.5 of 376 acres (49%) permanently preserved; structures occupy only ~16.1 acres (~4.3% of the land) |
+| **Why it matters** | Creates scarcity, premium pricing, ecological credibility, and Houston toad / Lost Pines HCP alignment (conservation-subdivision pathway) |
 | **Competitive barrier** | Requires willingness to leave revenue-generating land undeveloped; fundamentally different economics |
-| **Market comparison** | Whisper Valley: 15-20%; Babcock Ranch: 50%; Serenbe: 70%; Conventional: 5-15% |
+| **Market comparison** | Whisper Valley: 15-20%; Serenbe: 70% greenspace; Conventional: 5-15% |
 | **Financial implication** | Higher revenue/developed acre compensates for lower overall density |
 
 #### Differentiator 3: Integrated Food Sovereignty
 
 | Aspect | Detail |
 |--------|--------|
-| **What** | 50+ acres of permaculture, food forests, regenerative agriculture; farm-to-table restaurant |
+| **What** | 42 acres of regenerative agriculture + 8.5 acres of permaculture gardens & barns (50+ acres total); food forests; farm-to-table dining |
 | **Why it matters** | Food security, nutrition quality, community gathering, educational value, brand story |
 | **Competitive barrier** | Requires agricultural expertise, significant land allocation, restaurant operations management |
 | **Market comparison** | Serenbe: 25 acres + restaurant (proven model); Whisper Valley: small garden; Others: none |
@@ -606,11 +514,11 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 
 | Aspect | Detail |
 |--------|--------|
-| **What** | 35-room retreat center, wellness pavilion, yoga studio, ceremony spaces, healing modalities |
+| **What** | Retreat operations (6BR event house + unique regenerative stays), 5,000 SF Wellness/Longevity Center & Spa, yoga & meditation studio, Sacred Temple Complex, healing modalities |
 | **Why it matters** | Creates recurring revenue, attracts wellness-oriented buyers, builds community culture |
-| **Competitive barrier** | Capital investment ($3-5M); requires programming expertise and wellness professional network |
+| **Competitive barrier** | Capital investment; requires programming expertise and wellness professional network |
 | **Market comparison** | No residential development in Austin MSA offers this depth of wellness infrastructure |
-| **Revenue potential** | Retreat operations: $1.4-1.8M/year; event hosting: $300K-500K/year |
+| **Revenue potential** | Per financial model rental and commercial revenue lines [detailed schedule available on request] |
 
 #### Differentiator 5: Complete Infrastructure Independence
 
@@ -619,7 +527,7 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 | **What** | Community solar + battery, rainwater harvesting, greywater reuse, advanced water treatment, fiber network |
 | **Why it matters** | Resilience against grid failures, drought, and natural disasters; lower operating costs; environmental impact |
 | **Competitive barrier** | Requires integrated systems design; higher upfront capital; engineering expertise |
-| **Market comparison** | Babcock Ranch: solar only; Whisper Valley: geothermal + solar; Others: grid-dependent |
+| **Market comparison** | Whisper Valley: geothermal + solar; Others: grid-dependent |
 | **Resilience narrative** | Post-Winter Storm Uri (2021) and Hurricane Harvey (2017), Texans value energy/water independence |
 
 ### 9.2 Differentiation Sustainability Assessment
@@ -627,7 +535,7 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 | Differentiator | Durability | Replicability | Investment to Replicate | Time to Replicate |
 |----------------|:----------:|:-------------:|:----------------------:|:-----------------:|
 | Hempcrete construction | High | Low | $2-5M (expertise, supply chain, labor training) | 2-3 years |
-| 70-75% conservation | High | Medium | Requires land acquisition at favorable basis | 1-2 years |
+| 49% permanent conservation (~4.3% structural footprint) | High | Medium | Requires land acquisition at favorable basis | 1-2 years |
 | Integrated food systems | High | Medium | $1-3M + agricultural expertise | 2-4 years |
 | Wellness community infrastructure | Medium | Medium | $3-5M + programming network | 1-2 years |
 | Complete infrastructure independence | Medium | Medium-High | $2-4M (engineering + systems) | 1-2 years |
@@ -641,7 +549,7 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 
 ### 10.1 Positioning Statement
 
-**For** wellness-oriented professionals, eco-conscious families, and impact-driven investors **in the Austin metropolitan area and beyond**, **Abundancia Austin** is a **regenerative luxury community** that **delivers authentic carbon-negative living, food sovereignty, complete infrastructure independence, and deep wellness programming** on 376 acres in the Lost Pines region of Bastrop County. **Unlike** conventional luxury developments that offer cosmetic sustainability features, and unlike small-scale eco-villages that lack infrastructure and financial sophistication, **Abundancia** is the first community in Texas to integrate hempcrete construction, 70% conservation, permaculture food systems, community energy independence, and institutional-grade financial returns into a single, scalable model.
+**For** wellness-oriented professionals, eco-conscious families, and impact-driven investors **in the Austin metropolitan area and beyond**, **Abundancia** is a **category-of-one, full-stack regenerative wellness community in Central Texas** that **delivers authentic carbon-sequestering construction, food sovereignty, layered infrastructure resilience, and deep wellness programming** on 376 acres in the Lost Pines region of Bastrop County. **Unlike** conventional luxury developments that offer cosmetic sustainability features, and unlike small-scale eco-villages that lack infrastructure and financial sophistication, **Abundancia** is the first community in Texas to integrate hempcrete construction, 184.5 acres (49%) of permanently preserved land with only ~4.3% structural footprint, permaculture food systems, community energy resilience, and institutional-grade governance into a single, scalable model.
 
 ### 10.2 Positioning Map — Key Axes
 
@@ -651,8 +559,8 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 |----------|----------|-------------|
 | **Superficial** | Most master-planned communities | "Green" marketing with minimal substance; energy-star appliances |
 | **Moderate** | Whisper Valley, some Dripping Springs | Meaningful energy features (solar, geothermal); limited conservation |
-| **Deep** | Babcock Ranch | Comprehensive energy; significant conservation; limited food/wellness |
-| **Regenerative** | **Abundancia Austin**, Serenbe | Carbon-negative construction; food sovereignty; ecosystem restoration; wellness infrastructure |
+| **Deep** | Select national conservation communities | Comprehensive energy; significant conservation; limited food/wellness |
+| **Regenerative** | **Abundancia**, Serenbe | Carbon-sequestering construction; food sovereignty; ecosystem restoration; wellness infrastructure |
 
 #### Axis 2: Community Depth (Subdivision to Intentional)
 
@@ -661,17 +569,17 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 | **Subdivision** | Bastrop conventional, Easton Park | HOA-managed; minimal shared programming; individual homeowner focus |
 | **Amenity community** | Rough Hollow, Belterra | Pool, gym, trails, events; professionally managed amenities |
 | **Lifestyle community** | Whisper Valley, Dripping Springs premium | Brand identity; shared values (eco, Hill Country); events and culture |
-| **Intentional community** | **Abundancia Austin**, Serenbe, Cosmos Ranch | Shared governance; deep programming; wellness/ceremony; cultural identity |
+| **Intentional community** | **Abundancia**, Serenbe | Shared governance; deep programming; wellness/ceremony; cultural identity |
 
 ### 10.3 Brand Architecture
 
-| Brand Element | Abundancia Austin | Key Competitor (Whisper Valley) | National Benchmark (Serenbe) |
+| Brand Element | Abundancia | Key Competitor (Whisper Valley) | National Benchmark (Serenbe) |
 |--------------|-------------------|-------------------------------|----------------------------|
 | **Brand promise** | "Live regeneratively" | "Live sustainably" | "Live connected to nature" |
 | **Primary emotion** | Transformation, abundance, sovereignty | Responsibility, efficiency | Beauty, belonging, culture |
 | **Target identity** | Changemaker, healer, conscious creator | Eco-conscious suburban family | Design-conscious creative |
 | **Visual language** | Earthy, organic, sacred geometry | Modern clean, green tech | Southern charm, artisan, organic |
-| **Price signal** | Premium but accessible; $125K-850K | Attainable eco; $290K-550K | Aspirational luxury; $500K-2.5M |
+| **Price signal** | Premium but accessible; tiny homes from ~$104K to estate homes (homes from ~$450/SF) | Attainable eco; $300K-750K | Aspirational luxury; from ~$375K to $2.5M+ |
 | **Trust mechanism** | Measurable carbon data; transparent operations | Zero-energy certification | 18-year track record; media coverage |
 
 ### 10.4 Competitive Messaging Framework
@@ -679,8 +587,8 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 | Competitor Type | Their Message | Our Counter-Position |
 |----------------|--------------|---------------------|
 | **Conventional luxury (Dripping Springs)** | "Hill Country living at its finest" | "Beyond luxury — regenerative living that restores the land, sequesters carbon, and grows your food" |
-| **Eco-branded (Whisper Valley)** | "Zero-energy homes for a sustainable future" | "Zero-energy is just the beginning — we're carbon-negative, food-sovereign, and water-independent" |
-| **Small eco-village (Cosmos Ranch)** | "Intentional community for alternative living" | "Institutional-grade regenerative community with full infrastructure, professional management, and investor-aligned governance" |
+| **Eco-branded (Whisper Valley)** | "Zero-energy homes for a sustainable future" | "Zero-energy is just the beginning — we're carbon-sequestering, food-sovereign, and water-resilient" |
+| **Small eco-village (grassroots proposals)** | "Intentional community for alternative living" | "Institutional-grade regenerative community with full infrastructure, professional management, and investor-aligned governance" |
 | **Production builder (Bastrop conventional)** | "New homes from the $200s" | "The same price per square foot buys you a home that sequesters carbon, feeds your family, and powers itself" |
 
 ---
@@ -698,7 +606,7 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 | **Permaculture design and establishment** | Medium-High | Food forests require 3-5 years to reach productive maturity; expert design required | 3-5 years |
 | **Wellness programming network** | Medium | Relationships with yoga teachers, healers, retreat facilitators, wellness professionals | 1-2 years |
 | **Brand establishment** | Medium-High | Community brand requires years of consistent delivery, events, media, and word-of-mouth | 3-5 years |
-| **Capital formation (Reg D 506(c))** | Medium | Investor relationships, legal/compliance infrastructure, reporting systems | 6-12 months |
+| **Capital formation (private offering — subject to final documentation and review by securities counsel)** | Medium | Investor relationships, legal/compliance infrastructure, reporting systems | 6-12 months |
 | **Construction labor training** | Medium | Hempcrete construction techniques require specialized labor force development | 1-2 years |
 | **Environmental compliance (Houston toad)** | Medium | LPHCP participation, habitat management plan, biological monitoring | 6-12 months |
 
@@ -802,10 +710,10 @@ Using Warren Buffett's competitive moat framework:
 
 ---
 
-*This Competitive Landscape Analysis was prepared for the exclusive use of accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. Competitive assessments represent management's analysis based on publicly available information and are subject to change as market conditions evolve. This document does not constitute an offer to sell or solicitation of an offer to buy securities. Investment decisions should be based on a thorough review of all offering documents.*
+*This Competitive Landscape Analysis was prepared for the exclusive use of accredited investors evaluating a potential investment in Abundancia Community LLC. Competitive assessments represent management's analysis based on publicly available information and are subject to change as market conditions evolve. This document does not constitute an offer to sell or solicitation of an offer to buy securities. Investment decisions should be based on a thorough review of all offering documents.*
 
 ---
 
 **Document 23** | Competitive Landscape Analysis
-**Abundancia Austin Holdings, LLC** | Confidential
-**March 2026** | Version 1.0
+**Abundancia Community LLC** | Confidential
+**July 2026** | Version 2.0

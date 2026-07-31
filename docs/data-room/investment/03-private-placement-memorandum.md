@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,14 +9,14 @@
 ---
 
 **Document 03** | Data Room - Investment
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
-> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Austin Holdings, LLC. This Private Placement Memorandum ("PPM") does not constitute an offer to sell or a solicitation of an offer to buy securities in any jurisdiction where such offer or solicitation would be unlawful. Securities offered hereby have not been registered under the Securities Act of 1933, as amended (the "Securities Act"), or any state securities laws, and are being offered in reliance upon exemptions from the registration requirements of the Securities Act and applicable state securities laws. These securities may not be resold unless registered under the Securities Act and applicable state securities laws or unless an exemption from such registration is available.*
+> *This document contains forward-looking statements and confidential business information intended solely for accredited investors evaluating a potential investment in Abundancia Community LLC. This Private Placement Memorandum ("PPM") does not constitute an offer to sell or a solicitation of an offer to buy securities in any jurisdiction where such offer or solicitation would be unlawful. Securities offered hereby have not been registered under the Securities Act of 1933, as amended (the "Securities Act"), or any state securities laws, and are being offered in reliance upon exemptions from the registration requirements of the Securities Act and applicable state securities laws. These securities may not be resold unless registered under the Securities Act and applicable state securities laws or unless an exemption from such registration is available.*
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## IMPORTANT NOTICES
 
-**NO OFFERING IS BEING MADE HEREBY.** This Private Placement Memorandum is furnished on a confidential basis to a limited number of accredited investors for the sole purpose of evaluating a potential investment in Abundancia Austin Holdings, LLC (the "Company"). This document is not intended to be, and should not be construed as, an offer to sell or a solicitation of an offer to buy any security.
+**NO OFFERING IS BEING MADE HEREBY.** This Private Placement Memorandum is furnished on a confidential basis to a limited number of accredited investors for the sole purpose of evaluating a potential investment in Abundancia Community LLC (the "Company"). This document is not intended to be, and should not be construed as, an offer to sell or a solicitation of an offer to buy any security.
 
 **ACCREDITED INVESTORS ONLY.** The securities described herein are being offered exclusively to "accredited investors" as defined in Rule 501 of Regulation D under the Securities Act of 1933, as amended. Verification of accredited investor status will be required prior to acceptance of any subscription.
 
@@ -59,77 +59,72 @@
 
 The following is a summary of the material terms of the offering. This summary is qualified in its entirety by the more detailed information appearing elsewhere in this Memorandum and in the Operating Agreement (Document 05).
 
+**The investment offered hereby is Phase 1 of the Abundancia master plan.** Investors in this offering are purchasing Class A Units whose economics are driven by the Phase 1 development program described in Section 3.3. The full multi-phase master plan is presented elsewhere in this Memorandum as context; Phases 2 and 3 represent potential future upside and additional sponsor revenue capacity, and investors do not need Phases 2–3 to proceed in order to earn the projected Phase 1 returns.
+
 | Term | Detail |
 |---|---|
-| **Issuer** | Abundancia Austin Holdings, LLC |
-| **Entity Type** | Texas Series Limited Liability Company |
-| **Structure** | Limited Partnership (GP/LP) — Manager-Managed |
-| **Securities Offered** | Class A Limited Partnership Interests ("Units") |
-| **Exemption** | Regulation D, Rule 506(c) under the Securities Act |
-| **Total Offering Amount** | $12,500,000 |
-| **Minimum Offering Amount** | $5,000,000 |
-| **Maximum Offering Amount** | $12,500,000 |
+| **Issuer** | Abundancia Community LLC |
+| **Entity Type** | Delaware Limited Liability Company (manager-managed; formed January 2022; no series or subsidiaries) |
+| **Structure** | Manager-Managed LLC — Class A Units (investor / "LP") and Class B Units (Manager / "GP") |
+| **Securities Offered** | Class A Units ("Units") |
+| **Exemption** | Regulation D, Rule 506(c) under the Securities Act (subject to final documentation and review by securities counsel) |
+| **Phase 1 Total Capitalization** | $13,354,032 (approximately $5,154,032 Class A LP equity + $500,000 GP co-investment equity + $7,700,000 Phase 1 construction debt) |
+| **Phase 1 Debt** | $7,700,000 at 8.5%, 10-year fully amortizing; annual debt service $1,173,539 |
+| **Total Offering Amount (Class A LP Equity)** | Approximately $5,154,032 |
+| **Minimum Offering Amount** | $50,000 (one Unit) [subject to review by securities counsel] |
 | **Unit Price** | $50,000 per Unit |
 | **Minimum Investment** | $50,000 (1 Unit) |
-| **Maximum Number of Units** | 250 Units |
+| **Maximum Number of Units** | Approximately 103 Units at $50,000 per Unit |
 | **Investor Qualification** | Accredited Investors Only (verified per Rule 506(c)) |
-| **General Partner** | Abundancia Austin GP, LLC |
-| **General Partner Interest** | 20% Carried Interest (subject to waterfall) |
-| **Limited Partner Interest** | 80% (pro rata among all LP investors) |
-| **Preferred Return** | 8% cumulative, compounded annually |
-| **Management Fee** | 1.5% of committed capital per annum |
-| **Disposition Fee** | 1.0% of gross sale proceeds |
-| **Target Hold Period** | 7-10 years |
-| **Target IRR** | 37.1% (base case — not guaranteed) |
-| **Target Equity Multiple** | 4.42x (base case — not guaranteed) |
-| **Distributions** | Quarterly, beginning when cash flow permits (estimated Year 2) |
+| **Manager (GP)** | New Earth Development LLC — Texas LLC (EIN 81-3237744; Texas file number 0805933058; 5900 Balcones Dr, Ste 100, Austin, TX 78731-4298); Kelly Krezek, Chief Executive Officer |
+| **Issuer** | Abundancia Community LLC — Delaware LLC (Delaware file number 6553843; EIN 87-4732687); registered office 8 The Green, Suite D, Dover, DE 19901; registered agent Delaware Registered Agent Service LLC |
+| **Beneficial Ownership (Issuer)** | Joe McVeen 50% / Kelly Krezek 50% |
+| **GP Participation** | Class B Units; promote per distribution waterfall (Section 8) — subject to final documentation and review by securities counsel |
+| **GP Co-Investment** | $500,000 of equity invested pari passu with the Class A LP equity (total equity $5,654,032; LP 91.16% / GP 8.84%) |
+| **Preferred Return** | 10% cumulative preferred return to the equity class — subject to final documentation and review by securities counsel |
+| **Distribution Reserve** | 20% of positive cash flows withheld annually as a safety buffer; released in Year 10 |
+| **Developer Fee** | 4% of Phase 1 total capitalization ($534,161), paid from operating cash flow; does not reduce LP capital basis — subject to final documentation and review by securities counsel |
+| **Hold Period** | 10 years (a 5-year interim snapshot is also presented; the construction loan is not repaid at year 5) |
+| **Projected LP IRR (projection — not guaranteed)** | 32.1% (10-year) / 25.7% (5-year interim; loan not repaid at year 5) |
+| **Projected LP Equity Multiple (projection — not guaranteed)** | 2.88x (10-year) / 1.79x (5-year interim; loan not repaid at year 5) |
+| **Projected Total LP Distributions (projection — not guaranteed)** | $14,834,476 (10-year) / $9,217,829 (5-year interim) |
+| **Distributions** | Quarterly, beginning when cash flow permits (first project revenue projected in Year 2 of operations, 2028) |
 | **K-1 Reporting** | Annual Schedule K-1 provided to each investor |
-| **Offering Period** | March 2026 through September 2026 (may be extended) |
-| **Closing** | Rolling closings at Manager's discretion; minimum first close at $5,000,000 |
+| **Offering Period** | Commencing July 2026; closing December 31, 2026 (outside date June 30, 2027) |
+| **Closing** | Rolling closings at Manager's discretion; final close December 31, 2026 (outside date June 30, 2027). Escrow release upon achievement of the $50,000 (one Unit) minimum offering amount |
+
+*All offering terms, waterfall terms, and fees are subject to final documentation and review by securities counsel.*
 
 ### 1.2 Key Dates
 
 | Milestone | Target Date |
 |---|---|
-| **Offering Commencement** | March 2026 |
-| **First Close (Minimum)** | June 2026 |
-| **Final Close** | September 2026 (extendable) |
-| **Land Acquisition** | Q3 2026 |
-| **Master Plan Completion** | Q1 2027 |
-| **First Vertical Construction** | Q2 2027 |
-| **First Residential Closings** | Q4 2027 |
-| **First Distributions** | Q1 2028 (estimated) |
-| **Project Completion** | 2035-2036 |
+| **Offering Commencement** | July 2026 |
+| **First Close (Minimum)** | Upon achievement of the $50,000 (one Unit) minimum offering / escrow release |
+| **Final Close / Capital Close** | December 31, 2026 (outside date June 30, 2027) |
+| **Land Closing** | 2026 (predevelopment: due diligence, watershed/hydrology, entitlements, MUD) |
+| **Entitlements / Permitting** | 2026-2027 (estimated 12-16 month permitting) |
+| **Groundbreaking (infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture)** | 2027 |
+| **First Revenue (hospitality opens; model home; tiny homes deliver; lot sales launch)** | 2028 (Year 2 of operations) |
+| **First Distributions** | [TO CONFIRM] (estimated following first revenue in 2028) |
+| **Construction Completion (Full Project master plan)** | 2031 |
+| **Stabilized Operations (~$7-8M/yr recurring — Full Project master plan)** | 2032+ |
 
 ### 1.3 Entity Structure
 
 ```
-Abundancia Austin Holdings, LLC
-(Texas Series LLC — Master Entity)
+Abundancia Community LLC
+(Delaware Limited Liability Company — Manager-Managed; formed January 2022;
+ DE file 6553843; EIN 87-4732687; beneficial owners Joe McVeen 50% / Kelly Krezek 50%)
 │
-├── Abundancia Austin GP, LLC (General Partner — 20% Carried Interest)
-│   └── Managed by Nicholas Courchesne and Jason Sparks
+├── Manager / GP — New Earth Development LLC (Texas; Kelly Krezek, CEO)
+│   └── Class B Units (Manager); promote per waterfall — subject to final documentation
 │
-├── Class A Limited Partners (80% — Investor Units)
-│   └── Pro rata among all LP investors
-│
-├── Series A — Land Holdings
-│   └── Holds title to 376-acre property
-│
-├── Series B — Residential Development
-│   └── Construction and sale of residential units
-│
-├── Series C — Rental Portfolio
-│   └── 60 retained rental units
-│
-├── Series D — Commercial Operations
-│   └── Village center, commercial leases
-│
-└── Series E — Retreat & Events
-    └── Retreat center operations
+└── Class A Members ("Limited Partners" / LP investors)
+    └── Class A Units, pro rata among all LP investors
 ```
 
-The Texas Series LLC structure allows each development component to operate as a separate series with liability segregation, while maintaining a single operating entity for management efficiency and investor simplicity.
+Abundancia Community LLC is a single Delaware manager-managed limited liability company with no series and no subsidiaries. All Project assets and operations are held at the Company level. The Company issues Class A Units to LP investors and Class B Units to the GP/Manager; LP voting rights are limited to major matters as set forth in the Operating Agreement. Entity structure is subject to final documentation and review by securities counsel.
 
 ---
 
@@ -137,7 +132,7 @@ The Texas Series LLC structure allows each development component to operate as a
 
 ### 2.1 Securities Offered
 
-The Company is offering up to 250 Units of Class A Limited Partnership Interests (the "Units") at a purchase price of $50,000 per Unit, for a maximum aggregate offering amount of $12,500,000. Each Unit represents a proportional limited partnership interest in the Company, entitling the holder to:
+The Company is offering Class A Units (the "Units") at a purchase price of $50,000 per Unit, for a maximum aggregate offering amount of approximately $5,154,032 (approximately 103 Units) — the Class A LP equity component of the Company's $13,354,032 Phase 1 total capitalization (which also includes a $500,000 GP co-investment invested pari passu with the Class A LP equity and $7,700,000 of Phase 1 construction debt at 8.5%, 10-year fully amortizing). All offering terms are subject to final documentation and review by securities counsel. Each Unit represents a proportional Class A membership interest in the Company, entitling the holder to:
 
 (a) Distributions of available cash flow, subject to the waterfall described in Section 8;
 
@@ -155,11 +150,11 @@ The minimum investment is $50,000 (1 Unit). The Manager, in its sole discretion,
 
 ### 2.3 Offering Period
 
-The offering will commence in March 2026 and continue until the earlier of: (i) the sale of all 250 Units; (ii) September 30, 2026; or (iii) such later date as the Manager may determine in its sole discretion. The Manager reserves the right to terminate the offering at any time and for any reason.
+The offering will commence in July 2026 and continue until the earlier of: (i) the sale of all offered Units; (ii) December 31, 2026; or (iii) such later date as the Manager may determine in its sole discretion. The Manager reserves the right to terminate the offering at any time and for any reason.
 
 ### 2.4 Minimum Offering Amount
 
-The Company has established a minimum offering amount of $5,000,000 (100 Units). No investor funds will be deployed, and no land acquisition will proceed, until the minimum offering amount has been achieved. Investor funds will be held in an escrow account maintained by an independent escrow agent until the minimum offering amount is reached.
+The Company has established a minimum offering amount of $50,000 (one Unit) [subject to review by securities counsel]. No investor funds will be deployed until the minimum offering amount has been achieved. Investor funds will be held in an escrow account maintained by an independent escrow agent until the minimum offering amount is reached.
 
 If the minimum offering amount is not achieved by the end of the offering period, all escrowed funds will be returned to investors, without interest, and the offering will be terminated.
 
@@ -181,7 +176,7 @@ The Manager reserves the right, in its sole and absolute discretion, to reject a
 
 ### 3.1 Formation and Purpose
 
-Abundancia Austin Holdings, LLC (the "Company") is a Texas Series Limited Liability Company formed under the Texas Business Organizations Code for the purpose of acquiring, developing, and operating a 376-acre regenerative master-planned community in Cedar Creek, Bastrop County, Texas.
+Abundancia Community LLC (the "Company") is a Delaware limited liability company, manager-managed, formed in January 2022 (initial Delaware filing January 31, 2022), for the purpose of acquiring, developing, and operating a 376-acre regenerative master-planned community at 176 Cedar Creek Circle, Cedar Creek (unincorporated Bastrop County), Texas. The Company's registered agent in Delaware is Delaware Registered Agent Service LLC. The Company has no series and no subsidiaries.
 
 ### 3.2 Business Objectives
 
@@ -201,35 +196,57 @@ The Company's primary business objectives are:
 
 (g) **Establish** a replicable model for regenerative community development that may be deployed in additional markets.
 
-### 3.3 Development Program
+*The business objectives above describe the full multi-phase master plan. The investment offered by this Memorandum is Phase 1 only, as described in Section 3.3; the later phases are presented as master-plan context and potential future upside.*
 
-The Company intends to develop the following program across five phases over a 10-year period:
+### 3.3 Phase 1 — The Investment Offered
 
-| Product Type | Units | Avg. Price | Total Revenue | Phase |
+The offering described in this Memorandum funds Phase 1 of the master plan ("Foundation & Community Activation," Years 1–2 of construction), with a 10-year operating hold. The Phase 1 program comprises:
+
+- **Year 1:** Community Center (5,000 SF: lounge, co-working, gym, yoga, meditation, community kitchen, library); spring-fed Natural Pool with Parks & Recreation; 50 short-term nature stays (20 glamping tents, 15 domes, 5 high-end domes, 10 camping spaces); Regenerative Center (event space, 6 retreat rooms, and the renovated barn); Health & Wellness / Longevity Center & Spa (sauna, hot tub, cold plunge, massage, bio-optimization, health center); and the Permaculture Mandala Garden.
+- **Year 2:** Model Home; 60 tiny-home sales (16 studio, 18 one-bedroom, 20 two-bedroom, 6 early-discount); 80 residential lot sales; 6BR Rental/Event House; completion of the infrastructure backbone.
+
+**Phase 1 Projected Operating Results (10-year hold; projections — not guaranteed):**
+
+| Phase 1 Revenue Category | 10-Year Projected Revenue |
+|---|---|
+| Rentals & Hospitality | $32,549,450 |
+| Tiny Home Sales (60 tiny homes, Year 2) | $8,856,322 |
+| Lot Sales (80 residential lots, Years 2–3) | $10,817,449 |
+| Commercial & Amenities | $7,409,222 |
+| **Total Phase 1 10-Year Projected Revenue** | **$59,632,442** |
+
+Projected Phase 1 EBITDA totals $21,540,503 over the 10-year hold. Year 1 EBITDA is projected at approximately negative $11.8 million (the construction year, funded by the Year-0 capitalization); EBITDA turns positive in Year 2 (projected $7,509,938) with first revenue in Year 2 of operations, and the cumulative position is projected to reach break-even in Year 3. No houses or condominiums are sold in Phase 1; Phase 1 for-sale products are tiny homes and residential lots.
+
+Phase 1 hard construction costs are approximately $16.7 million across Years 1–2 (approximately $6.65M in Year 1 and $10.01M in Year 2, of which infrastructure is $1,759,523 and $4,191,808 respectively).
+
+### 3.4 Development Program — Full Project (All Phases) Master-Plan Context
+
+*The following describes the complete multi-phase master plan within which the Phase 1 investment sits. It is provided as context and is not the basis of the investor economics offered hereby; later phases represent potential future upside and additional sponsor revenue capacity.* The full master plan comprises the following program (approximately 501 structures plus 100 estate lots; construction 2027-2031) over a 10-year period:
+
+| Product Type | Units | Pricing Basis (model, blended realized) | Projected Revenue | Timing |
 |---|---|---|---|---|
-| Single-Family Homes | 100 | $625,000 | $62,500,000 | 2-4 |
-| Tiny Homes | 30 | $200,000 | $6,000,000 | 2 |
-| Geodesic Domes | 30 | $225,000 | $6,750,000 | 2 |
-| Multifamily Units | 260 | $408,000 | $106,080,000 | 3-4 |
-| Finished Lots | 200 | $350,000 | $70,000,000 | 3-5 |
-| Rental Units (retained) | 60 | N/A | $43,600,000 (10-yr rental) | 3-4 |
-| Commercial Space | ~25,000 SF | $28/SF NNN | $7,800,000 (10-yr lease) | 4-5 |
-| Retreat Center | 1 | N/A | $6,300,000 (10-yr revenue) | 4-5 |
+| Single-Family Homes (for sale) | 100 | ~$566/SF blended (positioned "from approximately $450/SF"); 1BR-7BR, 1,000-5,000 SF | Included in residential sales subtotal | 2028-2031 |
+| Condominiums (for sale) | 200 | ~$400/SF (1BR 600 SF; 2BR 850 SF; 3BR 1,250 SF) | Included in residential sales subtotal | 2029-2031 |
+| Tiny Homes (for sale) | 60 | ~$416/SF (~$104K-$166K) | Included in residential sales subtotal | 2028+ |
+| **Residential Sales Subtotal (360 for-sale residences)** | 360 | — | $249,152,934 | 2028-2031 |
+| Estate Lots | 100 (full project) | ~$229K average lot revenue | $22,872,273 | 2028-2029 |
+| Rentals (126: 6BR event house, 75 rental condos, 50 nature stays) | 126 | Nature stays $150-$375/night | $44,249,052 (10-yr) | 2028+ |
+| Commercial (12 spaces / 30,000 SF) | 12 | — | $7,102,227 (10-yr) | 2028+ |
 
-**Total 10-Year Projected Revenue: $435,100,000** (base case)
+**Total Full Project (All Phases) 10-Year Projected Revenue: $323,376,486** (projection — not guaranteed; master-plan context — not the basis of the Phase 1 investor economics offered hereby)
 
-### 3.4 Competitive Position
+### 3.5 Competitive Position
 
 The Company believes it occupies a unique competitive position in the Austin market as:
 
-- The first large-scale hempcrete residential community in Texas
-- The only master-planned community in the Austin MSA integrating regenerative agriculture as a core program element
-- The only development offering verified carbon-negative construction at community scale
-- One of the few Austin-area developments offering six distinct residential product types across a single community
+- Believed to be among the first large-scale hempcrete residential communities in Texas [estimated/preliminary — TO CONFIRM]
+- One of the few master-planned communities in the Austin MSA integrating regenerative agriculture as a core program element
+- Non-toxic, carbon-sequestering hempcrete construction (hemp growth plus lime carbonation) at community scale
+- One of the few Austin-area developments offering multiple distinct residential product types across a single community
 
-### 3.5 Stage of Development
+### 3.6 Stage of Development
 
-As of the date of this Memorandum, the Company is in the pre-acquisition stage. The property has been identified and preliminary due diligence has been conducted, but no binding purchase agreement has been executed. Land acquisition is contingent upon achievement of the minimum offering amount.
+As of the date of this Memorandum, the Company is in the predevelopment stage (due diligence, watershed/hydrology analysis, entitlements, MUD formation, and capital close targeted for 2026). The property has been identified and is under a letter of intent, with a $65,000 earnest money deposit posted; definitive purchase terms remain subject to a final purchase agreement [TO CONFIRM]. No binding purchase agreement has yet been executed, and land acquisition terms otherwise remain a modeled scenario, subject to final terms. Land acquisition is contingent upon achievement of the minimum offering amount.
 
 The Company has not yet generated any revenue. All financial projections contained in this Memorandum are forward-looking estimates based on assumptions that may not prove to be correct.
 
@@ -239,53 +256,59 @@ The Company has not yet generated any revenue. All financial projections contain
 
 ### 4.1 Location and Access
 
-The property consists of approximately 376 contiguous acres located in Cedar Creek, an unincorporated area of Bastrop County, Texas. The property is situated along the State Highway 71 corridor, providing direct access to a major state highway connecting Austin to Bastrop and points east.
+The property consists of approximately 376 contiguous acres located at 176 Cedar Creek Circle, Cedar Creek, an unincorporated area of Bastrop County, Texas, within the Lost Pines ecoregion. The property is situated along the State Highway 71 corridor, providing direct access to a major state highway connecting Austin to Bastrop and points east.
 
 | Property Detail | Description |
 |---|---|
-| **Legal Description** | [To be inserted upon acquisition] |
+| **Address** | 176 Cedar Creek Circle, Cedar Creek, TX |
+| **Legal Description** | [TO CONFIRM — to be inserted upon acquisition] |
 | **County** | Bastrop County, Texas |
 | **Municipality** | Unincorporated (Cedar Creek) |
-| **School District** | Bastrop Independent School District |
+| **School District** | Bastrop Independent School District [TO CONFIRM] |
 | **Total Acreage** | Approximately 376 acres |
-| **SH 71 Frontage** | Approximately [XX] feet |
+| **SH 71 Frontage** | [TO CONFIRM] |
 | **Current Use** | Agricultural / Undeveloped |
-| **Zoning** | No county-level zoning applies |
-| **Flood Zone** | Predominantly Zone X (minimal flood hazard) |
+| **Zoning** | No county-level zoning applies (mixed use by right) |
+| **Flood Zone** | FEMA floodplain administered through Bastrop County [TO CONFIRM zone designation] |
 
 ### 4.2 Physical Characteristics
 
-The property features gently rolling topography characteristic of the transition zone between the Texas Blackland Prairie and the Lost Pines ecological region. Key physical features include:
+The property features gently rolling topography characteristic of the Lost Pines ecological region. Key physical features include:
 
-- **Soils**: Predominantly sandy loam over clay subsoils, suitable for both construction and agricultural use
+- **Water Features**: 7 existing water-retention ponds (with more to be created) and 2 dry creek beds
+- **Existing Improvements**: An existing barn, to be renovated as the community's first event space
+- **Soils**: Predominantly sandy loam over clay subsoils, suitable for both construction and agricultural use (estimated/preliminary — subject to geotechnical investigation)
 - **Vegetation**: Mixed post oak savannah with native grasses, consistent with the Lost Pines ecosystem
-- **Hydrology**: Seasonal creek corridors traversing the property; located within the Carrizo-Wilcox Aquifer recharge zone
-- **Topography**: Moderate elevation changes (estimated 40-60 feet across the site) providing architectural interest and natural drainage
+- **Hydrology**: Full watershed analysis by Symbiosis TX to be commissioned immediately upon entering due diligence; hydrology and water feasibility are the first predevelopment spend
+- **Topography**: Moderate elevation changes (estimated) providing architectural interest and natural drainage
 - **Environmental**: No known environmental contamination; Phase I Environmental Site Assessment to be completed prior to acquisition
 
 ### 4.3 Proximity and Access
 
 | Destination | Distance | Drive Time |
 |---|---|---|
-| Downtown Austin | 28 miles | ~30 minutes |
-| Austin-Bergstrom International Airport | 22 miles | ~25 minutes |
-| Tesla Gigafactory Texas | 16 miles | ~20 minutes |
-| Downtown Bastrop | 12 miles | ~15 minutes |
-| Samsung Taylor Facility | 45 miles | ~40 minutes |
-| SH 130 (toll road) | 8 miles | ~10 minutes |
-| Colorado River | 6 miles | ~8 minutes |
+| Downtown Austin | ~28 miles | 30-40 minutes |
+| Austin-Bergstrom International Airport | ~22 miles | 15-20 minutes |
+| Tesla Gigafactory Texas | ~16 miles | ~20 minutes |
+| City of Bastrop | ~12 miles | 10-15 minutes |
+| Samsung Taylor Facility | ~45 miles | ~40 minutes |
+| SH 130 (toll road) | ~8 miles | ~10 minutes |
+| Colorado River | ~6 miles | ~8 minutes |
+
+*Distances and drive times are approximate.*
 
 ### 4.4 Utilities and Services
 
 | Utility | Provider | Status |
 |---|---|---|
-| **Electric** | Bluebonnet Electric Cooperative | Available at property boundary |
-| **Water** | Private well system (Carrizo-Wilcox Aquifer) | To be drilled and permitted |
-| **Wastewater** | On-site treatment system (TCEQ permitted) | To be designed and constructed |
+| **Electric** | Bluebonnet Electric Cooperative [TO CONFIRM] | Available at property boundary [TO CONFIRM] |
+| **Water** | Aqua Water Supply Corporation service, supplemented by a layered supply strategy: 7 existing ponds (plus more to be created), 6 wells with 13 storage tanks and filtration, rainwater capture on every building (~9-11M gal/yr at build-out, estimated), and 11 atmospheric water generators for drinking water | Full watershed analysis by Symbiosis TX to be commissioned upon entering due diligence |
+| **Wastewater** | On-site treatment via TCEQ OSSF (biodigester/bionest per structure) | To be designed and permitted |
 | **Natural Gas** | Not available (all-electric community) | N/A |
 | **Telecommunications** | Multiple providers; fiber planned | To be extended |
-| **Fire Protection** | Bastrop County ESD | Service area confirmed |
-| **Law Enforcement** | Bastrop County Sheriff | Service area confirmed |
+| **Fire Protection** | Bastrop County ESD | Service area confirmed [TO CONFIRM] |
+| **Law Enforcement** | Bastrop County Sheriff | Service area confirmed [TO CONFIRM] |
+| **MUD** | Municipal Utility District formation engineering underway (Fred Haas, PE) | In progress |
 
 ### 4.5 Title and Encumbrances
 
@@ -298,15 +321,15 @@ A Phase I Environmental Site Assessment (ESA) will be conducted in accordance wi
 Additionally, the following environmental assessments and permits will be obtained as appropriate:
 
 - Wetlands delineation (if applicable)
-- Endangered species habitat assessment
+- Endangered species habitat assessment — including Houston toad considerations under the Lost Pines Habitat Conservation Plan (conservation subdivision pathway)
 - Stormwater Pollution Prevention Plan (SWPPP)
-- Texas Commission on Environmental Quality (TCEQ) wastewater discharge permit
-- Groundwater availability study
+- Texas Commission on Environmental Quality (TCEQ) On-Site Sewage Facility (OSSF) permitting (biodigester/bionest per structure)
+- Groundwater availability study and full watershed analysis (Symbiosis TX)
 - Geotechnical investigation
 
 ### 4.7 Acquisition Terms
 
-The Company intends to acquire the property for approximately $4,000,000, representing approximately $10,638 per acre. This acquisition cost is inclusive of:
+The property is currently under a letter of intent, with a $65,000 earnest money deposit posted; definitive purchase terms remain subject to a final purchase agreement [TO CONFIRM]. Under the modeled scenario (terms TBD; scenario — subject to final terms), the Company intends to acquire the property for approximately $6,500,000 (approximately $17,287 per acre), with 20% down, approximately 5% closing costs, and an 8% land loan — approximately $2.17 million of Year-1 land cost, approximately $541,000 per year of land loan service, and approximately $7.04 million of total land cost over 10 years. Acquisition-related costs include:
 
 - Purchase price
 - Closing costs and transfer fees
@@ -316,27 +339,37 @@ The Company intends to acquire the property for approximately $4,000,000, repres
 - Appraisal fees
 - Legal fees associated with acquisition
 
-The acquisition is subject to satisfactory completion of due diligence, including title examination, environmental assessment, survey, geotechnical investigation, and verification of utility availability.
+The acquisition is subject to satisfactory completion of due diligence, including title examination, environmental assessment, survey, geotechnical investigation, and verification of utility availability. Final acquisition terms remain subject to negotiation.
 
 ---
 
 ## 5. Use of Proceeds
 
-### 5.1 Allocation of Offering Proceeds
+### 5.1 Allocation of Offering Proceeds — Phase 1
 
-The Company intends to apply the net proceeds of this offering as follows:
+The offering proceeds fund Phase 1 of the master plan. The Company's Phase 1 capitalization and anticipated uses are as follows (subject to final documentation and review by securities counsel):
 
-| Category | Amount | % of Offering | Description |
-|---|---|---|---|
-| **Land Acquisition** | $4,000,000 | 32.0% | Purchase price, closing costs, title insurance, surveys, environmental assessments, and all costs associated with acquiring the 376-acre property |
-| **Hard Costs (Initial Construction)** | $1,750,000 | 14.0% | Construction of 3-5 model homes across product types, hempcrete production facility setup, initial material procurement, and early Phase 2 vertical construction |
-| **Site Work & Infrastructure** | $1,750,000 | 14.0% | Grading and earthwork, primary road construction, water well drilling and system installation, wastewater treatment design and initial construction, drainage and stormwater management, utility extensions |
-| **Master Planning & Design** | $1,375,000 | 11.0% | Architectural design and engineering, master plan development, environmental assessments and permitting, civil engineering, landscape architecture, regulatory compliance costs |
-| **Staffing & Operations** | $750,000 | 6.0% | Core team compensation during 18-month pre-revenue period, general and administrative expenses, insurance, legal and accounting fees, office and operational overhead |
-| **Marketing & Sales** | $625,000 | 5.0% | Brand development and identity, sales center construction and furnishing, digital marketing and advertising, broker relationships and commissions, community engagement programs, model home staging |
-| **Contingency & Reserves** | $2,250,000 | 18.0% | Working capital reserve, cost overrun contingency, interest and carrying cost reserves, unforeseen expense buffer, operating deficit reserve during lease-up |
-| **Offering Costs** | Included above | — | Legal fees for offering documents, accounting and audit fees, escrow and administration fees, investor verification costs |
-| **Total** | **$12,500,000** | **100.0%** | |
+**Phase 1 Sources of Capital**
+
+| Source | Amount | Description |
+|---|---|---|
+| **Class A LP Equity (this offering)** | ~$5,154,032 | Class A Units offered to accredited investors |
+| **GP Co-Investment Equity** | $500,000 | Manager/GP equity invested pari passu with the Class A LP equity |
+| **Phase 1 Construction Debt** | $7,700,000 | 8.5% interest, 10-year fully amortizing; annual debt service $1,173,539 |
+| **Total Phase 1 Capitalization** | **$13,354,032** | Phase 1 Years 1–2 construction is funded by this capitalization together with Year 2 project revenue |
+
+**Phase 1 Uses (construction Years 1–2)**
+
+| Category | Amount | Description |
+|---|---|---|
+| **Land Acquisition (under LOI; modeled scenario)** | ~$2,170,000 | Land under letter of intent; $65,000 earnest money deposit; definitive terms subject to a final purchase agreement. Modeled: 20% down on ~$6.5M purchase price, ~5% closing costs, 8% land loan (scenario — subject to final terms) |
+| **Hard Costs (Year 1 construction)** | ~$6,650,000 | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture (Year 1 hard costs per model; includes $1,759,523 infrastructure) |
+| **Hard Costs (Year 2 construction)** | ~$10,010,000 | Model home, tiny homes, lot development, 6BR Rental/Event House, infrastructure backbone completion (includes $4,191,808 infrastructure); funded by the Phase 1 capitalization together with Year 2 project revenue |
+| **Soft Costs** | ~$1,531,751 | Due diligence ($142,320), master planning & consultants ($507,505), legal/permits, design & engineering (per Phase 1 model) |
+| **Marketing** | ~$601,000 | Sales & marketing across the Phase 1 sell-through (per Phase 1 model) |
+| **Contingency (10%)** | ~$3,462,904 | 10% contingency across Phase 1 costs (per Phase 1 model) |
+| **Operating Expenses** | ~$11.1M (Yrs 1–10) | Ongoing operations funded from project-generated revenue, not from the equity raise |
+| **Offering / Syndication Costs** | [TO CONFIRM] | Legal, filing, and placement costs — to be finalized with securities counsel |
 
 ### 5.2 Adequacy of Proceeds
 
@@ -354,16 +387,16 @@ The Company believes the net proceeds of this offering, together with anticipate
 
 There can be no assurance that additional financing, if needed, will be available on terms acceptable to the Company or at all.
 
-### 5.3 Additional Financing Sources
+### 5.3 Additional Financing Sources — Full Project (All Phases) Context
 
-Beyond the initial equity raise, the Company anticipates utilizing the following financing sources:
+*The following describes financing for the full multi-phase master plan. The Phase 1 offering is capitalized as described in Section 5.1; later-phase financing would fund Phases 2–3, which are presented as master-plan context and potential future upside and are not required for the projected Phase 1 investor returns.* Beyond the Phase 1 capitalization, the full master plan anticipates the following financing sources (Full Project total expenses over the 10-year period are projected at $251,605,403, including hard costs of approximately $201,653,793 and a 10% contingency of $22,873,218; Phase 1 hard construction costs are ~$6.65M in 2027 and ~$10.01M in 2028):
 
 | Source | Estimated Amount | Timing | Terms |
 |---|---|---|---|
-| **Construction Financing** | $80,000,000-$120,000,000 | Phases 2-5 (phased draws) | Senior secured; estimated 7.0-8.5% interest; 24-36 month terms per phase |
-| **MUD Bond Proceeds** | $15,000,000-$25,000,000 | Phase 2-3 | Tax-exempt bonds; 20-30 year amortization; repaid through ad valorem taxes |
-| **Project Revenue (Reinvested)** | $40,000,000-$60,000,000 | Phases 2-5 | Net cash flow from sales, rental, and operations reinvested into subsequent phases |
-| **Potential Additional Equity** | $10,000,000-$20,000,000 | Phase 3+ (if warranted) | Terms to be determined; may involve new class of units |
+| **Construction Financing** | $7,700,000 Phase 1 debt; later-phase amounts [TO CONFIRM] | 2027-2031 (phased) | Phase 1 debt at 8.5% interest, 10-year fully amortizing (annual service $1,173,539); later-phase terms to be determined |
+| **MUD Bond Proceeds** | [TO CONFIRM] | Following MUD formation (engineering underway — Fred Haas, PE) | Tax-exempt bonds; repaid through ad valorem taxes; estimated/preliminary |
+| **Project Revenue (Reinvested)** | Per financial model (first revenue 2028; cumulative break-even in Year 3, 2029) | 2028-2031 | Net cash flow from sales, rental, and operations reinvested into subsequent phases |
+| **Potential Additional Equity** | [TO CONFIRM] | If warranted | Terms to be determined; may involve new class of units |
 
 ---
 
@@ -371,7 +404,7 @@ Beyond the initial equity raise, the Company anticipates utilizing the following
 
 ### 6.1 General Partner
 
-Abundancia Austin GP, LLC (the "General Partner" or "Manager") is a Texas limited liability company formed for the purpose of serving as the managing member and general partner of the Company. The General Partner is owned and controlled by Nicholas Courchesne and Jason Sparks.
+New Earth Development LLC (the "General Partner" or "Manager") serves as the Manager of the Company and holds the Class B (GP/Manager) Units. New Earth Development is led by Kelly Krezek, Founder and Chief Executive Officer. New Earth Development's team members have collectively raised $855M for previous real estate projects, across 200+ transactions and 21 sustainable projects, with a Living Building Challenge orientation.
 
 The General Partner has sole authority and responsibility for the management and operation of the Company, including but not limited to:
 
@@ -386,53 +419,67 @@ The General Partner has sole authority and responsibility for the management and
 
 ### 6.2 Key Personnel
 
-**Nicholas Courchesne — Founder & Chief Executive Officer**
+**Kelly Krezek — Founder & Chief Executive Officer, New Earth Development**
 
-Mr. Courchesne is the founder and visionary behind Abundancia Austin. He conceived the regenerative community concept and has led all aspects of project development including site identification, community design philosophy, and capital formation strategy. Mr. Courchesne brings deep expertise in sustainable community design, regenerative agriculture systems, and mission-driven real estate development. He maintains an extensive network in the Austin development, sustainability, and investment communities.
+Kelly Krezek is the founder and visionary behind Abundancia. With 12 years of experience and 10 regenerative projects, she consults for firms with $100B+ AUM and has led all aspects of project development including site identification, community design philosophy, and capital formation strategy.
 
 *Role: Overall strategic direction, capital formation, community vision, external relationships*
 
-**Jason Sparks — Co-Founder & Chief Operating Officer**
+**Jared Gossett — Construction & Homebuilding**
 
-Mr. Sparks serves as Co-Founder and COO, responsible for operational execution across all project functions. His background spans development execution, construction management, and community operations. Mr. Sparks oversees day-to-day project management, vendor and contractor relationships, budget management, and schedule adherence.
+Mr. Gossett is Austin's #1 luxury builder by volume, with 170+ homes built and two-time Builder of the Year honors. He is the creator of Legacy Living™.
 
-*Role: Operations, construction oversight, vendor management, project execution*
+*Role: Residential construction leadership, homebuilding execution, quality assurance*
 
-**Dan Lawless — Technical Lead**
+**Fred Haas, PE — Civil Engineering & Infrastructure**
 
-Mr. Lawless serves as Technical Lead, overseeing Abundancia's technology infrastructure including smart community systems, the investor portal, energy monitoring, and operational data analytics. His background includes enterprise software development and systems integration.
+Mr. Haas is a civil engineer with 40+ years of experience (Sustainable Land Strategies), leading infrastructure design and Municipal Utility District (MUD) formation for the Project.
 
-*Role: Technology infrastructure, smart community systems, investor portal, data analytics*
+*Role: Civil engineering, infrastructure, MUD formation*
 
-**Dr. Sarah Mitchell — Director of Regenerative Systems**
+**Lance Stukaloff — Chief Investment Officer**
 
-Dr. Mitchell holds a Ph.D. in Ecological Design and oversees the regenerative agriculture program, carbon sequestration strategy, habitat restoration, and environmental compliance. She designs and manages the food forest, permaculture zones, and conservation corridors.
+Mr. Stukaloff, Chief Investment Officer, leads capital markets; the New Earth Development team has collectively raised $855M for previous real estate projects. Mr. Stukaloff holds no ownership interest in the Company.
 
-*Role: Regenerative agriculture, carbon sequestration, environmental compliance, habitat restoration*
+*Role: Capital formation, debt and equity structuring, investor relations*
 
-**Marcus Rivera — Director of Construction**
+**Joe McVeen — Chief Marketing Officer**
 
-Mr. Rivera is a licensed general contractor with over 15 years of residential and mixed-use construction experience in Central Texas. He specializes in alternative building materials including hempcrete, rammed earth, and mass timber.
+Mr. McVeen serves as Chief Marketing Officer, leading marketing and AI systems (Viral Purpose Media, 400M+ network reach). He is a 50% beneficial owner of the Company.
 
-*Role: Construction management, subcontractor coordination, quality assurance, hempcrete construction*
+*Role: Marketing strategy, digital systems, brand and audience development*
 
-**Jennifer Walsh — Director of Sales & Marketing**
+**Angele Miller — Phase 1 Retreat & Glamping**
 
-Ms. Walsh is a real estate marketing professional with deep Austin market expertise. She leads go-to-market strategy, buyer acquisition, brand development, and community engagement programs.
+Ms. Miller is co-founder of Creekside RNR Glamping and leads Phase 1 retreat and glamping operations.
 
-*Role: Marketing strategy, sales management, brand development, community engagement*
+*Role: Hospitality operations, nature stays, retreat programming*
 
-**David Chen — Chief Financial Officer**
+**Gloria Merrick — Tiny Homes**
 
-Mr. Chen is a CPA with extensive experience in real estate fund accounting, partnership tax reporting, and development finance. He previously managed fund administration for over $200 million in real estate assets.
+Ms. Merrick leads the tiny home program, with 16+ tiny home builds completed.
 
-*Role: Financial management, investor reporting, fund accounting, tax compliance, distributions*
+*Role: Tiny home design and delivery*
+
+**Amanda Williams — Wellness Programs**
+
+Ms. Williams leads wellness programming and is an eXp top-1% STR/MTR professional.
+
+*Role: Wellness programs, rental strategy*
+
+**Chelsae Zirna — Retreats**
+
+Ms. Zirna leads retreat programming and operations.
+
+*Role: Retreat programming*
+
+*The team is supported by an advisory bench including Eduardo Esparza (RECODE/Blue Dot), Jeff Hall (Paragon), Adelle York (Plural Office Passive House), Gayle Borst, Rohan Guyot-Sutherland (regenerative systems), Angie Gonzales (permaculture), Adam Russell (Symbiosis TX), Tony Cho (Metro 1/Future of Cities), Jean-Marc La Flamme (Geoship), and others.*
 
 ### 6.3 Conflicts of Interest
 
 Investors should be aware of the following potential conflicts of interest:
 
-(a) The General Partner and its principals have not made a financial commitment to invest their own capital in the Company alongside investors. [Note: If GP co-invests, this will be updated.]
+(a) The General Partner has committed a $500,000 GP co-investment, invested pari passu with the Class A LP equity (subject to final documentation and review by securities counsel).
 
 (b) The General Partner and its affiliates will receive compensation as described in Section 7, which creates an incentive to deploy capital and proceed with development regardless of whether doing so is in the best interest of investors.
 
@@ -446,16 +493,19 @@ Investors should be aware of the following potential conflicts of interest:
 
 ### 7.1 Fees and Compensation
 
-The General Partner and its affiliates will receive the following compensation in connection with the management and operation of the Company:
+The General Partner and its affiliates will receive the following compensation in connection with the management and operation of the Company (all fees subject to final documentation and review by securities counsel):
 
 | Fee | Amount | Timing | Description |
 |---|---|---|---|
-| **Management Fee** | 1.5% of committed capital per annum | Quarterly in arrears | Compensation for ongoing management, oversight, and administration of the Company |
-| **Acquisition Fee** | 1.0% of property acquisition cost | At closing | Compensation for identification, evaluation, negotiation, and acquisition of the property |
-| **Construction Management Fee** | 3.0% of hard construction costs | Monthly during construction | Compensation for oversight and management of construction operations |
-| **Disposition Fee** | 1.0% of gross sale proceeds | At closing of each sale | Compensation for sale of residential units, lots, and other disposition events |
-| **Carried Interest** | Per waterfall (Section 8) | As distributions are made | General Partner's share of profits above preferred return |
-| **Refinancing Fee** | 0.5% of refinancing proceeds | At closing | Compensation for arranging refinancing of Company debt |
+| **Developer Fee** | 4% of Phase 1 total capitalization ($534,161) | Paid from operating cash flow (first year cash flow allows); does not reduce LP capital basis | Compensation for development sponsorship and project execution |
+| **Carried Interest / Promote** | Per waterfall (Section 8) | As distributions are made | General Partner's tiered promote on profits above the 10% cumulative preferred return and return of capital |
+| **Management Fee** | None | — | Not charged; the developer fee is the only sponsor fee |
+| **Acquisition Fee** | None | — | Not charged |
+| **Construction Management Fee** | None | — | Not charged |
+| **Asset Management Fee** | None | — | Not charged |
+| **Disposition Fee** | None | — | Not charged |
+| **Refinancing Fee** | None | — | Not charged |
+| **Property Management Fee** | None | — | Not charged |
 
 ### 7.2 Reimbursement of Expenses
 
@@ -470,18 +520,11 @@ In addition to the fees described above, the Company will reimburse the General 
 
 ### 7.3 Fee Calculation Examples
 
-**Management Fee Example (Year 1)**
-- Committed capital: $12,500,000
-- Annual management fee: $12,500,000 x 1.5% = $187,500
-- Quarterly payment: $46,875
+**Developer Fee Example**
+- Developer fee: 4% of the $13,354,032 Phase 1 total capitalization = $534,161, paid from operating cash flow in the first year cash flow allows; the fee does not reduce LP capital basis (subject to final documentation and review by securities counsel)
 
-**Acquisition Fee Example**
-- Property acquisition cost: $4,000,000
-- Acquisition fee: $4,000,000 x 1.0% = $40,000
-
-**Construction Management Fee Example (Phase 2)**
-- Hard construction costs (Phase 2): $25,000,000
-- Construction management fee: $25,000,000 x 3.0% = $750,000
+**Other Fees**
+- None. The General Partner charges no management, acquisition, construction management, asset management, disposition, refinancing, or property management fee. The 4% developer fee is the only sponsor fee, which preserves the projected LP economics.
 
 ---
 
@@ -489,42 +532,37 @@ In addition to the fees described above, the Company will reimburse the General 
 
 ### 8.1 Distribution Priority
 
-Available cash flow from operations and capital events (sales, refinancing, dissolution) shall be distributed in the following order of priority:
+Available cash flow from operations and capital events (sales, refinancing, dissolution) shall be distributed in the following order of priority. A distribution reserve equal to 20% of positive cash flows will be withheld annually as a safety buffer and released in Year 10. All waterfall terms are subject to final documentation and review by securities counsel.
 
-**Tier 1 — Return of Capital (100% to LPs)**
+**Step 1 — Distribution Reserve**
 
-First, 100% to the Limited Partners until each Limited Partner has received cumulative distributions equal to its aggregate Capital Contributions.
+First, 20% of positive cash flows is withheld annually as a distribution reserve (safety buffer); the reserve is released to the waterfall in Year 10.
 
-**Tier 2 — Preferred Return (100% to LPs)**
+**Step 2 — Preferred Return and Return of Capital (100% to the Equity Class)**
 
-Second, 100% to the Limited Partners until each Limited Partner has received a cumulative annual return equal to 8% of its unreturned Capital Contribution, compounded annually from the date of each Capital Contribution (the "Preferred Return").
+Second, 100% to the equity class — the Limited Partners and the General Partner's $500,000 pari passu co-investment, pro rata — until the equity class has received a 10% cumulative preferred return and a full return of its Capital Contributions. Return of capital is applied to the LP class first (preferred return and capital are satisfied before any GP promote). [Preferred return compounding mechanics and return-of-capital ordering TO CONFIRM — subject to final documentation.]
 
-**Tier 3 — GP Catch-Up (80% LP / 20% GP)**
+**Step 3 — GP Catch-Up**
 
-Third, 80% to the Limited Partners and 20% to the General Partner, until the General Partner has received cumulative distributions equal to 20% of the aggregate amount distributed under Tiers 2 and 3.
+Third, a General Partner catch-up: distributions to the General Partner until the General Partner's cumulative promote distributions equal its applicable promote share of the profit distributions made under Step 2 (catch-up mechanics subject to final documentation and review by securities counsel).
 
-**Tier 4 — Above 15% IRR (70% LP / 30% GP)**
+**Step 4 — Residual Split (Tiered GP Promote)**
 
-Fourth, after the Limited Partners have achieved a 15% internal rate of return on their Capital Contributions, 70% to the Limited Partners and 30% to the General Partner.
-
-**Tier 5 — Above 25% IRR (60% LP / 40% GP)**
-
-Fifth, after the Limited Partners have achieved a 25% internal rate of return on their Capital Contributions, 60% to the Limited Partners and 40% to the General Partner.
-
-**Tier 6 — Above 35% IRR (50% LP / 50% GP)**
-
-Sixth, after the Limited Partners have achieved a 35% internal rate of return on their Capital Contributions, 50% to the Limited Partners and 50% to the General Partner.
+Fourth, all remaining amounts are split between the Limited Partners (pro rata) and the General Partner according to a tiered GP promote based on the LP internal rate of return achieved: a 10% GP promote below a 12% LP IRR; a 20% GP promote in the 12–15% LP IRR band; a 30% GP promote in the 15–18% LP IRR band; and a 40% GP promote above an 18% LP IRR (uncapped).
 
 ### 8.2 Waterfall Summary Table
 
-| Tier | Threshold | LP Share | GP Share | Description |
+| Step | Threshold | LP Share | GP Share | Description |
 |---|---|---|---|---|
-| 1 | Until 1.0x return of capital | 100% | 0% | Return of invested capital |
-| 2 | Until 8% preferred return | 100% | 0% | Cumulative preferred return |
-| 3 | Catch-up | 80% | 20% | GP catch-up to 20% of Tier 2-3 |
-| 4 | Above 15% IRR | 70% | 30% | Performance tier |
-| 5 | Above 25% IRR | 60% | 40% | Enhanced performance tier |
-| 6 | Above 35% IRR | 50% | 50% | Maximum performance tier |
+| 1 | All positive cash flows | — | — | 20% distribution reserve withheld annually; released Year 10 |
+| 2 | Until 10% cumulative preferred return + return of capital | 100% to equity class (LP + GP co-invest pro rata) | — | Preferred return and return of capital |
+| 3 | GP catch-up | — | 100% until catch-up satisfied | GP catch-up to its applicable promote share |
+| 4a | Residual, below 12% LP IRR | 90% | 10% promote | Base promote tier |
+| 4b | Residual, 12–15% LP IRR band | 80% | 20% promote | Performance tier |
+| 4c | Residual, 15–18% LP IRR band | 70% | 30% promote | Performance tier |
+| 4d | Residual, above 18% LP IRR | 60% | 40% promote (uncapped) | Enhanced performance tier |
+
+*A 20% distribution reserve is withheld annually from positive cash flows as a safety buffer and released in Year 10. Waterfall terms are subject to final documentation and review by securities counsel; the detailed waterfall schedule is available upon request.*
 
 ### 8.3 Distribution Timing
 
@@ -534,22 +572,17 @@ The Manager intends to make distributions quarterly, subject to available cash f
 
 In the event that, upon final dissolution and liquidation of the Company, the General Partner has received cumulative distributions in excess of the amounts it would have been entitled to under the waterfall based on the Company's total performance, the General Partner shall return such excess to the Limited Partners (the "Clawback Obligation"). This ensures that the waterfall operates on a whole-fund basis, not a deal-by-deal basis.
 
-### 8.5 Illustrative Waterfall (Base Case — $100,000 Investment)
+### 8.5 Projected LP Returns (Illustrative — $100,000 Investment; Phase 1)
 
-| Component | Amount | Cumulative |
+| Component | 5-Year Interim Snapshot | 10-Year Hold |
 |---|---|---|
-| **Capital Contributed** | $100,000 | — |
-| **Tier 1: Return of Capital** | $100,000 | $100,000 |
-| **Tier 2: Preferred Return (8% x ~4 years)** | $36,049 | $136,049 |
-| **Tier 3: Catch-Up (80/20)** | $45,061 (LP: $36,049 / GP: $9,012) | $172,098 |
-| **Tier 4: 70/30 Split** | $118,540 (LP: $82,978 / GP: $35,562) | $290,638 |
-| **Tier 5: 60/40 Split** | $89,724 (LP: $53,834 / GP: $35,890) | $380,362 |
-| **Tier 6: 50/50 Split** | $61,638 (LP: $30,819 / GP: $30,819) | $442,000 |
-| **Total LP Distributions** | **$339,730** | 3.40x LP return |
-| **Total GP Distributions** | **$102,270** | — |
-| **Total** | **$442,000** | 4.42x blended |
+| **Capital Contributed** | $100,000 | $100,000 |
+| **Projected Cumulative LP Distributions** | $178,847 | $287,823 |
+| **Projected LP Net Profit** | $78,847 | $187,823 |
+| **Projected LP Equity Multiple** | 1.79x | 2.88x |
+| **Projected LP IRR** | 25.7% | 32.1% |
 
-*Illustrative only. Actual distributions depend on project performance. Base case projects 4.42x blended equity multiple.*
+*Projections only — not guaranteed. Actual distributions depend on project performance and may differ materially. Figures are from the Company's Phase 1 financial model and equity waterfall; aggregate projected LP distributions are $14,834,476 over the 10-year hold and $9,217,829 through Year 5. The 5-year column is an interim snapshot, not a separate hold scenario: the construction loan is not repaid at year 5 (projected debt outstanding of $4,624,498 at Year 5). The detailed tier-by-tier waterfall schedule is available upon request. These returns are projected from Phase 1 alone; Phases 2–3 of the master plan represent potential additional upside and give the sponsor additional revenue capacity to support the targeted LP return, but are not required for the projected Phase 1 returns. All terms subject to final documentation and review by securities counsel.*
 
 ---
 
@@ -569,11 +602,11 @@ The following is a summary of certain risks associated with an investment in the
 
 **Competition.** The Austin MSA is an active market for residential development. New master-planned communities, conventional subdivisions, and infill projects compete for the same buyer pool. There can be no assurance that the Company's differentiated positioning will sustain pricing premiums throughout the development period.
 
-**Pricing Risk.** The financial projections assume specific pricing for each product type. Actual achievable prices may be lower than projected due to market conditions, competition, or other factors. A 10% reduction in achievable prices would reduce projected revenue by approximately $43.5 million.
+**Pricing Risk.** The financial projections assume specific pricing for each product type. Actual achievable prices may be lower than projected due to market conditions, competition, or other factors. A 10% reduction in achievable prices would reduce projected Phase 1 revenue by approximately $6 million (and full-project master-plan revenue by approximately $32 million).
 
 ### 9.3 Construction Risks
 
-**Cost Overruns.** Construction costs may exceed projections due to material price increases, labor shortages, design changes, unforeseen site conditions, or contractor performance issues. While the Company has allocated 18% of proceeds to contingency, cost overruns exceeding this reserve would require additional capital.
+**Cost Overruns.** Construction costs may exceed projections due to material price increases, labor shortages, design changes, unforeseen site conditions, or contractor performance issues. While the financial model includes a 10% contingency (approximately $22.9 million over the full multi-phase project) and a 20% distribution reserve withheld annually from positive cash flows as a safety buffer, cost overruns exceeding these reserves would require additional capital.
 
 **Hempcrete Construction Risk.** While hempcrete is a proven building material internationally, the domestic hempcrete construction industry is less mature than conventional construction. The Company may face challenges sourcing qualified hempcrete contractors, obtaining consistent material supply, and achieving projected construction timelines.
 
@@ -605,7 +638,7 @@ The following is a summary of certain risks associated with an investment in the
 
 ### 9.6 Liquidity Risk
 
-**No Public Market.** There is no public market for the Units, and none is expected to develop. The Units are subject to significant transfer restrictions under the Operating Agreement and applicable securities laws. Investors should be prepared to hold their investment for the full 7-10 year project term.
+**No Public Market.** There is no public market for the Units, and none is expected to develop. The Units are subject to significant transfer restrictions under the Operating Agreement and applicable securities laws. Investors should be prepared to hold their investment for the full 10-year hold period (a 5-year interim snapshot is presented, but the construction loan is not repaid at year 5; full-project master-plan construction completion is projected in 2031 with stabilized operations from 2032).
 
 **Limited Redemption.** The Company is not obligated to redeem or repurchase Units from investors. While the Manager may, in its discretion, facilitate transfers between investors, there can be no assurance that any secondary market or transfer opportunity will be available.
 
@@ -621,7 +654,7 @@ The following is a summary of certain risks associated with an investment in the
 
 ### 9.9 Key Person Risk
 
-**Dependence on Key Personnel.** The Company's success depends significantly on the continued involvement of Nicholas Courchesne, Jason Sparks, and other key personnel. The loss or disability of any key person could adversely affect the Company's ability to execute its business plan.
+**Dependence on Key Personnel.** The Company's success depends significantly on the continued involvement of Kelly Krezek and other key team members. The loss or disability of any key person could adversely affect the Company's ability to execute its business plan.
 
 ### 9.10 Tax Risks
 
@@ -677,7 +710,7 @@ In addition to meeting the accredited investor standard, prospective investors s
 
 - Their overall financial situation and the percentage of portfolio allocated to illiquid investments
 - Their ability to bear the economic risk of a total loss of the investment
-- Their investment time horizon (minimum 7-10 years)
+- Their investment time horizon (10-year hold; full-project master-plan construction completion projected 2031)
 - Their need for current income (distributions are not guaranteed)
 - Their understanding of real estate development risks
 - Their tax situation and the ability to utilize pass-through losses and deductions
@@ -763,7 +796,7 @@ The Manager will review and either accept or reject the subscription within 10 b
 
 All subscription funds will be deposited into an escrow account at [Escrow Agent Name], a federally insured depository institution. Funds will be held in escrow until:
 
-(a) The minimum offering amount ($5,000,000) has been achieved;
+(a) The minimum offering amount ($50,000, one Unit) has been achieved;
 (b) The investor's subscription has been accepted by the Manager; and
 (c) The Operating Agreement has been fully executed.
 
@@ -839,7 +872,7 @@ The following exhibits are incorporated by reference into this Private Placement
 
 [Date]
 
-Abundancia Austin Holdings, LLC
+Abundancia Community LLC
 [Address]
 Austin, Texas
 
@@ -864,4 +897,4 @@ Sincerely,
 
 *This Private Placement Memorandum is provided for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction where such offer or solicitation would be unlawful. Securities offered hereby have not been registered under the Securities Act of 1933 or any state securities laws and may not be resold unless registered or exempt from registration. An investment in the Company involves a high degree of risk, including the potential for total loss of invested capital. Prospective investors should consult their own legal, tax, and financial advisors before making any investment decision.*
 
-*Copyright 2026 Abundancia Austin Holdings, LLC. All rights reserved.*
+*Copyright 2026 Abundancia Community LLC. All rights reserved.*

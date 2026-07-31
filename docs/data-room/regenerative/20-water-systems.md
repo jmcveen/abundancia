@@ -1,4 +1,4 @@
-# ABUNDANCIA AUSTIN
+# ABUNDANCIA
 
 ---
 
@@ -9,10 +9,10 @@
 ---
 
 **Document 20** | Data Room - Regenerative Systems
-**Date:** March 2026
+**Date:** July 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 1.0
-**Prepared by:** Abundancia Austin Holdings, LLC
+**Version:** 2.0
+**Prepared by:** Abundancia Community LLC
 
 ---
 
@@ -45,11 +45,13 @@
 
 ## 1. Executive Summary
 
-Abundancia Austin's water system is designed as a closed-loop, self-sufficient infrastructure that secures the community's water supply independent of municipal water utilities. The system integrates five water sources — two existing wells, rainwater harvesting, seven retention ponds, and recycled greywater — into a unified management system that provides potable water, irrigation water, fire suppression capacity, and ecological services.
+Abundancia's water system is designed as a layered, redundant infrastructure that secures the community's water supply with no single point of failure. The strategy integrates six supply layers — Aqua Water Supply Corporation (Aqua WSC) utility service; 7 existing water-retention ponds (with additional ponds to be created); 6 wells supported by 13 storage tanks and filtration; rainwater capture on every building; 11 atmospheric water generators for drinking water; and recycled greywater — into a unified management system that provides potable water, irrigation water, fire suppression capacity, and ecological services.
 
-Central Texas receives approximately 34-38 inches of annual rainfall, and the community's land area captures an estimated 50-80 million gallons of precipitation annually. The water system is designed to capture, store, treat, and distribute this resource while maintaining reserves for drought periods. The 7 retention ponds provide an estimated 10-20 million gallons of storage capacity for stormwater management, irrigation, aquatic habitat, and emergency reserve.
+Central Texas receives approximately 34-38 inches of annual rainfall, and the community's land area captures an estimated 50-80 million gallons of precipitation annually. Rainwater capture on every building — approximately 524,000 SF of roof area × 35.5 inches/year × 0.623 gal/SF-inch at 80-90% collection efficiency — yields an estimated 9-11 million gallons per year at build-out. The water system is designed to capture, store, treat, and distribute this resource while maintaining reserves for drought periods. The 7 existing retention ponds provide an estimated 10-20 million gallons of storage capacity for stormwater management, irrigation, aquatic habitat, and emergency reserve. On the demand side, low-flow fixtures and greywater recycling hold consumption below that of a typical development.
 
-The system is designed to meet TCEQ (Texas Commission on Environmental Quality) standards for a public water system while exceeding those standards through advanced treatment, redundant supply, and continuous monitoring. During the February 2021 Winter Storm Uri, 1,400+ public water systems in Texas failed, leaving 14.6 million people without safe drinking water. Abundancia's independent water system with solar-powered pumps and on-site treatment eliminates this vulnerability entirely.
+Verification is already scoped: a full watershed analysis by Symbiosis TX will be commissioned immediately upon entering due diligence, and hydrology + water feasibility are the first predevelopment spend.
+
+The system is designed to meet TCEQ (Texas Commission on Environmental Quality) standards while exceeding those standards through advanced treatment, redundant supply, and continuous monitoring. During the February 2021 Winter Storm Uri, 1,400+ public water systems in Texas failed, leaving 14.6 million people without safe drinking water. Abundancia's layered water system — utility service plus substantial on-site supply, solar-powered pumps, and on-site treatment — is designed to eliminate this vulnerability.
 
 At full buildout, the water system provides 200+ gallons per household per day (well within typical residential consumption of 80-120 gallons per person per day for a conservation-minded community), with drought reserves sufficient for 90-180 days of zero-rainfall conditions.
 
@@ -62,9 +64,9 @@ At full buildout, the water system provides 200+ gallons per household per day (
 | Principle | Implementation |
 |-----------|---------------|
 | Closed-loop water cycle | Every drop is used at least twice; wastewater becomes irrigation or recharge |
-| Self-sufficiency | Zero reliance on municipal water supply |
-| Redundant supply | 5 independent water sources — no single point of failure |
-| Conservation first | Low-flow fixtures, drought-tolerant landscaping, water-efficient appliances reduce demand 40-60% vs conventional |
+| Layered supply | Aqua WSC utility service combined with substantial on-site supply — resilience without sole reliance on any one source |
+| Redundant supply | 6 independent supply layers — no single point of failure |
+| Conservation first | Low-flow fixtures, greywater recycling, drought-tolerant landscaping, and water-efficient appliances hold demand below a typical development |
 | Treatment at point of need | Match water quality to use — potable for drinking, non-potable for irrigation |
 | Gravity-fed where possible | Minimize pumping energy; leverage topography for distribution |
 | Drought resilience by design | Storage, conservation, and source diversity create multi-year drought resilience |
@@ -86,14 +88,17 @@ At full buildout, the water system provides 200+ gallons per household per day (
 
 | Source | Type | Estimated Annual Yield (gallons) | Primary Use | Reliability |
 |--------|------|----------------------------------|-------------|-------------|
-| Well #1 (existing) | Groundwater — Carrizo-Wilcox Aquifer | 3,000,000-5,000,000 | Potable water supply | Very high — deep aquifer |
-| Well #2 (existing) | Groundwater — Carrizo-Wilcox Aquifer | 3,000,000-5,000,000 | Potable water supply (redundant) | Very high — deep aquifer |
-| Rainwater harvesting (rooftops) | Precipitation capture | 4,000,000-7,000,000 | Potable (after treatment) + non-potable | Seasonal — rainfall dependent |
-| Retention ponds (7) | Stormwater capture | 10,000,000-20,000,000 (storage) | Irrigation, fire suppression, habitat | Seasonal — refilled by rain events |
+| Aqua Water Supply Corporation (Aqua WSC) | Regional water utility service | Per service agreement [TO CONFIRM] | Potable supply (utility layer) | High — established regional utility |
+| Wells (6) + 13 storage tanks + filtration | Groundwater — Carrizo-Wilcox Aquifer | Estimated 6,000,000-10,000,000 (sustainable yield, pending hydrogeological study) | Potable water supply (redundant) | Very high — deep aquifer |
+| Rainwater harvesting (every building) | Precipitation capture | 9,000,000-11,000,000 at build-out | Potable (after treatment) + non-potable | Seasonal — rainfall dependent |
+| Retention ponds (7 existing; more to be created) | Stormwater capture | 10,000,000-20,000,000 (storage) | Irrigation, fire suppression, habitat | Seasonal — refilled by rain events |
+| Atmospheric water generators (11) | Atmospheric moisture capture | [TO CONFIRM — per unit specification] | Drinking water | High — independent of rainfall and groundwater |
 | Greywater recycling | Household wastewater reuse | 2,000,000-4,000,000 | Subsurface irrigation | Continuous — tied to occupancy |
-| **Total available supply** | | **22,000,000-41,000,000** | | |
+| **Total available supply (excl. utility + AWG layers)** | | **27,000,000-45,000,000** | | |
 
 ### 3.2 Well Details
+
+The well program comprises 6 wells supported by 13 storage tanks and filtration. Parameters below are per-well planning estimates pending hydrogeological study and well testing [TO CONFIRM — engineering review].
 
 | Parameter | Well #1 | Well #2 |
 |-----------|---------|---------|
@@ -157,14 +162,12 @@ At full buildout, the water system provides 200+ gallons per household per day (
 
 ### 4.3 Rainfall Capture Potential (Total Site)
 
-| Capture Surface | Area (SF) | Annual Capture at 36" (gallons) | Collection Efficiency | Net Capture (gallons) |
+| Capture Surface | Area (SF) | Annual Capture at 35.5" (gallons) | Collection Efficiency | Net Capture (gallons) |
 |----------------|-----------|--------------------------------|----------------------|----------------------|
-| Home rooftops (200 homes x 2,500 SF) | 500,000 | 11,220,000 | 85% | 9,537,000 |
-| Community building rooftops | 50,000 | 1,122,000 | 85% | 954,000 |
-| Greenhouse rooftops | 10,000 | 224,400 | 85% | 191,000 |
-| Paved surfaces (roads, parking) | 200,000 | 4,488,000 | 70% | 3,142,000 |
-| Retention pond watersheds (direct + runoff) | 2,000,000+ | 44,880,000+ | 50-70% | 22,440,000-31,416,000 |
-| **Total site capture** | | | | **36,264,000-45,240,000** |
+| All building rooftops at build-out (homes, community buildings, greenhouses) | ~524,000 | ~11,585,000 (524,000 SF × 35.5 in × 0.623 gal/SF-in) | 80-90% | 9,000,000-11,000,000 |
+| Paved surfaces (roads, parking) | 200,000 | 4,422,000 | 70% | 3,095,000 |
+| Retention pond watersheds (direct + runoff) | 2,000,000+ | 44,257,000+ | 50-70% | 22,129,000-30,980,000 |
+| **Total site capture** | | | | **~34,200,000-45,100,000** |
 
 ---
 
@@ -192,6 +195,8 @@ At full buildout, the water system provides 200+ gallons per household per day (
 
 ### 5.2 Community Water Budget (200 Households)
 
+*Note: Demand figures reflect a 200-household planning scenario; final demand will be engineered for the full program (~501 structures + estate lots) as part of the Symbiosis TX watershed analysis and hydrology/water feasibility work — the first predevelopment spend [TO CONFIRM]. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with water-system build-out scaling across later phases.*
+
 | Category | Annual Gallons | Notes |
 |----------|---------------|-------|
 | **Demand** | | |
@@ -206,13 +211,15 @@ At full buildout, the water system provides 200+ gallons per household per day (
 | System losses (5-8%) | 530,000-1,000,000 | Leaks, evaporation, treatment waste |
 | **Total annual demand** | **11,538,000-20,799,000** | |
 | **Supply** | | |
-| Wells (2) — sustainable yield | 6,000,000-10,000,000 | Conservative estimate; aquifer-limited |
-| Rainwater harvesting (rooftops) | 9,537,000-10,682,000 | At 34-38" annual rainfall |
+| Aqua WSC utility service | Per service agreement [TO CONFIRM] | Utility layer; not included in total below |
+| Wells (6) + 13 storage tanks — sustainable yield | 6,000,000-10,000,000 | Conservative estimate; aquifer-limited; pending hydrogeological study |
+| Rainwater harvesting (all building rooftops) | 9,000,000-11,000,000 | ~524,000 SF roofs × 35.5"/yr × 0.623 gal/SF-in @ 80-90% efficiency |
+| Atmospheric water generators (11) | [TO CONFIRM — per unit specification] | Drinking water; not included in total below |
 | Greywater recycling | 2,000,000-4,000,000 | Offsets irrigation demand |
 | Retention pond storage (net annual recharge) | 10,000,000-20,000,000 | Stormwater + runoff |
-| **Total annual supply** | **27,537,000-44,682,000** | |
-| **Annual surplus** | **6,738,000-33,144,000** | |
-| **Supply-to-demand ratio** | **2.1x to 3.9x** | **Significant safety margin** |
+| **Total annual supply (on-site layers)** | **27,000,000-45,000,000** | |
+| **Annual surplus** | **6,200,000-33,500,000** | |
+| **Supply-to-demand ratio** | **~1.3x to 3.9x (before utility + AWG layers)** | **Significant safety margin** |
 
 ---
 
@@ -228,7 +235,7 @@ At full buildout, the water system provides 200+ gallons per household per day (
 | Pre-filtration | 400-micron screen filter at downspout | Removes leaves, debris |
 | Storage tank | 2,500-5,000 gallon polyethylene or ferro-cement | Sized for 30-60 days household use |
 | Treatment (potable use) | Sediment filter + carbon block + UV sterilization | Meets EPA drinking water standards |
-| Annual collection per home (avg rainfall) | 37,000-56,000 gallons | At 2,500 SF roof, 85% efficiency, 36" rain |
+| Annual collection per home (avg rainfall) | 37,000-56,000 gallons | At 2,500 SF roof, 80-90% efficiency, 35.5" rain |
 | Annual indoor demand per home | 24,090-33,945 gallons | See household water budget |
 | **Collection : indoor demand ratio** | **1.1x to 2.3x** | **Rooftop rain alone can cover indoor use** |
 
@@ -304,7 +311,9 @@ At full buildout, the water system provides 200+ gallons per household per day (
 | Constructed wetland | 200 homes | 3-5 acres | $1M-$2.5M | Secondary-tertiary treatment | Low |
 | Hybrid: Package plant + constructed wetland polishing | 200 homes | 1-3 acres | $2M-$3.5M | Tertiary+ (highest quality) | Medium |
 
-### 8.2 Recommended System: Hybrid (Package Plant + Constructed Wetland)
+### 8.2 Planned Approach: Biodigester / Bionest OSSF Per Structure
+
+Wastewater treatment is planned as advanced on-site sewage facilities (OSSF) — biodigester/bionest systems per structure — permitted through the TCEQ OSSF program administered by Bastrop County. The hybrid community-scale configuration below (package plant + constructed wetland) remains under evaluation for community facilities and higher-density phases; final configuration is subject to engineering design [TO CONFIRM — engineering review].
 
 | Component | Specification | Function |
 |-----------|---------------|----------|
@@ -495,7 +504,7 @@ At full buildout, the water system provides 200+ gallons per household per day (
 
 | Component | Specification | Notes |
 |-----------|---------------|-------|
-| Treatment facility | Centrally located; processes well water + rainwater | TCEQ-permitted public water system |
+| Treatment facility | Centrally located; processes well water + rainwater; supplemented by Aqua WSC utility service | TCEQ-permitted public water system |
 | Treated water storage | 100,000-200,000 gallon ground-level or elevated tank | Pressure + emergency reserve |
 | Distribution mains | 6-8" PVC (C900) | Looped system for redundancy |
 | Service laterals | 1" copper or PEX to each home | Individual meters |
@@ -570,7 +579,8 @@ At full buildout, the water system provides 200+ gallons per household per day (
 | Regulation | Applicability | Compliance Strategy |
 |-----------|---------------|---------------------|
 | TCEQ Chapter 290 — Public Drinking Water | Community water system (>15 connections) | Licensed operator; approved treatment; regular testing |
-| TCEQ Chapter 217 — Domestic Wastewater | Community wastewater treatment | Permitted treatment plant; effluent monitoring |
+| TCEQ Chapter 285 — On-Site Sewage Facilities (OSSF) | Biodigester/bionest OSSF per structure | Permitted through Bastrop County OSSF program |
+| TCEQ Chapter 217 — Domestic Wastewater | Community-scale treatment (if utilized for community facilities) | Permitted treatment plant; effluent monitoring |
 | TCEQ Chapter 210 — Reclaimed Water | Effluent reuse for irrigation | Type 1 or Type 2 reuse permit; quality monitoring |
 | TCEQ Chapter 210, Subchapter F — Greywater | Household greywater reuse | <400 GPD per residence; subsurface dispersal; no permit needed |
 | TCEQ Stormwater — MS4 / Construction General Permit | Construction-phase stormwater | SWPPP; erosion controls; NOI filing |
@@ -611,7 +621,7 @@ At full buildout, the water system provides 200+ gallons per household per day (
 | Component | Cost Range | Notes |
 |-----------|-----------|-------|
 | **Water Supply** | | |
-| Well rehabilitation and upgrade (2 wells) | $40,000-$80,000 | New pumps, solar power, controls |
+| Well program (6 wells + 13 storage tanks + filtration) | [TO CONFIRM — engineering estimate] | Pumps, solar power, controls, tanks, filtration |
 | Rainwater collection (per-home, 200 homes) | $600,000-$1,200,000 | Gutters, tanks, first-flush, treatment |
 | Community rainwater system | $80,000-$150,000 | Large cisterns, treatment |
 | **Water Treatment** | | |
@@ -636,7 +646,7 @@ At full buildout, the water system provides 200+ gallons per household per day (
 | **Monitoring & Controls** | | |
 | SCADA / water management system | $100,000-$200,000 | Sensors, telemetry, software |
 | Water quality lab / testing equipment | $30,000-$60,000 | Inline monitors + portable testing |
-| **Total Capital Investment** | **$4,280,000-$8,440,000** | |
+| **Total Capital Investment** | **$4,240,000-$8,360,000 + well program [TO CONFIRM]** | Preliminary; to be reconciled with the project financial model site-work budget |
 
 ### 15.2 Annual Operating Costs
 
@@ -729,7 +739,7 @@ Note: The cost premium for an independent water system ($26,000-$41,000 per home
 |------|-------------|--------|------------|
 | Extended drought (>12 months below 50% rainfall) | Low-medium | High | Multi-source supply; wells tap deep aquifer; pond reserves for 6+ months; drought response plan with staged curtailment |
 | Groundwater contamination | Very low | Very high | Deep aquifer naturally protected; regular testing; well casing integrity program; backup rainwater supply |
-| Well yield decline | Low | High | Two wells (redundancy); aquifer monitoring; GCD coordination; rainwater can cover indoor use alone |
+| Well yield decline | Low | High | Six wells with 13 storage tanks (redundancy); Aqua WSC utility layer; aquifer monitoring; GCD coordination; rainwater can cover indoor use alone |
 | Equipment failure (treatment) | Medium | Moderate | Redundant treatment trains; emergency chlorination backup; spare parts inventory |
 | Regulatory changes (TCEQ) | Low-medium | Moderate | System designed to exceed current standards; licensed operator maintains compliance; proactive engagement with TCEQ |
 | Stormwater flooding (extreme event) | Low | Moderate | 100-year design storm for ponds; emergency spillways; homes elevated above flood plain |
@@ -758,4 +768,4 @@ Note: The cost premium for an independent water system ($26,000-$41,000 per home
 
 ---
 
-*This document is the intellectual property of Abundancia Austin Holdings, LLC. Reproduction or distribution without written consent is prohibited.*
+*This document is the intellectual property of Abundancia Community LLC. Reproduction or distribution without written consent is prohibited.*
