@@ -320,14 +320,14 @@ LP return projections from the Phase-1 equity waterfall model:
 | **Kelly Krezek** | Chief Executive Officer, New Earth Development (Manager) | 12 years in regenerative development across 10 regenerative projects; consults for firms with $100B+ in assets under management. Leads vision, master planning, and capital formation for Abundancia. |
 | **Jared Gossett** | Lead Builder | Austin's #1 luxury builder by volume — 170+ homes delivered, two-time Builder of the Year, founder of Legacy Living™. Leads residential construction strategy and delivery. |
 | **Fred Haas, PE** | Civil Engineering & Infrastructure | 40+ years of civil engineering experience; principal of Sustainable Land Strategies. Leads infrastructure design and MUD formation engineering. |
-| **Lancelot Stukaloff** | Capital Markets | Capital markets professional with $750M+ in financing arranged. Leads debt and equity capital structuring. |
+| **Lance Stukaloff** | Chief Investment Officer | Leads debt and equity capital structuring. The New Earth Development team has collectively raised $855M for previous real estate projects. |
 | **Joe McVeen** | Marketing & AI Systems | Founder of Viral Purpose Media with a 400M+ audience network. Leads marketing, brand, and AI-driven systems. |
 | **Angele Miller** | Hospitality — Retreats & Glamping | Co-founder of Creekside RNR Glamping. Leads Phase 1 retreat and glamping operations. |
 | **Gloria Merrick** | Tiny Homes | Tiny home specialist with 16+ builds. Leads the tiny home program. |
 | **Amanda Williams** | Wellness Programs | Wellness program lead; eXp top-1% agent in short-term and mid-term rentals. |
 | **Chelsae Zirna** | Retreats | Leads retreat programming and experience design. |
 
-New Earth Development track record: $755M+ raised, 200+ transactions, 70+ eco-communities analyzed, 21 sustainable projects, with a Living Building Challenge orientation.
+New Earth Development's team members have collectively raised $855M for previous real estate projects, across 200+ transactions and 21 sustainable projects, with a Living Building Challenge orientation.
 
 ### 5.2 Advisory Board
 

@@ -56,7 +56,7 @@ This Escrow Agreement (the "Agreement") is entered into as of [________], 2026 (
 | Party | Role | Details |
 |-------|------|---------|
 | **Abundancia Community LLC** | Issuer / Company | A Delaware limited liability company, manager-managed, with its principal place of business in Bastrop County, Texas |
-| **New Earth Development ([Manager legal entity name — TO CONFIRM])** | Manager | Manager of the Company, acting through its authorized representative Kelly Krezek |
+| **New Earth Development LLC** | Manager | Manager of the Company, acting through its authorized representative Kelly Krezek |
 | **[Escrow Agent Name]** | Escrow Agent | A [national banking association / state-chartered bank / trust company] with its principal office located at [Address] |
 
 *Note (July 2026): the Company's working title/escrow relationship is with **Stewart Title of Austin, LLC** — **Cindy Gilley**, Escrow Officer, License #1877196 (Steck & Mopac office); Escrow Assistant **Cate Chism**, License #1877645. Formal designation of the escrow agent for this Offering remains [TO CONFIRM] and will be completed in the final escrow documentation.*
@@ -91,7 +91,7 @@ Each party represents that it has full legal capacity and corporate or organizat
 
 **WHEREAS**, Abundancia Community LLC (the "Company") is a Delaware limited liability company, manager-managed, formed for the purpose of developing, constructing, and operating a regenerative community on approximately 376 acres of land located at 176 Cedar Creek Circle, Cedar Creek, Bastrop County, Texas (the "Project");
 
-**WHEREAS**, New Earth Development ([Manager legal entity name — TO CONFIRM]) serves as the Manager of the Company, with Kelly Krezek serving as Chief Executive Officer of the Manager;
+**WHEREAS**, New Earth Development LLC serves as the Manager of the Company, with Kelly Krezek serving as Chief Executive Officer of the Manager;
 
 **WHEREAS**, the Company is conducting a private offering (the "Offering") of membership interest units (the "Units") in the Company pursuant to Regulation D, Rule 506(c) promulgated under the Securities Act of 1933, as amended (the "Securities Act");
 
@@ -117,7 +117,7 @@ The purpose of this escrow arrangement is to:
 | Parameter | Detail |
 |-----------|--------|
 | Issuer | Abundancia Community LLC (Delaware LLC, manager-managed) |
-| Manager | New Earth Development ([Manager legal entity name — TO CONFIRM]) |
+| Manager | New Earth Development LLC |
 | Manager CEO | Kelly Krezek |
 | Securities Offered | Class A Membership Interest Units |
 | Maximum Units | Approximately 103 [TO CONFIRM] |
@@ -164,7 +164,7 @@ For purposes of this Agreement, the following terms shall have the meanings set 
 
 **"Investor"** or **"Subscriber"** means any person or entity that has executed a Subscription Agreement and deposited subscription funds into the Escrow Account.
 
-**"Manager"** means New Earth Development ([Manager legal entity name — TO CONFIRM]).
+**"Manager"** means New Earth Development LLC.
 
 **"Material Adverse Change"** means any event, occurrence, or condition that individually or in the aggregate (a) has a material adverse effect on the business, assets, condition, or prospects of the Company or the Project, or (b) materially impairs the Company's ability to perform its obligations under the Offering Documents.
 
@@ -826,7 +826,7 @@ All notices, instructions, certificates, and other communications under this Agr
 **To the Company:**
 
 Abundancia Community LLC
-c/o New Earth Development ([Manager legal entity name — TO CONFIRM])
+c/o New Earth Development LLC
 Attn: Kelly Krezek, Chief Executive Officer of the Manager
 [Address]
 [City, State ZIP]
@@ -938,7 +938,7 @@ The following exhibits are attached hereto and incorporated by reference:
 
 **ABUNDANCIA COMMUNITY LLC**
 
-By: New Earth Development ([Manager legal entity name — TO CONFIRM]), its Manager
+By: New Earth Development LLC, its Manager
 
 By: ________________________________
 Name: Kelly Krezek

@@ -276,12 +276,12 @@ This acceleration directly reduces carrying costs, brings revenue forward, and i
 
 ### 4.5 Agricultural Exemption
 
-The 376-acre property qualifies for an agricultural tax exemption under Texas Tax Code, providing substantial property tax relief during the development period and on retained agricultural parcels. Illustrative example (valuations and rates [TO CONFIRM] with the Bastrop County appraisal district):
+The 376-acre property qualifies for an agricultural tax exemption under Texas Tax Code, providing substantial property tax relief during the development period and on retained agricultural parcels. Illustrative example — the specific assessed values and tax rates below are illustrative and pending confirmation with the Bastrop County appraisal district:
 
 | Scenario | Assessed Value | Tax Rate | Annual Tax |
 |---|---|---|---|
-| **Without Ag Exemption** | Market value [TO CONFIRM] | [TO CONFIRM] | Materially higher |
-| **With Ag Exemption** | Agricultural use value [TO CONFIRM] | [TO CONFIRM] | Substantially reduced |
+| **Without Ag Exemption** | Market value (pending Bastrop CAD) | Pending | Materially higher |
+| **With Ag Exemption** | Agricultural use value (pending Bastrop CAD) | Pending | Substantially reduced |
 
 The agricultural exemption is maintained through active agricultural use (regenerative farming, livestock, food forests) on a minimum qualifying acreage — which aligns directly with Abundancia's regenerative programming (42 acres of regenerative agriculture plus 8.5 acres of permaculture gardens & barns).
 
@@ -747,21 +747,21 @@ Abundancia's four-stream revenue model creates portfolio-level resilience that s
 | **Kelly Krezek** | CEO, New Earth Development (Manager) | 12 years in regenerative development; 10 regenerative projects; consults for firms with $100B+ AUM; leads vision and capital formation |
 | **Jared Gossett** | Lead Builder | Austin's #1 luxury builder by volume; 170+ homes; 2× Builder of the Year; founder of Legacy Living™ |
 | **Fred Haas, PE** | Civil Engineering & Infrastructure | 40+ years civil engineering; Sustainable Land Strategies; leads infrastructure and MUD formation engineering |
-| **Lancelot Stukaloff** | Capital Markets | $750M+ in financing arranged |
+| **Lance Stukaloff** | Chief Investment Officer | Debt & equity capital structuring; team has collectively raised $855M |
 | **Joe McVeen** | Marketing & AI Systems | Viral Purpose Media — 400M+ audience network |
 | **Angele Miller** | Hospitality — Retreats & Glamping | Co-founder, Creekside RNR Glamping; leads Phase 1 retreat/glamping |
 | **Gloria Merrick** | Tiny Homes | 16+ tiny home builds |
 | **Amanda Williams** | Wellness Programs | eXp top-1% agent in STR/MTR |
 | **Chelsae Zirna** | Retreats | Retreat programming and experience design |
 
-New Earth Development track record: $755M+ raised, 200+ transactions, 70+ eco-communities analyzed, 21 sustainable projects, Living Building Challenge orientation.
+New Earth Development's team members have collectively raised $855M for previous real estate projects, across 200+ transactions and 21 sustainable projects, with a Living Building Challenge orientation.
 
 ### 11.2 Team Strengths
 
 - **Local expertise**: Deep Austin and Bastrop County market knowledge, relationships, and operational familiarity
 - **Building depth**: Austin's #1 luxury builder by volume (Jared Gossett) plus specialized tiny home and hospitality operators
 - **Engineering depth**: 40+ years of civil engineering and MUD formation experience (Fred Haas, PE)
-- **Capital markets experience**: $750M+ arranged (Lancelot Stukaloff) on top of NED's $755M+ raised across 200+ transactions
+- **Capital markets experience**: New Earth Development's team members have collectively raised $855M for previous real estate projects (led by Lance Stukaloff, Chief Investment Officer)
 - **Mission alignment**: Every team member is personally committed to regenerative development — this is not a financial exercise with a sustainability veneer
 
 ### 11.3 Advisory Board

@@ -271,7 +271,7 @@ The Phase-1 offering is fully capitalized at $13,354,032; the Phase-1 projected 
 
 ## 10. Vesting & Compensation
 
-GP promote vesting, key-person provisions, and management team compensation schedules are being finalized in the Operating Agreement and related documents and are [TO CONFIRM]. The management team and track record are presented in the Team section of the data room (New Earth Development: $755M+ raised, 200+ transactions, 21 sustainable projects; Kelly Krezek, CEO — 12 years, 10 regenerative projects).
+GP promote vesting, key-person provisions, and management team compensation schedules are being finalized in the Operating Agreement and related documents and are [TO CONFIRM]. The management team and track record are presented in the Team section of the data room (New Earth Development team: $855M collectively raised for previous real estate projects, 200+ transactions, 21 sustainable projects; Kelly Krezek, CEO — 12 years, 10 regenerative projects).
 
 ---
 

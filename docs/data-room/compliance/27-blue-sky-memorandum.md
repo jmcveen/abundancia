@@ -58,7 +58,7 @@ This Blue Sky Memorandum has been prepared for Abundancia Community LLC (the "Co
 | Parameter | Detail |
 |-----------|--------|
 | Issuer | Abundancia Community LLC (Delaware LLC, manager-managed) |
-| Manager | New Earth Development ([Manager legal entity name — TO CONFIRM]) |
+| Manager | New Earth Development LLC |
 | Manager CEO | Kelly Krezek |
 | Securities Offered | Class A Membership Interest Units |
 | Maximum Units | [TO CONFIRM] |
@@ -225,7 +225,7 @@ Form D requires disclosure of the following information:
 |------|-------------|
 | Item 1 | Issuer identity (Abundancia Community LLC, a Delaware LLC; project in Bastrop County, Texas) |
 | Item 2 | Principal place of business and telephone |
-| Item 3 | Related persons (Kelly Krezek, Chief Executive Officer of the Manager; New Earth Development ([Manager legal entity name — TO CONFIRM]), Manager) |
+| Item 3 | Related persons (Kelly Krezek, Chief Executive Officer of the Manager; New Earth Development LLC, Manager) |
 | Item 4 | Industry group (Real Estate) |
 | Item 5 | Issuer size (revenue range or aggregate net asset value) |
 | Item 6 | Federal exemption claimed (Rule 506(c)) |

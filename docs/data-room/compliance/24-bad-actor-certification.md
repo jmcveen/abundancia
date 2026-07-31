@@ -90,7 +90,7 @@ Under Rule 506(d), "covered persons" include the following categories of persons
 - For purposes of this offering, this includes the Chief Executive Officer of the Manager (Kelly Krezek) and any other officers of the Company or its Manager participating in the offering [full officer list TO CONFIRM]
 
 **(c) General Partners and Managing Members**
-- The Manager of the Company — New Earth Development leadership entity (legal name [TO CONFIRM]) — in its capacity as Manager and holder of the Class B (GP/Manager) Units
+- The Manager of the Company — New Earth Development leadership entity (New Earth Development LLC) — in its capacity as Manager and holder of the Class B (GP/Manager) Units
 - Any general partner or managing member of any general partner or managing member of the issuer
 
 **(d) Twenty Percent Beneficial Owners**
@@ -191,7 +191,7 @@ The following table identifies each covered person associated with this offering
 | Covered Person | Role | Relationship to Offering | Disqualification Categories Reviewed | Certification Status |
 |---|---|---|---|---|
 | Abundancia Community LLC | Issuer | Issuer of the Interests | (i) through (viii) | **[TO CONFIRM — re-verification in process]** |
-| Manager — New Earth Development leadership entity (legal name [TO CONFIRM]) | GP / Manager (Class B) | Manager of the Company | (i) through (viii) | **[TO CONFIRM — re-verification in process]** |
+| Manager — New Earth Development leadership entity (New Earth Development LLC) | GP / Manager (Class B) | Manager of the Company | (i) through (viii) | **[TO CONFIRM — re-verification in process]** |
 
 ### 4.2 Individual Covered Persons
 

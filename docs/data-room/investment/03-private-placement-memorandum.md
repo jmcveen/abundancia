@@ -76,7 +76,7 @@ The following is a summary of the material terms of the offering. This summary i
 | **Minimum Investment** | $50,000 (1 Unit) |
 | **Maximum Number of Units** | Approximately 103 Units at $50,000 per Unit |
 | **Investor Qualification** | Accredited Investors Only (verified per Rule 506(c)) |
-| **Manager (GP)** | New Earth Development (Kelly Krezek, Chief Executive Officer) [TO CONFIRM exact legal name of Manager entity] |
+| **Manager (GP)** | New Earth Development LLC (Kelly Krezek, Chief Executive Officer) |
 | **GP Participation** | Class B Units; promote per distribution waterfall (Section 8) — subject to final documentation and review by securities counsel |
 | **GP Co-Investment** | $500,000 of equity invested pari passu with the Class A LP equity (total equity $5,654,032; LP 91.16% / GP 8.84%) |
 | **Preferred Return** | 10% cumulative preferred return to the equity class — subject to final documentation and review by securities counsel |
@@ -362,7 +362,11 @@ The offering proceeds fund Phase 1 of the master plan. The Company's Phase 1 cap
 | **Land Acquisition (modeled scenario)** | ~$2,170,000 | 20% down on ~$6.5M purchase price, ~5% closing costs, 8% land loan (scenario — subject to final terms) |
 | **Hard Costs (Year 1 construction)** | ~$6,650,000 | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture (Year 1 hard costs per model; includes $1,759,523 infrastructure) |
 | **Hard Costs (Year 2 construction)** | ~$10,010,000 | Model home, tiny homes, lot development, 6BR Rental/Event House, infrastructure backbone completion (includes $4,191,808 infrastructure); funded by the Phase 1 capitalization together with Year 2 project revenue |
-| **Soft Costs, Operations, Marketing, Reserves & Offering Costs** | [TO CONFIRM itemization] | Design, engineering, permitting, entitlements, watershed/hydrology analysis, staffing, marketing, contingency and reserves, offering costs |
+| **Soft Costs** | ~$1,531,751 | Due diligence ($142,320), master planning & consultants ($507,505), legal/permits, design & engineering (per Phase 1 model) |
+| **Marketing** | ~$601,000 | Sales & marketing across the Phase 1 sell-through (per Phase 1 model) |
+| **Contingency (10%)** | ~$3,462,904 | 10% contingency across Phase 1 costs (per Phase 1 model) |
+| **Operating Expenses** | ~$11.1M (Yrs 1–10) | Ongoing operations funded from project-generated revenue, not from the equity raise |
+| **Offering / Syndication Costs** | [TO CONFIRM] | Legal, filing, and placement costs — to be finalized with securities counsel |
 
 ### 5.2 Adequacy of Proceeds
 
@@ -397,7 +401,7 @@ There can be no assurance that additional financing, if needed, will be availabl
 
 ### 6.1 General Partner
 
-New Earth Development (the "General Partner" or "Manager") [TO CONFIRM exact legal name of Manager entity] serves as the Manager of the Company and holds the Class B (GP/Manager) Units. New Earth Development is led by Kelly Krezek, Founder and Chief Executive Officer. New Earth Development's track record includes $755M+ raised, 200+ transactions, 70+ eco-communities analyzed, and 21 sustainable projects, with a Living Building Challenge orientation.
+New Earth Development LLC (the "General Partner" or "Manager") serves as the Manager of the Company and holds the Class B (GP/Manager) Units. New Earth Development is led by Kelly Krezek, Founder and Chief Executive Officer. New Earth Development's team members have collectively raised $855M for previous real estate projects, across 200+ transactions and 21 sustainable projects, with a Living Building Challenge orientation.
 
 The General Partner has sole authority and responsibility for the management and operation of the Company, including but not limited to:
 
@@ -414,7 +418,7 @@ The General Partner has sole authority and responsibility for the management and
 
 **Kelly Krezek — Founder & Chief Executive Officer, New Earth Development**
 
-Ms. Krezek is the founder and visionary behind Abundancia. With 12 years of experience and 10 regenerative projects, she consults for firms with $100B+ AUM and has led all aspects of project development including site identification, community design philosophy, and capital formation strategy.
+Kelly Krezek is the founder and visionary behind Abundancia. With 12 years of experience and 10 regenerative projects, she consults for firms with $100B+ AUM and has led all aspects of project development including site identification, community design philosophy, and capital formation strategy.
 
 *Role: Overall strategic direction, capital formation, community vision, external relationships*
 
@@ -430,9 +434,9 @@ Mr. Haas is a civil engineer with 40+ years of experience (Sustainable Land Stra
 
 *Role: Civil engineering, infrastructure, MUD formation*
 
-**Lancelot Stukaloff — Capital Markets**
+**Lance Stukaloff — Chief Investment Officer**
 
-Mr. Stukaloff brings capital markets expertise with $750M+ in financing arranged.
+Mr. Stukaloff, Chief Investment Officer, leads capital markets; the New Earth Development team has collectively raised $855M for previous real estate projects.
 
 *Role: Capital formation, debt and equity structuring, investor relations*
 

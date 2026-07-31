@@ -125,7 +125,7 @@ The Company utilizes a GP/LP-style structure implemented through two unit classe
 
 | Field | Detail |
 |-------|--------|
-| **Manager** | New Earth Development leadership (Kelly Krezek, Chief Executive Officer); Manager legal entity name [TO CONFIRM] |
+| **Manager** | New Earth Development LLC (Kelly Krezek, Chief Executive Officer) |
 | **Units Held** | Class B Units (GP/Manager) |
 | **Role** | Manager of the Company (manager-managed LLC) |
 | **GP Capital** | $500,000 GP co-investment, invested pari passu with Class A (LP) capital (subject to final documentation) |
@@ -287,7 +287,7 @@ The following are affiliates of the Manager and may provide services to the Comp
 
 | Affiliated Entity | Relationship | Services Provided |
 |-------------------|-------------|-------------------|
-| New Earth Development (Manager legal entity name [TO CONFIRM]) | Manager / Sponsor | Development management, sponsorship, and management services |
+| New Earth Development LLC | Manager / Sponsor | Development management, sponsorship, and management services |
 | [Additional Affiliates — TO CONFIRM] | [Relationship] | [Services] |
 
 *The Company has no subsidiary entities and no affiliated "Holdings," "GP," "Manager," or "Development" LLCs as depicted in prior drafts of this document.*

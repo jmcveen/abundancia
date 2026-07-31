@@ -53,7 +53,7 @@ This Ongoing Reporting Framework establishes the comprehensive reporting obligat
 | Parameter | Detail |
 |-----------|--------|
 | Issuer | Abundancia Community LLC (Delaware LLC, manager-managed) |
-| Manager | New Earth Development ([Manager legal entity name — TO CONFIRM]) |
+| Manager | New Earth Development LLC |
 | Manager CEO | Kelly Krezek |
 | Securities | Class A Membership Interest Units [Unit count and per-Unit price TO CONFIRM] |
 | Total Raise | Approximately $5,154,032 Class A/LP equity (Phase 1) [TO CONFIRM]; total Phase-1 capitalization $13,354,032 (≈$5,154,032 LP equity + $500,000 GP co-investment + $7,700,000 construction debt at 8.5%) |
@@ -378,7 +378,7 @@ A "Material Event" is any event, occurrence, or development that a reasonable in
 
 | Event | Description |
 |-------|-------------|
-| Change in Manager | Replacement, removal, or change in New Earth Development ([Manager legal entity name — TO CONFIRM]) as Manager |
+| Change in Manager | Replacement, removal, or change in New Earth Development LLC as Manager |
 | Change in key personnel of the Manager | Replacement or removal of Kelly Krezek as Chief Executive Officer of the Manager |
 | Amendment to Operating Agreement | Any proposed amendment to the Operating Agreement |
 | Related party transaction | Any transaction between the Company and the Manager or its affiliates exceeding $50,000 |

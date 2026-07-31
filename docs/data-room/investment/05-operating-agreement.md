@@ -54,7 +54,7 @@
 
 THIS OPERATING AGREEMENT (this "Agreement") of **ABUNDANCIA COMMUNITY LLC**, a Delaware limited liability company, manager-managed (the "Company"), is entered into and effective as of the date of the last signature hereto (the "Effective Date"), by and among:
 
-**NEW EARTH DEVELOPMENT** [TO CONFIRM exact legal name of Manager entity], as Manager and holder of the Class B Units (the "Manager" or "General Partner" or "GP"); and
+**NEW EARTH DEVELOPMENT LLC**, as Manager and holder of the Class B Units (the "Manager" or "General Partner" or "GP"); and
 
 **THE PERSONS AND ENTITIES** listed on **Exhibit A** attached hereto, as holders of Class A Units (each a "Limited Partner" and collectively, the "Limited Partners" or "LPs"; references to "Limited Partner"/"LP" and "General Partner"/"GP" herein are to Class A Members and the Class B Member/Manager of the Company, respectively — final defined terms subject to review by securities counsel);
 
@@ -164,7 +164,7 @@ The Members of the Company as of the Effective Date are set forth on **Exhibit A
 
 The membership interests in the Company are classified as follows:
 
-**(a) Class B Units (General Partner / Manager Interest).** The General Partner (New Earth Development [TO CONFIRM exact legal name of Manager entity]) holds the Class B Units, entitling it to: (i) manage the Company in accordance with Article VI; (ii) receive compensation as set forth in Section 6.8; and (iii) participate in distributions in accordance with Article VIII (the "Carried Interest" or "Promote").
+**(a) Class B Units (General Partner / Manager Interest).** The General Partner (New Earth Development LLC) holds the Class B Units, entitling it to: (i) manage the Company in accordance with Article VI; (ii) receive compensation as set forth in Section 6.8; and (iii) participate in distributions in accordance with Article VIII (the "Carried Interest" or "Promote").
 
 **(b) Class A Units ("Units").** Class A Units are issued to LP investors pursuant to the Subscription Agreement and entitle the holder to: (i) distributions in accordance with Article VIII; (ii) allocations of income, gain, loss, deduction, and credit in accordance with Article IX; (iii) information rights as set forth in Article XII; (iv) voting rights as set forth in Section 7.2; and (v) such other rights as set forth herein.
 
@@ -264,7 +264,7 @@ The provisions of this Article V are intended to comply with Treasury Regulation
 
 ### Section 6.1 — Manager-Managed Company
 
-The Company is a "manager-managed" limited liability company. The business and affairs of the Company shall be managed exclusively by the Manager (New Earth Development [TO CONFIRM exact legal name of Manager entity]). Except as expressly provided in this Agreement, no Member other than the Manager shall have any right, power, or authority to manage, conduct, or control the business of the Company.
+The Company is a "manager-managed" limited liability company. The business and affairs of the Company shall be managed exclusively by the Manager (New Earth Development LLC). Except as expressly provided in this Agreement, no Member other than the Manager shall have any right, power, or authority to manage, conduct, or control the business of the Company.
 
 ### Section 6.2 — Powers of the Manager
 
@@ -1027,7 +1027,7 @@ IN WITNESS WHEREOF, the undersigned have executed this Operating Agreement as of
 
 ### GENERAL PARTNER / MANAGER:
 
-**NEW EARTH DEVELOPMENT** [TO CONFIRM exact legal name of Manager entity]
+**NEW EARTH DEVELOPMENT LLC**
 
 | | |
 |---|---|
@@ -1038,7 +1038,7 @@ IN WITNESS WHEREOF, the undersigned have executed this Operating Agreement as of
 
 ---
 
-**NEW EARTH DEVELOPMENT** [TO CONFIRM exact legal name of Manager entity]
+**NEW EARTH DEVELOPMENT LLC**
 
 | | |
 |---|---|
@@ -1076,7 +1076,7 @@ By signing below, the undersigned acknowledges that it has read, understands, an
 
 | Member | Type | Capital Contribution | Units | Percentage Interest | Admission Date |
 |---|---|---|---|---|---|
-| New Earth Development [TO CONFIRM exact legal name] | General Partner / Manager | $500,000 (co-investment, pari passu with Class A LP equity) | Class B Units | Carried Interest (per Art. VIII) + pari passu co-investment | [________] |
+| New Earth Development LLC | General Partner / Manager | $500,000 (co-investment, pari passu with Class A LP equity) | Class B Units | Carried Interest (per Art. VIII) + pari passu co-investment | [________] |
 | [Investor 1] | Class A Limited Partner | $[________] | [________] | [________]% | [________] |
 | [Investor 2] | Class A Limited Partner | $[________] | [________] | [________]% | [________] |
 | [Investor 3] | Class A Limited Partner | $[________] | [________] | [________]% | [________] |
@@ -1114,7 +1114,7 @@ Pursuant to Section 4.2 of the Operating Agreement of Abundancia Community LLC (
 
 Sincerely,
 
-**New Earth Development** [TO CONFIRM exact legal name]
+**New Earth Development LLC**
 Manager of Abundancia Community LLC
 
 By: __________________________________________
@@ -1158,7 +1158,7 @@ Pursuant to Article VIII of the Operating Agreement, the Manager hereby provides
 
 Sincerely,
 
-**New Earth Development** [TO CONFIRM exact legal name]
+**New Earth Development LLC**
 Manager of Abundancia Community LLC
 
 ---

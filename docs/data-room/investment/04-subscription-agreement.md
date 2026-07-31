@@ -49,7 +49,7 @@
 
 THIS SUBSCRIPTION AGREEMENT (this "Agreement") is entered into as of the date of execution set forth on the signature page hereof (the "Effective Date"), by and between:
 
-**ABUNDANCIA COMMUNITY LLC**, a Delaware limited liability company, manager-managed (the "Company"), acting through its Manager, New Earth Development [TO CONFIRM exact legal name of Manager entity] (the "Manager"),
+**ABUNDANCIA COMMUNITY LLC**, a Delaware limited liability company, manager-managed (the "Company"), acting through its Manager, New Earth Development LLC (the "Manager"),
 
 and
 
