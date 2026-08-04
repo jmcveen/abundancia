@@ -213,7 +213,7 @@ const ROADMAP_PHASES = [
 const TEAM_MEMBERS = [
   { name: 'Kelly Krezek', title: 'CEO & Founder', credential: '20+ eco projects', photo: '/images/team/kelly-mcveendelmar-007.png' },
   { name: 'Joe McVeen', title: 'Growth & AI Marketing', credential: '$10M+ Client Revenue', photo: '/images/team/joe-mcveen.jpg' },
-  { name: 'Lance Stukaloff', title: 'Capital Markets Lead', credential: '$755M+ raised for RE projects', photo: '/images/team/lancelot-stukaloff.png' },
+  { name: 'Lance Stukaloff', title: 'Capital Markets Lead', credential: '$755M+ raised for RE projects', photo: '/images/team/lancelot-stukaloff-v2.png' },
 ]
 
 const FAQ_ITEMS = [
