@@ -97,7 +97,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Lancelot Stukaloff',
-    photo: '/images/team/lancelot-stukaloff-v3.png',
+    photo: '/images/team/lancelot-stukaloff-v4.png',
     role: 'Capital Markets',
     bio: '10+ years as a real estate investor and capital markets advisor. Has arranged over $750M in equity and debt financing for real estate developments and projects nationwide. Lancelot structures Abundancia\'s investment vehicles, manages the investor pipeline, and drives capital deployment.',
     expertise: ['Capital Markets', 'Equity Structuring', 'Debt Financing', 'Investor Relations'],
@@ -139,7 +139,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Amanda Williams',
-    photo: '/images/team/amanda-williams-v3.jpg',
+    photo: '/images/team/amanda-williams-v4.jpg',
     role: 'Wellness Program Coordinator',
     shortBio: 'eXp Realty Top 1% STR/MTR specialist and CEO of Carolina Furnished Rentals, with 15+ years in real estate investing, hospitality, and wellness experience design.',
     bio: 'eXp Realty Top 1% STR/MTR specialist and CEO of Carolina Furnished Rentals, with 15+ years in real estate investing, flipping, rental operations, and hospitality. Leads Abundancia\'s wellness programming and high-touch guest journey development — from retreat offerings to biohacking experiences and strategic wellness partnerships.',
@@ -166,7 +166,7 @@ const CORE_TEAM = [
   },
   {
     name: 'Gloria Merrick',
-    photo: '/images/team/gloria-merrick-v3.png',
+    photo: '/images/team/gloria-merrick-v4.png',
     role: 'Tiny Home Builder & Design',
     bio: '11 years in construction, marketing, interior design, and real estate investing. Specializes in eco-friendly alternative housing and has built over 16 unique tiny and off-grid living spaces. Gloria brings hands-on expertise in every phase from design concept to final build.',
     expertise: ['Tiny Home Design', 'Eco-Friendly Construction', 'Interior Design', 'Off-Grid Systems'],
