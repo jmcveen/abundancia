@@ -112,7 +112,7 @@ const CORE_TEAM = [
   {
     name: 'Chelsae Zirna',
     photo: '/images/team/chelsae-zirna.jpg',
-    role: 'Community Director',
+    role: 'Community Director & Strategic Partnerships',
     bio: 'Chelsae Zirna is a retreat facilitator devoted to liberating love. She has been an experience designer and community builder for over a decade — from inside IBM to her company Chrysalis. Chelsae leads the intentional design of Abundancia\'s retreat experiences, weaving transformative programming into the land itself.',
     shortBio: 'Retreat facilitator and experience designer devoted to liberating love, with a decade of work spanning IBM to founding Chrysalis.',
     expertise: ['Retreat Facilitation', 'Experience Design', 'Community Building', 'Transformative Programming'],
