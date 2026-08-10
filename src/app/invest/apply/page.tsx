@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useRef } from 'react'
 import { FadeIn } from '@/components/animation'
 import { isValidEmail } from '@/lib/utils'
 import { INVESTMENT_DISCLAIMER } from '@/lib/data/financials'
@@ -70,6 +70,10 @@ export default function InvestorApplyPage() {
   const [isSubmitting, setIsSubmitting] = useState(false)
   const [error, setError] = useState<string | null>(null)
 
+  // Bot protection: honeypot field + form-render timestamp
+  const hpRef = useRef<HTMLInputElement>(null)
+  const loadedAt = useRef<number>(Date.now())
+
   // Section 1 — Contact
   const [firstName, setFirstName] = useState('')
   const [lastName, setLastName] = useState('')
@@ -108,6 +112,8 @@ export default function InvestorApplyPage() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           type: 'investor',
+          _hp: hpRef.current?.value || '',
+          _t: loadedAt.current,
           firstName, lastName, phone, email,
           whyInterested, investmentTypes, pastExperience,
           accreditedStatus, investmentRange, timeline,
@@ -168,6 +174,17 @@ export default function InvestorApplyPage() {
 
             <FadeIn delay={0.2}>
               <form onSubmit={handleSubmit} className="card p-8 space-y-8">
+                {/* Honeypot — hidden from real users; bots fill it and get silently dropped */}
+                <input
+                  ref={hpRef}
+                  type="text"
+                  name="company_website"
+                  tabIndex={-1}
+                  autoComplete="off"
+                  aria-hidden="true"
+                  className="absolute left-[-9999px] top-[-9999px] h-px w-px opacity-0"
+                />
+
 
                 {/* ── Section 1: Contact ── */}
                 <div>

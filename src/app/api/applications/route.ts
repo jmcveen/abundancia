@@ -117,17 +117,65 @@ function buildCollaboratorRow(app: Application): string[] {
   ]
 }
 
+// ─── Bot / spam protection ──────────────────────────────────────────────────
+// Public forms attract automated spam bots that submit random-string names
+// (e.g. "MrpvRxYgmVfHEbwJk"). These guards drop that traffic with ZERO friction
+// for real applicants. Silent 200 for obvious bots so they don't learn/adapt.
+const _rl = new Map<string, number[]>()
+function isRateLimited(ip: string, max = 4, windowMs = 10 * 60_000): boolean {
+  const now = Date.now()
+  const hits = (_rl.get(ip) || []).filter(t => now - t < windowMs)
+  hits.push(now)
+  _rl.set(ip, hits)
+  return hits.length > max
+}
+function looksFakeName(raw: string): boolean {
+  const s = (raw || '').trim()
+  if (!s) return false
+  const tokens = s.split(/\s+/)
+  const letters = s.replace(/[^A-Za-z]/g, '')
+  if (letters.length < 6) return false
+  const vowels = (letters.match(/[aeiouyAEIOUY]/g) || []).length
+  const vowelRatio = vowels / letters.length
+  const longToken = tokens.some(w => w.length >= 12)          // random strings are long single tokens
+  const internalCaps = tokens.some(w => w.length > 6 && /[a-z][A-Z]/.test(w)) // "MrpvRxYgm" camel-random
+  const consonantRun = /[bcdfghjklmnpqrstvwxz]{5,}/i.test(s)  // 5+ consonants in a row
+  if (longToken && internalCaps) return true
+  if (longToken && consonantRun) return true
+  if (letters.length >= 10 && vowelRatio < 0.22) return true  // gibberish has few vowels
+  return false
+}
+
 // ─── POST handler ─────────────────────────────────────────────────────────────
 export async function POST(request: Request) {
   try {
     const body = await request.json()
     const { type, firstName, lastName, email, phone, ...rest } = body
 
+    // 1) Honeypot — a hidden field only bots fill
+    if (typeof body._hp === 'string' && body._hp.trim() !== '') {
+      return NextResponse.json({ ok: true }, { status: 200 })
+    }
+    // 2) Time trap — real people don't complete the form in under 3 seconds
+    const t0 = Number(body._t)
+    if (t0 && Date.now() - t0 < 3000) {
+      return NextResponse.json({ ok: true }, { status: 200 })
+    }
+    // 3) Per-IP rate limit
+    const ip = request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() || 'unknown'
+    if (isRateLimited(ip)) {
+      return NextResponse.json({ ok: true }, { status: 200 })
+    }
+
     if (!type || !['homebuyer', 'investor', 'collaborator'].includes(type)) {
       return NextResponse.json({ error: 'Invalid application type' }, { status: 400 })
     }
     if (!firstName?.trim()) return NextResponse.json({ error: 'First name is required' }, { status: 400 })
     if (!isValidEmail(email))   return NextResponse.json({ error: 'Valid email is required' }, { status: 400 })
+    // 4) Gibberish-name guard (friendly error so a real person can correct it)
+    if (looksFakeName(firstName) || looksFakeName(lastName)) {
+      return NextResponse.json({ error: 'Please enter your full name so our team can follow up.' }, { status: 400 })
+    }
 
     const app: Application = {
       id: crypto.randomUUID(),
