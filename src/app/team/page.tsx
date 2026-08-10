@@ -124,6 +124,20 @@ const CORE_TEAM = [
     linkedIn: '',
   },
   {
+    name: 'John Tran',
+    photo: '/images/team/john-tran.jpg',
+    role: 'Community Cultivator & Experience Curator',
+    bio: 'Over 20 years of experience in community building, conscious experience curation, and wellness across the U.S., Mexico, and internationally. John brings a multidisciplinary background in health, longevity, transformational practices, retreats, and regenerative living to Abundancia, shaping experiences and programming that cultivate human connection, well-being, and a thriving community culture.',
+    shortBio: 'Community builder and conscious-experience curator with 20+ years across the U.S., Mexico, and internationally — spanning health, longevity, retreats, and regenerative living.',
+    expertise: ['Community Building', 'Experience Curation', 'Wellness & Longevity', 'Retreats & Transformational Practices'],
+    achievements: [
+      '20+ years building communities and curating conscious experiences across the U.S., Mexico, and internationally',
+      'Multidisciplinary background in health, longevity, and transformational practices',
+      'Shapes Abundancia\'s experiences and programming for connection, well-being, and thriving community culture',
+    ],
+    linkedIn: '',
+  },
+  {
     name: 'Jared Gossett',
     photo: '/images/team/jared-gossett.png',
     role: 'Luxury Home Builder',
