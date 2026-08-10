@@ -191,22 +191,17 @@ const CORE_TEAM = [
     ],
     linkedIn: '',
   },
-  {
-    name: 'Angele Miller',
-    photo: '/images/team/angele-miller.jpg',
-    role: 'Glamping Operations Partner',
-    bio: 'Co-Founder of Creekside RNR Glamping and its franchise network. Founder of Abundant by Design. Visionary investor and board member recognized as a 2023 Rural Leader Award winner and featured on Dragon\'s Den E4 Season 18. Angele leads Abundancia\'s Phase 1 retreat center and glamping revenue engine.',
-    expertise: ['Glamping Operations', 'Franchise Development', 'Hospitality Management', 'Rural Leadership'],
-    achievements: [
-      'Co-Founded Creekside RNR Glamping and launched its franchise model',
-      '2023 Rural Leader Award winner',
-      'Featured on Dragon\'s Den E4 Season 18',
-    ],
-    linkedIn: '',
-  },
 ]
 
 const PARTNERS = [
+  {
+    name: 'Angele Miller',
+    photo: '/images/team/angele-miller.jpg',
+    org: 'Creekside RNR Glamping',
+    focus: 'Glamping & Hospitality',
+    detail: 'Co-Founder of Creekside RNR Glamping and its franchise network. Founder of Abundant by Design. Visionary investor and board member recognized as a 2023 Rural Leader Award winner and featured on Dragon\'s Den E4 Season 18. Angele advises on Abundancia\'s retreat center and glamping / short-term nature-stay revenue strategy.',
+    role: 'Glamping and hospitality operations advisor — retreat center and short-term nature-stay revenue strategy.',
+  },
   {
     name: 'Rohan Guyot-Sutherland',
     photo: '/images/team/rohan-guyot-sutherland.jpg',
