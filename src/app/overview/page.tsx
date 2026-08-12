@@ -125,7 +125,7 @@ export default function OverviewPage() {
               Abundancia Austin at a Glance
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
-              A 380-acre regenerative community in Bastrop County - 30 minutes from downtown Austin - 30 minutes from downtown. $12.5M capital raise targeting {metrics.irr}% IRR with hempcrete homes, food forests, renewable energy, and sacred spaces.
+              A 380-acre regenerative community in Bastrop County - 30 minutes from downtown Austin. $12.5M capital raise targeting {metrics.irr}% IRR with hempcrete homes, food forests, renewable energy, and sacred spaces.
             </p>
             <p className="mt-4 font-accent text-xs uppercase tracking-[0.14em] text-secondary-600">
               {INVESTMENT_DISCLAIMER}
