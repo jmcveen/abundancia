@@ -133,7 +133,7 @@ export function DeckGate({
           <div
             className="relative w-full select-none overflow-hidden rounded-lg bg-black shadow-2xl"
             onContextMenu={e => e.preventDefault()}
-            style={{ aspectRatio: '1500 / 844' }}
+            style={{ aspectRatio: '1600 / 900' }}
           >
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
