@@ -190,18 +190,17 @@ const LAND_USE = [
 ]
 
 const UNIT_ECONOMICS = [
-  { type: 'Single-Family', price: '$625K', costSF: '$329/SF', margin: '35-40%', breakeven: '$420K' },
-  { type: 'Tiny Home', price: '$200K', costSF: '$333/SF', margin: '40-45%', breakeven: '$145K' },
-  { type: 'Dome Home', price: '$225K', costSF: '$375/SF', margin: '38-42%', breakeven: '$160K' },
-  { type: 'Multifamily', price: '$408K', costSF: '$371/SF', margin: '32-38%', breakeven: '$285K' },
-  { type: 'Lots', price: '$350K', costSF: 'N/A', margin: '55-65%', breakeven: '$125K' },
+  { type: 'Single-Family Home', phase: 'Phase 2', price: '$1.29M', costSF: '$371/SF', margin: '29%', breakeven: '$919K' },
+  { type: 'Condominium', phase: 'Phase 3', price: '$399K', costSF: '$300/SF', margin: '33%', breakeven: '$266K' },
+  { type: 'Micro Villa', phase: 'Phase 1', price: '$142K', costSF: '$200/SF', margin: '54%', breakeven: '$65K' },
+  { type: 'Residential Lot', phase: 'Phase 1', price: '$150K', costSF: 'N/A', margin: '67%', breakeven: '$50K' },
 ]
 
 const CASHFLOW_PHASES = [
-  { phase: 'Investment', years: 'Years 1-2', fcf: '-$12.6M', status: 'Capital Deployment', color: 'text-red-500' },
-  { phase: 'Recovery', years: 'Years 3-4', fcf: '+$5.9M', status: 'Revenue Ramp', color: 'text-amber-500' },
-  { phase: 'Return', years: 'Years 5-7', fcf: '+$32.3M', status: 'LP Capital Returned', color: 'text-primary-600' },
-  { phase: 'Harvest', years: 'Years 8-10', fcf: '+$46.8M', status: 'Maximum Distributions', color: 'text-secondary-600' },
+  { phase: 'Investment', years: 'Years 1-2', fcf: '-$6.1M', status: 'Capital Deployment', color: 'text-red-500' },
+  { phase: 'Recovery', years: 'Years 3-4', fcf: '+$9.9M', status: 'Villa & Lot Sales', color: 'text-amber-500' },
+  { phase: 'Operations', years: 'Years 5-7', fcf: '+$8.9M', status: 'Stabilised Hospitality', color: 'text-primary-600' },
+  { phase: 'Harvest', years: 'Years 8-10', fcf: '+$10.6M', status: 'Maximum Distributions', color: 'text-secondary-600' },
 ]
 
 const ROADMAP_PHASES = [
@@ -663,6 +662,7 @@ export default function InvestorOverviewPage() {
                 <thead>
                   <tr className="border-b-2 border-primary-100">
                     <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-left py-3 px-4">Unit Type</th>
+                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-left py-3 px-4">Phase</th>
                     <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Avg. Price</th>
                     <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Cost/SF</th>
                     <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Gross Margin</th>
@@ -673,6 +673,7 @@ export default function InvestorOverviewPage() {
                   {UNIT_ECONOMICS.map((unit, i) => (
                     <tr key={unit.type} className={`border-b border-neutral-100 ${i % 2 === 0 ? 'bg-canvas' : ''}`}>
                       <td className="font-accent text-sm font-semibold text-neutral-900 py-3.5 px-4">{unit.type}</td>
+                      <td className="font-accent text-xs text-neutral-500 py-3.5 px-4">{unit.phase}</td>
                       <td className="font-mono text-sm text-primary-800 text-right py-3.5 px-4 font-semibold">{unit.price}</td>
                       <td className="font-mono text-sm text-neutral-600 text-right py-3.5 px-4">{unit.costSF}</td>
                       <td className="font-mono text-sm text-secondary-700 text-right py-3.5 px-4 font-semibold">{unit.margin}</td>
@@ -890,7 +891,7 @@ export default function InvestorOverviewPage() {
                 From Capital to Returns
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                LP capital returned by Year 4. Cumulative free cash flow of $72.4M over 10 years.
+                LP capital fully returned by Year 3. Cumulative Phase&nbsp;1 EBITDA of $23.4M over 10 years.
               </p>
             </div>
           </FadeIn>
@@ -922,20 +923,20 @@ export default function InvestorOverviewPage() {
               <div className="bg-primary-50 rounded-2xl p-6 border border-primary-100">
                 <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 text-center mb-6">
                   <div>
-                    <div className="font-display text-2xl font-bold text-primary-800">Year 3</div>
-                    <div className="font-accent text-xs text-primary-600 mt-0.5">Revenue Breakeven</div>
+                    <div className="font-display text-2xl font-bold text-primary-800">Year 2</div>
+                    <div className="font-accent text-xs text-primary-600 mt-0.5">EBITDA Positive</div>
                   </div>
                   <div>
-                    <div className="font-display text-2xl font-bold text-primary-800">Year 4</div>
+                    <div className="font-display text-2xl font-bold text-primary-800">Year 3</div>
                     <div className="font-accent text-xs text-primary-600 mt-0.5">LP Capital Returned</div>
                   </div>
                   <div>
-                    <div className="font-display text-2xl font-bold text-primary-800">33.3%</div>
-                    <div className="font-accent text-xs text-primary-600 mt-0.5">Mature EBITDA Margin</div>
+                    <div className="font-display text-2xl font-bold text-primary-800">36.8%</div>
+                    <div className="font-accent text-xs text-primary-600 mt-0.5">10-Yr EBITDA Margin</div>
                   </div>
                   <div>
-                    <div className="font-display text-2xl font-bold text-primary-800">$72.4M</div>
-                    <div className="font-accent text-xs text-primary-600 mt-0.5">Cumulative 10-Yr FCF</div>
+                    <div className="font-display text-2xl font-bold text-primary-800">$23.4M</div>
+                    <div className="font-accent text-xs text-primary-600 mt-0.5">Cumulative 10-Yr EBITDA</div>
                   </div>
                 </div>
                 <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
