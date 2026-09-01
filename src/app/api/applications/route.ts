@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server'
 import { isValidEmail } from '@/lib/utils'
+import { appendApplicationToLeadsSheet } from '@/lib/leads/sheet'
 
 // ═══════════════════════════════════════════════════════════════════════════
 // Application Submissions API
@@ -195,6 +196,17 @@ export async function POST(request: Request) {
       type === 'homebuyer'    ? buildHomebuyerRow(app) :
       type === 'investor'     ? buildInvestorRow(app)  :
                                 buildCollaboratorRow(app)
+
+    // Also record every application in the combined "Applications" tab of the
+    // shared leads tracker, so pop-ups, applications and deck views live together.
+    try {
+      await appendApplicationToLeadsSheet({
+        id: app.id, type: app.type, firstName: app.firstName, lastName: app.lastName,
+        email: app.email, phone: app.phone, submittedAt: app.submittedAt,
+      })
+    } catch (e) {
+      console.error('combined Applications tab append failed:', e)
+    }
 
     // Fire all side-effects concurrently, never block the response
     await Promise.allSettled([

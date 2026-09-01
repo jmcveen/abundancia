@@ -572,7 +572,7 @@ export default function LandPage() {
                   <span className="font-display text-3xl font-bold text-primary-800">
                     {MASTER_PLAN[activeMasterPlan].acres}
                   </span>
-                  <span className="text-sm text-neutral-500">of 376 total acres</span>
+                  <span className="text-sm text-neutral-500">of 380 total acres</span>
                 </div>
                 <p className="text-sm text-neutral-600 leading-relaxed mb-6">
                   {MASTER_PLAN[activeMasterPlan].detail}

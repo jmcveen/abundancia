@@ -61,8 +61,8 @@ const INVESTMENT_HIGHLIGHTS = [
     icon: DollarSign,
     title: 'LP-Favorable Waterfall',
     modalKey: 'waterfall',
-    brief: '8% preferred return with full capital return priority before GP participation.',
-    detail: 'The operating agreement features an LP-favorable distribution waterfall: investors receive an 8% preferred return annually, followed by full return of capital, before the GP participates in profits. This structure ensures investor interests are protected and aligned with project success. The waterfall also includes a catch-up provision and promote structure that incentivizes strong GP performance.',
+    brief: '10% preferred return with full capital return priority before GP participation.',
+    detail: 'The operating agreement features an LP-favorable distribution waterfall: investors receive an 10% preferred return annually, followed by full return of capital, before the GP participates in profits. This structure ensures investor interests are protected and aligned with project success. The waterfall also includes a catch-up provision and promote structure that incentivizes strong GP performance.',
     link: '/data-room/view/investment/operating-agreement',
     linkLabel: 'View Operating Agreement',
   },
@@ -125,7 +125,7 @@ export default function OverviewPage() {
               Abundancia Austin at a Glance
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
-              A 380-acre regenerative community in Bastrop County - 30 minutes from downtown Austin - 30 minutes from downtown. $12.5M capital raise targeting {metrics.irr}% IRR with hempcrete homes, food forests, renewable energy, and sacred spaces.
+              A 380-acre regenerative community in Bastrop County - 30 minutes from downtown Austin - 30 minutes from downtown. $15.9M capital raise targeting {metrics.irr}% IRR with hempcrete homes, food forests, renewable energy, and sacred spaces.
             </p>
             <p className="mt-4 font-accent text-xs uppercase tracking-[0.14em] text-secondary-600">
               {INVESTMENT_DISCLAIMER}
@@ -139,7 +139,7 @@ export default function OverviewPage() {
         <div className="section-container">
           <div className="grid grid-cols-2 md:grid-cols-5 gap-3 sm:gap-6">
             <Stat target={380} suffix=" Acres" label="Texas Ranchland" />
-            <Stat target={12.5} suffix="M" prefix="$" label="Capital Raise" decimals={1} />
+            <Stat target={15.9} suffix="M" prefix="$" label="Total Capitalization" decimals={1} />
             <Stat target={metrics.irr} suffix="%" label="Projected IRR" decimals={1} />
             <Stat target={metrics.emx} suffix="x" label="Equity Multiple" decimals={2} />
             <div className="col-span-2 md:col-span-1">
@@ -165,7 +165,7 @@ export default function OverviewPage() {
                   Located on 380 acres in Bastrop County, the project benefits from Austin&apos;s explosive growth (50-60K new residents/year), no zoning restrictions, agricultural exemption, and Texas hempcrete building codes. Four diversified revenue streams across residential sales, rental income, lot sales, and commercial leasing provide financial resilience.
                 </p>
                 <p>
-                  The $12.5M capital raise funds the complete vision - land acquisition, Phase 1 construction, retreat center launch, and infrastructure. Revenue generation begins in Phase 1 through retreat operations and first home sales. LP-favorable waterfall with 8% preferred return and full capital return priority.
+                  The $15.9M capital raise funds the complete vision - land acquisition, Phase 1 construction, retreat center launch, and infrastructure. Revenue generation begins in Phase 1 through retreat operations and first home sales. LP-favorable waterfall with 10% preferred return and full capital return priority.
                 </p>
               </div>
               <div className="mt-8">

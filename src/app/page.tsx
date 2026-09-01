@@ -384,7 +384,7 @@ export default function HomePage() {
         <div className="section-container">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-10 md:gap-4">
             <AnimatedStat target={380} suffix=" Acres" label="Texas Ranchland" />
-            <AnimatedStat target={12.5} suffix="M" prefix="$" label="Capital Raise" decimals={1} />
+            <AnimatedStat target={15.9} suffix="M" prefix="$" label="Total Capitalization" decimals={1} />
             <AnimatedStat target={metrics.irr} suffix="%" label="Projected IRR" decimals={1} />
             <AnimatedStat target={500} suffix="+" label="Year Building Lifespan" />
             <div className="col-span-2 md:col-span-1">
@@ -628,7 +628,7 @@ export default function HomePage() {
                   Investment Opportunity
                 </span>
                 <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white tracking-[0.04em] mb-8">
-                  $12.5M Capital Raise
+                  $15.9M Capital Raise
                 </h2>
                 <p className="font-body text-base text-white/40 max-w-lg mb-10 font-light leading-relaxed">
                   Join the movement toward the next generation of housing. Projected {metrics.irr}% IRR with {metrics.emx}x equity multiple over a 10-year hold.

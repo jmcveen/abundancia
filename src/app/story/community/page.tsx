@@ -48,7 +48,7 @@ const HOUSING_TYPES = [
   {
     image: '/images/website/18-rental-units.png',
     type: 'Condos',
-    units: '~350 Units',
+    units: '275 Condos',
     description: 'Beautifully designed shared-building residences that bring regenerative living into a more connected format.',
     detail: 'Condominium residences offer an efficient, community-oriented housing option without sacrificing beauty or quality. These homes bring healthy materials, natural light, and thoughtful shared amenities into a more compact footprint, creating a strong balance between privacy, connection, and accessibility.',
     priceRange: '$185K-$375K',

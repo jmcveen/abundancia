@@ -103,7 +103,7 @@ const CORE_TEAM = [
     expertise: ['Capital Markets', 'Equity Structuring', 'Debt Financing', 'Investor Relations'],
     achievements: [
       '$750M+ in equity and debt arranged for real estate nationally',
-      'Structured the $12.5M Reg D 506(c) offering with LP-favorable waterfall',
+      'Structured the $15.9M Reg D 506(c) offering with LP-favorable waterfall',
       'Manages investor pipeline, due diligence process, and capital deployment',
     ],
     linkedIn: '',

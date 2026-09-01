@@ -9,6 +9,7 @@ import { ScenarioToggle } from '@/components/ui/ScenarioToggle'
 import { useInvestTransition } from '@/lib/context/invest-transition-context'
 import { useScenario } from '@/lib/context/scenario-context'
 import { INVESTMENT_DISCLAIMER, KEY_METRICS, REVENUE_STREAMS as REVENUE_DATA } from '@/lib/data/financials'
+import { DeckGate } from '@/components/deck/DeckGate'
 import {
   ArrowRight, ArrowDown, Leaf, Home, Droplets, Sun, Shield,
   MapPin, TreePine, FileText, TrendingUp, BarChart3,
@@ -149,18 +150,18 @@ const MARKET_POINTS = [
 ]
 
 const REVENUE_STREAM_META: Record<string, { description: string; tailwindColor: string }> = {
-  'Residential Sales': { description: '100 SFR, 350 condos, 60 special units - regenerative materials', tailwindColor: 'bg-primary-700' },
+  'Residential Sales': { description: '100 homes, 275 condos, 60 tiny homes - regenerative materials', tailwindColor: 'bg-primary-700' },
   'Rental Income': { description: '75 condos + 50 unique stays - $5.5M annual target by year 5', tailwindColor: 'bg-primary-500' },
   'Lot Sales': { description: '100 custom lots within Abundancia design guidelines', tailwindColor: 'bg-primary-300' },
   'Commercial Leasing': { description: '10 commercial units, 11 amenities, 8 recreation areas', tailwindColor: 'bg-accent-400' },
 }
 
 const CAPITAL_HIGHLIGHTS = [
-  { label: 'Vehicle', value: 'Texas Series LLC (LP/GP)' },
+  { label: 'Vehicle', value: 'Delaware LLC (LP/GP)' },
   { label: 'Term', value: '5-10 Years' },
   { label: 'Hold Period', value: '10 years' },
   { label: 'Capital Return', value: 'LPs first, before GP promote' },
-  { label: 'Waterfall', value: '80/20 \u2192 70/30 \u2192 60/40 \u2192 50/50' },
+  { label: 'Waterfall', value: '10% \u2192 20% \u2192 30% \u2192 40% promote' },
   { label: 'Reporting', value: 'Quarterly reports, annual K-1s' },
 ]
 
@@ -206,7 +207,7 @@ const CASHFLOW_PHASES = [
 const ROADMAP_PHASES = [
   { phase: 'Phase 1', timeline: 'Months 1-18', title: 'Foundation', items: ['Land acquisition & master planning', 'Retreat center operations (cash flow)', 'Initial infrastructure & MUD formation', 'Model home construction'] },
   { phase: 'Phase 2', timeline: 'Year 2-4', title: 'Growth', items: ['First residential neighborhood (100 units)', 'Commercial village core', 'Food forests & permaculture systems', 'Solar + water infrastructure'] },
-  { phase: 'Phase 3', timeline: 'Year 4-7', title: 'Expansion', items: ['Multifamily development (350 units)', 'Tiny home & dome neighborhoods', 'Full commercial activation', 'Lot sales program'] },
+  { phase: 'Phase 3', timeline: 'Year 4-7', title: 'Expansion', items: ['Condominium development (275 units)', 'Tiny home & dome neighborhoods', 'Full commercial activation', 'Lot sales program'] },
   { phase: 'Phase 4', timeline: 'Year 7-10', title: 'Maturity', items: ['Final buildout & optimization', 'Rental portfolio stabilization', 'Conservation easement finalization', 'Exit preparation & LP distributions'] },
 ]
 
@@ -219,7 +220,7 @@ const TEAM_MEMBERS = [
 const FAQ_ITEMS = [
   {
     question: 'What is the offering structure?',
-    answer: 'Reg D 506(c) offering through a Texas Series LLC. Accredited investors only. LP-favorable waterfall with 8% preferred return and capital return priority.',
+    answer: 'Reg D 506(c) offering through a Delaware LLC. Accredited investors only. LP-favorable waterfall with 10% preferred return and capital return priority.',
   },
   {
     question: 'What are the projected returns?',
@@ -365,37 +366,46 @@ export default function InvestorOverviewPage() {
 
           {/* Key Stats Strip - IRR and EMx are scenario-reactive */}
           <FadeIn delay={0.6}>
-            <div className="grid grid-cols-2 sm:grid-cols-5 gap-6 sm:gap-4 max-w-4xl">
+            <div className="grid grid-cols-2 sm:grid-cols-5 gap-6 sm:gap-3 max-w-5xl">
               <div className="text-center sm:text-left">
-                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
-                  376<span className="text-primary-500"> Acres</span>
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 whitespace-nowrap">
+                  380<span className="text-primary-500"> Acres</span>
                 </div>
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Texas Ranchland</div>
               </div>
               <div className="text-center sm:text-left">
-                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
-                  $12.5<span className="text-primary-500">M</span>
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 whitespace-nowrap">
+                  $15.9<span className="text-primary-500">M</span>
                 </div>
-                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Capital Raise</div>
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Phase 1 Capitalization</div>
               </div>
               <div className="text-center sm:text-left">
-                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 whitespace-nowrap">
                   <AnimatedValue>{metrics.irr}</AnimatedValue><span className="text-primary-500">% IRR</span>
                 </div>
-                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Projected Return</div>
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Projected LP IRR &middot; Phase 1</div>
               </div>
               <div className="text-center sm:text-left">
-                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 whitespace-nowrap">
                   <AnimatedValue>{metrics.emx}</AnimatedValue><span className="text-primary-500">x</span>
                 </div>
-                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Equity Multiple</div>
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Equity Multiple &middot; Phase 1</div>
               </div>
               <div className="text-center sm:text-left">
-                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
-                  670<span className="text-primary-500">+</span>
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 whitespace-nowrap">
+                  511
                 </div>
-                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Planned Units</div>
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Units &middot; All Phases</div>
               </div>
+            </div>
+            <div className="mt-8 flex flex-wrap items-center gap-4">
+              <DeckGate label="View the Investment Deck" />
+              <Link
+                href="/invest/apply"
+                className="inline-flex items-center gap-2 rounded-full border-2 border-primary-700 px-7 py-3.5 font-accent text-sm uppercase tracking-wide text-primary-800 transition-all hover:bg-primary-50"
+              >
+                Apply to Invest
+              </Link>
             </div>
             <p className="mt-6 max-w-3xl font-accent text-xs uppercase tracking-[0.14em] text-primary-700">
               {INVESTMENT_DISCLAIMER}
@@ -482,7 +492,7 @@ export default function InvestorOverviewPage() {
         </div>
       </section>
 
-      {/* ═══ THE 376 ACRES - Data Room Teaser ═══ */}
+      {/* ═══ THE 380 ACRES - Data Room Teaser ═══ */}
       <section className="py-20 md:py-28 bg-white">
         <div className="section-container">
           <FadeIn>
@@ -764,7 +774,7 @@ export default function InvestorOverviewPage() {
 
                 <div className="mt-8 pt-6 border-t border-white/10 grid grid-cols-3 gap-4 text-center">
                   <div>
-                    <div className="font-display text-2xl font-bold text-white">$12.5M</div>
+                    <div className="font-display text-2xl font-bold text-white">$15.9M</div>
                     <div className="font-accent text-xs text-white/50 mt-0.5">Raise</div>
                   </div>
                   <div>
@@ -1071,14 +1081,17 @@ export default function InvestorOverviewPage() {
               &ldquo;The future of housing is regenerative. The future of Austin is Abundancia.&rdquo;
             </p>
             <p className="font-accent text-sm text-white/50 mb-8">
-              $12.5M Capital Raise &middot; Reg D 506(c) &middot; Accredited Investors
+              $15.9M Capital Raise &middot; Reg D 506(c) &middot; Accredited Investors
             </p>
-            <Link
-              href="/invest/apply"
-              className="btn bg-white text-primary-800 hover:bg-white/90 btn-lg rounded-2xl text-base font-semibold"
-            >
-              Start Your Investment Journey
-            </Link>
+            <div className="flex flex-wrap items-center justify-center gap-4">
+              <Link
+                href="/invest/apply"
+                className="btn bg-white text-primary-800 hover:bg-white/90 btn-lg rounded-2xl text-base font-semibold"
+              >
+                Start Your Investment Journey
+              </Link>
+              <DeckGate label="View the Investment Deck" variant="ghost" />
+            </div>
           </FadeIn>
         </div>
       </section>

@@ -36,7 +36,7 @@ const METRIC_EXPLANATIONS: Record<string, { title: string; body: string; methodo
   emx: {
     title: 'LP Equity Multiple (EMx)',
     body: 'The total return on invested capital for Limited Partners. An EMx of 4.42x means every $1 invested returns $4.42 in total distributions over the life of the investment.',
-    methodology: 'Calculated as total LP distributions divided by total LP capital contributions, using the IRR-based waterfall distribution structure with tiered profit splits (80/20 → 70/30 → 60/40 → 50/50).',
+    methodology: 'Calculated as total LP distributions divided by total LP capital contributions, using the IRR-based waterfall distribution structure with a tiered GP promote (10% → 20% → 30% → 40%).',
   },
   irr: {
     title: 'LP Internal Rate of Return (IRR)',
@@ -104,7 +104,7 @@ const FUND_DETAILS: Record<string, { description: string; lineItems: { item: str
 const WATERFALL_EXPLANATIONS: Record<string, { plain: string; example: string }> = {
   'Tier 1 - Return of Capital': {
     plain: 'Initial sales fund development up to the approved budget plus a 10% reserve. Proceeds are distributed 80% LP / 20% GP until investor principal is fully repaid.',
-    example: 'If you invest $250,000, proceeds are split 80/20 until you receive your full $250,000 back.',
+    example: 'If you invest $250,000, you receive 100% of distributions until your full $250,000 plus the 10% preferred return is repaid.',
   },
   'Tier 2 - 12% IRR': {
     plain: 'Once principal is repaid and a 12% IRR to LP is reached, profits are distributed 70% LP / 30% GP. The GP begins to participate more meaningfully in the upside.',
@@ -297,7 +297,7 @@ function FinancialsContent() {
               Pro Forma & Returns
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed mb-8">
-              Detailed financial projections for the $12.5M capital raise. Toggle between conservative, base, and optimistic scenarios to stress-test assumptions.
+              Detailed financial projections for the $15.9M capital raise. Toggle between conservative, base, and optimistic scenarios to stress-test assumptions.
             </p>
             <p className="mb-8 font-accent text-xs uppercase tracking-[0.14em] text-secondary-600">
               {INVESTMENT_DISCLAIMER}
@@ -492,7 +492,7 @@ function FinancialsContent() {
         <div className="section-container">
           <FadeIn>
             <div className="text-center mb-14">
-              <span className="eyebrow mb-3 block">$12.5M Capital Raise</span>
+              <span className="eyebrow mb-3 block">$15.9M Capital Raise</span>
               <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
                 Use of Funds
               </h2>
@@ -556,7 +556,7 @@ function FinancialsContent() {
                 Equity Waterfall
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                LP-favorable waterfall with 8% preferred return. Investors recover capital before any GP participation.
+                LP-favorable waterfall with 10% preferred return. Investors recover capital before any GP participation.
               </p>
               <p className="font-accent text-sm text-neutral-500 mt-2">Click any tier for a plain-language explanation</p>
             </div>

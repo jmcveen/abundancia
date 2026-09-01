@@ -52,7 +52,7 @@ const WATERFALL_DETAILS: Record<string, string> = {
   'Tier 1 - Return of Capital': 'Initial sales will be used to fund development efforts up to the approved budget, plus a 10% reserve. Proceeds are distributed 80% to LP and 20% to GP until the investors\' principal has been fully repaid. This first tier ensures investor capital is protected from day one. In the base case model, return of capital is projected to begin in year 2 and complete by year 4-5. This is standard LP-favorable structuring for real estate private equity.',
   'Tier 2 - 12% IRR': 'Once Tier 1 is complete and investors have received their capital back, Tier 2 is reached at a 12% IRR to LP. At this level, profits are distributed 70% to LP and 30% to GP. The GP begins to participate more meaningfully in the upside. The base case projects a 32% IRR and 4.42x equity multiple, meaning this tier is reached relatively early in the distribution timeline.',
   'Tier 3 - 15% IRR': 'Tier 3 is reached at a 15% IRR to LP. At this level, profits are distributed 60% to LP and 40% to GP. The increasing GP share at higher return levels rewards the management team for outperformance while still ensuring the majority of profits flow to investors. In the base case (4.42x), this entire tier is distributed, with substantial profits flowing in years 5-8.',
-  'Tier 4 - 18% IRR': 'Tier 4 is reached at an 18% IRR to LP. At this level, profits are distributed 50% to LP and 50% to GP until the agreed term is reached. The 50/50 split provides strong incentive for the GP to maximize long-term value creation. In the base case (4.42x), significant distributions fall in this tier. This is where the project\'s true upside is realized - and investors still receive 50 cents of every dollar. The 5-10 year term with projected $428M revenue and $328M pre-tax expenses underpins the projected 32% IRR.',
+  'Tier 4 - 18% IRR': 'Tier 4 is reached at an 18% IRR to LP. At this level, the GP promote reaches 40% (60% to LP) until the agreed term is reached. The 40% promote tier provides strong incentive for the GP to maximize long-term value creation. In the base case (4.42x), significant distributions fall in this tier. This is where the project\'s true upside is realized - and investors still receive 50 cents of every dollar. The 5-10 year term with projected $428M revenue and $328M pre-tax expenses underpins the projected 32% IRR.',
 }
 
 // ═══════════════════════════════════════════════════════════════════════════
@@ -145,7 +145,7 @@ export default function ModelPage() {
               Regenerative Is Profitable
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed mb-8">
-              $12.5M capital raise targeting {metrics.irr}% IRR with a {metrics.emx}x equity multiple over a 5-10 year term. Four diversified revenue streams. Conservation-forward design that improves - not compromises - returns.
+              $15.9M capital raise targeting {metrics.irr}% IRR with a {metrics.emx}x equity multiple over a 5-10 year term. Four diversified revenue streams. Conservation-forward design that improves - not compromises - returns.
             </p>
             <p className="mb-8 font-accent text-xs uppercase tracking-[0.14em] text-secondary-600">
               {INVESTMENT_DISCLAIMER}
@@ -354,7 +354,7 @@ export default function ModelPage() {
         <div className="section-container">
           <FadeIn>
             <div className="text-center mb-14">
-              <span className="eyebrow mb-3 block">$12.5M Capital Raise</span>
+              <span className="eyebrow mb-3 block">$15.9M Capital Raise</span>
               <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
                 Use of Funds
               </h2>
@@ -403,7 +403,7 @@ export default function ModelPage() {
                 Waterfall Distribution
               </h2>
               <p className="text-lg text-white/70 max-w-2xl mx-auto">
-                LP-favorable structure with IRR-based tier progression. Investors recover their capital first, with proceeds distributed 80/20 until principal is repaid.
+                LP-favorable structure with IRR-based tier progression. Investors recover their capital first, with 100% of distributions going to the equity class until capital and the 10% preferred return are repaid.
               </p>
             </div>
           </FadeIn>
@@ -462,7 +462,7 @@ export default function ModelPage() {
               Take the Next Step
             </span>
             <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-white mb-6">
-              Join the $12.5M Capital Raise
+              Join the $15.9M Capital Raise
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
               Accredited investors are invited to participate in a generational opportunity - regenerative development with institutional-grade returns.
