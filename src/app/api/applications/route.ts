@@ -141,7 +141,9 @@ function looksFakeName(raw: string): boolean {
   const longToken = tokens.some(w => w.length >= 12)          // random strings are long single tokens
   const internalCaps = tokens.some(w => w.length > 6 && /[a-z][A-Z]/.test(w)) // "MrpvRxYgm" camel-random
   const consonantRun = /[bcdfghjklmnpqrstvwxz]{5,}/i.test(s)  // 5+ consonants in a row
-  if (longToken && internalCaps) return true
+  // A long CamelCase token alone is not enough — real surnames like
+  // "MacGillivray" hit that. Require gibberish-level vowel scarcity too.
+  if (longToken && internalCaps && vowelRatio < 0.35) return true
   if (longToken && consonantRun) return true
   if (letters.length >= 10 && vowelRatio < 0.22) return true  // gibberish has few vowels
   return false
