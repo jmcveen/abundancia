@@ -24,9 +24,9 @@ export const KEY_METRICS: Record<Scenario, {
   revenue10yr: number
   ebitda10yr: number
 }> = {
-  conservative: { irr: 28, emx: 3.65, revenue10yr: 63_557_464, ebitda10yr: 19_846_106 },
-  base: { irr: 32, emx: 3.86, revenue10yr: 63_557_464, ebitda10yr: 23_413_145 },
-  optimistic: { irr: 35, emx: 4.07, revenue10yr: 63_557_464, ebitda10yr: 23_413_145 },
+  conservative: { irr: 26, emx: 2.45, revenue10yr: 63_557_464, ebitda10yr: 23_413_145 },
+  base: { irr: 30, emx: 3.05, revenue10yr: 63_557_464, ebitda10yr: 23_413_145 },
+  optimistic: { irr: 35, emx: 3.65, revenue10yr: 63_557_464, ebitda10yr: 23_413_145 },
 }
 
 export const INVESTMENT_DISCLAIMER =
