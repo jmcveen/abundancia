@@ -395,8 +395,8 @@ export default function MarketPage() {
                     <td className="font-accent text-sm font-bold text-primary-800 py-4 px-3">Abundancia</td>
                     <td className="text-sm font-semibold text-primary-700 py-4 px-3">Regenerative Community</td>
                     <td className="text-sm text-primary-700 py-4 px-3">Greater Austin</td>
-                    <td className="text-sm text-primary-700 py-4 px-3">420+</td>
-                    <td className="text-sm text-primary-700 py-4 px-3">$200K-$625K</td>
+                    <td className="text-sm text-primary-700 py-4 px-3">511</td>
+                    <td className="text-sm text-primary-700 py-4 px-3">$142K-$2.25M</td>
                     <td className="text-sm font-semibold text-primary-800 py-4 px-3">Full ecosystem - first of its kind</td>
                   </tr>
                 </tbody>
