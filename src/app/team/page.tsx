@@ -99,10 +99,10 @@ const CORE_TEAM = [
     name: 'Lancelot Stukaloff',
     photo: '/images/team/lancelot-stukaloff-v4.png',
     role: 'Capital Markets',
-    bio: '10+ years as a real estate investor and capital markets advisor. Has arranged over $750M in equity and debt financing for real estate developments and projects nationwide. Lancelot structures Abundancia\'s investment vehicles, manages the investor pipeline, and drives capital deployment.',
+    bio: '10+ years as a real estate investor and capital markets advisor. Has arranged over $850M in equity and debt financing for real estate developments and projects nationwide. Lancelot structures Abundancia\'s investment vehicles, manages the investor pipeline, and drives capital deployment.',
     expertise: ['Capital Markets', 'Equity Structuring', 'Debt Financing', 'Investor Relations'],
     achievements: [
-      '$750M+ in equity and debt arranged for real estate nationally',
+      '$850M+ in equity and debt arranged for real estate nationally',
       'Structured the $15.9M Reg D 506(c) offering with LP-favorable waterfall',
       'Manages investor pipeline, due diligence process, and capital deployment',
     ],
@@ -328,8 +328,8 @@ const NEW_EARTH_CARDS = [
   {
     icon: Building2,
     title: 'Proven Track Record',
-    description: '$755M+ raised, 200+ successful transactions, 21 sustainable development projects.',
-    detail: 'Our team brings a combined track record of $755M+ raised across real estate funds and development projects, over 200 successful transactions, and 21 sustainable projects delivered. This is not a first project by first-time developers - it is a proven team applying decades of experience to a generational opportunity.',
+    description: '$855M+ raised, 200+ successful transactions, 21 sustainable development projects.',
+    detail: 'Our team brings a combined track record of $855M+ raised across real estate funds and development projects, over 200 successful transactions, and 21 sustainable projects delivered. This is not a first project by first-time developers - it is a proven team applying decades of experience to a generational opportunity.',
     link: '/data-room/view/investment/investor-presentation',
     linkLabel: 'View Investor Presentation',
   },

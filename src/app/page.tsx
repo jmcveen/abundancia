@@ -655,7 +655,7 @@ export default function HomePage() {
               <Link href="/team" className="block group">
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-px bg-white/[0.06] rounded-2xl overflow-hidden">
                   {[
-                    { stat: '$755M+', label: 'Raised for RE Projects' },
+                    { stat: '$855M+', label: 'Raised for RE Projects' },
                     { stat: '200+', label: 'Successful Transactions' },
                     { stat: '70+', label: 'Eco Communities Analyzed' },
                     { stat: '21', label: 'Sustainable Projects' },

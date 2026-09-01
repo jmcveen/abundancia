@@ -33,17 +33,18 @@ export const INVESTMENT_DISCLAIMER =
   'For verified accredited investors only. Projected returns are forward-looking and not guaranteed.'
 
 // ─── Unit Mix ────────────────────────────────────────────────────────────
-// Source: Financial Model Main Inputs → Summary table
-// 511 total units across the 380-acre development
+// Source: Investment deck (unit mix) + Phase 1 financial model
+// 495 residences and stays + 16 shared/commercial structures = 511 units,
+// across the 380-acre development. 80 of the 100 lots sell in Phase 1.
 
 export const UNIT_MIX = [
-  { type: 'Single-Family Homes', count: 100, avgPrice: 450_000, avgSF: 2_475, avgNightly: 0, revenue10yr: 0 },
-  { type: 'Multifamily', count: 350, avgPrice: 443_571, avgSF: 986, avgNightly: 0, revenue10yr: 0 },
-  { type: 'Special Residential', count: 60, avgPrice: 141_520, avgSF: 324, avgNightly: 0, revenue10yr: 0 },
-  { type: 'Rental Multifamily', count: 75, avgPrice: 0, avgSF: 997, avgNightly: 90, revenue10yr: 11_000_000 },
-  { type: 'Special Rental', count: 50, avgPrice: 0, avgSF: 236, avgNightly: 200, revenue10yr: 23_000_000 },
-  { type: 'Event Center', count: 1, avgPrice: 0, avgSF: 6_000, avgNightly: 4_000, revenue10yr: 9_000_000 },
-  { type: 'Lots', count: 100, avgPrice: 250_000, avgSF: 0, avgNightly: 0, revenue10yr: 0 },
+  { type: 'Single-Family Homes', phase: 2, count: 100, avgPrice: 450_000, avgSF: 2_475, avgNightly: 0, revenue10yr: 0 },
+  { type: 'Condominiums (for sale)', phase: 3, count: 200, avgPrice: 443_571, avgSF: 986, avgNightly: 0, revenue10yr: 0 },
+  { type: 'Rental Condominiums', phase: 3, count: 75, avgPrice: 0, avgSF: 997, avgNightly: 90, revenue10yr: 11_000_000 },
+  { type: 'Micro Villas (for sale)', phase: 1, count: 60, avgPrice: 141_520, avgSF: 324, avgNightly: 0, revenue10yr: 8_856_322 },
+  { type: 'Regen Villas, Domes & Glamping', phase: 1, count: 60, avgPrice: 0, avgSF: 236, avgNightly: 200, revenue10yr: 41_488_929 },
+  { type: 'Retreat & Event Center', phase: 1, count: 1, avgPrice: 0, avgSF: 6_000, avgNightly: 4_000, revenue10yr: 0 },
+  { type: 'Residential Lots', phase: 1, count: 100, avgPrice: 135_218, avgSF: 0, avgNightly: 0, revenue10yr: 10_817_449 },
 ]
 
 // ─── Revenue Streams (10-Year Cumulative) ────────────────────────────────

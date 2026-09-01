@@ -145,7 +145,7 @@ const SOLUTION_PILLARS = [
 const MARKET_POINTS = [
   { stat: '50-60K', label: 'New residents per year in Austin MSA' },
   { stat: '68%', label: 'Of homebuyers pay more for sustainable features' },
-  { stat: '$755M+', label: 'Raised by our team for RE projects' },
+  { stat: '$855M+', label: 'Raised by our team for RE projects' },
   { stat: '10-25%', label: 'Pricing premium for green-certified homes' },
 ]
 
@@ -170,7 +170,7 @@ const MOAT_LAYERS = [
   { title: '380 Acres in the Path of Growth', description: 'Bastrop County, 30 min from downtown Austin. Land at this scale cannot be replicated.' },
   { title: 'Regulatory Advantage', description: 'No zoning in Bastrop County. Hempcrete codes adopted in Texas. 6-12 month timeline vs 18-24 in Austin.' },
   { title: 'Conservation Ecosystem', description: '90%+ land preserved with tax-advantaged easements. Exceeds LPHCP environmental requirements.' },
-  { title: 'Proven Team', description: '$755M+ raised for real estate projects. 200+ transactions. 70+ eco communities analyzed.' },
+  { title: 'Proven Team', description: '$855M+ raised for real estate projects. 200+ transactions. 70+ eco communities analyzed.' },
   { title: 'Diversified Revenue', description: 'Four streams across residential, commercial, rental, and lots.' },
   { title: 'MUD Bond Framework', description: 'Infrastructure costs reimbursed through tax-exempt municipal bonds. Proven Texas mechanism.' },
 ]
@@ -190,31 +190,30 @@ const LAND_USE = [
 ]
 
 const UNIT_ECONOMICS = [
-  { type: 'Single-Family', price: '$625K', costSF: '$329/SF', margin: '35-40%', breakeven: '$420K' },
-  { type: 'Tiny Home', price: '$200K', costSF: '$333/SF', margin: '40-45%', breakeven: '$145K' },
-  { type: 'Dome Home', price: '$225K', costSF: '$375/SF', margin: '38-42%', breakeven: '$160K' },
-  { type: 'Multifamily', price: '$408K', costSF: '$371/SF', margin: '32-38%', breakeven: '$285K' },
-  { type: 'Lots', price: '$350K', costSF: 'N/A', margin: '55-65%', breakeven: '$125K' },
+  { type: 'Single-Family Home (1-4 BR)', phase: 'Phase 2', price: '$450K-$1.13M', priceSF: '$450/SF' },
+  { type: 'Luxury Estate (5-7 BR)', phase: 'Phase 2', price: '$1.58M-$2.25M', priceSF: '$450/SF' },
+  { type: 'Condominium', phase: 'Phase 3', price: '$399K', priceSF: '$450/SF' },
+  { type: 'Micro Villa', phase: 'Phase 1', price: '$142K', priceSF: '$437/SF' },
+  { type: 'Residential Lot', phase: 'Phase 1', price: '$150K', priceSF: 'N/A' },
 ]
 
 const CASHFLOW_PHASES = [
-  { phase: 'Investment', years: 'Years 1-2', fcf: '-$12.6M', status: 'Capital Deployment', color: 'text-red-500' },
-  { phase: 'Recovery', years: 'Years 3-4', fcf: '+$5.9M', status: 'Revenue Ramp', color: 'text-amber-500' },
-  { phase: 'Return', years: 'Years 5-7', fcf: '+$32.3M', status: 'LP Capital Returned', color: 'text-primary-600' },
-  { phase: 'Harvest', years: 'Years 8-10', fcf: '+$46.8M', status: 'Maximum Distributions', color: 'text-secondary-600' },
+  { phase: 'Investment', years: 'Year 1', fcf: '-$14.1M', status: 'Capital Deployment', color: 'text-red-500' },
+  { phase: 'Revenue Launch', years: 'Years 2-4', fcf: '+$18.0M', status: 'Villa & Lot Sales', color: 'text-amber-500' },
+  { phase: 'Operations', years: 'Years 5-7', fcf: '+$8.9M', status: 'Stabilized Hospitality', color: 'text-primary-600' },
+  { phase: 'Harvest', years: 'Years 8-10', fcf: '+$10.6M', status: 'Maximum Distributions', color: 'text-secondary-600' },
 ]
 
 const ROADMAP_PHASES = [
-  { phase: 'Phase 1', timeline: 'Months 1-18', title: 'Foundation', items: ['Land acquisition & master planning', 'Retreat center operations (cash flow)', 'Initial infrastructure & MUD formation', 'Model home construction'] },
-  { phase: 'Phase 2', timeline: 'Year 2-4', title: 'Growth', items: ['First residential neighborhood (100 units)', 'Commercial village core', 'Food forests & permaculture systems', 'Solar + water infrastructure'] },
-  { phase: 'Phase 3', timeline: 'Year 4-7', title: 'Expansion', items: ['Condominium development (275 units)', 'Tiny home & dome neighborhoods', 'Full commercial activation', 'Lot sales program'] },
-  { phase: 'Phase 4', timeline: 'Year 7-10', title: 'Maturity', items: ['Final buildout & optimization', 'Rental portfolio stabilization', 'Conservation easement finalization', 'Exit preparation & LP distributions'] },
+  { phase: 'Phase 1', timeline: 'Years 1-2 · THIS OFFERING', title: 'Foundation & Community Activation', items: ['60 micro villas for sale', '60 regen villas, domes & glamping stays', '80 residential lots', 'Community Center, Retreat Center & Wellness Spa'] },
+  { phase: 'Phase 2', timeline: 'Years 2-4', title: 'Residential Expansion', items: ['100 single-family homes', '20 additional residential lots', 'Education Center & school', 'Food forests & permaculture at scale'] },
+  { phase: 'Phase 3', timeline: 'Years 4-7', title: 'Village & Destination', items: ['275 condominiums (200 for sale, 75 rental)', '11 commercial village spaces', 'Sacred Temple Complex', '10-acre lake & recreation'] },
 ]
 
 const TEAM_MEMBERS = [
   { name: 'Kelly Krezek', title: 'CEO & Founder', credential: '20+ eco projects', photo: '/images/team/kelly-mcveendelmar-007.png' },
   { name: 'Joe McVeen', title: 'Growth & AI Marketing', credential: '$10M+ Client Revenue', photo: '/images/team/joe-mcveen.jpg' },
-  { name: 'Lance Stukaloff', title: 'Capital Markets Lead', credential: '$755M+ raised for RE projects', photo: '/images/team/lancelot-stukaloff-v4.png' },
+  { name: 'Lance Stukaloff', title: 'Capital Markets Lead', credential: '$855M+ raised for RE projects', photo: '/images/team/lancelot-stukaloff-v4.png' },
 ]
 
 const FAQ_ITEMS = [
@@ -653,7 +652,7 @@ export default function InvestorOverviewPage() {
                 The Math Per Unit
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                Every product type carries healthy margins with significant break-even cushion.
+                A range of homes and homesites, from micro villas to luxury estates.
               </p>
             </div>
           </FadeIn>
@@ -664,20 +663,18 @@ export default function InvestorOverviewPage() {
                 <thead>
                   <tr className="border-b-2 border-primary-100">
                     <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-left py-3 px-4">Unit Type</th>
+                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-left py-3 px-4">Phase</th>
                     <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Avg. Price</th>
-                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Cost/SF</th>
-                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Gross Margin</th>
-                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Break-Even</th>
+                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Price/SF</th>
                   </tr>
                 </thead>
                 <tbody>
                   {UNIT_ECONOMICS.map((unit, i) => (
                     <tr key={unit.type} className={`border-b border-neutral-100 ${i % 2 === 0 ? 'bg-canvas' : ''}`}>
                       <td className="font-accent text-sm font-semibold text-neutral-900 py-3.5 px-4">{unit.type}</td>
+                      <td className="font-accent text-xs text-neutral-500 py-3.5 px-4">{unit.phase}</td>
                       <td className="font-mono text-sm text-primary-800 text-right py-3.5 px-4 font-semibold">{unit.price}</td>
-                      <td className="font-mono text-sm text-neutral-600 text-right py-3.5 px-4">{unit.costSF}</td>
-                      <td className="font-mono text-sm text-secondary-700 text-right py-3.5 px-4 font-semibold">{unit.margin}</td>
-                      <td className="font-mono text-sm text-neutral-500 text-right py-3.5 px-4">{unit.breakeven}</td>
+                      <td className="font-mono text-sm text-neutral-600 text-right py-3.5 px-4">{unit.priceSF}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -836,12 +833,18 @@ export default function InvestorOverviewPage() {
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">Development Roadmap</span>
               <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
-                10-Year Vision. 4 Phases.
+                Three Phases. You Are Funding Phase 1.
               </h2>
+              <p className="mx-auto max-w-3xl text-neutral-600 leading-relaxed">
+                The full vision spans three phases over ten years. <strong className="text-neutral-900">This offering
+                funds Phase 1 only</strong> &mdash; and the projected returns shown above are Phase&nbsp;1 economics,
+                standing on their own. Phases 2 and 3 are future revenue streams that add upside; investors do not
+                need them to proceed in order to earn the projected Phase&nbsp;1 return.
+              </p>
             </div>
           </FadeIn>
 
-          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
+          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-5xl mx-auto">
             {ROADMAP_PHASES.map((phase, i) => (
               <StaggerItem key={phase.phase}>
                 <div className={`rounded-2xl p-6 h-full border ${i === 0 ? 'bg-primary-50 border-primary-200' : 'bg-white border-neutral-100'}`}>
@@ -885,7 +888,7 @@ export default function InvestorOverviewPage() {
                 From Capital to Returns
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                LP capital returned by Year 4. Cumulative free cash flow of $72.4M over 10 years.
+                Construction is a single year. Year&nbsp;2 turns positive at +$8.1M, and LP capital is fully returned by Year&nbsp;3. Cumulative Phase&nbsp;1 EBITDA of $23.4M over 10 years.
               </p>
             </div>
           </FadeIn>
@@ -917,20 +920,20 @@ export default function InvestorOverviewPage() {
               <div className="bg-primary-50 rounded-2xl p-6 border border-primary-100">
                 <div className="grid grid-cols-2 sm:grid-cols-4 gap-6 text-center mb-6">
                   <div>
-                    <div className="font-display text-2xl font-bold text-primary-800">Year 3</div>
-                    <div className="font-accent text-xs text-primary-600 mt-0.5">Revenue Breakeven</div>
+                    <div className="font-display text-2xl font-bold text-primary-800">Year 2</div>
+                    <div className="font-accent text-xs text-primary-600 mt-0.5">EBITDA Positive</div>
                   </div>
                   <div>
-                    <div className="font-display text-2xl font-bold text-primary-800">Year 4</div>
+                    <div className="font-display text-2xl font-bold text-primary-800">Year 3</div>
                     <div className="font-accent text-xs text-primary-600 mt-0.5">LP Capital Returned</div>
                   </div>
                   <div>
-                    <div className="font-display text-2xl font-bold text-primary-800">33.3%</div>
-                    <div className="font-accent text-xs text-primary-600 mt-0.5">Mature EBITDA Margin</div>
+                    <div className="font-display text-2xl font-bold text-primary-800">36.8%</div>
+                    <div className="font-accent text-xs text-primary-600 mt-0.5">10-Yr EBITDA Margin</div>
                   </div>
                   <div>
-                    <div className="font-display text-2xl font-bold text-primary-800">$72.4M</div>
-                    <div className="font-accent text-xs text-primary-600 mt-0.5">Cumulative 10-Yr FCF</div>
+                    <div className="font-display text-2xl font-bold text-primary-800">$23.4M</div>
+                    <div className="font-accent text-xs text-primary-600 mt-0.5">Cumulative 10-Yr EBITDA</div>
                   </div>
                 </div>
                 <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
@@ -967,7 +970,7 @@ export default function InvestorOverviewPage() {
                 Proven Operators
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                A team that has raised $755M+ for real estate projects and analyzed 70+ eco-communities worldwide.
+                A team that has raised $855M+ for real estate projects and analyzed 70+ eco-communities worldwide.
               </p>
             </div>
           </FadeIn>
