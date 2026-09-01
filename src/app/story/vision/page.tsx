@@ -273,7 +273,7 @@ export default function VisionPage() {
           <FadeIn delay={0.3}>
             <div className="mt-8 flex items-center gap-3">
               <div className="accent-line w-16" />
-              <span className="font-accent text-sm text-neutral-500">380 Acres &middot; Greater Austin, TX</span>
+              <span className="font-accent text-sm text-neutral-500">376 Acres &middot; Greater Austin, TX</span>
             </div>
           </FadeIn>
         </div>

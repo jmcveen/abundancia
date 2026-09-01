@@ -1,7 +1,7 @@
 // ═══════════════════════════════════════════════════════════════════════════
 // Financial Data - Abundancia Austin
 // Source: Financial Model Spreadsheet (3. Financial Model) + Investor Deck
-// Capital Raise: $12.5M | IRR: 32.0% | EMx: 4.42x
+// Capital Raise: $15.9M | IRR: 32.0% | EMx: 4.42x
 // Updated: 2026-03-11 from Simple Pro Forma & Main Inputs tabs
 // ═══════════════════════════════════════════════════════════════════════════
 
@@ -24,9 +24,9 @@ export const KEY_METRICS: Record<Scenario, {
   revenue10yr: number
   ebitda10yr: number
 }> = {
-  conservative: { irr: 24, emx: 3.0, revenue10yr: 350_000_000, ebitda10yr: 70_000_000 },
-  base: { irr: 32, emx: 4.42, revenue10yr: 428_935_061, ebitda10yr: 100_673_704 },
-  optimistic: { irr: 45, emx: 5.5, revenue10yr: 520_000_000, ebitda10yr: 140_000_000 },
+  conservative: { irr: 28, emx: 3.65, revenue10yr: 63_557_464, ebitda10yr: 19_846_106 },
+  base: { irr: 32, emx: 3.86, revenue10yr: 63_557_464, ebitda10yr: 23_413_145 },
+  optimistic: { irr: 35, emx: 4.07, revenue10yr: 63_557_464, ebitda10yr: 23_413_145 },
 }
 
 export const INVESTMENT_DISCLAIMER =
@@ -34,7 +34,7 @@ export const INVESTMENT_DISCLAIMER =
 
 // ─── Unit Mix ────────────────────────────────────────────────────────────
 // Source: Financial Model Main Inputs → Summary table
-// 665 total structures across the 380-acre development
+// 511 total units across the 376-acre development
 
 export const UNIT_MIX = [
   { type: 'Single-Family Homes', count: 100, avgPrice: 450_000, avgSF: 2_475, avgNightly: 0, revenue10yr: 0 },
@@ -114,7 +114,7 @@ export const REVENUE_BY_YEAR: Record<Scenario, { year: number; revenue: number; 
   ],
 }
 
-// ─── Use of Funds ($12.5M Capital Raise) ─────────────────────────────────
+// ─── Use of Funds ($15.9M Capital Raise) ─────────────────────────────────
 // Source: Investor Deck slide 31
 // Total: $12,473,002
 

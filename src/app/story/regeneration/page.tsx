@@ -20,7 +20,7 @@ const PETALS = [
     name: 'Place',
     description: 'Restoring a healthy interrelationship with nature.',
     color: 'bg-green-500',
-    detail: 'Abundancia preserves over 90% of its 380 acres as native Lost Pines ecosystem, wildlife corridors, and restored habitat. Development is clustered into pods that minimize land disturbance while maximizing connection to nature. Every resident lives within a 2-minute walk of preserved wilderness, food forests, or restored waterways.',
+    detail: 'Abundancia preserves over 90% of its 376 acres as native Lost Pines ecosystem, wildlife corridors, and restored habitat. Development is clustered into pods that minimize land disturbance while maximizing connection to nature. Every resident lives within a 2-minute walk of preserved wilderness, food forests, or restored waterways.',
     link: '/data-room/view/property/site-assessment',
     linkLabel: 'View Site Assessment',
   },

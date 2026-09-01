@@ -81,7 +81,7 @@ const WHY_LOCATION = [
     description: 'County permitting vs. 18-24 months in Austin. Faster to market, lower carrying costs, reduced risk.',
     detail: [
       'The county\'s streamlined permitting process enables a 6-12 month timeline from application to first building permits. This is less than half the 18-24 month timeline typical for Austin developments, and does not carry the political risk of discretionary approvals.',
-      'Faster permitting translates directly to improved project economics: lower carrying costs on land, earlier revenue generation, and reduced exposure to market cycle risk. For a 380-acre development, the interest savings alone on a 12-month acceleration can exceed $1M.',
+      'Faster permitting translates directly to improved project economics: lower carrying costs on land, earlier revenue generation, and reduced exposure to market cycle risk. For a 376-acre development, the interest savings alone on a 12-month acceleration can exceed $1M.',
       'The county building department has also been proactive in preparing for hempcrete construction, with inspectors trained on the IRC 2024 Appendix BA standards. This removes what has historically been the biggest regulatory uncertainty for natural building materials.',
     ],
     link: '/data-room/view/property/site-assessment',
@@ -90,9 +90,9 @@ const WHY_LOCATION = [
   {
     stat: '$0.98',
     label: '/ $100 Property Tax',
-    description: 'Agricultural exemption dramatically reduces holding costs during development. The 380-acre site qualifies.',
+    description: 'Agricultural exemption dramatically reduces holding costs during development. The 376-acre site qualifies.',
     detail: [
-      'The 380-acre Abundancia property qualifies for Texas agricultural exemption, which values the land based on agricultural productivity rather than market value. This reduces the assessed value from approximately $15-20K per acre (market) to $200-400 per acre (agricultural), cutting annual property taxes by over 95% during the development period.',
+      'The 376-acre Abundancia property qualifies for Texas agricultural exemption, which values the land based on agricultural productivity rather than market value. This reduces the assessed value from approximately $15-20K per acre (market) to $200-400 per acre (agricultural), cutting annual property taxes by over 95% during the development period.',
       'The combined Bastrop County tax rate of approximately $0.98 per $100 of assessed value is also significantly lower than Austin\'s rate of $1.85-2.20. Even after development, Abundancia homeowners benefit from lower base tax rates - though the MUD bond overlay will add a special assessment for infrastructure debt service.',
       'The agricultural exemption can be maintained on the 90%+ of the site designated as conservation and agricultural land even after the development parcels are subdivided, providing ongoing tax benefits that enhance the long-term economics of the project.',
     ],
@@ -150,7 +150,7 @@ const PROPERTY_FEATURES = [
     icon: Fence,
     title: 'Completely Fenced',
     description: 'Full perimeter fencing with agricultural infrastructure. 2 barns - one with a performance stage for events.',
-    detail: 'The entire 380-acre property is enclosed with maintained perimeter fencing - a significant existing asset that provides immediate security, livestock management capability, and a defined community boundary. The two barns include a traditional agricultural barn suitable for equipment storage and workshop conversion, and a larger event barn featuring an existing performance stage that has been used for concerts and gatherings. This event infrastructure provides immediate revenue potential from Phase 1, hosting weddings, corporate retreats, music events, and community festivals while residential development progresses.',
+    detail: 'The entire 376-acre property is enclosed with maintained perimeter fencing - a significant existing asset that provides immediate security, livestock management capability, and a defined community boundary. The two barns include a traditional agricultural barn suitable for equipment storage and workshop conversion, and a larger event barn featuring an existing performance stage that has been used for concerts and gatherings. This event infrastructure provides immediate revenue potential from Phase 1, hosting weddings, corporate retreats, music events, and community festivals while residential development progresses.',
     link: '/data-room/view/property/site-assessment',
     linkLabel: 'Infrastructure Assessment',
   },
@@ -209,7 +209,7 @@ export default function LandPage() {
       <section className="relative py-24 md:py-32 overflow-hidden">
         <Image
           src="/images/website/06-regenerative-community-aerial.png"
-          alt="Abundancia - 380 acres near Austin, Texas"
+          alt="Abundancia - 376 acres near Austin, Texas"
           fill
           className="object-cover"
           priority
@@ -222,7 +222,7 @@ export default function LandPage() {
               The Land
             </span>
             <h1 className="font-display text-3xl md:text-4xl lg:text-6xl text-white mb-6 max-w-4xl">
-              380 Acres in Bastrop County
+              376 Acres in Bastrop County
             </h1>
             <p className="text-xl text-white/80 max-w-3xl leading-relaxed">
               Bastrop County - 30 minutes from downtown Austin. A rare assemblage of water, mature trees, existing structures, and agricultural exemption in the fastest-growing metro in America.
@@ -399,7 +399,7 @@ export default function LandPage() {
                 A Rare Assemblage
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                380 acres of water-rich ranchland with existing structures, mature tree cover, and agricultural exemption - assembled and ready for development.
+                376 acres of water-rich ranchland with existing structures, mature tree cover, and agricultural exemption - assembled and ready for development.
               </p>
             </div>
           </FadeIn>

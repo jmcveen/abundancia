@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     default: 'Abundancia Austin - Regenerative Living in Harmony with Nature',
     template: '%s | Abundancia Austin',
   },
-  description: 'A 380-acre regenerative community in Bastrop County, TX. Hempcrete homes, food forests, renewable energy, sacred spaces. $12.5M investment opportunity.',
+  description: 'A 376-acre regenerative community in Bastrop County, TX. Hempcrete homes, food forests, renewable energy, sacred spaces. $15.9M investment opportunity.',
   keywords: [
     'regenerative community',
     'Austin Texas',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   applicationName: 'Abundancia Austin',
   openGraph: {
     title: 'Abundancia Austin - Regenerative Living in Harmony with Nature',
-    description: 'A 380-acre regenerative community proving that profitable development and ecological regeneration amplify each other. $12.5M investment opportunity.',
+    description: 'A 376-acre regenerative community proving that profitable development and ecological regeneration amplify each other. $15.9M investment opportunity.',
     siteName: 'Abundancia Austin',
     locale: 'en_US',
     type: 'website',
@@ -41,14 +41,14 @@ export const metadata: Metadata = {
         url: '/images/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Abundancia Austin - 380 Acres of Regenerative Living in Bastrop County, TX',
+        alt: 'Abundancia Austin - 376 Acres of Regenerative Living in Bastrop County, TX',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Abundancia Austin - Regenerative Living in Harmony with Nature',
-    description: 'A 380-acre regenerative community proving that profitable development and ecological regeneration amplify each other.',
+    description: 'A 376-acre regenerative community proving that profitable development and ecological regeneration amplify each other.',
     images: ['/images/og-image.png'],
   },
 }

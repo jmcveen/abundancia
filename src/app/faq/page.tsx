@@ -31,7 +31,7 @@ const FAQ_SECTIONS = [
     faqs: [
       {
         q: 'What is Abundancia?',
-        a: 'Abundancia is a 380-acre regenerative community in the greater Austin, Texas area. It integrates hempcrete homes, food forests, renewable energy, sacred spaces, and commercial amenities into a complete ecosystem designed for regenerative living.',
+        a: 'Abundancia is a 376-acre regenerative community in the greater Austin, Texas area. It integrates hempcrete homes, food forests, renewable energy, sacred spaces, and commercial amenities into a complete ecosystem designed for regenerative living.',
         links: [
           { text: 'Explore the Land', href: '/story/land' },
           { text: 'Regenerative Vision', href: '/story/regeneration' },
@@ -46,7 +46,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'What stage is the project in?',
-        a: 'We are currently in the due diligence and capital raise phase. The land has been identified, the team is assembled, and the $12.5M capital raise is in progress. Land acquisition and Phase 1 construction will begin upon closing. The retreat center will activate revenue within the first 12 months.',
+        a: 'We are currently in the due diligence and capital raise phase. The land has been identified, the team is assembled, and the $15.9M capital raise is in progress. Land acquisition and Phase 1 construction will begin upon closing. The retreat center will activate revenue within the first 12 months.',
         links: [
           { text: 'View Full Timeline', href: '/timeline' },
           { text: 'Meet the Team', href: '/team' },
@@ -54,7 +54,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'How many homes will there be?',
-        a: 'The full buildout includes 665 total structures: 100 single-family homes, 350 multifamily condos, 60 special residential units (tiny homes, domes, and other unique designs), 75 rental multifamily condos, 50 special rental units, 100 lots, plus community and commercial spaces. All residential construction uses hempcrete or other approved regenerative materials - carbon-negative, fire-resistant building materials with a 500+ year lifespan.',
+        a: 'The full buildout includes 511 total units: 100 single-family homes, 275 condominiums, 60 tiny residential units (tiny homes, domes, and other unique designs), 75 rental multifamily condos, 50 special rental units, 100 lots, plus community and commercial spaces. All residential construction uses hempcrete or other approved regenerative materials - carbon-negative, fire-resistant building materials with a 500+ year lifespan.',
         links: [
           { text: 'Hempcrete Construction Details', href: '/data-room/view/regenerative/hempcrete-construction' },
           { text: 'View Unit Economics', href: '/data-room/view/financial/unit-economics' },
@@ -68,7 +68,7 @@ const FAQ_SECTIONS = [
     faqs: [
       {
         q: 'What is the minimum investment?',
-        a: 'The $12.5M capital raise is structured for accredited investors under Reg D 506(c). Contact our capital markets team for minimum investment details and terms. The offering is designed to attract both institutional and individual accredited investors.',
+        a: 'The $15.9M capital raise is structured for accredited investors under Reg D 506(c). Contact our capital markets team for minimum investment details and terms. The offering is designed to attract both institutional and individual accredited investors.',
         links: [
           { text: 'View Investment Details', href: '/invest' },
           { text: 'Apply to Invest', href: '/invest/apply' },
@@ -85,7 +85,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'How is the entity structured?',
-        a: 'Texas Series LLC with LP/GP structure. LPs receive an 8% annual preferred return with a 4-tier waterfall: 80/20 → 70/30 → 60/40 → 50/50 at progressive IRR hurdles. LPs recover their full capital before any GP promote. The Series LLC structure provides liability isolation between phases while maintaining unified management.',
+        a: 'Delaware LLC with LP/GP structure. LPs receive a 10% annual preferred return with a 4-tier promote structure: 10% → 20% → 30% → 40% to the GP as LP IRR hurdles of 12%, 15% and 18% are cleared at progressive IRR hurdles. LPs recover their full capital before any GP promote. The Delaware LLC structure provides liability isolation between phases while maintaining unified management.',
         links: [
           { text: 'View Operating Agreement', href: '/data-room/view/investment/operating-agreement' },
           { text: 'Investment Overview', href: '/invest' },
@@ -100,7 +100,7 @@ const FAQ_SECTIONS = [
         ],
       },
       {
-        q: 'What does the $12.5M fund?',
+        q: 'What does the $15.9M fund?',
         a: 'Land acquisition (32%), hard costs (14%), site work (14%), master planning (11%), staffing & operations (6%), marketing (5%), and contingency (18%). This funds the complete vision through Phase 1 revenue generation. The 18% contingency is well above industry standard, providing a substantial buffer against cost overruns.',
         links: [
           { text: 'View Construction Budget', href: '/data-room/view/property/construction-budget' },

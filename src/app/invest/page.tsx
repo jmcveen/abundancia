@@ -149,24 +149,24 @@ const MARKET_POINTS = [
 ]
 
 const REVENUE_STREAM_META: Record<string, { description: string; tailwindColor: string }> = {
-  'Residential Sales': { description: '100 SFR, 350 condos, 60 special units - regenerative materials', tailwindColor: 'bg-primary-700' },
+  'Residential Sales': { description: '100 homes, 275 condos, 60 tiny homes - regenerative materials', tailwindColor: 'bg-primary-700' },
   'Rental Income': { description: '75 condos + 50 unique stays - $5.5M annual target by year 5', tailwindColor: 'bg-primary-500' },
   'Lot Sales': { description: '100 custom lots within Abundancia design guidelines', tailwindColor: 'bg-primary-300' },
   'Commercial Leasing': { description: '10 commercial units, 11 amenities, 8 recreation areas', tailwindColor: 'bg-accent-400' },
 }
 
 const CAPITAL_HIGHLIGHTS = [
-  { label: 'Vehicle', value: 'Texas Series LLC (LP/GP)' },
+  { label: 'Vehicle', value: 'Delaware LLC (LP/GP)' },
   { label: 'Term', value: '5-10 Years' },
   { label: 'Hold Period', value: '10 years' },
   { label: 'Capital Return', value: 'LPs first, before GP promote' },
-  { label: 'Waterfall', value: '80/20 \u2192 70/30 \u2192 60/40 \u2192 50/50' },
+  { label: 'Waterfall', value: '10% \u2192 20% \u2192 30% \u2192 40% promote' },
   { label: 'Reporting', value: 'Quarterly reports, annual K-1s' },
 ]
 
 const MOAT_LAYERS = [
   { title: 'First Hempcrete Community in Austin', description: 'No comparable product exists in the fastest-growing metro in America.' },
-  { title: '380 Acres in the Path of Growth', description: 'Bastrop County, 30 min from downtown Austin. Land at this scale cannot be replicated.' },
+  { title: '376 Acres in the Path of Growth', description: 'Bastrop County, 30 min from downtown Austin. Land at this scale cannot be replicated.' },
   { title: 'Regulatory Advantage', description: 'No zoning in Bastrop County. Hempcrete codes adopted in Texas. 6-12 month timeline vs 18-24 in Austin.' },
   { title: 'Conservation Ecosystem', description: '90%+ land preserved with tax-advantaged easements. Exceeds LPHCP environmental requirements.' },
   { title: 'Proven Team', description: '$755M+ raised for real estate projects. 200+ transactions. 70+ eco communities analyzed.' },
@@ -206,7 +206,7 @@ const CASHFLOW_PHASES = [
 const ROADMAP_PHASES = [
   { phase: 'Phase 1', timeline: 'Months 1-18', title: 'Foundation', items: ['Land acquisition & master planning', 'Retreat center operations (cash flow)', 'Initial infrastructure & MUD formation', 'Model home construction'] },
   { phase: 'Phase 2', timeline: 'Year 2-4', title: 'Growth', items: ['First residential neighborhood (100 units)', 'Commercial village core', 'Food forests & permaculture systems', 'Solar + water infrastructure'] },
-  { phase: 'Phase 3', timeline: 'Year 4-7', title: 'Expansion', items: ['Multifamily development (350 units)', 'Tiny home & dome neighborhoods', 'Full commercial activation', 'Lot sales program'] },
+  { phase: 'Phase 3', timeline: 'Year 4-7', title: 'Expansion', items: ['Condominium development (275 units)', 'Tiny home & dome neighborhoods', 'Full commercial activation', 'Lot sales program'] },
   { phase: 'Phase 4', timeline: 'Year 7-10', title: 'Maturity', items: ['Final buildout & optimization', 'Rental portfolio stabilization', 'Conservation easement finalization', 'Exit preparation & LP distributions'] },
 ]
 
@@ -219,7 +219,7 @@ const TEAM_MEMBERS = [
 const FAQ_ITEMS = [
   {
     question: 'What is the offering structure?',
-    answer: 'Reg D 506(c) offering through a Texas Series LLC. Accredited investors only. LP-favorable waterfall with 8% preferred return and capital return priority.',
+    answer: 'Reg D 506(c) offering through a Delaware LLC. Accredited investors only. LP-favorable waterfall with 10% preferred return and capital return priority.',
   },
   {
     question: 'What are the projected returns?',
@@ -327,7 +327,7 @@ export default function InvestorOverviewPage() {
           <FadeIn>
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary-50 border border-primary-100 mb-8">
               <MapPin className="w-3.5 h-3.5 text-primary-600" />
-              <span className="font-accent text-sm font-medium text-primary-700">380 Acres &middot; Greater Austin, TX</span>
+              <span className="font-accent text-sm font-medium text-primary-700">376 Acres &middot; Greater Austin, TX</span>
             </div>
           </FadeIn>
 
@@ -374,7 +374,7 @@ export default function InvestorOverviewPage() {
               </div>
               <div className="text-center sm:text-left">
                 <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
-                  $12.5<span className="text-primary-500">M</span>
+                  $15.9<span className="text-primary-500">M</span>
                 </div>
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Capital Raise</div>
               </div>
@@ -492,7 +492,7 @@ export default function InvestorOverviewPage() {
                 Property Deep Dive
               </span>
               <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
-                How 380 Acres Become a Community
+                How 376 Acres Become a Community
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
                 Every acre has a purpose. Over 90% of the land is preserved for conservation and regenerative agriculture.
@@ -764,7 +764,7 @@ export default function InvestorOverviewPage() {
 
                 <div className="mt-8 pt-6 border-t border-white/10 grid grid-cols-3 gap-4 text-center">
                   <div>
-                    <div className="font-display text-2xl font-bold text-white">$12.5M</div>
+                    <div className="font-display text-2xl font-bold text-white">$15.9M</div>
                     <div className="font-accent text-xs text-white/50 mt-0.5">Raise</div>
                   </div>
                   <div>
@@ -1071,7 +1071,7 @@ export default function InvestorOverviewPage() {
               &ldquo;The future of housing is regenerative. The future of Austin is Abundancia.&rdquo;
             </p>
             <p className="font-accent text-sm text-white/50 mb-8">
-              $12.5M Capital Raise &middot; Reg D 506(c) &middot; Accredited Investors
+              $15.9M Capital Raise &middot; Reg D 506(c) &middot; Accredited Investors
             </p>
             <Link
               href="/invest/apply"
