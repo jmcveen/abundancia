@@ -19,7 +19,7 @@ export async function POST(request: Request) {
     if (typeof body._hp === 'string' && body._hp.trim() !== '') {
       return NextResponse.json({ ok: true }, { status: 200 })
     }
-    if (!name) return NextResponse.json({ error: 'Please enter your name.' }, { status: 400 })
+    if (!name) return NextResponse.json({ error: 'Please enter your full name.' }, { status: 400 })
     if (!isValidEmail(email)) return NextResponse.json({ error: 'Please enter a valid email address.' }, { status: 400 })
 
     try {
@@ -30,7 +30,7 @@ export async function POST(request: Request) {
         interests: ['Investment Deck Viewer'],
         source: 'investment-deck-gate',
         capturedAt: new Date().toISOString(),
-      })
+      }, 'Deck Leads')
     } catch (e) {
       console.error('deck lead capture failed (access still granted):', e)
     }

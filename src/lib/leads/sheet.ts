@@ -38,22 +38,25 @@ async function getAccessToken(): Promise<string> {
   return _accessToken
 }
 
-export async function appendLeadToSheet(lead: LeadRow) {
+export async function appendLeadToSheet(lead: LeadRow, tab = 'Abundancia Pop Up') {
   if (!LEADS_SHEET_ID) { console.warn('No LEADS_SHEET_ID configured'); return }
   const token = await getAccessToken()
   const ts = new Date(lead.capturedAt).toLocaleString('en-US', { timeZone: 'America/Chicago' })
-  const row = [
-    lead.firstName,
-    lead.email,
-    (lead.interests || []).join(', '),
-    lead.source,
-    `${ts} CT`,
-    lead.id,
-    'New',
-    '',
-  ]
+  // Deck Leads tab has its own, simpler shape
+  const row = tab === 'Deck Leads'
+    ? [lead.firstName, lead.email, `${ts} CT`, lead.id, 'New', '']
+    : [
+        lead.firstName,
+        lead.email,
+        (lead.interests || []).join(', '),
+        lead.source,
+        `${ts} CT`,
+        lead.id,
+        'New',
+        '',
+      ]
   const res = await fetch(
-    `https://sheets.googleapis.com/v4/spreadsheets/${LEADS_SHEET_ID}/values/Sheet1!A1:append?valueInputOption=USER_ENTERED&insertDataOption=INSERT_ROWS`,
+    `https://sheets.googleapis.com/v4/spreadsheets/${LEADS_SHEET_ID}/values/${encodeURIComponent(tab)}!A1:append?valueInputOption=USER_ENTERED&insertDataOption=INSERT_ROWS`,
     {
       method: 'POST',
       headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },
@@ -61,4 +64,33 @@ export async function appendLeadToSheet(lead: LeadRow) {
     }
   )
   if (!res.ok) console.error('Leads sheet append error:', await res.text())
+}
+
+
+export interface ApplicationRow {
+  id: string
+  type: string
+  firstName: string
+  lastName: string
+  email: string
+  phone: string
+  submittedAt: string
+}
+
+// Appends to the combined "Applications" tab of the shared leads tracker.
+export async function appendApplicationToLeadsSheet(app: ApplicationRow) {
+  if (!LEADS_SHEET_ID) return
+  const token = await getAccessToken()
+  const ts = new Date(app.submittedAt).toLocaleString('en-US', { timeZone: 'America/Chicago' })
+  const label = app.type.charAt(0).toUpperCase() + app.type.slice(1)
+  const row = [label, app.firstName, app.lastName, app.email, app.phone, `${ts} CT`, app.id, 'New', '']
+  const res = await fetch(
+    `https://sheets.googleapis.com/v4/spreadsheets/${LEADS_SHEET_ID}/values/${encodeURIComponent('Applications')}!A1:append?valueInputOption=USER_ENTERED&insertDataOption=INSERT_ROWS`,
+    {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ values: [row] }),
+    }
+  )
+  if (!res.ok) console.error('Applications tab append error:', await res.text())
 }

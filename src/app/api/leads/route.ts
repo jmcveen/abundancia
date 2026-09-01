@@ -50,7 +50,7 @@ async function appendLeadToSheet(lead: Lead) {
     '',
   ]
   const res = await fetch(
-    `https://sheets.googleapis.com/v4/spreadsheets/${LEADS_SHEET_ID}/values/Sheet1!A1:append?valueInputOption=USER_ENTERED&insertDataOption=INSERT_ROWS`,
+    `https://sheets.googleapis.com/v4/spreadsheets/${LEADS_SHEET_ID}/values/Abundancia%20Pop%20Up!A1:append?valueInputOption=USER_ENTERED&insertDataOption=INSERT_ROWS`,
     {
       method: 'POST',
       headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },

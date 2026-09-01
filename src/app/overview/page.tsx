@@ -125,7 +125,7 @@ export default function OverviewPage() {
               Abundancia Austin at a Glance
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed">
-              A 376-acre regenerative community in Bastrop County - 30 minutes from downtown Austin - 30 minutes from downtown. $15.9M capital raise targeting {metrics.irr}% IRR with hempcrete homes, food forests, renewable energy, and sacred spaces.
+              A 380-acre regenerative community in Bastrop County - 30 minutes from downtown Austin - 30 minutes from downtown. $15.9M capital raise targeting {metrics.irr}% IRR with hempcrete homes, food forests, renewable energy, and sacred spaces.
             </p>
             <p className="mt-4 font-accent text-xs uppercase tracking-[0.14em] text-secondary-600">
               {INVESTMENT_DISCLAIMER}
@@ -138,7 +138,7 @@ export default function OverviewPage() {
       <section className="py-12 md:py-16 bg-canvas">
         <div className="section-container">
           <div className="grid grid-cols-2 md:grid-cols-5 gap-3 sm:gap-6">
-            <Stat target={376} suffix=" Acres" label="Texas Ranchland" />
+            <Stat target={380} suffix=" Acres" label="Texas Ranchland" />
             <Stat target={15.9} suffix="M" prefix="$" label="Total Capitalization" decimals={1} />
             <Stat target={metrics.irr} suffix="%" label="Projected IRR" decimals={1} />
             <Stat target={metrics.emx} suffix="x" label="Equity Multiple" decimals={2} />
@@ -162,7 +162,7 @@ export default function OverviewPage() {
                   <strong>Abundancia</strong> is a mixed-use regenerative community designed to prove that profitable real estate development and ecological regeneration amplify each other. Built with hempcrete - carbon-negative, fire-resistant homes that last 500+ years - the community integrates renewable energy, water security, food forests, and sacred spaces.
                 </p>
                 <p>
-                  Located on 376 acres in Bastrop County, the project benefits from Austin&apos;s explosive growth (50-60K new residents/year), no zoning restrictions, agricultural exemption, and Texas hempcrete building codes. Four diversified revenue streams across residential sales, rental income, lot sales, and commercial leasing provide financial resilience.
+                  Located on 380 acres in Bastrop County, the project benefits from Austin&apos;s explosive growth (50-60K new residents/year), no zoning restrictions, agricultural exemption, and Texas hempcrete building codes. Four diversified revenue streams across residential sales, rental income, lot sales, and commercial leasing provide financial resilience.
                 </p>
                 <p>
                   The $15.9M capital raise funds the complete vision - land acquisition, Phase 1 construction, retreat center launch, and infrastructure. Revenue generation begins in Phase 1 through retreat operations and first home sales. LP-favorable waterfall with 10% preferred return and full capital return priority.
@@ -362,7 +362,7 @@ export default function OverviewPage() {
           <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 max-w-5xl mx-auto">
             {[
               { label: 'Vision & Story', href: '/story/vision', description: 'The thesis and guiding principles' },
-              { label: 'The Land', href: '/story/land', description: '376 acres in Bastrop County' },
+              { label: 'The Land', href: '/story/land', description: '380 acres in Bastrop County' },
               { label: 'Business Model', href: '/model', description: 'Revenue streams and projections' },
               { label: 'Meet the Team', href: '/team', description: 'Leadership and partners' },
               { label: 'Data Room', href: '/data-room', description: 'Full documents and due diligence' },

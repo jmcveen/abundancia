@@ -31,7 +31,7 @@ const FAQ_SECTIONS = [
     faqs: [
       {
         q: 'What is Abundancia?',
-        a: 'Abundancia is a 376-acre regenerative community in the greater Austin, Texas area. It integrates hempcrete homes, food forests, renewable energy, sacred spaces, and commercial amenities into a complete ecosystem designed for regenerative living.',
+        a: 'Abundancia is a 380-acre regenerative community in the greater Austin, Texas area. It integrates hempcrete homes, food forests, renewable energy, sacred spaces, and commercial amenities into a complete ecosystem designed for regenerative living.',
         links: [
           { text: 'Explore the Land', href: '/story/land' },
           { text: 'Regenerative Vision', href: '/story/regeneration' },

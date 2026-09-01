@@ -321,7 +321,7 @@ const NEW_EARTH_CARDS = [
     icon: TreePine,
     title: 'Regenerative First',
     description: 'Every project is designed to leave the land better than we found it.',
-    detail: 'Our regenerative-first philosophy means development enhances ecological function rather than degrading it. At Abundancia, over 90% of the 376 acres will be conserved as native habitat, food forests, and ecological corridors. Hempcrete construction sequesters carbon. Water systems restore aquifer health. The land will be measurably healthier 10 years after development than it is today.',
+    detail: 'Our regenerative-first philosophy means development enhances ecological function rather than degrading it. At Abundancia, over 90% of the 380 acres will be conserved as native habitat, food forests, and ecological corridors. Hempcrete construction sequesters carbon. Water systems restore aquifer health. The land will be measurably healthier 10 years after development than it is today.',
     link: '/story/regeneration',
     linkLabel: 'Explore Regenerative Vision',
   },

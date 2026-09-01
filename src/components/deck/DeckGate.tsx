@@ -30,7 +30,7 @@ export function DeckGate({
   const submit = useCallback(async (e: React.FormEvent) => {
     e.preventDefault()
     setError(null)
-    if (!name.trim()) { setError('Please enter your name.'); return }
+    if (!name.trim()) { setError('Please enter your full name.'); return }
     if (!isValidEmail(email)) { setError('Please enter a valid email address.'); return }
     setBusy(true)
     try {
@@ -92,7 +92,7 @@ export function DeckGate({
             </div>
             <h3 className="font-display text-2xl text-neutral-900">Investment Deck</h3>
             <p className="mt-2 text-sm leading-relaxed text-neutral-600">
-              Enter your name and email to view the Abundancia investment deck.
+              Enter your full name and email to view the Abundancia investment deck.
             </p>
           </div>
           <form onSubmit={submit} className="space-y-4">
@@ -101,11 +101,11 @@ export function DeckGate({
               className="absolute left-[-9999px] top-[-9999px] h-px w-px opacity-0"
             />
             <div>
-              <label className="mb-1.5 block font-accent text-xs uppercase tracking-wide text-neutral-600">Name</label>
+              <label className="mb-1.5 block font-accent text-xs uppercase tracking-wide text-neutral-600">Full Name</label>
               <input
                 type="text" required value={name} onChange={e => setName(e.target.value)}
                 className="w-full rounded-lg border border-neutral-300 px-4 py-3 text-[15px] outline-none transition-colors focus:border-primary-500"
-                placeholder="Your name"
+                placeholder="Your full name"
               />
             </div>
             <div>

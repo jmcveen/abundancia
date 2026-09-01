@@ -34,7 +34,7 @@ export const INVESTMENT_DISCLAIMER =
 
 // ─── Unit Mix ────────────────────────────────────────────────────────────
 // Source: Financial Model Main Inputs → Summary table
-// 511 total units across the 376-acre development
+// 511 total units across the 380-acre development
 
 export const UNIT_MIX = [
   { type: 'Single-Family Homes', count: 100, avgPrice: 450_000, avgSF: 2_475, avgNightly: 0, revenue10yr: 0 },

@@ -167,7 +167,7 @@ const CAPITAL_HIGHLIGHTS = [
 
 const MOAT_LAYERS = [
   { title: 'First Hempcrete Community in Austin', description: 'No comparable product exists in the fastest-growing metro in America.' },
-  { title: '376 Acres in the Path of Growth', description: 'Bastrop County, 30 min from downtown Austin. Land at this scale cannot be replicated.' },
+  { title: '380 Acres in the Path of Growth', description: 'Bastrop County, 30 min from downtown Austin. Land at this scale cannot be replicated.' },
   { title: 'Regulatory Advantage', description: 'No zoning in Bastrop County. Hempcrete codes adopted in Texas. 6-12 month timeline vs 18-24 in Austin.' },
   { title: 'Conservation Ecosystem', description: '90%+ land preserved with tax-advantaged easements. Exceeds LPHCP environmental requirements.' },
   { title: 'Proven Team', description: '$755M+ raised for real estate projects. 200+ transactions. 70+ eco communities analyzed.' },
@@ -328,7 +328,7 @@ export default function InvestorOverviewPage() {
           <FadeIn>
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary-50 border border-primary-100 mb-8">
               <MapPin className="w-3.5 h-3.5 text-primary-600" />
-              <span className="font-accent text-sm font-medium text-primary-700">376 Acres &middot; Greater Austin, TX</span>
+              <span className="font-accent text-sm font-medium text-primary-700">380 Acres &middot; Greater Austin, TX</span>
             </div>
           </FadeIn>
 
@@ -366,33 +366,33 @@ export default function InvestorOverviewPage() {
 
           {/* Key Stats Strip - IRR and EMx are scenario-reactive */}
           <FadeIn delay={0.6}>
-            <div className="grid grid-cols-2 sm:grid-cols-5 gap-6 sm:gap-4 max-w-4xl">
+            <div className="grid grid-cols-2 sm:grid-cols-5 gap-6 sm:gap-3 max-w-5xl">
               <div className="text-center sm:text-left">
-                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
-                  376<span className="text-primary-500"> Acres</span>
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 whitespace-nowrap">
+                  380<span className="text-primary-500"> Acres</span>
                 </div>
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Texas Ranchland</div>
               </div>
               <div className="text-center sm:text-left">
-                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 whitespace-nowrap">
                   $15.9<span className="text-primary-500">M</span>
                 </div>
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Phase 1 Capitalization</div>
               </div>
               <div className="text-center sm:text-left">
-                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 whitespace-nowrap">
                   <AnimatedValue>{metrics.irr}</AnimatedValue><span className="text-primary-500">% IRR</span>
                 </div>
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Projected LP IRR &middot; Phase 1</div>
               </div>
               <div className="text-center sm:text-left">
-                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 whitespace-nowrap">
                   <AnimatedValue>{metrics.emx}</AnimatedValue><span className="text-primary-500">x</span>
                 </div>
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Equity Multiple &middot; Phase 1</div>
               </div>
               <div className="text-center sm:text-left">
-                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
+                <div className="font-display text-2xl md:text-3xl font-bold text-primary-800 whitespace-nowrap">
                   511
                 </div>
                 <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Units &middot; All Phases</div>
@@ -492,7 +492,7 @@ export default function InvestorOverviewPage() {
         </div>
       </section>
 
-      {/* ═══ THE 376 ACRES - Data Room Teaser ═══ */}
+      {/* ═══ THE 380 ACRES - Data Room Teaser ═══ */}
       <section className="py-20 md:py-28 bg-white">
         <div className="section-container">
           <FadeIn>
@@ -502,7 +502,7 @@ export default function InvestorOverviewPage() {
                 Property Deep Dive
               </span>
               <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
-                How 376 Acres Become a Community
+                How 380 Acres Become a Community
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
                 Every acre has a purpose. Over 90% of the land is preserved for conservation and regenerative agriculture.
