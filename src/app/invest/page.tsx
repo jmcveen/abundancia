@@ -190,7 +190,8 @@ const LAND_USE = [
 ]
 
 const UNIT_ECONOMICS = [
-  { type: 'Single-Family Home', phase: 'Phase 2', price: '$1.29M', costSF: '$371/SF', margin: '29%', breakeven: '$919K' },
+  { type: 'Single-Family Home (1-4 BR)', phase: 'Phase 2', price: '$450K-$1.13M', costSF: '$371/SF', margin: '29%', breakeven: '$371K-$928K' },
+  { type: 'Luxury Estate (5-7 BR)', phase: 'Phase 2', price: '$1.58M-$2.25M', costSF: '$371/SF', margin: '29%', breakeven: '$1.30M-$1.86M' },
   { type: 'Condominium', phase: 'Phase 3', price: '$399K', costSF: '$300/SF', margin: '33%', breakeven: '$266K' },
   { type: 'Micro Villa', phase: 'Phase 1', price: '$142K', costSF: '$200/SF', margin: '54%', breakeven: '$65K' },
   { type: 'Residential Lot', phase: 'Phase 1', price: '$150K', costSF: 'N/A', margin: '67%', breakeven: '$50K' },
