@@ -9,6 +9,7 @@ import { ScenarioToggle } from '@/components/ui/ScenarioToggle'
 import { useInvestTransition } from '@/lib/context/invest-transition-context'
 import { useScenario } from '@/lib/context/scenario-context'
 import { INVESTMENT_DISCLAIMER, KEY_METRICS, REVENUE_STREAMS as REVENUE_DATA } from '@/lib/data/financials'
+import { DeckGate } from '@/components/deck/DeckGate'
 import {
   ArrowRight, ArrowDown, Leaf, Home, Droplets, Sun, Shield,
   MapPin, TreePine, FileText, TrendingUp, BarChart3,
@@ -376,26 +377,35 @@ export default function InvestorOverviewPage() {
                 <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
                   $15.9<span className="text-primary-500">M</span>
                 </div>
-                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Capital Raise</div>
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Phase 1 Capitalization</div>
               </div>
               <div className="text-center sm:text-left">
                 <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
                   <AnimatedValue>{metrics.irr}</AnimatedValue><span className="text-primary-500">% IRR</span>
                 </div>
-                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Projected Return</div>
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Projected LP IRR &middot; Phase 1</div>
               </div>
               <div className="text-center sm:text-left">
                 <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
                   <AnimatedValue>{metrics.emx}</AnimatedValue><span className="text-primary-500">x</span>
                 </div>
-                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Equity Multiple</div>
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Equity Multiple &middot; Phase 1</div>
               </div>
               <div className="text-center sm:text-left">
                 <div className="font-display text-2xl md:text-3xl font-bold text-primary-800">
-                  670<span className="text-primary-500">+</span>
+                  511
                 </div>
-                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Planned Units</div>
+                <div className="font-accent text-xs text-neutral-500 mt-0.5 uppercase tracking-wider">Units &middot; All Phases</div>
               </div>
+            </div>
+            <div className="mt-8 flex flex-wrap items-center gap-4">
+              <DeckGate label="View the Investment Deck" />
+              <Link
+                href="/invest/apply"
+                className="inline-flex items-center gap-2 rounded-full border-2 border-primary-700 px-7 py-3.5 font-accent text-sm uppercase tracking-wide text-primary-800 transition-all hover:bg-primary-50"
+              >
+                Apply to Invest
+              </Link>
             </div>
             <p className="mt-6 max-w-3xl font-accent text-xs uppercase tracking-[0.14em] text-primary-700">
               {INVESTMENT_DISCLAIMER}
@@ -1073,12 +1083,15 @@ export default function InvestorOverviewPage() {
             <p className="font-accent text-sm text-white/50 mb-8">
               $15.9M Capital Raise &middot; Reg D 506(c) &middot; Accredited Investors
             </p>
-            <Link
-              href="/invest/apply"
-              className="btn bg-white text-primary-800 hover:bg-white/90 btn-lg rounded-2xl text-base font-semibold"
-            >
-              Start Your Investment Journey
-            </Link>
+            <div className="flex flex-wrap items-center justify-center gap-4">
+              <Link
+                href="/invest/apply"
+                className="btn bg-white text-primary-800 hover:bg-white/90 btn-lg rounded-2xl text-base font-semibold"
+              >
+                Start Your Investment Journey
+              </Link>
+              <DeckGate label="View the Investment Deck" variant="ghost" />
+            </div>
           </FadeIn>
         </div>
       </section>
