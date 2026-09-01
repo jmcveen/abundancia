@@ -145,7 +145,7 @@ const SOLUTION_PILLARS = [
 const MARKET_POINTS = [
   { stat: '50-60K', label: 'New residents per year in Austin MSA' },
   { stat: '68%', label: 'Of homebuyers pay more for sustainable features' },
-  { stat: '$755M+', label: 'Raised by our team for RE projects' },
+  { stat: '$855M+', label: 'Raised by our team for RE projects' },
   { stat: '10-25%', label: 'Pricing premium for green-certified homes' },
 ]
 
@@ -170,7 +170,7 @@ const MOAT_LAYERS = [
   { title: '380 Acres in the Path of Growth', description: 'Bastrop County, 30 min from downtown Austin. Land at this scale cannot be replicated.' },
   { title: 'Regulatory Advantage', description: 'No zoning in Bastrop County. Hempcrete codes adopted in Texas. 6-12 month timeline vs 18-24 in Austin.' },
   { title: 'Conservation Ecosystem', description: '90%+ land preserved with tax-advantaged easements. Exceeds LPHCP environmental requirements.' },
-  { title: 'Proven Team', description: '$755M+ raised for real estate projects. 200+ transactions. 70+ eco communities analyzed.' },
+  { title: 'Proven Team', description: '$855M+ raised for real estate projects. 200+ transactions. 70+ eco communities analyzed.' },
   { title: 'Diversified Revenue', description: 'Four streams across residential, commercial, rental, and lots.' },
   { title: 'MUD Bond Framework', description: 'Infrastructure costs reimbursed through tax-exempt municipal bonds. Proven Texas mechanism.' },
 ]
@@ -205,16 +205,15 @@ const CASHFLOW_PHASES = [
 ]
 
 const ROADMAP_PHASES = [
-  { phase: 'Phase 1', timeline: 'Months 1-18', title: 'Foundation', items: ['Land acquisition & master planning', 'Retreat center operations (cash flow)', 'Initial infrastructure & MUD formation', 'Model home construction'] },
-  { phase: 'Phase 2', timeline: 'Year 2-4', title: 'Growth', items: ['First residential neighborhood (100 units)', 'Commercial village core', 'Food forests & permaculture systems', 'Solar + water infrastructure'] },
-  { phase: 'Phase 3', timeline: 'Year 4-7', title: 'Expansion', items: ['Condominium development (275 units)', 'Tiny home & dome neighborhoods', 'Full commercial activation', 'Lot sales program'] },
-  { phase: 'Phase 4', timeline: 'Year 7-10', title: 'Maturity', items: ['Final buildout & optimization', 'Rental portfolio stabilization', 'Conservation easement finalization', 'Exit preparation & LP distributions'] },
+  { phase: 'Phase 1', timeline: 'Years 1-2 · THIS OFFERING', title: 'Foundation & Community Activation', items: ['60 micro villas for sale', '60 regen villas, domes & glamping stays', '80 residential lots', 'Community Center, Retreat Center & Wellness Spa'] },
+  { phase: 'Phase 2', timeline: 'Years 2-4', title: 'Residential Expansion', items: ['100 single-family homes', '20 additional residential lots', 'Education Center & school', 'Food forests & permaculture at scale'] },
+  { phase: 'Phase 3', timeline: 'Years 4-7', title: 'Village & Destination', items: ['275 condominiums (200 for sale, 75 rental)', '11 commercial village spaces', 'Sacred Temple Complex', '10-acre lake & recreation'] },
 ]
 
 const TEAM_MEMBERS = [
   { name: 'Kelly Krezek', title: 'CEO & Founder', credential: '20+ eco projects', photo: '/images/team/kelly-mcveendelmar-007.png' },
   { name: 'Joe McVeen', title: 'Growth & AI Marketing', credential: '$10M+ Client Revenue', photo: '/images/team/joe-mcveen.jpg' },
-  { name: 'Lance Stukaloff', title: 'Capital Markets Lead', credential: '$755M+ raised for RE projects', photo: '/images/team/lancelot-stukaloff-v4.png' },
+  { name: 'Lance Stukaloff', title: 'Capital Markets Lead', credential: '$855M+ raised for RE projects', photo: '/images/team/lancelot-stukaloff-v4.png' },
 ]
 
 const FAQ_ITEMS = [
@@ -836,12 +835,18 @@ export default function InvestorOverviewPage() {
             <div className="text-center mb-14">
               <span className="eyebrow mb-3 block">Development Roadmap</span>
               <h2 className="font-display text-2xl md:text-3xl lg:text-4xl text-neutral-900 mb-4">
-                10-Year Vision. 4 Phases.
+                Three Phases. You Are Funding Phase 1.
               </h2>
+              <p className="mx-auto max-w-3xl text-neutral-600 leading-relaxed">
+                The full vision spans three phases over ten years. <strong className="text-neutral-900">This offering
+                funds Phase 1 only</strong> &mdash; and the projected returns shown above are Phase&nbsp;1 economics,
+                standing on their own. Phases 2 and 3 are future revenue streams that add upside; investors do not
+                need them to proceed in order to earn the projected Phase&nbsp;1 return.
+              </p>
             </div>
           </FadeIn>
 
-          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
+          <StaggerContainer className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-5xl mx-auto">
             {ROADMAP_PHASES.map((phase, i) => (
               <StaggerItem key={phase.phase}>
                 <div className={`rounded-2xl p-6 h-full border ${i === 0 ? 'bg-primary-50 border-primary-200' : 'bg-white border-neutral-100'}`}>
@@ -967,7 +972,7 @@ export default function InvestorOverviewPage() {
                 Proven Operators
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                A team that has raised $755M+ for real estate projects and analyzed 70+ eco-communities worldwide.
+                A team that has raised $855M+ for real estate projects and analyzed 70+ eco-communities worldwide.
               </p>
             </div>
           </FadeIn>

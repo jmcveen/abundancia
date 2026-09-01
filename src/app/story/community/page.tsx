@@ -18,7 +18,7 @@ const HOUSING_TYPES = [
   {
     image: '/images/website/15-residential-homes.png',
     type: 'Residential Homes',
-    units: '~100 Units',
+    units: '100 Homes',
     description: 'Single-family homes built with healthy materials, timeless design, and a deep relationship to the land.',
     detail: 'Thoughtfully designed single-family homes ranging from 1,400 to 2,800 SF. Built with hempcrete or rammed earth, these residences are crafted for durability, comfort, and natural beauty. Passive solar orientation, healthy indoor air quality, and sacred geometry principles shape living spaces that feel grounded, restorative, and built to endure for generations.',
     priceRange: '$350K-$625K',
@@ -28,7 +28,7 @@ const HOUSING_TYPES = [
   {
     image: '/images/website/16-tiny-homes.png',
     type: 'Tiny Homes',
-    units: '~30 Units',
+    units: '60 Micro Villas',
     description: 'Compact, efficient homes designed for simplicity, beauty, and low-impact living.',
     detail: 'Thoughtfully designed compact homes for those who value simplicity and a lighter footprint. These residences maximize every square foot while maintaining natural materials, healthy air, and strong indoor-outdoor connection. Ideal for minimalists, couples, and flexible living, with layouts that support both everyday comfort and regenerative values.',
     priceRange: '$125K-$225K',
@@ -38,7 +38,7 @@ const HOUSING_TYPES = [
   {
     image: '/images/website/17-domes.png',
     type: 'Domes',
-    units: '~30 Units',
+    units: '60 Regen Villas & Domes',
     description: 'Geodesic and monolithic dome structures - naturally resilient, energy-efficient, and architecturally striking.',
     detail: 'Geodesic and monolithic dome structures represent the pinnacle of natural architecture. The dome shape distributes structural loads evenly, making them inherently resistant to wind, earthquakes, and storms. Their thermal efficiency reduces energy consumption by up to 50% compared to conventional homes, and the striking silhouettes create an iconic community aesthetic.',
     priceRange: '$200K-$450K',
@@ -68,7 +68,7 @@ const HOUSING_TYPES = [
   {
     image: '/images/website/08-homes.png',
     type: 'Custom Lots',
-    units: 'Select Sites',
+    units: '100 Lots',
     description: 'Premium lots for custom builds within Abundancia\'s design guidelines - bring your vision to life.',
     detail: 'Premium homesites for buyers who want to design their own residence within Abundancia\'s regenerative building guidelines. Each lot is pre-assessed for solar orientation, water features, and native landscape integration. Owners work with Abundancia\'s approved builders to ensure hempcrete construction, Living Building Challenge compliance, and visual harmony with the community.',
     priceRange: '$175K-$400K (Lot)',

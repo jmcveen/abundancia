@@ -44,10 +44,10 @@ const PHASES = [
     color: 'bg-primary-700',
     milestones: [
       'Retreat center operations using existing farmhouse & guest house',
-      '10-15 tiny homes and domes for guest capacity',
-      'First hempcrete model homes (15 units)',
+      '60 regen villas, domes & glamping stays',
+      '60 micro villas in hempcrete + 80 residential lots',
       'Infrastructure - roads, water, septic, solar arrays',
-      'Revenue target: $500K-$1M retreat + $8.25M-$11.25M home sales',
+      'Revenue: $8.9M micro villas + $10.8M lots + rental/hospitality',
     ],
     detail: 'Phase 1 is designed to generate revenue within 6 months of closing. The existing farmhouse and guest house on the property are repurposed as the retreat center, with 10-15 tiny homes and domes added for guest capacity. Simultaneously, 15 hempcrete model homes are constructed to launch residential sales. This phase proves the concept - demonstrating hempcrete construction, retreat demand, and buyer appetite. Infrastructure investment (roads, water wells, septic, initial solar array) supports both Phase 1 and sets up Phase 2. The retreat center serves as the community\'s "front door," introducing potential buyers to the Abundancia vision.',
     investment: '$5.5M',
@@ -59,10 +59,10 @@ const PHASES = [
     timeline: 'Years 2-4',
     color: 'bg-primary-800',
     milestones: [
-      'Community spaces - Creation Hub, education center, yoga shala',
-      'Condominium construction begins (275 units)',
-      'Commercial spaces open - grocery, restaurants, retail',
-      'Expand to 100+ residential units',
+      'Education Center & school',
+      '100 single-family homes delivered',
+      '20 additional residential lots released',
+      'Permaculture and food forests at scale',
       'Permaculture food forests reach initial maturity',
     ],
     detail: 'Phase 2 transforms Abundancia from a residential development into a living community. The commercial village center opens - organic grocery, farm-to-table dining, wellness retail, coworking. Community spaces (Creation Hub, education center, yoga shala) become the social fabric. Multifamily construction begins, bringing the unit count past 100 and generating the density needed for commercial viability. Permaculture food forests planted in Phase 1 begin producing, and the community governance structure is formalized. This phase is where the flywheel kicks in - amenities drive demand, demand funds more amenities.',
@@ -75,10 +75,10 @@ const PHASES = [
     timeline: 'Years 4-8',
     color: 'bg-primary-900',
     milestones: [
-      'Complete residential buildout - all 511 units',
-      'All commercial spaces fully operational',
+      '275 condominiums (200 for sale, 75 rental)',
+      '11 commercial village spaces open',
       'Full renewable energy grid - net-positive',
-      'Complete permaculture food forest maturity',
+      'Sacred Temple Complex & 10-acre lake',
       'Community governance fully operational',
     ],
     detail: 'Phase 3 completes the physical buildout of Abundancia. All residential units are delivered, commercial spaces are fully leased, and the renewable energy grid achieves net-positive status (producing more energy than consumed). The permaculture food forests reach full maturity, producing meaningful food yields for residents and the village grocery. Community governance - a resident-led cooperative structure - is fully operational. This phase generates peak revenue as the remaining residential inventory is absorbed and all four revenue streams are fully online.',
@@ -311,7 +311,7 @@ export default function ExpansionPage() {
               Meet the Team
             </h2>
             <p className="text-lg text-white/70 max-w-2xl mx-auto mb-10">
-              The leadership, partners, and advisors executing this vision - with $755M+ in real estate experience across 200+ transactions.
+              The leadership, partners, and advisors executing this vision - with $855M+ in real estate experience across 200+ transactions.
             </p>
           </FadeIn>
 
