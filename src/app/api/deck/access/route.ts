@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server'
 import { isValidEmail } from '@/lib/utils'
 import { signDeckToken, DECK_COOKIE } from '@/lib/deck-token'
+import { appendLeadToSheet } from '@/lib/leads/sheet'
 
 // ═══════════════════════════════════════════════════════════════════════════
 // Investment Deck — access gate
@@ -22,16 +23,13 @@ export async function POST(request: Request) {
     if (!isValidEmail(email)) return NextResponse.json({ error: 'Please enter a valid email address.' }, { status: 400 })
 
     try {
-      const origin = new URL(request.url).origin
-      await fetch(`${origin}/api/leads`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          firstName: name,
-          email,
-          interests: ['Investment Deck Viewer'],
-          source: 'investment-deck-gate',
-        }),
+      await appendLeadToSheet({
+        id: crypto.randomUUID(),
+        firstName: name,
+        email,
+        interests: ['Investment Deck Viewer'],
+        source: 'investment-deck-gate',
+        capturedAt: new Date().toISOString(),
       })
     } catch (e) {
       console.error('deck lead capture failed (access still granted):', e)
