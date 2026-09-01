@@ -190,11 +190,11 @@ const LAND_USE = [
 ]
 
 const UNIT_ECONOMICS = [
-  { type: 'Single-Family Home (1-4 BR)', phase: 'Phase 2', price: '$450K-$1.13M', priceSF: '$450/SF', margin: '29%', breakeven: '$371K-$928K' },
-  { type: 'Luxury Estate (5-7 BR)', phase: 'Phase 2', price: '$1.58M-$2.25M', priceSF: '$450/SF', margin: '29%', breakeven: '$1.30M-$1.86M' },
-  { type: 'Condominium', phase: 'Phase 3', price: '$399K', priceSF: '$450/SF', margin: '33%', breakeven: '$266K' },
-  { type: 'Micro Villa', phase: 'Phase 1', price: '$142K', priceSF: '$437/SF', margin: '54%', breakeven: '$65K' },
-  { type: 'Residential Lot', phase: 'Phase 1', price: '$150K', priceSF: 'N/A', margin: '67%', breakeven: '$50K' },
+  { type: 'Single-Family Home (1-4 BR)', phase: 'Phase 2', price: '$450K-$1.13M', priceSF: '$450/SF' },
+  { type: 'Luxury Estate (5-7 BR)', phase: 'Phase 2', price: '$1.58M-$2.25M', priceSF: '$450/SF' },
+  { type: 'Condominium', phase: 'Phase 3', price: '$399K', priceSF: '$450/SF' },
+  { type: 'Micro Villa', phase: 'Phase 1', price: '$142K', priceSF: '$437/SF' },
+  { type: 'Residential Lot', phase: 'Phase 1', price: '$150K', priceSF: 'N/A' },
 ]
 
 const CASHFLOW_PHASES = [
@@ -652,7 +652,7 @@ export default function InvestorOverviewPage() {
                 The Math Per Unit
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                Every product type carries healthy margins with significant break-even cushion.
+                A range of homes and homesites, from micro villas to luxury estates.
               </p>
             </div>
           </FadeIn>
@@ -666,8 +666,6 @@ export default function InvestorOverviewPage() {
                     <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-left py-3 px-4">Phase</th>
                     <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Avg. Price</th>
                     <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Price/SF</th>
-                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Gross Margin</th>
-                    <th className="font-accent text-xs font-bold text-neutral-500 uppercase tracking-wider text-right py-3 px-4">Break-Even</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -677,8 +675,6 @@ export default function InvestorOverviewPage() {
                       <td className="font-accent text-xs text-neutral-500 py-3.5 px-4">{unit.phase}</td>
                       <td className="font-mono text-sm text-primary-800 text-right py-3.5 px-4 font-semibold">{unit.price}</td>
                       <td className="font-mono text-sm text-neutral-600 text-right py-3.5 px-4">{unit.priceSF}</td>
-                      <td className="font-mono text-sm text-secondary-700 text-right py-3.5 px-4 font-semibold">{unit.margin}</td>
-                      <td className="font-mono text-sm text-neutral-500 text-right py-3.5 px-4">{unit.breakeven}</td>
                     </tr>
                   ))}
                 </tbody>
