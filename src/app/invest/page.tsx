@@ -198,9 +198,9 @@ const UNIT_ECONOMICS = [
 ]
 
 const CASHFLOW_PHASES = [
-  { phase: 'Investment', years: 'Years 1-2', fcf: '-$6.1M', status: 'Capital Deployment', color: 'text-red-500' },
-  { phase: 'Recovery', years: 'Years 3-4', fcf: '+$9.9M', status: 'Villa & Lot Sales', color: 'text-amber-500' },
-  { phase: 'Operations', years: 'Years 5-7', fcf: '+$8.9M', status: 'Stabilised Hospitality', color: 'text-primary-600' },
+  { phase: 'Investment', years: 'Year 1', fcf: '-$14.1M', status: 'Capital Deployment', color: 'text-red-500' },
+  { phase: 'Revenue Launch', years: 'Years 2-4', fcf: '+$18.0M', status: 'Villa & Lot Sales', color: 'text-amber-500' },
+  { phase: 'Operations', years: 'Years 5-7', fcf: '+$8.9M', status: 'Stabilized Hospitality', color: 'text-primary-600' },
   { phase: 'Harvest', years: 'Years 8-10', fcf: '+$10.6M', status: 'Maximum Distributions', color: 'text-secondary-600' },
 ]
 
@@ -888,7 +888,7 @@ export default function InvestorOverviewPage() {
                 From Capital to Returns
               </h2>
               <p className="text-lg text-neutral-600 max-w-2xl mx-auto">
-                LP capital fully returned by Year 3. Cumulative Phase&nbsp;1 EBITDA of $23.4M over 10 years.
+                Construction is a single year. Year&nbsp;2 turns positive at +$8.1M, and LP capital is fully returned by Year&nbsp;3. Cumulative Phase&nbsp;1 EBITDA of $23.4M over 10 years.
               </p>
             </div>
           </FadeIn>
