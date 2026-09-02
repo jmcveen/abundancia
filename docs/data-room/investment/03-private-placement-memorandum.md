@@ -59,41 +59,52 @@
 
 The following is a summary of the material terms of the offering. This summary is qualified in its entirety by the more detailed information appearing elsewhere in this Memorandum and in the Operating Agreement (Document 05).
 
-**The investment offered hereby is Phase 1 of the Abundancia master plan.** Investors in this offering are purchasing Class A Units whose economics are driven by the Phase 1 development program described in Section 3.3. The full multi-phase master plan is presented elsewhere in this Memorandum as context; Phases 2 and 3 represent potential future upside and additional sponsor revenue capacity, and investors do not need Phases 2–3 to proceed in order to earn the projected Phase 1 returns.
+**The investment offered hereby is Phase 1 of the Abundancia master plan.** Investors in this offering are purchasing Class A Units (and, if electing Election B, Secured Promissory Notes — see Section 1.1a) whose economics are driven by the Phase 1 development program described in Section 3.3. The full multi-phase master plan is presented elsewhere in this Memorandum as context; Phases 2 and 3 represent potential future upside and additional sponsor revenue capacity, and investors do not need Phases 2–3 to proceed in order to earn the projected Phase 1 returns.
 
 | Term | Detail |
 |---|---|
 | **Issuer** | Abundancia Community LLC |
 | **Entity Type** | Delaware Limited Liability Company (manager-managed; formed January 2022; no series or subsidiaries) |
 | **Structure** | Manager-Managed LLC — Class A Units (investor / "LP") and Class B Units (Manager / "GP") |
-| **Securities Offered** | Class A Units ("Units") |
+| **Securities Offered** | Class A Units ("Units"), and, for investors electing Election B, Secured Promissory Notes (Document 30) |
 | **Exemption** | Regulation D, Rule 506(c) under the Securities Act (subject to final documentation and review by securities counsel) |
-| **Phase 1 Total Capitalization** | $13,354,032 (approximately $5,154,032 Class A LP equity + $500,000 GP co-investment equity + $7,700,000 Phase 1 construction debt) |
-| **Phase 1 Debt** | $7,700,000 at 8.5%, 10-year fully amortizing; annual debt service $1,173,539 |
-| **Total Offering Amount (Class A LP Equity)** | Approximately $5,154,032 |
+| **Phase 1 Total Capitalization** | $15,939,072, identical under both Elections |
+| **Phase 1 Construction Debt** | $7,700,000 at 8.5%, 10-year fully amortizing; annual debt service $1,173,539 |
 | **Minimum Offering Amount** | $50,000 (one Unit) [subject to review by securities counsel] |
 | **Unit Price** | $50,000 per Unit |
 | **Minimum Investment** | $50,000 (1 Unit) |
-| **Maximum Number of Units** | Approximately 103 Units at $50,000 per Unit |
 | **Investor Qualification** | Accredited Investors Only (verified per Rule 506(c)) |
 | **Manager (GP)** | New Earth Development LLC — Texas LLC (EIN 81-3237744; Texas file number 0805933058; 5900 Balcones Dr, Ste 100, Austin, TX 78731-4298); Kelly Krezek, Chief Executive Officer |
 | **Issuer** | Abundancia Community LLC — Delaware LLC (Delaware file number 6553843; EIN 87-4732687); registered office 8 The Green, Suite D, Dover, DE 19901; registered agent Delaware Registered Agent Service LLC |
 | **Beneficial Ownership (Issuer)** | Joe McVeen 50% / Kelly Krezek 50% |
 | **GP Participation** | Class B Units; promote per distribution waterfall (Section 8) — subject to final documentation and review by securities counsel |
-| **GP Co-Investment** | $500,000 of equity invested pari passu with the Class A LP equity (total equity $5,654,032; LP 91.16% / GP 8.84%) |
+| **GP Co-Investment** | $500,000 of equity invested pari passu with the Class A LP equity under both Elections |
 | **Preferred Return** | 10% cumulative preferred return to the equity class — subject to final documentation and review by securities counsel |
 | **Distribution Reserve** | 20% of positive cash flows withheld annually as a safety buffer; released in Year 10 |
-| **Developer Fee** | 4% of Phase 1 total capitalization ($534,161), paid from operating cash flow; does not reduce LP capital basis — subject to final documentation and review by securities counsel |
-| **Hold Period** | 10 years (a 5-year interim snapshot is also presented; the construction loan is not repaid at year 5) |
-| **Projected LP IRR (projection — not guaranteed)** | 32.1% (10-year) / 25.7% (5-year interim; loan not repaid at year 5) |
-| **Projected LP Equity Multiple (projection — not guaranteed)** | 2.88x (10-year) / 1.79x (5-year interim; loan not repaid at year 5) |
-| **Projected Total LP Distributions (projection — not guaranteed)** | $14,834,476 (10-year) / $9,217,829 (5-year interim) |
+| **Developer Fee** | Election A: $637,563 (4% of $15,939,072). Election B: $477,563. Does not reduce LP capital basis — subject to final documentation and review by securities counsel |
+| **Hold Period** | 10 years — LP capital fully returned by Year 3 under both Elections |
 | **Distributions** | Quarterly, beginning when cash flow permits (first project revenue projected in Year 2 of operations, 2028) |
 | **K-1 Reporting** | Annual Schedule K-1 provided to each investor |
 | **Offering Period** | Commencing July 2026; closing December 31, 2026 (outside date June 30, 2027) |
 | **Closing** | Rolling closings at Manager's discretion; final close December 31, 2026 (outside date June 30, 2027). Escrow release upon achievement of the $50,000 (one Unit) minimum offering amount |
 
 *All offering terms, waterfall terms, and fees are subject to final documentation and review by securities counsel.*
+
+### 1.1a The Election — Two Capital Structures for the $4,000,000 Land Tranche
+
+Investors choose one of two Elections (Document 34, Election Notice) for the $4,000,000 portion of Phase-1 capital allocated to the land tranche. Both Elections raise the identical $15,939,072 total capitalization and are built on identical Phase-1 EBITDA ($23,413,145); only the risk/return profile of that $4,000,000 differs.
+
+| | Election A — All-Equity | Election B — Secured Notes |
+|---|---|---|
+| **Land Tranche Structure** | Funded as ordinary Class A LP equity | Funded by $4,000,000 in Secured Promissory Notes at 10%, interest-only (Document 30) |
+| **Class A LP Equity** | $7,739,072 | $3,739,072 |
+| **Note Security** | N/A | Lien on the Property — **subordinate to the Construction Lender's first-priority lien** (Documents 31-32) |
+| **Note Maturity** | N/A | Year-2 balloon, extendable to Year 4 (balance grows to ≈$5.6M under extension; Years 2-3 LP distributions suspended to fund it) |
+| **Projected LP IRR (10-yr / 5-yr)** | 26.02% / 20.07% | 34.81% / 28.04% |
+| **Projected LP Equity Multiple (10-yr / 5-yr)** | 2.449x / 1.6515x | 3.655x / 2.104x |
+| **Projected Total LP Distributions (10-yr / 5-yr)** | $18,955,089 / $12,781,189 | $13,664,480 / $7,866,963 |
+
+Under Election B, note holders receive fixed 10% interest only and do not participate in project upside — see Document 31 for complete Note Holder economics and risk disclosure. All figures above are projections, not guaranteed, and subject to final documentation and review by securities counsel. See Document 33 (Key Figures Sheet) for the canonical reference.
 
 ### 1.2 Key Dates
 
@@ -105,7 +116,7 @@ The following is a summary of the material terms of the offering. This summary i
 | **Land Closing** | 2026 (predevelopment: due diligence, watershed/hydrology, entitlements, MUD) |
 | **Entitlements / Permitting** | 2026-2027 (estimated 12-16 month permitting) |
 | **Groundbreaking (infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture)** | 2027 |
-| **First Revenue (hospitality opens; model home; tiny homes deliver; lot sales launch)** | 2028 (Year 2 of operations) |
+| **First Revenue (hospitality opens; model home; micro-villas deliver; lot sales launch)** | 2028 (Year 2 of operations) |
 | **First Distributions** | [TO CONFIRM] (estimated following first revenue in 2028) |
 | **Construction Completion (Full Project master plan)** | 2031 |
 | **Stabilized Operations (~$7-8M/yr recurring — Full Project master plan)** | 2032+ |
@@ -132,7 +143,7 @@ Abundancia Community LLC is a single Delaware manager-managed limited liability 
 
 ### 2.1 Securities Offered
 
-The Company is offering Class A Units (the "Units") at a purchase price of $50,000 per Unit, for a maximum aggregate offering amount of approximately $5,154,032 (approximately 103 Units) — the Class A LP equity component of the Company's $13,354,032 Phase 1 total capitalization (which also includes a $500,000 GP co-investment invested pari passu with the Class A LP equity and $7,700,000 of Phase 1 construction debt at 8.5%, 10-year fully amortizing). All offering terms are subject to final documentation and review by securities counsel. Each Unit represents a proportional Class A membership interest in the Company, entitling the holder to:
+The Company is offering Class A Units (the "Units") at a purchase price of $50,000 per Unit — the Class A LP equity component of the Company's $15,939,072 Phase 1 total capitalization (which also includes a $500,000 GP co-investment invested pari passu with the Class A LP equity, $7,700,000 of Phase 1 construction debt at 8.5%, 10-year fully amortizing, and, for investors electing Election B, $4,000,000 of Secured Promissory Notes in lieu of a portion of Class A LP equity — see Section 1.1a and Documents 30-31). The maximum aggregate Class A LP equity offering amount is approximately $7,739,072 (Election A) or $3,739,072 (Election B), depending on the elections made across the investor pool. All offering terms are subject to final documentation and review by securities counsel. Each Unit represents a proportional Class A membership interest in the Company, entitling the holder to:
 
 (a) Distributions of available cash flow, subject to the waterfall described in Section 8;
 
@@ -203,37 +214,39 @@ The Company's primary business objectives are:
 The offering described in this Memorandum funds Phase 1 of the master plan ("Foundation & Community Activation," Years 1–2 of construction), with a 10-year operating hold. The Phase 1 program comprises:
 
 - **Year 1:** Community Center (5,000 SF: lounge, co-working, gym, yoga, meditation, community kitchen, library); spring-fed Natural Pool with Parks & Recreation; 50 short-term nature stays (20 glamping tents, 15 domes, 5 high-end domes, 10 camping spaces); Regenerative Center (event space, 6 retreat rooms, and the renovated barn); Health & Wellness / Longevity Center & Spa (sauna, hot tub, cold plunge, massage, bio-optimization, health center); and the Permaculture Mandala Garden.
-- **Year 2:** Model Home; 60 tiny-home sales (16 studio, 18 one-bedroom, 20 two-bedroom, 6 early-discount); 80 residential lot sales; 6BR Rental/Event House; completion of the infrastructure backbone.
+- **Year 2:** Model Home; 60 micro-villa sales; 80 residential lot sales; 6BR Rental/Event House; completion of the infrastructure backbone.
 
-**Phase 1 Projected Operating Results (10-year hold; projections — not guaranteed):**
+**Phase 1 Projected Operating Results (10-year hold; projections — not guaranteed; identical under both Elections):**
 
 | Phase 1 Revenue Category | 10-Year Projected Revenue |
 |---|---|
-| Rentals & Hospitality | $32,549,450 |
-| Tiny Home Sales (60 tiny homes, Year 2) | $8,856,322 |
+| Rentals, Hospitality & Commercial (combined) | $44,248,815 |
 | Lot Sales (80 residential lots, Years 2–3) | $10,817,449 |
-| Commercial & Amenities | $7,409,222 |
-| **Total Phase 1 10-Year Projected Revenue** | **$59,632,442** |
+| Micro-Villa Sales (60 units, Year 2) | $8,491,200 |
+| **Total Phase 1 10-Year Projected Revenue** | **$63,557,464** |
 
-Projected Phase 1 EBITDA totals $21,540,503 over the 10-year hold. Year 1 EBITDA is projected at approximately negative $11.8 million (the construction year, funded by the Year-0 capitalization); EBITDA turns positive in Year 2 (projected $7,509,938) with first revenue in Year 2 of operations, and the cumulative position is projected to reach break-even in Year 3. No houses or condominiums are sold in Phase 1; Phase 1 for-sale products are tiny homes and residential lots.
+*Rentals, Hospitality & Commercial is shown combined pending a finalized sub-stream split [TO CONFIRM].*
+
+Projected Phase 1 EBITDA totals $23,413,145 over the 10-year hold. Year 1 EBITDA is projected at approximately negative $14.1 million (the construction year, funded by the Phase-1 capitalization); EBITDA turns positive in Year 2 (projected $8,050,347), and LP capital is fully returned by Year 3. No houses or condominiums are sold in Phase 1; Phase 1 for-sale products are micro-villas and residential lots.
 
 Phase 1 hard construction costs are approximately $16.7 million across Years 1–2 (approximately $6.65M in Year 1 and $10.01M in Year 2, of which infrastructure is $1,759,523 and $4,191,808 respectively).
 
 ### 3.4 Development Program — Full Project (All Phases) Master-Plan Context
 
-*The following describes the complete multi-phase master plan within which the Phase 1 investment sits. It is provided as context and is not the basis of the investor economics offered hereby; later phases represent potential future upside and additional sponsor revenue capacity.* The full master plan comprises the following program (approximately 501 structures plus 100 estate lots; construction 2027-2031) over a 10-year period:
+*The following describes the complete multi-phase master plan within which the Phase 1 investment sits. It is provided as context and is not the basis of the investor economics offered hereby; later phases represent potential future upside and additional sponsor revenue capacity. Full-project LP return projections are being finalized and will be provided in a future data-room update.* The full master plan comprises the following program (511 total structures; construction 2027-2031) over a 10-year period:
 
-| Product Type | Units | Pricing Basis (model, blended realized) | Projected Revenue | Timing |
+| Product Type | Units | Pricing Basis (model) | Projected Revenue | Timing |
 |---|---|---|---|---|
-| Single-Family Homes (for sale) | 100 | ~$566/SF blended (positioned "from approximately $450/SF"); 1BR-7BR, 1,000-5,000 SF | Included in residential sales subtotal | 2028-2031 |
+| Single-Family Home (1-5 BR, for sale) | 90 | $450K-$1.35M @ $450/SF; 1,000-3,000 SF | Included in residential sales subtotal | 2028-2031 |
+| Luxury Estate (5-7 BR, for sale) | 10 | $2.10M-$3.30M @ $600/SF; 3,500-5,500 SF | Included in residential sales subtotal | 2028-2031 |
 | Condominiums (for sale) | 200 | ~$400/SF (1BR 600 SF; 2BR 850 SF; 3BR 1,250 SF) | Included in residential sales subtotal | 2029-2031 |
-| Tiny Homes (for sale) | 60 | ~$416/SF (~$104K-$166K) | Included in residential sales subtotal | 2028+ |
-| **Residential Sales Subtotal (360 for-sale residences)** | 360 | — | $249,152,934 | 2028-2031 |
-| Estate Lots | 100 (full project) | ~$229K average lot revenue | $22,872,273 | 2028-2029 |
-| Rentals (126: 6BR event house, 75 rental condos, 50 nature stays) | 126 | Nature stays $150-$375/night | $44,249,052 (10-yr) | 2028+ |
-| Commercial (12 spaces / 30,000 SF) | 12 | — | $7,102,227 (10-yr) | 2028+ |
+| Micro-Villas (for sale) | 60 | ~$437/SF (avg $141,520/unit) | Included in residential sales subtotal | 2028+ |
+| **Residential Sales Subtotal (360 for-sale residences)** | 360 | — | $225,486,097 | 2028-2031 |
+| Estate Lots | 100 (full project; 80 Phase 1, 20 Phase 2) | ~$150K average lot revenue | $14,295,171 | 2028-2029 |
+| Rentals (event house, rental condos, STR/nature stays) | — | — | $53,231,500 (10-yr) | 2028+ |
+| Commercial (12 spaces / 30,000 SF) | 12 | — | $11,820,840 (10-yr) | 2028+ |
 
-**Total Full Project (All Phases) 10-Year Projected Revenue: $323,376,486** (projection — not guaranteed; master-plan context — not the basis of the Phase 1 investor economics offered hereby)
+**Total Full Project (All Phases) 10-Year Projected Revenue: $304,833,607** (projection — not guaranteed; master-plan context — not the basis of the Phase 1 investor economics offered hereby)
 
 ### 3.5 Competitive Position
 
@@ -349,26 +362,35 @@ The acquisition is subject to satisfactory completion of due diligence, includin
 
 The offering proceeds fund Phase 1 of the master plan. The Company's Phase 1 capitalization and anticipated uses are as follows (subject to final documentation and review by securities counsel):
 
-**Phase 1 Sources of Capital**
+**Phase 1 Sources of Capital — Election A (All-Equity)**
 
 | Source | Amount | Description |
 |---|---|---|
-| **Class A LP Equity (this offering)** | ~$5,154,032 | Class A Units offered to accredited investors |
+| **Class A LP Equity (this offering)** | $7,739,072 | Class A Units offered to accredited investors |
 | **GP Co-Investment Equity** | $500,000 | Manager/GP equity invested pari passu with the Class A LP equity |
 | **Phase 1 Construction Debt** | $7,700,000 | 8.5% interest, 10-year fully amortizing; annual debt service $1,173,539 |
-| **Total Phase 1 Capitalization** | **$13,354,032** | Phase 1 Years 1–2 construction is funded by this capitalization together with Year 2 project revenue |
+| **Total Phase 1 Capitalization** | **$15,939,072** | |
 
-**Phase 1 Uses (construction Years 1–2)**
+**Phase 1 Sources of Capital — Election B (Secured Notes)**
+
+| Source | Amount | Description |
+|---|---|---|
+| **Class A LP Equity (this offering)** | $3,739,072 | Class A Units offered to accredited investors |
+| **GP Co-Investment Equity** | $500,000 | Manager/GP equity invested pari passu with the Class A LP equity |
+| **Secured Promissory Notes** | $4,000,000 | 10% interest-only, Year-2 balloon; subordinate to Construction Debt (Documents 30-31) |
+| **Phase 1 Construction Debt** | $7,700,000 | 8.5% interest, 10-year fully amortizing; annual debt service $1,173,539 |
+| **Total Phase 1 Capitalization** | **$15,939,072** | |
+
+**Phase 1 Uses (identical under both Elections)**
 
 | Category | Amount | Description |
 |---|---|---|
-| **Land Acquisition (under LOI; modeled scenario)** | ~$2,170,000 | Land under letter of intent; $65,000 earnest money deposit; definitive terms subject to a final purchase agreement. Modeled: 20% down on ~$6.5M purchase price, ~5% closing costs, 8% land loan (scenario — subject to final terms) |
-| **Hard Costs (Year 1 construction)** | ~$6,650,000 | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture (Year 1 hard costs per model; includes $1,759,523 infrastructure) |
-| **Hard Costs (Year 2 construction)** | ~$10,010,000 | Model home, tiny homes, lot development, 6BR Rental/Event House, infrastructure backbone completion (includes $4,191,808 infrastructure); funded by the Phase 1 capitalization together with Year 2 project revenue |
-| **Soft Costs** | ~$1,531,751 | Due diligence ($142,320), master planning & consultants ($507,505), legal/permits, design & engineering (per Phase 1 model) |
-| **Marketing** | ~$601,000 | Sales & marketing across the Phase 1 sell-through (per Phase 1 model) |
-| **Contingency (10%)** | ~$3,462,904 | 10% contingency across Phase 1 costs (per Phase 1 model) |
-| **Operating Expenses** | ~$11.1M (Yrs 1–10) | Ongoing operations funded from project-generated revenue, not from the equity raise |
+| **Year-1 Development Program** | $14,109,934 | Land closing, infrastructure, nature stays, Community Center, Wellness Center, Regenerative Center, Natural Pool, parks, permaculture systems (Year-1 net cash requirement, equal to Year-1 EBITDA of −$14,109,934) |
+| **Year-1 Debt Service** | $1,173,539 | Construction debt service |
+| **Total Year-1 Outflow** | $15,283,473 | Funded from the $15,939,072 raised (~$655,599 cushion) |
+| **Year-2 Construction (Model Home, 60 micro-villas, lot development, 6BR Rental/Event House, infrastructure completion)** | Funded by Phase-1 operating revenue | Year-2 EBITDA is positive ($8,050,347), carrying Year-2 construction without additional equity draw |
+
+*Detailed line-item breakdown (hard costs, soft costs, marketing, contingency) for the $15,939,072 capitalization is being finalized against the updated model [TO CONFIRM].*
 | **Offering / Syndication Costs** | [TO CONFIRM] | Legal, filing, and placement costs — to be finalized with securities counsel |
 
 ### 5.2 Adequacy of Proceeds
@@ -497,7 +519,7 @@ The General Partner and its affiliates will receive the following compensation i
 
 | Fee | Amount | Timing | Description |
 |---|---|---|---|
-| **Developer Fee** | 4% of Phase 1 total capitalization ($534,161) | Paid from operating cash flow (first year cash flow allows); does not reduce LP capital basis | Compensation for development sponsorship and project execution |
+| **Developer Fee** | Election A: 4% of $15,939,072 = $637,563. Election B: $477,563 [TO CONFIRM — fee base excludes notes tranche in the source workbook; confirm intent] | Paid from operating cash flow (first year cash flow allows); does not reduce LP capital basis | Compensation for development sponsorship and project execution |
 | **Carried Interest / Promote** | Per waterfall (Section 8) | As distributions are made | General Partner's tiered promote on profits above the 10% cumulative preferred return and return of capital |
 | **Management Fee** | None | — | Not charged; the developer fee is the only sponsor fee |
 | **Acquisition Fee** | None | — | Not charged |
@@ -521,7 +543,9 @@ In addition to the fees described above, the Company will reimburse the General 
 ### 7.3 Fee Calculation Examples
 
 **Developer Fee Example**
-- Developer fee: 4% of the $13,354,032 Phase 1 total capitalization = $534,161, paid from operating cash flow in the first year cash flow allows; the fee does not reduce LP capital basis (subject to final documentation and review by securities counsel)
+- Election A: 4% of the $15,939,072 Phase 1 total capitalization = $637,563
+- Election B: $477,563 (4% of the notes-election workbook's $11,939,072 capitalization definition, which excludes the notes tranche from the fee base) [TO CONFIRM — worth confirming intent, not silently altered]
+- Paid from operating cash flow as first-year cash flow allows; the fee does not reduce LP capital basis (subject to final documentation and review by securities counsel)
 
 **Other Fees**
 - None. The General Partner charges no management, acquisition, construction management, asset management, disposition, refinancing, or property management fee. The 4% developer fee is the only sponsor fee, which preserves the projected LP economics.
@@ -572,17 +596,17 @@ The Manager intends to make distributions quarterly, subject to available cash f
 
 In the event that, upon final dissolution and liquidation of the Company, the General Partner has received cumulative distributions in excess of the amounts it would have been entitled to under the waterfall based on the Company's total performance, the General Partner shall return such excess to the Limited Partners (the "Clawback Obligation"). This ensures that the waterfall operates on a whole-fund basis, not a deal-by-deal basis.
 
-### 8.5 Projected LP Returns (Illustrative — $100,000 Investment; Phase 1)
+### 8.5 Projected LP Returns (Illustrative — $100,000 Investment; Phase 1) — Two Elections
 
-| Component | 5-Year Interim Snapshot | 10-Year Hold |
-|---|---|---|
-| **Capital Contributed** | $100,000 | $100,000 |
-| **Projected Cumulative LP Distributions** | $178,847 | $287,823 |
-| **Projected LP Net Profit** | $78,847 | $187,823 |
-| **Projected LP Equity Multiple** | 1.79x | 2.88x |
-| **Projected LP IRR** | 25.7% | 32.1% |
+| Component | Election A — 5-Yr | Election A — 10-Yr | Election B — 5-Yr | Election B — 10-Yr |
+|---|---|---|---|---|
+| **Capital Contributed** | $100,000 | $100,000 | $100,000 | $100,000 |
+| **Projected Cumulative LP Distributions** | — | $244,924 | — | $365,470 |
+| **Projected LP Net Profit** | — | $144,924 | — | $265,470 |
+| **Projected LP Equity Multiple** | 1.6515x | 2.449x | 2.104x | 3.655x |
+| **Projected LP IRR** | 20.07% | 26.02% | 28.04% | 34.81% |
 
-*Projections only — not guaranteed. Actual distributions depend on project performance and may differ materially. Figures are from the Company's Phase 1 financial model and equity waterfall; aggregate projected LP distributions are $14,834,476 over the 10-year hold and $9,217,829 through Year 5. The 5-year column is an interim snapshot, not a separate hold scenario: the construction loan is not repaid at year 5 (projected debt outstanding of $4,624,498 at Year 5). The detailed tier-by-tier waterfall schedule is available upon request. These returns are projected from Phase 1 alone; Phases 2–3 of the master plan represent potential additional upside and give the sponsor additional revenue capacity to support the targeted LP return, but are not required for the projected Phase 1 returns. All terms subject to final documentation and review by securities counsel.*
+*Projections only — not guaranteed. Actual distributions depend on project performance and may differ materially. Figures are from the Company's Phase 1 financial models and equity waterfalls; aggregate projected LP distributions are $18,955,089 (Election A) or $13,664,480 (Election B) over the 10-year hold, and $12,781,189 (Election A) or $7,866,963 (Election B) through Year 5. LP capital is fully returned by Year 3 under both Elections. The detailed tier-by-tier waterfall schedules are available upon request. These returns are projected from Phase 1 alone; Phases 2–3 of the master plan represent potential additional upside and give the sponsor additional revenue capacity to support the targeted LP return, but are not required for the projected Phase 1 returns. All terms subject to final documentation and review by securities counsel. See Document 33 (Key Figures Sheet) for the canonical reference.*
 
 ---
 
@@ -602,7 +626,7 @@ The following is a summary of certain risks associated with an investment in the
 
 **Competition.** The Austin MSA is an active market for residential development. New master-planned communities, conventional subdivisions, and infill projects compete for the same buyer pool. There can be no assurance that the Company's differentiated positioning will sustain pricing premiums throughout the development period.
 
-**Pricing Risk.** The financial projections assume specific pricing for each product type. Actual achievable prices may be lower than projected due to market conditions, competition, or other factors. A 10% reduction in achievable prices would reduce projected Phase 1 revenue by approximately $6 million (and full-project master-plan revenue by approximately $32 million).
+**Pricing Risk.** The financial projections assume specific pricing for each product type. Actual achievable prices may be lower than projected due to market conditions, competition, or other factors. A 10% reduction in achievable prices would reduce projected Phase 1 revenue by approximately $6.4 million (and full-project master-plan revenue by approximately $30.5 million).
 
 ### 9.3 Construction Risks
 
@@ -651,6 +675,8 @@ The following is a summary of certain risks associated with an investment in the
 **Additional Capital.** The Company may require additional capital beyond the proceeds of this offering. There can be no assurance that additional financing will be available on acceptable terms or at all. Failure to obtain adequate financing could result in reduced project scope, delays, or termination.
 
 **Leverage.** The Company intends to utilize construction financing and potentially MUD bond debt, which will increase the Company's overall leverage. High leverage amplifies both gains and losses, and the Company's ability to service debt obligations depends on the project generating sufficient cash flow.
+
+**Note Subordination Risk (Election B Investors Only).** Investors electing Election B receive Secured Promissory Notes (Document 30) rather than LP equity for the $4,000,000 land tranche. These Notes are secured by a lien on the Property that is **explicitly subordinate to the Construction Lender's first-priority lien** — the Notes do not get first position, and Note Holders would be paid only after the construction lender in a default, foreclosure, or liquidation scenario. This is a deliberate structural term, not an oversight, and is disclosed plainly here, in Document 31 (Term Sheet), Document 30 (Form of Note), and Document 32 (Deed of Trust). The Notes are also subject to balloon/refinance risk: the Year-2 target maturity may extend to Year 4, growing the aggregate outstanding balance to approximately $5.6M and requiring the Company to suspend LP distributions in Years 2-3 to fund the extension — a risk borne by LP equity holders under Election B as well as by Note Holders. Note Holders receive fixed 10% interest only and do not participate in any project upside. Investors uncomfortable with this subordination risk may instead elect Election A, which funds the same $4,000,000 tranche as ordinary equity with no notes and full upside participation (Section 1.1a).
 
 ### 9.9 Key Person Risk
 
@@ -766,15 +792,16 @@ THE FOREGOING TAX DISCUSSION IS A GENERAL SUMMARY ONLY AND IS NOT INTENDED AS TA
 To subscribe for Units, prospective investors must complete the following steps:
 
 **Step 1: Review Documents**
-Thoroughly review this Private Placement Memorandum, the Operating Agreement (Document 05), the Subscription Agreement (Document 04), and all other offering materials.
+Thoroughly review this Private Placement Memorandum, the Operating Agreement (Document 05), the Subscription Agreement (Document 04), the Key Figures Sheet (Document 33), and — if considering Election B — the Secured Promissory Note Term Sheet (Document 31), Form of Note (Document 30), and Deed of Trust (Document 32), and all other offering materials.
 
 **Step 2: Consult Advisors**
-Consult with your legal, tax, accounting, and financial advisors regarding the suitability of this investment for your individual circumstances.
+Consult with your legal, tax, accounting, and financial advisors regarding the suitability of this investment for your individual circumstances, including which Election (A or B) best fits your risk tolerance and objectives.
 
-**Step 3: Complete Subscription Agreement**
-Complete, execute, and return the Subscription Agreement (Document 04), including:
+**Step 3: Complete Subscription Agreement and Election Notice**
+Complete, execute, and return the Subscription Agreement (Document 04) and the Investor Election Notice (Document 34), including:
 - Investor identification and contact information
 - Investment amount (number of Units)
+- Election A or Election B for the land-tranche capital structure
 - Accredited investor representations and certifications
 - Investment experience and suitability representations
 - Wire transfer instructions acknowledgment
@@ -863,6 +890,11 @@ The following exhibits are incorporated by reference into this Private Placement
 | **Exhibit H** | Hempcrete Technical Specifications | [Building science documentation — available upon request] |
 | **Exhibit I** | Resumes of Key Personnel | [Available upon request] |
 | **Exhibit J** | Form of Accredited Investor Verification Letter | [Attached] |
+| **Exhibit K** | Form of Secured Promissory Note | Document 30 |
+| **Exhibit L** | Secured Promissory Note — Term Sheet | Document 31 |
+| **Exhibit M** | Deed of Trust (Placeholder) | Document 32 |
+| **Exhibit N** | Key Figures Sheet | Document 33 |
+| **Exhibit O** | Investor Election Notice | Document 34 |
 
 ---
 
