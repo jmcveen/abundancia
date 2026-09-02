@@ -190,8 +190,7 @@ const LAND_USE = [
 ]
 
 const UNIT_ECONOMICS = [
-  { type: 'Single-Family Home (1-4 BR)', phase: 'Phase 2', price: '$450K-$1.13M', priceSF: '$450/SF' },
-  { type: 'Single-Family Home (5 BR)', phase: 'Phase 2', price: '$1.35M', priceSF: '$450/SF' },
+  { type: 'Single-Family Home (1-5 BR)', phase: 'Phase 2', price: '$450K-$1.35M', priceSF: '$450/SF' },
   { type: 'Luxury Estate (5-7 BR)', phase: 'Phase 2', price: '$2.10M-$3.30M', priceSF: '$600/SF' },
   { type: 'Condominium', phase: 'Phase 3', price: '$399K', priceSF: '$450/SF' },
   { type: 'Micro Villa', phase: 'Phase 1', price: '$142K', priceSF: '$437/SF' },
