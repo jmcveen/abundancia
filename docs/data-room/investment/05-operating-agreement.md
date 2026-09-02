@@ -126,7 +126,7 @@ The Company is organized for the following purposes:
 
 (b) To develop, design, and master plan the property as a regenerative community featuring hempcrete residential construction, regenerative agriculture, renewable energy systems, and community-centered design;
 
-(c) To construct, market, and sell single-family homes, tiny homes, geodesic dome residences, multifamily units, and finished building lots;
+(c) To construct, market, and sell single-family homes, micro-villas, geodesic dome residences, multifamily units, and finished building lots;
 
 (d) To acquire, develop, and operate a portfolio of rental housing units for recurring income;
 

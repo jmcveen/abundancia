@@ -197,7 +197,7 @@ The Company's primary business objectives are:
 
 (b) **Develop** the property as a regenerative master-planned community featuring hempcrete residential construction, regenerative agriculture, and community-centered design;
 
-(c) **Construct and sell** single-family homes, tiny homes, geodesic dome residences, multifamily units, and finished building lots;
+(c) **Construct and sell** single-family homes, micro-villas, geodesic dome residences, multifamily units, and finished building lots;
 
 (d) **Retain and operate** a portfolio of rental units, commercial spaces, and a retreat/event center for recurring income;
 

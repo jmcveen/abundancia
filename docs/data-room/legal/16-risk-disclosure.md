@@ -52,7 +52,7 @@
 
 **Likelihood:** Possible
 **Potential Impact:** Severe - Total loss of invested capital.
-**Mitigation:** Diversified revenue model (tiny home sales, lot sales, rentals/hospitality, commercial and amenity operations). Conservative financial projections with adequate contingency reserves. Experienced development team. The offering finances Phase 1 of the development program, and projected LP returns are based on Phase-1 operations alone — Phases 2-3 are not required for the projected returns (subject to final documentation).
+**Mitigation:** Diversified revenue model (micro-villa sales, lot sales, rentals/hospitality, commercial and amenity operations). Conservative financial projections with adequate contingency reserves. Experienced development team. The offering finances Phase 1 of the development program, and projected LP returns are based on Phase-1 operations alone — Phases 2-3 are not required for the projected returns (subject to final documentation).
 
 ---
 
@@ -116,7 +116,7 @@ Abundancia's homes are positioned "from approximately $450/SF" — a premium of 
 
 **Likelihood:** Moderate
 **Potential Impact:** High - Reduced buyer purchasing power, slower absorption, higher development costs.
-**Mitigation:** Abundancia's product range spans multiple price points — tiny homes (approximately $104K-$166K), condos (approximately $400/SF), and single-family and estate homes (blended approximately $566/SF) — providing absorption options across rate environments; the premium wellness positioning also reduces reliance on marginal financed buyers. MUD bond financing (tax-exempt) provides a lower-cost infrastructure financing alternative. The project's phased approach allows capital deployment adjustments in response to rate environments. The financial model stress-tests returns under elevated rate scenarios.
+**Mitigation:** Abundancia's product range spans multiple price points — micro-villas (avg $141,520), condos (approximately $400/SF), and single-family and estate homes (blended approximately $566/SF) — providing absorption options across rate environments; the premium wellness positioning also reduces reliance on marginal financed buyers. MUD bond financing (tax-exempt) provides a lower-cost infrastructure financing alternative. The project's phased approach allows capital deployment adjustments in response to rate environments. The financial model stress-tests returns under elevated rate scenarios.
 
 ---
 
