@@ -943,7 +943,7 @@ Each Quarterly Report shall include a schedule of management fees and other comp
 
 | Fee Type | Basis | Amount Paid (Quarter) | Amount Paid (YTD) |
 |----------|-------|----------------------|-------------------|
-| Developer Fee | 4% of Phase-1 capitalization ($534,161), paid from operating cash flow | $[reported per period] | $[reported YTD] |
+| Developer Fee | Election A: $637,563 (4% of $15,939,072). Election B: $477,563. Paid from operating cash flow | $[reported per period] | $[reported YTD] |
 | Asset Management Fee | None (not charged) | $0 | $0 |
 | Development Management Fee | None (not charged) | $0 | $0 |
 | Property Management Fee | None (not charged) | $0 | $0 |

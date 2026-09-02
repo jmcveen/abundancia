@@ -47,7 +47,7 @@ Abundancia will employ hempcrete (hemp-lime bio-composite) as its primary envelo
 
 Hempcrete is not experimental. Over 10,000 hempcrete structures exist across Europe, with the oldest documented examples exceeding 600 years. France alone has permitted hempcrete construction since the 1990s, with over 5,000 completed buildings. The regulatory environment is favorable: the City of Austin adopted hemp-lime construction into its building code in July 2025, and Bastrop County permits hempcrete through its IRC-based alternative-materials pathway. The material's fire resistance directly addresses the catastrophic risk demonstrated by the 2011 Bastrop Complex Fire, which destroyed 1,673 homes within miles of our site. Hempcrete assemblies deliver R-30+ walls, 2+ hour fire resistance, an estimated 50-70% reduction in HVAC/energy use versus a code-baseline home, and a vapor-open, mold-resistant, pest-resistant, non-toxic envelope — in a hempcrete market growing at approximately 15% per year (Global Market Insights).
 
-Each Abundancia home is estimated (preliminary) to sequester 20-40 tons of CO2 within its walls, making the community's built environment carbon-sequestering rather than an emissions source. Applying that per-residence basis across the reconciled full-build program of ~486 residences (360 for-sale + 126 rental), community-wide sequestration at full buildout is estimated at **approximately 10,000-19,000 tons of CO2** — a preliminary estimate, assuming hempcrete construction, pending final material specification.
+Each Abundancia home is estimated (preliminary) to sequester 20-40 tons of CO2 within its walls, making the community's built environment carbon-sequestering rather than an emissions source. Applying that per-residence basis across the reconciled full-build program of ~496 residences (360 for-sale + 136 rental), community-wide sequestration at full buildout is estimated at **approximately 9,900-19,800 tons of CO2** — a preliminary estimate, assuming hempcrete construction, pending final material specification.
 
 ---
 
@@ -341,14 +341,14 @@ Carbon is sequestered in hempcrete through two distinct pathways:
 
 | Metric | Value |
 |--------|-------|
-| Structures at full buildout | ~501 structures + 100 estate lots (360 for-sale residences + 126 rental ≈ 486 residences) |
+| Structures at full buildout | 511 structures + 100 estate lots (360 for-sale residences + 136 rental ≈ 496 residences) |
 | Net CO2 sequestered per home (estimated, preliminary) | 20-40 tons |
-| **Total community sequestration** | **~10,000-19,000 tons CO2** (preliminary estimate, assuming hempcrete construction, pending final material specification; ~20-40 tons/home × ~486 residences) |
-| Equivalent: cars removed from road (1 year) | ~2,200-4,100 passenger vehicles (EPA ~4.6 t CO2/vehicle-yr; preliminary) |
-| Equivalent: acres of forest (1 year absorption) | ~12,000-22,600 acres (EPA ~0.84 t CO2/acre-yr; preliminary) |
-| Equivalent: US homes' annual electricity use | ~1,900-3,600 homes (EPA ~5.3 t CO2/home-yr; preliminary) |
+| **Total community sequestration** | **~9,900-19,800 tons CO2** (preliminary estimate, assuming hempcrete construction, pending final material specification; ~20-40 tons/home × ~496 residences) |
+| Equivalent: cars removed from road (1 year) | ~2,150-4,300 passenger vehicles (EPA ~4.6 t CO2/vehicle-yr; preliminary) |
+| Equivalent: acres of forest (1 year absorption) | ~11,800-23,600 acres (EPA ~0.84 t CO2/acre-yr; preliminary) |
+| Equivalent: US homes' annual electricity use | ~1,870-3,740 homes (EPA ~5.3 t CO2/home-yr; preliminary) |
 
-*Note: Community-scale totals in prior drafts were based on an earlier 150-200-home planning scenario and are superseded by the current program (~501 structures + 100 estate lots; ~486 residences). The community-wide figures above are a preliminary estimate assuming hempcrete construction, computed from the per-home basis (~20-40 tons CO2) applied across ~486 residences (360 for-sale + 126 rental), and are pending final material specification; equivalents use EPA Greenhouse Gas Equivalencies factors. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with hempcrete construction build-out scaling across later phases.*
+*Note: Community-scale totals in prior drafts were based on an earlier 150-200-home planning scenario and are superseded by the current program (511 structures + 100 estate lots; ~496 residences). The community-wide figures above are a preliminary estimate assuming hempcrete construction, computed from the per-home basis (~20-40 tons CO2) applied across ~496 residences (360 for-sale + 136 rental), and are pending final material specification; equivalents use EPA Greenhouse Gas Equivalencies factors. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 micro-villas, and 80 residential lots — with hempcrete construction build-out scaling across later phases.*
 
 ### 7.4 Comparison: Carbon Footprint by Construction Method
 

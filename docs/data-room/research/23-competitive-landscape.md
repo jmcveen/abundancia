@@ -52,7 +52,7 @@ The Austin metropolitan area's residential development market is intensely compe
 | **Direct competitors in Austin MSA** | 1 (Whisper Valley — proves east-Austin sustainability demand; different product) |
 | **National benchmark comparables** | 1 (Serenbe, GA) |
 | **Competitive white space** | No development in the Austin MSA combines hempcrete, conservation, permaculture, and wellness community — a category of one |
-| **Price positioning** | Homes from approximately $450/SF (blended realized ~$566/SF SFR per model); premium to Bastrop County median ($187/SF, Redfin 5/2026); below Barton Creek (~$553-802/SF) and West Lake Hills (~$756/SF) |
+| **Price positioning** | Standard-tier homes $450/SF; luxury-tier homes $600/SF; premium to Bastrop County median ($187/SF, Redfin 5/2026); below Barton Creek (~$553-802/SF) and West Lake Hills (~$756/SF) |
 | **Primary competitive advantage** | Authenticity of regenerative model — not greenwashing; measurable carbon sequestration |
 | **Competitive vulnerability** | Execution risk; brand-building timeline; hempcrete market unfamiliarity |
 | **Moat durability** | Strong — 2-3 year development lead, regulatory relationships, proprietary construction expertise |
@@ -137,8 +137,8 @@ Whisper Valley is the most directly comparable eco-branded development in the Au
 | **Water** | Municipal water | Layered: Aqua WSC + wells + rainwater + AWG + greywater | Abundancia |
 | **Food systems** | Small community garden | 42 acres regenerative agriculture + 8.5 acres permaculture gardens + dining | Abundancia |
 | **Wellness / community** | HOA-managed; limited programming | Wellness/longevity center & spa, retreat stays, ceremony spaces | Abundancia |
-| **Price accessibility** | $300K-750K (broad range) | Tiny homes from ~$104K to estate homes (homes from ~$450/SF) | Abundancia |
-| **Scale / absorption** | ~7,500 units; 400/yr | ~501 structures + 100 estate lots (360 for-sale residences) | Whisper Valley (volume) |
+| **Price accessibility** | $300K-750K (broad range) | Micro-villas from ~$141K avg to luxury estates ($2.10M-$3.30M @ $600/SF) | Abundancia |
+| **Scale / absorption** | ~7,500 units; 400/yr | 511 structures + 100 estate lots (360 for-sale residences) | Whisper Valley (volume) |
 | **Location** | East Austin; closer to urban core | SH-71 corridor; 30-40 min downtown; 15-20 min ABIA | Whisper Valley |
 | **Brand maturity** | Established (2017 launch) | Pre-launch (10,000-person interest list, zero paid marketing) | Whisper Valley |
 
@@ -162,7 +162,7 @@ The Sanctuary (sanctuary.co) is part of Abundancia's approved comparable set for
 | **Wellness Amenities** | Meditation dome, devotion center, biohacking gym, bathhouse, edible garden, bee farm |
 | **Pricing / Sales** | Pricing and sales data being compiled |
 
-**Strategic Implication (qualitative only):** The Sanctuary validates Austin-area demand for health-forward, off-grid, non-toxic community living — the same buyer values Abundancia serves. The concept differences are meaningful: The Sanctuary is a 104-acre lot-sale community of individual off-grid homesteads on 1.6-acre lots in the western Hill Country, while Abundancia is a 376-acre conservation community on the east/southeast (SH 71) growth corridor that adds 49% permanently preserved land, regenerative agriculture at scale (42 acres + 8.5 acres permaculture), hospitality and retreat operations, a commercial village, and mixed housing types from tiny homes to estate lots. No pricing, absorption, or premium comparison is made — The Sanctuary's pricing and sales data are being compiled.
+**Strategic Implication (qualitative only):** The Sanctuary validates Austin-area demand for health-forward, off-grid, non-toxic community living — the same buyer values Abundancia serves. The concept differences are meaningful: The Sanctuary is a 104-acre lot-sale community of individual off-grid homesteads on 1.6-acre lots in the western Hill Country, while Abundancia is a 376-acre conservation community on the east/southeast (SH 71) growth corridor that adds 49% permanently preserved land, regenerative agriculture at scale (42 acres + 8.5 acres permaculture), hospitality and retreat operations, a commercial village, and mixed housing types from micro-villas to luxury estates. No pricing, absorption, or premium comparison is made — The Sanctuary's pricing and sales data are being compiled.
 
 ---
 
@@ -199,8 +199,8 @@ The Dripping Springs corridor is Austin's established luxury-lifestyle submarket
 
 | Dimension | Dripping Springs (Typical) | Abundancia | Advantage |
 |-----------|:------------------------:|:---------:|:---------:|
-| **Price point** | $450K-1.5M | Tiny homes from ~$104K to estate homes; homes from ~$450/SF | Abundancia (broader access) |
-| **Price/SF** | $250-400/SF | From ~$450/SF (blended ~$566/SF SFR; ~$400/SF condo; ~$416/SF tiny) | Premium justified by regenerative platform |
+| **Price point** | $450K-1.5M | Micro-villas from ~$141K avg to luxury estates ($2.10M-$3.30M) | Abundancia (broader access) |
+| **Price/SF** | $250-400/SF | Standard $450/SF; luxury $600/SF; ~$400/SF condo; ~$437/SF micro-villa | Premium justified by regenerative platform |
 | **Conservation** | 10-25% (typical) | 49% permanently preserved (184.5 acres); ~4.3% structural footprint | Abundancia |
 | **Sustainability** | Minimal (standard construction) | Carbon-sequestering, non-toxic hempcrete | Abundancia |
 | **Energy** | Grid-dependent | Solar + battery; geothermal-ready | Abundancia |
@@ -334,7 +334,7 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 | **Fiber internet** | Yes (community) | Yes (Google Fiber) | [TO CONFIRM] | Yes | Varies |
 | **EV charging** | Yes (~1 per 3 structures) | Yes | [TO CONFIRM] | Yes | Varies |
 | **Trail system** | Yes, through preserved land | Yes | [TO CONFIRM] | 15+ miles | Varies |
-| **Mixed housing types** | 5+ types (SFR, condo, tiny home, dome, estate lot) | 1 (SF homes) | 15 customizable home plans (520 SF casita to 10-BR flagship) | 4+ types | 1-2 types |
+| **Mixed housing types** | 5+ types (SFR, luxury estate, condo, micro-villa, estate lot) | 1 (SF homes) | 15 customizable home plans (520 SF casita to 10-BR flagship) | 4+ types | 1-2 types |
 | **STR-friendly** | Yes | HOA restrictions | [TO CONFIRM] | Limited | Varies |
 | **MUD infrastructure financing** | Yes (formation engineering underway — Fred Haas PE) | No (municipal) | [TO CONFIRM] | No | Varies |
 | **Agricultural tax exemption** | Yes | No | [TO CONFIRM] | No | Varies |
@@ -367,7 +367,7 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 
 | Community | Price Range | Price/SF | Lot Size | Key Features | Buyer Profile |
 |-----------|-----------|---------|---------|-------------|--------------|
-| **Abundancia** | From ~$450/SF (entry anchor); blended realized ~$566/SF per model | ~$566 (blended) | 1BR 1,000 SF to 7BR 5,000 SF | Hempcrete, solar, conservation | Wellness-lifestyle |
+| **Abundancia** | Standard $450/SF; luxury $600/SF | ~$477 (revenue-weighted blend) | 1BR 1,000 SF to 7BR 5,500 SF | Hempcrete, solar, conservation | Wellness-lifestyle |
 | Whisper Valley | $300K-750K | $195-245 | 0.10-0.20 acre | Geothermal, zero-energy | Eco-curious suburban |
 | Dripping Springs (avg.) | $450K-1.2M | $250-350 | 0.15-1.0 acre | Hill Country, conventional | Status-lifestyle |
 | Serene Hills | $600K-1.8M | $300-425 | 0.25-0.50 acre | Lake views, custom | Luxury |
@@ -419,7 +419,7 @@ The following framework positions Abundancia relative to competitors on two axes
 | **49% permanent conservation; ~4.3% structural footprint** | Among the highest conservation ratios of any development in Austin MSA (184.5 of 376 acres) | Scarcity premium; environmental credibility; Houston toad / Lost Pines HCP conservation-subdivision pathway |
 | **Integrated food systems** | 42 acres regenerative agriculture + 8.5 acres permaculture gardens; farm-to-table dining; food forests | No competitor offers anything comparable within 100 miles |
 | **Layered infrastructure resilience** | Solar + battery + layered water (Aqua WSC, wells, rainwater, AWG, greywater) + fiber | Climate resilience story; lower operating costs |
-| **Diversified product mix** | 5+ housing types from ~$104K tiny homes to estate homes | Broader addressable market; absorption resilience across cycles |
+| **Diversified product mix** | 5+ housing types from ~$141K micro-villas to $3.3M luxury estates | Broader addressable market; absorption resilience across cycles |
 | **Bastrop County regulatory environment** | No county zoning (mixed use by right); 12-16 month permitting est.; MUD availability (formation engineering underway); ag exemption | Lower cost, faster timeline, greater flexibility than Travis County |
 | **Private capital structure** | Accredited investor offering with institutional governance (subject to final documentation and review by securities counsel) | Professional investor base; aligned incentives |
 | **SH 71 corridor location** | 30-40 min downtown Austin; ~20 min from Tesla; 15-20 min from ABIA | Strong connectivity to employment and transit hubs |
@@ -579,7 +579,7 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 | **Primary emotion** | Transformation, abundance, sovereignty | Responsibility, efficiency | Beauty, belonging, culture |
 | **Target identity** | Changemaker, healer, conscious creator | Eco-conscious suburban family | Design-conscious creative |
 | **Visual language** | Earthy, organic, sacred geometry | Modern clean, green tech | Southern charm, artisan, organic |
-| **Price signal** | Premium but accessible; tiny homes from ~$104K to estate homes (homes from ~$450/SF) | Attainable eco; $300K-750K | Aspirational luxury; from ~$375K to $2.5M+ |
+| **Price signal** | Premium but accessible; micro-villas from ~$141K to luxury estates ($2.10M-$3.30M @ $600/SF) | Attainable eco; $300K-750K | Aspirational luxury; from ~$375K to $2.5M+ |
 | **Trust mechanism** | Measurable carbon data; transparent operations | Zero-energy certification | 18-year track record; media coverage |
 
 ### 10.4 Competitive Messaging Framework
