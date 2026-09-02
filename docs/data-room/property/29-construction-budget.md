@@ -238,8 +238,8 @@ Total site work budget: **~$7,072,088** (within total hard costs).
 |-----------|-------|
 | Hospitality opens | Nature stays + event house operations begin |
 | Model home | SFR model home |
-| Micro-villas | Tiny home deliveries (60-unit program: 232-416 SF) |
-| Lot sales launch | Estate lot program — lot revenue $22,872,273 (2028-2029; 100 estate lots full project, 80 in Phase 1) |
+| Micro-villas | Micro-villa deliveries (60-unit program) |
+| Lot sales launch | Estate lot program — Phase-1 lot revenue $10,817,449 (2028-2029, 80 of 100 total lots); full-project lot revenue $14,295,171 (10-yr) |
 | SFR sales launch | Single-family sales program begins |
 
 ### 5.3 2029 — Scale-Up (hard costs [TO CONFIRM])

@@ -411,7 +411,7 @@ There can be no assurance that additional financing, if needed, will be availabl
 
 ### 5.3 Additional Financing Sources — Full Project (All Phases) Context
 
-*The following describes financing for the full multi-phase master plan. The Phase 1 offering is capitalized as described in Section 5.1; later-phase financing would fund Phases 2–3, which are presented as master-plan context and potential future upside and are not required for the projected Phase 1 investor returns.* Beyond the Phase 1 capitalization, the full master plan anticipates the following financing sources (Full Project total expenses over the 10-year period are projected at $251,605,403, including hard costs of approximately $201,653,793 and a 10% contingency of $22,873,218; Phase 1 hard construction costs are ~$6.65M in 2027 and ~$10.01M in 2028):
+*The following describes financing for the full multi-phase master plan. The Phase 1 offering is capitalized as described in Section 5.1; later-phase financing would fund Phases 2–3, which are presented as master-plan context and potential future upside and are not required for the projected Phase 1 investor returns.* Beyond the Phase 1 capitalization, the full master plan anticipates the following financing sources (Full Project total expenses over the 10-year period are projected at $242,712,457, including $220,647,688 excl. contingency and a 10% contingency of $22,064,769; line-item hard cost detail for the revised model is being finalized [TO CONFIRM]; Phase 1 hard construction costs are ~$6.65M in 2027 and ~$10.01M in 2028):
 
 | Source | Estimated Amount | Timing | Terms |
 |---|---|---|---|

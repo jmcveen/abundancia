@@ -290,7 +290,7 @@ See Section 13 for detailed retreat center design. *Revenue classification note:
 | Total commercial SF | 30,000 (12 spaces) + community amenities |
 | Total building floor area | ~581,974 SF GFA (~4% footprint of the 376 acres) plus roads and site development |
 | Total project expenses (10-yr model) | $242,712,457 (excl. contingency $220,647,688 · 10% contingency $22,064,769; line-item hard/soft/land split for the revised model [TO CONFIRM]) |
-| Total revenue (10-yr model) | $323,376,486 |
+| Total revenue (10-yr model) | $304,833,607 |
 | Construction timeline | 2027-2031; stabilized operations 2032+ (~$7-8M/yr recurring) |
 
 ---
@@ -468,7 +468,7 @@ The Abundancia Event & Healing Center (12 acres) operates as both a revenue-gene
 
 ### 13.3 Revenue Model
 
-Retreat Center revenue (event house + unique regenerative stays) is modeled within total rental revenue of **$44,249,052 over the 10-year model**, with hospitality operations opening in 2028. Stabilized recurring community revenue (2032+) is approximately $7-8M/yr across all recurring streams. Stand-alone retreat-center annual revenue targets: [TO CONFIRM from financial model detail].
+Retreat Center revenue (event house + unique regenerative stays) is modeled within total rental revenue of **$53,231,500 over the 10-year model (full project — context)**, with hospitality operations opening in 2028. Stand-alone retreat-center annual revenue targets: [TO CONFIRM from financial model detail].
 
 ### 13.4 Design Standards
 
