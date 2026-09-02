@@ -235,7 +235,7 @@ Form D requires disclosure of the following information:
 | Item 10 | Business combination transaction (N/A) |
 | Item 11 | Minimum investment accepted ($50,000, one Unit) |
 | Item 12 | Sales compensation (broker-dealers, finders fees, if any) |
-| Item 13 | Offering and sales amounts (approximately $5,154,032 Class A/LP equity total; amount sold; amount remaining) |
+| Item 13 | Offering and sales amounts (approximately $7,739,072 Class A/LP equity total under Election A, or $3,739,072 under Election B; amount sold; amount remaining) |
 | Item 14 | Investors (number who have already invested, number who are accredited) |
 | Item 15 | Sales commissions and finders' fees |
 | Item 16 | Use of proceeds |
@@ -372,7 +372,7 @@ California filing fees are based on the aggregate offering amount:
 | $25,000,001 - $50,000,000 | $5,000 |
 | Over $50,000,000 | $6,500 |
 
-**Applicable Fee for the Offering:** $2,500.00 (based on the approximately $5,154,032 maximum offering amount, which falls in the $5,000,001 - $10,000,000 bracket; fee bracket to be re-confirmed against the final offering amount at filing)
+**Applicable Fee for the Offering:** $2,500.00 under Election A (approximately $7,739,072 maximum offering amount, $5,000,001 - $10,000,000 bracket) or $1,200.00 under Election B (approximately $3,739,072 maximum offering amount, $1,000,001 - $5,000,000 bracket); fee bracket to be re-confirmed against the final offering amount and elected structure at filing
 
 ### 7.4 California-Specific Considerations
 
@@ -419,7 +419,7 @@ New York filing fees are based on the aggregate offering amount:
 | $5,000,001 - $25,000,000 | $2,400 |
 | Over $25,000,000 | $3,600 |
 
-**Applicable Fee for the Offering:** $2,400.00 (based on the approximately $5,154,032 maximum offering amount; $5,000,001 - $25,000,000 bracket)
+**Applicable Fee for the Offering:** $2,400.00 under Election A (approximately $7,739,072 maximum offering amount; $5,000,001 - $25,000,000 bracket) or $1,500.00 under Election B (approximately $3,739,072 maximum offering amount; $1,000,001 - $5,000,000 bracket)
 
 ### 8.4 New York-Specific Considerations
 
