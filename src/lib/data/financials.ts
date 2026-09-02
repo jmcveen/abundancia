@@ -38,7 +38,7 @@ export const INVESTMENT_DISCLAIMER =
 // across the 380-acre development. 80 of the 100 lots sell in Phase 1.
 
 export const UNIT_MIX = [
-  { type: 'Single-Family Homes', phase: 2, count: 100, avgPrice: 450_000, avgSF: 2_475, avgNightly: 0, revenue10yr: 0 },
+  { type: 'Single-Family Homes', phase: 2, count: 100, avgPrice: 1_107_000, avgSF: 2_320, avgNightly: 0, revenue10yr: 0 },
   { type: 'Condominiums (for sale)', phase: 3, count: 200, avgPrice: 443_571, avgSF: 986, avgNightly: 0, revenue10yr: 0 },
   { type: 'Rental Condominiums', phase: 3, count: 75, avgPrice: 0, avgSF: 997, avgNightly: 90, revenue10yr: 11_000_000 },
   { type: 'Micro Villas (for sale)', phase: 1, count: 60, avgPrice: 141_520, avgSF: 324, avgNightly: 0, revenue10yr: 8_856_322 },
