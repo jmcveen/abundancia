@@ -86,47 +86,68 @@ Abundancia Community LLC is a single manager-managed Delaware LLC with two class
 
 ---
 
-## 2. Capitalization Summary — The Offering (Phase 1)
+## 2. Capitalization Summary — The Offering (Phase 1, Two Elections)
 
-### 2.1 Phase-1 Capitalization ($13,354,032)
+### 2.1 Phase-1 Capitalization ($15,939,072, identical under both Elections)
+
+**Election A — All-Equity**
 
 | Source | Amount | Type | Priority |
 |--------|--------|------|---------|
-| Class A Units (LP Investors) | $5,154,032 | Preferred equity — 91.16% of equity | Senior equity |
-| GP Co-Investment (Class B / Manager) | $500,000 | GP equity — 8.84% of equity, pari passu with LP capital | Pari passu equity |
+| Class A Units (LP Investors) | $7,739,072 | Preferred equity — 93.93% of equity | Senior equity |
+| GP Co-Investment (Class B / Manager) | $500,000 | GP equity — 6.07% of equity, pari passu with LP capital | Pari passu equity |
 | Phase-1 Debt | $7,700,000 | 8.5%, 10-yr fully amortizing ($1,173,539/yr service) | Senior debt |
-| **Phase-1 Total Capitalization** | **$13,354,032** | | |
+| **Phase-1 Total Capitalization** | **$15,939,072** | | |
 
-*Total equity: $5,654,032 (LP 91.16% / GP 8.84%). Total 10-year debt service $11,735,393 (total interest $4,035,393); debt outstanding at Year 5 is $4,624,498 (memo — the loan is not repaid at Year 5).*
+**Election B — Secured Notes**
 
-### 2.2 Use of Proceeds (Phase 1)
+| Source | Amount | Type | Priority |
+|--------|--------|------|---------|
+| Class A Units (LP Investors) | $3,739,072 | Preferred equity — 88.20% of equity | Senior equity |
+| GP Co-Investment (Class B / Manager) | $500,000 | GP equity — 11.80% of equity, pari passu with LP capital | Pari passu equity |
+| Secured Promissory Notes | $4,000,000 | 10% interest-only, Year-2 balloon | Subordinate to Phase-1 Debt; senior to equity (Documents 30-31) |
+| Phase-1 Debt | $7,700,000 | 8.5%, 10-yr fully amortizing ($1,173,539/yr service) | Senior debt |
+| **Phase-1 Total Capitalization** | **$15,939,072** | | |
 
-The Phase-1 capitalization funds the Phase-1 construction program — approximately $16.7M of hard costs over Years 1–2 (infrastructure, Community Center, Longevity Center & Spa, 50 nature stays, 60 tiny homes, 80 prepared residential lots, 6BR Rental/Event House — see Document 29) — together with early operating cash flow. Year-1 EBITDA of ($11,824,822) is the construction-year deployment funded by the Year-0 capitalization.
+*Total 10-year construction debt service $11,735,393 (total interest $4,035,393). Election B note total repayment (2-yr base case) $4,800,000 ($800,000 interest).*
+
+### 2.2 Use of Proceeds (Phase 1, identical under both Elections)
+
+The Phase-1 capitalization funds the Phase-1 construction program — approximately $16.7M of hard costs over Years 1–2 (infrastructure, Community Center, Longevity Center & Spa, 50 nature stays, 60 micro-villas, 80 prepared residential lots, 6BR Rental/Event House — see Document 29) — together with early operating cash flow. Year-1 EBITDA of ($14,109,934) is the construction-year deployment funded by the Phase-1 capitalization.
 
 | Category | Amount | Notes |
 |----------|--------|-------|
 | Land (down payment, closing, Year-1 carry) | $2.17M | Land under letter of intent; $65,000 earnest money deposit; definitive purchase terms subject to a final purchase agreement [TO CONFIRM]. Modeled scenario: ~$6.5M price, 20% down, ~5% closing, 8% land loan — subject to final terms |
 | Year-1 construction hard costs | ~$6.65M | Infrastructure, nature stays, Community Center, Longevity Center & Spa, parks, permaculture |
-| Year-2 construction hard costs | ~$10.01M | Infrastructure backbone, 60 tiny homes, 80 prepared lots, 6BR Rental/Event House — funded with early operating cash flow |
+| Year-2 construction hard costs | ~$10.01M | Infrastructure backbone, 60 micro-villas, 80 prepared lots, 6BR Rental/Event House — funded with early operating cash flow |
 | Soft costs, operations, marketing, reserves | Balance | Detailed Phase-1 split per model [TO CONFIRM] |
 
 ---
 
 ## 3. Ownership Structure
 
-### 3.1 Entry Cap Table (Phase-1 Offering)
+### 3.1 Entry Cap Table (Phase-1 Offering) — Election A (All-Equity)
 
 | Member / Class | Capital Contributed | % of Equity | Economic Position | Voting Rights |
 |---------------|--------------------|------------:|--------------------|---------------|
-| **Class A Units (LP Investors)** | $5,154,032 | 91.16% | 10% cumulative preferred return; ~103 Units @ $50,000 | Limited (major matters only) |
-| **Class B Units (GP / Manager)** | $500,000 co-investment | 8.84% | Pari passu with LP capital; promote above preferred per waterfall | Full management authority (Manager) |
-| **Total Equity** | **$5,654,032** | **100%** | | |
+| **Class A Units (LP Investors)** | $7,739,072 | 93.93% | 10% cumulative preferred return; ~155 Units @ $50,000 | Limited (major matters only) |
+| **Class B Units (GP / Manager)** | $500,000 co-investment | 6.07% | Pari passu with LP capital; promote above preferred per waterfall | Full management authority (Manager) |
+| **Total Equity** | **$8,239,072** | **100%** | | |
 
-*Unit price $50,000; minimum investment $50,000 (1 Unit); approximately 103 Units maximum. Working terms — subject to final documentation.*
+### 3.1a Entry Cap Table (Phase-1 Offering) — Election B (Secured Notes)
+
+| Member / Class | Capital Contributed | % of Equity | Economic Position | Voting Rights |
+|---------------|--------------------|------------:|--------------------|---------------|
+| **Class A Units (LP Investors)** | $3,739,072 | 88.20% | 10% cumulative preferred return; ~75 Units @ $50,000 | Limited (major matters only) |
+| **Class B Units (GP / Manager)** | $500,000 co-investment | 11.80% | Pari passu with LP capital; promote above preferred per waterfall | Full management authority (Manager) |
+| **Total Equity** | **$4,239,072** | **100%** | | |
+| *(Separate security)* Secured Promissory Notes | $4,000,000 | N/A — not equity | Fixed 10% interest only; no upside participation; subordinate lien | None |
+
+*Unit price $50,000; minimum investment $50,000 (1 Unit). Working terms — subject to final documentation.*
 
 ### 3.2 Effective Economics Through Waterfall
 
-GP economic participation increases as LP returns exceed waterfall thresholds (see Section 6). Distributions go 100% to the equity class until the 10% cumulative preferred return and capital are returned (LP-class first); GP promote applies only above the preferred. At modeled Phase-1 outcomes, LPs receive 65.6% of total 10-year distributions (74.6% at the 5-year interim view) — the LP majority is protected across the waterfall.
+GP economic participation increases as LP returns exceed waterfall thresholds (see Section 6). Distributions go 100% to the equity class until the 10% cumulative preferred return and capital are returned (LP-class first); GP promote applies only above the preferred. At modeled Phase-1 outcomes, LPs receive 70.26% (Election A) or 61.17% (Election B) of total 10-year distributions (79.76% / 69.10% at the 5-year interim view) — the LP majority is protected across the waterfall under both Elections.
 
 ---
 
@@ -137,30 +158,30 @@ GP economic participation increases as LP returns exceed waterfall thresholds (s
 | Term | Detail |
 |------|--------|
 | **Security** | Class A Units of Abundancia Community LLC |
-| **Total Class A Raise (Phase 1)** | $5,154,032 |
+| **Total Class A Raise (Phase 1)** | $7,739,072 (Election A) or $3,739,072 (Election B) |
 | **Preferred Return** | 10.0% cumulative |
 | **Priority** | Senior to all GP promote distributions; return of capital LP-class first (pref + capital before promote) |
 | **Distribution Reserve** | 20% of positive cash flows withheld annually as a safety buffer; released Year 10 |
-| **Unit Price / Minimum Investment** | $50,000 per Unit; minimum $50,000 (one Unit); ~103 Units maximum |
+| **Unit Price / Minimum Investment** | $50,000 per Unit; minimum $50,000 (one Unit) |
 | **Transferability** | Restricted; Manager consent required [TO CONFIRM detailed terms] |
 | **Tax Treatment** | K-1 income/loss; depreciation pass-through |
 | **Investor Eligibility** | Accredited investors — Regulation D Rule 506(c) (subject to review by securities counsel) |
 
-### 4.2 LP Return Profile (Phase-1 Offering, from financial model)
+### 4.2 LP Return Profile (Phase-1 Offering, from financial models)
 
-| Metric | 5-Year (Interim) | 10-Year |
-|--------|-----------------:|--------:|
-| **LP IRR** | 25.7% | **32.1%** |
-| **LP Equity Multiple** | 1.79x | **2.88x** |
-| Total LP Distributions | $9,217,829 | $14,834,476 |
-| LP Net Profit | $4,063,797 | $9,680,444 |
-| **$100,000 investor — total distributions** | $178,847 (net profit $78,847) | **$287,823 (net profit $187,823)** |
+| Metric | Election A — 5-Yr | Election A — 10-Yr | Election B — 5-Yr | Election B — 10-Yr |
+|--------|-------------------:|--------------------:|--------------------:|--------------------:|
+| **LP IRR** | 20.07% | **26.02%** | 28.04% | **34.81%** |
+| **LP Equity Multiple** | 1.6515x | **2.449x** | 2.104x | **3.655x** |
+| Total LP Distributions | $12,781,189 | $18,955,089 | $7,866,963 | $13,664,480 |
+| LP Net Profit | $5,042,117 | $11,216,017 | $4,127,891 | $9,925,408 |
+| **$100,000 investor — total distributions** | — | **$244,924 (net profit $144,924)** | — | **$365,470 (net profit $265,470)** |
 
-*The 5-year figures are an interim snapshot — the loan is not repaid at Year 5 (debt outstanding $4,624,498). These returns are underwritten on Phase 1 alone; Phases 2–3 are upside and a sponsor backstop, not a requirement for the projected return.*
+*LP capital is fully returned by Year 3 under both Elections. These returns are underwritten on Phase 1 alone; Phases 2–3 are upside and a sponsor backstop, not a requirement for the projected return. See Document 33 (Key Figures Sheet).*
 
 ### 4.3 Capital Deployment
 
-Class A capital is deployed alongside the GP co-investment and the $7,700,000 Phase-1 facility against the Phase-1 construction program (Section 2.2). Any capital call schedule and default provisions are [TO CONFIRM] pending final documentation.
+Class A capital is deployed alongside the GP co-investment, the $7,700,000 Phase-1 construction facility, and (under Election B) $4,000,000 of secured notes against the Phase-1 construction program (Section 2.2). Any capital call schedule and default provisions are [TO CONFIRM] pending final documentation.
 
 ---
 
@@ -170,7 +191,7 @@ Class A capital is deployed alongside the GP co-investment and the $7,700,000 Ph
 
 | Component | Amount / Terms | Timing |
 |-----------|---------------|--------|
-| **Developer Fee** | 4% of Phase-1 capitalization = $534,161 | Paid from operating cash flow (first year cash allows); does NOT reduce LP basis |
+| **Developer Fee** | Election A: 4% of $15,939,072 = $637,563. Election B: $477,563 [TO CONFIRM — fee base excludes notes tranche in the source workbook] | Paid from operating cash flow (first year cash allows); does NOT reduce LP basis |
 | **Promote / Carried Interest** | Per waterfall (Section 6) | Per distribution event |
 | **Other fees (management, acquisition, construction management, asset management, property management, disposition, refinancing)** | None | The developer fee is the only sponsor fee charged |
 
@@ -178,19 +199,18 @@ Class A capital is deployed alongside the GP co-investment and the $7,700,000 Ph
 
 | Element | Detail |
 |---------|--------|
-| GP cash co-investment | $500,000 (8.84% of equity, pari passu with LP capital) |
-| Alignment | Meaningful GP capital at risk alongside LP investors |
+| GP cash co-investment | $500,000 (6.07% of equity under Election A / 11.80% under Election B, pari passu with LP capital) |
+| Alignment | Meaningful GP capital at risk alongside LP investors under both Elections |
 
 ### 5.3 GP Economics at Modeled Phase-1 Outcomes
 
-| Component | 10-Year Amount |
-|-----------|---------------:|
-| GP co-investment distributions | $1,439,114 |
-| GP promote | $6,351,390 |
-| **GP total** | **$7,790,504** |
-| Promote as % of total profits | 37.4% |
+| Component | Election A — 10-Yr | Election B — 10-Yr |
+|-----------|---------------:|---------------:|
+| GP co-investment distributions | $1,224,636 | $1,827,256 |
+| GP promote | $6,799,536 | $6,847,525 |
+| **GP total** | **$8,024,172** | **$8,674,781** |
 
-*LP share of total distributions: 65.6% (10-yr) / 74.6% (5-yr interim) — the LP majority is protected.*
+*LP share of total distributions: 70.26% (Election A, 10-yr) / 79.76% (5-yr interim); 61.17% (Election B, 10-yr) / 69.10% (5-yr interim) — the LP majority is protected under both Elections.*
 
 ---
 
@@ -231,17 +251,17 @@ Then, on remaining amounts (with GP catch-up):
 
 ## 7. Waterfall Modeling
 
-The detailed waterfall schedule — tier-by-tier dollar flows — is drawn from the Phase-1 equity waterfall model; the full schedule is available upon request.
+The detailed waterfall schedules — tier-by-tier dollar flows — are drawn from the Phase-1 equity waterfall models (one per Election); the full schedules are available upon request.
 
 Published Phase-1 LP return figures:
 
-| Metric | 5-Year (Interim) | 10-Year |
-|--------|-----------------:|--------:|
-| LP IRR | 25.7% | 32.1% |
-| LP Equity Multiple | 1.79x | 2.88x |
-| Total LP Distributions | $9,217,829 | $14,834,476 |
+| Metric | Election A — 5-Yr | Election A — 10-Yr | Election B — 5-Yr | Election B — 10-Yr |
+|--------|-------------------:|--------------------:|--------------------:|--------------------:|
+| LP IRR | 20.07% | 26.02% | 28.04% | 34.81% |
+| LP Equity Multiple | 1.6515x | 2.449x | 2.104x | 3.655x |
+| Total LP Distributions | $12,781,189 | $18,955,089 | $7,866,963 | $13,664,480 |
 
-*Both 5-year and 10-year hold views are presented in the model; the 5-year view is an interim snapshot (loan not repaid at Year 5; debt outstanding $4,624,498). These are Phase-1 economics — the offering. The Phase-1-only case is the base case, not a downside scenario.*
+*Both 5-year and 10-year hold views are presented in each model; LP capital is fully returned by Year 3 under both Elections. These are Phase-1 economics — the offering. The Phase-1-only case is the base case, not a downside scenario.*
 
 ---
 
@@ -251,9 +271,9 @@ Published Phase-1 LP return figures:
 
 | Component | Detail |
 |-----------|--------|
-| Developer fee | 4% of Phase-1 capitalization = $534,161, paid from operating cash flow (first year cash allows); does not reduce LP basis |
+| Developer fee | Election A: 4% of $15,939,072 = $637,563. Election B: $477,563. Paid from operating cash flow (first year cash allows); does not reduce LP basis |
 | Promote | 10% / 20% / 30% / 40% GP promote tiers at 12% / 15% / 18% LP IRR hurdles above the 10% LP preferred, with GP catch-up (Section 6) |
-| Modeled GP totals (10-yr) | Co-invest distributions $1,439,114 + promote $6,351,390 = $7,790,504 (promote = 37.4% of profits) |
+| Modeled GP totals (10-yr) | Election A: co-invest distributions $1,224,636 + promote $6,799,536 = $8,024,172. Election B: co-invest distributions $1,827,256 + promote $6,847,525 = $8,674,781 |
 | Other fees | None (management, acquisition, construction management, asset management, property management, disposition, and refinancing fees are not charged) |
 
 ---
@@ -262,7 +282,7 @@ Published Phase-1 LP return figures:
 
 ### 9.1 Phases 2–3 — Upside & Backstop (Context)
 
-The Phase-1 offering is fully capitalized at $13,354,032; the Phase-1 projected returns (32.1% IRR / 2.88x, 10-yr) do not depend on later phases. Construction phases beyond Phase 1 (2029–2031 hard costs of ~$229M in the full-project master plan — context) would be funded primarily through construction financing, lot and residential sale proceeds, and pre-sales rather than dilutive equity raises. For Phase-1 investors, Phases 2–3 represent (a) future upside revenue streams and (b) a backstop — additional sponsor revenue capacity to support the targeted LP return (target ≥32% IRR) if Phase-1 results underperform. Any follow-on equity issuance terms, pre-emptive rights, and anti-dilution mechanics are [TO CONFIRM] pending final documentation.
+The Phase-1 offering is fully capitalized at $15,939,072 under either Election; the Phase-1 projected returns (26.02% IRR / 2.449x Election A, or 34.81% IRR / 3.655x Election B, 10-yr) do not depend on later phases. Construction phases beyond Phase 1 would be funded primarily through construction financing, lot and residential sale proceeds, and pre-sales rather than dilutive equity raises. For Phase-1 investors, Phases 2–3 represent (a) future upside revenue streams and (b) a backstop — additional sponsor revenue capacity to support the targeted LP return if Phase-1 results underperform. Any follow-on equity issuance terms, pre-emptive rights, and anti-dilution mechanics are [TO CONFIRM] pending final documentation.
 
 ### 9.2 Dilution Protection Principles (subject to final documentation)
 
@@ -286,14 +306,14 @@ GP promote vesting, key-person provisions, and management team compensation sche
 
 | Exit Path | Timeline | Mechanism |
 |-----------|----------|-----------|
-| **Phase-1 10-Year Hold (Base Case — the offering)** | Through 2036 | Modeled at 32.1% LP IRR / 2.88x; total LP distributions $14,834,476 |
-| **5-Year Interim View** | Through 2031 | Modeled at 25.7% LP IRR / 1.79x — interim snapshot; loan not repaid (debt outstanding $4,624,498) |
+| **Phase-1 10-Year Hold (Base Case — the offering)** | Through 2036 | Election A: 26.02% LP IRR / 2.449x; total LP distributions $18,955,089. Election B: 34.81% LP IRR / 3.655x; total LP distributions $13,664,480 |
+| **5-Year Interim View** | Through 2031 | Election A: 20.07% LP IRR / 1.6515x. Election B: 28.04% LP IRR / 2.104x — interim snapshots |
 | **Phases 2–3 Proceed (Upside — context)** | Beyond Phase 1 | Later-phase development adds revenue streams beyond the Phase-1 projections; also serves as a sponsor backstop for the targeted LP return |
 | **Portfolio Sale / Recapitalization** | Opportunistic | Sale or refinancing of stabilized rental/commercial assets [TO CONFIRM valuation basis] |
 
 ### 11.2 Exit Valuation
 
-Exit valuation analyses are presented in Document 21 (Valuation Report). The offering is evaluated on the Phase-1 model (10-year Phase-1 revenue $59,632,442; Phase-1 EBITDA $21,540,503); full-project development value appears there as labeled context. Specific exit enterprise-value scenarios are [TO CONFIRM] pending the valuation refresh.
+Exit valuation analyses are presented in Document 21 (Valuation Report). The offering is evaluated on the Phase-1 models (10-year Phase-1 revenue $63,557,464; Phase-1 EBITDA $23,413,145, identical under both Elections); full-project development value appears there as labeled context. Specific exit enterprise-value scenarios are [TO CONFIRM] pending the valuation refresh.
 
 ---
 
@@ -316,6 +336,7 @@ Exit valuation analyses are presented in Document 21 (Valuation Report). The off
 | **20% Distribution Reserve** | Withheld annually from positive cash flows as a safety buffer; released Year 10 |
 | **GP Co-Investment** | $500,000 GP co-invest, pari passu with LP capital |
 | **Phase-1 Underwriting** | The offering is underwritten on Phase 1 alone; Phases 2–3 are upside and a sponsor backstop |
+| **Election Choice** | Investors choose Election A (no note exposure) or Election B (secured notes, subordinate to construction debt, plainly disclosed in Documents 30-32) |
 | **Other protections (clawback, self-dealing, leverage caps)** | [TO CONFIRM] — to be set out in the Operating Agreement |
 | **Insurance** | All policies to be bound at closing (post-close) |
 
