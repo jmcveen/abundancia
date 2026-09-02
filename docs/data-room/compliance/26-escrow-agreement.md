@@ -120,9 +120,9 @@ The purpose of this escrow arrangement is to:
 | Manager | New Earth Development LLC |
 | Manager CEO | Kelly Krezek |
 | Securities Offered | Class A Membership Interest Units |
-| Maximum Units | Approximately 103 |
+| Maximum Units | Approximately 155 (Election A) or 75 (Election B) |
 | Price Per Unit | $50,000 |
-| Maximum Offering Amount | Approximately $5,154,032 Class A/LP equity; total Phase-1 capitalization $13,354,032 |
+| Maximum Offering Amount | Approximately $7,739,072 (Election A) or $3,739,072 (Election B) Class A/LP equity; total Phase-1 capitalization $15,939,072, identical under both Elections |
 | Minimum Investment | $50,000 (one Unit) |
 | Regulation | Regulation D, Rule 506(c) |
 | Investor Qualification | Verified Accredited Investors Only |

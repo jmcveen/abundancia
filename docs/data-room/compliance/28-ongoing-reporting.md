@@ -806,7 +806,7 @@ During active construction, the Company shall distribute a monthly construction 
 | Soft Costs | $[________] | Legal, accounting, insurance, marketing |
 | Contingency | $[________] | Contingency reserve (10% per the financial model) |
 | Working Capital Reserve | $[________] | Pre-opening and initial operating reserve |
-| **Total Project Budget** | **$13,354,032 (Phase-1 capitalization)** | Full Project (all phases) context: total expenses $251,605,403 |
+| **Total Project Budget** | **$15,939,072 (Phase-1 capitalization, identical under both Elections)** | Full Project (all phases) context: total expenses $242,712,457 |
 
 ### 11.4 Variance Reporting Thresholds
 

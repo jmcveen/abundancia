@@ -61,9 +61,9 @@ This Blue Sky Memorandum has been prepared for Abundancia Community LLC (the "Co
 | Manager | New Earth Development LLC |
 | Manager CEO | Kelly Krezek |
 | Securities Offered | Class A Membership Interest Units |
-| Maximum Units | Approximately 103 |
+| Maximum Units | Approximately 155 (Election A) or 75 (Election B) |
 | Price Per Unit | $50,000 |
-| Maximum Offering Amount | Approximately $5,154,032 Class A/LP equity (Phase 1); total Phase-1 capitalization $13,354,032 |
+| Maximum Offering Amount | Approximately $7,739,072 (Election A) or $3,739,072 (Election B) Class A/LP equity (Phase 1); total Phase-1 capitalization $15,939,072, identical under both Elections |
 | Exemption | Regulation D, Rule 506(c) (subject to final structuring and securities counsel review) |
 | Investor Requirement | Verified Accredited Investors Only |
 | General Solicitation | Permitted (subject to verification requirements) |
@@ -79,7 +79,7 @@ This Blue Sky Memorandum has been prepared for Abundancia Community LLC (the "Co
 
 4. **Form D Filing.** A Form D must be filed with the SEC no later than 15 calendar days after the first sale of securities. Amendments must be filed for material changes and annually if the offering is continuing.
 
-5. **Estimated Compliance Budget.** Total first-year blue sky compliance costs are estimated at $20,950 to $24,450 for all-states filing, with annual ongoing costs of approximately $17,950 to $19,450 (based on the approximately $5,154,032 Phase-1 offering amount).
+5. **Estimated Compliance Budget.** Total first-year blue sky compliance costs are estimated at $20,950 to $24,450 for all-states filing, with annual ongoing costs of approximately $17,950 to $19,450 (based on the approximately $7,739,072 Election A / $3,739,072 Election B Phase-1 offering amount).
 
 ---
 
@@ -961,7 +961,7 @@ Based on the analysis in this memorandum, we recommend the following:
 | **Total First-Year Compliance Budget** | **$20,950 - $24,450** |
 | **Annual Ongoing Budget** | **$17,950 - $19,450** |
 
-*Fee estimates are based on the approximately $5,154,032 offering amount (Phase 1), which falls in the applicable graduated fee brackets; graduated state fees must be re-confirmed against the final offering amount at the time of filing.*
+*Fee estimates are based on the approximately $7,739,072 (Election A) or $3,739,072 (Election B) offering amount (Phase 1), which fall in different graduated fee brackets per state; graduated state fees must be re-confirmed against the final offering amount and elected structure at the time of filing.*
 
 ---
 
