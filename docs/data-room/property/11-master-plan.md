@@ -9,9 +9,9 @@
 ---
 
 **Document 11** | Data Room - Property Documents
-**Date:** July 2026
+**Date:** September 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 2.0
+**Version:** 3.0
 **Prepared by:** Abundancia Community LLC
 
 ---
@@ -122,20 +122,21 @@ The 2011 Bastrop Complex Fire burned 34,000 acres and destroyed 1,673 homes in t
 
 ### 3.1 Unit Mix Summary
 
-**Total program: ~501 structures plus 100 estate lots, including 360 for-sale residences and 126 rental units.**
+**Total program: 511 structures plus 100 estate lots, including 360 for-sale residences and 136 rental units (revised 2026-09-02).**
 
 | Housing Type | Units | Size / Mix | Pricing Basis (Model) | Revenue Classification |
 |-------------|-------|------------|----------------------|------------------------|
-| Single-Family Homes | 100 | 10×1BR (1,000 SF); 20×2BR (1,500 SF); 20×3BR (2,000 SF); 20×4BR (2,500 SF); 20×5BR (3,500 SF); 5×6BR (4,500 SF); 5×7BR (5,000 SF) | From approximately $450/SF; blended realized ~$566/SF | Residential sales |
+| Single-Family Home (standard, 1-5BR) | 90 | 10×1BR (1,000 SF); 20×2BR (1,500 SF); 20×3BR (2,000 SF); 20×4BR (2,500 SF); 20×5BR (3,000 SF) | $450/SF | Residential sales |
+| Luxury Estate (5-7BR) | 10 | 5×5BR (3,500 SF); 3×6BR (4,500 SF); 2×7BR (5,500 SF) | $600/SF | Residential sales |
 | Condominiums | 200 for sale | 1BR (600 SF); 2BR (850 SF); 3BR (1,250 SF) | Blended ~$400/SF | Residential sales |
-| Tiny Homes | 60 | 16 studio (232 SF); 18×1BR (272 SF); 20×2BR (416 SF); 6 early-discount (416 SF) | Blended ~$416/SF (~$104K-$166K) | Residential sales |
-| Estate Lots | 100 | ~1/3-acre, half-acre, one-acre mix | Avg. lot revenue per model | Lot sales — $22,872,273 (2028-2029) |
-| Rental Units | 126 | 1×6BR event house (6,000 SF); 75 rental condos (25×1BR / 25×2BR / 25×3BR); 50 nature stays (20 glamping tents, 15 domes, 5 high-end domes, 10 camping) | Nature stays $150-375/night | Rental revenue |
-| **Total** | **~501 structures + 100 estate lots** | | | Residential sales $249,152,934 (10-yr model) |
+| Micro-Villas | 60 | 19,424 SF total | Blended ~$437/SF (avg $141,520/unit) | Residential sales |
+| Estate Lots | 100 (80 Phase 1, 20 Phase 2) | ~1/3-acre, half-acre, one-acre mix | Avg. lot revenue per model | Lot sales — $14,295,171 (10-yr, full project) |
+| Rental Units | 136 | 1×6BR event house (6,000 SF); 75 rental condos (25×1BR / 25×2BR / 25×3BR); 60 STR/nature-stay units | Nature stays $150-375/night | Rental revenue |
+| **Total** | **511 structures + 100 estate lots** | | | Residential sales $225,486,097 (10-yr model) |
 
-*Condominiums total 275 across the full project — 200 for sale plus 75 rental condos (shown under Rental Units).*
+*Condominiums total 275 across the full project — 200 for sale plus 75 rental condos (shown under Rental Units). Houses (standard + luxury): 100 total, verified exact match to the Unit Mix Summary — total cost $75,900,000, total sales $110,700,000.*
 
-*Note: Pricing is presented per housing type from the financial model — homes are positioned "from approximately $450/SF," with blended realized pricing varying by product. No single flat price applies across all homes.*
+*Note: Pricing is presented per housing type from the financial model — standard-tier homes at $450/SF, luxury-tier homes at $600/SF. No single flat price applies across all homes.*
 
 ### 3.2 Single-Family Home Standards
 
@@ -282,13 +283,13 @@ See Section 13 for detailed retreat center design. *Revenue classification note:
 
 | Metric | Total |
 |--------|-------|
-| Total structures | ~501 (plus 100 estate lots) |
-| For-sale residences | 360 (100 SFR + 200 condos + 60 tiny homes) |
-| Rental units | 126 (event house + 75 rental condos + 50 nature stays) |
+| Total structures | 511 (plus 100 estate lots) |
+| For-sale residences | 360 (90 standard SFR + 10 Luxury Estate + 200 condos + 60 micro-villas) |
+| Rental units | 136 (event house + 75 rental condos + 60 STR/nature-stay units) |
 | Condominiums (total) | 275 (200 for sale + 75 rental) |
 | Total commercial SF | 30,000 (12 spaces) + community amenities |
 | Total building floor area | ~581,974 SF GFA (~4% footprint of the 376 acres) plus roads and site development |
-| Total project expenses (10-yr model) | $251,605,403 (hard ~$201.65M · soft $8,812,308 · 10% contingency $22,873,218 · land/carry [TO CONFIRM]) |
+| Total project expenses (10-yr model) | $242,712,457 (excl. contingency $220,647,688 · 10% contingency $22,064,769; line-item hard/soft/land split for the revised model [TO CONFIRM]) |
 | Total revenue (10-yr model) | $323,376,486 |
 | Construction timeline | 2027-2031; stabilized operations 2032+ (~$7-8M/yr recurring) |
 
@@ -357,8 +358,8 @@ Abundancia's water strategy is a layered supply combined with demand reduction:
 
 | Metric | Value | Comparison |
 |--------|-------|------------|
-| Total structures | ~501 (plus 100 estate lots) | |
-| Overall density | ~1.3 structures/acre across 376 acres | Very low — conservation community |
+| Total structures | 511 (plus 100 estate lots) | |
+| Overall density | ~1.4 structures/acre across 376 acres | Very low — conservation community |
 | Building footprint | ~16.1 acres of structures (4.28% of site) | |
 | Preserved land | 184.5 acres (49.1%) | |
 
@@ -368,7 +369,7 @@ Abundancia's water strategy is a layered supply combined with demand reduction:
 
 | Development | Total Acres | Program | Type |
 |-------------|-------------|---------|------|
-| **Abundancia** | **376** | **~501 structures + estate lots; 49% preserved** | **Conservation community** |
+| **Abundancia** | **376** | **511 structures + estate lots; 49% preserved** | **Conservation community** |
 | Whisper Valley (Manor, TX) | 2,062 | ~7,500 planned zero-energy homes | Master-planned suburban |
 | Serenbe (GA) | 1,200 | 750+ residents; ~70% greenspace | Wellness agrihood |
 | The Sanctuary (sanctuary.co) | 104 | 116 lots (1.6-acre average); 15 home plans (520 SF casita to 10-BR flagship) | Off-grid wellness community (Texas Hill Country) |
