@@ -126,7 +126,7 @@ Abundancia's homes are positioned "from approximately $450/SF" — a premium of 
 
 **Likelihood:** Low to Moderate
 **Potential Impact:** Severe - Extended project timeline, reduced returns, potential need for additional capital.
-**Mitigation:** Measured leverage strategy (Phase-1 construction debt of $7,700,000 at 8.5%, within a $13,354,032 Phase-1 capitalization). Adequate cash reserves for carrying costs during a slowdown. The phased development plan allows selective pause of later phases without jeopardizing the Phase-1 investment; projected LP returns are based on Phase-1 operations alone. Land value provides baseline collateral.
+**Mitigation:** Measured leverage strategy (Phase-1 construction debt of $7,700,000 at 8.5%, within a $15,939,072 Phase-1 capitalization, identical under both offering Elections). Adequate cash reserves for carrying costs during a slowdown. The phased development plan allows selective pause of later phases without jeopardizing the Phase-1 investment; projected LP returns are based on Phase-1 operations alone. Land value provides baseline collateral.
 
 ---
 
@@ -268,7 +268,7 @@ Abundancia's homes are positioned "from approximately $450/SF" — a premium of 
 
 ### 5.1 Capital Availability
 
-**Description:** Phase 1 of the project requires a total capitalization of $13,354,032 — approximately $5,154,032 of Class A (LP) equity, $500,000 of GP co-investment, and $7,700,000 of construction debt. There is no guarantee that the full amount will be raised within the anticipated timeline. Insufficient capital could delay development, require unfavorable financing terms, or force modification of the development plan.
+**Description:** Phase 1 of the project requires a total capitalization of $15,939,072, identical under both offering Elections (Document 34) — Election A: $7,739,072 of Class A (LP) equity, $500,000 of GP co-investment, and $7,700,000 of construction debt; Election B: $3,739,072 of Class A (LP) equity, $4,000,000 of Secured Promissory Notes, $500,000 of GP co-investment, and $7,700,000 of construction debt. There is no guarantee that the full amount will be raised within the anticipated timeline. Insufficient capital could delay development, require unfavorable financing terms, or force modification of the development plan.
 
 **Likelihood:** Moderate
 **Potential Impact:** High - Delayed development, modified scope, reduced returns.
@@ -292,7 +292,7 @@ Abundancia's homes are positioned "from approximately $450/SF" — a premium of 
 
 **Likelihood:** Not applicable (inherent structural risk)
 **Potential Impact:** High - Total portfolio exposure to a single asset.
-**Mitigation:** The offering finances Phase 1, and projected LP returns are based on Phase-1 operations alone — Phases 2-3 are not required for the projected returns (subject to final documentation). Multiple Phase-1 revenue streams (tiny home sales, lot sales, rentals/hospitality, commercial and amenities). Investors are advised to treat this investment as one component of a diversified portfolio. Conservative underwriting and stress testing across multiple adverse scenarios.
+**Mitigation:** The offering finances Phase 1, and projected LP returns are based on Phase-1 operations alone — Phases 2-3 are not required for the projected returns (subject to final documentation). Multiple Phase-1 revenue streams (micro-villa sales, lot sales, rentals/hospitality, commercial and amenities). Investors are advised to treat this investment as one component of a diversified portfolio. Conservative underwriting and stress testing across multiple adverse scenarios.
 
 ---
 
@@ -302,11 +302,21 @@ Abundancia's homes are positioned "from approximately $450/SF" — a premium of 
 
 **Likelihood:** Low to Moderate
 **Potential Impact:** Severe - Foreclosure, loss of investor capital.
-**Mitigation:** Measured leverage: the Phase-1 plan includes $7,700,000 of construction debt at 8.5% (10-year fully amortizing; annual debt service approximately $1,173,539) within a $13,354,032 Phase-1 capitalization. Leverage limits per the Operating Agreement [TO CONFIRM]. Debt service coverage requirements maintained at all times. Recourse provisions per final loan documents [TO CONFIRM]. MUD bond debt is not project-level leverage (it is district-level tax-supported debt borne by future property owners, not investors).
+**Mitigation:** Measured leverage: the Phase-1 plan includes $7,700,000 of construction debt at 8.5% (10-year fully amortizing; annual debt service approximately $1,173,539) within a $15,939,072 Phase-1 capitalization. Leverage limits per the Operating Agreement [TO CONFIRM]. Debt service coverage requirements maintained at all times. Recourse provisions per final loan documents [TO CONFIRM]. MUD bond debt is not project-level leverage (it is district-level tax-supported debt borne by future property owners, not investors).
 
 ---
 
-### 5.5 Valuation Risk
+### 5.5 Note Subordination Risk (Election B Only)
+
+**Description:** Investors electing Election B (Document 34) receive Secured Promissory Notes (Document 30) rather than LP equity for the $4,000,000 land tranche. The Notes' lien on the Property is explicitly **subordinate to the Construction Lender's first-priority lien** — the Notes do not get first position and would be repaid only after the construction lender in a default, foreclosure, or liquidation scenario. This is a deliberate structural term, disclosed plainly here and in Documents 30-32. The Notes are also subject to balloon/refinance risk at their Year-2 target maturity, which may extend to Year 4 with the balance growing to approximately $5.6M and Years 2-3 LP distributions suspended to fund the extension. Note Holders receive fixed 10% interest only and do not participate in project upside.
+
+**Likelihood:** Moderate (subordination is a structural certainty; the risk is realized only in a default/liquidation scenario or if extension is required)
+**Potential Impact:** High for Note Holders in a default scenario (subordinate recovery); Moderate for all Election B LP equity holders if the Year-2 balloon extends (distribution suspension in Years 2-3).
+**Mitigation:** Full, unsoftened disclosure in Documents 30-32 and this document. Election A (all-equity, no notes, full upside participation) is available as an alternative for investors who prefer not to take this risk. Notes are targeted for repayment from Year-2 micro-villa and lot sale proceeds, which are contractually the first use of that revenue.
+
+---
+
+### 5.6 Valuation Risk
 
 **Description:** The value of the project and its constituent assets is based on appraisals, comparable sales, and management estimates. These valuations are inherently subjective and may not reflect actual realizable values. Overvaluation could lead to inflated return projections and insufficient reserves.
 
@@ -316,7 +326,7 @@ Abundancia's homes are positioned "from approximately $450/SF" — a premium of 
 
 ---
 
-### 5.6 Tax Law Changes
+### 5.7 Tax Law Changes
 
 **Description:** Changes to federal or state tax laws could adversely affect the tax treatment of the investment, including changes to pass-through taxation, capital gains rates, depreciation schedules, 1031 exchange eligibility, or state franchise tax obligations.
 
@@ -512,6 +522,7 @@ The following matrix summarizes all risk factors by category, likelihood, and po
 | Liquidity | Moderate | High | Moderate |
 | Concentration | Inherent | High | Low (single-asset risk) |
 | Leverage | Low-Moderate | Severe | High |
+| Note subordination (Election B only) | Moderate | High (Note Holders) / Moderate (LPs) | Moderate (full disclosure; Election A avoids entirely) |
 | Valuation | Moderate | Moderate-High | Moderate |
 | Tax law changes | Moderate | Moderate | Moderate |
 

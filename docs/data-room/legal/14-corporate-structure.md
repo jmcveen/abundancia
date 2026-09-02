@@ -131,7 +131,7 @@ The Company utilizes a GP/LP-style structure implemented through two unit classe
 | **Units Held** | Class B Units (GP/Manager) |
 | **Role** | Manager of the Company (manager-managed LLC) |
 | **GP Capital** | $500,000 GP co-investment, invested pari passu with Class A (LP) capital (subject to final documentation) |
-| **Developer Fee** | 4% of Phase-1 capitalization ($534,161), paid from operating cash flow (subject to final documentation) — the only sponsor fee charged |
+| **Developer Fee** | Election A: 4% of $15,939,072 = $637,563. Election B: $477,563 (subject to final documentation) — the only sponsor fee charged. See Document 33 (Key Figures Sheet). |
 | **Management Fee** | None |
 | **Acquisition Fee** | None |
 | **Construction Management Fee** | None |
@@ -149,7 +149,7 @@ Class A investors are passive investors who contribute capital in exchange for C
 
 **Minimum Investment:** $50,000 (one Unit at $50,000; subject to confirmation in the final Offering Documents)
 
-**Phase 1 Capitalization Context:** This offering relates to **Phase 1** of the development program (the full multi-phase project remains the master-plan context). Total Phase-1 capitalization is **$13,354,032**, comprising approximately **$5,154,032 of Class A (LP) equity**, $500,000 of GP co-investment, and $7,700,000 of construction debt (8.5% rate, 10-year fully amortizing).
+**Phase 1 Capitalization Context:** This offering relates to **Phase 1** of the development program (the full multi-phase project remains the master-plan context). Total Phase-1 capitalization is **$15,939,072**, identical under both offering Elections (Document 34): Election A comprises $7,739,072 of Class A (LP) equity, $500,000 of GP co-investment, and $7,700,000 of construction debt; Election B comprises $3,739,072 of Class A (LP) equity, $4,000,000 of Secured Promissory Notes (Documents 30-31, subordinate to the construction debt), $500,000 of GP co-investment, and $7,700,000 of construction debt (8.5% rate, 10-year fully amortizing).
 
 **LP Economic Rights (subject to final documentation):**
 - 10% cumulative preferred return on contributed capital
