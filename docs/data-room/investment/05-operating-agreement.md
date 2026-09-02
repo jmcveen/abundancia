@@ -354,7 +354,7 @@ The Manager and its affiliates shall receive the following compensation in conne
 
 | Fee | Amount | Timing | Calculation Basis |
 |---|---|---|---|
-| **Developer Fee** | 4% ($534,161) | Paid from operating cash flow (first year cash flow allows) | Phase 1 total capitalization ($13,354,032) |
+| **Developer Fee** | Election A: $637,563 (4%). Election B: $477,563. | Paid from operating cash flow (first year cash flow allows) | Election A: full Phase 1 total capitalization ($15,939,072). Election B: $11,939,072 (excludes notes tranche) [TO CONFIRM]. |
 | **Carried Interest / Promote** | Per Article VIII waterfall | As distributions are made | Tiered promote on profits above the 10% cumulative preferred return and return of capital |
 | **Management Fee** | None (not charged) | N/A | Not charged — preserves projected LP economics |
 | **Acquisition Fee** | None (not charged) | N/A | Not charged — preserves projected LP economics |
