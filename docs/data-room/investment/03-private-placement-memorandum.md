@@ -239,14 +239,14 @@ Phase 1 hard construction costs are approximately $16.7 million across Years 1�
 |---|---|---|---|---|
 | Single-Family Home (1-5 BR, for sale) | 90 | $450K-$1.35M @ $450/SF; 1,000-3,000 SF | Included in residential sales subtotal | 2028-2031 |
 | Luxury Estate (5-7 BR, for sale) | 10 | $2.10M-$3.30M @ $600/SF; 3,500-5,500 SF | Included in residential sales subtotal | 2028-2031 |
-| Condominiums (for sale) | 200 | ~$400/SF (1BR 600 SF; 2BR 850 SF; 3BR 1,250 SF) | Included in residential sales subtotal | 2029-2031 |
+| Condominiums (for sale) | 200 | $450/SF (1BR 600 SF; 2BR 850 SF; 3BR 1,250 SF) | Included in residential sales subtotal | 2029-2031 |
 | Micro-Villas (for sale) | 60 | ~$437/SF (avg $141,520/unit) | Included in residential sales subtotal | 2028+ |
-| **Residential Sales Subtotal (360 for-sale residences)** | 360 | — | $225,486,097 | 2028-2031 |
+| **Residential Sales Subtotal (360 for-sale residences)** | 360 | — | $226,913,159 | 2028-2031 |
 | Estate Lots | 100 (full project; 80 Phase 1, 20 Phase 2) | ~$150K average lot revenue | $14,295,171 | 2028-2029 |
 | Rentals (event house, rental condos, STR/nature stays) | — | — | $53,231,500 (10-yr) | 2028+ |
 | Commercial (12 spaces / 30,000 SF) | 12 | — | $11,820,840 (10-yr) | 2028+ |
 
-**Total Full Project (All Phases) 10-Year Projected Revenue: $304,833,607** (projection — not guaranteed; master-plan context — not the basis of the Phase 1 investor economics offered hereby)
+**Total Full Project (All Phases) 10-Year Projected Revenue: $306,260,669** (projection — not guaranteed; master-plan context — not the basis of the Phase 1 investor economics offered hereby)
 
 ### 3.5 Competitive Position
 
@@ -342,7 +342,7 @@ Additionally, the following environmental assessments and permits will be obtain
 
 ### 4.7 Acquisition Terms
 
-The property is currently under a letter of intent, with a $65,000 earnest money deposit posted; definitive purchase terms remain subject to a final purchase agreement [TO CONFIRM]. Under the modeled scenario (terms TBD; scenario — subject to final terms), the Company intends to acquire the property for approximately $6,500,000 (approximately $17,287 per acre), with 20% down, approximately 5% closing costs, and an 8% land loan — approximately $2.17 million of Year-1 land cost, approximately $541,000 per year of land loan service, and approximately $7.04 million of total land cost over 10 years. Acquisition-related costs include:
+The property is currently under a letter of intent, with a $65,000 earnest money deposit posted; definitive purchase terms remain subject to a final purchase agreement [TO CONFIRM]. Under the modeled scenario (terms TBD; scenario — subject to final terms), the Company intends to acquire the property for approximately $6,500,000 (approximately $17,287 per acre), with 40% down, approximately 5% closing costs, and an 8% land loan — approximately $2.17 million of Year-1 land cost, approximately $541,000 per year of land loan service, and approximately $7.04 million of total land cost over 10 years. Acquisition-related costs include:
 
 - Purchase price
 - Closing costs and transfer fees
@@ -411,7 +411,7 @@ There can be no assurance that additional financing, if needed, will be availabl
 
 ### 5.3 Additional Financing Sources — Full Project (All Phases) Context
 
-*The following describes financing for the full multi-phase master plan. The Phase 1 offering is capitalized as described in Section 5.1; later-phase financing would fund Phases 2–3, which are presented as master-plan context and potential future upside and are not required for the projected Phase 1 investor returns.* Beyond the Phase 1 capitalization, the full master plan anticipates the following financing sources (Full Project total expenses over the 10-year period are projected at $242,712,457, including $220,647,688 excl. contingency and a 10% contingency of $22,064,769; line-item hard cost detail for the revised model is being finalized [TO CONFIRM]; Phase 1 hard construction costs are ~$6.65M in 2027 and ~$10.01M in 2028):
+*The following describes financing for the full multi-phase master plan. The Phase 1 offering is capitalized as described in Section 5.1; later-phase financing would fund Phases 2–3, which are presented as master-plan context and potential future upside and are not required for the projected Phase 1 investor returns.* Beyond the Phase 1 capitalization, the full master plan anticipates the following financing sources (Full Project total expenses over the 10-year period are projected at $242,509,325, including $220,463,023 excl. contingency and a 10% contingency of $22,046,302; line-item hard cost detail for the revised model is being finalized [TO CONFIRM]; Phase 1 hard construction costs are ~$6.65M in 2027 and ~$10.01M in 2028):
 
 | Source | Estimated Amount | Timing | Terms |
 |---|---|---|---|

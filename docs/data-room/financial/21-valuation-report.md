@@ -57,8 +57,8 @@ This report presents a valuation analysis of Abundancia, a 376-acre regenerative
 | **Access** | 15–20 min to Austin-Bergstrom Intl Airport; 30–40 min to downtown Austin; 10–15 min to the city of Bastrop |
 | **Zoning** | No county-level zoning (mixed use by right; Bastrop County) |
 | **Development Program (full project — context)** | 511 structures plus an estate lot program: 360 for-sale residences (90 standard SFR + 10 Luxury Estate / 200 condos / 60 micro-villas), 136 rental units, 12 commercial spaces (30,000 SF) |
-| **Projected 10-Year Revenue (full project, all phases — context)** | $304,833,607 (Year 1 = 2027) |
-| **Projected 10-Year EBITDA (full project, all phases — context)** | $62,121,150 (~22% margin) |
+| **Projected 10-Year Revenue (full project, all phases — context)** | $306,260,669 (Year 1 = 2027) |
+| **Projected 10-Year EBITDA (full project, all phases — context)** | $63,751,344 (~22% margin) |
 | **Phase-1 Projected 10-Year Revenue / EBITDA (the offering)** | $63,557,464 / $23,413,145 |
 | **Phase-1 Total Capitalization (the offering)** | $15,939,072 (identical under both Elections) |
 | **Entity Structure** | Abundancia Community LLC — Delaware LLC, manager-managed; Class A (LP) / Class B (GP-Manager) |
@@ -102,9 +102,9 @@ Five valuation methodologies are applied to triangulate a defensible value range
 | **Projection Period** | 10 years (2027–2036) | Per financial model |
 | **Discount Rate (WACC)** | [TO CONFIRM] | Not specified in the July 2026 model pack; to be set with valuation refresh |
 | **Terminal Cap Rate** | [TO CONFIRM] | Applied to stabilized recurring income (~$7–8M/yr revenue from 2032) |
-| **Revenue Base** | $304,833,607 (10-yr) | Residential $225.5M / Rentals $53.2M / Lots $14.3M / Commercial $11.8M |
-| **Expense Base** | $242,712,457 (10-yr) | Excl. contingency $220,647,688; 10% contingency $22,064,769 (line-item hard/soft/land split pending re-verification [TO CONFIRM]) |
-| **EBITDA Base** | $62,121,150 (~22%) | Per model |
+| **Revenue Base** | $306,260,669 (10-yr) | Residential $225.5M / Rentals $53.2M / Lots $14.3M / Commercial $11.8M |
+| **Expense Base** | $242,509,325 (10-yr) | Excl. contingency $220,463,023; 10% contingency $22,046,302 (line-item hard/soft/land split pending re-verification [TO CONFIRM]) |
+| **EBITDA Base** | $63,751,344 (~22%) | Per model |
 | **Absorption** | Per model timeline | First revenue 2028; deliveries 2028–2031; construction complete 2031 |
 
 ### 3.2 Projected Cash Flow Summary (Base Case)
@@ -118,7 +118,7 @@ Year-by-year DCF cash flows are anchored to the model timeline:
 | 2029 | Homes, condos, rental condos, school | Cumulative break-even achieved |
 | 2030–2031 | Peak deliveries; construction complete 2031 | Peak hard-cost years (2029–2031 per-year split [TO CONFIRM]) against peak closings |
 | 2032–2036 | Stabilized operations | ~$7–8M/yr recurring revenue |
-| **10-Year Totals** | | **Revenue $304,833,607; EBITDA $62,121,150** |
+| **10-Year Totals** | | **Revenue $306,260,669; EBITDA $63,751,344** |
 
 *Annual free-cash-flow line items are maintained in the financial model [TO CONFIRM for publication].*
 
@@ -147,7 +147,7 @@ The comparable transaction method benchmarks Abundancia's land position against 
 
 ### 4.3 Land Basis Context
 
-The project's modeled land acquisition is **$6.5M for 376 acres (~$17.3K/acre)** — 20% down, ~5% closing, 8% land loan; $2.17M Year-1 outlay; $7,040,217 total 10-year land cost (scenario — subject to final terms). This basis sits far below recent per-acre pricing observed for entitled or corridor-adjacent land in the Austin/Bastrop market, representing a substantial embedded margin of safety if the acquisition closes on modeled terms. [TO CONFIRM final acquisition terms.]
+The project's modeled land acquisition is **$6.5M for 376 acres (~$17.3K/acre)** — 40% down, ~5% closing, 8% land loan; $2.17M Year-1 outlay; $7,040,217 total 10-year land cost (scenario — subject to final terms). This basis sits far below recent per-acre pricing observed for entitled or corridor-adjacent land in the Austin/Bastrop market, representing a substantial embedded margin of safety if the acquisition closes on modeled terms. [TO CONFIRM final acquisition terms.]
 
 ### 4.4 Comparable Transaction Conclusion
 
@@ -165,9 +165,9 @@ The replacement cost method calculates the total cost to replicate the Abundanci
 
 | Category | Amount | Notes |
 |----------|--------|-------|
-| **Total Expenses (excl. contingency)** | $220,647,688 | Line-item hard cost / soft cost / land split for the September 2026 revised model is being finalized [TO CONFIRM] |
-| **Contingency (10%)** | $22,064,769 | |
-| **Total 10-Year Expenses** | **$242,712,457** | |
+| **Total Expenses (excl. contingency)** | $220,463,023 | Line-item hard cost / soft cost / land split for the September 2026 revised model is being finalized [TO CONFIRM] |
+| **Contingency (10%)** | $22,046,302 | |
+| **Total 10-Year Expenses** | **$242,509,325** | |
 
 ### 5.3 Construction Hard Costs by Year
 
@@ -181,7 +181,7 @@ The replacement cost method calculates the total cost to replicate the Abundanci
 
 ### 5.4 Replacement Cost Observations
 
-- The build comprises ~581,974 SF of building GFA across 511 structures on a ~14–16-acre building footprint (~4% of the 376 acres)
+- The build comprises ~569,620 SF of building GFA across 511 structures on a ~14–16-acre building footprint (~4% of the 376 acres)
 - A new entrant replicating the project would face the full ~$251.6M cost stack **plus** current-market land pricing well above the modeled $6.5M basis, **plus** the 2026 predevelopment work already underway (watershed/hydrology, entitlements, MUD engineering)
 - A developer's-profit margin applied to replacement cost, and any stage-of-completion adjustment for the current-stage value, are **[TO CONFIRM]** with the valuation refresh
 
@@ -222,19 +222,19 @@ The development profit method works from projected total revenue, subtracting al
 
 | Revenue Stream | 10-Year Revenue |
 |---------------|-----------------|
-| Residential Sales (360 units: 90 SFR standard @ $450/SF, 10 Luxury Estate @ $600/SF; 200 condos ~$400/SF; 60 micro-villas ~$437/SF) | $225,486,097 |
+| Residential Sales (360 units: 90 SFR standard @ $450/SF, 10 Luxury Estate @ $600/SF; 200 condos @ $450/SF; 60 micro-villas ~$437/SF) | $226,913,159 |
 | Rentals (136 units) | $53,231,500 |
 | Estate Lots (100 total, 80 Phase 1 / 20 Phase 2; ~$150K avg; sold 2028–2029) | $14,295,171 |
 | Commercial (12 spaces / 30,000 SF) | $11,820,840 |
-| **Gross Development Value** | **$304,833,607** |
+| **Gross Development Value** | **$306,260,669** |
 
 ### 7.3 Total Development Costs (per September 2026 model)
 
 | Cost Category | Amount |
 |--------------|--------|
-| Total Expenses (excl. contingency) | $220,647,688 |
-| Contingency (10%) | $22,064,769 |
-| **Total 10-Year Expenses** | **$242,712,457** |
+| Total Expenses (excl. contingency) | $220,463,023 |
+| Contingency (10%) | $22,046,302 |
+| **Total 10-Year Expenses** | **$242,509,325** |
 
 *Line-item hard cost / soft cost / land split for the September 2026 revised model is being finalized [TO CONFIRM].*
 
@@ -242,9 +242,9 @@ The development profit method works from projected total revenue, subtracting al
 
 | Component | Amount |
 |-----------|--------|
-| **Gross Development Value** | $304,833,607 |
-| **Less: Total Expenses** | ($242,712,457) |
-| **Development Profit (EBITDA)** | **$62,121,150** |
+| **Gross Development Value** | $306,260,669 |
+| **Less: Total Expenses** | ($242,509,325) |
+| **Development Profit (EBITDA)** | **$63,751,344** |
 
 The required-developer-return hurdle and resulting time-adjusted residual entity value are **[TO CONFIRM]** with the valuation refresh. At the model's figures, the full project (all phases — context) generates $62.1M of profit on a ~$242.7M cost base. The investor's economics are those of the Phase-1 offering: LP returns of 26.02% IRR / 2.449x (Election A, 10-yr) or 34.81% IRR / 3.655x (Election B, 10-yr) per the Phase-1 models and equity waterfalls (Documents 06 and 09).
 
@@ -258,9 +258,9 @@ The required-developer-return hurdle and resulting time-adjusted residual entity
 |-----------------|----------------|--------|
 | **DCF Analysis** | [TO CONFIRM] | 35% |
 | **Comparable Transactions** | [TO CONFIRM] | 20% |
-| **Replacement Cost** | Cost basis ~$242,712,457 at full buildout; current-stage value [TO CONFIRM] | 15% |
+| **Replacement Cost** | Cost basis ~$242,509,325 at full buildout; current-stage value [TO CONFIRM] | 15% |
 | **Income Capitalization** | [TO CONFIRM] | 15% |
-| **Development Profit** | $62,121,150 profit over the 10-year program; residual value [TO CONFIRM] | 15% |
+| **Development Profit** | $63,751,344 profit over the 10-year program; residual value [TO CONFIRM] | 15% |
 | **Weighted Conclusion** | **[TO CONFIRM]** | 100% |
 
 ### 8.2 Reconciliation Discussion
@@ -310,9 +310,9 @@ Pre-money component values (land position, entitlement progress, development rig
 |--------|-------|
 | Total structures | 511 (plus an estate lot program) |
 | For-sale residences | 360 |
-| Residential sales revenue (360 residences) | $225,486,097 — pricing presented per type in Doc 07 (SFR standard $450/SF; Luxury Estate $600/SF; condos ~$400/SF; micro-villas ~$437/SF); never a flat all-homes price |
+| Residential sales revenue (360 residences) | $226,913,159 — pricing presented per type in Doc 07 (SFR standard $450/SF; Luxury Estate $600/SF; condos $450/SF; micro-villas ~$437/SF); never a flat all-homes price |
 | Estate lot revenue | $14,295,171 across 100 lots (80 Phase 1, 20 Phase 2; avg ~$150K/lot) |
-| Building GFA | ~581,974 SF |
+| Building GFA | ~569,620 SF |
 | Phase-1 capitalization per acre (the offering) | ~$42.4K/acre ($15,939,072 / 376 acres) |
 
 ### 10.2 Comparison to Market
@@ -324,7 +324,7 @@ Comparisons are limited to the approved comparable set — **The Sanctuary; Whis
 | Metric | Value |
 |--------|-------|
 | Phase-1 capitalization (the offering) | $15,939,072 — against a ~$242.7M total financed program at full build-out (all phases, context) |
-| Entry basis | LP equity of $7,739,072 (Election A) or $3,739,072 (Election B) is ~12.2% or ~5.9% of Phase-1 projected 10-year revenue ($63,557,464) and ~2.5% or ~1.2% of full-project (all-phases, context) projected revenue ($304,833,607) |
+| Entry basis | LP equity of $7,739,072 (Election A) or $3,739,072 (Election B) is ~12.2% or ~5.9% of Phase-1 projected 10-year revenue ($63,557,464) and ~2.5% or ~1.2% of full-project (all-phases, context) projected revenue ($306,260,669) |
 | Embedded land margin | Modeled $6.5M acquisition (376 acres) vs. corridor land pricing [TO CONFIRM] |
 | Wellness premium support | Wellness real estate $548B (2024) → $1.1T (2029), 10–25% price premiums (GWI) |
 
@@ -367,10 +367,10 @@ Enterprise-value sensitivities to pricing, absorption, construction costs, and d
 1. **Market Continuity:** Austin metro (2.55M population, 25th-largest US) continues projected growth of +1.7%/yr through 2060; Bastrop County continues at ~+2.5%/yr toward ~200K by 2060.
 2. **Regulatory Stability:** Bastrop County maintains its current no-zoning environment (mixed use by right); permitting completes within the estimated 12–16 months; TCEQ OSSF, FEMA floodplain, and Houston toad / Lost Pines HCP matters resolve via the conservation subdivision pathway.
 3. **Water:** The layered water strategy (Aqua WSC service, 7+ ponds, 6 wells + 13 storage tanks, rainwater capture ~9–11M gal/yr at build-out, 11 atmospheric water generators) is verified by the Symbiosis TX watershed analysis, commissioned immediately upon entering due diligence — hydrology and water feasibility are the first predevelopment spend.
-4. **Land Closing:** The acquisition closes on terms consistent with the modeled scenario ($6.5M price, 20% down, ~5% closing, 8% land loan) — subject to final terms.
+4. **Land Closing:** The acquisition closes on terms consistent with the modeled scenario ($6.5M price, 40% down, ~5% closing, 8% land loan) — subject to final terms.
 5. **Absorption:** Deliveries and sales proceed per the model timeline (first revenue 2028; 2029–2031 peak deliveries; construction complete 2031).
 6. **Capital Availability:** The Phase-1 facility ($7,700,000 @ 8.5%, 10-yr fully amortizing) and any subsequent-phase financing (full-project context facility: $8,709,278 @ 8.5%) are available at market rates.
-7. **Cost Base:** Total expenses remain consistent with the model's ~$242.7M expense stack, with the 10% contingency ($22,064,769) available for variances.
+7. **Cost Base:** Total expenses remain consistent with the model's ~$242.7M expense stack, with the 10% contingency ($22,046,302) available for variances.
 
 ### 12.2 Limiting Conditions
 

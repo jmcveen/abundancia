@@ -169,7 +169,7 @@
 
 | Development | Acres | Program | Conservation | Pricing | Positioning |
 |-------------|-------|-------|---------------|-------------|------------|
-| **Abundancia** | **376** | **511 structures + 100 estate lots (360 for-sale residences, 136 rentals, 30,000 SF commercial)** | **184.5 ac preserved (49%); ~62.5% incl. regenerative agriculture** | **Standard SFR $450/SF; Luxury Estate $600/SF; condos ~$400/SF; micro-villas ~$437/SF** | **Regenerative conservation community** |
+| **Abundancia** | **376** | **511 structures + 100 estate lots (360 for-sale residences, 136 rentals, 30,000 SF commercial)** | **184.5 ac preserved (49%); ~62.5% incl. regenerative agriculture** | **Standard SFR $450/SF; Luxury Estate $600/SF; condos $450/SF; micro-villas ~$437/SF** | **Regenerative conservation community** |
 | The Sanctuary | 104 | 116 lots (1.6-acre avg); 15 home plans (520 SF casita to 10-BR flagship) | [TO CONFIRM] | Being compiled | Off-grid wellness community (Hill Country) |
 | Whisper Valley | 2,062 (est.) | ~7,500 planned zero-energy homes | 15-20% (est.) | $300K-750K | Eco master-planned suburban |
 | Serenbe | 1,200 | 750+ residents | ~70% (est.) | From ~$375K | Wellness agrihood |
@@ -216,7 +216,7 @@
 |-----------|--------|-------|-------|
 | Austin median | Austin | $452,000 median (all product) | Unlock MLS, 7/2026 |
 | Bastrop County median | Bastrop County | $187/SF | Redfin, 5/2026 |
-| **Abundancia Condos (model)** | **Cedar Creek** | **200 for-sale units (1BR 600 SF / 2BR 850 SF / 3BR 1,250 SF) — blended ~$400/SF; 275 condos total incl. 75 rental** | **Conservation community** |
+| **Abundancia Condos (model)** | **Cedar Creek** | **200 for-sale units (1BR 600 SF / 2BR 850 SF / 3BR 1,250 SF) — blended $450/SF; 275 condos total incl. 75 rental** | **Conservation community** |
 
 ### 4.4 Estate Lots
 
@@ -265,7 +265,7 @@
 
 | Scenario | Description | Impact |
 |----------|-----------|------------------|
-| **Base Case** | Deliveries per 2027-2031 schedule | Total revenue $304,833,607 (10-yr model, full project — context) |
+| **Base Case** | Deliveries per 2027-2031 schedule | Total revenue $306,260,669 (10-yr model, full project — context) |
 | **Slower absorption** | Deliveries extend beyond 2031 | Delayed cash flow, increased carry; phasing flexibility mitigates |
 | **Phase-1-only downside** | Project never proceeds past Phase 1 | Model still returns positive LP returns (risk mitigation scenario) |
 
@@ -333,7 +333,7 @@
 | US glamping market | $738M (2024) → $1.5B (2030), 12.8% CAGR |
 | Wellness tourism | $894B → $1.38T (GWI) |
 | Corporate retreats market | $31.8B → $73.7B (2034) |
-| **Abundancia nature stays (model)** | **50 units: 20 glamping tents at $150/night; 15 domes at $275/night; 5 high-end domes at $375/night; 10 camping sites** |
+| **Abundancia nature stays (model)** | **60 units: 20 glamping tents at $150/night; 15 domes at $275/night; 10 Regen Villas at $150–$375/night; 5 high-end domes at $375/night; 10 camping sites** |
 
 **STR Opportunity:** Unique properties (domes, glamping, wellness retreats) outperform conventional listings, and Bastrop County's regulatory environment provides favorable operating conditions. Abundancia's nature stays and retreat setting are positioned for the experience-driven STR and wellness tourism market.
 
@@ -362,7 +362,7 @@
 | SH 21 corridor | Bastrop south | 150 acres | $4.9M | $32,700 | 2025 Q4 | Closer to town |
 | **Abundancia (modeled scenario)** | **176 Cedar Creek Circle** | **376 acres** | **$6.5M** | **~$17,300** | **Scenario — subject to final terms** | **7 ponds, 2 dry creek beds, existing barn, SH 71 corridor** |
 
-*Abundancia land acquisition is a modeled scenario ($6.5M price, 20% down, ~5% closing, 8% land loan → ~$2.17M Year-1 outlay, ~$541K/yr service, $7,040,217 total 10-yr cost including financing) — subject to final terms.*
+*Abundancia land acquisition is a modeled scenario ($6.5M price, 40% down, ~5% closing, 8% land loan → ~$2.17M Year-1 outlay, ~$541K/yr service, $7,040,217 total 10-yr cost including financing) — subject to final terms.*
 
 ### 8.2 Land Value Appreciation
 
@@ -461,7 +461,7 @@
 
 | Scenario | Description | Base Reference |
 |----------|------------------|-----------|
-| Base case | Total revenue $304,833,607 (10-yr, full project — context); first revenue 2028; EBITDA $62,121,150 | Financial model |
+| Base case | Total revenue $306,260,669 (10-yr, full project — context); first revenue 2028; EBITDA $63,751,344 | Financial model |
 | Moderate recession | Delayed absorption; extended sell-through | Phasing flexibility |
 | Severe recession | Materially delayed absorption | Phase-1-only downside scenario still returns positive LP returns |
 | Rate shock | Reduced buyer purchasing power | Diverse price points; rental income |

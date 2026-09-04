@@ -49,9 +49,9 @@ Abundancia is a regenerative community development on **376 acres at 176 Cedar C
 
 | Category | Budget | Notes |
 |----------|-------:|-------|
-| Total Expenses (excl. contingency) | $220,647,688 | Line-item hard cost / soft cost / land split for the September 2026 revised model is being finalized [TO CONFIRM] |
-| Contingency (10%) | $22,064,769 | Held separately within total model expenses (see Section 9) |
-| **Total 10-Year Expenses** | **$242,712,457** | |
+| Total Expenses (excl. contingency) | $220,463,023 | Line-item hard cost / soft cost / land split for the September 2026 revised model is being finalized [TO CONFIRM] |
+| Contingency (10%) | $22,046,302 | Held separately within total model expenses (see Section 9) |
+| **Total 10-Year Expenses** | **$242,509,325** | |
 
 *Prior line-item hard-cost/soft-cost/land splits (structures ~$194.6M, site work ~$7.07M, soft costs $8.81M, land $7.04M) predate the September 2026 house-mix revision and are being re-verified against the updated total above [TO CONFIRM]; do not sum the prior line items to the new total.*
 
@@ -61,7 +61,7 @@ Abundancia is a regenerative community development on **376 acres at 176 Cedar C
 |--------|------:|
 | Total Acreage | 376 acres |
 | Total Structures | 511 (plus an estate lot program) |
-| Building GFA | ~581,974 SF |
+| Building GFA | ~569,620 SF |
 | Building Footprint | ~14–16 acres of structures (~4% of site) |
 | Construction Cost per SF | $300 standard tier / $450 luxury tier |
 | Phase-1 Total Capitalization (the offering) | $15,939,072, identical under both Elections — Election A: $7,739,072 LP equity + $500,000 GP co-invest + $7,700,000 debt @ 8.5%; Election B: $3,739,072 LP equity + $4,000,000 secured notes + $500,000 GP co-invest + $7,700,000 debt @ 8.5%, $1,173,539/yr service |
@@ -141,9 +141,9 @@ The hempcrete building market is growing at approximately 15%/yr CAGR (GMI). Reg
 | 1 | **Residential Program** | 90 standard SFR (1-5BR) + 10 Luxury Estate (5-7BR), 200 for-sale condos, 60 micro-villas | Cost detail: houses $75,900,000 (verified exact match to Unit Mix Summary); condos and micro-villas [TO CONFIRM line-item] |
 | 2 | **Rentals & Commercial Program** | Event house, 75 rental condos, 60 STR/nature-stay units; 12 commercial spaces (30,000 SF) | [TO CONFIRM line-item] |
 | 3 | **Site Work** | Clearing, grading, roads, utility corridors, stormwater | [TO CONFIRM line-item] |
-| | | **Subtotal — Total Expenses (excl. contingency)** | **$220,647,688** |
-| 4 | **Contingency (10%)** | Held separately within total model expenses | $22,064,769 |
-| | | **TOTAL 10-YEAR EXPENSES** | **$242,712,457** |
+| | | **Subtotal — Total Expenses (excl. contingency)** | **$220,463,023** |
+| 4 | **Contingency (10%)** | Held separately within total model expenses | $22,046,302 |
+| | | **TOTAL 10-YEAR EXPENSES** | **$242,509,325** |
 
 *Line-item hard cost / soft cost / land breakdown for the September 2026 revised model (post house-mix change) is being finalized [TO CONFIRM]. The house-specific figures are verified exactly: 100 total houses (90 standard + 10 luxury), total cost $75,900,000, total sales $110,700,000.*
 
@@ -156,7 +156,7 @@ The hempcrete building market is growing at approximately 15%/yr CAGR (GMI). Reg
 | 2029 | [TO CONFIRM] | Homes, condos, rental condos, school (per-year split [TO CONFIRM]) |
 | 2030 | [TO CONFIRM] | Homes, condos, village completion, temple (per-year split [TO CONFIRM]) |
 | 2031 | [TO CONFIRM] | Estate homes, condos, rental condos — construction complete (per-year split [TO CONFIRM]) |
-| **Total** | **$220,647,688** (excl. contingency) | Per-year split for the revised model [TO CONFIRM] |
+| **Total** | **$220,463,023** (excl. contingency) | Per-year split for the revised model [TO CONFIRM] |
 
 ---
 
@@ -284,14 +284,14 @@ Total site work budget: **~$7,072,088** (within total hard costs).
 
 | Metric | Value |
 |--------|------:|
-| Building GFA | ~581,974 SF |
+| Building GFA | ~569,620 SF |
 | Structures & build hard cost | ~$194.6M |
 | Implied blended cost | blend of $300 standard and $450 luxury tiers |
 | Site work | ~$7,072,088 |
 
 ### 6.3 Pricing vs. Cost Context
 
-Standard-tier homes (1-5BR) price at $450/SF, and luxury-tier homes (5-7BR) at $600/SF, both against construction cost bases of $300/SF and $450/SF respectively — a margin consistent across tiers. Condos price at ~$400/SF blended, and micro-villas at ~$437/SF (avg $141,520/unit). For market pricing context: Bastrop County median $187/SF (Redfin, 5/2026); Austin $1M+ homes average $423/SF (Texas Realtors, 2025); Barton Creek ~$553-802/SF; West Lake Hills ~$756/SF.
+Standard-tier homes (1-5BR) price at $450/SF, and luxury-tier homes (5-7BR) at $600/SF, both against construction cost bases of $300/SF and $450/SF respectively — a margin consistent across tiers. Condos price at $450/SF, and micro-villas at ~$437/SF (avg $141,520/unit). For market pricing context: Bastrop County median $187/SF (Redfin, 5/2026); Austin $1M+ homes average $423/SF (Texas Realtors, 2025); Barton Creek ~$553-802/SF; West Lake Hills ~$756/SF.
 
 ---
 
@@ -332,7 +332,7 @@ Standard-tier homes (1-5BR) price at $450/SF, and luxury-tier homes (5-7BR) at $
 
 ## 8. Soft Costs — Professional Services & Regulatory
 
-**Total soft costs:** line-item figure for the September 2026 revised model is being finalized [TO CONFIRM]; included within the $220,647,688 total expenses (excl. contingency) above.
+**Total soft costs:** line-item figure for the September 2026 revised model is being finalized [TO CONFIRM]; included within the $220,463,023 total expenses (excl. contingency) above.
 
 | Category | Scope |
 |----------|-------|
@@ -354,7 +354,7 @@ Standard-tier homes (1-5BR) price at $450/SF, and luxury-tier homes (5-7BR) at $
 
 | Item | Amount | Treatment |
 |------|-------:|-----------|
-| Contingency (10% of costs) | **$22,064,769** | Carried separately in the financial model within total expenses ($242,712,457) — not embedded in hard-cost lines |
+| Contingency (10% of costs) | **$22,046,302** | Carried separately in the financial model within total expenses ($242,509,325) — not embedded in hard-cost lines |
 
 ### 9.2 Contingency Allocation Guidance
 
@@ -459,7 +459,7 @@ STABILIZED OPS                                                                  
 | **2029** | [TO CONFIRM] | [TO CONFIRM] | [TO CONFIRM] |
 | **2030** | [TO CONFIRM] | [TO CONFIRM] | [TO CONFIRM] |
 | **2031** | [TO CONFIRM] | [TO CONFIRM] | [TO CONFIRM] |
-| **Total** | **$220,647,688** (excl. contingency) | | **100%** — line-item per-year split for the revised model [TO CONFIRM] |
+| **Total** | **$220,463,023** (excl. contingency) | | **100%** — line-item per-year split for the revised model [TO CONFIRM] |
 
 *Quarterly draw schedules are maintained in the financial model. [TO CONFIRM]*
 
@@ -481,7 +481,7 @@ STABILIZED OPS                                                                  
 | Assumption | Basis |
 |-----------|-------|
 | $300/SF standard tier; $450/SF luxury tier | Project financial model |
-| ~581,974 SF building GFA | Program per reconciled model |
+| ~569,620 SF building GFA | Program per reconciled model |
 | Site work ~$7,072,088 | Model; civil engineering refinement underway (Fred Haas, PE) |
 | Hempcrete assemblies: R-30+, 2+ hr fire, 50-70% HVAC/energy reduction | Approved hempcrete performance basis |
 | Escalation and unit-cost sensitivities | [TO CONFIRM — maintained in financial model] |
@@ -501,7 +501,7 @@ STABILIZED OPS                                                                  
 |------|:----------:|:------:|-----------|
 | Hempcrete supply chain disruption | Medium | High | Multi-source procurement; pre-orders; growing regional capacity post Austin hemp-lime adoption (July 2025) |
 | Labor shortage (Austin market) | Medium | Medium | Jared Gossett builder platform (170+ homes, 2× Builder of the Year); crew training and retention |
-| Material cost escalation | Medium | High | 10% contingency ($22,064,769) held separately in model; phased procurement |
+| Material cost escalation | Medium | High | 10% contingency ($22,046,302) held separately in model; phased procurement |
 | Extended permitting | Low-Medium | Medium | 12-16 mo estimate already assumed; no county zoning; early agency engagement |
 | Water feasibility findings | Low-Medium | High | Symbiosis TX watershed analysis first; layered supply (Aqua WSC, 6 wells + 13 tanks, ponds, rainwater 9-11M gal/yr, 11 AWGs) |
 | Houston toad / LPHCP constraints | Medium | Medium-High | Conservation subdivision pathway; 184.5 acres preserved; flexible site plan |

@@ -187,17 +187,17 @@ Phases 2–3 (the balance of the 376-acre master plan presented in Part B) serve
 
 ## 1. Executive Financial Summary (Full Project)
 
-Abundancia's full-project 10-year financial model (Year 1 = 2027, post-September 2026 unit-mix revision) projects total revenue of **$304,833,607** from a diversified mix of residential sales, estate lot sales, rental operations, and commercial leasing. Total 10-year expenses (excluding contingency) are **$220,647,688**; with a 10% contingency of $22,064,769, total expenses are **$242,712,457**, producing 10-year EBITDA of **$62,121,150**.
+Abundancia's full-project 10-year financial model (Year 1 = 2027, post-September 2026 unit-mix revision) projects total revenue of **$306,260,669** from a diversified mix of residential sales, estate lot sales, rental operations, and commercial leasing. Total 10-year expenses (excluding contingency) are **$220,463,023**; with a 10% contingency of $22,046,302, total expenses are **$242,509,325**, producing 10-year EBITDA of **$63,751,344**.
 
 **Full-project headline figures (context only — not the offering):**
 
 | Metric | Value |
 |--------|-------|
-| 10-Year Revenue | $304,833,607 |
-| 10-Year Expenses (excl. contingency) | $220,647,688 |
-| 10% Contingency | $22,064,769 |
-| 10-Year Total Expenses (incl. contingency) | $242,712,457 |
-| 10-Year EBITDA | $62,121,150 |
+| 10-Year Revenue | $306,260,669 |
+| 10-Year Expenses (excl. contingency) | $220,463,023 |
+| 10% Contingency | $22,046,302 |
+| 10-Year Total Expenses (incl. contingency) | $242,509,325 |
+| 10-Year EBITDA | $63,751,344 |
 | First Revenue | 2028 |
 | Total Structures | 511 |
 
@@ -250,7 +250,7 @@ Abundancia's full-project 10-year financial model (Year 1 = 2027, post-September
 |-----------|-------|---------|
 | Single-Family Home (1-5 BR) | 90 | $450K–$1.35M @ $450/SF blended |
 | Luxury Estate (5-7 BR) | 10 | $2.10M–$3.30M @ $600/SF |
-| Condominiums (for sale) | 200 | ~$400/SF blended ($79,875,000 total) |
+| Condominiums (for sale) | 200 | $450/SF ($79,875,000 total) |
 | Micro-Villas | 60 | ~$437/SF (avg $141,520/unit) |
 | Estate Lots | 100 total (80 Phase 1, 20 Phase 2) | ~$150K average per lot ($15,000,000 total) |
 | Nature Stays / STR (rental) | 60 units | Rate detail [TO CONFIRM] |
@@ -270,14 +270,14 @@ The full-project financial model produces the annual revenue schedule below (Yea
 | 2027 (Y1) | $0 |
 | 2028 (Y2) | $19,190,032 |
 | 2029 (Y3) | $31,292,109 |
-| 2030 (Y4) | $140,531,819 |
-| 2031 (Y5) | $68,127,392 |
+| 2030 (Y4) | $103,063,132 |
+| 2031 (Y5) | $107,023,142 |
 | 2032 (Y6) | $8,534,372 |
 | 2033 (Y7) | $8,836,411 |
 | 2034 (Y8) | $9,138,451 |
 | 2035 (Y9) | $9,440,491 |
 | 2036 (Y10) | $9,742,530 |
-| **10-Year Total** | **$304,833,607** |
+| **10-Year Total** | **$306,260,669** |
 
 ### 3.2 Scenario Cases
 
@@ -291,11 +291,11 @@ Conservative and optimistic scenario revenue schedules are presented in Document
 
 | Revenue Stream | 10-Year Total | % of Total |
 |---------------|--------------:|-----------:|
-| Residential Sales (homes, luxury estates, condos, micro-villas) | $225,486,097 | 74.0% |
+| Residential Sales (homes, luxury estates, condos, micro-villas) | $226,913,159 | 74.0% |
 | Rentals (rental condos, event house, STR/nature stays) | $53,231,500 | 17.5% |
 | Estate Lot Sales | $14,295,171 | 4.7% |
 | Commercial | $11,820,840 | 3.9% |
-| **Grand Total** | **$304,833,607** | **100.0%** |
+| **Grand Total** | **$306,260,669** | **100.0%** |
 
 ### 4.2 Residential Sales by Unit Type (Full Project, 10-Year — Context)
 
@@ -303,9 +303,9 @@ Conservative and optimistic scenario revenue schedules are presented in Document
 |-----------|-------|---------|
 | Single-Family Home (1-5 BR) | 90 | $450K-$1.35M @ $450/SF |
 | Luxury Estate (5-7 BR) | 10 | $2.10M-$3.30M @ $600/SF |
-| Condominiums (for sale) | 200 | ~$400/SF blended ($79,875,000) |
+| Condominiums (for sale) | 200 | $450/SF ($79,875,000) |
 | Micro-Villas | 60 | ~$437/SF (~$141,520/unit) |
-| **Total For-Sale Residences** | **360** | Total residential sales revenue $225,486,097 |
+| **Total For-Sale Residences** | **360** | Total residential sales revenue $226,913,159 |
 
 *Houses: 100 total ($75,900,000 cost / $110,700,000 sales, verified exact match to the Unit Mix Summary). Only the 60 micro-villas are sold within Phase 1 (the offering); SFR, luxury estate, and condo sales occur in later phases. An additional 75 condos are retained as rentals (275 condos total: 200 sold + 75 rented).*
 
@@ -330,9 +330,9 @@ Conservative and optimistic scenario revenue schedules are presented in Document
 
 | Expense Category | 10-Year Total |
 |-----------------|---------------|
-| Total Expenses (excl. contingency) | $220,647,688 |
-| Contingency (10%) | $22,064,769 |
-| **Total 10-Year Expenses (incl. contingency)** | **$242,712,457** |
+| Total Expenses (excl. contingency) | $220,463,023 |
+| Contingency (10%) | $22,046,302 |
+| **Total 10-Year Expenses (incl. contingency)** | **$242,509,325** |
 
 *Detailed line-item breakdown (hard costs, soft costs, land carry) for the September 2026 revised model is being finalized [TO CONFIRM].*
 
@@ -367,26 +367,26 @@ Conservative and optimistic scenario revenue schedules are presented in Document
 
 | Metric | Value |
 |--------|-------|
-| 10-Year Revenue | $304,833,607 |
-| 10-Year Total Expenses (incl. contingency) | $242,712,457 |
-| **10-Year EBITDA** | **$62,121,150** |
+| 10-Year Revenue | $306,260,669 |
+| 10-Year Total Expenses (incl. contingency) | $242,509,325 |
+| **10-Year EBITDA** | **$63,751,344** |
 | First revenue | 2028 |
 
-Annual full-project EBITDA follows the construction and delivery timeline (Year 1 = 2027): negative in 2027 (pre-revenue construction), turning positive in 2028, with the largest single year in 2031. (For the Phase-1 year-by-year EBITDA schedule — the offering — see Part A, Section A4.)
+Annual full-project EBITDA follows the construction and delivery timeline (Year 1 = 2027): negative in 2027 (pre-revenue construction), turning positive in 2028, with the largest single year in 2031. Following the September 2026 re-phasing, 2030 and 2031 are two balanced delivery years ($103.1M and $107.0M of revenue); 2030 carries the thinner margin because condominium construction is funded that year while most condominium closings land in 2031. (For the Phase-1 year-by-year EBITDA schedule — the offering — see Part A, Section A4.)
 
 | Year | Full-Project EBITDA |
 |------|--------------------:|
 | 2027 (Y1) | ($15,063,452) |
-| 2028 (Y2) | $420,007 |
-| 2029 (Y3) | $12,879,773 |
-| 2030 (Y4) | $10,587,547 |
-| 2031 (Y5) | $25,106,124 |
+| 2028 (Y2) | $6,189,769 |
+| 2029 (Y3) | $12,882,786 |
+| 2030 (Y4) | $10,857,076 |
+| 2031 (Y5) | $20,694,015 |
 | 2032 (Y6) | $5,059,561 |
 | 2033 (Y7) | $5,348,896 |
 | 2034 (Y8) | $5,638,230 |
 | 2035 (Y9) | $5,927,565 |
 | 2036 (Y10) | $6,216,899 |
-| **10-Year Total** | **$62,121,150** |
+| **10-Year Total** | **$63,751,344** |
 
 **Key observations:**
 - Negative Year-1 (2027) results reflect front-loaded infrastructure and hospitality construction against zero revenue
@@ -462,8 +462,8 @@ If Phases 2–3 proceed, the additional revenue streams provide the sponsor with
 | **Phase-1 (the offering) 10-Year EBITDA** | **$23,413,145** | **$23,413,145** |
 | **Phase-1 LP IRR (10-yr / 5-yr interim)** | **26.02% / 20.07%** | **34.81% / 28.04%** |
 | **Phase-1 LP EMx (10-yr / 5-yr interim)** | **2.449x / 1.6515x** | **3.655x / 2.104x** |
-| 10-Year Revenue (full project — context) | $304,833,607 | $304,833,607 |
-| 10-Year EBITDA (full project — context) | $62,121,150 | $62,121,150 |
+| 10-Year Revenue (full project — context) | $306,260,669 | $306,260,669 |
+| 10-Year EBITDA (full project — context) | $63,751,344 | $63,751,344 |
 
 *Operational KPI targets (days on market, cancellation rates, occupancy trajectories) are being finalized with the model refresh and are [TO CONFIRM].*
 

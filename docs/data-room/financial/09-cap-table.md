@@ -117,7 +117,7 @@ The Phase-1 capitalization funds the Phase-1 construction program — approximat
 
 | Category | Amount | Notes |
 |----------|--------|-------|
-| Land (down payment, closing, Year-1 carry) | $2.17M | Land under letter of intent; $65,000 earnest money deposit; definitive purchase terms subject to a final purchase agreement [TO CONFIRM]. Modeled scenario: ~$6.5M price, 20% down, ~5% closing, 8% land loan — subject to final terms |
+| Land (down payment, closing, Year-1 carry) | $2.17M | Land under letter of intent; $65,000 earnest money deposit; definitive purchase terms subject to a final purchase agreement [TO CONFIRM]. Modeled scenario: ~$6.5M price, 40% down, ~5% closing, 8% land loan — subject to final terms |
 | Year-1 construction hard costs | ~$6.65M | Infrastructure, nature stays, Community Center, Longevity Center & Spa, parks, permaculture |
 | Year-2 construction hard costs | ~$10.01M | Infrastructure backbone, 60 micro-villas, 80 prepared lots, 6BR Rental/Event House — funded with early operating cash flow |
 | Soft costs, operations, marketing, reserves | Balance | Detailed Phase-1 split per model [TO CONFIRM] |

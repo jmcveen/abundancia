@@ -206,7 +206,7 @@ The 376 acres are allocated across the following program areas (authoritative la
 | **Preserved Land** | 184.5 acres | 49.1% |
 | **Total** | **376 acres** | **100%** |
 
-Total building footprint is approximately 14-16 acres of structures (~4% of the site), with approximately 581,974 SF of vertical construction (GFA).
+Total building footprint is approximately 14-16 acres of structures (~4% of the site), with approximately 569,620 SF of vertical construction (GFA).
 
 ### 3.5 Infrastructure Strategy
 
@@ -279,11 +279,11 @@ LP return projections from the Phase-1 equity waterfall model, both elections bu
 
 | Revenue Stream | 10-Year Revenue | % of Total |
 |---|---|---|
-| **Residential Sales** | $225,486,097 | 74.0% |
+| **Residential Sales** | $226,913,159 | 74.0% |
 | **Rentals** | $53,231,500 | 17.5% |
 | **Lots** | $14,295,171 | 4.7% |
 | **Commercial** | $11,820,840 | 3.9% |
-| **Total (Full Project)** | **$304,833,607** | **100.0%** |
+| **Total (Full Project)** | **$306,260,669** | **100.0%** |
 
 *Full-project figures are shown for context only and are not part of this offering. Full-project return projections (LP IRR/EMx) are being finalized and will be provided in a future data-room update.*
 
@@ -305,9 +305,9 @@ LP return projections from the Phase-1 equity waterfall model, both elections bu
 
 | Metric | Value |
 |---|---|
-| **Total Projected Revenue (10-Year)** | $304,833,607 |
-| **Total Expenses (10-Year, incl. 10% contingency $22,064,769)** | $242,712,457 |
-| **EBITDA (10-Year)** | $62,121,150 |
+| **Total Projected Revenue (10-Year)** | $306,260,669 |
+| **Total Expenses (10-Year, incl. 10% contingency $22,046,302)** | $242,509,325 |
+| **EBITDA (10-Year)** | $63,751,344 |
 | **Full-Project LP Return Projections** | Being finalized; will be provided in a future data-room update. Not part of this offering. |
 
 *Waterfall structure and fees are subject to final documentation and review by securities counsel.*
@@ -370,7 +370,7 @@ The full Abundancia development program encompasses **511 total structures**, in
 |---|---|---|---|---|---|
 | **Single-Family Home (1-5 BR)** | 90 | $450K–$1.35M @ $450/SF | — | 1,000-3,000 SF (10×1BR, 20×2BR, 20×3BR, 20×4BR, 20×5BR) | Hempcrete construction, solar-ready, regenerative landscaping, community-integrated design |
 | **Luxury Estate (5-7 BR)** | 10 | $2.10M–$3.30M @ $600/SF | — | 3,500-5,500 SF (5×5BR, 3×6BR, 2×7BR) | Elevated finish tier, larger footprints, premium siting |
-| **Condominiums (for sale)** | 200 | ~$400/SF blended (avg $399,375/unit) | — | 600-1,250 SF | Hempcrete construction, shared amenities, walkable village design (275 condos total incl. 75 rental condos) |
+| **Condominiums (for sale)** | 200 | $450/SF (avg $399,375/unit) | — | 600-1,250 SF | Hempcrete construction, shared amenities, walkable village design (275 condos total incl. 75 rental condos) |
 | **Micro-Villas (for sale)** | 60 | ~$437/SF (avg $141,520/unit) | $8,491,200 (all 60 sold in Phase 1, Year 2) | 232-416 SF | Minimalist living, non-toxic materials, shared amenity access, ideal for remote workers and minimalists |
 | **Estate Lots** | 100 (full project) | ~$150K average | $15,000,000 (full project; Phase 1 sells 80 residential lots for $10,817,449) | ~1/3-1 acre | Improved estate lots with utilities, roads, and design guidelines |
 | **Rental Portfolio** | 136 | N/A (rental — see rental income) | N/A (see rental income) | Varies | 1×6BR event house (6,000 SF), 75 rental condos (25×1BR/25×2BR/25×3BR), 60 nature stays / STR units |
@@ -444,7 +444,7 @@ Phase 1 — the scope funded by this offering — generates a projected **$63,55
 
 The full master plan generates revenue at larger scale, providing natural diversification across market cycles, buyer segments, and asset classes. The figures below are full-project context and are not the investor's economics; full-project LP return projections are being finalized and will be provided in a future data-room update.
 
-#### Stream 1: Residential Sales — $225,486,097 (74.0% of total)
+#### Stream 1: Residential Sales — $226,913,159 (74.0% of total)
 
 Residential sales comprise the primary revenue driver, encompassing single-family homes, luxury estates, condominiums, and micro-villas. Revenue is recognized at closing as units are sold to end buyers.
 
@@ -452,9 +452,9 @@ Residential sales comprise the primary revenue driver, encompassing single-famil
 |---|---|---|---|
 | Single-Family Home (1-5 BR) | 90 | $450K-$1.35M @ $450/SF | 1,000-3,000 SF |
 | Luxury Estate (5-7 BR) | 10 | $2.10M-$3.30M @ $600/SF | 3,500-5,500 SF |
-| Condominiums (for sale) | 200 | ~$400/SF blended | 600-1,250 SF |
+| Condominiums (for sale) | 200 | $450/SF | 600-1,250 SF |
 | Micro-Villas | 60 | ~$437/SF (avg $141,520/unit) | 232-416 SF |
-| **Total Residential** | **360** | — | **$225,486,097 total revenue** |
+| **Total Residential** | **360** | — | **$226,913,159 total revenue** |
 
 #### Stream 2: Rentals — $53,231,500 (17.5% of total)
 
@@ -500,7 +500,7 @@ Year-by-year revenue detail is maintained in the financial model and is availabl
 | **First Major Revenue (Phase 1)** | 2028 (hospitality opens; micro-villas deliver; lot sales) |
 | **Construction Complete** | 2031 (full project) |
 | **10-Year Total Revenue — Phase 1 (The Offering)** | **$63,557,464** |
-| **10-Year Total Revenue — Full Project (All Phases, context only)** | $304,833,607 |
+| **10-Year Total Revenue — Full Project (All Phases, context only)** | $306,260,669 |
 
 ---
 

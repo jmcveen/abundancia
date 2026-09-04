@@ -51,7 +51,7 @@
 
 ### 1.1 Conservation-Forward Development
 
-Abundancia is designed around a foundational principle: **the land comes first**. Unlike conventional developments that maximize buildable area and relegate green space to residual parcels, Abundancia permanently preserves **184.5 acres (49%)** of the 376-acre property, with approximately **235 acres (62.5%)** dedicated to preserved land, regenerative agriculture, and permaculture gardens combined. Building footprints occupy only ~16.1 acres of structures (4.28% of the site), with ~581,974 SF of building gross floor area (~4% footprint of the 376 acres) plus roads and site development.
+Abundancia is designed around a foundational principle: **the land comes first**. Unlike conventional developments that maximize buildable area and relegate green space to residual parcels, Abundancia permanently preserves **184.5 acres (49%)** of the 376-acre property, with approximately **235 acres (62.5%)** dedicated to preserved land, regenerative agriculture, and permaculture gardens combined. Building footprints occupy only 13.70 acres of structures (3.64% of the site), with 569,620 SF of building gross floor area plus roads and site development.
 
 This approach is not merely aesthetic. It is structurally integrated into every layer of the project:
 
@@ -128,11 +128,11 @@ The 2011 Bastrop Complex Fire burned 34,000 acres and destroyed 1,673 homes in t
 |-------------|-------|------------|----------------------|------------------------|
 | Single-Family Home (standard, 1-5BR) | 90 | 10×1BR (1,000 SF); 20×2BR (1,500 SF); 20×3BR (2,000 SF); 20×4BR (2,500 SF); 20×5BR (3,000 SF) | $450/SF | Residential sales |
 | Luxury Estate (5-7BR) | 10 | 5×5BR (3,500 SF); 3×6BR (4,500 SF); 2×7BR (5,500 SF) | $600/SF | Residential sales |
-| Condominiums | 200 for sale | 1BR (600 SF); 2BR (850 SF); 3BR (1,250 SF) | Blended ~$400/SF | Residential sales |
+| Condominiums | 200 for sale | 1BR (600 SF); 2BR (850 SF); 3BR (1,250 SF) | $450/SF | Residential sales |
 | Micro-Villas | 60 | 19,424 SF total | Blended ~$437/SF (avg $141,520/unit) | Residential sales |
 | Estate Lots | 100 (80 Phase 1, 20 Phase 2) | ~1/3-acre, half-acre, one-acre mix | Avg. lot revenue per model | Lot sales — $14,295,171 (10-yr, full project) |
 | Rental Units | 136 | 1×6BR event house (6,000 SF); 75 rental condos (25×1BR / 25×2BR / 25×3BR); 60 STR/nature-stay units | Nature stays $150-375/night | Rental revenue |
-| **Total** | **511 structures + 100 estate lots** | | | Residential sales $225,486,097 (10-yr model) |
+| **Total** | **511 structures + 100 estate lots** | | | Residential sales $226,913,159 (10-yr model) |
 
 *Condominiums total 275 across the full project — 200 for sale plus 75 rental condos (shown under Rental Units). Houses (standard + luxury): 100 total, verified exact match to the Unit Mix Summary — total cost $75,900,000, total sales $110,700,000.*
 
@@ -206,7 +206,9 @@ See Section 13 for detailed retreat center design. *Revenue classification note:
 | Component | Units / Scope |
 |-----------|--------------|
 | Site infrastructure (roads, water, wastewater OSSF, power, fiber) | Backbone systems (completed in Year 2) |
-| Nature stays | 50 short-term nature stays: 20 glamping tents, 15 domes, 5 high-end domes, 10 camping spaces |
+| Nature stays | 60 short-term nature stays: 20 glamping tents, 15 domes, 5 high-end domes, 10 camping spaces, 10 Regen Villas |
+
+**Regen Villas — the natural-building demonstration program.** Ten of the sixty nature-stay units are Regen Villas: guest structures each built from a different regenerative material system — an earthship, an aircrete dome, hempcrete, mycelium brick, rammed earth, compressed earth block, cob, strawbale, bioceramic magnesium phosphate, and wattle & daub. Together they form a living materials library that a guest can compare across a single stay rather than read about. Each villa is constructed through natural-building workshops, so the build itself is programming: participants pay to learn, the structure gets built, and the completed villa earns nightly revenue thereafter. Workshop tuition is not included in the financial model and is treated as unmodeled upside.
 | Community Center | 5,000 SF — lounge, co-working, gym, yoga, meditation, community kitchen, library |
 | Natural Pool + Parks & Recreation | Spring-fed natural pool; initial parks and trail network |
 | Regenerative Center | Event space + 6 retreat rooms + renovated existing barn (first event space) |
@@ -288,9 +290,9 @@ See Section 13 for detailed retreat center design. *Revenue classification note:
 | Rental units | 136 (event house + 75 rental condos + 60 STR/nature-stay units) |
 | Condominiums (total) | 275 (200 for sale + 75 rental) |
 | Total commercial SF | 30,000 (12 spaces) + community amenities |
-| Total building floor area | ~581,974 SF GFA (~4% footprint of the 376 acres) plus roads and site development |
-| Total project expenses (10-yr model) | $242,712,457 (excl. contingency $220,647,688 · 10% contingency $22,064,769; line-item hard/soft/land split for the revised model [TO CONFIRM]) |
-| Total revenue (10-yr model) | $304,833,607 |
+| Total building floor area | ~569,620 SF GFA (~4% footprint of the 376 acres) plus roads and site development |
+| Total project expenses (10-yr model) | $242,509,325 (excl. contingency $220,463,023 · 10% contingency $22,046,302; line-item hard/soft/land split for the revised model [TO CONFIRM]) |
+| Total revenue (10-yr model) | $306,260,669 |
 | Construction timeline | 2027-2031; stabilized operations 2032+ (~$7-8M/yr recurring) |
 
 ---
@@ -360,7 +362,7 @@ Abundancia's water strategy is a layered supply combined with demand reduction:
 |--------|-------|------------|
 | Total structures | 511 (plus 100 estate lots) | |
 | Overall density | ~1.4 structures/acre across 376 acres | Very low — conservation community |
-| Building footprint | ~16.1 acres of structures (4.28% of site) | |
+| Building footprint | 13.70 acres of structures (3.64% of site); 569,620 SF GFA | |
 | Preserved land | 184.5 acres (49.1%) | |
 
 *Per-zone density breakdowns pending schematic design. [TO CONFIRM]*

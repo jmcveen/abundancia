@@ -139,7 +139,7 @@ Abundancia serves a diverse market through five distinct product families across
 **Single-Family Homes (100 units — from ~$450/SF; ~$566/SF blended realized)**
 Premium hempcrete homes ranging from 1,000 to 5,000 sq. ft. (1BR through 7BR configurations). Designed for families, remote workers, and buyers seeking a primary residence in a regenerative community. Features include passive solar design, food garden integration, and community-oriented architecture.
 
-**Condominiums (200 for-sale units — ~$400/SF blended)**
+**Condominiums (200 for-sale units — $450/SF)**
 Walkable village configurations of 600-1,250 sq. ft. with shared amenities, gardens, and gathering spaces (275 condos total across the master plan, including 75 rental condos). Targets young professionals, couples, and downsizers seeking attainable entry into the community.
 
 **Tiny Homes & Domes (60 for-sale units — ~$416/SF; ~$104K-$166K)**
@@ -425,14 +425,14 @@ Research consistently demonstrates strong and growing consumer demand for the at
 - Values education, outdoor access, food quality, safety
 - Priced out of central Austin neighborhoods
 - Wants community integration and shared amenities for children
-- Target product: Single-family home (from ~$450/SF) or condominium (~$400/SF)
+- Target product: Single-family home (from ~$450/SF) or condominium ($450/SF)
 
 **Persona 4: The Wellness Seeker / Retiree (50-70)**
 - Empty-nester or early retiree
 - $200K+ investable assets, moderate ongoing income
 - Seeking purpose, community, and healthy living environment
 - May downsize from larger home
-- Target product: Condominium (~$400/SF) or tiny home/dome (~$104K-$166K)
+- Target product: Condominium ($450/SF) or tiny home/dome (~$104K-$166K)
 
 **Persona 5: The Custom Builder / Investor (35-60)**
 - HHI $200K+ or significant investable assets
@@ -513,7 +513,7 @@ Phase-1 revenue over the 10-year hold is projected at **$63,557,464**, with Phas
 
 At full build-out across all phases, Abundancia generates revenue through four distinct and complementary streams. The figures below are full-project context and are not the investor's economics; full-project LP return projections are being finalized and will be provided in a future data-room update.
 
-#### Stream 1: Residential Sales — $225,486,097 (74.0%)
+#### Stream 1: Residential Sales — $226,913,159 (74.0%)
 
 The primary revenue driver, encompassing all for-sale residential products across the 10-year development horizon.
 
@@ -521,9 +521,9 @@ The primary revenue driver, encompassing all for-sale residential products acros
 |---|---|---|---|
 | Single-Family Home (1-5 BR) | 90 | $450K-$1.35M @ $450/SF | 1,000-3,000 SF |
 | Luxury Estate (5-7 BR) | 10 | $2.10M-$3.30M @ $600/SF | 3,500-5,500 SF |
-| Condominiums (for sale) | 200 | ~$400/SF blended | 600-1,250 SF (1-3BR) |
+| Condominiums (for sale) | 200 | $450/SF | 600-1,250 SF (1-3BR) |
 | Micro-Villas | 60 | ~$437/SF (avg $141,520/unit) | 232-416 SF |
-| **Total Residential** | **360** | — | **$225,486,097 total revenue** |
+| **Total Residential** | **360** | — | **$226,913,159 total revenue** |
 
 #### Stream 2: Rentals — $53,231,500 (17.5%)
 
@@ -548,7 +548,7 @@ Improved estate lots (~1/3-acre to one-acre), 100 total (80 Phase 1, 20 Phase 2)
 | **Rental & Hospitality** | 60-65% NOI margin | Stabilized operations, low maintenance (hempcrete) |
 | **Commercial** | 70-75% NOI margin | NNN lease structure, minimal landlord responsibility |
 
-*Margin figures are preliminary internal estimates [TO CONFIRM against the v2.0 financial model]. Overall 10-year full-project model EBITDA is $62,121,150 on $304,833,607 of revenue (context only — not part of this offering). Phase-1 EBITDA — the offering, identical under both Elections — is $23,413,145 on $63,557,464 of Phase-1 revenue (~37% margin).*
+*Margin figures are preliminary internal estimates [TO CONFIRM against the v2.0 financial model]. Overall 10-year full-project model EBITDA is $63,751,344 on $306,260,669 of revenue (context only — not part of this offering). Phase-1 EBITDA — the offering, identical under both Elections — is $23,413,145 on $63,557,464 of Phase-1 revenue (~37% margin).*
 
 ### 8.4 Capital Recycling
 
@@ -596,9 +596,9 @@ Phase 1 now offers investors a choice of capital structure for the $4,000,000 la
 
 | Metric | Value |
 |---|---|
-| **Total Revenue** | $304,833,607 (Residential $225,486,097 · Rentals $53,231,500 · Lots $14,295,171 · Commercial $11,820,840) |
-| **Total Expenses** | $242,712,457 (incl. 10% contingency $22,064,769) |
-| **EBITDA** | $62,121,150 |
+| **Total Revenue** | $306,260,669 (Residential $226,913,159 · Rentals $53,231,500 · Lots $14,295,171 · Commercial $11,820,840) |
+| **Total Expenses** | $242,509,325 (incl. 10% contingency $22,046,302) |
+| **EBITDA** | $63,751,344 |
 | **First Revenue** | 2028 |
 
 *Year-by-year pro forma detail is maintained in the financial model and is available to investors upon request.*
@@ -797,13 +797,13 @@ Strategic advisors provide domain expertise across regenerative and biophilic de
 
 | Assumption | Value |
 |---|---|
-| Land acquisition (scenario — subject to final terms) | $6.5M purchase price; 20% down; ~5% closing; 8% land loan (~$541K/yr; ~$2.17M Year-1 outlay) |
+| Land acquisition (scenario — subject to final terms) | $6.5M purchase price; 40% down; ~5% closing; 8% land loan (~$541K/yr; ~$2.17M Year-1 outlay) |
 | Phase 1 construction debt (the offering) | $7,700,000 at 8.5%, 10-year fully amortizing ($1,173,539/yr debt service) |
-| Total expenses (10-yr, full project, incl. contingency) | $242,712,457 |
-| Contingency | 10% ($22,064,769, included in total expenses) |
+| Total expenses (10-yr, full project, incl. contingency) | $242,509,325 |
+| Contingency | 10% ($22,046,302, included in total expenses) |
 | SFR pricing (standard, 1-5BR) | $450K-$1.35M @ $450/SF |
 | Luxury Estate pricing (5-7BR) | $2.10M-$3.30M @ $600/SF |
-| Condo pricing | ~$400/SF blended |
+| Condo pricing | $450/SF |
 | Micro-villa pricing | ~$437/SF (avg $141,520/unit) |
 | Average estate lot revenue | ~$150K (100 lots; $15,000,000 full-project total; Phase-1 lot revenue $10,817,449) |
 | Nature stay rates | Glamping tents $150/nt; domes $275/nt; high-end domes $375/nt |
@@ -820,7 +820,7 @@ Strategic advisors provide domain expertise across regenerative and biophilic de
 | West Lake Hills | Austin, TX | Luxury single-family | ~$756/SF | Premium submarket |
 | Whisper Valley | Manor, TX | Single-family | $300K-$750K | Zero-energy geothermal; ~7,500 planned homes; proves east-Austin sustainability demand |
 | Serenbe | Georgia | Single-family | Homes from ~$375K | 1,200-acre wellness agrihood, 750+ residents, demonstrated premiums |
-| **Abundancia (projected)** | **Cedar Creek** | **Single-family / condos** | **SFR ~$477/SF blended ($450/SF standard, $600/SF luxury 5-7BR); condos ~$400/SF** | **Hempcrete, regenerative community, full amenity** |
+| **Abundancia (projected)** | **Cedar Creek** | **Single-family / condos** | **SFR ~$477/SF blended ($450/SF standard, $600/SF luxury 5-7BR); condos $450/SF** | **Hempcrete, regenerative community, full amenity** |
 
 ### 13.3 Glossary of Terms
 

@@ -797,7 +797,7 @@ During active construction, the Company shall distribute a monthly construction 
 
 | Category | Budget Amount | Purpose |
 |----------|-------------|---------|
-| Land Acquisition | $[________] | Acquisition of the 376-acre property, Cedar Creek, Bastrop County (modeled scenario: $6.5M price, 20% down, ~5% closing, 8% land loan — subject to final terms) |
+| Land Acquisition | $[________] | Acquisition of the 376-acre property, Cedar Creek, Bastrop County (modeled scenario: $6.5M price, 40% down, ~5% closing, 8% land loan — subject to final terms) |
 | Site Development | $[________] | Grading, utilities, roads, infrastructure |
 | Architecture and Engineering | $[________] | Design, engineering, permitting |
 | Construction (Hard Costs) | $[________] | Building construction, materials, labor |
@@ -806,7 +806,7 @@ During active construction, the Company shall distribute a monthly construction 
 | Soft Costs | $[________] | Legal, accounting, insurance, marketing |
 | Contingency | $[________] | Contingency reserve (10% per the financial model) |
 | Working Capital Reserve | $[________] | Pre-opening and initial operating reserve |
-| **Total Project Budget** | **$15,939,072 (Phase-1 capitalization, identical under both Elections)** | Full Project (all phases) context: total expenses $242,712,457 |
+| **Total Project Budget** | **$15,939,072 (Phase-1 capitalization, identical under both Elections)** | Full Project (all phases) context: total expenses $242,509,325 |
 
 ### 11.4 Variance Reporting Thresholds
 

@@ -70,14 +70,14 @@ The full-project program comprises **511 total structures**, including **360 for
 
 | Unit Type | Count | Mix Detail | 10-Year Revenue Stream |
 |-----------|-------|-----------|------------------------|
-| Single-Family Home (1-5 BR, standard) | 90 | 10×1BR (1,000 SF); 20×2BR (1,500 SF); 20×3BR (2,000 SF); 20×4BR (2,500 SF); 20×5BR (3,000 SF) — $450/SF | Included in Residential Sales $225,486,097 |
-| Luxury Estate (5-7 BR) | 10 | 5×5BR (3,500 SF); 3×6BR (4,500 SF); 2×7BR (5,500 SF) — $600/SF | Included in Residential Sales $225,486,097 |
-| Condominiums (for sale) | 200 | 50×1BR 600SF ($240K); 100×2BR 850SF ($340K); 50×3BR 1,250SF ($500K) — $79,875,000 | Included in Residential Sales $225,486,097 |
-| Micro-Villas (for sale) | 60 | Avg $141,520/unit, ~$437/SF | Included in Residential Sales $225,486,097 |
+| Single-Family Home (1-5 BR, standard) | 90 | 10×1BR (1,000 SF); 20×2BR (1,500 SF); 20×3BR (2,000 SF); 20×4BR (2,500 SF); 20×5BR (3,000 SF) — $450/SF | Included in Residential Sales $226,913,159 |
+| Luxury Estate (5-7 BR) | 10 | 5×5BR (3,500 SF); 3×6BR (4,500 SF); 2×7BR (5,500 SF) — $600/SF | Included in Residential Sales $226,913,159 |
+| Condominiums (for sale) | 200 | 50×1BR 600SF ($240K); 100×2BR 850SF ($340K); 50×3BR 1,250SF ($500K) — $79,875,000 | Included in Residential Sales $226,913,159 |
+| Micro-Villas (for sale) | 60 | Avg $141,520/unit, ~$437/SF | Included in Residential Sales $226,913,159 |
 | Estate Lots | 100 total (80 Phase 1, 20 Phase 2) | ~$150K average per lot | Lots $14,295,171 (10-yr) |
 | Rental Units | 136 | 1×6BR event house (6,000SF); 75 rental condos (25×1BR/25×2BR/25×3BR); 60 STR/nature-stay units | Rentals $53,231,500 |
 | Commercial | 12 spaces / 30,000 SF | Wellness Center & Spa, Convention Center + TV Studio, grocery, restaurants, café, yoga, retail, gym, coworking, makerspace | Commercial $11,820,840 |
-| **Total 10-Year Revenue** | | | **$304,833,607** |
+| **Total 10-Year Revenue** | | | **$306,260,669** |
 
 ### 1.2 Per-Type Pricing Summary (revised 2026-09-02)
 
@@ -87,12 +87,12 @@ Homes are split into a standard tier and a luxury tier — never a single flat p
 |-----------|---------|
 | Single-Family Home (1-5 BR, standard) | $450/SF ($450,000–$1,350,000) |
 | Luxury Estate (5-7 BR) | $600/SF ($2,100,000–$3,300,000) |
-| Condominiums | ~$400/SF blended |
+| Condominiums | $450/SF |
 | Micro-Villas | ~$437/SF (avg $141,520/unit) |
 | Estate Lots | ~$150K average per lot |
 | Nature Stays / STR (nightly) | Rate detail [TO CONFIRM] |
 
-*Per-unit cost stacks and gross margins by type are maintained in the financial model; published per-unit cost figures are [TO CONFIRM] pending the September 2026 model summary. The project-level cost base is: total expenses (excl. contingency) $220,647,688, 10% contingency $22,064,769 (Document 06, §5); total expenses (incl. contingency) $242,712,457.*
+*Per-unit cost stacks and gross margins by type are maintained in the financial model; published per-unit cost figures are [TO CONFIRM] pending the September 2026 model summary. The project-level cost base is: total expenses (excl. contingency) $220,463,023, 10% contingency $22,046,302 (Document 06, §5); total expenses (incl. contingency) $242,509,325.*
 
 ---
 
@@ -146,7 +146,7 @@ Standard-tier pricing at $450/SF sits below the Austin $1M+ average ($423/SF is 
 |-----------|--------|
 | **Unit Count** | 200 (for sale) |
 | **Mix** | 50×1BR (600 SF, $240K); 100×2BR (850 SF, $340K); 50×3BR (1,250 SF, $500K) — $79,875,000 total |
-| **Pricing** | ~$400/SF blended realized per model (avg $399,375/unit) |
+| **Pricing** | $450/SF per model (avg $399,375/unit) |
 | **Delivery** | 2029–2031 (per-year delivery split [TO CONFIRM]) |
 | **Target Buyer** | Young professionals, downsizers, wellness-community residents, investors |
 
@@ -267,15 +267,15 @@ Community amenities (non-revenue): Community Center 5,000 SF (Y1); School 5,000 
 
 | Segment | 10-Year Revenue | % of Total |
 |---------|----------------|-----------|
-| Residential Sales (360 units) | $225,486,097 | 74.0% |
+| Residential Sales (360 units) | $226,913,159 | 74.0% |
 | Rentals (136 units) | $53,231,500 | 17.5% |
 | Estate Lots | $14,295,171 | 4.7% |
 | Commercial (12 spaces) | $11,820,840 | 3.9% |
-| **Total** | **$304,833,607** | **100.0%** |
+| **Total** | **$306,260,669** | **100.0%** |
 
 ### 8.2 Gross Profit Contribution
 
-Gross-profit-by-segment splits against the project cost stack (total expenses excl. contingency $220,647,688; 10% contingency $22,064,769) are maintained in the financial model and are [TO CONFIRM] for publication. Project-level 10-year EBITDA is **$62,121,150**.
+Gross-profit-by-segment splits against the project cost stack (total expenses excl. contingency $220,463,023; 10% contingency $22,046,302) are maintained in the financial model and are [TO CONFIRM] for publication. Project-level 10-year EBITDA is **$63,751,344**.
 
 ---
 
@@ -309,7 +309,7 @@ Gross-profit-by-segment splits against the project cost stack (total expenses ex
 |-----------|-------------------|----------------|-------------|
 | SFR Homes (standard, 1-5 BR) | $450/SF | Austin $1M+ avg $423/SF; Bastrop County median $187/SF | Premium wellness product, entry tier |
 | Luxury Estate (5-7 BR) | $600/SF | Barton Creek $553–802/SF; West Lake Hills ~$756/SF | Premium wellness product, elevated tier |
-| Condominiums | ~$400/SF | Austin $1M+ avg $423/SF | At/below Austin premium average |
+| Condominiums | $450/SF | Austin $1M+ avg $423/SF | Modest premium to the Austin average |
 | Micro-Villas | ~$437/SF (avg $141,520) | Austin median home $452K | Absolute-price affordability entry |
 | Estate Lots | ~$150K avg | Bastrop County median home $340,977 | Custom-home land within amenitized community |
 | Nature Stays / STR | Rate detail [TO CONFIRM] | US glamping 12.8% CAGR | Experience-led hospitality |
@@ -334,7 +334,7 @@ Directional observations pending the re-run:
 
 - **Estate lots** carry the widest margin of safety (infrastructure-only cost basis vs. ~$150K average pricing) and close early (2028–2029)
 - **Hempcrete construction** reduces operating cost exposure for buyers (50–70% HVAC/energy reduction vs. code baseline), supporting price resilience
-- **Diversified streams** (residential 74.0%, rentals 17.5%, lots 4.7%, commercial 3.9%) plus a 10% project contingency ($22,064,769) buffer segment-level stress
+- **Diversified streams** (residential 74.0%, rentals 17.5%, lots 4.7%, commercial 3.9%) plus a 10% project contingency ($22,046,302) buffer segment-level stress
 
 ---
 

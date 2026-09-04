@@ -111,11 +111,11 @@ Phase 1 of the Abundancia master plan is capitalized at **$15,939,072**, identic
 
 | Metric | Value |
 |---|---|
-| **10-Yr Revenue** | $304,833,607 (Residential $225,486,097 · Rentals $53,231,500 · Commercial $11,820,840 · Lots $14,295,171) |
-| **10-Yr Expenses (excl. contingency)** | $220,647,688 |
-| **10% Contingency** | $22,064,769 |
-| **Total Expenses (incl. contingency)** | $242,712,457 |
-| **10-Yr EBITDA** | $62,121,150 |
+| **10-Yr Revenue** | $306,260,669 (Residential $226,913,159 · Rentals $53,231,500 · Commercial $11,820,840 · Lots $14,295,171) |
+| **10-Yr Expenses (excl. contingency)** | $220,463,023 |
+| **10% Contingency** | $22,046,302 |
+| **Total Expenses (incl. contingency)** | $242,509,325 |
+| **10-Yr EBITDA** | $63,751,344 |
 | **Full-Project LP IRR / EMx** | **Being finalized — will be provided in a future data-room update. Not part of this offering.** |
 
 ---

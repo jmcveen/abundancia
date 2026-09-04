@@ -131,7 +131,7 @@ Whisper Valley is the most directly comparable eco-branded development in the Au
 
 | Dimension | Whisper Valley | Abundancia | Advantage |
 |-----------|:-----------:|:---------:|:---------:|
-| **Conservation** | 15-20% preserved | 49% permanently preserved (184.5 acres); ~4.3% structural footprint | Abundancia |
+| **Conservation** | 15-20% preserved | 49% permanently preserved (184.5 acres); 3.64% structural footprint | Abundancia |
 | **Building materials** | Standard frame + geothermal | Hempcrete (carbon-sequestering, non-toxic) | Abundancia |
 | **Energy** | Zero-energy capable; geothermal | Community solar + battery; geothermal-ready | Comparable |
 | **Water** | Municipal water | Layered: Aqua WSC + wells + rainwater + AWG + greywater | Abundancia |
@@ -200,8 +200,8 @@ The Dripping Springs corridor is Austin's established luxury-lifestyle submarket
 | Dimension | Dripping Springs (Typical) | Abundancia | Advantage |
 |-----------|:------------------------:|:---------:|:---------:|
 | **Price point** | $450K-1.5M | Micro-villas from ~$141K avg to luxury estates ($2.10M-$3.30M) | Abundancia (broader access) |
-| **Price/SF** | $250-400/SF | Standard $450/SF; luxury $600/SF; ~$400/SF condo; ~$437/SF micro-villa | Premium justified by regenerative platform |
-| **Conservation** | 10-25% (typical) | 49% permanently preserved (184.5 acres); ~4.3% structural footprint | Abundancia |
+| **Price/SF** | $250-400/SF | Standard $450/SF; luxury $600/SF; $450/SF condo; ~$437/SF micro-villa | Premium justified by regenerative platform |
+| **Conservation** | 10-25% (typical) | 49% permanently preserved (184.5 acres); 3.64% structural footprint | Abundancia |
 | **Sustainability** | Minimal (standard construction) | Carbon-sequestering, non-toxic hempcrete | Abundancia |
 | **Energy** | Grid-dependent | Solar + battery; geothermal-ready | Abundancia |
 | **Food systems** | None | 42 acres regenerative agriculture + 8.5 acres permaculture gardens | Abundancia |
@@ -281,7 +281,7 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 
 | Feature | Detail | Abundancia Comparison |
 |---------|--------|----------------------|
-| **Conservation model** | 70% greenspace preserved; 25-acre organic farm | 49% permanently preserved (184.5 acres, ~4.3% structural footprint); 42 acres regenerative agriculture + 8.5 acres permaculture gardens |
+| **Conservation model** | 70% greenspace preserved; 25-acre organic farm | 49% permanently preserved (184.5 acres, 3.64% structural footprint); 42 acres regenerative agriculture + 8.5 acres permaculture gardens |
 | **Architecture** | Biophilic design; Southern vernacular | Hempcrete; regenerative modern |
 | **Farm-to-table** | The Farmhouse restaurant; community farm | On-site restaurant; food forests; community agriculture |
 | **Wellness** | Serenbe Wellness (spa, fitness) | Full retreat center, ceremony spaces, yoga pavilion |
@@ -317,7 +317,7 @@ Serenbe is the gold-standard national benchmark for conservation-community devel
 
 | Feature | Abundancia | Whisper Valley | The Sanctuary | Serenbe (GA) | Dripping Springs (Avg.) |
 |---------|:-----------------:|:--------------:|:------------:|:------------:|:----------------------:|
-| **Conservation %** | 49% permanently preserved (~4.3% structural footprint) | 15-20% | [TO CONFIRM] | 70% | 10-25% |
+| **Conservation %** | 49% permanently preserved (3.64% structural footprint) | 15-20% | [TO CONFIRM] | 70% | 10-25% |
 | **Hempcrete construction** | Yes | No | [TO CONFIRM] | No | No |
 | **Carbon-sequestering building** | Yes | No | [TO CONFIRM] | No | No |
 | **Community solar** | Yes | Yes (geothermal + solar) | [TO CONFIRM] | Partial | No |
@@ -416,7 +416,7 @@ The following framework positions Abundancia relative to competitors on two axes
 | Strength | Detail | Competitive Impact |
 |----------|--------|-------------------|
 | **Only hempcrete community in Texas** | No competitor offers carbon-sequestering hempcrete construction at community scale | Unique market position; measurable ESG differentiation |
-| **49% permanent conservation; ~4.3% structural footprint** | Among the highest conservation ratios of any development in Austin MSA (184.5 of 376 acres) | Scarcity premium; environmental credibility; Houston toad / Lost Pines HCP conservation-subdivision pathway |
+| **49% permanent conservation; 3.64% structural footprint** | Among the highest conservation ratios of any development in Austin MSA (184.5 of 376 acres) | Scarcity premium; environmental credibility; Houston toad / Lost Pines HCP conservation-subdivision pathway |
 | **Integrated food systems** | 42 acres regenerative agriculture + 8.5 acres permaculture gardens; farm-to-table dining; food forests | No competitor offers anything comparable within 100 miles |
 | **Layered infrastructure resilience** | Solar + battery + layered water (Aqua WSC, wells, rainwater, AWG, greywater) + fiber | Climate resilience story; lower operating costs |
 | **Diversified product mix** | 5+ housing types from ~$141K micro-villas to $3.3M luxury estates | Broader addressable market; absorption resilience across cycles |
@@ -490,11 +490,11 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 | **Market position** | Only hempcrete community in Texas; one of fewer than 10 in the United States |
 | **Performance advantages** | R-30+ insulation, 2+ hour fire rating, hygroscopic moisture management, 500+ year lifespan, naturally pest-resistant |
 
-#### Differentiator 2: Conservation-First Land Planning (49% preserved; ~4.3% structural footprint)
+#### Differentiator 2: Conservation-First Land Planning (49% preserved; 3.64% structural footprint)
 
 | Aspect | Detail |
 |--------|--------|
-| **What** | 184.5 of 376 acres (49%) permanently preserved; structures occupy only ~16.1 acres (~4.3% of the land) |
+| **What** | 184.5 of 376 acres (49%) permanently preserved; structures occupy only 13.70 acres (3.64% of the land) |
 | **Why it matters** | Creates scarcity, premium pricing, ecological credibility, and Houston toad / Lost Pines HCP alignment (conservation-subdivision pathway) |
 | **Competitive barrier** | Requires willingness to leave revenue-generating land undeveloped; fundamentally different economics |
 | **Market comparison** | Whisper Valley: 15-20%; Serenbe: 70% greenspace; Conventional: 5-15% |
@@ -535,7 +535,7 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 | Differentiator | Durability | Replicability | Investment to Replicate | Time to Replicate |
 |----------------|:----------:|:-------------:|:----------------------:|:-----------------:|
 | Hempcrete construction | High | Low | $2-5M (expertise, supply chain, labor training) | 2-3 years |
-| 49% permanent conservation (~4.3% structural footprint) | High | Medium | Requires land acquisition at favorable basis | 1-2 years |
+| 49% permanent conservation (3.64% structural footprint) | High | Medium | Requires land acquisition at favorable basis | 1-2 years |
 | Integrated food systems | High | Medium | $1-3M + agricultural expertise | 2-4 years |
 | Wellness community infrastructure | Medium | Medium | $3-5M + programming network | 1-2 years |
 | Complete infrastructure independence | Medium | Medium-High | $2-4M (engineering + systems) | 1-2 years |
@@ -549,7 +549,7 @@ Abundancia's competitive strategy is built on five differentiators that are diff
 
 ### 10.1 Positioning Statement
 
-**For** wellness-oriented professionals, eco-conscious families, and impact-driven investors **in the Austin metropolitan area and beyond**, **Abundancia** is a **category-of-one, full-stack regenerative wellness community in Central Texas** that **delivers authentic carbon-sequestering construction, food sovereignty, layered infrastructure resilience, and deep wellness programming** on 376 acres in the Lost Pines region of Bastrop County. **Unlike** conventional luxury developments that offer cosmetic sustainability features, and unlike small-scale eco-villages that lack infrastructure and financial sophistication, **Abundancia** is the first community in Texas to integrate hempcrete construction, 184.5 acres (49%) of permanently preserved land with only ~4.3% structural footprint, permaculture food systems, community energy resilience, and institutional-grade governance into a single, scalable model.
+**For** wellness-oriented professionals, eco-conscious families, and impact-driven investors **in the Austin metropolitan area and beyond**, **Abundancia** is a **category-of-one, full-stack regenerative wellness community in Central Texas** that **delivers authentic carbon-sequestering construction, food sovereignty, layered infrastructure resilience, and deep wellness programming** on 376 acres in the Lost Pines region of Bastrop County. **Unlike** conventional luxury developments that offer cosmetic sustainability features, and unlike small-scale eco-villages that lack infrastructure and financial sophistication, **Abundancia** is the first community in Texas to integrate hempcrete construction, 184.5 acres (49%) of permanently preserved land with only 3.64% structural footprint, permaculture food systems, community energy resilience, and institutional-grade governance into a single, scalable model.
 
 ### 10.2 Positioning Map — Key Axes
 
