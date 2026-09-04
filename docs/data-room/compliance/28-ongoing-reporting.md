@@ -55,8 +55,8 @@ This Ongoing Reporting Framework establishes the comprehensive reporting obligat
 | Issuer | Abundancia Community LLC (Delaware LLC, manager-managed) |
 | Manager | New Earth Development LLC |
 | Manager CEO | Kelly Krezek |
-| Securities | Class A Membership Interest Units (approximately 103 Units at $50,000 per Unit) |
-| Total Raise | Approximately $5,154,032 Class A/LP equity (Phase 1); total Phase-1 capitalization $13,354,032 (≈$5,154,032 LP equity + $500,000 GP co-investment + $7,700,000 construction debt at 8.5%) |
+| Securities | Class A Membership Interest Units, and, for Election B investors, Secured Promissory Notes (Document 30) |
+| Total Raise | Approximately $7,739,072 (Election A) or $3,739,072 (Election B) Class A/LP equity (Phase 1); total Phase-1 capitalization $15,939,072, identical under both Elections (Election A: ≈$7,739,072 LP equity + $500,000 GP co-investment + $7,700,000 construction debt; Election B: $3,739,072 LP equity + $4,000,000 secured notes + $500,000 GP co-investment + $7,700,000 construction debt) |
 | Regulation | Regulation D, Rule 506(c) (subject to final structuring and securities counsel review) |
 | Project | Regenerative community, 376 acres, Cedar Creek, Bastrop County, Texas |
 
@@ -154,7 +154,7 @@ Each Quarterly Report shall contain the following sections:
 | Net Asset Value (NAV) | Estimated NAV per Unit based on current project valuation |
 | Distribution History | Cumulative distributions per Unit to date |
 
-*Suggested addition (July 2026 review): baseline published projections against which actuals will be compared — Phase 1: 10-year LP IRR 32.1%, equity multiple 2.88x; 5-year LP IRR 25.7%, equity multiple 1.79x (5-year figures are an interim snapshot — the construction loan is not repaid at Year 5) (per the Company's Phase-1 equity waterfall; subject to final documentation).*
+*Baseline published projections against which actuals will be compared — Phase 1, Election A: 10-year LP IRR 26.02%, equity multiple 2.449x; 5-year LP IRR 20.07%, equity multiple 1.6515x. Election B: 10-year LP IRR 34.81%, equity multiple 3.655x; 5-year LP IRR 28.04%, equity multiple 2.104x (per the Company's Phase-1 equity waterfall models; subject to final documentation; see Document 33).*
 
 **Section E: Risk and Compliance**
 
@@ -797,7 +797,7 @@ During active construction, the Company shall distribute a monthly construction 
 
 | Category | Budget Amount | Purpose |
 |----------|-------------|---------|
-| Land Acquisition | $[________] | Acquisition of the 376-acre property, Cedar Creek, Bastrop County (modeled scenario: $6.5M price, 20% down, ~5% closing, 8% land loan — subject to final terms) |
+| Land Acquisition | $[________] | Acquisition of the 376-acre property, Cedar Creek, Bastrop County (modeled scenario: $6.5M price, 40% down, ~5% closing, 8% land loan — subject to final terms) |
 | Site Development | $[________] | Grading, utilities, roads, infrastructure |
 | Architecture and Engineering | $[________] | Design, engineering, permitting |
 | Construction (Hard Costs) | $[________] | Building construction, materials, labor |
@@ -806,7 +806,7 @@ During active construction, the Company shall distribute a monthly construction 
 | Soft Costs | $[________] | Legal, accounting, insurance, marketing |
 | Contingency | $[________] | Contingency reserve (10% per the financial model) |
 | Working Capital Reserve | $[________] | Pre-opening and initial operating reserve |
-| **Total Project Budget** | **$13,354,032 (Phase-1 capitalization)** | Full Project (all phases) context: total expenses $251,605,403 |
+| **Total Project Budget** | **$15,939,072 (Phase-1 capitalization, identical under both Elections)** | Full Project (all phases) context: total expenses $242,509,325 |
 
 ### 11.4 Variance Reporting Thresholds
 
@@ -943,7 +943,7 @@ Each Quarterly Report shall include a schedule of management fees and other comp
 
 | Fee Type | Basis | Amount Paid (Quarter) | Amount Paid (YTD) |
 |----------|-------|----------------------|-------------------|
-| Developer Fee | 4% of Phase-1 capitalization ($534,161), paid from operating cash flow | $[reported per period] | $[reported YTD] |
+| Developer Fee | Election A: $637,563 (4% of $15,939,072). Election B: $477,563. Paid from operating cash flow | $[reported per period] | $[reported YTD] |
 | Asset Management Fee | None (not charged) | $0 | $0 |
 | Development Management Fee | None (not charged) | $0 | $0 |
 | Property Management Fee | None (not charged) | $0 | $0 |

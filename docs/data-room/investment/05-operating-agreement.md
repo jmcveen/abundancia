@@ -70,7 +70,7 @@ B. The Members desire to enter into this Agreement to set forth their respective
 
 C. The Company intends to acquire, develop, and manage a 376-acre regenerative master-planned community located at 176 Cedar Creek Circle, Cedar Creek, Bastrop County, Texas (the "Project"), as more fully described in the Private Placement Memorandum dated July 2026 (the "Memorandum").
 
-D. The Company is raising approximately Five Million One Hundred Fifty-Four Thousand Thirty-Two Dollars ($5,154,032) of Class A LP equity capital through a Regulation D, Rule 506(c) offering of Class A Units to accredited investors, as part of a $13,354,032 Phase 1 total capitalization (together with a $500,000 GP co-investment invested pari passu with the Class A LP equity and $7,700,000 of Phase 1 construction debt at 8.5%, 10-year fully amortizing). The offering funds Phase 1 of the Project's master plan; the Memorandum presents projected Phase 1 LP returns of a 32.1% IRR and a 2.88x equity multiple over a 10-year hold (projections only — not guaranteed). All terms are subject to final documentation and review by securities counsel.
+D. The Company is raising a $15,939,072 Phase 1 total capitalization through a Regulation D, Rule 506(c) offering, structured as one of two investor Elections (Document 34): Election A — approximately Seven Million Seven Hundred Thirty-Nine Thousand Seventy-Two Dollars ($7,739,072) of Class A LP equity, together with a $500,000 GP co-investment invested pari passu and $7,700,000 of Phase 1 construction debt at 8.5%, 10-year fully amortizing; or Election B — approximately Three Million Seven Hundred Thirty-Nine Thousand Seventy-Two Dollars ($3,739,072) of Class A LP equity, together with $4,000,000 of Secured Promissory Notes (Documents 30-31), the same $500,000 GP co-investment, and the same $7,700,000 construction debt. The offering funds Phase 1 of the Project's master plan; the Memorandum presents projected Phase 1 LP returns of a 26.02% IRR and a 2.449x equity multiple (Election A) or a 34.81% IRR and a 3.655x equity multiple (Election B) over a 10-year hold (projections only — not guaranteed). All terms are subject to final documentation and review by securities counsel.
 
 NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Members agree as follows:
 
@@ -126,7 +126,7 @@ The Company is organized for the following purposes:
 
 (b) To develop, design, and master plan the property as a regenerative community featuring hempcrete residential construction, regenerative agriculture, renewable energy systems, and community-centered design;
 
-(c) To construct, market, and sell single-family homes, tiny homes, geodesic dome residences, multifamily units, and finished building lots;
+(c) To construct, market, and sell single-family homes, micro-villas, geodesic dome residences, multifamily units, and finished building lots;
 
 (d) To acquire, develop, and operate a portfolio of rental housing units for recurring income;
 
@@ -182,7 +182,7 @@ Membership interests in the Company shall not be represented by certificates. Th
 
 (b) The admission of additional Limited Partners shall not require the consent of existing Limited Partners.
 
-(c) The Manager may admit additional Limited Partners through rolling closings until the maximum Class A offering amount of approximately $5,154,032 (approximately 103 Units) has been reached or the offering period has expired.
+(c) The Manager may admit additional Limited Partners through rolling closings until the maximum Class A offering amount of approximately $7,739,072 (Election A) or $3,739,072 (Election B) has been reached or the offering period has expired.
 
 ### Section 3.6 — No Authority of Limited Partners
 
@@ -354,7 +354,7 @@ The Manager and its affiliates shall receive the following compensation in conne
 
 | Fee | Amount | Timing | Calculation Basis |
 |---|---|---|---|
-| **Developer Fee** | 4% ($534,161) | Paid from operating cash flow (first year cash flow allows) | Phase 1 total capitalization ($13,354,032) |
+| **Developer Fee** | Election A: $637,563 (4%). Election B: $477,563. | Paid from operating cash flow (first year cash flow allows) | Election A: full Phase 1 total capitalization ($15,939,072). Election B: $11,939,072 (excludes notes tranche) [TO CONFIRM]. |
 | **Carried Interest / Promote** | Per Article VIII waterfall | As distributions are made | Tiered promote on profits above the 10% cumulative preferred return and return of capital |
 | **Management Fee** | None (not charged) | N/A | Not charged — preserves projected LP economics |
 | **Acquisition Fee** | None (not charged) | N/A | Not charged — preserves projected LP economics |
@@ -364,7 +364,7 @@ The Manager and its affiliates shall receive the following compensation in conne
 | **Asset Management Fee** | None (not charged) | N/A | Not charged — preserves projected LP economics |
 
 **Developer Fee Detail:**
-- Developer fee: 4% of the $13,354,032 Phase 1 total capitalization = $534,161, paid from operating cash flow in the first year cash flow allows
+- Developer fee: Election A: 4% of the $15,939,072 Phase 1 total capitalization = $637,563. Election B: $477,563 [TO CONFIRM — fee base excludes notes tranche in the source workbook; confirm intent]. Paid from operating cash flow as first-year cash flow allows.
 - The Developer Fee does not reduce the Limited Partners' capital basis
 - The General Partner has committed a $500,000 GP co-investment, invested pari passu with the Class A LP equity
 - All fee and co-investment arrangements are subject to final documentation and review by securities counsel

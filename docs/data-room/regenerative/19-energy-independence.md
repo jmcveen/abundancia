@@ -53,7 +53,7 @@ Each home will have a dedicated solar array (8-12 kW) and battery storage (13.5-
 
 At full buildout, the energy system is projected to generate $400,000-$800,000 annually in avoided electricity costs and net metering revenue, with a system-level payback period of 7-10 years before incentives and 4-6 years after federal and state incentives. Solar and battery systems are capitalized within the project financial model.
 
-*Note: System sizing throughout this document reflects a 200-home planning scenario. Final generation, storage, and distribution sizing will be engineered for the full program (~501 structures + estate lots) [TO CONFIRM — engineering review]. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with energy-system build-out scaling across later phases.*
+*Note: System sizing throughout this document reflects a 200-home planning scenario. Final generation, storage, and distribution sizing will be engineered for the full program (511 structures + estate lots) [TO CONFIRM — engineering review]. The current investment offering funds Phase 1 only — community facilities, 50 short-term nature stays, 60 tiny homes, and 80 residential lots — with energy-system build-out scaling across later phases.*
 
 ---
 

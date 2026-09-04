@@ -191,7 +191,7 @@ Austin's affordability crisis is a primary demand driver for Bastrop County. As 
 | **Median Home Price** | $545,000 | $340,977 | $204,000 (37%) |
 | **Price/SF (new construction)** | $310/SF | $187/SF | $123/SF (40%) |
 | **Property Tax Rate** | ~2.1% | ~1.8% | 14% lower |
-| **Monthly PITI (median home, 20% down)** | $3,680 | $2,380 | $1,300/mo (35%) |
+| **Monthly PITI (median home, 40% down)** | $3,680 | $2,380 | $1,300/mo (35%) |
 | **Income Required (28% DTI)** | $157,700 | $102,000 | $55,700 lower threshold |
 | **Median Lot Price (0.25 acre)** | $175,000+ | $75,000 | $100,000+ (57%) |
 | **Commute to Downtown Austin** | 0-20 min | 30-40 min | Moderate trade-off |
@@ -496,7 +496,7 @@ Carbon credits and sequestration verification create a potential incremental rev
 
 ## 8. Target Buyer Personas
 
-*Note: Persona-level price points below are directional and are being restated to the financial model's per-type pricing (homes from approximately $450/SF; SFR blended ~$566/SF; condos ~$400/SF; tiny homes ~$416/SF, ~$104K-$166K; average lot ~$229K).*
+*Note: Persona-level price points below are directional and are being restated to the financial model's per-type pricing (standard SFR $450/SF, $450K-$1.35M; luxury estate $600/SF, $2.10M-$3.30M; condos $450/SF; micro-villas ~$437/SF, avg $141,520; average lot ~$150K).*
 
 ### 8.1 Primary Buyer Personas
 
@@ -615,17 +615,18 @@ Carbon credits and sequestration verification create a potential incremental rev
 
 ### 9.1 Pricing Strategy Overview
 
-Abundancia employs a differentiated pricing strategy that positions each product type above standard Bastrop County market pricing but below premium Austin corridor (Dripping Springs, Lake Travis) and national conservation community (Serenbe) pricing. Homes are positioned "from approximately $450/SF" as the entry anchor. The premium is justified by the depth of community infrastructure, conservation setting, regenerative building materials, and lifestyle amenity package.
+Abundancia employs a differentiated pricing strategy that positions each product type above standard Bastrop County market pricing but below premium Austin corridor (Dripping Springs, Lake Travis) and national conservation community (Serenbe) pricing. Homes are split into a standard tier ($450/SF) and a luxury tier ($600/SF). The premium is justified by the depth of community infrastructure, conservation setting, regenerative building materials, and lifestyle amenity package.
 
-### 9.2 Pricing by Product Type (per financial model)
+### 9.2 Pricing by Product Type (per financial model, revised 2026-09)
 
 | Product Type | Abundancia Pricing (model) | Bastrop County Comparable | Context |
 |-------------|----------------------|--------------------------|--------------------------------------|
-| **Single-Family Hempcrete Home** | From ~$450/SF (entry anchor); blended realized ~$566/SF | $320K-480K ($187/SF county median — Redfin 5/2026) | Austin $1M+ homes avg $423/SF (Texas Realtors 2025); Barton Creek ~$553-802/SF; West Lake Hills ~$756/SF |
-| **Condominium** | Blended ~$400/SF | $180K-320K ($250-280/SF) | 200 for-sale condos in program (1BR 600SF / 2BR 850SF / 3BR 1,250SF); 275 condos total incl. 75 rental |
-| **Tiny Home** | ~$104K-$166K (~$416/SF) | $85K-175K ($250-350/SF) | 60 tiny homes (studio 232SF to 2BR 416SF) |
-| **Estate Lot** | Lot revenue per model | $55K-95K ($250-450K/acre) | 100 estate lots (full project); lot revenue $22.87M modeled 2028-2029 |
-| **Nature Stays (nightly)** | Glamping tents $150/nt; domes $275/nt; high-end domes $375/nt | — | 50 nature stays in rental program |
+| **Single-Family Home (standard, 1-5BR)** | $450/SF ($450,000-$1,350,000) | $320K-480K ($187/SF county median — Redfin 5/2026) | 90 homes |
+| **Luxury Estate (5-7BR)** | $600/SF ($2,100,000-$3,300,000) | — | 10 homes; Austin $1M+ homes avg $423/SF (Texas Realtors 2025); Barton Creek ~$553-802/SF; West Lake Hills ~$756/SF |
+| **Condominium** | $450/SF | $180K-320K ($250-280/SF) | 200 for-sale condos in program (1BR 600SF / 2BR 850SF / 3BR 1,250SF); 275 condos total incl. 75 rental |
+| **Micro-Villa** | ~$437/SF (avg $141,520/unit) | $85K-175K ($250-350/SF) | 60 micro-villas |
+| **Estate Lot** | ~$150K average | $55K-95K ($250-450K/acre) | 100 lots total (80 Phase 1 / 20 Phase 2); lot revenue $14.30M modeled full-project 10-yr (Phase-1: $10.82M, 2028-2029) |
+| **Nature Stays (nightly)** | Glamping tents $150/nt; domes $275/nt; high-end domes $375/nt | — | STR/nature-stay units in rental program |
 
 ### 9.3 Premium Justification Framework
 
@@ -633,7 +634,7 @@ The Abundancia premium is decomposed into quantifiable value components:
 
 | Value Component | Estimated Premium Contribution | Basis |
 |----------------|:------------------------------:|-------|
-| **Conservation setting (49% permanently preserved; ~4.3% structural footprint)** | 8-12% | Serenbe commands wellness-agrihood premiums with 70% greenspace; Abundancia is conservatively benchmarked |
+| **Conservation setting (49% permanently preserved; 3.64% structural footprint)** | 8-12% | Serenbe commands wellness-agrihood premiums with 70% greenspace; Abundancia is conservatively benchmarked |
 | **Community infrastructure (solar, fiber, water)** | 3-5% | Whisper Valley demonstrates east-Austin demand for zero-energy infrastructure |
 | **Amenity package (retreat operations, village, food forests)** | 3-6% | Serenbe amenity premiums documented |
 | **Hempcrete construction premium** | 2-4% | Superior performance (R-30+, fire rating, longevity); growing buyer awareness |
@@ -679,13 +680,13 @@ Absorption rate projections are derived from three analytical approaches:
 |-------|------|:--------:|:---------:|:--------:|:----:|:------:|:------------|
 | Predevelopment | 2026 | — | — | — | — | — | DD, watershed/hydrology, land closing, entitlements, MUD, capital close |
 | Groundbreaking | 2027 | — | — | — | — | — | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture |
-| First revenue | 2028 | Sales launch (model home) | 60 delivered | — | Lot sales launch | — | Hospitality opens; lot revenue $22.87M modeled 2028-2029 |
+| First revenue | 2028 | Sales launch (model home) | 60 delivered | — | Lot sales launch | — | Hospitality opens; lot revenue $10.82M modeled 2028-2029 (Phase 1's 80 lots) |
 | Scale-up | 2029 | 30 | — | 80 | Lot sales complete | 25 | School delivered |
 | Village | 2030 | 40 | — | 60 | — | 25 | Village + temple delivered |
-| Completion | 2031 | 30 (estate homes) | — | 60 | — | 25 | Construction complete |
-| **Total** | | **100** | **60** | **200 for sale** | **100 estate lots** | **75 rental condos** | **360 for-sale residences + 100 estate lots** |
+| Completion | 2031 | 30 (10 luxury estate + 20 standard) | — | 60 | — | 25 | Construction complete |
+| **Total** | | **100 (90 standard + 10 luxury)** | **60** | **200 for sale** | **100 estate lots (80 Phase 1 / 20 Phase 2)** | **75 rental condos** | **360 for-sale residences + 100 estate lots** |
 
-Modeled sale revenue: residential sales $249,152,934 + lot sales $22,872,273 = $272.0M (of $323.4M total 10-year revenue including rentals and commercial). First revenue 2028; cumulative break-even in 2029.
+Modeled sale revenue: residential sales $226,913,159 + lot sales $14,295,171 = $239.8M (of $304.8M total 10-year revenue including rentals and commercial). First revenue 2028.
 
 ### 10.3 Absorption Scenario Analysis
 
@@ -756,7 +757,7 @@ Modeled sale revenue: residential sales $249,152,934 + lot sales $22,872,273 = $
 |------|:-----------:|:------:|------------|
 | **Hempcrete supply chain disruption** | Low-Medium | Medium | Multiple supplier relationships; domestic hemp processing scaling; inventory buffer |
 | **MUD bond issuance delay** | Low | Medium | Alternative infrastructure financing (private capital, phased investment); smaller initial scope |
-| **Environmental compliance (Houston toad)** | Low | High | Lost Pines HCP conservation-subdivision pathway; 184.5 acres (49%) permanently preserved with ~4.3% structural footprint; biologist on team |
+| **Environmental compliance (Houston toad)** | Low | High | Lost Pines HCP conservation-subdivision pathway; 184.5 acres (49%) permanently preserved with 3.64% structural footprint; biologist on team |
 | **Community governance disputes** | Medium | Low-Medium | Clear governing documents; professional community management; conflict resolution framework |
 | **Brand / reputation risk** | Low | Medium | Authentic regenerative practices; third-party certifications; transparent reporting |
 | **Key-person risk (management)** | Medium | Medium | Deep management bench; documented systems and processes; advisory board |
