@@ -1,11 +1,13 @@
-'use client'
-
-import { VaultGate } from '@/components/auth/VaultGate'
 import type { ReactNode } from 'react'
 
+/**
+ * Access to everything under /data-room is enforced in `src/middleware.ts`,
+ * which verifies a signed httpOnly cookie BEFORE any document HTML is served.
+ *
+ * The previous client-side <VaultGate> wrapper was removed deliberately: it
+ * rendered the documents into the payload and only hid them visually, so the
+ * full text of every document was retrievable with `curl` and no access code.
+ */
 export default function DataRoomLayout({ children }: { children: ReactNode }) {
-  // Single unlock code for the investor data room (VaultGate = 7777).
-  // The prior AuthGate layer (password / admin PIN) was removed so investors
-  // enter one code, not two.
-  return <VaultGate>{children}</VaultGate>
+  return <>{children}</>
 }
