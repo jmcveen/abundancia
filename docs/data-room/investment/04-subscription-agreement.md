@@ -59,11 +59,11 @@ and
 
 ### RECITALS
 
-WHEREAS, the Company is offering Class A Units (the "Units") at a price of Fifty Thousand Dollars ($50,000) per Unit, for a maximum aggregate offering amount of approximately Five Million One Hundred Fifty-Four Thousand Thirty-Two Dollars ($5,154,032) of Class A LP equity (approximately 103 Units) — part of the Company's $13,354,032 Phase 1 total capitalization (together with a $500,000 GP co-investment invested pari passu with the Class A LP equity and $7,700,000 of Phase 1 construction debt at 8.5%, 10-year fully amortizing) — pursuant to Regulation D, Rule 506(c) under the Securities Act of 1933, as amended (the "Securities Act"), with all offering terms subject to final documentation and review by securities counsel;
+WHEREAS, the Company is offering Class A Units (the "Units") at a price of Fifty Thousand Dollars ($50,000) per Unit, for a maximum aggregate Class A LP equity offering amount of approximately Seven Million Seven Hundred Thirty-Nine Thousand Seventy-Two Dollars ($7,739,072) (Election A) or Three Million Seven Hundred Thirty-Nine Thousand Seventy-Two Dollars ($3,739,072) (Election B) — part of the Company's $15,939,072 Phase 1 total capitalization (identical under both Elections; together with a $500,000 GP co-investment invested pari passu with the Class A LP equity, $7,700,000 of Phase 1 construction debt at 8.5%, 10-year fully amortizing, and, under Election B, $4,000,000 of Secured Promissory Notes in lieu of a portion of Class A LP equity) — pursuant to Regulation D, Rule 506(c) under the Securities Act of 1933, as amended (the "Securities Act"), with all offering terms subject to final documentation and review by securities counsel;
 
-WHEREAS, the Subscriber desires to subscribe for the number of Units set forth on the signature page hereof and to become a Limited Partner (a Class A Member) of the Company, subject to the terms and conditions set forth herein and in the Operating Agreement of the Company dated July 2026 (the "Operating Agreement");
+WHEREAS, the Subscriber desires to subscribe for the number of Units set forth on the signature page hereof and to become a Limited Partner (a Class A Member) of the Company, and has completed the accompanying Investor Election Notice (Document 34) selecting Election A or Election B, subject to the terms and conditions set forth herein and in the Operating Agreement of the Company dated July 2026 (the "Operating Agreement");
 
-WHEREAS, the Company has furnished the Subscriber with a Private Placement Memorandum dated July 2026 (the "Memorandum"), the Operating Agreement, the Executive Summary, and the Investor Presentation (collectively, the "Offering Documents"), and the Subscriber has had a full and fair opportunity to review such documents and to ask questions of the Manager concerning the terms and conditions of this investment;
+WHEREAS, the Company has furnished the Subscriber with a Private Placement Memorandum dated September 2026 (the "Memorandum"), the Operating Agreement, the Executive Summary, the Investor Presentation, the Key Figures Sheet (Document 33), and, if electing Election B, the Secured Promissory Note Term Sheet and Form of Note (Documents 30-31) (collectively, the "Offering Documents"), and the Subscriber has had a full and fair opportunity to review such documents and to ask questions of the Manager concerning the terms and conditions of this investment;
 
 NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
 
@@ -77,7 +77,7 @@ The Subscriber hereby irrevocably subscribes for and agrees to purchase the numb
 
 ### 1.2 The Offering
 
-The Company is offering up to approximately $5,154,032 in Class A Units (the "Offering") — the Class A LP equity component of the Company's $13,354,032 Phase 1 total capitalization — pursuant to Section 4(a)(2) of the Securities Act and Rule 506(c) of Regulation D promulgated thereunder, subject to final documentation and review by securities counsel. The Offering funds Phase 1 of the Abundancia master plan; later phases are presented in the Offering Documents as master-plan context and potential future upside. The Offering is limited exclusively to persons who are "accredited investors" as defined in Rule 501(a) of Regulation D. General solicitation and general advertising are permitted under Rule 506(c), provided that the Company takes reasonable steps to verify each investor's accredited investor status.
+The Company is offering up to approximately $7,739,072 (Election A) or $3,739,072 (Election B) in Class A Units (the "Offering") — the Class A LP equity component of the Company's $15,939,072 Phase 1 total capitalization, identical under both Elections — pursuant to Section 4(a)(2) of the Securities Act and Rule 506(c) of Regulation D promulgated thereunder, subject to final documentation and review by securities counsel. Subscribers electing Election B also acquire Secured Promissory Notes (Documents 30-31) for a portion of their investment. The Offering funds Phase 1 of the Abundancia master plan; later phases are presented in the Offering Documents as master-plan context and potential future upside. The Offering is limited exclusively to persons who are "accredited investors" as defined in Rule 501(a) of Regulation D. General solicitation and general advertising are permitted under Rule 506(c), provided that the Company takes reasonable steps to verify each investor's accredited investor status.
 
 ### 1.3 Minimum Investment
 
@@ -167,7 +167,7 @@ The Subscriber acknowledges, understands, and agrees that:
 
 (a) The financial projections, pro forma statements, and forward-looking statements contained in the Offering Documents are estimates and assumptions that the Company believes to be reasonable but that may not prove to be correct. Actual results may differ materially from those projected.
 
-(b) There is no guarantee that the Company will achieve the projected Phase 1 LP internal rate of return of 32.1% (10-year) or 25.7% (5-year interim), the projected LP equity multiple of 2.88x (10-year) or 1.79x (5-year interim), or any positive return whatsoever. These figures are projections only. The 5-year figures are an interim snapshot, not a separate hold scenario: the construction loan is not repaid at year 5.
+(b) There is no guarantee that the Company will achieve the projected Phase 1 LP internal rate of return of 26.02% (10-year) or 20.07% (5-year interim) under Election A, or 34.81% (10-year) or 28.04% (5-year interim) under Election B, the corresponding projected LP equity multiples of 2.449x / 1.6515x (Election A) or 3.655x / 2.104x (Election B), or any positive return whatsoever. These figures are projections only, from the applicable Election's equity waterfall model. See Document 33 (Key Figures Sheet).
 
 (c) The Subscriber may lose part or all of the Subscription Amount. An investment in the Units involves a high degree of risk, including the potential for total loss of invested capital.
 
@@ -744,6 +744,7 @@ All representations, warranties, covenants, agreements, indemnification obligati
 | **Number of Units Subscribed** | ______________________________________________ |
 | **Price Per Unit** | $50,000.00 |
 | **Total Subscription Amount** | $_____________________________________________ |
+| **Election (see Document 34, attached)** | ☐ Election A — All-Equity   ☐ Election B — Secured Notes |
 
 ### 13.5 Distribution Payment Instructions
 

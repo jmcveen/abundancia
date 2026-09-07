@@ -95,7 +95,7 @@ Each party represents that it has full legal capacity and corporate or organizat
 
 **WHEREAS**, the Company is conducting a private offering (the "Offering") of membership interest units (the "Units") in the Company pursuant to Regulation D, Rule 506(c) promulgated under the Securities Act of 1933, as amended (the "Securities Act");
 
-**WHEREAS**, the Offering contemplates the sale of Units representing Class A membership interests for a maximum aggregate offering amount of approximately Five Million One Hundred Fifty-Four Thousand Thirty-Two Dollars ($5,154,032) (approximately 103 Units at $50,000 per Unit), relating to Phase 1 of the development program, as part of a total Phase-1 capitalization of $13,354,032 (approximately $5,154,032 Class A/LP equity, $500,000 GP co-investment, and $7,700,000 construction debt), with offering terms subject to final structuring and review by securities counsel;
+**WHEREAS**, the Offering contemplates the sale of Units representing Class A membership interests for a maximum aggregate offering amount of approximately Seven Million Seven Hundred Thirty-Nine Thousand Seventy-Two Dollars ($7,739,072) under Election A or Three Million Seven Hundred Thirty-Nine Thousand Seventy-Two Dollars ($3,739,072) under Election B, relating to Phase 1 of the development program, as part of a total Phase-1 capitalization of $15,939,072 (identical under both Elections; Election A: approximately $7,739,072 Class A/LP equity, $500,000 GP co-investment, and $7,700,000 construction debt; Election B: $3,739,072 Class A/LP equity, $4,000,000 Secured Promissory Notes, $500,000 GP co-investment, and $7,700,000 construction debt), with offering terms subject to final structuring and review by securities counsel;
 
 **WHEREAS**, the Offering is limited exclusively to verified accredited investors as defined in Rule 501(a) of Regulation D and verified in accordance with Rule 506(c);
 
@@ -120,9 +120,9 @@ The purpose of this escrow arrangement is to:
 | Manager | New Earth Development LLC |
 | Manager CEO | Kelly Krezek |
 | Securities Offered | Class A Membership Interest Units |
-| Maximum Units | Approximately 103 |
+| Maximum Units | Approximately 155 (Election A) or 75 (Election B) |
 | Price Per Unit | $50,000 |
-| Maximum Offering Amount | Approximately $5,154,032 Class A/LP equity; total Phase-1 capitalization $13,354,032 |
+| Maximum Offering Amount | Approximately $7,739,072 (Election A) or $3,739,072 (Election B) Class A/LP equity; total Phase-1 capitalization $15,939,072, identical under both Elections |
 | Minimum Investment | $50,000 (one Unit) |
 | Regulation | Regulation D, Rule 506(c) |
 | Investor Qualification | Verified Accredited Investors Only |
@@ -451,7 +451,7 @@ The Minimum Raise Threshold has been established to ensure that sufficient capit
 | Contingency reserve | [TO CONFIRM] |
 | **Total Minimum Raise** | **[TO CONFIRM]** |
 
-*Use-of-proceeds allocations will be finalized in the Offering Documents consistent with the Company's Phase-1 financial model (total Phase-1 capitalization of $13,354,032, comprising approximately $5,154,032 LP equity, $500,000 GP co-investment, and $7,700,000 construction debt).*
+*Use-of-proceeds allocations will be finalized in the Offering Documents consistent with the Company's Phase-1 financial models (total Phase-1 capitalization of $15,939,072, identical under both Elections; Election A: approximately $7,739,072 LP equity, $500,000 GP co-investment, and $7,700,000 construction debt; Election B: $3,739,072 LP equity, $4,000,000 Secured Promissory Notes, $500,000 GP co-investment, and $7,700,000 construction debt).*
 
 ### 8.3 Threshold Deadline
 

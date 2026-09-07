@@ -9,9 +9,9 @@
 ---
 
 **Document 29** | Data Room - Property Documents
-**Date:** July 2026
+**Date:** September 2026
 **Classification:** Confidential - Investor Distribution Only
-**Version:** 2.0
+**Version:** 3.0
 **Prepared by:** Abundancia Community LLC
 
 ---
@@ -41,7 +41,7 @@
 
 ## 1. Executive Summary
 
-Abundancia is a regenerative community development on **376 acres at 176 Cedar Creek Circle, Cedar Creek, TX** (unincorporated Bastrop County), in the Lost Pines ecoregion on the SH-71 corridor — 15-20 minutes from Austin-Bergstrom International Airport and 30-40 minutes from downtown Austin. The full master plan delivers **~501 structures plus an estate lot program** (360 for-sale residences, 126 rental units, 12 commercial spaces / 30,000 SF, and community amenities) across a 2027-2031 construction program, built primarily in hempcrete with layered regenerative water and energy infrastructure.
+Abundancia is a regenerative community development on **376 acres at 176 Cedar Creek Circle, Cedar Creek, TX** (unincorporated Bastrop County), in the Lost Pines ecoregion on the SH-71 corridor — 15-20 minutes from Austin-Bergstrom International Airport and 30-40 minutes from downtown Austin. The full master plan delivers **511 structures plus an estate lot program** (360 for-sale residences, 136 rental units, 12 commercial spaces / 30,000 SF, and community amenities) across a 2027-2031 construction program, built primarily in hempcrete with layered regenerative water and energy infrastructure.
 
 > **THE OFFERING FUNDS PHASE 1 (YEARS 1–2) ONLY.** The Phase-1 construction scope and budget are set out in the "Phase 1 Construction (Years 1–2) — The Offering Scope" section below. The full 2027–2031 five-year construction program in the remainder of this document is the master-plan **context** for later phases, which are future upside and a sponsor backstop — not the investor's economics.
 
@@ -49,27 +49,24 @@ Abundancia is a regenerative community development on **376 acres at 176 Cedar C
 
 | Category | Budget | Notes |
 |----------|-------:|-------|
-| Hard Costs — Structures & Build | ~$194.6M | Residential build ~$149.0M + Rentals ~$24.3M + Commercial ~$14.2M; ~581,974 SF building GFA |
-| Hard Costs — Site Work | ~$7,072,088 | Roads, grading, utility corridors, stormwater |
-| **Total Hard Costs** | **~$201,653,793** | |
-| Soft Costs | $8,812,308 | Architecture, engineering, permits, legal, insurance |
-| Land (10-yr, incl. financing) | $7,040,217 | Scenario — subject to final terms (see Section 3) |
-| Contingency (10%) | $22,873,218 | Held separately within total model expenses (see Section 9) |
-| **Total 10-Year Expenses (incl. financing, ops, marketing)** | **$251,605,403** | Financing/ops/marketing detailed split [TO CONFIRM] |
+| Total Expenses (excl. contingency) | $220,463,023 | Line-item hard cost / soft cost / land split for the September 2026 revised model is being finalized [TO CONFIRM] |
+| Contingency (10%) | $22,046,302 | Held separately within total model expenses (see Section 9) |
+| **Total 10-Year Expenses** | **$242,509,325** | |
+
+*Prior line-item hard-cost/soft-cost/land splits (structures ~$194.6M, site work ~$7.07M, soft costs $8.81M, land $7.04M) predate the September 2026 house-mix revision and are being re-verified against the updated total above [TO CONFIRM]; do not sum the prior line items to the new total.*
 
 ### 1.2 Key Financial Metrics
 
 | Metric | Value |
 |--------|------:|
 | Total Acreage | 376 acres |
-| Total Structures | ~501 (plus an estate lot program) |
-| Building GFA | ~581,974 SF |
+| Total Structures | 511 (plus an estate lot program) |
+| Building GFA | ~569,620 SF |
 | Building Footprint | ~14–16 acres of structures (~4% of site) |
-| Construction Cost per SF | $300 standard tier / $450 estate tier |
-| Phase-1 Total Capitalization (the offering) | $13,354,032 ($5,154,032 LP equity + $500,000 GP co-invest + $7,700,000 debt @ 8.5%, $1,173,539/yr service) |
+| Construction Cost per SF | $300 standard tier / $450 luxury tier |
+| Phase-1 Total Capitalization (the offering) | $15,939,072, identical under both Elections — Election A: $7,739,072 LP equity + $500,000 GP co-invest + $7,700,000 debt @ 8.5%; Election B: $3,739,072 LP equity + $4,000,000 secured notes + $500,000 GP co-invest + $7,700,000 debt @ 8.5%, $1,173,539/yr service |
 | Phase-1 Hard Costs (Years 1–2) | ~$16.7M (~$6.65M Year 1 + ~$10.01M Year 2) |
 | First Revenue | 2028 |
-| Cumulative Break-Even | Year 3 (2029) |
 | Construction Timeline | 2027-2031 (5 years); stabilized 2032+ |
 
 ### 1.3 Hempcrete Construction Strategy
@@ -91,7 +88,7 @@ The hempcrete building market is growing at approximately 15%/yr CAGR (GMI). Reg
 
 ## PHASE 1 CONSTRUCTION (YEARS 1–2) — THE OFFERING SCOPE
 
-**This is the construction program funded by the Phase-1 offering** — approximately **$16.7M of hard costs** across Years 1–2, funded by the **$13,354,032 Year-0 Phase-1 capitalization** ($5,154,032 LP equity + $500,000 GP co-invest + $7,700,000 debt @ 8.5%) **plus early operating cash flow**.
+**This is the construction program funded by the Phase-1 offering** — approximately **$16.7M of hard costs** across Years 1–2, funded by the **$15,939,072 Phase-1 capitalization** (identical under both Elections: Election A — $7,739,072 LP equity + $500,000 GP co-invest + $7,700,000 debt @ 8.5%; Election B — $3,739,072 LP equity + $4,000,000 secured notes + $500,000 GP co-invest + $7,700,000 debt @ 8.5%) **plus early operating cash flow**.
 
 ### Year 1 (2027) — Foundation & Community Activation (~$6.65M hard costs)
 
@@ -114,20 +111,20 @@ The hempcrete building market is growing at approximately 15%/yr CAGR (GMI). Reg
 | Component | Scope | Budget |
 |-----------|-------|-------:|
 | Backbone infrastructure | Infrastructure backbone completed | $4,191,808 |
-| Tiny homes | 60 tiny homes (16 studio / 18 one-BR / 20 two-BR / 6 early-discount) — SOLD in Year 2 | ~$3,884,800 |
+| Micro-villas | 60 micro-villas (16 studio / 18 one-BR / 20 two-BR / 6 early-discount) — SOLD in Year 2 | ~$3,884,800 |
 | Prepared residential lots | 100 lots prepared | $90,340 |
 | 6BR Rental/Event House | 6,000 SF | $1,845,000 |
-| **Year-2 Total** | **Model home, tiny-home program, lot preparation, event house** | **~$10.01M** |
+| **Year-2 Total** | **Model home, micro-villa program, lot preparation, event house** | **~$10.01M** |
 
 ### Phase-1 Construction Summary
 
 | Metric | Value |
 |--------|------:|
 | **Phase-1 hard costs (Years 1–2)** | **~$16.7M** |
-| Funding | $13,354,032 Year-0 capitalization + early operating cash flow |
+| Funding | $15,939,072 Phase-1 capitalization (either Election) + early operating cash flow |
 | Phase-1 debt | $7,700,000 @ 8.5%, 10-yr fully amortizing ($1,173,539/yr service) |
 | Lots | **100 residential lots PREPARED; 80 SOLD during Phase 1** ($10,817,449, Years 2–3, per the Phase-1 model) |
-| Tiny homes | 60 sold Year 2 ($8,856,322) |
+| Micro-villas | 60 sold Year 2 ($8,856,322) |
 
 *Later-phase construction (2029–2031, ~$229M of hard costs in the full-project master plan below) is context only — it is not funded by, and the Phase-1 offering's projected returns do not depend on, those phases proceeding.*
 
@@ -141,26 +138,25 @@ The hempcrete building market is growing at approximately 15%/yr CAGR (GMI). Reg
 
 | # | Category | Detail | Budget |
 |---|----------|--------|-------:|
-| 1 | **Hard Costs — Structures & Build** | Residential build ~$149.0M (100 SFR, 200 for-sale condos, 60 tiny homes), rentals ~$24.3M (event house, 75 rental condos, 50 nature stays), commercial ~$14.2M (12 spaces / 30,000 SF), community amenities | ~$194.6M |
-| 2 | **Hard Costs — Site Work** | Clearing, grading, roads, utility corridors, stormwater | ~$7,072,088 |
-| | | **Subtotal — Hard Costs** | **~$201,653,793** |
-| 3 | **Soft Costs** | Architecture, engineering, permitting, legal, insurance, project management | $8,812,308 |
-| 4 | **Land** | Acquisition + closing + land loan carry (10-yr; scenario — subject to final terms) | $7,040,217 |
-| 5 | **Contingency (10%)** | Held separately within total model expenses | $22,873,218 |
-| | | **TOTAL 10-YEAR EXPENSES (incl. financing, ops, marketing)** | **$251,605,403** |
+| 1 | **Residential Program** | 90 standard SFR (1-5BR) + 10 Luxury Estate (5-7BR), 200 for-sale condos, 60 micro-villas | Cost detail: houses $75,900,000 (verified exact match to Unit Mix Summary); condos and micro-villas [TO CONFIRM line-item] |
+| 2 | **Rentals & Commercial Program** | Event house, 75 rental condos, 60 STR/nature-stay units; 12 commercial spaces (30,000 SF) | [TO CONFIRM line-item] |
+| 3 | **Site Work** | Clearing, grading, roads, utility corridors, stormwater | [TO CONFIRM line-item] |
+| | | **Subtotal — Total Expenses (excl. contingency)** | **$220,463,023** |
+| 4 | **Contingency (10%)** | Held separately within total model expenses | $22,046,302 |
+| | | **TOTAL 10-YEAR EXPENSES** | **$242,509,325** |
 
-*A 10% contingency of $22,873,218 is carried separately in the financial model within total expenses of $251,605,403 (which also includes financing carry, operations, and marketing — detailed split [TO CONFIRM]); it is not embedded in the hard-cost lines above.*
+*Line-item hard cost / soft cost / land breakdown for the September 2026 revised model (post house-mix change) is being finalized [TO CONFIRM]. The house-specific figures are verified exactly: 100 total houses (90 standard + 10 luxury), total cost $75,900,000, total sales $110,700,000.*
 
 ### 2.2 Hard Costs by Construction Year
 
 | Year | Hard Costs | Program Focus |
 |------|----------:|---------------|
 | 2027 | ~$6.65M (Phase-1) | Groundbreaking — infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture |
-| 2028 | ~$10.01M (Phase-1) | Hospitality opens (first revenue); model home; tiny homes deliver; lots + SFR/condo sales launch |
+| 2028 | ~$10.01M (Phase-1) | Hospitality opens (first revenue); model home; micro-villas deliver; lots + SFR/condo sales launch |
 | 2029 | [TO CONFIRM] | Homes, condos, rental condos, school (per-year split [TO CONFIRM]) |
 | 2030 | [TO CONFIRM] | Homes, condos, village completion, temple (per-year split [TO CONFIRM]) |
 | 2031 | [TO CONFIRM] | Estate homes, condos, rental condos — construction complete (per-year split [TO CONFIRM]) |
-| **Total** | **~$201,653,793** | (incl. ~$7,072,088 site work) |
+| **Total** | **$220,463,023** (excl. contingency) | Per-year split for the revised model [TO CONFIRM] |
 
 ---
 
@@ -242,8 +238,8 @@ Total site work budget: **~$7,072,088** (within total hard costs).
 |-----------|-------|
 | Hospitality opens | Nature stays + event house operations begin |
 | Model home | SFR model home |
-| Tiny homes | Tiny home deliveries (60-unit program: 232-416 SF) |
-| Lot sales launch | Estate lot program — lot revenue $22,872,273 (2028-2029; 100 estate lots full project, 80 in Phase 1) |
+| Micro-villas | Micro-villa deliveries (60-unit program) |
+| Lot sales launch | Estate lot program — Phase-1 lot revenue $10,817,449 (2028-2029, 80 of 100 total lots); full-project lot revenue $14,295,171 (10-yr) |
 | SFR sales launch | Single-family sales program begins |
 
 ### 5.3 2029 — Scale-Up (hard costs [TO CONFIRM])
@@ -281,21 +277,21 @@ Total site work budget: **~$7,072,088** (within total hard costs).
 
 | Tier | Cost/SF | Application |
 |------|--------:|-------------|
-| **Standard tier** | **$300/SF** | SFR homes, condos, tiny homes, commercial, community structures |
-| **Estate tier** | **$450/SF** | Estate homes and premium product |
+| **Standard tier** | **$300/SF** | SFR homes, condos, micro-villas, commercial, community structures |
+| **Luxury tier** | **$450/SF** | Luxury Estate homes (5-7 BR, 10 units) |
 
 ### 6.2 Program Reconciliation
 
 | Metric | Value |
 |--------|------:|
-| Building GFA | ~581,974 SF |
+| Building GFA | ~569,620 SF |
 | Structures & build hard cost | ~$194.6M |
-| Implied blended cost | blend of $300 standard and $450 estate tiers |
+| Implied blended cost | blend of $300 standard and $450 luxury tiers |
 | Site work | ~$7,072,088 |
 
 ### 6.3 Pricing vs. Cost Context
 
-Homes are positioned "from approximately $450/SF" with model blended realized pricing of ~$566/SF (SFR), ~$400/SF (condos), and ~$416/SF (tiny homes, ~$104K-$166K) — providing margin over the $300/$450 per-SF construction cost basis. For market pricing context: Bastrop County median $187/SF (Redfin, 5/2026); Austin $1M+ homes average $423/SF (Texas Realtors, 2025); Barton Creek ~$553-802/SF; West Lake Hills ~$756/SF.
+Standard-tier homes (1-5BR) price at $450/SF, and luxury-tier homes (5-7BR) at $600/SF, both against construction cost bases of $300/SF and $450/SF respectively — a margin consistent across tiers. Condos price at $450/SF, and micro-villas at ~$437/SF (avg $141,520/unit). For market pricing context: Bastrop County median $187/SF (Redfin, 5/2026); Austin $1M+ homes average $423/SF (Texas Realtors, 2025); Barton Creek ~$553-802/SF; West Lake Hills ~$756/SF.
 
 ---
 
@@ -336,7 +332,7 @@ Homes are positioned "from approximately $450/SF" with model blended realized pr
 
 ## 8. Soft Costs — Professional Services & Regulatory
 
-**Total soft costs: $8,812,308** across the development program.
+**Total soft costs:** line-item figure for the September 2026 revised model is being finalized [TO CONFIRM]; included within the $220,463,023 total expenses (excl. contingency) above.
 
 | Category | Scope |
 |----------|-------|
@@ -358,7 +354,7 @@ Homes are positioned "from approximately $450/SF" with model blended realized pr
 
 | Item | Amount | Treatment |
 |------|-------:|-----------|
-| Contingency (10% of costs) | **$22,873,218** | Carried separately in the financial model within total expenses ($251,605,403) — not embedded in hard-cost lines |
+| Contingency (10% of costs) | **$22,046,302** | Carried separately in the financial model within total expenses ($242,509,325) — not embedded in hard-cost lines |
 
 ### 9.2 Contingency Allocation Guidance
 
@@ -373,7 +369,7 @@ Homes are positioned "from approximately $450/SF" with model blended realized pr
 
 ### 9.3 Reserve Context
 
-A **20% distribution reserve** is also withheld annually from positive cash flows as a safety buffer under the equity waterfall structure, released in Year 10 (subject to final documentation). Industry benchmark: institutional lenders typically require 5-10% contingency for ground-up development; the model's 10% contingency sits at the top of that range, with additional risk mitigation from the phased 2027-2031 delivery strategy — and, structurally, from the fact that **the offering is underwritten on Phase 1 alone** (base case 32.1% LP IRR / 2.88x), with later phases serving as upside and a sponsor backstop.
+A **20% distribution reserve** is also withheld annually from positive cash flows as a safety buffer under the equity waterfall structure, released in Year 10 (subject to final documentation). Industry benchmark: institutional lenders typically require 5-10% contingency for ground-up development; the model's 10% contingency sits at the top of that range, with additional risk mitigation from the phased 2027-2031 delivery strategy — and, structurally, from the fact that **the offering is underwritten on Phase 1 alone** (base case 26.02% LP IRR / 2.449x under Election A, or 34.81% / 3.655x under Election B), with later phases serving as upside and a sponsor backstop.
 
 ---
 
@@ -386,7 +382,7 @@ A **20% distribution reserve** is also withheld annually from positive cash flow
 | Conventional wood-frame (subdivision) | Bastrop County | $135-165 (est.) | 2025 RS Means, adjusted [TO CONFIRM] |
 | Custom home (stick-built) | Austin metro | $200-300 (est.) | Market estimates [TO CONFIRM] |
 | **Abundancia — standard tier** | **Bastrop County** | **$300** | **Project financial model** |
-| **Abundancia — estate tier** | **Bastrop County** | **$450** | **Project financial model** |
+| **Abundancia — luxury tier** | **Bastrop County** | **$450** | **Project financial model** |
 
 ### 10.2 Comparable Project Benchmarks (Approved Comparables)
 
@@ -395,11 +391,11 @@ A **20% distribution reserve** is also withheld annually from positive cash flow
 | The Sanctuary | [TO CONFIRM] | [TO CONFIRM] | Comparable community |
 | Whisper Valley | Manor, TX | ~7,500 planned zero-energy homes; geothermal; $300-750K | Proves east-Austin sustainability demand |
 | Serenbe | Chattahoochee Hills, GA | 1,200 acres; 750+ residents; homes from ~$375K | Wellness agrihood premiums |
-| **Abundancia** | **Bastrop County, TX** | **~501 structures + estate lot program; ~$201.65M hard costs** | **Hempcrete, regenerative, conservation subdivision** |
+| **Abundancia** | **Bastrop County, TX** | **511 structures + estate lot program; $220.6M total expenses (excl. contingency)** | **Hempcrete, regenerative, conservation subdivision** |
 
 ### 10.3 Capitalization Context
 
-**The offering's capitalization is the Phase-1 stack: $13,354,032** — $5,154,032 LP equity (91.16% of equity) + $500,000 GP co-invest (8.84%, pari passu) + $7,700,000 debt @ 8.5% (10-yr fully amortizing, $1,173,539/yr service). In the full-project model (all phases — context only), the construction facility is $8,709,278 @ 8.5% ($1,327,361/yr service), and the Year-1 investment required is $12,441,826. Detailed waterfall schedule available upon request; subject to final documentation and review by securities counsel.
+**The offering's capitalization is the Phase-1 stack: $15,939,072, identical under both Elections** — Election A: $7,739,072 LP equity (93.93% of equity) + $500,000 GP co-invest (6.07%, pari passu) + $7,700,000 debt @ 8.5% (10-yr fully amortizing, $1,173,539/yr service). Election B: $3,739,072 LP equity (88.20% of equity) + $4,000,000 secured notes (10%, subordinate) + $500,000 GP co-invest (11.80%, pari passu) + $7,700,000 debt @ 8.5%. In the full-project model (all phases — context only, pre-dating the September 2026 revision), the construction facility was ~$8,709,278 @ 8.5% ($1,327,361/yr service), and the Year-1 investment required was ~$12,441,826 [TO CONFIRM — re-verify against revised model]. Detailed waterfall schedules available upon request; subject to final documentation and review by securities counsel.
 
 ---
 
@@ -418,7 +414,7 @@ PREDEVELOPMENT   ████████
 
 CONSTRUCTION                 ████████████████████████████████████████████
   Infra + hospitality core   ████████
-  First revenue                          ████ (hospitality opens; model home; tiny homes; lots+SFR launch)
+  First revenue                          ████ (hospitality opens; model home; micro-villas; lots+SFR launch)
   Residential scale-up                              ████████████████████
   Village / temple                                              ████████
   Estate homes / final                                                      ████████
@@ -433,7 +429,7 @@ STABILIZED OPS                                                                  
 |-----------|--------|-----------------|---------------|
 | **Predevelopment** | 2026 | Due diligence, Symbiosis TX watershed/hydrology analysis, land closing, entitlements, MUD formation, capital close | DD clear; capital committed |
 | **Groundbreaking** | 2027 | Infrastructure, nature stays, Community Center, Wellness Center, parks, permaculture, barn renovation | Permits issued (12-16 mo est.) |
-| **First Revenue** | 2028 | Hospitality opens; model home; tiny homes deliver; lot + SFR sales launch | COs issued; hospitality licensed |
+| **First Revenue** | 2028 | Hospitality opens; model home; micro-villas deliver; lot + SFR sales launch | COs issued; hospitality licensed |
 | **Break-Even** | 2029 | 30 homes, 80 condos, 25 rental condos, school; cumulative break-even in model | Sales absorption on plan |
 | **Village Complete** | 2030 | 40 homes, 60 condos, village, Sacred Temple Complex | COs issued |
 | **Construction Complete** | 2031 | 30 estate homes, 60 condos, 25 rental condos | Final lien releases |
@@ -463,7 +459,7 @@ STABILIZED OPS                                                                  
 | **2029** | [TO CONFIRM] | [TO CONFIRM] | [TO CONFIRM] |
 | **2030** | [TO CONFIRM] | [TO CONFIRM] | [TO CONFIRM] |
 | **2031** | [TO CONFIRM] | [TO CONFIRM] | [TO CONFIRM] |
-| **Total** | **~$201,653,793** | | **100%** (incl. ~$7,072,088 site work) |
+| **Total** | **$220,463,023** (excl. contingency) | | **100%** — line-item per-year split for the revised model [TO CONFIRM] |
 
 *Quarterly draw schedules are maintained in the financial model. [TO CONFIRM]*
 
@@ -471,9 +467,9 @@ STABILIZED OPS                                                                  
 
 | Metric | Value |
 |--------|------:|
-| Phase-1 (the offering) Year-0 capitalization | $13,354,032 ($5,154,032 LP + $500,000 GP co-invest + $7,700,000 debt) |
+| Phase-1 (the offering) capitalization | $15,939,072, identical under both Elections (Election A: $7,739,072 LP + $500,000 GP co-invest + $7,700,000 debt; Election B: $3,739,072 LP + $4,000,000 secured notes + $500,000 GP co-invest + $7,700,000 debt) |
 | Phase-1 debt | $7,700,000 @ 8.5%, 10-yr fully amortizing ($1,173,539/yr service) |
-| Phase-1 construction (Years 1–2, ~$16.7M hard cost) | Funded by the $13,354,032 Year-0 capitalization + early operating cash flow |
+| Phase-1 construction (Years 1–2, ~$16.7M hard cost) | Funded by the $15,939,072 Phase-1 capitalization (either Election) + early operating cash flow |
 | Later-phase construction (2029–2031 — context) | Funded by sales revenue (first revenue 2028; cumulative break-even 2029), construction financing, and MUD-eligible infrastructure reimbursement — not by the Phase-1 offering |
 
 ---
@@ -484,8 +480,8 @@ STABILIZED OPS                                                                  
 
 | Assumption | Basis |
 |-----------|-------|
-| $300/SF standard tier; $450/SF estate tier | Project financial model |
-| ~581,974 SF building GFA | Program per reconciled model |
+| $300/SF standard tier; $450/SF luxury tier | Project financial model |
+| ~569,620 SF building GFA | Program per reconciled model |
 | Site work ~$7,072,088 | Model; civil engineering refinement underway (Fred Haas, PE) |
 | Hempcrete assemblies: R-30+, 2+ hr fire, 50-70% HVAC/energy reduction | Approved hempcrete performance basis |
 | Escalation and unit-cost sensitivities | [TO CONFIRM — maintained in financial model] |
@@ -505,11 +501,11 @@ STABILIZED OPS                                                                  
 |------|:----------:|:------:|-----------|
 | Hempcrete supply chain disruption | Medium | High | Multi-source procurement; pre-orders; growing regional capacity post Austin hemp-lime adoption (July 2025) |
 | Labor shortage (Austin market) | Medium | Medium | Jared Gossett builder platform (170+ homes, 2× Builder of the Year); crew training and retention |
-| Material cost escalation | Medium | High | 10% contingency ($22,873,218) held separately in model; phased procurement |
+| Material cost escalation | Medium | High | 10% contingency ($22,046,302) held separately in model; phased procurement |
 | Extended permitting | Low-Medium | Medium | 12-16 mo estimate already assumed; no county zoning; early agency engagement |
 | Water feasibility findings | Low-Medium | High | Symbiosis TX watershed analysis first; layered supply (Aqua WSC, 6 wells + 13 tanks, ponds, rainwater 9-11M gal/yr, 11 AWGs) |
 | Houston toad / LPHCP constraints | Medium | Medium-High | Conservation subdivision pathway; 184.5 acres preserved; flexible site plan |
-| Market softness | Low-Medium | High | Phased delivery; the offering is underwritten on Phase 1 alone (base case 32.1% LP IRR / 2.88x), with later phases as upside/backstop |
+| Market softness | Low-Medium | High | Phased delivery; the offering is underwritten on Phase 1 alone (base case 26.02% LP IRR / 2.449x under Election A, or 34.81% / 3.655x under Election B), with later phases as upside/backstop |
 | Interest rate movement | Medium | Medium | 8.5% Phase-1 construction debt assumed ($7,700,000 facility); MUD financing for qualifying infrastructure |
 
 ### 13.4 Hempcrete-Specific Risk Factors
@@ -520,7 +516,7 @@ STABILIZED OPS                                                                  
 | Workforce training | Few hempcrete-experienced builders in Texas | Training program; partner with US Hemp Building Association; Gossett build team |
 | Code compliance | IRC alternative-materials pathway required in Bastrop County (IRC-based jurisdiction) | Austin adopted hemp-lime July 2025 (regional precedent); PE structural calculations; alternative materials provision (IRC §104.11) |
 | Moisture during construction | Hempcrete requires dry cure period | Covered pouring/curing stations; dry-season scheduling; moisture monitoring |
-| Lender familiarity | Some construction lenders unfamiliar with hempcrete | Technical documentation; experienced appraisers; Phase-1 capitalization structure ($13,354,032) already reflects equity + debt mix |
+| Lender familiarity | Some construction lenders unfamiliar with hempcrete | Technical documentation; experienced appraisers; Phase-1 capitalization structure ($15,939,072) already reflects equity + debt (+ notes, under Election B) mix |
 
 ### 13.5 Market Assumptions
 
@@ -551,7 +547,7 @@ STABILIZED OPS                                                                  
 
 ## Appendix A: Hempcrete Cost Detail
 
-Per-home hempcrete material and labor cost detail is being restated to the $300/SF standard tier and $450/SF estate tier basis in the current financial model. Prior per-shell cost breakdowns from earlier project concepts are superseded. Detailed assembly-level costing: [TO CONFIRM — final engineering].
+Per-home hempcrete material and labor cost detail is being restated to the $300/SF standard tier and $450/SF luxury tier basis in the current financial model. Prior per-shell cost breakdowns from earlier project concepts are superseded. Detailed assembly-level costing: [TO CONFIRM — final engineering].
 
 **Approved hempcrete performance basis:** R-30+ wall assemblies; 2+ hour fire resistance; 50-70% HVAC/energy reduction vs. code baseline; vapor-open and mold-resistant; pest-resistant; carbon-sequestering (hemp growth + lime carbonation); non-toxic material palette; market growing ~15%/yr CAGR (GMI).
 
@@ -564,7 +560,7 @@ Per-home hempcrete material and labor cost detail is being restated to the $300/
 | The Sanctuary | [TO CONFIRM] | [TO CONFIRM] | Comparable community |
 | Whisper Valley | Manor, TX | ~7,500 planned zero-energy homes; geothermal; $300-750K | Zero-energy, master-planned |
 | Serenbe | Chattahoochee Hills, GA | 1,200 acres; 750+ residents; homes from ~$375K | Wellness agrihood, phased |
-| **Abundancia** | **Bastrop County, TX** | **~501 structures + estate lot program; ~$251.6M total 10-year expenses** | **Hempcrete, regenerative, conservation subdivision** |
+| **Abundancia** | **Bastrop County, TX** | **511 structures + estate lot program; $242.7M total 10-year expenses** | **Hempcrete, regenerative, conservation subdivision** |
 
 ---
 
@@ -590,5 +586,5 @@ Per-home hempcrete material and labor cost detail is being restated to the $300/
 ---
 
 **Document 29** | Construction Budget & Timeline
-**Last Updated:** July 2026
+**Last Updated:** September 2026
 **Next Revision:** Upon completion of final engineering

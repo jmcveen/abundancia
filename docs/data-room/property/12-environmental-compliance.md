@@ -173,7 +173,7 @@ The LPHCP classifies land into tiers based on Houston toad habitat quality:
 
 ### 4.1 Conservation-First Design
 
-Abundancia pursues LPHCP compliance via a **conservation subdivision pathway**: 184.5 acres (49.1%) of the 376-acre property is permanently preserved, and approximately 235 acres (62.5%) is held in preservation, regenerative agriculture, and permaculture combined, with structures occupying only ~16.1 acres (4.28% of the site). This conservation-forward design creates a strong compliance position.
+Abundancia pursues LPHCP compliance via a **conservation subdivision pathway**: 184.5 acres (49.1%) of the 376-acre property is permanently preserved, and approximately 235 acres (62.5%) is held in preservation, regenerative agriculture, and permaculture combined, with structures occupying only 13.70 acres (3.64% of the site). This conservation-forward design creates a strong compliance position.
 
 | LPHCP Requirement | Minimum Required | Abundancia Commitment | Notes |
 |-------------------|-----------------|----------------------|---------|
@@ -457,7 +457,7 @@ Wastewater strategy: **TCEQ-permitted on-site sewage facilities (OSSF) — biodi
 | Invasive species | Spreading (unmanaged) | Controlled (<5% target) | **Positive** |
 | Fire fuel load | Accumulating (no management) | Managed (prescribed fire, defensible space) | **Positive** |
 | Water quality | Unmonitored | Monitored, treated, improved | **Positive** |
-| Building footprint | 0% | ~4.3% structures (~16.1 acres); ~878,000 SF total developed incl. roads | Slight negative (mitigated) |
+| Building footprint | 0% | 3.64% structures (13.70 acres); 765,714 SF total developed incl. roads | Slight negative (mitigated) |
 | Light/noise disturbance | Minimal | Moderate (mitigated) | Slight negative (mitigated) |
 | Wildlife connectivity | Intact but unmanaged | Intact + enhanced corridors | **Positive** |
 | Carbon sequestration | Passive | Enhanced (food forests, restoration) | **Positive** |

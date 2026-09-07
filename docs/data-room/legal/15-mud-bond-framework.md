@@ -443,8 +443,8 @@ Without MUD financing, the entire cost of public infrastructure (estimated at $8
 
 | Scenario | Infrastructure Equity Required | Phase-1 Capitalization | Infrastructure as % of Phase-1 Capitalization |
 |----------|-------------------------------|--------------------------------------|------------------------------|
-| **Without MUD** | $8M - $12M [TO CONFIRM] | $13,354,032 (≈$5,154,032 LP equity + $500,000 GP co-investment + $7,700,000 construction debt) | [TO CONFIRM] |
-| **With MUD** | $2M - $4M (bridge funding until reimbursement) [TO CONFIRM] | $13,354,032 (≈$5,154,032 LP equity + $500,000 GP co-investment + $7,700,000 construction debt) | [TO CONFIRM] |
+| **Without MUD** | $8M - $12M [TO CONFIRM] | $15,939,072 (Election A: $7,739,072 LP equity + $500,000 GP co-investment + $7,700,000 construction debt; Election B: $3,739,072 LP equity + $4,000,000 secured notes + $500,000 GP co-investment + $7,700,000 construction debt) | [TO CONFIRM] |
+| **With MUD** | $2M - $4M (bridge funding until reimbursement) [TO CONFIRM] | $15,939,072 (as above, identical under both Elections) | [TO CONFIRM] |
 
 MUD financing frees a substantial portion of investor equity for land acquisition, vertical construction, amenity development, and operating reserves --- uses with higher return potential than infrastructure.
 

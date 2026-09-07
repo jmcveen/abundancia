@@ -134,12 +134,12 @@ Abundancia operates on a regenerative development model where each system output
 
 ### 2.4 Product Portfolio
 
-Abundancia serves a diverse market through five distinct product families across the full master plan. **The investment offered in this data room funds Phase 1 only** (Years 1–2 — Foundation & Community Activation), which delivers the community core — nature stays, the Community Center, the Longevity/Wellness Center & Spa, the Regenerative Center, tiny homes, and residential lots. Single-family homes and condominiums arrive in future phases (Phases 2–3), which represent future upside and backstop capacity rather than a requirement for the Phase-1 investor return.
+Abundancia serves a diverse market through five distinct product families across the full master plan. **The investment offered in this data room funds Phase 1 only** (Years 1–2 — Foundation & Community Activation), which delivers the community core — nature stays, the Community Center, the Longevity/Wellness Center & Spa, the Regenerative Center, micro-villas, and residential lots. Single-family and luxury estate homes and condominiums arrive in future phases (Phases 2–3), which represent future upside and backstop capacity rather than a requirement for the Phase-1 investor return.
 
 **Single-Family Homes (100 units — from ~$450/SF; ~$566/SF blended realized)**
 Premium hempcrete homes ranging from 1,000 to 5,000 sq. ft. (1BR through 7BR configurations). Designed for families, remote workers, and buyers seeking a primary residence in a regenerative community. Features include passive solar design, food garden integration, and community-oriented architecture.
 
-**Condominiums (200 for-sale units — ~$400/SF blended)**
+**Condominiums (200 for-sale units — $450/SF)**
 Walkable village configurations of 600-1,250 sq. ft. with shared amenities, gardens, and gathering spaces (275 condos total across the master plan, including 75 rental condos). Targets young professionals, couples, and downsizers seeking attainable entry into the community.
 
 **Tiny Homes & Domes (60 for-sale units — ~$416/SF; ~$104K-$166K)**
@@ -232,7 +232,7 @@ Bastrop County's regulatory environment represents a material competitive advant
 | **Permitting Timeline** | 12-16 months (estimated) | 18-36+ months | Materially faster to revenue |
 | **Agricultural Exemption** | Available | Limited | Significant property tax reduction during development |
 | **MUD Bond Authority** | Permitted; district engineering underway (Fred Haas, PE) | Restricted | Enables infrastructure financing via tax-exempt bonds |
-| **Impact Fees** | Minimal | $15,000-25,000/unit | Substantial savings across ~501 structures [TO CONFIRM estimate] |
+| **Impact Fees** | Minimal | $15,000-25,000/unit | Substantial savings across 511 structures [TO CONFIRM estimate] |
 | **Design Review** | Minimal/none | Extensive | Reduced soft costs and design iteration time |
 | **Tree Ordinance** | Flexible | Strict (Heritage Tree protection) | Reduced clearing costs and mitigation requirements |
 | **Utility Connection** | Co-op / Aqua WSC (streamlined) | Austin Energy (complex) | Faster utility provisioning |
@@ -425,14 +425,14 @@ Research consistently demonstrates strong and growing consumer demand for the at
 - Values education, outdoor access, food quality, safety
 - Priced out of central Austin neighborhoods
 - Wants community integration and shared amenities for children
-- Target product: Single-family home (from ~$450/SF) or condominium (~$400/SF)
+- Target product: Single-family home (from ~$450/SF) or condominium ($450/SF)
 
 **Persona 4: The Wellness Seeker / Retiree (50-70)**
 - Empty-nester or early retiree
 - $200K+ investable assets, moderate ongoing income
 - Seeking purpose, community, and healthy living environment
 - May downsize from larger home
-- Target product: Condominium (~$400/SF) or tiny home/dome (~$104K-$166K)
+- Target product: Condominium ($450/SF) or tiny home/dome (~$104K-$166K)
 
 **Persona 5: The Custom Builder / Investor (35-60)**
 - HHI $200K+ or significant investable assets
@@ -496,44 +496,44 @@ The master plan organizes 376 acres into distinct but connected neighborhoods �
 
 ### 8.1 Phase 1 — The Offering
 
-The investment offered in this data room funds **Phase 1 only** — Foundation & Community Activation (Years 1–2). Year 1 delivers the 5,000 SF Community Center (lounge, co-working, gym, yoga, meditation, community kitchen, library), the spring-fed Natural Pool with Parks & Recreation, 50 short-term nature stays (20 glamping tents, 15 domes, 5 high-end domes, 10 camping spaces), the Regenerative Center (event space, 6 retreat rooms, and the renovated barn), the Health & Wellness / Longevity Center & Spa (sauna, hot tub, cold plunge, massage, bio-optimization, health center), and the Permaculture Mandala Garden. Year 2 delivers the Model Home, 60 tiny-home sales, 80 residential lot sales, and the 6BR Rental/Event House, with the infrastructure backbone completed.
+The investment offered in this data room funds **Phase 1 only** — Foundation & Community Activation (Years 1–2). Year 1 delivers the 5,000 SF Community Center (lounge, co-working, gym, yoga, meditation, community kitchen, library), the spring-fed Natural Pool with Parks & Recreation, 50 short-term nature stays (20 glamping tents, 15 domes, 5 high-end domes, 10 camping spaces), the Regenerative Center (event space, 6 retreat rooms, and the renovated barn), the Health & Wellness / Longevity Center & Spa (sauna, hot tub, cold plunge, massage, bio-optimization, health center), and the Permaculture Mandala Garden. Year 2 delivers the Model Home, 60 micro-villa sales, 80 residential lot sales, and the 6BR Rental/Event House, with the infrastructure backbone completed.
 
-Phase-1 revenue over the 10-year hold is projected at **$59,632,442**, with Phase-1 EBITDA of **$21,540,503**:
+Phase-1 revenue over the 10-year hold is projected at **$63,557,464**, with Phase-1 EBITDA of **$23,413,145** — identical under both capital-structure Elections (Section 12.1):
 
 | Phase 1 Revenue Stream | 10-Year Revenue | % of Total |
 |---|---|---|
-| **Rentals & Hospitality** | $32,549,450 | 54.6% |
-| **Lot Sales** | $10,817,449 | 18.1% |
-| **Tiny Home Sales** | $8,856,322 | 14.9% |
-| **Commercial & Amenities** | $7,409,222 | 12.4% |
-| **Total (Phase 1)** | **$59,632,442** | **100.0%** |
+| **Rentals, Hospitality & Commercial (combined)** | $44,248,815 | 69.6% |
+| **Lot Sales** | $10,817,449 | 17.0% |
+| **Micro-Villa Sales** | $8,491,200 | 13.4% |
+| **Total (Phase 1)** | **$63,557,464** | **100.0%** |
 
-*No houses or condominiums are sold in Phase 1 — Phase-1 residential product consists of 60 tiny homes (sold in Year 2) and 80 residential lots ($5,299,483 in Year 2 + $5,517,966 in Year 3). Phases 2–3 are future upside and backstop capacity, not part of this offering.*
+*Phase 1's Rentals, Hospitality & Commercial stream is shown combined pending a finalized sub-stream split [TO CONFIRM]. No houses or condominiums are sold in Phase 1 — Phase-1 residential product consists of 60 micro-villas (sold in Year 2) and 80 residential lots ($5,299,483 in Year 2 + $5,517,966 in Year 3). Phases 2–3 are future upside and backstop capacity, not part of this offering.*
 
-### 8.2 Four Revenue Streams — Full Project (All Phases, Context)
+### 8.2 Revenue Streams — Full Project (All Phases, Context)
 
-At full build-out across all phases, Abundancia generates revenue through four distinct and complementary streams. The figures below are full-project context and are not the investor's economics:
+At full build-out across all phases, Abundancia generates revenue through four distinct and complementary streams. The figures below are full-project context and are not the investor's economics; full-project LP return projections are being finalized and will be provided in a future data-room update.
 
-#### Stream 1: Residential Sales — $249,152,934 (77.0%)
+#### Stream 1: Residential Sales — $226,913,159 (74.0%)
 
 The primary revenue driver, encompassing all for-sale residential products across the 10-year development horizon.
 
 | Product | Units | Pricing (from model) | Sq. Ft. Range |
 |---|---|---|---|
-| Single-Family Homes | 100 | From ~$450/SF; ~$566/SF blended realized | 1,000-5,000 SF (1BR-7BR) |
-| Condominiums (for sale) | 200 | ~$400/SF blended | 600-1,250 SF (1-3BR) |
-| Tiny Homes & Domes | 60 | ~$416/SF (~$104K-$166K) | 232-416 SF |
-| **Total Residential** | **360** | — | **$249,152,934 total revenue** |
+| Single-Family Home (1-5 BR) | 90 | $450K-$1.35M @ $450/SF | 1,000-3,000 SF |
+| Luxury Estate (5-7 BR) | 10 | $2.10M-$3.30M @ $600/SF | 3,500-5,500 SF |
+| Condominiums (for sale) | 200 | $450/SF | 600-1,250 SF (1-3BR) |
+| Micro-Villas | 60 | ~$437/SF (avg $141,520/unit) | 232-416 SF |
+| **Total Residential** | **360** | — | **$226,913,159 total revenue** |
 
-#### Stream 2: Rental & Hospitality Income — $44,249,052 (13.7%)
+#### Stream 2: Rentals — $53,231,500 (17.5%)
 
-126 retained rental units generating recurring cash flow: 1×6BR event house (6,000 SF), 75 rental condos (25×1BR, 25×2BR, 25×3BR), and 50 nature stays — 20 glamping tents ($150/night), 15 domes ($275/night), 5 high-end domes ($375/night), 10 camping sites. Retreat center revenue (the 6BR event house plus unique regenerative stays) is classified within this stream per the financial model.
+Retained rental units generating recurring cash flow: 1×6BR event house (6,000 SF), 75 rental condos (25×1BR, 25×2BR, 25×3BR), and 60 STR/nature-stay units. Retreat center revenue is classified within this stream per the financial model.
 
-#### Stream 3: Lot Sales — $22,872,273 (7.1%)
+#### Stream 3: Lots — $14,295,171 (4.7%)
 
-Improved estate lots (~1/3-acre to one-acre) sold to buyers in 2028-2029. Average lot revenue: ~$229,000.
+Improved estate lots (~1/3-acre to one-acre), 100 total (80 Phase 1, 20 Phase 2). Average lot revenue: ~$150,000.
 
-#### Stream 4: Commercial Revenue — $7,102,227 (2.2%)
+#### Stream 4: Commercial — $11,820,840 (3.9%)
 
 12 commercial spaces totaling 30,000 sq. ft., anchored by the Wellness/Longevity Center & Spa (5,000 SF; revenue begins 2028) plus a convention center + TV studio, zero-waste grocery, restaurants, elixir/juice/tea bar, café, yoga & meditation studio, retail, gym, coworking, and makerspace.
 
@@ -548,14 +548,14 @@ Improved estate lots (~1/3-acre to one-acre) sold to buyers in 2028-2029. Averag
 | **Rental & Hospitality** | 60-65% NOI margin | Stabilized operations, low maintenance (hempcrete) |
 | **Commercial** | 70-75% NOI margin | NNN lease structure, minimal landlord responsibility |
 
-*Margin figures are preliminary internal estimates [TO CONFIRM against the v2.0 financial model]. Overall 10-year full-project model EBITDA is $71,771,083 — a ~22% margin on $323,376,486 of revenue (context). Phase-1 EBITDA — the offering — is $21,540,503 on $59,632,442 of Phase-1 revenue (~36% margin).*
+*Margin figures are preliminary internal estimates [TO CONFIRM against the v2.0 financial model]. Overall 10-year full-project model EBITDA is $63,751,344 on $306,260,669 of revenue (context only — not part of this offering). Phase-1 EBITDA — the offering, identical under both Elections — is $23,413,145 on $63,557,464 of Phase-1 revenue (~37% margin).*
 
 ### 8.4 Capital Recycling
 
 The business model is designed for capital efficiency through phased revenue recycling:
 
-1. **Years 1–2 (2027-2028 — Phase 1, the offering)**: The $13,354,032 Phase-1 capitalization ($5,154,032 LP equity + $500,000 GP co-investment + $7,700,000 construction debt at 8.5%) funds land closing, the infrastructure backbone, and the Phase-1 community core — nature stays, Community Center, Longevity/Wellness Center & Spa, Regenerative Center, Natural Pool and parks, and permaculture systems
-2. **2028**: Phase 1's largest revenue year ($16,576,792) — hospitality ramps, 60 tiny homes deliver, and residential lot sales begin (80 lots across 2028-2029); Year-2 construction is carried by Phase-1 operating revenue
+1. **Years 1–2 (2027-2028 — Phase 1, the offering)**: The $15,939,072 Phase-1 capitalization (Election A: $7,739,072 LP equity + $500,000 GP co-investment + $7,700,000 construction debt; Election B: $3,739,072 LP equity + $4,000,000 secured notes + $500,000 GP co-investment + $7,700,000 construction debt) funds land closing, the infrastructure backbone, and the Phase-1 community core — nature stays, Community Center, Longevity/Wellness Center & Spa, Regenerative Center, Natural Pool and parks, and permaculture systems
+2. **2028**: Phase 1's largest revenue year — hospitality ramps, 60 micro-villas deliver, and residential lot sales begin (80 lots across 2028-2029); Year-2 construction is carried by Phase-1 operating revenue
 3. **Phases 2–3 (future phases — not part of this offering)**: Project revenue reinvested into subsequent phases; additional construction financing as needed; potential MUD bonds fund infrastructure expansion — adding future upside and backstop capacity for the Phase-1 targeted return
 4. **2031-2032+ (full-project context)**: Final closings (construction complete 2031), rental stabilization (~$7-8M/yr recurring from 2032), and hold/disposition analysis
 
@@ -565,51 +565,47 @@ After the Phase-1 capitalization, Phase 1 is designed to self-fund through opera
 
 ## 9. Financial Projections
 
-### 9.1 Return Scenarios — Phase 1 (The Offering)
+### 9.1 Return Scenarios — Phase 1 (The Offering) — Two Elections
 
-LP return projections for the Phase-1 offering, from the Phase-1 equity waterfall model:
+Phase 1 now offers investors a choice of capital structure for the $4,000,000 land tranche. Both Elections raise the identical $15,939,072 total capitalization and run on identical Phase-1 EBITDA ($23,413,145):
 
-| Metric | 5-Year (Interim) | 10-Year Hold |
-|---|---|---|
-| **LP Internal Rate of Return (IRR)** | 25.7% | 32.1% |
-| **LP Equity Multiple (EMx)** | 1.79x | 2.88x |
-| **LP Total Distributions** | $9,217,829 | $14,834,476 |
-| **LP Net Profit** | $4,063,797 | $9,680,444 |
+| Metric | Election A — 5-Yr | Election A — 10-Yr | Election B — 5-Yr | Election B — 10-Yr |
+|---|---|---|---|---|
+| **LP IRR** | 20.07% | 26.02% | 28.04% | 34.81% |
+| **LP Equity Multiple (EMx)** | 1.6515x | 2.449x | 2.104x | 3.655x |
+| **LP Total Distributions** | $12,781,189 | $18,955,089 | $7,866,963 | $13,664,480 |
+| **LP Net Profit** | $5,042,117 | $11,216,017 | $4,127,891 | $9,925,408 |
 
-*The 5-year figures are an interim snapshot — the construction loan is not repaid at Year 5 ($4,624,498 remains outstanding); the offering is structured as a 10-year hold.*
+*Election A funds the $4M land tranche as ordinary LP equity (full upside participation). Election B funds it with secured promissory notes at 10% interest-only, subordinate to the construction lender (Documents 30-31) — concentrating the equity return on a smaller remaining LP base. LP capital is fully returned by Year 3 under both Elections.*
 
-**Phases 2–3 — upside and backstop:** These projections are generated by Phase 1 alone. Investors do not need Phases 2–3 to succeed in order to earn the projected return; later phases add future revenue streams and give the sponsor additional revenue capacity to support the targeted LP return (target ≥32% IRR) if Phase-1 performance falls short.
+**Phases 2–3 — upside and backstop:** These projections are generated by Phase 1 alone. Investors do not need Phases 2–3 to succeed in order to earn the projected return; later phases add future revenue streams and give the sponsor additional revenue capacity to support the targeted LP return if Phase-1 performance falls short.
 
-*Projections are subject to final documentation. Detailed waterfall schedule available upon request.*
+*Projections are subject to final documentation. Detailed waterfall schedules for both Elections available upon request. See Document 33 (Key Figures Sheet).*
 
 ### 9.2 Pro Forma Summary (10-Year)
 
-**Phase 1 (The Offering)** — key figures from the Phase-1 financial model (Year 1 = 2027):
+**Phase 1 (The Offering)** — key figures, identical under both Elections (Year 1 = 2027):
 
 | Metric | Value |
 |---|---|
-| **Phase 1 Total Revenue** | $59,632,442 (Rentals & Hospitality $32,549,450 · Lot Sales $10,817,449 · Tiny Home Sales $8,856,322 · Commercial & Amenities $7,409,222) |
-| **Phase 1 EBITDA** | $21,540,503 |
-| **Largest Revenue Year** | Year 2 (2028): $16,576,792 — 60 tiny homes deliver, first lot closings, hospitality ramp |
+| **Phase 1 Total Revenue** | $63,557,464 (Rentals, Hospitality & Commercial $44,248,815 · Lot Sales $10,817,449 · Micro-Villa Sales $8,491,200) |
+| **Phase 1 EBITDA** | $23,413,145 |
 | **Lot Sales Timing** | 80 residential lots — $5,299,483 (Year 2) + $5,517,966 (Year 3) |
 
-**Full Project (All Phases) — context only, not the investor's economics:**
+**Full Project (All Phases) — context only, not the investor's economics; full-project LP return projections are being finalized and will be provided in a future data-room update:**
 
 | Metric | Value |
 |---|---|
-| **Total Revenue** | $323,376,486 (Residential $249,152,934 · Rentals & Hospitality $44,249,052 · Lots $22,872,273 · Commercial $7,102,227) |
-| **Total Expenses** | $251,605,403 (incl. 10% contingency $22,873,218) |
-| **EBITDA** | $71,771,083 (~22% margin) |
-| **Hard Costs (10-yr)** | ~$201,653,793 (soft costs $8,812,308) |
+| **Total Revenue** | $306,260,669 (Residential $226,913,159 · Rentals $53,231,500 · Lots $14,295,171 · Commercial $11,820,840) |
+| **Total Expenses** | $242,509,325 (incl. 10% contingency $22,046,302) |
+| **EBITDA** | $63,751,344 |
 | **First Revenue** | 2028 |
-| **Cumulative Break-Even** | Year 3 (2029) |
-| **Stabilized Recurring Revenue** | ~$7-8M/yr from 2032+ |
 
 *Year-by-year pro forma detail is maintained in the financial model and is available to investors upon request.*
 
 ### 9.3 Distribution Waterfall
 
-Investor distributions follow a tiered waterfall structure (subject to final documentation and review by securities counsel):
+Investor distributions follow a tiered waterfall structure, identical under both Elections (subject to final documentation and review by securities counsel):
 
 | Tier | Distribution | Threshold |
 |---|---|---|
@@ -619,16 +615,16 @@ Investor distributions follow a tiered waterfall structure (subject to final doc
 | **Promote Tier 3** | GP promote of 30% | 15–18% LP IRR |
 | **Promote Tier 4** | GP promote of 40% | Above an 18% LP IRR (uncapped) |
 
-The GP promote includes a catch-up provision. Additional structural terms: a 20% distribution reserve is held annually from positive cash flows as a safety buffer and released in Year 10; the developer fee is 4% of Phase-1 capitalization ($534,161), paid from operating cash flow; and the GP co-invests $500,000 pari passu with LP capital. Across the 10-year Phase-1 model, LPs receive 65.6% of total distributions. Detailed waterfall schedule available upon request.
+The GP promote includes a catch-up provision. Additional structural terms: a 20% distribution reserve is held annually from positive cash flows as a safety buffer and released in Year 10; the developer fee is $637,563 (Election A, 4% of $15,939,072) or $477,563 (Election B); and the GP co-invests $500,000 pari passu with LP capital. LPs receive 70.26% (Election A) or 61.17% (Election B) of total 10-year distributions. Detailed waterfall schedules available upon request.
 
-### 9.4 Investor Return Illustration ($100,000 Investment — Phase 1)
+### 9.4 Investor Return Illustration ($100,000 Invested — Phase 1)
 
-| Milestone | Cumulative Value |
+| Election | By Year 10 |
 |---|---|
-| **By Year 5 (interim)** | $178,847 in cumulative distributions (net profit $78,847) — 25.7% IRR / 1.79x EMx; construction loan not yet repaid at Year 5 |
-| **By Year 10** | $287,823 in cumulative distributions (net profit $187,823) — 32.1% IRR / 2.88x EMx |
+| **Election A (All-Equity)** | $244,924 in cumulative distributions (net profit $144,924) — 26.02% IRR / 2.449x EMx |
+| **Election B (Secured Notes)** | $365,470 in cumulative distributions (net profit $265,470) — 34.81% IRR / 3.655x EMx |
 
-*Illustrative, from the Phase-1 equity waterfall model. Actual distributions depend on project performance and are not guaranteed. Detailed distribution schedule available upon request.*
+*Illustrative, from the Phase-1 equity waterfall models. Actual distributions depend on project performance and are not guaranteed. Detailed distribution schedules available upon request.*
 
 ### 9.5 Sensitivity Analysis
 
@@ -740,29 +736,30 @@ Strategic advisors provide domain expertise across regenerative and biophilic de
 
 ## 12. The Ask
 
-### 12.1 Offering Summary — Phase 1
+### 12.1 Offering Summary — Phase 1 — Two Elections
 
 | Term | Detail |
 |---|---|
-| **Offering** | Class A Units (membership interests in Abundancia Community LLC) |
+| **Offering** | Class A Units (Election A) or Class A Units + Secured Promissory Notes (Election B) |
 | **Offering Scope** | Phase 1 only — Foundation & Community Activation (Years 1–2); Phases 2–3 are future upside and backstop, not part of this offering |
-| **Phase 1 Total Capitalization** | $13,354,032 ($5,154,032 LP equity + $500,000 GP co-investment + $7,700,000 construction debt at 8.5%) |
-| **LP Equity Raise** | $5,154,032 |
+| **Phase 1 Total Capitalization** | $15,939,072 (identical under both Elections) |
+| **Election A — All-Equity** | LP Equity $7,739,072 + GP Co-Investment $500,000 + Construction Debt $7,700,000 |
+| **Election B — Secured Notes** | LP Equity $3,739,072 + Secured Notes $4,000,000 (10%, subordinate to construction debt) + GP Co-Investment $500,000 + Construction Debt $7,700,000 |
 | **Construction Debt** | $7,700,000 at 8.5%, 10-year fully amortizing ($1,173,539/yr debt service) |
 | **Regulation** | Reg D, Rule 506(c) |
 | **Investor Type** | Accredited Investors Only (verified) |
-| **Minimum Investment** | $50,000 (1 Unit at $50,000; ~103 Units maximum; subject to final documentation) |
+| **Minimum Investment** | $50,000 (1 Unit; subject to final documentation) |
 | **Preferred Return** | 10% LP preferred return, cumulative — 100% to the equity class until preferred return and capital are returned |
 | **GP Promote** | Tiered above the preferred: 10% below a 12% LP IRR; 20% from 12–15%; 30% from 15–18%; 40% above 18% — with GP catch-up |
 | **Distribution Reserve** | 20% of positive cash flows held annually as a safety buffer; released Year 10 |
-| **Developer Fee** | 4% of Phase-1 capitalization ($534,161), paid from operating cash flow; GP co-invests $500,000 pari passu |
-| **Projected LP IRR (Phase 1)** | 32.1% (10-year); 25.7% (5-year interim) |
-| **Projected LP Equity Multiple (Phase 1)** | 2.88x (10-year); 1.79x (5-year interim) |
-| **Projected LP Distributions (Phase 1)** | $14,834,476 over 10 years (net profit $9,680,444) |
-| **Hold Period** | 10 years — 5-year figures are an interim snapshot (construction loan not repaid at Year 5) |
+| **Developer Fee** | Election A: $637,563 (4% of $15,939,072). Election B: $477,563. GP co-invests $500,000 pari passu under both. |
+| **Projected LP IRR (Phase 1)** | Election A: 26.02% (10-yr) / 20.07% (5-yr). Election B: 34.81% (10-yr) / 28.04% (5-yr) |
+| **Projected LP Equity Multiple (Phase 1)** | Election A: 2.449x (10-yr) / 1.6515x (5-yr). Election B: 3.655x (10-yr) / 2.104x (5-yr) |
+| **Projected LP Distributions (Phase 1)** | Election A: $18,955,089 over 10 years (net profit $11,216,017). Election B: $13,664,480 over 10 years (net profit $9,925,408) |
+| **Hold Period** | 10 years — LP capital fully returned by Year 3 under both Elections |
 | **Reporting** | Quarterly financial reports, annual K-1 |
 
-*All offering terms are subject to final documentation and review by securities counsel. Detailed waterfall schedule available upon request.*
+*All offering terms are subject to final documentation and review by securities counsel. Detailed waterfall schedules for both Elections available upon request. See Document 33 (Key Figures Sheet) and Document 34 (Election Notice).*
 
 ### 12.2 Why Invest Now
 
@@ -774,10 +771,10 @@ Strategic advisors provide domain expertise across regenerative and biophilic de
 
 ### 12.3 Next Steps
 
-1. **Review**: Complete offering documents (Documents 01-05) in this data room
+1. **Review**: Complete offering documents (Documents 01-05, 30-34) in this data room
 2. **Discuss**: Schedule a call with Kelly Krezek and the management team
 3. **Diligence**: Conduct personal due diligence with your advisors
-4. **Subscribe**: Complete the Subscription Agreement (Document 04) and investor questionnaire
+4. **Subscribe**: Complete the Subscription Agreement (Document 04), Election Notice (Document 34), and investor questionnaire
 5. **Fund**: Wire capital per subscription instructions
 6. **Access**: Receive executed documents and investor portal credentials
 
@@ -800,18 +797,17 @@ Strategic advisors provide domain expertise across regenerative and biophilic de
 
 | Assumption | Value |
 |---|---|
-| Land acquisition (scenario — subject to final terms) | $6.5M purchase price; 20% down; ~5% closing; 8% land loan (~$541K/yr; ~$2.17M Year-1 outlay) |
+| Land acquisition (scenario — subject to final terms) | $6.5M purchase price; 40% down; ~5% closing; 8% land loan (~$541K/yr; ~$2.17M Year-1 outlay) |
 | Phase 1 construction debt (the offering) | $7,700,000 at 8.5%, 10-year fully amortizing ($1,173,539/yr debt service) |
-| Hard costs (10-yr, full project) | ~$201,653,793 |
-| Soft costs (10-yr, full project) | $8,812,308 |
-| Total expenses (10-yr, full project, incl. contingency) | $251,605,403 |
-| Contingency | 10% ($22,873,218, included in total expenses) |
-| SFR pricing | From ~$450/SF entry; ~$566/SF blended realized |
-| Condo pricing | ~$400/SF blended |
-| Tiny home pricing | ~$416/SF (~$104K-$166K) |
-| Average estate lot revenue | ~$229K (estate lots; $22,872,273 total, 2028-2029) |
+| Total expenses (10-yr, full project, incl. contingency) | $242,509,325 |
+| Contingency | 10% ($22,046,302, included in total expenses) |
+| SFR pricing (standard, 1-5BR) | $450K-$1.35M @ $450/SF |
+| Luxury Estate pricing (5-7BR) | $2.10M-$3.30M @ $600/SF |
+| Condo pricing | $450/SF |
+| Micro-villa pricing | ~$437/SF (avg $141,520/unit) |
+| Average estate lot revenue | ~$150K (100 lots; $15,000,000 full-project total; Phase-1 lot revenue $10,817,449) |
 | Nature stay rates | Glamping tents $150/nt; domes $275/nt; high-end domes $375/nt |
-| Developer fee (Phase 1 — the offering) | 4% of Phase-1 capitalization ($534,161), paid from operating cash flow |
+| Developer fee (Phase 1 — the offering) | Election A: $637,563 (4% of $15,939,072). Election B: $477,563 |
 | Operating, occupancy & escalation assumptions | [TO CONFIRM] per financial model |
 
 ### 13.2 Comparable Pricing Analysis
@@ -824,7 +820,7 @@ Strategic advisors provide domain expertise across regenerative and biophilic de
 | West Lake Hills | Austin, TX | Luxury single-family | ~$756/SF | Premium submarket |
 | Whisper Valley | Manor, TX | Single-family | $300K-$750K | Zero-energy geothermal; ~7,500 planned homes; proves east-Austin sustainability demand |
 | Serenbe | Georgia | Single-family | Homes from ~$375K | 1,200-acre wellness agrihood, 750+ residents, demonstrated premiums |
-| **Abundancia (projected)** | **Cedar Creek** | **Single-family / condos** | **SFR ~$566/SF blended (from ~$450/SF); condos ~$400/SF** | **Hempcrete, regenerative community, full amenity** |
+| **Abundancia (projected)** | **Cedar Creek** | **Single-family / condos** | **SFR ~$477/SF blended ($450/SF standard, $600/SF luxury 5-7BR); condos $450/SF** | **Hempcrete, regenerative community, full amenity** |
 
 ### 13.3 Glossary of Terms
 
