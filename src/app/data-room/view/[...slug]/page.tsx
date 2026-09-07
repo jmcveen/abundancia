@@ -21,6 +21,10 @@ const DOCUMENT_MAP: Record<string, DocumentEntry> = {
   'investment/private-placement-memorandum': { file: 'investment/03-private-placement-memorandum.md', category: 'Investment Documents' },
   'investment/subscription-agreement': { file: 'investment/04-subscription-agreement.md', category: 'Investment Documents' },
   'investment/operating-agreement': { file: 'investment/05-operating-agreement.md', category: 'Investment Documents' },
+  'investment/key-figures-sheet': { file: 'investment/33-key-figures-sheet.md', category: 'Investment Documents' },
+  'investment/election-notice': { file: 'investment/34-election-notice.md', category: 'Investment Documents' },
+  'investment/note-offering-term-sheet': { file: 'investment/31-note-offering-term-sheet.md', category: 'Investment Documents' },
+  'investment/secured-promissory-note-form': { file: 'investment/30-secured-promissory-note-form.md', category: 'Investment Documents' },
   // Financial Model
   'financial/financial-projections': { file: 'financial/06-financial-projections.md', category: 'Financial Model' },
   'financial/unit-economics': { file: 'financial/07-unit-economics.md', category: 'Financial Model' },
@@ -37,6 +41,7 @@ const DOCUMENT_MAP: Record<string, DocumentEntry> = {
   'legal/corporate-structure': { file: 'legal/14-corporate-structure.md', category: 'Legal & Compliance' },
   'legal/mud-bond-framework': { file: 'legal/15-mud-bond-framework.md', category: 'Legal & Compliance' },
   'legal/risk-disclosure': { file: 'legal/16-risk-disclosure.md', category: 'Legal & Compliance' },
+  'legal/deed-of-trust': { file: 'legal/32-deed-of-trust-placeholder.md', category: 'Legal & Compliance' },
   // Regenerative Systems
   'regenerative/hempcrete-construction': { file: 'regenerative/17-hempcrete-construction.md', category: 'Regenerative Systems' },
   'regenerative/permaculture-design': { file: 'regenerative/18-permaculture-design.md', category: 'Regenerative Systems' },
