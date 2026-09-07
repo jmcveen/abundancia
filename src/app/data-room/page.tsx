@@ -18,6 +18,10 @@ const DOCUMENT_CATEGORIES = [
       { name: 'Private Placement Memorandum', slug: 'investment/private-placement-memorandum', doc: '03' },
       { name: 'Subscription Agreement', slug: 'investment/subscription-agreement', doc: '04' },
       { name: 'Operating Agreement', slug: 'investment/operating-agreement', doc: '05' },
+      { name: 'Key Figures — Phase 1 Offering', slug: 'investment/key-figures-sheet', doc: '33' },
+      { name: 'Investor Election Notice', slug: 'investment/election-notice', doc: '34' },
+      { name: 'Secured Note — Term Sheet', slug: 'investment/note-offering-term-sheet', doc: '31' },
+      { name: 'Form of Secured Promissory Note', slug: 'investment/secured-promissory-note-form', doc: '30' },
     ],
   },
   {
@@ -35,7 +39,9 @@ const DOCUMENT_CATEGORIES = [
     name: 'Property Documents',
     icon: Folder,
     documents: [
-      // Site Assessment, Master Plan, and Environmental Compliance - coming soon
+      { name: 'Site Assessment', slug: 'property/site-assessment', doc: '10' },
+      { name: 'Master Plan', slug: 'property/master-plan', doc: '11' },
+      { name: 'Environmental Compliance', slug: 'property/environmental-compliance', doc: '12' },
       { name: 'Comparable Market Analysis', slug: 'property/comparable-market-analysis', doc: '13' },
       { name: 'Construction Budget & Timeline', slug: 'property/construction-budget', doc: '29' },
     ],
@@ -47,6 +53,7 @@ const DOCUMENT_CATEGORIES = [
       { name: 'Corporate Structure Overview', slug: 'legal/corporate-structure', doc: '14' },
       { name: 'MUD Bond Framework', slug: 'legal/mud-bond-framework', doc: '15' },
       { name: 'Risk Disclosure Document', slug: 'legal/risk-disclosure', doc: '16' },
+      { name: 'Deed of Trust (Placeholder)', slug: 'legal/deed-of-trust', doc: '32' },
     ],
   },
   {
