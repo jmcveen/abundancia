@@ -197,7 +197,7 @@ export default function ModelPage() {
                   key={stream.name}
                   name={stream.name}
                   value={stream.value}
-                  maxValue={streams[0].value}
+                  maxValue={Math.max(...streams.map((s) => s.value))}
                   color={stream.color}
                   onClick={() => setModal({
                     title: stream.name,

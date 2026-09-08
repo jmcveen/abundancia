@@ -21,13 +21,19 @@ export const SCENARIO_LABELS: Record<Scenario, string> = {
 }
 
 // Base Case is the Phase-1 model exactly. Conservative and Optimistic are
-// SENSITIVITIES applied to it, not separate model runs:
-//   conservative — revenue x0.85, expenses x0.96 (only selling costs flex down)
-//   optimistic   — revenue x1.15, expenses x1.02
+// SENSITIVITIES applied to it, not separate model runs.
+//
+// Costs move AGAINST revenue, which is the whole point of a stress case:
+//   conservative — revenue x0.85 AND expenses x1.10 (slower sales, cost overrun)
+//   optimistic   — revenue x1.15 AND expenses x0.95 (faster sales, contingency unspent)
+//
+// Year 1 has zero revenue — it is pure construction spend — so the Year-1 loss
+// is driven by the cost multiplier alone. It must get WORSE as the case gets
+// more conservative, never better.
 export const SCENARIO_BASIS: Record<Scenario, string> = {
-  conservative: 'Base case with revenue 15% lower; costs flex down only 4%.',
+  conservative: 'Revenue 15% lower and costs 10% higher than the model.',
   base: 'The Phase-1 financial model exactly, as filed in the data room.',
-  optimistic: 'Base case with revenue 15% higher and costs 2% higher.',
+  optimistic: 'Revenue 15% higher and costs 5% lower than the model.',
 }
 
 // NOTE ON RETURNS. The scenario toggle is a sensitivity on the OPERATING pro
@@ -45,9 +51,9 @@ export const KEY_METRICS: Record<Scenario, {
   capitalization: number
   capitalReturnedByYear: number
 }> = {
-  conservative: { irr: 26.02, emx: 2.449, revenue10yr: 54_023_844, ebitda10yr: 15_485_300, capitalization: 15_939_072, capitalReturnedByYear: 3 },
+  conservative: { irr: 26.02, emx: 2.449, revenue10yr: 54_023_844, ebitda10yr: 9_865_097, capitalization: 15_939_072, capitalReturnedByYear: 3 },
   base: { irr: 26.02, emx: 2.449, revenue10yr: 63_557_465, ebitda10yr: 23_413_148, capitalization: 15_939_072, capitalReturnedByYear: 3 },
-  optimistic: { irr: 26.02, emx: 2.449, revenue10yr: 73_091_086, ebitda10yr: 32_143_883, capitalization: 15_939_072, capitalReturnedByYear: 3 },
+  optimistic: { irr: 26.02, emx: 2.449, revenue10yr: 73_091_086, ebitda10yr: 34_953_985, capitalization: 15_939_072, capitalReturnedByYear: 3 },
 }
 
 // The full picture, for any page that wants to state the range honestly.
@@ -87,16 +93,16 @@ export const REVENUE_STREAMS: Record<Scenario, { name: string; value: number; co
 // ─── Phase-1 Revenue by Year (Year 1 = 2027) ─────────────────────────────
 export const REVENUE_BY_YEAR: Record<Scenario, { year: number; revenue: number; expenses: number; ebitda: number }[]> = {
   conservative: [
-    { year: 1, revenue: 0, expenses: 13_545_537, ebitda: -13_545_537 },
-    { year: 2, revenue: 14_863_347, expenses: 9_058_506, ebitda: 5_804_841 },
-    { year: 3, revenue: 8_474_609, expenses: 2_281_921, ebitda: 6_192_688 },
-    { year: 4, revenue: 3_934_177, expenses: 2_182_367, ebitda: 1_751_810 },
-    { year: 5, revenue: 4_084_018, expenses: 2_018_490, ebitda: 2_065_528 },
-    { year: 6, revenue: 4_233_858, expenses: 1_865_951, ebitda: 2_367_907 },
-    { year: 7, revenue: 4_383_698, expenses: 1_878_148, ebitda: 2_505_550 },
-    { year: 8, revenue: 4_533_539, expenses: 1_890_345, ebitda: 2_643_194 },
-    { year: 9, revenue: 4_683_379, expenses: 1_902_541, ebitda: 2_780_838 },
-    { year: 10, revenue: 4_833_219, expenses: 1_914_738, ebitda: 2_918_481 },
+    { year: 1, revenue: 0, expenses: 15_520_927, ebitda: -15_520_927 },
+    { year: 2, revenue: 14_863_347, expenses: 10_379_538, ebitda: 4_483_809 },
+    { year: 3, revenue: 8_474_609, expenses: 2_614_701, ebitda: 5_859_908 },
+    { year: 4, revenue: 3_934_177, expenses: 2_500_629, ebitda: 1_433_548 },
+    { year: 5, revenue: 4_084_018, expenses: 2_312_853, ebitda: 1_771_165 },
+    { year: 6, revenue: 4_233_858, expenses: 2_138_069, ebitda: 2_095_789 },
+    { year: 7, revenue: 4_383_698, expenses: 2_152_044, ebitda: 2_231_654 },
+    { year: 8, revenue: 4_533_539, expenses: 2_166_020, ebitda: 2_367_519 },
+    { year: 9, revenue: 4_683_379, expenses: 2_179_995, ebitda: 2_503_384 },
+    { year: 10, revenue: 4_833_219, expenses: 2_193_971, ebitda: 2_639_248 },
   ],
   base: [
     { year: 1, revenue: 0, expenses: 14_109_934, ebitda: -14_109_934 },
@@ -111,16 +117,16 @@ export const REVENUE_BY_YEAR: Record<Scenario, { year: number; revenue: number; 
     { year: 10, revenue: 5_686_140, expenses: 1_994_519, ebitda: 3_691_621 },
   ],
   optimistic: [
-    { year: 1, revenue: 0, expenses: 14_392_133, ebitda: -14_392_133 },
-    { year: 2, revenue: 20_109_235, expenses: 9_624_663, ebitda: 10_484_572 },
-    { year: 3, revenue: 11_465_647, expenses: 2_424_541, ebitda: 9_041_106 },
-    { year: 4, revenue: 5_322_711, expenses: 2_318_765, ebitda: 3_003_946 },
-    { year: 5, revenue: 5_525_436, expenses: 2_144_646, ebitda: 3_380_790 },
-    { year: 6, revenue: 5_728_162, expenses: 1_982_573, ebitda: 3_745_589 },
-    { year: 7, revenue: 5_930_886, expenses: 1_995_532, ebitda: 3_935_354 },
-    { year: 8, revenue: 6_133_611, expenses: 2_008_491, ebitda: 4_125_120 },
-    { year: 9, revenue: 6_336_337, expenses: 2_021_450, ebitda: 4_314_887 },
-    { year: 10, revenue: 6_539_061, expenses: 2_034_409, ebitda: 4_504_652 },
+    { year: 1, revenue: 0, expenses: 13_404_437, ebitda: -13_404_437 },
+    { year: 2, revenue: 20_109_235, expenses: 8_964_147, ebitda: 11_145_088 },
+    { year: 3, revenue: 11_465_647, expenses: 2_258_151, ebitda: 9_207_496 },
+    { year: 4, revenue: 5_322_711, expenses: 2_159_634, ebitda: 3_163_077 },
+    { year: 5, revenue: 5_525_436, expenses: 1_997_464, ebitda: 3_527_972 },
+    { year: 6, revenue: 5_728_162, expenses: 1_846_514, ebitda: 3_881_648 },
+    { year: 7, revenue: 5_930_886, expenses: 1_858_584, ebitda: 4_072_302 },
+    { year: 8, revenue: 6_133_611, expenses: 1_870_654, ebitda: 4_262_957 },
+    { year: 9, revenue: 6_336_337, expenses: 1_882_723, ebitda: 4_453_614 },
+    { year: 10, revenue: 6_539_061, expenses: 1_894_793, ebitda: 4_644_268 },
   ],
 }
 // ─── The Election: two capital structures, one Phase-1 offering ──────────
