@@ -13,6 +13,7 @@ import {
   INVESTMENT_DISCLAIMER,
   KEY_METRICS,
   REVENUE_BY_YEAR,
+  SCENARIO_BASIS,
   USE_OF_FUNDS,
   ELECTIONS,
   NOTE_TERMS,
@@ -398,26 +399,33 @@ function FinancialsContent() {
 
           <FadeIn delay={0.2}>
             <div className="space-y-3 mb-8">
-              {streams.map((stream) => (
-                <div key={stream.name} className="flex items-center gap-4">
-                  <div className="w-44 flex-shrink-0">
-                    <span className="font-accent text-sm text-neutral-700">{stream.name}</span>
-                  </div>
-                  <div className="flex-1 bg-neutral-100 rounded-full h-8 overflow-hidden">
-                    <div
-                      className="h-full rounded-full flex items-center justify-end pr-3 transition-all duration-700"
-                      style={{
-                        width: `${(stream.value / streams[0].value) * 100}%`,
-                        backgroundColor: stream.color,
-                      }}
-                    >
-                      <span className="font-accent text-xs text-white font-semibold">
+              {streams.map((stream) => {
+                // Scale against the LARGEST stream, not the first one. Scaling
+                // against streams[0] made any stream bigger than the first
+                // exceed 100% width; the bar clipped and its value label was
+                // pushed outside the visible area entirely.
+                const maxStream = Math.max(...streams.map((s) => s.value))
+                const pct = maxStream > 0 ? (stream.value / maxStream) * 100 : 0
+                return (
+                  <div key={stream.name} className="flex items-center gap-4">
+                    <div className="w-44 flex-shrink-0">
+                      <span className="font-accent text-sm text-neutral-700">{stream.name}</span>
+                    </div>
+                    <div className="flex-1 bg-neutral-100 rounded-full h-8 overflow-hidden">
+                      <div
+                        className="h-full rounded-full transition-all duration-700"
+                        style={{ width: `${pct}%`, backgroundColor: stream.color }}
+                      />
+                    </div>
+                    {/* Value sits outside the bar so a short stream can never hide it. */}
+                    <div className="w-20 flex-shrink-0 text-right">
+                      <span className="font-accent text-sm font-semibold text-neutral-800">
                         ${(stream.value / 1_000_000).toFixed(1)}M
                       </span>
                     </div>
                   </div>
-                </div>
-              ))}
+                )
+              })}
             </div>
           </FadeIn>
         </div>
@@ -435,6 +443,11 @@ function FinancialsContent() {
                 <h2 className="font-display text-4xl md:text-5xl">
                   Year-by-Year Projections
                 </h2>
+                <p className="mt-3 max-w-xl text-sm text-white/70">
+                  {SCENARIO_BASIS[scenario]} Year 1 carries no revenue — it is construction
+                  spend — so the Year-1 loss deepens in the conservative case and eases in the
+                  optimistic one.
+                </p>
               </div>
               <ScenarioToggle />
             </div>
