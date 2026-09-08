@@ -14,6 +14,9 @@ import {
   KEY_METRICS,
   REVENUE_BY_YEAR,
   USE_OF_FUNDS,
+  ELECTIONS,
+  NOTE_TERMS,
+  type ElectionKey,
   WATERFALL,
   REVENUE_STREAMS,
 } from '@/lib/data/financials'
@@ -25,18 +28,18 @@ import {
 const METRIC_EXPLANATIONS: Record<string, { title: string; body: string; methodology: string }> = {
   revenue10yr: {
     title: '10-Year Cumulative Revenue',
-    body: 'Total gross revenue generated across all four revenue streams over the 5-10 year term, including residential sales, rental income, lot sales, and commercial leasing.',
+    body: 'Total gross PHASE-1 revenue across the four revenue streams over the ten-year term: residential sales, rental and hospitality income, lot sales, and commercial leasing. Phase 1 is the scope funded by this offering and does not depend on later phases proceeding.',
     methodology: 'Calculated by summing annual revenue projections from the financial model, which uses absorption-rate assumptions for unit sales, occupancy rates for rentals, and market-rate escalators for pricing.',
   },
   ebitda10yr: {
     title: '10-Year Cumulative EBITDA',
-    body: 'Earnings Before Interest, Taxes, Depreciation, and Amortization over the full hold period. This represents the project\'s core operating profitability before capital structure considerations.',
+    body: 'Phase-1 earnings before interest, taxes, depreciation and amortization over the ten-year hold. This is operating profitability before capital structure — it is identical under both Elections, which is why the Election choice changes returns without changing the underlying business.',
     methodology: 'Derived from revenue minus operating expenses (construction costs, staffing, marketing, property management, insurance, and maintenance). Does not include debt service or depreciation.',
   },
   emx: {
     title: 'LP Equity Multiple (EMx)',
-    body: 'The total return on invested capital for Limited Partners. An EMx of 4.42x means every $1 invested returns $4.42 in total distributions over the life of the investment.',
-    methodology: 'Calculated as total LP distributions divided by total LP capital contributions, using the IRR-based waterfall distribution structure with a tiered GP promote (10% → 20% → 30% → 40%).',
+    body: 'The total return on invested capital for Limited Partners. An EMx of 2.449x means every $1 invested returns $2.449 in total distributions over the life of the investment. Phase 1 models 2.449x under Election A and 3.655x under Election B.',
+    methodology: 'Total LP distributions divided by total LP capital contributions, under a 10% cumulative preferred return plus return of capital, a GP catch-up, then a residual split that moves 90/10, 80/20, 70/30 and 60/40 as the LP IRR passes 12%, 15% and 18%.',
   },
   irr: {
     title: 'LP Internal Rate of Return (IRR)',
@@ -47,76 +50,86 @@ const METRIC_EXPLANATIONS: Record<string, { title: string; body: string; methodo
 
 const FUND_DETAILS: Record<string, { description: string; lineItems: { item: string; amount: string }[] }> = {
   'Land Acquisition': {
-    description: 'Securing the primary 150-acre site in East Austin, including due diligence, title insurance, and closing costs.',
+    description: 'Securing the 376-acre site in Cedar Creek, Bastrop County: $6,500,000 purchase price at 40% down, closing costs, and the first year of land-loan service on the $3,900,000 balance.',
     lineItems: [
-      { item: 'Land Purchase Price', amount: '$3,600,000' },
-      { item: 'Due Diligence & Surveys', amount: '$180,000' },
-      { item: 'Title Insurance & Closing', amount: '$120,000' },
-      { item: 'Environmental Assessment', amount: '$100,000' },
+      { item: 'Down Payment (40% of $6,500,000)', amount: '$2,600,000' },
+      { item: 'Closing Costs (5%)', amount: '$325,000' },
+      { item: 'Year-1 Land Loan Service ($3.9M @ 8%)', amount: '$580,253' },
     ],
   },
-  'Hard Costs': {
-    description: 'Physical construction costs for Phase 1 infrastructure and model units, including hempcrete demonstration homes.',
+  'Nature-Stay & Rental Build': {
+    description: 'The 60-unit nature-stay portfolio that opens in 2028 — the Phase-1 revenue engine and the top of the ownership funnel, including the ten Regen Villas built through natural-building workshops.',
     lineItems: [
-      { item: 'Model Home Construction (3 units)', amount: '$750,000' },
-      { item: 'Community Center Shell', amount: '$500,000' },
-      { item: 'Hempcrete Production Facility', amount: '$300,000' },
-      { item: 'Materials & Equipment', amount: '$200,000' },
+      { item: 'Glamping tents, domes & camping sites (50)', amount: 'included' },
+      { item: 'Regen Villas — 10 material systems', amount: 'included' },
+      { item: 'Total nature-stay build (14,946 SF)', amount: '$2,186,574' },
     ],
   },
-  'Site Work': {
-    description: 'Grading, utilities, roads, and regenerative infrastructure for the initial community phase.',
+  'Amenities & Commercial': {
+    description: 'The community core that opens in Year 1: the Community Center, the Wellness & Longevity Center, and the parks and recreation areas woven through the site.',
     lineItems: [
-      { item: 'Grading & Earthwork', amount: '$450,000' },
-      { item: 'Utility Infrastructure', amount: '$550,000' },
-      { item: 'Roads & Access', amount: '$400,000' },
-      { item: 'Regenerative Systems (Water/Solar)', amount: '$350,000' },
+      { item: 'Community Center (5,000 SF)', amount: '$1,537,500' },
+      { item: 'Wellness / Longevity Center & Spa (5,000 SF)', amount: '$1,537,500' },
+      { item: 'Parks & Recreation Areas (8)', amount: '$120,002' },
     ],
   },
-  'Master Planning & Architecture': {
-    description: 'Architecture, engineering, permitting, and land-use planning for the full community buildout.',
+  'Site Work & Infrastructure': {
+    description: 'Roads, water, power, fiber and the regenerative systems that everything else depends on — front-loaded so later phases build onto finished ground.',
     lineItems: [
-      { item: 'Master Site Plan (Symbiosis TX)', amount: '$400,000' },
-      { item: 'Architectural Design (Inphinity Design)', amount: '$400,000' },
-      { item: 'Civil Engineering & MEP', amount: '$300,000' },
-      { item: 'Permitting, Entitlements & Legal', amount: '$240,596' },
+      { item: 'Earthworks, roads, paths & gutters', amount: 'included' },
+      { item: 'Water, wells, storage & filtration', amount: 'included' },
+      { item: 'Power, fiber, biodigester wastewater', amount: 'included' },
+      { item: 'Total Year-1 site work', amount: '$1,621,762' },
+    ],
+  },
+  'Soft Costs (A&E, permits, DD)': {
+    description: 'Due diligence, master planning, architecture and engineering, and the permitting and legal work that clears the way to build.',
+    lineItems: [
+      { item: 'Due Diligence (incl. hydrology & water feasibility)', amount: '$142,080' },
+      { item: 'Master Planning & Consultants', amount: '$576,058' },
+      { item: 'Architecture & Engineering', amount: '$275,333' },
+      { item: 'Legal & Permits', amount: '$125,573' },
     ],
   },
   'Staffing, Ops & Marketing': {
-    description: 'Core team, operations, and go-to-market strategy through initial revenue generation.',
+    description: 'The team, the operating costs of a live site, and the marketing that converts the existing 10,000-person interest list into Phase-1 buyers.',
     lineItems: [
-      { item: 'Executive Team & Project Management', amount: '$600,000' },
-      { item: 'Operations & Office', amount: '$200,000' },
-      { item: 'Brand, Digital Marketing & PR', amount: '$350,000' },
-      { item: 'Sales Center, Events & Outreach', amount: '$250,771' },
+      { item: 'Staffing', amount: '$416,910' },
+      { item: 'Marketing', amount: '$295,000' },
+      { item: 'Taxes & Insurance', amount: '$231,000' },
+      { item: 'Utilities & Sanitation', amount: '$147,869' },
+      { item: 'Accounting & Capital Expenses', amount: '$108,800' },
     ],
   },
-  'Contingency & Carry Costs': {
-    description: '18% reserve for cost overruns, market shifts, carry costs, and unforeseen development challenges. Industry standard is 10-15%.',
+  'Contingency (10%)': {
+    description: 'A 10% contingency applied across the Phase-1 program for cost escalation, timing, and the unforeseen. Phase 1 carries $3,649,484 of contingency across the full ten years.',
     lineItems: [
-      { item: 'Construction Contingency', amount: '$1,000,000' },
-      { item: 'Market/Timing Contingency', amount: '$600,000' },
-      { item: 'Carry Costs & Debt Service', amount: '$627,007' },
+      { item: 'Year-1 contingency (10%)', amount: '$1,282,721' },
+      { item: 'Phase-1 contingency, 10-year total', amount: '$3,649,484' },
     ],
   },
 }
 
 const WATERFALL_EXPLANATIONS: Record<string, { plain: string; example: string }> = {
-  'Tier 1 - Return of Capital': {
-    plain: 'Initial sales fund development up to the approved budget plus a 10% reserve. Proceeds are distributed 80% LP / 20% GP until investor principal is fully repaid.',
-    example: 'If you invest $250,000, you receive 100% of distributions until your full $250,000 plus the 10% preferred return is repaid.',
+  'Preferred Return + Return of Capital': {
+    plain: 'Before the sponsor shares in any profit, LPs receive a 10% cumulative preferred return and then their full capital back. Under both Elections the model returns LP capital by Year 3.',
+    example: 'If you invest $250,000, distributions flow entirely to the equity class until your 10% preference and your full $250,000 have been paid.',
   },
-  'Tier 2 - 12% IRR': {
-    plain: 'Once principal is repaid and a 12% IRR to LP is reached, profits are distributed 70% LP / 30% GP. The GP begins to participate more meaningfully in the upside.',
-    example: 'After your capital is returned with a 12% IRR, 70% of additional distributions flow to you as LP.',
+  'Tier 1 — below 12% LP IRR': {
+    plain: 'After the preference and return of capital, and a GP catch-up, residual profit splits 90% LP / 10% GP while the LP IRR is still below 12%.',
+    example: 'At this stage 90 cents of every additional dollar distributed goes to LPs.',
   },
-  'Tier 3 - 15% IRR': {
-    plain: 'At a 15% IRR to LP, the split shifts to 60% LP / 40% GP. The increasing GP share rewards the management team for outperformance.',
-    example: 'Once your returns exceed 15% IRR, 60% of additional distributions flow to you as LP.',
+  'Tier 2 — 12% to 15% LP IRR': {
+    plain: 'Once the LP IRR passes 12%, the residual splits 80% LP / 20% GP until 15% is reached.',
+    example: 'Between a 12% and 15% LP IRR, 80% of additional distributions flow to you as LP.',
   },
-  'Tier 4 - 18% IRR': {
-    plain: 'At an 18% IRR to LP, profits are split 50/50 until the agreed term is reached. At this level, the project has far exceeded expectations.',
-    example: 'Above 18% IRR, LPs and GP split 50/50 for the remaining term.',
+  'Tier 3 — 15% to 18% LP IRR': {
+    plain: 'Between a 15% and 18% LP IRR the split moves to 70% LP / 30% GP, increasing the sponsor share as performance improves.',
+    example: 'Once your return passes 15% IRR, 70% of additional distributions flow to you as LP.',
+  },
+  'Tier 4 — above 18% LP IRR': {
+    plain: 'Above an 18% LP IRR the residual splits 60% LP / 40% GP, uncapped. Both Elections model into this band, and the LP class still retains the majority of total distributions — 70.3% under Election A, 61.2% under Election B.',
+    example: 'Above 18% IRR, 60% of additional distributions flow to you as LP.',
   },
 }
 
@@ -297,7 +310,7 @@ function FinancialsContent() {
               Pro Forma & Returns
             </h1>
             <p className="text-xl text-neutral-600 max-w-3xl leading-relaxed mb-8">
-              Detailed financial projections for the $15.9M capital raise. Toggle between conservative, base, and optimistic scenarios to stress-test assumptions.
+              Phase-1 projections for the $15,939,072 capital raise — the scope this offering funds. Toggle the scenarios to stress-test the operating assumptions, and compare the two Elections below.
             </p>
             <p className="mb-8 font-accent text-xs uppercase tracking-[0.14em] text-secondary-600">
               {INVESTMENT_DISCLAIMER}
@@ -316,7 +329,7 @@ function FinancialsContent() {
                 target={metrics.revenue10yr / 1_000_000}
                 prefix="$"
                 suffix="M"
-                label="10-Year Revenue"
+                label="Phase-1 10-Yr Revenue"
                 onClick={() => setMetricModal('revenue10yr')}
               />
             </StaggerItem>
@@ -325,26 +338,24 @@ function FinancialsContent() {
                 target={metrics.ebitda10yr / 1_000_000}
                 prefix="$"
                 suffix="M"
-                label="10-Year EBITDA"
+                label="Phase-1 10-Yr EBITDA"
                 onClick={() => setMetricModal('ebitda10yr')}
               />
             </StaggerItem>
             <StaggerItem>
               <MetricCard
-                target={metrics.emx}
-                suffix="x"
-                label="LP Equity Multiple"
+                target={metrics.capitalization / 1_000_000}
+                prefix="$"
+                suffix="M"
+                label="Phase-1 Capitalization"
                 decimals={2}
-                onClick={() => setMetricModal('emx')}
               />
             </StaggerItem>
             <StaggerItem>
               <MetricCard
-                target={metrics.irr}
-                suffix="%"
-                label="LP IRR"
-                decimals={1}
-                onClick={() => setMetricModal('irr')}
+                target={metrics.capitalReturnedByYear}
+                prefix="Yr "
+                label="LP Capital Returned By"
               />
             </StaggerItem>
           </StaggerContainer>
@@ -487,15 +498,146 @@ function FinancialsContent() {
         </div>
       </section>
 
+      {/* ═══ THE ELECTION ═══ */}
+      <section className="py-20 md:py-28 bg-canvas-subtle">
+        <div className="section-container">
+          <FadeIn>
+            <div className="text-center mb-14">
+              <h2 className="font-display text-3xl md:text-4xl text-neutral-900 mb-4">
+                The Election — Two Ways to Fund the Same Project
+              </h2>
+              <p className="max-w-3xl mx-auto text-neutral-600">
+                Both Elections raise an identical <strong>$15,939,072</strong> and run on identical
+                Phase-1 operating economics — the same revenue, the same EBITDA, the same build.
+                Only the treatment of the $4,000,000 land tranche differs, and that alone changes
+                the return profile. Figures below are the base case.
+              </p>
+            </div>
+          </FadeIn>
+
+          <StaggerContainer className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            {(['a', 'b'] as ElectionKey[]).map((key) => {
+              const e = ELECTIONS[key]
+              return (
+                <StaggerItem key={key}>
+                  <div className="card p-8 h-full flex flex-col">
+                    <h3 className="font-display text-2xl text-neutral-900 mb-1">{e.name}</h3>
+                    <p className="font-accent text-sm text-primary-600 mb-6">{e.tagline}</p>
+
+                    <div className="grid grid-cols-2 gap-4 mb-6">
+                      <div>
+                        <div className="font-display text-3xl text-primary-700">{e.irr10yr}%</div>
+                        <div className="font-accent text-xs uppercase tracking-[0.14em] text-neutral-500">LP IRR · 10-Yr</div>
+                      </div>
+                      <div>
+                        <div className="font-display text-3xl text-primary-700">{e.emx10yr}x</div>
+                        <div className="font-accent text-xs uppercase tracking-[0.14em] text-neutral-500">Equity Multiple · 10-Yr</div>
+                      </div>
+                      <div>
+                        <div className="font-display text-xl text-neutral-800">{e.irr5yr}%</div>
+                        <div className="font-accent text-xs uppercase tracking-[0.14em] text-neutral-500">LP IRR · 5-Yr</div>
+                      </div>
+                      <div>
+                        <div className="font-display text-xl text-neutral-800">{e.emx5yr}x</div>
+                        <div className="font-accent text-xs uppercase tracking-[0.14em] text-neutral-500">Equity Multiple · 5-Yr</div>
+                      </div>
+                    </div>
+
+                    <dl className="text-sm space-y-2 mb-6 border-t border-neutral-100 pt-5">
+                      <div className="flex justify-between gap-4">
+                        <dt className="text-neutral-500">LP equity</dt>
+                        <dd className="text-neutral-900 font-mono">${e.lpEquity.toLocaleString()}</dd>
+                      </div>
+                      {e.landNotes > 0 && (
+                        <div className="flex justify-between gap-4">
+                          <dt className="text-neutral-500">Secured land notes</dt>
+                          <dd className="text-neutral-900 font-mono">${e.landNotes.toLocaleString()}</dd>
+                        </div>
+                      )}
+                      <div className="flex justify-between gap-4">
+                        <dt className="text-neutral-500">GP co-investment</dt>
+                        <dd className="text-neutral-900 font-mono">${e.gpCoInvest.toLocaleString()}</dd>
+                      </div>
+                      <div className="flex justify-between gap-4">
+                        <dt className="text-neutral-500">Construction debt</dt>
+                        <dd className="text-neutral-900 font-mono">${e.constructionDebt.toLocaleString()}</dd>
+                      </div>
+                      <div className="flex justify-between gap-4 border-t border-neutral-100 pt-2">
+                        <dt className="text-neutral-700 font-medium">Total capital</dt>
+                        <dd className="text-neutral-900 font-mono font-medium">${e.totalCapital.toLocaleString()}</dd>
+                      </div>
+                    </dl>
+
+                    <div className="rounded-xl bg-primary-50 p-4 mb-5">
+                      <div className="font-accent text-xs uppercase tracking-[0.14em] text-primary-700 mb-2">
+                        $100,000 invested
+                      </div>
+                      <div className="flex justify-between text-sm">
+                        <span className="text-neutral-600">by Year 5</span>
+                        <span className="font-mono text-neutral-900">~${e.per100k5yr.toLocaleString()}</span>
+                      </div>
+                      <div className="flex justify-between text-sm">
+                        <span className="text-neutral-600">by Year 10</span>
+                        <span className="font-mono text-neutral-900">~${e.per100k10yr.toLocaleString()}</span>
+                      </div>
+                    </div>
+
+                    <p className="text-sm text-neutral-600 leading-relaxed mt-auto">{e.tradeoff}</p>
+
+                    <p className="mt-4 font-accent text-xs uppercase tracking-[0.14em] text-secondary-600">
+                      LP share of total distributions: {e.lpShareOfDistributions}%
+                    </p>
+                  </div>
+                </StaggerItem>
+              )
+            })}
+          </StaggerContainer>
+
+          <FadeIn>
+            <div className="card p-6 mt-6">
+              <h4 className="font-display text-lg text-neutral-900 mb-3">
+                Secured Note Terms — Election B only
+              </h4>
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm mb-4">
+                <div>
+                  <div className="font-mono text-neutral-900">${NOTE_TERMS.principal.toLocaleString()}</div>
+                  <div className="text-neutral-500 text-xs">Principal</div>
+                </div>
+                <div>
+                  <div className="font-mono text-neutral-900">{NOTE_TERMS.interestRate}%</div>
+                  <div className="text-neutral-500 text-xs">Interest, interest-only</div>
+                </div>
+                <div>
+                  <div className="font-mono text-neutral-900">${NOTE_TERMS.totalRepayment.toLocaleString()}</div>
+                  <div className="text-neutral-500 text-xs">Total repayment</div>
+                </div>
+                <div>
+                  <div className="font-mono text-neutral-900">{NOTE_TERMS.holderMultiple}x</div>
+                  <div className="text-neutral-500 text-xs">Note-holder multiple ({NOTE_TERMS.holderIrr}% IRR)</div>
+                </div>
+              </div>
+              <p className="text-sm text-neutral-600">
+                {NOTE_TERMS.structure}. {NOTE_TERMS.security} Note holders rank ahead of equity and
+                take no share of project upside.
+              </p>
+            </div>
+          </FadeIn>
+        </div>
+      </section>
+
       {/* ═══ USE OF FUNDS ═══ */}
       <section className="py-20 md:py-28 bg-canvas">
         <div className="section-container">
           <FadeIn>
             <div className="text-center mb-14">
-              <span className="eyebrow mb-3 block">$15.9M Capital Raise</span>
+              <span className="eyebrow mb-3 block">$14.1M Year-1 Draw</span>
               <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
                 Use of Funds
               </h2>
+              <p className="max-w-2xl mx-auto text-sm text-neutral-600 mb-2">
+                The Year-1 construction and land draw. The balance of the $15,939,072 raised
+                covers Year-1 debt service and the developer fee, leaving a working cushion.
+              </p>
               <p className="font-accent text-sm text-neutral-500">Click any category for line-item detail</p>
             </div>
           </FadeIn>
