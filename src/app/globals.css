@@ -182,6 +182,16 @@
     background: transparent;
   }
 
+  /* Outlined button for DARK backgrounds, in Sacred Gold (#ceb78e =
+     secondary-400). `.btn-primary` is text-neutral-800 and only works on light
+     surfaces — on the dark green CTA it rendered near-invisible. Hover keeps
+     the same near-black fill with white text, which reads well either way. */
+  .btn-primary-gold {
+    @apply btn text-secondary-400 border border-secondary-400/60
+           hover:bg-neutral-900 hover:text-white hover:border-neutral-900;
+    background: transparent;
+  }
+
   .btn-secondary-light {
     @apply btn text-white/60
            border border-white/10
