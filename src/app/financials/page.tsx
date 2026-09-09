@@ -778,7 +778,7 @@ function FinancialsContent() {
           </FadeIn>
           <FadeIn delay={0.2}>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link href="/invest" className="btn-primary btn-lg rounded-2xl text-base group">
+              <Link href="/invest" className="btn-primary-gold btn-lg rounded-2xl text-base group">
                 The Investment
                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>
