@@ -8,7 +8,16 @@ import { FileText, Folder, Lock, Eye, Mail, Leaf, TrendingUp, Shield, Search, Cl
 // Data
 // ═══════════════════════════════════════════════════════════════════════════
 
-const DOCUMENT_CATEGORIES = [
+type DataRoomDoc = {
+  name: string
+  doc: string
+  /** Markdown document rendered in the viewer */
+  slug?: string
+  /** Direct file (e.g. a PDF). Keep it under /data-room/ so the middleware gate protects it. */
+  href?: string
+}
+
+const DOCUMENT_CATEGORIES: { name: string; icon: typeof FileText; documents: DataRoomDoc[] }[] = [
   {
     name: 'Investment Documents',
     icon: TrendingUp,
@@ -28,6 +37,7 @@ const DOCUMENT_CATEGORIES = [
     name: 'Financial Model',
     icon: FileText,
     documents: [
+      { name: 'Phase 1 Financial Model (PDF)', href: '/data-room/files/abundancia-phase-1-financial-model.pdf', doc: '35' },
       { name: 'Financial Projections (10-Year)', slug: 'financial/financial-projections', doc: '06' },
       { name: 'Unit Economics Model', slug: 'financial/unit-economics', doc: '07' },
       { name: 'Sensitivity Analysis', slug: 'financial/sensitivity-analysis', doc: '08' },
@@ -204,13 +214,25 @@ export default function DataRoomPage() {
                               <p className="text-xs text-neutral-400 mt-0.5">Document {doc.doc}</p>
                             </div>
                           </div>
-                          <Link
-                            href={`/data-room/view/${doc.slug}`}
-                            className="shrink-0 inline-flex items-center justify-center gap-2 font-accent font-semibold uppercase text-xs tracking-wider px-5 py-2.5 rounded-xl bg-transparent text-primary-800 border-2 border-primary-800 hover:bg-primary-800 hover:text-white transition-all duration-300"
-                          >
-                            <Eye className="w-4 h-4" />
-                            View
-                          </Link>
+                          {doc.href ? (
+                            <a
+                              href={doc.href}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="shrink-0 inline-flex items-center justify-center gap-2 font-accent font-semibold uppercase text-xs tracking-wider px-5 py-2.5 rounded-xl bg-transparent text-primary-800 border-2 border-primary-800 hover:bg-primary-800 hover:text-white transition-all duration-300"
+                            >
+                              <Eye className="w-4 h-4" />
+                              View PDF
+                            </a>
+                          ) : (
+                            <Link
+                              href={`/data-room/view/${doc.slug}`}
+                              className="shrink-0 inline-flex items-center justify-center gap-2 font-accent font-semibold uppercase text-xs tracking-wider px-5 py-2.5 rounded-xl bg-transparent text-primary-800 border-2 border-primary-800 hover:bg-primary-800 hover:text-white transition-all duration-300"
+                            >
+                              <Eye className="w-4 h-4" />
+                              View
+                            </Link>
+                          )}
                         </div>
                       ))}
                     </div>
