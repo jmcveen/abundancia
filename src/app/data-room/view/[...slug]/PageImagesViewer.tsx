@@ -20,13 +20,14 @@ export function PageImagesViewer({ title, pages }: { title: string; pages: PageI
   const [step, setStep] = useState(0)
   const zoom = ZOOM_STEPS[step]
   const btn =
-    'inline-flex items-center justify-center w-9 h-9 rounded-lg border border-neutral-200 bg-white text-primary-800 hover:bg-primary-50 disabled:opacity-40 disabled:hover:bg-white transition-colors'
+    'inline-flex items-center justify-center w-8 h-8 sm:w-9 sm:h-9 rounded-lg border border-neutral-200 bg-white text-primary-800 hover:bg-primary-50 disabled:opacity-40 disabled:hover:bg-white transition-colors'
 
   return (
     <div className="max-w-5xl mx-auto">
-      <div className="flex items-center justify-between gap-3 mb-4">
-        <h1 className="font-display text-2xl sm:text-3xl text-primary-800 leading-tight">{title}</h1>
-        <div className="flex items-center gap-2 shrink-0">
+      {/* Title + zoom stay pinned under the data room top bar while scrolling (Kelly, 2026-09-30) */}
+      <div className="sticky top-[40px] sm:top-[46px] z-30 -mx-4 sm:mx-0 px-4 sm:px-3 py-2.5 mb-4 flex items-center justify-between gap-3 bg-canvas/95 backdrop-blur-xl border-b border-neutral-200 sm:rounded-b-xl">
+        <h1 className="font-display text-[15px] tracking-normal sm:tracking-[inherit] sm:text-3xl text-primary-800 leading-tight min-w-0">{title}</h1>
+        <div className="flex items-center gap-1.5 sm:gap-2 shrink-0">
           <button type="button" className={btn} onClick={() => setStep(s => Math.max(0, s - 1))} disabled={step === 0} aria-label="Zoom out">
             <ZoomOut className="w-4 h-4" />
           </button>
