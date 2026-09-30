@@ -9,7 +9,7 @@ export interface PageImage {
   height: number
 }
 
-const ZOOM_STEPS = [1, 1.5, 2, 3]
+const ZOOM_STEPS = [1, 1.5, 2, 3, 4]
 
 /**
  * Shows a document as a stack of page images inside the data room, with zoom
@@ -51,6 +51,7 @@ export function PageImagesViewer({ title, pages }: { title: string; pages: PageI
               height={p.height}
               alt={`${title}, page ${i + 1} of ${pages.length}`}
               loading={i < 2 ? 'eager' : 'lazy'}
+              decoding="async"
               draggable={false}
               className="block w-full h-auto bg-white rounded-xl shadow-lg border border-neutral-100 select-none"
             />
