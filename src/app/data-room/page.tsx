@@ -28,6 +28,7 @@ const DOCUMENT_CATEGORIES = [
     name: 'Financial Model',
     icon: FileText,
     documents: [
+      { name: 'Phase 1 Financial Model', slug: 'financial/phase-1-financial-model', doc: '35' },
       { name: 'Financial Projections (10-Year)', slug: 'financial/financial-projections', doc: '06' },
       { name: 'Unit Economics Model', slug: 'financial/unit-economics', doc: '07' },
       { name: 'Sensitivity Analysis', slug: 'financial/sensitivity-analysis', doc: '08' },

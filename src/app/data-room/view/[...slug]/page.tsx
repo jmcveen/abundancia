@@ -6,6 +6,7 @@ import Link from 'next/link'
 import { ArrowLeft } from 'lucide-react'
 import { MarkdownViewer } from './MarkdownViewer'
 import { PrintButton } from './PrintButton'
+import { PageImagesViewer, type PageImage } from './PageImagesViewer'
 
 const DOCS_DIR = join(process.cwd(), 'docs/data-room')
 
@@ -58,8 +59,35 @@ const DOCUMENT_MAP: Record<string, DocumentEntry> = {
   'compliance/ongoing-reporting': { file: 'compliance/28-ongoing-reporting.md', category: 'Regulatory Compliance' },
 }
 
+
+// Documents shown as page images (e.g. a spreadsheet export) instead of markdown.
+// The images live under /data-room/ so the middleware password gate protects them,
+// and there is deliberately no PDF file to download (Kelly, 2026-09-29).
+const PAGE_DOCS: Record<string, { category: string; pages: PageImage[] }> = {
+  'financial/phase-1-financial-model': {
+    category: 'Financial Model',
+    pages: [
+      { src: '/data-room/files/phase-1-financial-model/page-01.webp', width: 3602, height: 4429 },
+      { src: '/data-room/files/phase-1-financial-model/page-02.webp', width: 4397, height: 3349 },
+      { src: '/data-room/files/phase-1-financial-model/page-03.webp', width: 4394, height: 3338 },
+      { src: '/data-room/files/phase-1-financial-model/page-04.webp', width: 4390, height: 3338 },
+      { src: '/data-room/files/phase-1-financial-model/page-05.webp', width: 3501, height: 4552 },
+      { src: '/data-room/files/phase-1-financial-model/page-06.webp', width: 3501, height: 4565 },
+      { src: '/data-room/files/phase-1-financial-model/page-07.webp', width: 3435, height: 4641 },
+      { src: '/data-room/files/phase-1-financial-model/page-08.webp', width: 3517, height: 4530 },
+      { src: '/data-room/files/phase-1-financial-model/page-09.webp', width: 3501, height: 4556 },
+      { src: '/data-room/files/phase-1-financial-model/page-10.webp', width: 3501, height: 4556 },
+      { src: '/data-room/files/phase-1-financial-model/page-11.webp', width: 4391, height: 3308 },
+      { src: '/data-room/files/phase-1-financial-model/page-12.webp', width: 4391, height: 3320 },
+      { src: '/data-room/files/phase-1-financial-model/page-13.webp', width: 4398, height: 3350 },
+      { src: '/data-room/files/phase-1-financial-model/page-14.webp', width: 4392, height: 3379 },
+      { src: '/data-room/files/phase-1-financial-model/page-15.webp', width: 4392, height: 3411 },
+    ],
+  },
+}
+
 export function generateStaticParams() {
-  return Object.keys(DOCUMENT_MAP).map(key => ({
+  return [...Object.keys(DOCUMENT_MAP), ...Object.keys(PAGE_DOCS)].map(key => ({
     slug: key.split('/'),
   }))
 }
@@ -68,6 +96,7 @@ export function generateStaticParams() {
 const TITLE_OVERRIDES: Record<string, string> = {
   'legal/mud-bond-framework': 'MUD Bond Framework',
   'compliance/aml-kyc-procedures': 'AML-KYC Procedures',
+  'financial/phase-1-financial-model': 'Phase 1 Financial Model',
 }
 
 function docTitle(slugPath: string): string {
@@ -87,7 +116,7 @@ export async function generateMetadata({
   params: { slug: string[] }
 }): Promise<Metadata> {
   const slugPath = params.slug.join('/')
-  const doc = DOCUMENT_MAP[slugPath]
+  const doc = DOCUMENT_MAP[slugPath] ?? PAGE_DOCS[slugPath]
   const name = doc ? `Abundancia - ${docTitle(slugPath)}` : 'Abundancia Data Room'
   return { title: { absolute: name } }
 }
@@ -98,16 +127,20 @@ export default async function DocumentViewerPage({
   params: { slug: string[] }
 }) {
   const slugPath = params.slug.join('/')
+  const pageDoc = PAGE_DOCS[slugPath]
   const doc = DOCUMENT_MAP[slugPath]
 
-  if (!doc) notFound()
+  if (!doc && !pageDoc) notFound()
 
-  let content: string
-  try {
-    content = await readFile(join(DOCS_DIR, doc.file), 'utf-8')
-  } catch {
-    notFound()
+  let content = ''
+  if (doc) {
+    try {
+      content = await readFile(join(DOCS_DIR, doc.file), 'utf-8')
+    } catch {
+      notFound()
+    }
   }
+  const category = doc?.category ?? pageDoc.category
 
   return (
     <div className="min-h-screen bg-canvas print:bg-white relative -mt-24 print:mt-0 pt-0 print:pt-0">
@@ -123,15 +156,18 @@ export default async function DocumentViewerPage({
           </Link>
           <div className="flex items-center gap-3 sm:gap-4">
             <span className="hidden sm:block font-accent text-xs uppercase tracking-widest text-neutral-500">
-              {doc.category}
+              {category}
             </span>
-            <PrintButton />
+            {!pageDoc && <PrintButton />}
           </div>
         </div>
       </div>
 
       {/* Document content */}
       <article className="w-full sm:w-[70vw] mx-auto px-4 sm:px-6 pt-5 sm:pt-10 pb-12 sm:pb-16 print:py-0 print:w-full print:px-0">
+        {pageDoc ? (
+          <PageImagesViewer title={docTitle(slugPath)} pages={pageDoc.pages} />
+        ) : (
         <div className="max-w-4xl mx-auto print:max-w-none">
           <div className="bg-white rounded-xl shadow-lg border border-neutral-100 overflow-hidden print:shadow-none print:border-0 print:rounded-none">
             <div className="px-6 sm:px-10 lg:px-12 py-8 sm:py-10 lg:py-12 print:px-0 print:py-0">
@@ -139,6 +175,7 @@ export default async function DocumentViewerPage({
             </div>
           </div>
         </div>
+        )}
       </article>
 
       {/* Bottom navigation */}
