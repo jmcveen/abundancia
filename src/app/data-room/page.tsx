@@ -13,6 +13,7 @@ const DOCUMENT_CATEGORIES = [
     name: 'Investment Documents',
     icon: TrendingUp,
     documents: [
+      { name: 'Business Plan', slug: 'investment/business-plan', doc: '36' },
       { name: 'Executive Summary', slug: 'investment/executive-summary', doc: '01' },
       { name: 'Investor Presentation', slug: 'investment/investor-presentation', doc: '02' },
       { name: 'Private Placement Memorandum', slug: 'investment/private-placement-memorandum', doc: '03' },
