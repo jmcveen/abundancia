@@ -63,6 +63,15 @@ const DOCUMENT_MAP: Record<string, DocumentEntry> = {
 // Documents shown as page images (e.g. a spreadsheet export) instead of markdown.
 // The images live under /data-room/ so the middleware password gate protects them,
 // and there is deliberately no PDF file to download (Kelly, 2026-09-29).
+// Text documents exported page-by-page at 200 dpi (US Letter, 1700x2200).
+function letterPages(dir: string, count: number): PageImage[] {
+  return Array.from({ length: count }, (_, i) => ({
+    src: `/data-room/files/${dir}/page-${String(i + 1).padStart(3, '0')}.webp`,
+    width: 1700,
+    height: 2200,
+  }))
+}
+
 const PAGE_DOCS: Record<string, { category: string; pages: PageImage[] }> = {
   'financial/phase-1-financial-model': {
     category: 'Financial Model',
@@ -84,6 +93,10 @@ const PAGE_DOCS: Record<string, { category: string; pages: PageImage[] }> = {
       { src: '/data-room/files/phase-1-financial-model/page-15.webp', width: 4392, height: 3411 },
     ],
   },
+  'investment/business-plan': {
+    category: 'Investment Documents',
+    pages: letterPages('abundancia-business-plan', 113),
+  },
 }
 
 export function generateStaticParams() {
@@ -97,6 +110,7 @@ const TITLE_OVERRIDES: Record<string, string> = {
   'legal/mud-bond-framework': 'MUD Bond Framework',
   'compliance/aml-kyc-procedures': 'AML-KYC Procedures',
   'financial/phase-1-financial-model': 'Phase 1 Financial Model',
+  'investment/business-plan': 'Business Plan',
 }
 
 function docTitle(slugPath: string): string {
