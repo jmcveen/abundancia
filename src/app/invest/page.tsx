@@ -223,7 +223,7 @@ const FAQ_ITEMS = [
   },
   {
     question: 'What are the projected returns?',
-    answer: 'Base case: 32% IRR with 4.42x equity multiple over a 10-year hold. Conservative scenario: 24% IRR / 3.0x. Optimistic: 45% IRR / 5.5x. Accredited investors only. Projected returns are forward-looking and not guaranteed. Use the scenario toggle on this page to explore all three projections.',
+    answer: 'Phase 1 base case over a 10-year hold: Election A (LP equity) projects a 26.0% LP IRR and 2.45x equity multiple; Election B (LP equity plus secured notes) projects 34.8% and 3.65x. Election B is higher because the notes take a fixed 10% with no upside and rank behind the construction lender. Accredited investors only. Projected returns are forward-looking and not guaranteed.',
   },
   {
     question: 'What makes hempcrete special?',
@@ -235,7 +235,7 @@ const FAQ_ITEMS = [
   },
   {
     question: 'When does the project generate cash flow?',
-    answer: 'Phase 1 retreat center operations generate revenue within 12-18 months. Home sales begin in Year 1-2. The phased model means later phases are funded by earlier phase revenues.',
+    answer: 'Phase 1 revenue begins in Year 2, from micro villa and lot sales plus the nature stays and event residence. Distributions are projected to start that year, with LP capital fully returned by Year 3. Later phases are financed separately and are not part of this offering.',
   },
   {
     question: 'How do I get started?',
