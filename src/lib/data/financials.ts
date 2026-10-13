@@ -242,22 +242,26 @@ export const UNIT_MIX = [
   { type: 'Residential Lots', phase: 1, count: 100, avgPrice: 150_000, avgSF: 0, avgNightly: 0, revenue10yr: 10_817_449 },
 ]
 
-// ─── Use of Funds — Phase-1 Year-1 draw ──────────────────────────────────
-// Source: Phase-1 model, Year-1 column. These are the Year-1 construction and
-// land uses ($14,109,934). The balance of the $15,939,072 raised covers Year-1
-// debt service ($1,173,539) and the developer fee, leaving a working cushion.
+// ─── Use of Funds — the $15,939,072 Phase-1 raise ────────────────────────
+// Source: investor deck slide 18, "Phase 1 Capital Requirement" (Kelly,
+// 2026-10-13: "use the deck slide 18 for use of funds"). Year-1 build lines
+// ($14,118,060) + Year-1 construction-loan P&I + the reserve carried into
+// Year 2 = the full raise. Percentages are of the $15.9M raise, rounded so
+// they sum to 100 (the deck shows them as shares of the $15.29M Year-1 uses).
 
 export const USE_OF_FUNDS = [
-  { name: 'Land Acquisition', value: 3_505_253, percentage: 25, color: '#1E4528' },
-  { name: 'Nature-Stay & Rental Build', value: 2_186_574, percentage: 15, color: '#2D6B3F' },
-  { name: 'Amenities & Commercial', value: 3_195_000, percentage: 23, color: '#4A8C5C' },
-  { name: 'Site Work & Infrastructure', value: 1_621_762, percentage: 11, color: '#6DAF7B' },
-  { name: 'Soft Costs (A&E, permits, DD)', value: 1_119_044, percentage: 8, color: '#8FC79B' },
-  { name: 'Staffing, Ops & Marketing', value: 1_199_579, percentage: 9, color: '#C4956A' },
-  { name: 'Contingency (10%)', value: 1_282_721, percentage: 9, color: '#A67C52' },
+  { name: 'Land Acquisition', value: 3_505_253, percentage: 22, color: '#1E4528' },
+  { name: 'Amenities & Commercial', value: 3_212_500, percentage: 20, color: '#2D6B3F' },
+  { name: 'Site Work', value: 2_013_097, percentage: 13, color: '#4A8C5C' },
+  { name: 'Operational Expenses', value: 1_466_240, percentage: 9, color: '#6DAF7B' },
+  { name: 'Rentals (construction)', value: 1_416_574, percentage: 9, color: '#8FC79B' },
+  { name: 'Soft Costs', value: 1_220_936, percentage: 8, color: '#AED6B5' },
+  { name: 'Contingency (10%)', value: 1_283_460, percentage: 8, color: '#C4956A' },
+  { name: 'Construction Debt Carry (Yr 1 P&I)', value: 1_173_539, percentage: 7, color: '#A67C52' },
+  { name: 'Reserve carried into Year 2', value: 647_473, percentage: 4, color: '#D9C3A0' },
 ]
 
-export const USE_OF_FUNDS_TOTAL = 14_109_933
+export const USE_OF_FUNDS_TOTAL = 15_939_072
 
 // ─── Waterfall Distribution ──────────────────────────────────────────────
 // Source: both Phase-1 waterfall workbooks (identical terms).

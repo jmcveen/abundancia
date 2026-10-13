@@ -42,13 +42,15 @@ const UNIT_DETAILS: Record<string, string> = {
 }
 
 const USE_OF_FUNDS_DETAILS: Record<string, string> = {
-  'Land Acquisition': 'Securing the 380-acre site in Bastrop County: the 40% down payment on the $6.5M purchase price, closing costs, and the first year of payments on the $3.9M land loan.',
-  'Nature-Stay & Rental Build': 'The 60-unit nature-stay portfolio that opens in 2028, the Phase 1 revenue engine, including the ten Regen Villas built through natural-building workshops.',
-  'Amenities & Commercial': 'The community core that opens in Year 1: the Community Center, the Wellness & Longevity Center, and the parks and recreation areas woven through the site.',
-  'Site Work & Infrastructure': 'Roads, water, power, fiber and the regenerative systems everything else depends on, front-loaded so later phases build onto finished ground.',
-  'Soft Costs (A&E, permits, DD)': 'Due diligence, master planning, architecture and engineering, and the permitting and legal work that clears the way to build.',
-  'Staffing, Ops & Marketing': 'The team, the operating costs of a live site, and the marketing that turns the 10,000-person interest list into Phase 1 buyers.',
-  'Contingency (10%)': 'A 10% contingency on the Year 1 build, held against cost overruns and delays. Beyond the Year 1 uses, the $15.9M also covers the first year of construction-loan payments ($1.17M) and leaves a reserve of about $656K for Year 2.',
+  'Land Acquisition': '$3,505,253: securing the 380-acre site in Bastrop County with 40% down on the $6.5M purchase price, closing costs, and the first year of payments on the $3.9M land loan.',
+  'Amenities & Commercial': '$3,212,500: the community core that opens in Year 1, including the Community Center, the Wellness & Longevity Center, and the parks and recreation areas.',
+  'Site Work': '$2,013,097: roads, water, power, fiber and the regenerative systems everything else depends on, front-loaded so later phases build onto finished ground.',
+  'Operational Expenses': '$1,466,240: the team, the operating costs of a live site, and the marketing that turns the 10,000-person interest list into Phase 1 buyers.',
+  'Rentals (construction)': '$1,416,574: building the nature-stay portfolio that opens in 2028, the Phase 1 revenue engine, including the ten Regen Villas built through natural-building workshops.',
+  'Soft Costs': '$1,220,936: due diligence, master planning, architecture and engineering, and the permitting and legal work that clears the way to build.',
+  'Contingency (10%)': '$1,283,460: a 10% contingency on the Year 1 program, held against cost overruns and delays.',
+  'Construction Debt Carry (Yr 1 P&I)': '$1,173,539: the first year of principal and interest on the $7.7M construction loan, funded from the raise.',
+  'Reserve carried into Year 2': '$647,473: what remains of the $15.9M after every Year 1 use, held as a cash reserve going into Year 2.',
 }
 
 const WATERFALL_DETAILS: Record<string, string> = {

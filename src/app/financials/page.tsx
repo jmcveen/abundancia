@@ -58,55 +58,40 @@ const FUND_DETAILS: Record<string, { description: string; lineItems: { item: str
       { item: 'Year-1 Land Loan Service ($3.9M @ 8%)', amount: '$580,253' },
     ],
   },
-  'Nature-Stay & Rental Build': {
-    description: 'The 60-unit nature-stay portfolio that opens in 2028 — the Phase-1 revenue engine and the top of the ownership funnel, including the ten Regen Villas built through natural-building workshops.',
-    lineItems: [
-      { item: 'Glamping tents, domes & camping sites (50)', amount: 'included' },
-      { item: 'Regen Villas — 10 material systems', amount: 'included' },
-      { item: 'Total nature-stay build (14,946 SF)', amount: '$2,186,574' },
-    ],
-  },
   'Amenities & Commercial': {
     description: 'The community core that opens in Year 1: the Community Center, the Wellness & Longevity Center, and the parks and recreation areas woven through the site.',
-    lineItems: [
-      { item: 'Community Center (5,000 SF)', amount: '$1,537,500' },
-      { item: 'Wellness / Longevity Center & Spa (5,000 SF)', amount: '$1,537,500' },
-      { item: 'Parks & Recreation Areas (8)', amount: '$120,002' },
-    ],
+    lineItems: [{ item: 'Year-1 amenities & commercial', amount: '$3,212,500' }],
   },
-  'Site Work & Infrastructure': {
-    description: 'Roads, water, power, fiber and the regenerative systems that everything else depends on — front-loaded so later phases build onto finished ground.',
-    lineItems: [
-      { item: 'Earthworks, roads, paths & gutters', amount: 'included' },
-      { item: 'Water, wells, storage & filtration', amount: 'included' },
-      { item: 'Power, fiber, biodigester wastewater', amount: 'included' },
-      { item: 'Total Year-1 site work', amount: '$1,621,762' },
-    ],
+  'Site Work': {
+    description: 'Roads, water, power, fiber and the regenerative systems that everything else depends on, front-loaded so later phases build onto finished ground.',
+    lineItems: [{ item: 'Year-1 site work', amount: '$2,013,097' }],
   },
-  'Soft Costs (A&E, permits, DD)': {
+  'Operational Expenses': {
+    description: 'The team, the operating costs of a live site, and the marketing that turns the 10,000-person interest list into Phase-1 buyers.',
+    lineItems: [{ item: 'Year-1 operations, staffing & marketing', amount: '$1,466,240' }],
+  },
+  'Rentals (construction)': {
+    description: 'Building the nature-stay portfolio that opens in 2028, the Phase-1 revenue engine, including the ten Regen Villas built through natural-building workshops.',
+    lineItems: [{ item: 'Year-1 rental construction', amount: '$1,416,574' }],
+  },
+  'Soft Costs': {
     description: 'Due diligence, master planning, architecture and engineering, and the permitting and legal work that clears the way to build.',
-    lineItems: [
-      { item: 'Due Diligence (incl. hydrology & water feasibility)', amount: '$142,080' },
-      { item: 'Master Planning & Consultants', amount: '$576,058' },
-      { item: 'Architecture & Engineering', amount: '$275,333' },
-      { item: 'Legal & Permits', amount: '$125,573' },
-    ],
-  },
-  'Staffing, Ops & Marketing': {
-    description: 'The team, the operating costs of a live site, and the marketing that converts the existing 10,000-person interest list into Phase-1 buyers.',
-    lineItems: [
-      { item: 'Staffing', amount: '$416,910' },
-      { item: 'Marketing', amount: '$295,000' },
-      { item: 'Taxes & Insurance', amount: '$231,000' },
-      { item: 'Utilities & Sanitation', amount: '$147,869' },
-      { item: 'Accounting & Capital Expenses', amount: '$108,800' },
-    ],
+    lineItems: [{ item: 'Year-1 soft costs', amount: '$1,220,936' }],
   },
   'Contingency (10%)': {
-    description: 'A 10% contingency applied across the Phase-1 program for cost escalation, timing, and the unforeseen. Phase 1 carries $3,649,484 of contingency across the full ten years.',
+    description: 'A 10% contingency on the Year-1 program for cost escalation, timing, and the unforeseen.',
+    lineItems: [{ item: 'Year-1 contingency (10%)', amount: '$1,283,460' }],
+  },
+  'Construction Debt Carry (Yr 1 P&I)': {
+    description: 'The first year of principal and interest on the $7,700,000 construction loan (8.5%, 10-year amortizing), funded from the raise so Year-1 operations never carry it.',
+    lineItems: [{ item: 'Year-1 construction-loan payments', amount: '$1,173,539' }],
+  },
+  'Reserve carried into Year 2': {
+    description: 'What remains of the $15,939,072 after every Year-1 use, held as a cash reserve going into Year 2.',
     lineItems: [
-      { item: 'Year-1 contingency (10%)', amount: '$1,282,721' },
-      { item: 'Phase-1 contingency, 10-year total', amount: '$3,649,484' },
+      { item: 'Total raise', amount: '$15,939,072' },
+      { item: 'Less Year-1 uses', amount: '−$15,291,599' },
+      { item: 'Reserve into Year 2', amount: '$647,473' },
     ],
   },
 }
@@ -643,13 +628,13 @@ function FinancialsContent() {
         <div className="section-container">
           <FadeIn>
             <div className="text-center mb-14">
-              <span className="eyebrow mb-3 block">$14.1M Year-1 Draw</span>
+              <span className="eyebrow mb-3 block">$15.9M Phase 1 Raise</span>
               <h2 className="font-display text-4xl md:text-5xl text-neutral-900 mb-4">
                 Use of Funds
               </h2>
               <p className="max-w-2xl mx-auto text-sm text-neutral-600 mb-2">
-                The Year-1 construction and land draw. The balance of the $15,939,072 raised
-                covers Year-1 debt service and the developer fee, leaving a working cushion.
+                Every dollar of the $15,939,072 raise: the $14,118,060 Year-1 build, the first year of
+                construction-loan payments, and a reserve carried into Year 2.
               </p>
               <p className="font-accent text-sm text-neutral-500">Click any category for line-item detail</p>
             </div>

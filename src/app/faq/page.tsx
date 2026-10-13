@@ -101,7 +101,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'What does the $15.9M fund?',
-        a: 'The $15.9M covers Phase 1 through Year 1: land acquisition (22%), amenities and commercial spaces (20%), the nature-stay and rental build (14%), site work and infrastructure (10%), staffing, operations and marketing (8%), a 10% contingency (8%), soft costs such as design, permits and due diligence (7%), the first year of construction-loan payments (7%), and a reserve of about $656K carried into Year 2 (4%).',
+        a: 'The $15.9M covers Phase 1 through Year 1: land acquisition ($3.51M, 22%), amenities and commercial spaces ($3.21M, 20%), site work ($2.01M, 13%), operational expenses ($1.47M, 9%), rental construction ($1.42M, 9%), soft costs such as design, permits and due diligence ($1.22M, 8%), a 10% contingency ($1.28M, 8%), the first year of construction-loan payments ($1.17M, 7%), and a $647K reserve carried into Year 2 (4%).',
         links: [
           { text: 'View Construction Budget', href: '/data-room/view/property/construction-budget' },
           { text: 'Executive Summary', href: '/data-room/view/investment/executive-summary' },
