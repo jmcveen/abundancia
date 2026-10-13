@@ -54,7 +54,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'How many homes will there be?',
-        a: 'The full buildout includes 511 total units: 100 single-family homes, 275 condominiums, 60 tiny residential units (tiny homes, domes, and other unique designs), 75 rental multifamily condos, 50 special rental units, 100 lots, plus community and commercial spaces. All residential construction uses hempcrete or other approved regenerative materials - carbon-negative, fire-resistant building materials with a 500+ year lifespan.',
+        a: 'The full master plan includes 100 single-family homes (90 standard and 10 luxury estates), 275 condominiums (200 for sale and 75 kept as rentals), 60 micro villas, 60 nature-stay units (glamping tents, domes, creekside camping and 10 Regen Villas), 100 estate lots, a retreat and event residence, and 12 commercial spaces. Phase 1, the current offering, builds the micro villas, the nature stays, 80 of the lots and the event residence. All residential construction uses hempcrete or other approved regenerative materials - carbon-negative, fire-resistant building materials with a 500+ year lifespan.',
         links: [
           { text: 'Hempcrete Construction Details', href: '/data-room/view/regenerative/hempcrete-construction' },
           { text: 'View Unit Economics', href: '/data-room/view/financial/unit-economics' },
@@ -68,7 +68,7 @@ const FAQ_SECTIONS = [
     faqs: [
       {
         q: 'What is the minimum investment?',
-        a: 'The $15.9M capital raise is structured for accredited investors under Reg D 506(c). Contact our capital markets team for minimum investment details and terms. The offering is designed to attract both institutional and individual accredited investors.',
+        a: 'The minimum investment is $50,000. Phase 1 is a $15.9M total capitalization: $7.74M from investors, a $500K co-investment from the managing partner, and $7.7M of construction debt. Investors choose Election A (LP equity) or Election B (LP equity plus $4M of secured notes). Open to accredited investors only, under Reg D 506(c).',
         links: [
           { text: 'View Investment Details', href: '/invest' },
           { text: 'Apply to Invest', href: '/invest/apply' },
@@ -76,9 +76,9 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'What are the projected returns?',
-        a: 'Base case projections: 32% IRR with a 4.42x equity multiple over a 10-year hold. Conservative scenario: 24% IRR / 3.0x. Optimistic: 45% IRR / 5.5x. This offering is available to accredited investors only, and projected returns are not guaranteed. Returns are driven by four diversified revenue streams across residential sales, rentals, lot sales, and commercial leasing.',
+        a: 'Phase 1 base case over a 10-year hold: Election A (LP equity) projects a 26.0% LP IRR and a 2.45x equity multiple. Election B (LP equity plus secured notes) projects a 34.8% LP IRR and 3.65x. Over 5 years the figures are 20.1% / 1.65x and 28.0% / 2.10x. Election B is higher because the notes take a fixed 10% interest with no share of the upside and rank behind the construction lender, so the same profit is shared across a smaller equity base. Projected returns are forward-looking and not guaranteed. Accredited investors only.',
         links: [
-          { text: 'Explore the Financial Model', href: '/model' },
+          { text: 'Explore the Financial Model', href: '/financials' },
           { text: 'View Financial Projections', href: '/data-room/view/financial/financial-projections' },
           { text: 'Sensitivity Analysis', href: '/data-room/view/financial/sensitivity-analysis' },
         ],
@@ -93,7 +93,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'When do investors receive distributions?',
-        a: 'Distributions begin when Phase 1 operations generate sufficient cash flow - projected within 12-18 months. Quarterly reporting with annual K-1s. The retreat center and initial home sales drive early cash flow, with distributions increasing as later phases come online.',
+        a: 'Distributions are projected to begin in Year 2, when the micro villas and lots are selling and the nature stays are open, and LP capital is projected to be fully returned by Year 3. A 20% reserve is held back from cash flow each year and released in Year 10. Investors receive quarterly reporting and annual K-1s.',
         links: [
           { text: 'View Timeline', href: '/timeline' },
           { text: 'Financial Projections', href: '/data-room/view/financial/financial-projections' },
@@ -101,7 +101,7 @@ const FAQ_SECTIONS = [
       },
       {
         q: 'What does the $15.9M fund?',
-        a: 'Land acquisition (32%), hard costs (14%), site work (14%), master planning (11%), staffing & operations (6%), marketing (5%), and contingency (18%). This funds the complete vision through Phase 1 revenue generation. The 18% contingency is well above industry standard, providing a substantial buffer against cost overruns.',
+        a: 'The $15.9M covers Phase 1 through Year 1: land acquisition (22%), amenities and commercial spaces (20%), the nature-stay and rental build (14%), site work and infrastructure (10%), staffing, operations and marketing (8%), a 10% contingency (8%), soft costs such as design, permits and due diligence (7%), the first year of construction-loan payments (7%), and a reserve of about $656K carried into Year 2 (4%).',
         links: [
           { text: 'View Construction Budget', href: '/data-room/view/property/construction-budget' },
           { text: 'Executive Summary', href: '/data-room/view/investment/executive-summary' },

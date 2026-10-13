@@ -51,7 +51,7 @@ const METRIC_EXPLANATIONS: Record<string, { title: string; body: string; methodo
 
 const FUND_DETAILS: Record<string, { description: string; lineItems: { item: string; amount: string }[] }> = {
   'Land Acquisition': {
-    description: 'Securing the 376-acre site in Cedar Creek, Bastrop County: $6,500,000 purchase price at 40% down, closing costs, and the first year of land-loan service on the $3,900,000 balance.',
+    description: 'Securing the 380-acre site in Bastrop County: $6,500,000 purchase price at 40% down, closing costs, and the first year of land-loan service on the $3,900,000 balance.',
     lineItems: [
       { item: 'Down Payment (40% of $6,500,000)', amount: '$2,600,000' },
       { item: 'Closing Costs (5%)', amount: '$325,000' },
