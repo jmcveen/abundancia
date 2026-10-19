@@ -10,6 +10,12 @@ const nextConfig = {
         destination: '/story/community/homebuyer',
         permanent: true,
       },
+      {
+        source: '/whatsapp',
+        destination:
+          'https://chat.whatsapp.com/F8aoMpCrxCIKCxM0N68iQu?s=qt&p=i&mlu=4&ilr=4&iam=0',
+        permanent: false,
+      },
     ]
   },
   async headers() {

@@ -679,7 +679,7 @@ export default function HomePage() {
       </section>
 
       {/* ═══ COMMUNITY JOIN FORM — Embedded lead capture ═══ */}
-      <section className="py-28 md:py-40 bg-[#fafaf8]">
+      <section id="join" className="scroll-mt-28 py-28 md:py-40 bg-[#fafaf8]">
         <div className="section-container">
           <div className="max-w-2xl mx-auto">
             <FadeIn>
