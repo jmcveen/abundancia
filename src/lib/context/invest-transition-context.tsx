@@ -52,9 +52,20 @@ export function InvestTransitionProvider({ children }: { children: React.ReactNo
         href.startsWith('tel') ||
         anchor.target === '_blank'
       ) return
+      // Same-page links (e.g. "/#join" while already on "/") never change the
+      // pathname, so the loader would never be dismissed and would cover the
+      // page forever. Let the browser just scroll instead.
+      const url = new URL(href, window.location.href)
+      if (url.origin === window.location.origin && url.pathname === window.location.pathname) return
       if (lockRef.current) return
       lockRef.current = true
       setIsTransitioning(true)
+      // Safety net: never leave the loader up if a navigation doesn't happen.
+      if (dismissTimerRef.current) clearTimeout(dismissTimerRef.current)
+      dismissTimerRef.current = setTimeout(() => {
+        setIsTransitioning(false)
+        lockRef.current = false
+      }, 4000)
     }
 
     document.addEventListener('click', handleClick)
