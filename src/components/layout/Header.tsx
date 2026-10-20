@@ -246,7 +246,7 @@ export function Header() {
 
             {/* CTA Button */}
             <Link
-              href="/invest"
+              href="/#join"
               className="ml-3 btn-accent btn-sm rounded-lg"
             >
               Get Involved
@@ -327,7 +327,7 @@ export function Header() {
                 ))}
 
                 <div className="pt-3 border-t border-black/[0.04] mt-2">
-                  <Link href="/invest" className="btn-accent btn-md w-full rounded-lg text-xs">
+                  <Link href="/#join" className="btn-accent btn-md w-full rounded-lg text-xs">
                     Get Involved
                   </Link>
                 </div>
