@@ -327,7 +327,7 @@ export function Header() {
                 ))}
 
                 <div className="pt-3 border-t border-black/[0.04] mt-2">
-                  <Link href="/#join" className="btn-accent btn-md w-full rounded-lg text-xs">
+                  <Link href="/#join" onClick={() => setIsMobileMenuOpen(false)} className="btn-accent btn-md w-full rounded-lg text-xs">
                     Get Involved
                   </Link>
                 </div>

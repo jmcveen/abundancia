@@ -17,6 +17,18 @@ function isRecentlyDismissed(): boolean {
   return Date.now() < Number(expiry)
 }
 
+// The home page has the same sign-up form inline (#join). Never cover it with
+// the popup: not when someone arrived via Get Involved (/#join), and not while
+// the form is already on screen.
+function isJoinFormInView(): boolean {
+  if (typeof window === 'undefined') return false
+  if (window.location.hash === '#join') return true
+  const el = document.getElementById('join')
+  if (!el) return false
+  const r = el.getBoundingClientRect()
+  return r.top < window.innerHeight && r.bottom > 0
+}
+
 function shouldSuppress(): boolean {
   return isAlreadyCaptured() || isRecentlyDismissed()
 }
@@ -37,6 +49,7 @@ export function useLeadPopup() {
 
   const show = useCallback(() => {
     if (shouldSuppress() || hasTriggeredRef.current) return
+    if (isJoinFormInView()) return
     hasTriggeredRef.current = true
     setIsVisible(true)
   }, [])
