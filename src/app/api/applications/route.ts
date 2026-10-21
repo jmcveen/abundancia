@@ -300,36 +300,27 @@ async function sendUserReceipt(app: Application) {
     homebuyer: 'Homebuyer', investor: 'Investor', collaborator: 'Collaborator',
   }
 
-  const d = app.data
   const val = (v: unknown): string => (Array.isArray(v) ? v.join(', ') : (v != null ? String(v) : '')).trim()
 
-  // Pull a standout answer to weave naturally into the note (graceful fallbacks)
-  const rawHighlight =
-    app.type === 'homebuyer'    ? (val(d.whyLive) || val(d.dream) || val(d.values)) :
-    app.type === 'investor'     ? (val(d.whyInterested) || val(d.livingInterest)) :
-                                  (val(d.howContribute) || val(d.collabAreas) || val(d.skills))
-  // Normalize into a mid-sentence phrase: trim trailing punctuation, lowercase the first
-  // letter (unless it starts with "I "), truncate if very long, then escape for HTML.
-  let phrase = rawHighlight.replace(/[.\s]+$/, '')
-  if (phrase && !/^I\s/.test(phrase)) phrase = phrase.charAt(0).toLowerCase() + phrase.slice(1)
-  const hl = phrase ? escapeHtml(phrase.length > 220 ? phrase.slice(0, 217) + '…' : phrase) : ''
-
-  // Greeting + personalized note per type (answer woven in, no quotes, no timing promises)
+  // Greeting + note per type (no quotes, no timing promises)
   const greeting: Record<AppType, string> = {
     homebuyer:    `Thank you for applying to live at Abundancia, ${escapeHtml(app.firstName)}. 🌿`,
     collaborator: `Thank you for reaching out to collaborate, ${escapeHtml(app.firstName)}. 🌿`,
     investor:     `Thank you for your interest in Abundancia, ${escapeHtml(app.firstName)}. 🌿`,
   }
 
+  // Each applicant's own words appear in full under "Your application" below.
+  // They are never spliced into these sentences: real answers are first-person
+  // paragraphs, and splicing them produced broken grammar in live emails.
   const note: Record<AppType, string> = {
     homebuyer:
-      `We read every application personally, and yours moved us.${hl ? ` It means so much that you want to ${hl}, and that is exactly the life Abundancia is being built to make possible.` : ''} ` +
+      `We read every application personally, and we&apos;re so glad you reached out. Abundancia is being built for people who want to live this way. ` +
       `We&apos;ll keep you updated along the way, and we&apos;ll reach out as we get close to lot and home sales so you&apos;re among the first to know.`,
     collaborator:
-      `${hl ? `It&apos;s inspiring to hear that you&apos;re drawn to ${hl}. The community is being built by people who bring exactly this kind of gift, and our` : `We&apos;re grateful you want to help build something regenerative. Our`} ` +
+      `We&apos;re grateful you want to help build something regenerative. The community is being built by people who bring their gifts, and our ` +
       `team will review your application and be in touch to explore how we might work together.`,
     investor:
-      `${hl ? `It means a great deal that you&apos;re considering being part of this, and that you&apos;re drawn to ${hl}. That alignment is exactly what we hope for in our earliest partners.` : `It means a great deal that you&apos;re considering being part of this.`} ` +
+      `It means a great deal that you&apos;re considering being part of this. ` +
       `The best next step is a short call with Kelly to answer your questions and walk you through the opportunity and investor materials.`,
   }
 
