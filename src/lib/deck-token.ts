@@ -31,4 +31,4 @@ export function verifyDeckToken(token: string | undefined): DeckSession | null {
 }
 
 export const DECK_COOKIE = 'abundancia_deck'
-export const DECK_PAGE_COUNT = 24
+export const DECK_PAGE_COUNT = 50

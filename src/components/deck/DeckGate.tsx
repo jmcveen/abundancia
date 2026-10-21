@@ -5,7 +5,7 @@ import { createPortal } from 'react-dom'
 import { X, ChevronLeft, ChevronRight, FileText, Loader2 } from 'lucide-react'
 import { isValidEmail } from '@/lib/utils'
 
-const PAGES = 24
+const PAGES = 50
 
 export function DeckGate({
   label = 'View the Investment Deck',
